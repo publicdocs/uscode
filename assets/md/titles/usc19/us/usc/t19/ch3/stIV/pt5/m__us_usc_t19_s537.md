@@ -11,41 +11,29 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s536.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs537)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s536.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s538 _us_usc_t19_s539.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs537)
 
 ## § 537. Officers, informers, and defendants as witnesses
 
     No officer, or other person entitled to or claiming compensation under any provision of Act June 22, 1874 (chapter 391, 18 Statutes 188) shall be thereby disqualified from becoming a witness in any action, suit, or proceeding for the recovery, mitigation, or remission thereof, but shall be subject to examination and cross-examination in like manner with other witnesses, without being thereby deprived of any right, title, share, or interest in any fine, penalty, or forfeiture to which such examination may relate; and in every such case the defendant or defendants may appear and testify and be examined and cross-examined in like manner.
 
-([June 22, 1874, ch. 391, § 8][/us/act/1874-06-22/ch391/s8], [18 Stat. 188][/us/stat/18/188].)
+([June 22, 1874, ch. 391][/us/act/1874-06-22/ch391], § 8, [18 Stat. 188][/us/stat/18/188].)
 
  __References in Text__ 
 
-    Section 4 of Act June 22, 1874, referred to in text, providing for compensation to officers of the customs or other persons detecting goods being smuggled, was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989]. For corresponding provisions in the Tariff Act of 1930, see [section 1619 of this title][/us/usc/t19/s1619].
-
-§§ 538, 539. __Repealed.__  __[__  __June 17, 1930, ch. 497__  __][/us/act/1930-06-17/ch497]__  __, title IV, § 651(a)(1),__  __[__  __46 Stat. 762__  __][/us/stat/46/762]__  __, eff.__  __June 18, 1930__ 
-
-    Sections, [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, §§ 622, 623, [42 Stat. 988][/us/stat/42/988], related to extensions of time and general rules and regulations.
-
-    Provisions of Tariff Act of 1930 corresponding to section 538, see [section 1318 of this title][/us/usc/t19/s1318]; section 539, see [section 1624 of this title][/us/usc/t19/s1624].
+    Section 4 of Act June 22, 1874, referred to in text, providing for compensation to officers of the customs or other persons detecting goods being smuggled, was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989]. For corresponding provisions in the Tariff Act of 1930, see [section 1619 of this title][/us/usc/t19/s1619].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s536.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs537)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s536.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s538 _us_usc_t19_s539.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs537)
 
 ----------
 ----------
 
-[/us/act/1874-06-22/ch391/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch391%2Fs8
+[/us/act/1874-06-22/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch391
 [/us/stat/18/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F188
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/usc/t19/s1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1619
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
-[/us/stat/42/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F988
-[/us/usc/t19/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1318
-[/us/usc/t19/s1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1624
 
 

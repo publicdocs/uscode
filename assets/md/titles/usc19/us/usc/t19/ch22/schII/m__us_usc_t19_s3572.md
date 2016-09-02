@@ -105,7 +105,7 @@
 
         Not later than 4 years and 6 months after December 8, 1994, the Secretary of Commerce shall submit to the Congress a report on the review required under this subsection.
 
-([Pub. L. 103–465, title II, § 282][/us/pl/103/465/s282], Dec. 8, 1994, [108 Stat. 4927][/us/stat/108/4927]; [Pub. L. 104–295, § 20(b)(16)][/us/pl/104/295/s20/b/16], Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
+([Pub. L. 103–465, title II][/us/pl/103/465/tII], § 282, Dec. 8, 1994, [108 Stat. 4927][/us/stat/108/4927]; [Pub. L. 104–295][/us/pl/104/295], § 20(b)(16), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
 
  __Codification__ 
 
@@ -127,9 +127,9 @@
 ----------
 
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
-[/us/pl/103/465/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs282
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4927
-[/us/pl/104/295/s20/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F16
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
 [/us/pl/103/465/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs282
 [/us/pl/103/465/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs282

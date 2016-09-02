@@ -21,13 +21,13 @@
 
  __Codification__ 
 
-    R.S. § 249 derived from [act May 8, 1792, ch. 37, § 6][/us/act/1792-05-08/ch37/s6], [1 Stat. 280][/us/stat/1/280].
+    R.S. § 249 derived from [act May 8, 1792, ch. 37][/us/act/1792-05-08/ch37], § 6, [1 Stat. 280][/us/stat/1/280].
 
-    Section, prior to its incorporation into the Code, contained the words “and tonnage,” after “duties on imports”. These words were omitted as superseded by section 3 of the former Appendix to Title 46, Shipping, which charged the Chief of the Bureau of Navigation and Steamboat Inspection with the execution of the laws relating to the collection of the tonnage tax. Section 3 of the former Appendix to Title 46 was repealed by [Pub. L. 109–304, § 19][/us/pl/109/304/s19], Oct. 6, 2006, [120 Stat. 1710][/us/stat/120/1710].
+    Section, prior to its incorporation into the Code, contained the words “and tonnage,” after “duties on imports”. These words were omitted as superseded by section 3 of the former Appendix to Title 46, Shipping, which charged the Chief of the Bureau of Navigation and Steamboat Inspection with the execution of the laws relating to the collection of the tonnage tax. Section 3 of the former Appendix to Title 46 was repealed by [Pub. L. 109–304][/us/pl/109/304], § 19, Oct. 6, 2006, [120 Stat. 1710][/us/stat/120/1710].
 
  __Analysis Regarding CES Program; Effect on Implementation of Program__ 
 
-[Pub. L. 100–203, title IX, § 9501(c)][/us/pl/100/203/s9501/c], Dec. 22, 1987, [101 Stat. 1330–380][/us/stat/101/1330-380], as amended by [Pub. L. 103–182, title VI, § 691(b)(1)][/us/pl/103/182/s691/b/1], Dec. 8, 1993, [107 Stat. 2224][/us/stat/107/2224], provided that:
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9501(c), Dec. 22, 1987, [101 Stat. 1330–380][/us/stat/101/1330-380], as amended by [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 691(b)(1), Dec. 8, 1993, [107 Stat. 2224][/us/stat/107/2224]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210], provided that:
 
 >     “(1) The Comptroller General of the United States shall conduct a comprehensive analysis, including a cost-benefit study, of the centralized cargo examination station (CES) concept from the perspective of both the United States Customs Service and business community users. The analysis shall be submitted on the same day to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereinafter in this subsection referred to as the ‘Committees’) not later than March 30, 1988, and shall include recommendations as to how best to implement cargo inspection procedures.
 
@@ -47,7 +47,7 @@
 
 >         During the period of suspension of operations under subparagraph (B) at any centralized cargo examination station at an airport, the Secretary of the Treasury shall maintain customs operations and staffing at that airport at a level not less than that which was in effect immediately before the suspension took effect.
 
->     “(3) The Commissioner of Customs is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations.”
+>     “(3) The Commissioner of U.S. Customs and Border Protection is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations.”
 
     \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
@@ -58,14 +58,16 @@
 ----------
 ----------
 
-[/us/act/1792-05-08/ch37/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1792-05-08%2Fch37%2Fs6
+[/us/act/1792-05-08/ch37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1792-05-08%2Fch37
 [/us/stat/1/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F280
-[/us/pl/109/304/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs19
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1710
-[/us/pl/100/203/s9501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9501%2Fc
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-380
-[/us/pl/103/182/s691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs691%2Fb%2F1
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2224
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

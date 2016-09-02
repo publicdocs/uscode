@@ -171,7 +171,7 @@
 
             Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in [section 2703(b)(5)(B) of this title][/us/usc/t19/s2703/b/5/B].
 
-([Pub. L. 98–67, title II, § 212][/us/pl/98/67/s212], Aug. 5, 1983, [97 Stat. 384][/us/stat/97/384]; [Pub. L. 99–570, title IX, § 9002(b)][/us/pl/99/570/s9002/b], Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1214(q)(1), 1909(c), Aug. 23, 1988, [102 Stat. 1159][/us/stat/102/1159], 1318; [Pub. L. 101–382, title II][/us/pl/101/382], §§ 213, 214, Aug. 20, 1990, [104 Stat. 656][/us/stat/104/656]; [Pub. L. 103–465, title VI, § 621(a)(2)][/us/pl/103/465/s621/a/2], Dec. 8, 1994, [108 Stat. 4992][/us/stat/108/4992]; [Pub. L. 104–188, title I, § 1954(a)(3)][/us/pl/104/188/s1954/a/3], Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927]; [Pub. L. 106–200, title II, § 211(b)][/us/pl/106/200/s211/b], (c)(1), (e)(2), May 18, 2000, [114 Stat. 286][/us/stat/114/286], 287; [Pub. L. 109–53, title IV, § 402(a)][/us/pl/109/53/s402/a], (b), Aug. 2, 2005, [119 Stat. 495][/us/stat/119/495]; [Pub. L. 112–43, title IV, § 402(a)][/us/pl/112/43/s402/a], Oct. 21, 2011, [125 Stat. 530][/us/stat/125/530].)
+([Pub. L. 98–67, title II][/us/pl/98/67/tII], § 212, Aug. 5, 1983, [97 Stat. 384][/us/stat/97/384]; [Pub. L. 99–570, title IX][/us/pl/99/570/tIX], § 9002(b), Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1214(q)(1), 1909(c), Aug. 23, 1988, [102 Stat. 1159][/us/stat/102/1159], 1318; [Pub. L. 101–382, title II][/us/pl/101/382/tII], §§ 213, 214, Aug. 20, 1990, [104 Stat. 656][/us/stat/104/656]; [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 621(a)(2), Dec. 8, 1994, [108 Stat. 4992][/us/stat/108/4992]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1954(a)(3), Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927]; [Pub. L. 106–200, title II][/us/pl/106/200/tII], § 211(b), (c)(1), (e)(2), May 18, 2000, [114 Stat. 286][/us/stat/114/286], 287; [Pub. L. 109–53, title IV][/us/pl/109/53/tIV], § 402(a), (b), Aug. 2, 2005, [119 Stat. 495][/us/stat/119/495]; [Pub. L. 112–43, title IV][/us/pl/112/43/tIV], § 402(a), Oct. 21, 2011, [125 Stat. 530][/us/stat/125/530].)
 
  __Amendment of Section__ 
 
@@ -201,27 +201,27 @@
 
     Subsec. (b). [Pub. L. 109–53][/us/pl/109/53], §§ 107(d), 402(b), temporarily struck out “Costa Rica”, “Dominican Republic”, “El Salvador”, “Guatemala”, “Honduras”, and “Nicaragua” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2005 Amendment notes below.
 
-    2000—Subsec. (a)(1)(D), (E). [Pub. L. 106–200, § 211(e)(2)][/us/pl/106/200/s211/e/2], added subpars. (D) and (E).
+    2000—Subsec. (a)(1)(D), (E). [Pub. L. 106–200][/us/pl/106/200], § 211(e)(2), added subpars. (D) and (E).
 
     Subsec. (e)(1). [Pub. L. 106–200][/us/pl/106/200], §  211(b)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-    Subsec. (e)(3). [Pub. L. 106–200, § 211(b)(2)][/us/pl/106/200/s211/b/2], added par. (3).
+    Subsec. (e)(3). [Pub. L. 106–200][/us/pl/106/200], § 211(b)(2), added par. (3).
 
-    Subsec. (f). [Pub. L. 106–200, § 211(c)(1)][/us/pl/106/200/s211/c/1], inserted heading and amended text generally. Prior to amendment, text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
+    Subsec. (f). [Pub. L. 106–200][/us/pl/106/200], § 211(c)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
 
     1996—Subsec. (b)(7). [Pub. L. 104–188][/us/pl/104/188] substituted “2467(4)” for “2462(a)(4)”.
 
     1994—Subsec. (c)(4). [Pub. L. 103–465][/us/pl/103/465] substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of this title][/us/usc/t19/s3501])” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under [section 2503(a) of this title][/us/usc/t19/s2503/a]”.
 
-    1990—Subsec. (b). [Pub. L. 101–382, § 213(1)][/us/pl/101/382/s213/1]–(4), added par. (7) and in concluding provisions substituted “(5), and (7)” for “and (5)”.
+    1990—Subsec. (b). [Pub. L. 101–382][/us/pl/101/382], § 213(1)–(4), added par. (7) and in concluding provisions substituted “(5), and (7)” for “and (5)”.
 
-    Subsec. (c)(8). [Pub. L. 101–382, § 213(5)][/us/pl/101/382/s213/5], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the degree to which workers in such country are afforded reasonable workplace conditions and enjoy the right to organize and bargain collectively;”.
+    Subsec. (c)(8). [Pub. L. 101–382][/us/pl/101/382], § 213(5), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the degree to which workers in such country are afforded reasonable workplace conditions and enjoy the right to organize and bargain collectively;”.
 
-    Subsec. (f). [Pub. L. 101–382, § 214][/us/pl/101/382/s214], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–382][/us/pl/101/382], § 214, added subsec. (f).
 
-    1988—Subsec. (a)(1)(C). [Pub. L. 100–418, § 1214(q)(1)][/us/pl/100/418/s1214/q/1], substituted “HTS” and “Harmonized Tariff Schedule of the United States” for “TSUS” and “Tariff Schedules of the United States”, respectively.
+    1988—Subsec. (a)(1)(C). [Pub. L. 100–418][/us/pl/100/418], § 1214(q)(1), substituted “HTS” and “Harmonized Tariff Schedule of the United States” for “TSUS” and “Tariff Schedules of the United States”, respectively.
 
-    Subsec. (e). [Pub. L. 100–418, § 1909(c)][/us/pl/100/418/s1909/c], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
 
     1986—Subsec. (b)(6), (7). [Pub. L. 99–570][/us/pl/99/570] redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
 
@@ -233,7 +233,7 @@
 
     Amendment by [Pub. L. 109–53][/us/pl/109/53] effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see [section 107 of Pub. L. 109–53][/us/pl/109/53/s107], set out as an Effective and Termination Dates note under [section 4001 of this title][/us/usc/t19/s4001].
 
-    [Pub. L. 109–53, title IV, § 402(b)][/us/pl/109/53/s402/b], Aug. 2, 2005, [119 Stat. 495][/us/stat/119/495], provided that the amendment made by section 402(b) is effective on date President terminates designation of Costa Rica \[Designation terminated Jan. 1, 2009. See Proc. No. 8331, 73 F.R. 79585.\], Dominican Republic \[Designation terminated Mar. 1, 2007. See Proc. No. 8111, 72 F.R. 10025.\], El Salvador \[Designation terminated Mar. 1, 2006. See Proc. No. 7987, 71 F.R. 10827.\], Guatemala \[Designation terminated July 1, 2006. See Proc. No. 8034, 71 F.R. 38509.\], Honduras \[Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.\], or Nicaragua \[Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.\] as beneficiary country pursuant to [section 4031(a)(3) of this title][/us/usc/t19/s4031/a/3].
+    [Pub. L. 109–53, title IV][/us/pl/109/53/tIV], § 402(b), Aug. 2, 2005, [119 Stat. 495][/us/stat/119/495], provided that the amendment made by section 402(b) is effective on date President terminates designation of Costa Rica \[Designation terminated Jan. 1, 2009. See Proc. No. 8331, 73 F.R. 79585.\], Dominican Republic \[Designation terminated Mar. 1, 2007. See Proc. No. 8111, 72 F.R. 10025.\], El Salvador \[Designation terminated Mar. 1, 2006. See Proc. No. 7987, 71 F.R. 10827.\], Guatemala \[Designation terminated July 1, 2006. See Proc. No. 8034, 71 F.R. 38509.\], Honduras \[Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.\], or Nicaragua \[Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.\] as beneficiary country pursuant to [section 4031(a)(3) of this title][/us/usc/t19/s4031/a/3].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -253,7 +253,7 @@
 
  __Caribbean Basin Initiative__ 
 
-[Pub. L. 100–418, title I, § 1909(a)][/us/pl/100/418/s1909/a], (b), Aug. 23, 1988, [102 Stat. 1317][/us/stat/102/1317], 1318, provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1909(a), (b), Aug. 23, 1988, [102 Stat. 1317][/us/stat/102/1317], 1318, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -291,23 +291,23 @@
 [/us/usc/t19/s2703/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fb%2F5%2FC
 [/us/usc/t19/s2703/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fb%2F5%2FB
 [/us/usc/t19/s2703/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fb%2F5%2FB
-[/us/pl/98/67/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs212
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
-[/us/pl/99/570/s9002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs9002%2Fb
+[/us/pl/99/570/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIX
 [/us/stat/100/3207-166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-166
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1159
-[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F656
-[/us/pl/103/465/s621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F2
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4992
-[/us/pl/104/188/s1954/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fa%2F3
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1927
-[/us/pl/106/200/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs211%2Fb
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
 [/us/stat/114/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F286
-[/us/pl/109/53/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs402%2Fa
+[/us/pl/109/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIV
 [/us/stat/119/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F495
-[/us/pl/112/43/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs402%2Fa
+[/us/pl/112/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2FtIV
 [/us/stat/125/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F530
 [/us/pl/112/43/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs107%2Fc
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
@@ -325,19 +325,19 @@
 [/us/pl/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
-[/us/pl/106/200/s211/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs211%2Fe%2F2
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
-[/us/pl/106/200/s211/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs211%2Fb%2F2
-[/us/pl/106/200/s211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs211%2Fc%2F1
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501
 [/us/usc/t19/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fa
-[/us/pl/101/382/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs213%2F1
-[/us/pl/101/382/s213/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs213%2F5
-[/us/pl/101/382/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs214
-[/us/pl/100/418/s1214/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fq%2F1
-[/us/pl/100/418/s1909/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1909%2Fc
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43
 [/us/pl/112/43/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs201%2Fa%2F3
@@ -347,7 +347,7 @@
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107
 [/us/usc/t19/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4001
-[/us/pl/109/53/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs402%2Fb
+[/us/pl/109/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIV
 [/us/stat/119/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F495
 [/us/usc/t19/s4031/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4031%2Fa%2F3
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
@@ -360,7 +360,7 @@
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
 [/us/usc/t19/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203
-[/us/pl/100/418/s1909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1909%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1317
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
 

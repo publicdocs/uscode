@@ -87,11 +87,11 @@
 
         (C) any department, agency, or entity of the Federal Government or of any government of any State.
 
-([Pub. L. 97–446, title III, § 302][/us/pl/97/446/s302], Jan. 12, 1983, [96 Stat. 2351][/us/stat/96/2351].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 302, Jan. 12, 1983, [96 Stat. 2351][/us/stat/96/2351].)
 
  __References in Text__ 
 
-[Section 1483 of this title][/us/usc/t19/s1483], referred to in par. (4), was repealed by [Pub. L. 97–446, title II, § 201(c)][/us/pl/97/446/s201/c], Jan. 12, 1983, [96 Stat. 2349][/us/stat/96/2349]. Prior to repeal, section 1483 read: 
+[Section 1483 of this title][/us/usc/t19/s1483], referred to in par. (4), was repealed by [Pub. L. 97–446, title II][/us/pl/97/446/tII], § 201(c), Jan. 12, 1983, [96 Stat. 2349][/us/stat/96/2349]. Prior to repeal, section 1483 read: 
 
 > “For the purposes of this subtitle—
 
@@ -105,7 +105,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–446, title III, § 315][/us/pl/97/446/s315], Jan. 12, 1983, [96 Stat. 2363][/us/stat/96/2363], provided that:
+[Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 315, Jan. 12, 1983, [96 Stat. 2363][/us/stat/96/2363], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -121,7 +121,7 @@
 
  __Short Title__ 
 
-[Pub. L. 97–446, title III, § 301][/us/pl/97/446/s301], Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350], provided that: 
+[Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 301, Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Convention on Cultural Property Implementation Act’.”
 
@@ -135,19 +135,19 @@
 [/us/usc/t19/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2605
 [/us/usc/t19/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2603
 [/us/usc/t19/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2604
-[/us/pl/97/446/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs302
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2351
 [/us/usc/t19/s1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1483
-[/us/pl/97/446/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fc
+[/us/pl/97/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtII
 [/us/stat/96/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2349
 [/us/stat/49/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F3017
 [/us/usc/t19/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484
 [/us/usc/t19/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2605
 [/us/usc/t19/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2605
 [/us/pl/97/446/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs306
-[/us/pl/97/446/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs315
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2363
-[/us/pl/97/446/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs301
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2350
 
 

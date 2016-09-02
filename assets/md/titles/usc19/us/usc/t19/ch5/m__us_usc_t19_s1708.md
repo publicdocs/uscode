@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t19/ch5/m__us_usc_t19_s1707.md) | [Next](./../../../..//us/usc/t19/ch5/m__us_usc_t19_s1709.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1708)
 
-## § 1708. Repealed. [Pub. L. 106–36, title I, § 1001(b)(6)][/us/pl/106/36/s1001/b/6], June 25, 1999, [113 Stat. 132][/us/stat/113/132]
+## § 1708. Repealed. [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(b)(6), June 25, 1999, [113 Stat. 132][/us/stat/113/132]
 
-    Section, [act Aug. 5, 1935, ch. 438][/us/act/1935-08-05/ch438], title I, § 8, [49 Stat. 520][/us/stat/49/520], related to lading vessel in foreign port with liquor for importation.
+    Section, [act Aug. 5, 1935, ch. 438, title I][/us/act/1935-08-05/ch438/tI], § 8, [49 Stat. 520][/us/stat/49/520], related to lading vessel in foreign port with liquor for importation.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/106/36/s1001/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fb%2F6
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F132
-[/us/act/1935-08-05/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-05%2Fch438
+[/us/act/1935-08-05/ch438/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-05%2Fch438%2FtI
 [/us/stat/49/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F520
 
 

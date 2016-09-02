@@ -17,7 +17,7 @@
 
     The President may proclaim duty-free treatment (or other preferential treatment) for all eligible articles from any beneficiary country in accordance with the provisions of this chapter.
 
-([Pub. L. 102–182, title II, § 202][/us/pl/102/182/s202], Dec. 4, 1991, [105 Stat. 1236][/us/stat/105/1236]; [Pub. L. 107–210, div. C, title XXXI, § 3103(c)(1)][/us/pl/107/210/s3103/c/1], Aug. 6, 2002, [116 Stat. 1033][/us/stat/116/1033].)
+([Pub. L. 102–182, title II][/us/pl/102/182/tII], § 202, Dec. 4, 1991, [105 Stat. 1236][/us/stat/105/1236]; [Pub. L. 107–210, div. C, title XXXI][/us/pl/107/210/dC/tXXXI], § 3103(c)(1), Aug. 6, 2002, [116 Stat. 1033][/us/stat/116/1033].)
 
  __Amendments__ 
 
@@ -25,25 +25,25 @@
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–191, § 1][/us/pl/110/191/s1], Feb. 29, 2008, [122 Stat. 646][/us/stat/122/646], provided that: 
+[Pub. L. 110–191][/us/pl/110/191], § 1, Feb. 29, 2008, [122 Stat. 646][/us/stat/122/646], provided that: 
 
 > “This Act \[amending sections 58c, 3203, and 3206 of this title and enacting provisions set out as a note under [section 6655 of Title 26][/us/usc/t26/s6655], Internal Revenue Code\] may be cited as the ‘Andean Trade Preference Extension Act of 2008’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. D, title VII, § 7001][/us/pl/109/432/s7001], Dec. 20, 2006, [120 Stat. 3194][/us/stat/120/3194], provided that: 
+[Pub. L. 109–432, div. D, title VII][/us/pl/109/432/dD/tVII], § 7001, Dec. 20, 2006, [120 Stat. 3194][/us/stat/120/3194], provided that: 
 
 > “This title \[amending sections 3203 and 3206 of this title\] may be cited as the ‘Andean Trade Preferences Extension Act’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–210, div. C, title XXXI, § 3101][/us/pl/107/210/s3101], Aug. 6, 2002, [116 Stat. 1023][/us/stat/116/1023], provided that: 
+[Pub. L. 107–210, div. C, title XXXI][/us/pl/107/210/dC/tXXXI], § 3101, Aug. 6, 2002, [116 Stat. 1023][/us/stat/116/1023], provided that: 
 
 > “This title \[amending sections 2703, 3201 to 3203, 3206, and 3721 of this title and enacting provisions set out as notes under this section and sections 2703, 3202, 3206, and 3721 of this title\] may be cited as the ‘Andean Trade Promotion and Drug Eradication Act’.”
 
  __Short Title__ 
 
-[Pub. L. 102–182, title II, § 201][/us/pl/102/182/s201], Dec. 4, 1991, [105 Stat. 1236][/us/stat/105/1236], provided that: 
+[Pub. L. 102–182, title II][/us/pl/102/182/tII], § 201, Dec. 4, 1991, [105 Stat. 1236][/us/stat/105/1236], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Andean Trade Preference Act’.”
 
@@ -53,7 +53,7 @@
 
  __Findings__ 
 
-[Pub. L. 107–210, div. C, title XXXI, § 3102][/us/pl/107/210/s3102], Aug. 6, 2002, [116 Stat. 1023][/us/stat/116/1023], provided that: 
+[Pub. L. 107–210, div. C, title XXXI][/us/pl/107/210/dC/tXXXI], § 3102, Aug. 6, 2002, [116 Stat. 1023][/us/stat/116/1023], provided that: 
 
 > “Congress makes the following findings:
 
@@ -80,22 +80,22 @@
 ----------
 ----------
 
-[/us/pl/102/182/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs202
+[/us/pl/102/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtII
 [/us/stat/105/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1236
-[/us/pl/107/210/s3103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3103%2Fc%2F1
+[/us/pl/107/210/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdC%2FtXXXI
 [/us/stat/116/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1033
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
-[/us/pl/110/191/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F191%2Fs1
+[/us/pl/110/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F191
 [/us/stat/122/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F646
 [/us/usc/t26/s6655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6655
-[/us/pl/109/432/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs7001
+[/us/pl/109/432/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtVII
 [/us/stat/120/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3194
-[/us/pl/107/210/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3101
+[/us/pl/107/210/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdC%2FtXXXI
 [/us/stat/116/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1023
-[/us/pl/102/182/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs201
+[/us/pl/102/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtII
 [/us/stat/105/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1236
 [/us/usc/t19/s3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3206
-[/us/pl/107/210/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3102
+[/us/pl/107/210/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdC%2FtXXXI
 [/us/stat/116/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1023
 [/us/usc/t19/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3201
 

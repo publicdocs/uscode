@@ -165,33 +165,33 @@
 
         For each calendar year, the Secretary of State, after consultation with the appropriate committees of the Congress, shall establish numerical standards and other guidelines for determining which countries will be considered to be major drug-transit countries under section 2495(3)(A) and (B) of this title.
 
-([Pub. L. 93–618, title VIII, § 802][/us/pl/93/618/s802], as added [Pub. L. 99–570, title IX, § 9001][/us/pl/99/570/s9001], Oct. 27, 1986, [100 Stat. 3207–164][/us/stat/100/3207-164]; amended [Pub. L. 100–204, title VIII, § 806(a)][/us/pl/100/204/s806/a], Dec. 22, 1987, [101 Stat. 1398][/us/stat/101/1398]; [Pub. L. 100–690, title IV, § 4408][/us/pl/100/690/s4408], Nov. 18, 1988, [102 Stat. 4281][/us/stat/102/4281]; [Pub. L. 101–231, § 17(h)(1)][/us/pl/101/231/s17/h/1]–(4), Dec. 13, 1989, [103 Stat. 1965][/us/stat/103/1965]; [Pub. L. 106–36, title I, § 1001(a)(8)][/us/pl/106/36/s1001/a/8], June 25, 1999, [113 Stat. 131][/us/stat/113/131].)
+([Pub. L. 93–618, title VIII][/us/pl/93/618/tVIII], § 802, as added [Pub. L. 99–570, title IX][/us/pl/99/570/tIX], § 9001, Oct. 27, 1986, [100 Stat. 3207–164][/us/stat/100/3207-164]; amended [Pub. L. 100–204, title VIII][/us/pl/100/204/tVIII], § 806(a), Dec. 22, 1987, [101 Stat. 1398][/us/stat/101/1398]; [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4408, Nov. 18, 1988, [102 Stat. 4281][/us/stat/102/4281]; [Pub. L. 101–231][/us/pl/101/231], § 17(h)(1)–(4), Dec. 13, 1989, [103 Stat. 1965][/us/stat/103/1965]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(a)(8), June 25, 1999, [113 Stat. 131][/us/stat/113/131].)
 
  __References in Text__ 
 
     The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(1), is title II of [Pub. L. 98–67][/us/pl/98/67], Aug. 5, 1983, [97 Stat. 384][/us/stat/97/384], as amended, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t19/s2701] and Tables.
 
-    Subsec. (e) of [section 2291 of title 22][/us/usc/t22/s2291], referred to in subsec. (b), (2)(A), was repealed and subsec. (i) was redesignated (e) by [Pub. L. 102–583, § 6(b)(2)][/us/pl/102/583/s6/b/2], (3), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932].
+    Subsec. (e) of [section 2291 of title 22][/us/usc/t22/s2291], referred to in subsec. (b), (2)(A), was repealed and subsec. (i) was redesignated (e) by [Pub. L. 102–583][/us/pl/102/583], § 6(b)(2), (3), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932].
 
  __Codification__ 
 
-    In subsec. (d)(4), “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (d)(4), “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
 
     1999—Subsec. (b)(1)(A). [Pub. L. 106–36][/us/pl/106/36] substituted “[section 2291h of title 22][/us/usc/t22/s2291h]” for “[section 2291(e) of title 22][/us/usc/t22/s2291/e]” in introductory provisions.
 
-    1989—Subsec. (b)(1)(A)(i)(IV). [Pub. L. 101–231, § 17(h)(1)][/us/pl/101/231/s17/h/1], substituted “illicit production” for “production”.
+    1989—Subsec. (b)(1)(A)(i)(IV). [Pub. L. 101–231][/us/pl/101/231], § 17(h)(1), substituted “illicit production” for “production”.
 
-    Subsec. (b)(1)(B)(iii). [Pub. L. 101–231, § 17(h)(2)][/us/pl/101/231/s17/h/2], substituted “education and treatment programs” for “treatment”.
+    Subsec. (b)(1)(B)(iii). [Pub. L. 101–231][/us/pl/101/231], § 17(h)(2), substituted “education and treatment programs” for “treatment”.
 
-    Subsec. (b)(1)(B)(v). [Pub. L. 101–231, § 17(h)(3)][/us/pl/101/231/s17/h/3], substituted “essential precursor chemicals” for “precursor chemicals”.
+    Subsec. (b)(1)(B)(v). [Pub. L. 101–231][/us/pl/101/231], § 17(h)(3), substituted “essential precursor chemicals” for “precursor chemicals”.
 
-    Subsec. (b)(2)(D). [Pub. L. 101–231, § 17(h)(4)][/us/pl/101/231/s17/h/4], substituted “illicit production” for “production”.
+    Subsec. (b)(2)(D). [Pub. L. 101–231][/us/pl/101/231], § 17(h)(4), substituted “illicit production” for “production”.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–690, § 4408(a)][/us/pl/100/690/s4408/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subsection (a) of this section shall not apply with respect to a country if the President determines and so certifies to the Congress, at the time of the submission of the report required by [section 2291(e) of title 22][/us/usc/t22/s2291/e], that during the previous year that country has cooperated fully with the United States, or has taken adequate steps on its own, in preventing narcotic and psychotropic drugs and other controlled substances produced or processed, in whole or in part, in such country or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents or from being transported, directly or indirectly, into the United States and in preventing and punishing corruption by government officials and the laundering in that country of drug-related profits or drug-related monies.”
+    1988—Subsec. (b)(1). [Pub. L. 100–690][/us/pl/100/690], § 4408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subsection (a) of this section shall not apply with respect to a country if the President determines and so certifies to the Congress, at the time of the submission of the report required by [section 2291(e) of title 22][/us/usc/t22/s2291/e], that during the previous year that country has cooperated fully with the United States, or has taken adequate steps on its own, in preventing narcotic and psychotropic drugs and other controlled substances produced or processed, in whole or in part, in such country or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents or from being transported, directly or indirectly, into the United States and in preventing and punishing corruption by government officials and the laundering in that country of drug-related profits or drug-related monies.”
 
-    Subsec. (b)(2). [Pub. L. 100–690, § 4408(a)][/us/pl/100/690/s4408/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In making the certification required by paragraph (1), the President shall give foremost consideration to whether the actions of the government of the country have resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to [section 2291(e)(4) of title 22][/us/usc/t22/s2291/e/4]. The President shall also consider whether such government—
+    Subsec. (b)(2). [Pub. L. 100–690][/us/pl/100/690], § 4408(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In making the certification required by paragraph (1), the President shall give foremost consideration to whether the actions of the government of the country have resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to [section 2291(e)(4) of title 22][/us/usc/t22/s2291/e/4]. The President shall also consider whether such government—
 
     “(A) has taken the legal and law enforcement measures to enforce in its territory, to the maximum extent possible, the elimination of illicit cultivation and the suppression of illicit manufacture of and traffic in narcotic and psychotropic drugs and other controlled substances, as evidenced by seizures of such drugs and substances and of illicit laboratories and the arrest and prosecution of violators involved in the traffic in such drugs and substances significantly affecting the United States;
 
@@ -205,17 +205,17 @@
 
     “(C) has taken the legal and law enforcement steps necessary to eliminate, to the maximum extent possible, corruption by government officials, with particular emphasis on the elimination of bribery.”
 
-    Subsec. (b)(3), (4). [Pub. L. 100–690, § 4408(b)][/us/pl/100/690/s4408/b], substituted “45 days” for “30 days” wherever appearing.
+    Subsec. (b)(3), (4). [Pub. L. 100–690][/us/pl/100/690], § 4408(b), substituted “45 days” for “30 days” wherever appearing.
 
-    Subsec. (e). [Pub. L. 100–690, § 4408(c)][/us/pl/100/690/s4408/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–690][/us/pl/100/690], § 4408(c), added subsec. (e).
 
-    1987—Subsec. (a)(4) to (6). [Pub. L. 100–204, § 806(a)(1)][/us/pl/100/204/s806/a/1], added pars. (4) and (5) and redesignated former par. (4) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “take any combination of the actions described in paragraphs (1), (2), and (3).”
+    1987—Subsec. (a)(4) to (6). [Pub. L. 100–204][/us/pl/100/204], § 806(a)(1), added pars. (4) and (5) and redesignated former par. (4) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “take any combination of the actions described in paragraphs (1), (2), and (3).”
 
-    Subsec. (b). [Pub. L. 100–204, § 806(a)(2)][/us/pl/100/204/s806/a/2], inserted “corruption by government officials and” after “preventing and punishing” in par. (1) and added par. (2)(C).
+    Subsec. (b). [Pub. L. 100–204][/us/pl/100/204], § 806(a)(2), inserted “corruption by government officials and” after “preventing and punishing” in par. (1) and added par. (2)(C).
 
-    Subsec. (c). [Pub. L. 100–204, § 806(a)(3)][/us/pl/100/204/s806/a/3], inserted “paragraph (1), (2), or (3) of” after “under”.
+    Subsec. (c). [Pub. L. 100–204][/us/pl/100/204], § 806(a)(3), inserted “paragraph (1), (2), or (3) of” after “under”.
 
-    Subsec. (d). [Pub. L. 100–204, § 806(a)(4)][/us/pl/100/204/s806/a/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–204][/us/pl/100/204], § 806(a)(4), added subsec. (d).
 
 ----------
 
@@ -227,42 +227,42 @@
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
 [/us/usc/t22/s2291h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/93/618/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs802
-[/us/pl/99/570/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs9001
+[/us/pl/93/618/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVIII
+[/us/pl/99/570/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIX
 [/us/stat/100/3207-164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-164
-[/us/pl/100/204/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs806%2Fa
+[/us/pl/100/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVIII
 [/us/stat/101/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1398
-[/us/pl/100/690/s4408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4408
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4281
-[/us/pl/101/231/s17/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fh%2F1
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1965
-[/us/pl/106/36/s1001/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fa%2F8
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F131
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
-[/us/pl/102/583/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F2
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4932
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t22/s2291h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h
 [/us/usc/t22/s2291/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe
-[/us/pl/101/231/s17/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fh%2F1
-[/us/pl/101/231/s17/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fh%2F2
-[/us/pl/101/231/s17/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fh%2F3
-[/us/pl/101/231/s17/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fh%2F4
-[/us/pl/100/690/s4408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4408%2Fa
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t22/s2291/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe
-[/us/pl/100/690/s4408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4408%2Fa
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t22/s2291/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe%2F4
-[/us/pl/100/690/s4408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4408%2Fb
-[/us/pl/100/690/s4408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4408%2Fc
-[/us/pl/100/204/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs806%2Fa%2F1
-[/us/pl/100/204/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs806%2Fa%2F2
-[/us/pl/100/204/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs806%2Fa%2F3
-[/us/pl/100/204/s806/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs806%2Fa%2F4
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 
 

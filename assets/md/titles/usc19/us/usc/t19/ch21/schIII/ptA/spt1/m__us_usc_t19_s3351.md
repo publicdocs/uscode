@@ -33,7 +33,7 @@
 
         (B) qualifies under the Agreement to be marked as a good of Mexico.
 
-([Pub. L. 103–182, title III, § 301][/us/pl/103/182/s301], Dec. 8, 1993, [107 Stat. 2100][/us/stat/107/2100].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 301, Dec. 8, 1993, [107 Stat. 2100][/us/stat/107/2100].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–182, title III, § 318][/us/pl/103/182/s318], Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108], provided that: 
+[Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 318, Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108], provided that: 
 
 > “Except as provided in section 308(b) \[enacting provisions set out as a note under [section 2112 of this title][/us/usc/t19/s2112]\], the provisions of this subtitle \[subtitle A (§§ 301–318) of title III of [Pub. L. 103–182][/us/pl/103/182], enacting this part and amending [section 2252 of this title][/us/usc/t19/s2252] and provisions set out as a note under [section 2112 of this title][/us/usc/t19/s2112]\] take effect on the date the Agreement enters into force with respect to the United States \[Jan. 1, 1994\].”
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/103/182/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs301
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2100
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2100
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/103/182/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs318
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2108
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

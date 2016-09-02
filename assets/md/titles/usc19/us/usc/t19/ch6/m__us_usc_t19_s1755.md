@@ -23,7 +23,7 @@
 
         The actual and necessary customs charges for labor, services, and other expenses in connection with the entry, examination, appraisement, custody, abandonment, destruction, or release of articles entered under [section 1752 of this title][/us/usc/t19/s1752], together with the necessary charges for salaries of customs officers and employees in connection with the accounting for, custody of, and supervision over, such articles, shall be reimbursed to the United States by the operator of the fair for which they are entered. Receipts from such reimbursements shall be deposited as refunds to the appropriation from which paid, in the manner provided for in [section 1524 of this title][/us/usc/t19/s1524].
 
-([Pub. L. 86–14, § 6][/us/pl/86/14/s6], Apr. 22, 1959, [73 Stat. 19][/us/stat/73/19].)
+([Pub. L. 86–14][/us/pl/86/14], § 6, Apr. 22, 1959, [73 Stat. 19][/us/stat/73/19].)
 
 ----------
 
@@ -36,7 +36,7 @@
 [/us/usc/t19/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1752
 [/us/usc/t19/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1752
 [/us/usc/t19/s1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1524
-[/us/pl/86/14/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14%2Fs6
+[/us/pl/86/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14
 [/us/stat/73/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F19
 
 

@@ -17,7 +17,7 @@
 
     The President shall submit a report to Congress at least once each calendar year listing those foreign countries in which narcotic drugs and other controlled substances (as listed under [section 812 of title 21][/us/usc/t21/s812]) are produced, processed, or transported for unlawful entry into the United States. Such report shall include a description of the measures such countries are taking to prevent such production, processing, or transport.
 
-([Pub. L. 93–618, title VI, § 606][/us/pl/93/618/s606], Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073].)
+([Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 606, Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
-[/us/pl/93/618/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs606
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2073
 
 

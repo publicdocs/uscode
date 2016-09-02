@@ -49,27 +49,27 @@
 
         For purposes of this section, customs services provided in connection with, or with respect to, any foreign trade zone or subzone that is located at, or in the vicinity of, any airport, seaport, or other facility described in subsection (a) or designated under subsection (c) shall be considered to be customs services provided at such airport, seaport, or other facility.
 
-([Pub. L. 98–573, title II, § 236][/us/pl/98/573/s236], Oct. 30, 1984, [98 Stat. 2992][/us/stat/98/2992]; [Pub. L. 99–190, § 142][/us/pl/99/190/s142], Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324]; [Pub. L. 99–272, title XIII, § 13032][/us/pl/99/272/s13032], Apr. 7, 1986, [100 Stat. 310][/us/stat/100/310]; [Pub. L. 100–418, title I, § 1905][/us/pl/100/418/s1905], Aug. 23, 1988, [102 Stat. 1313][/us/stat/102/1313]; [Pub. L. 101–207, § 3(c)(2)][/us/pl/101/207/s3/c/2], (f)(1), Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], 1835.)
+([Pub. L. 98–573, title II][/us/pl/98/573/tII], § 236, Oct. 30, 1984, [98 Stat. 2992][/us/stat/98/2992]; [Pub. L. 99–190][/us/pl/99/190], § 142, Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13032, Apr. 7, 1986, [100 Stat. 310][/us/stat/100/310]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1905, Aug. 23, 1988, [102 Stat. 1313][/us/stat/102/1313]; [Pub. L. 101–207][/us/pl/101/207], § 3(c)(2), (f)(1), Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], 1835.)
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–207, § 3(f)(1)(C)][/us/pl/101/207/s3/f/1/C], inserted “and other facilities” after “airports” in section catchline.
+    1989—[Pub. L. 101–207][/us/pl/101/207], § 3(f)(1)(C), inserted “and other facilities” after “airports” in section catchline.
 
-    Subsecs. (a)(3), (b). [Pub. L. 101–207, § 3(f)(1)(A)][/us/pl/101/207/s3/f/1/A], inserted “, seaport, or other facility” after “airport” wherever appearing.
+    Subsecs. (a)(3), (b). [Pub. L. 101–207][/us/pl/101/207], § 3(f)(1)(A), inserted “, seaport, or other facility” after “airport” wherever appearing.
 
-    Subsec. (c). [Pub. L. 101–207, § 3(f)(1)(A)][/us/pl/101/207/s3/f/1/A], (B), inserted “, seaports, and other facilities” after “airports” in introductory provisions and “, seaport, or other facility” after “airport” wherever appearing.
+    Subsec. (c). [Pub. L. 101–207][/us/pl/101/207], § 3(f)(1)(A), (B), inserted “, seaports, and other facilities” after “airports” in introductory provisions and “, seaport, or other facility” after “airport” wherever appearing.
 
-    Subsec. (e). [Pub. L. 101–207, § 3(f)(1)(A)][/us/pl/101/207/s3/f/1/A], inserted “, seaport, or other facility” after “airport” wherever appearing.
+    Subsec. (e). [Pub. L. 101–207][/us/pl/101/207], § 3(f)(1)(A), inserted “, seaport, or other facility” after “airport” wherever appearing.
 
-    Subsec. (f). [Pub. L. 101–207, § 3(c)(2)][/us/pl/101/207/s3/c/2], (f)(1)(A), added subsec. (f) and inserted “, seaport, or other facility” after “airport” in two places.
+    Subsec. (f). [Pub. L. 101–207][/us/pl/101/207], § 3(c)(2), (f)(1)(A), added subsec. (f) and inserted “, seaport, or other facility” after “airport” in two places.
 
-    1988—Subsec. (a)(2), (3). [Pub. L. 100–418, § 1905(1)][/us/pl/100/418/s1905/1]–(3), added par. (2) and redesignated former par. (2) as (3).
+    1988—Subsec. (a)(2), (3). [Pub. L. 100–418][/us/pl/100/418], § 1905(1)–(3), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (c). [Pub. L. 100–418, § 1905(4)][/us/pl/100/418/s1905/4], struck out “20” before “airports”.
+    Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1905(4), struck out “20” before “airports”.
 
-    1986—Subsec. (c). [Pub. L. 99–272, § 13032(1)][/us/pl/99/272/s13032/1], made amendment identical to [Pub. L. 99–190][/us/pl/99/190], substituting “20 airports” for “4 airports”.
+    1986—Subsec. (c). [Pub. L. 99–272][/us/pl/99/272], § 13032(1), made amendment identical to [Pub. L. 99–190][/us/pl/99/190], substituting “20 airports” for “4 airports”.
 
-    Subsec. (e). [Pub. L. 99–272, § 13032(2)][/us/pl/99/272/s13032/2], substituted last two sentences for former last sentence which read as follows: “The funds in such account shall only be available, as provided by appropriation Acts, for expenditures relating to the provision of customs services at such airport (including expenditures for the salaries and expenses of individuals employed to provide such services).”
+    Subsec. (e). [Pub. L. 99–272][/us/pl/99/272], § 13032(2), substituted last two sentences for former last sentence which read as follows: “The funds in such account shall only be available, as provided by appropriation Acts, for expenditures relating to the provision of customs services at such airport (including expenditures for the salaries and expenses of individuals employed to provide such services).”
 
     1985—Subsec. (c). [Pub. L. 99–190][/us/pl/99/190] substituted “20 airports” for “4 airports”.
 
@@ -88,26 +88,26 @@
 ----------
 ----------
 
-[/us/pl/98/573/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs236
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2992
-[/us/pl/99/190/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs142
-[/us/stat/99/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1324
-[/us/pl/99/272/s13032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13032
-[/us/stat/100/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F310
-[/us/pl/100/418/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1905
-[/us/stat/102/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1313
-[/us/pl/101/207/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fc%2F2
-[/us/stat/103/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1834
-[/us/pl/101/207/s3/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Ff%2F1%2FC
-[/us/pl/101/207/s3/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Ff%2F1%2FA
-[/us/pl/101/207/s3/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Ff%2F1%2FA
-[/us/pl/101/207/s3/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Ff%2F1%2FA
-[/us/pl/101/207/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fc%2F2
-[/us/pl/100/418/s1905/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1905%2F1
-[/us/pl/100/418/s1905/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1905%2F4
-[/us/pl/99/272/s13032/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13032%2F1
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
-[/us/pl/99/272/s13032/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13032%2F2
+[/us/stat/99/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1324
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
+[/us/stat/100/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F310
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
+[/us/stat/102/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1313
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/stat/103/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1834
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304

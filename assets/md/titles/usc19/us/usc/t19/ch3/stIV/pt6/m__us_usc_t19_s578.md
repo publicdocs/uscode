@@ -15,7 +15,7 @@
 
 ## § 578. Repealed. [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 651(a)(1), [46 Stat. 762][/us/stat/46/762], eff. June 18, 1930
 
-    Section, [act May 29, 1928, ch. 852, § 708][/us/act/1928-05-29/ch852/s708], [45 Stat. 881][/us/stat/45/881], related to definition of motor boat.
+    Section, [act May 29, 1928, ch. 852][/us/act/1928-05-29/ch852], § 708, [45 Stat. 881][/us/stat/45/881], related to definition of motor boat.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
-[/us/act/1928-05-29/ch852/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch852%2Fs708
+[/us/act/1928-05-29/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch852
 [/us/stat/45/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F881
 
 

@@ -129,7 +129,7 @@
 
         (2) the term “former beneficiary sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under the African Growth and Opportunity Act \[[19 U.S.C. 3701][/us/usc/t19/s3701] et seq.\], ceased to be designated as such a country by reason of its entering into a free trade agreement with the United States.
 
-([Pub. L. 93–618, title V, § 506A][/us/pl/93/618/s506A], as added [Pub. L. 106–200, title I, § 111(a)][/us/pl/106/200/s111/a], May 18, 2000, [114 Stat. 257][/us/stat/114/257]; amended [Pub. L. 108–274, § 7(a)(2)][/us/pl/108/274/s7/a/2], July 13, 2004, [118 Stat. 823][/us/stat/118/823]; [Pub. L. 114–27, title I][/us/pl/114/27], §§ 104(a), (b), 105, June 29, 2015, [129 Stat. 365][/us/stat/129/365].)
+([Pub. L. 93–618, title V][/us/pl/93/618/tV], § 506A, as added [Pub. L. 106–200, title I][/us/pl/106/200/tI], § 111(a), May 18, 2000, [114 Stat. 257][/us/stat/114/257]; amended [Pub. L. 108–274][/us/pl/108/274], § 7(a)(2), July 13, 2004, [118 Stat. 823][/us/stat/118/823]; [Pub. L. 114–27, title I][/us/pl/114/27/tI], §§ 104(a), (b), 105, June 29, 2015, [129 Stat. 365][/us/stat/129/365].)
 
  __References in Text__ 
 
@@ -137,23 +137,23 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(3). [Pub. L. 114–27, § 105(a)][/us/pl/114/27/s105/a], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    2015—Subsec. (a)(3). [Pub. L. 114–27][/us/pl/114/27], § 105(a), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (b)(2)(C). [Pub. L. 114–27, § 104(a)][/us/pl/114/27/s104/a], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 114–27][/us/pl/114/27], § 104(a), added subpar. (C).
 
-    Subsec. (b)(3). [Pub. L. 114–27, § 104(b)][/us/pl/114/27/s104/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 114–27][/us/pl/114/27], § 104(b), added par. (3).
 
-    Subsecs. (c), (d). [Pub. L. 114–27, § 105(b)][/us/pl/114/27/s105/b], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 114–27][/us/pl/114/27], § 105(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-    Subsecs. (d), (e). [Pub. L. 114–27, § 105(c)][/us/pl/114/27/s105/c], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 114–27][/us/pl/114/27], § 105(c), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    2004—Subsec. (b)(2)(B). [Pub. L. 108–274, § 7(a)(2)(A)][/us/pl/108/274/s7/a/2/A], inserted “or former beneficiary sub-Saharan African countries” after “countries”.
+    2004—Subsec. (b)(2)(B). [Pub. L. 108–274][/us/pl/108/274], § 7(a)(2)(A), inserted “or former beneficiary sub-Saharan African countries” after “countries”.
 
-    Subsec. (c). [Pub. L. 108–274, § 7(a)(2)(B)][/us/pl/108/274/s7/a/2/B], substituted “subchapter—” for “subchapter,”, inserted par. (1) designation before “the terms”, and added par. (2).
+    Subsec. (c). [Pub. L. 108–274][/us/pl/108/274], § 7(a)(2)(B), substituted “subchapter—” for “subchapter,”, inserted par. (1) designation before “the terms”, and added par. (2).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–27, title I, § 104(d)][/us/pl/114/27/s104/d], June 29, 2015, [129 Stat. 365][/us/stat/129/365], provided that: 
+[Pub. L. 114–27, title I][/us/pl/114/27/tI], § 104(d), June 29, 2015, [129 Stat. 365][/us/stat/129/365], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] take effect on the date of the enactment of this Act \[June 29, 2015\] and apply with respect to any article described in section 503(b)(1)(B) through (G) of the Trade Act of 1974 \[[19 U.S.C. 2463(b)(1)(B)][/us/usc/t19/s2463/b/1/B] through (G)\] that is the growth, product, or manufacture of a beneficiary sub-Saharan African country and that is imported into the customs territory of the United States on or after the date that is 30 days after such date of enactment.”
 
@@ -161,7 +161,7 @@
 
  __Modifications to the Harmonized Tariff Schedule__ 
 
-[Pub. L. 114–27, title I, § 104(c)][/us/pl/114/27/s104/c], June 29, 2015, [129 Stat. 365][/us/stat/129/365], provided that: 
+[Pub. L. 114–27, title I][/us/pl/114/27/tI], § 104(c), June 29, 2015, [129 Stat. 365][/us/stat/129/365], provided that: 
 
 > “The President may proclaim such modifications as may be necessary to the Harmonized Tariff Schedule of the United States (HTS) to add the special tariff treatment symbol ‘D’ in the ‘Special’ subcolumn of the HTS for each article classified under a heading or subheading with the special tariff treatment symbol ‘A’ or ‘A\*’ in the ‘Special’ subcolumn of the HTS.”
 
@@ -191,30 +191,30 @@
 [/us/usc/t19/s3703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3703%2Fa
 [/us/usc/t19/s3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3706
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
-[/us/pl/93/618/s506A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs506A
-[/us/pl/106/200/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs111%2Fa
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F257
-[/us/pl/108/274/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fa%2F2
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
 [/us/stat/118/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F823
-[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F365
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
-[/us/pl/114/27/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs105%2Fa
-[/us/pl/114/27/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs104%2Fa
-[/us/pl/114/27/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs104%2Fb
-[/us/pl/114/27/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs105%2Fb
-[/us/pl/114/27/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs105%2Fc
-[/us/pl/108/274/s7/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fa%2F2%2FA
-[/us/pl/108/274/s7/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fa%2F2%2FB
-[/us/pl/114/27/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs104%2Fd
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F365
 [/us/usc/t19/s2463/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463%2Fb%2F1%2FB
 [/us/pl/114/27/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs104%2Fd
 [/us/pl/114/27/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs112
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
-[/us/pl/114/27/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs104%2Fc
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F365
 
 

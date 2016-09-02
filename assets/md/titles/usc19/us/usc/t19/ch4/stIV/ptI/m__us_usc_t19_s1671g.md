@@ -17,7 +17,7 @@
 
     Nothing in this subtitle shall be interpreted as superseding the provisions of [section 635a–3 of title 12][/us/usc/t12/s635a–3], except that in the event of an assessment of duty based on a derogation under [section 1671e of this title][/us/usc/t19/s1671e] or action under [section 1671b(d)(1)(B) of this title][/us/usc/t19/s1671b/d/1/B], the Secretary of the Treasury shall not authorize the Bank to provide guarantees, insurance and credits to competing United States sellers pursuant to [section 635a–3 of title 12][/us/usc/t12/s635a–3].
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 708, as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VI, § 650(c)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; amended [Pub. L. 99–514, title XVIII, § 1886(a)(6)(A)][/us/pl/99/514/s1886/a/6/A], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 103–465, title II, § 264(c)(11)][/us/pl/103/465/s264/c/11], Dec. 8, 1994, [108 Stat. 4914][/us/stat/108/4914].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 708, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VI, § 650(c)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(6)(A), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 264(c)(11), Dec. 8, 1994, [108 Stat. 4914][/us/stat/108/4914].)
 
  __Amendments__ 
 
@@ -45,11 +45,11 @@
 [/us/usc/t19/s1671b/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671b%2Fd%2F1%2FB
 [/us/usc/t12/s635a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%E2%80%933
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1266
-[/us/pl/99/514/s1886/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F6%2FA
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/103/465/s264/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs264%2Fc%2F11
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4914
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

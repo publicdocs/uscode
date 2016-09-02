@@ -49,7 +49,7 @@
 
         (4) The African Development Foundation has a unique congressional mandate to empower the poor to participate fully in development and to increase opportunities for gainful employment, poverty alleviation, and more equitable income distribution in sub-Saharan Africa. The African Development Foundation has worked successfully to enhance the role of women as agents of change, strengthen the informal sector with an emphasis on supporting micro and small sized enterprises, indigenous technologies, and mobilizing local financing. The African Development Foundation should develop and implement strategies for promoting participation in the socioeconomic development process of grassroots and informal sector groups such as nongovernmental organizations, cooperatives, artisans, and traders into the programs and initiatives established under this chapter.
 
-([Pub. L. 106–200, title I, § 127][/us/pl/106/200/s127], May 18, 2000, [114 Stat. 272][/us/stat/114/272].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 127, May 18, 2000, [114 Stat. 272][/us/stat/114/272].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Change of Name__ 
 
-    African Development Foundation changed to United States African Development Foundation by [Pub. L. 113–76, div. K, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 482][/us/stat/128/482]. See [section 290h–1 of Title 22][/us/usc/t22/s290h–1], Foreign Relations and Intercourse.
+    African Development Foundation changed to United States African Development Foundation by [Pub. L. 113–76, div. K, title III][/us/pl/113/76/dK/tIII], Jan. 17, 2014, [128 Stat. 482][/us/stat/128/482]. See [section 290h–1 of Title 22][/us/usc/t22/s290h–1], Foreign Relations and Intercourse.
 
 ----------
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
-[/us/pl/106/200/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs127
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F272
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -79,7 +79,7 @@
 [/us/pl/106/200/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs127
 [/us/pl/106/200/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs127
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtIII
 [/us/stat/128/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F482
 [/us/usc/t22/s290h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%931
 

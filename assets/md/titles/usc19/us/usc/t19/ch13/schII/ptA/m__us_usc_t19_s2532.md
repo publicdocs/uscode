@@ -69,11 +69,11 @@
 
         Each Federal agency shall, with respect to any conformity assessment procedure used by it, permit access for obtaining an assessment of conformity and the mark of the system, if any, to foreign suppliers of a product on the same basis as access is permitted to suppliers of like products, whether of domestic or other foreign origin.
 
-([Pub. L. 96–39, title IV, § 402][/us/pl/96/39/s402], July 26, 1979, [93 Stat. 242][/us/stat/93/242]; [Pub. L. 103–465, title III, § 351(c)][/us/pl/103/465/s351/c], Dec. 8, 1994, [108 Stat. 4956][/us/stat/108/4956]; [Pub. L. 104–295, § 20(c)(14)][/us/pl/104/295/s20/c/14], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 402, July 26, 1979, [93 Stat. 242][/us/stat/93/242]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 351(c), Dec. 8, 1994, [108 Stat. 4956][/us/stat/108/4956]; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(14), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529].)
 
  __References in Text__ 
 
-    [Section 2571(6)(A) of this title][/us/usc/t19/s2571/6/A], referred to in par. (2)(B)(ii), was amended generally by [Pub. L. 103–465, title III, § 351(e)(4)][/us/pl/103/465/s351/e/4], Dec. 8, 1994, [108 Stat. 4956][/us/stat/108/4956], and, as so amended, no longer contains clauses.
+    [Section 2571(6)(A) of this title][/us/usc/t19/s2571/6/A], referred to in par. (2)(B)(ii), was amended generally by [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 351(e)(4), Dec. 8, 1994, [108 Stat. 4956][/us/stat/108/4956], and, as so amended, no longer contains clauses.
 
  __Amendments__ 
 
@@ -92,14 +92,14 @@
 ----------
 ----------
 
-[/us/pl/96/39/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs402
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F242
-[/us/pl/103/465/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fc
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4956
-[/us/pl/104/295/s20/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F14
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
 [/us/usc/t19/s2571/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2571%2F6%2FA
-[/us/pl/103/465/s351/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F4
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4956
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

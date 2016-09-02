@@ -17,7 +17,7 @@
 
     This Act may be cited as the “Trade Agreements Act of 1979”.
 
-([Pub. L. 96–39, § 1(a)][/us/pl/96/39/s1/a], July 26, 1979, [93 Stat. 144][/us/stat/93/144].)
+([Pub. L. 96–39][/us/pl/96/39], § 1(a), July 26, 1979, [93 Stat. 144][/us/stat/93/144].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/39/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1%2Fa
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144

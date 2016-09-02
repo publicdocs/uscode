@@ -53,7 +53,7 @@
 
             (F) [section 1337 of this title][/us/usc/t19/s1337] (relating to unfair practices in import trade).
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 339, as added [Pub. L. 98–573, title II, § 221][/us/pl/98/573/s221]\[(a)\], Oct. 30, 1984, [98 Stat. 2989][/us/stat/98/2989]; [Pub. L. 99–514, title XVIII, § 1888(3)][/us/pl/99/514/s1888/3], Oct. 22, 1986, [100 Stat. 2924][/us/stat/100/2924]; [Pub. L. 100–418, title I, § 1614][/us/pl/100/418/s1614], Aug. 23, 1988, [102 Stat. 1263][/us/stat/102/1263].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 339, as added [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 221\[(a)\], Oct. 30, 1984, [98 Stat. 2989][/us/stat/98/2989]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1888(3), Oct. 22, 1986, [100 Stat. 2924][/us/stat/100/2924]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1614, Aug. 23, 1988, [102 Stat. 1263][/us/stat/102/1263].)
 
  __References in Text__ 
 
@@ -61,19 +61,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 339 of act June 17, 1930, related to effect of repeal and reenactment of laws relating to Tariff Commission upon status of appropriations, employees, and privileges, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648].
+    A prior section 339 of act June 17, 1930, related to effect of repeal and reenactment of laws relating to Tariff Commission upon status of appropriations, employees, and privileges, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648].
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–418, § 1614(1)][/us/pl/100/418/s1614/1], substituted “a separate office to be known as the Trade” for “a Trade”, and “upon request and shall, to the extent feasible, provide assistance and advice to interested parties” for “, upon request,” in introductory provisions.
+    1988—Subsec. (a). [Pub. L. 100–418][/us/pl/100/418], § 1614(1), substituted “a separate office to be known as the Trade” for “a Trade”, and “upon request and shall, to the extent feasible, provide assistance and advice to interested parties” for “, upon request,” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 100–418, § 1614(2)][/us/pl/100/418/s1614/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each agency responsible for administering a trade law shall provide technical assistance to eligible small businesses to enable them to prepare and file petitions and applications (other than those which, in the opinion of the agency, are frivolous) to obtain the remedies and benefits that may be available under that law.”
+    Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 1614(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each agency responsible for administering a trade law shall provide technical assistance to eligible small businesses to enable them to prepare and file petitions and applications (other than those which, in the opinion of the agency, are frivolous) to obtain the remedies and benefits that may be available under that law.”
 
     1986—Subsec. (c)(2)(A). [Pub. L. 99–514][/us/pl/99/514] substituted “injury” for “relief”.
 
  __Effective Date__ 
 
-[Pub. L. 98–573, title II, § 221(b)][/us/pl/98/573/s221/b], Oct. 30, 1984, [98 Stat. 2990][/us/stat/98/2990], provided that: 
+[Pub. L. 98–573, title II][/us/pl/98/573/tII], § 221(b), Oct. 30, 1984, [98 Stat. 2990][/us/stat/98/2990], provided that: 
 
 > “Section 339 of the Tariff Act of 1930 \[this section\] (as added by subsection (a)) shall take effect on the 90th day after the date of the enactment of this Act \[Oct. 30, 1984\].”
 
@@ -94,21 +94,21 @@
 [/us/usc/t19/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/98/573/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs221
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2989
-[/us/pl/99/514/s1888/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1888%2F3
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2924
-[/us/pl/100/418/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1614
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1263
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F648
-[/us/pl/100/418/s1614/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1614%2F1
-[/us/pl/100/418/s1614/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1614%2F2
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/573/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs221%2Fb
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2990
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

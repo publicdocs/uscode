@@ -25,15 +25,15 @@
 
     (4) the extent of the beneficiary developing country’s competitiveness with respect to eligible articles.
 
-([Pub. L. 93–618, title V, § 501][/us/pl/93/618/s501], as added [Pub. L. 104–188, title I, § 1952(a)][/us/pl/104/188/s1952/a], Aug. 20, 1996, [110 Stat. 1917][/us/stat/110/1917].)
+([Pub. L. 93–618, title V][/us/pl/93/618/tV], § 501, as added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1952(a), Aug. 20, 1996, [110 Stat. 1917][/us/stat/110/1917].)
 
  __Prior Provisions__ 
 
-    A prior section 2461, [Pub. L. 93–618, title V, § 501][/us/pl/93/618/s501], Jan. 3, 1975, [88 Stat. 2066][/us/stat/88/2066]; [Pub. L. 98–573, title V, § 502][/us/pl/98/573/s502], Oct. 30, 1984, [98 Stat. 3018][/us/stat/98/3018], related to authority to extend preferences, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
+    A prior section 2461, [Pub. L. 93–618, title V][/us/pl/93/618/tV], § 501, Jan. 3, 1975, [88 Stat. 2066][/us/stat/88/2066]; [Pub. L. 98–573, title V][/us/pl/98/573/tV], § 502, Oct. 30, 1984, [98 Stat. 3018][/us/stat/98/3018], related to authority to extend preferences, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
 
  __Effective Date__ 
 
-[Pub. L. 104–188, title I, § 1953][/us/pl/104/188/s1953], Aug. 20, 1996, [110 Stat. 1926][/us/stat/110/1926], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1953, Aug. 20, 1996, [110 Stat. 1926][/us/stat/110/1926], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -88,15 +88,15 @@
 ----------
 ----------
 
-[/us/pl/93/618/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs501
-[/us/pl/104/188/s1952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1952%2Fa
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1917
-[/us/pl/93/618/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs501
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
 [/us/stat/88/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2066
-[/us/pl/98/573/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs502
+[/us/pl/98/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtV
 [/us/stat/98/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3018
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/104/188/s1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1953
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1926
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/usc/t7/s1444–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1444%E2%80%932

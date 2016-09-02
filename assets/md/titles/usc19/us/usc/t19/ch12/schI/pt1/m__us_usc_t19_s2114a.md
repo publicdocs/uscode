@@ -105,7 +105,7 @@
 
             (B) restrictions on the use of data processing facilities within or outside of such country or instrumentality.
 
-([Pub. L. 93–618, title I, § 104A][/us/pl/93/618/s104A], as added [Pub. L. 98–573, title III, § 305(a)(1)][/us/pl/98/573/s305/a/1], Oct. 30, 1984, [98 Stat. 3006][/us/stat/98/3006].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 104A, as added [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 305(a)(1), Oct. 30, 1984, [98 Stat. 3006][/us/stat/98/3006].)
 
 ----------
 
@@ -117,8 +117,8 @@
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241
-[/us/pl/93/618/s104A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs104A
-[/us/pl/98/573/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs305%2Fa%2F1
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3006
 
 

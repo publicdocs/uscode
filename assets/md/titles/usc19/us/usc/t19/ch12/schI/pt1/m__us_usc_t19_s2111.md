@@ -37,7 +37,7 @@
 
         (2) the rate which is 20 percent ad valorem above the rate existing on January 1, 1975.
 
-([Pub. L. 93–618, title I, § 101][/us/pl/93/618/s101], Jan. 3, 1975, [88 Stat. 1982][/us/stat/88/1982].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 101, Jan. 3, 1975, [88 Stat. 1982][/us/stat/88/1982].)
 
  __References in Text__ 
 
@@ -51,11 +51,11 @@
 
  __Reorganizing and Restructuring of International Trade Functions of United States Government__ 
 
-    [Pub. L. 96–39, title XI, § 1109][/us/pl/96/39/s1109], July 26, 1979, [93 Stat. 413][/us/stat/93/413], provided that the President submit to the Congress, not later than July 10, 1979, a proposal to restructure the international trade functions of the Executive Branch of the United States Government, and directed, in order to ensure that the 96th Congress takes final action on a comprehensive reorganization of trade functions as soon as possible, that the appropriate committee of each House of the Congress give the proposal by the President immediate consideration and make its best efforts to take final committee action to reorganize and restructure the international trade functions of the United States Government by Nov. 10, 1979.
+    [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1109, July 26, 1979, [93 Stat. 413][/us/stat/93/413], provided that the President submit to the Congress, not later than July 10, 1979, a proposal to restructure the international trade functions of the Executive Branch of the United States Government, and directed, in order to ensure that the 96th Congress takes final action on a comprehensive reorganization of trade functions as soon as possible, that the appropriate committee of each House of the Congress give the proposal by the President immediate consideration and make its best efforts to take final committee action to reorganize and restructure the international trade functions of the United States Government by Nov. 10, 1979.
 
  __Study of Export Trade Policy__ 
 
-    [Pub. L. 96–39, title XI, § 1110][/us/pl/96/39/s1110], July 26, 1979, [93 Stat. 314][/us/stat/93/314], directed the President to review all export promotion functions of the executive branch and potential programmatic and regulatory disincentives to exports, and to submit to the Congress a report of that review not later than July 15, 1980, and not later than July 15, 1980, to submit to the Congress a study of the factors bearing on the competitive posture of United States producers and the policies and programs required to strengthen the relative competitive position of the United States in world markets.
+    [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1110, July 26, 1979, [93 Stat. 314][/us/stat/93/314], directed the President to review all export promotion functions of the executive branch and potential programmatic and regulatory disincentives to exports, and to submit to the Congress a report of that review not later than July 15, 1980, and not later than July 15, 1980, to submit to the Congress a study of the factors bearing on the competitive posture of United States producers and the policies and programs required to strengthen the relative competitive position of the United States in world markets.
 
  __Proc. No. 4707. Carrying Out the Geneva (1979) Protocol to the General Agreement on Tariffs and Trade and for Other Purposes__ 
 
@@ -432,7 +432,7 @@ By virtue of the authority vested in me by the Trade Act of 1974, hereinafter re
 ----------
 ----------
 
-[/us/pl/93/618/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs101
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1982
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
@@ -443,9 +443,9 @@ By virtue of the authority vested in me by the Trade Act of 1974, hereinafter re
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
-[/us/pl/96/39/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1109
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F413
-[/us/pl/96/39/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1110
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F314
 [/us/usc/t19/s2111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111%2Fa
 [/us/usc/t19/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2102

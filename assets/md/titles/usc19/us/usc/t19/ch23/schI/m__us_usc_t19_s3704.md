@@ -45,7 +45,7 @@
 
         In selecting issues of common interest to the United States-Sub-Saharan Africa Trade and Economic Cooperation Forum, the President shall instruct the United States delegates to the Forum to promote a review by the Forum of the HIV/AIDS epidemic in each sub-Saharan African country and the effect of the HIV/AIDS epidemic on economic development in each country.
 
-([Pub. L. 106–200, title I, § 105][/us/pl/106/200/s105], May 18, 2000, [114 Stat. 255][/us/stat/114/255].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 105, May 18, 2000, [114 Stat. 255][/us/stat/114/255].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t19/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3703
 [/us/usc/t19/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3703
 [/us/usc/t19/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3703
-[/us/pl/106/200/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs105
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F255
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252

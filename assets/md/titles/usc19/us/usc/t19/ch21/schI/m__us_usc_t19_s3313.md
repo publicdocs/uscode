@@ -43,7 +43,7 @@
 
         Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
 
-([Pub. L. 103–182, title I, § 103][/us/pl/103/182/s103], Dec. 8, 1993, [107 Stat. 2063][/us/stat/107/2063].)
+([Pub. L. 103–182, title I][/us/pl/103/182/tI], § 103, Dec. 8, 1993, [107 Stat. 2063][/us/stat/107/2063].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 ----------
 
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/103/182/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs103
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2063
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057

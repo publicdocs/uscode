@@ -47,7 +47,7 @@
 
             (B) The Secretary of the Treasury shall refund any duties paid with respect to entries described in subparagraph (A).
 
-([Pub. L. 103–465, title I, § 113][/us/pl/103/465/s113], Dec. 8, 1994, [108 Stat. 4826][/us/stat/108/4826].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 113, Dec. 8, 1994, [108 Stat. 4826][/us/stat/108/4826].)
 
  __Transfer of Functions__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t19/s3513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3513%2Fa
-[/us/pl/103/465/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs113
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4826
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd

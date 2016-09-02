@@ -17,7 +17,7 @@
 
     The President may delegate the duties and authorities under this chapter to such officers, officials, departments, or agencies of the United States Government as the President deems appropriate.
 
-([Pub. L. 108–19, § 14][/us/pl/108/19/s14], Apr. 25, 2003, [117 Stat. 636][/us/stat/117/636].)
+([Pub. L. 108–19][/us/pl/108/19], § 14, Apr. 25, 2003, [117 Stat. 636][/us/stat/117/636].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs14
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F636
 
 

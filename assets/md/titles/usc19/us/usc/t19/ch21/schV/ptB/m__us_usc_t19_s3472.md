@@ -33,7 +33,7 @@
 
         (2) the term “North American Agreement on Environmental Cooperation” means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
-([Pub. L. 103–182, title V, § 532][/us/pl/103/182/s532], Dec. 8, 1993, [107 Stat. 2164][/us/stat/107/2164].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 532, Dec. 8, 1993, [107 Stat. 2164][/us/stat/107/2164].)
 
  __Ex. Ord. No. 12915. Federal Implementation of the North American Agreement on Environmental Cooperation__ 
 
@@ -99,6 +99,14 @@ By the authority vested in me as President by the Constitution and the laws of t
 
                               William J. Clinton.
 
+ __Extension of Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation__ 
+
+    Term of the Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+ __Extension of Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation__ 
+
+    Term of the National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t19/ch21/schV/ptB/m__us_usc_t19_s3471.md) | [Next](./../../../../../..//us/usc/t19/ch21/schV/ptB/m__us_usc_t19_s3473.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3472)
@@ -106,7 +114,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/103/182/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs532
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2164
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057

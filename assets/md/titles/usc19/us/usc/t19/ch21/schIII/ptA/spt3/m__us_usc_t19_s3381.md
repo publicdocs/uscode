@@ -23,7 +23,7 @@
 
     the International Trade Commission, until January 1, 2009, shall monitor imports of such goods as if proper requests for such monitoring had been made under subsection (d)(1)(C)(i) of [section 2252 of this title][/us/usc/t19/s2252]. At the request of the International Trade Commission, the Secretary of Agriculture and the Commissioner of Customs shall provide to the International Trade Commission information relevant to the monitoring carried out under this section.
 
-([Pub. L. 103–182, title III, § 316][/us/pl/103/182/s316], Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108]; [Pub. L. 104–295, § 21(b)(3)][/us/pl/104/295/s21/b/3], Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 316, Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108]; [Pub. L. 104–295][/us/pl/104/295], § 21(b)(3), Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
-[/us/pl/103/182/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs316
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2108
-[/us/pl/104/295/s21/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fb%2F3
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3530
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2100

@@ -17,7 +17,7 @@
 
     No tax or other charge imposed by or pursuant to any law of the United States shall be construed to be a customs duty for the purpose of any statute relating to the customs revenue, unless the law imposing such tax or charge designates it as a customs duty or contains a provision to the effect that it shall be treated as a duty imposed under the customs laws. Nothing in this section shall be construed to limit or restrict the jurisdiction of the United States Court of International Trade or the United States Court of Appeals for the Federal Circuit.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 528, as added [June 25, 1938, ch. 679, § 20][/us/act/1938-06-25/ch679/s20], [52 Stat. 1087][/us/stat/52/1087]; amended [Pub. L. 96–417, title VI, § 601(8)][/us/pl/96/417/s601/8], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 97–164, title I, § 163(a)(3)][/us/pl/97/164/s163/a/3], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 528, as added [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 20, [52 Stat. 1087][/us/stat/52/1087]; amended [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 601(8), Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 163(a)(3), Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49].)
 
  __Amendments__ 
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/act/1938-06-25/ch679/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs20
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1087
-[/us/pl/96/417/s601/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs601%2F8
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1744
-[/us/pl/97/164/s163/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs163%2Fa%2F3
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F49
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417

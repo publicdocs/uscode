@@ -17,7 +17,7 @@
 
     For the purpose of facilitating the investigations of the Board and its work in the granting of the privilege, in the establishment, operation, and maintenance of a zone, the President may direct the executive departments and other establishments of the Government to cooperate with the Board, and for such purpose each of the several departments and establishments is authorized, upon direction of the President, to furnish to the Board such records, papers, and information in their possession as may be required by him, and temporarily to detail to the service of the Board such officers, experts, or engineers as may be necessary.
 
-([June 18, 1934, ch. 590, § 10][/us/act/1934-06-18/ch590/s10], [48 Stat. 1001][/us/stat/48/1001].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 10, [48 Stat. 1001][/us/stat/48/1001].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs10
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1001
 
 

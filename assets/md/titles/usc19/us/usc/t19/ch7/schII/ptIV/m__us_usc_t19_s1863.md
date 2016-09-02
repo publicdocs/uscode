@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch7/schII/ptIV/m__us_usc_t19_s1862.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptIV/m__us_usc_t19_s1864.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1863)
 
-## § 1863. Repealed. [Pub. L. 100–418, title I, § 1501(b)(2)][/us/pl/100/418/s1501/b/2], Aug. 23, 1988, [102 Stat. 1259][/us/stat/102/1259]
+## § 1863. Repealed. [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1501(b)(2), Aug. 23, 1988, [102 Stat. 1259][/us/stat/102/1259]
 
-    Section, [Pub. L. 93–618, title I, § 127(c)][/us/pl/93/618/s127/c], Jan. 3, 1975, [88 Stat. 1993][/us/stat/88/1993], directed that reports to Congress be submitted annually and within 60 days after any action was taken under [section 1862 of this title][/us/usc/t19/s1862].
+    Section, [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 127(c), Jan. 3, 1975, [88 Stat. 1993][/us/stat/88/1993], directed that reports to Congress be submitted annually and within 60 days after any action was taken under [section 1862 of this title][/us/usc/t19/s1862].
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fb%2F2
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1259
-[/us/pl/93/618/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs127%2Fc
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1993
 [/us/usc/t19/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862
 [/us/usc/t19/s1862/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862%2Fb

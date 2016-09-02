@@ -45,7 +45,7 @@
 
             Within 6 months after May 18, 2000, and annually for each of the 4 years thereafter, the Board of Directors of the Overseas Private Investment Corporation shall submit to Congress a report on the steps that the Board has taken to implement [section 2193(e) of title 22][/us/usc/t22/s2193/e] and any recommendations of the investment advisory council established pursuant to such section.
 
-([Pub. L. 106–200, title I, § 123][/us/pl/106/200/s123], May 18, 2000, [114 Stat. 269][/us/stat/114/269].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 123, May 18, 2000, [114 Stat. 269][/us/stat/114/269].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t22/s2193/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2193%2Fe
-[/us/pl/106/200/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs123
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F269
 [/us/pl/106/200/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs123
 [/us/pl/106/200/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs123

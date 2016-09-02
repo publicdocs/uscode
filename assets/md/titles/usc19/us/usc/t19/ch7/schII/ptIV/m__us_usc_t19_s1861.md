@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch7/schII/ptIV/m__us_usc_t19_ch7_schII_ptIV.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptIV/m__us_usc_t19_s1862.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1861)
 
-## § 1861. Repealed. [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]
+## § 1861. Repealed. [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]
 
-    Section, [Pub. L. 87–794, title II, § 231][/us/pl/87/794/s231], Oct. 11, 1962, [76 Stat. 876][/us/stat/76/876]; [Pub. L. 88–205][/us/pl/88/205], pt. IV, § 402, Dec. 16, 1963, [77 Stat. 390][/us/stat/77/390], covered products of Communist countries or areas.
+    Section, [Pub. L. 87–794, title II][/us/pl/87/794/tII], § 231, Oct. 11, 1962, [76 Stat. 876][/us/stat/76/876]; [Pub. L. 88–205][/us/pl/88/205], pt. IV, § 402, Dec. 16, 1963, [77 Stat. 390][/us/stat/77/390], covered products of Communist countries or areas.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/87/794/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs231
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F876
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/77/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F390

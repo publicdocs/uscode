@@ -157,7 +157,7 @@
 
         For purposes of determining if a product is covered by the importer declaration program, the President shall be guided by the article descriptions provided in this section.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 804, as added [Pub. L. 110–246, title III, § 3301(a)][/us/pl/110/246/s3301/a], June 18, 2008, [122 Stat. 1848][/us/stat/122/1848].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 804, as added [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3301(a), June 18, 2008, [122 Stat. 1848][/us/stat/122/1848].)
 
  __References in Text__ 
 
@@ -174,7 +174,7 @@
 [/us/usc/t19/s1683a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683a
 [/us/usc/t19/s1683a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683a
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1848
 [/us/usc/t19/s1683a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683a
 [/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa

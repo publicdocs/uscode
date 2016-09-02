@@ -39,7 +39,7 @@
 
         Modifications proclaimed by the President under subsection (a) may not take effect before the 30th day after the date on which the text of the proclamation is published in the Federal Register.
 
-([Pub. L. 100–418, title I, § 1206][/us/pl/100/418/s1206], Aug. 23, 1988, [102 Stat. 1151][/us/stat/102/1151]; [Pub. L. 109–432, div. D, title III, § 3012][/us/pl/109/432/s3012], Dec. 20, 2006, [120 Stat. 3177][/us/stat/120/3177].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1206, Aug. 23, 1988, [102 Stat. 1151][/us/stat/102/1151]; [Pub. L. 109–432, div. D, title III][/us/pl/109/432/dD/tIII], § 3012, Dec. 20, 2006, [120 Stat. 3177][/us/stat/120/3177].)
 
  __References in Text__ 
 
@@ -71,9 +71,9 @@
 ----------
 
 [/us/usc/t19/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3005
-[/us/pl/100/418/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1206
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1151
-[/us/pl/109/432/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs3012
+[/us/pl/109/432/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtIII
 [/us/stat/120/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3177
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432

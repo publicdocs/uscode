@@ -49,7 +49,7 @@
 
         The term “textile or apparel good” means a good listed in the Annex to the Agreement on Textiles and Clothing referred to in [section 3511(d)(4) of this title][/us/usc/t19/s3511/d/4], other than a good listed in Annex 3.29 of the Agreement.
 
-([Pub. L. 109–53, § 3][/us/pl/109/53/s3], Aug. 2, 2005, [119 Stat. 463][/us/stat/119/463].)
+([Pub. L. 109–53][/us/pl/109/53], § 3, Aug. 2, 2005, [119 Stat. 463][/us/stat/119/463].)
 
  __Termination of Section__ 
 
@@ -75,7 +75,7 @@
 [/us/usc/t19/s4011/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4011%2Fa%2F1
 [/us/usc/t19/s4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4033
 [/us/usc/t19/s3511/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F4
-[/us/pl/109/53/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs3
+[/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
 [/us/stat/119/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F463
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

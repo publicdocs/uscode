@@ -21,7 +21,7 @@
 
     (2) request, for each subsequent fiscal year, an appropriation for such a wine export promotion program that will not be at the expense of any appropriations requested for export promotion programs involving other agriculture commodities.
 
-([Pub. L. 98–573, title IX, § 907][/us/pl/98/573/s907], Oct. 30, 1984, [98 Stat. 3050][/us/stat/98/3050].)
+([Pub. L. 98–573, title IX][/us/pl/98/573/tIX], § 907, Oct. 30, 1984, [98 Stat. 3050][/us/stat/98/3050].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
-[/us/pl/98/573/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs907
+[/us/pl/98/573/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIX
 [/us/stat/98/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3050
 [/us/pl/97/253/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs135
 [/us/stat/96/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F772

@@ -17,7 +17,7 @@
 
     Merchandise in Customs  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  custody that is transported by pipeline may be accounted for on a quantitative basis, based on the bill of lading, or equivalent document of receipt, issued by the pipeline carrier. Unless the Customs Service has reasonable cause to suspect fraud, the Customs Service may accept the bill of lading, or equivalent document of receipt, issued by the pipeline carrier to the shipper and accepted by the consignee to maintain identity. The shipper, pipeline operator, and consignee shall be subject to the recordkeeping requirements of sections 1508 and 1509 of this title.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 553A, as added [Pub. L. 103–182, title VI, § 664][/us/pl/103/182/s664], Dec. 8, 1993, [107 Stat. 2215][/us/stat/107/2215].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 553A, as added [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 664, Dec. 8, 1993, [107 Stat. 2215][/us/stat/107/2215].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/182/s664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs664
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2215
 [/us/usc/t19/s1553–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1553%E2%80%931
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

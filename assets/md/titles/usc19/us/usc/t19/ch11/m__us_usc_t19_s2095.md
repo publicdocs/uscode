@@ -39,7 +39,7 @@
 
     (4) The term “country of origin”, as applied to any pre-Columbian monumental or architectural sculpture or mural, means the country where such sculpture or mural was first discovered.
 
-([Pub. L. 92–587, title II, § 205][/us/pl/92/587/s205], Oct. 27, 1972, [86 Stat. 1297][/us/stat/86/1297].)
+([Pub. L. 92–587, title II][/us/pl/92/587/tII], § 205, Oct. 27, 1972, [86 Stat. 1297][/us/stat/86/1297].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/92/587/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2Fs205
+[/us/pl/92/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2FtII
 [/us/stat/86/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1297
 
 

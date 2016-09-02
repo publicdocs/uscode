@@ -23,7 +23,7 @@
 
         A final determination under subsection (a) with respect to entitlement to program benefits under subpart B of this part is subject to review by the courts in the same manner and to the same extent as is provided by [section 405(g) of title 42][/us/usc/t42/s405/g].
 
-([Pub. L. 93–618, title II, § 240][/us/pl/93/618/s240], Jan. 3, 1975, [88 Stat. 2025][/us/stat/88/2025].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 240, Jan. 3, 1975, [88 Stat. 2025][/us/stat/88/2025].)
 
  __Termination Date__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t19/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2311
 [/us/usc/t42/s405/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405%2Fg
-[/us/pl/93/618/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs240
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2025
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271

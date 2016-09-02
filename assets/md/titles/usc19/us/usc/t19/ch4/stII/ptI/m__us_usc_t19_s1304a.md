@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall make available to U.S. Customs and Border Protection technical assistance related to the identification of produce represented as grown in the United States when it is not in fact grown in the United States.
 
-([Pub. L. 113–79, title XII, § 12309(a)][/us/pl/113/79/s12309/a], Feb. 7, 2014, [128 Stat. 991][/us/stat/128/991].)
+([Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12309(a), Feb. 7, 2014, [128 Stat. 991][/us/stat/128/991].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s12309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12309%2Fa
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F991
 
 

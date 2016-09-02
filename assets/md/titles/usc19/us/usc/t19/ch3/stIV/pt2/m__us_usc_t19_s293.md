@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s288.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s294.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs293)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s289...292.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s294.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs293)
 
 ## § 293. Documented vessels touching at foreign ports
 
     Any United States documented vessel with a registry or coastwise endorsement, or both, may engage in trade between one port in the United States and one or more ports within the same, with the privilege of touching at one or more foreign ports during the voyage, and land and take in thereat merchandise, passengers and their baggage, and letters, and mails.
 
-(R.S. § 3126; [Pub. L. 91–271, title III, § 318][/us/pl/91/271/s318], June 2, 1970, [84 Stat. 293][/us/stat/84/293]; [Pub. L. 103–182, title VI, § 686(a)(2)][/us/pl/103/182/s686/a/2], Dec. 8, 1993, [107 Stat. 2220][/us/stat/107/2220]; [Pub. L. 104–295, § 21(e)(1)][/us/pl/104/295/s21/e/1], Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
+(R.S. § 3126; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 318, June 2, 1970, [84 Stat. 293][/us/stat/84/293]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 686(a)(2), Dec. 8, 1993, [107 Stat. 2220][/us/stat/107/2220]; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(1), Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
 
  __Codification__ 
 
-    R.S. § 3126 derived from [act May 27, 1848, ch. 48, § 1][/us/act/1848-05-27/ch48/s1], [9 Stat. 232][/us/stat/9/232].
+    R.S. § 3126 derived from [act May 27, 1848, ch. 48][/us/act/1848-05-27/ch48], § 1, [9 Stat. 232][/us/stat/9/232].
 
  __Amendments__ 
 
@@ -37,18 +37,18 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s288.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s294.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs293)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s289...292.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s294.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs293)
 
 ----------
 ----------
 
-[/us/pl/91/271/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs318
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F293
-[/us/pl/103/182/s686/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs686%2Fa%2F2
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2220
-[/us/pl/104/295/s21/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F1
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3530
-[/us/act/1848-05-27/ch48/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1848-05-27%2Fch48%2Fs1
+[/us/act/1848-05-27/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1848-05-27%2Fch48
 [/us/stat/9/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F232
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

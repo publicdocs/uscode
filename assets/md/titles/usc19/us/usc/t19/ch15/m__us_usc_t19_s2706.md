@@ -17,9 +17,9 @@
 
     (a) This chapter shall take effect on August 5, 1983.
 
-    (b) Repealed. [Pub. L. 101–382, title II, § 211][/us/pl/101/382/s211], Aug. 20, 1990, [104 Stat. 655][/us/stat/104/655].
+    (b) Repealed. [Pub. L. 101–382, title II][/us/pl/101/382/tII], § 211, Aug. 20, 1990, [104 Stat. 655][/us/stat/104/655].
 
-([Pub. L. 98–67, title II, § 218][/us/pl/98/67/s218], Aug. 5, 1983, [97 Stat. 395][/us/stat/97/395]; [Pub. L. 101–382, title II, § 211][/us/pl/101/382/s211], Aug. 20, 1990, [104 Stat. 655][/us/stat/104/655].)
+([Pub. L. 98–67, title II][/us/pl/98/67/tII], § 218, Aug. 5, 1983, [97 Stat. 395][/us/stat/97/395]; [Pub. L. 101–382, title II][/us/pl/101/382/tII], § 211, Aug. 20, 1990, [104 Stat. 655][/us/stat/104/655].)
 
  __References in Text__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/101/382/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs211
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F655
-[/us/pl/98/67/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs218
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
 [/us/stat/97/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F395
-[/us/pl/101/382/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs211
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F655
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202

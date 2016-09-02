@@ -107,7 +107,7 @@
 
         The term “United States”, when used in a geographical context, means all States.
 
-([Pub. L. 96–39, title IV, § 451][/us/pl/96/39/s451], July 26, 1979, [93 Stat. 249][/us/stat/93/249]; [Pub. L. 103–182, title III, § 351(b)(1)][/us/pl/103/182/s351/b/1], Dec. 8, 1993, [107 Stat. 2122][/us/stat/107/2122]; [Pub. L. 103–465, title III, § 351(e)][/us/pl/103/465/s351/e], Dec. 8, 1994, [108 Stat. 4956][/us/stat/108/4956]; [Pub. L. 104–295, § 20(c)(16)][/us/pl/104/295/s20/c/16], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 451, July 26, 1979, [93 Stat. 249][/us/stat/93/249]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 351(b)(1), Dec. 8, 1993, [107 Stat. 2122][/us/stat/107/2122]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 351(e), Dec. 8, 1994, [108 Stat. 4956][/us/stat/108/4956]; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(16), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529].)
 
  __References in Text__ 
 
@@ -117,9 +117,9 @@
 
     1996—Par. (6)(A). [Pub. L. 104–295][/us/pl/104/295] substituted “; and” for period at end.
 
-    1994—Par. (1). [Pub. L. 103–465, § 351(e)(1)][/us/pl/103/465/s351/e/1], amended par. (1) generally, substituting “referred to in [section 3511(d)(5) of this title][/us/usc/t19/s3511/d/5]” for “approved under [section 2503(a) of this title][/us/usc/t19/s2503/a]”.
+    1994—Par. (1). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(1), amended par. (1) generally, substituting “referred to in [section 3511(d)(5) of this title][/us/usc/t19/s3511/d/5]” for “approved under [section 2503(a) of this title][/us/usc/t19/s2503/a]”.
 
-    Par. (2). [Pub. L. 103–465, § 351(e)(2)][/us/pl/103/465/s351/e/2], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘certification system’ means a system—
+    Par. (2). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘certification system’ means a system—
 
     “(A) for determining whether a product conforms with product standards applicable to that product; and
 
@@ -127,19 +127,19 @@
 
     Such term also includes any modification of, or change to, any such system.”
 
-    Par. (4). [Pub. L. 103–465, § 351(e)(3)][/us/pl/103/465/s351/e/3], substituted “conformity assessment procedure” for “certification system” in two places.
+    Par. (4). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(3), substituted “conformity assessment procedure” for “certification system” in two places.
 
-    Par. (6)(A). [Pub. L. 103–465, § 351(e)(4)][/us/pl/103/465/s351/e/4], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
+    Par. (6)(A). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
 
     “(i) all Parties to the Agreement, or
 
     “(ii) some but not all Parties of the Agreement; and”.
 
-    Par. (7). [Pub. L. 103–465, § 351(e)(5)][/us/pl/103/465/s351/e/5], substituted “conformity assessment procedure” for “certification system”.
+    Par. (7). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(5), substituted “conformity assessment procedure” for “certification system”.
 
-    Par. (8). [Pub. L. 103–465, § 351(e)(6)][/us/pl/103/465/s351/e/6], amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “The term ‘Party to the Agreement’ means any foreign country or instrumentality determined by the President to have assumed, and to be applying, the obligations of the Agreement with respect to the United States.”
+    Par. (8). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(6), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “The term ‘Party to the Agreement’ means any foreign country or instrumentality determined by the President to have assumed, and to be applying, the obligations of the Agreement with respect to the United States.”
 
-    Par. (13). [Pub. L. 103–465, § 351(e)(7)][/us/pl/103/465/s351/e/7], amended heading and text of par. (13) generally. Prior to amendment, text read as follows: “The term ‘standard’ means any of the following, and any amendment or change to any of the following:
+    Par. (13). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(7), amended heading and text of par. (13) generally. Prior to amendment, text read as follows: “The term ‘standard’ means any of the following, and any amendment or change to any of the following:
 
     “(A) The specification of the characteristics of a product, including, but not limited to, levels of quality, performance, safety, or dimensions.
 
@@ -147,9 +147,9 @@
 
     “(C) Administrative procedures related to the application of any specification referred to in paragraph (A) or (B).”
 
-    Par. (14). [Pub. L. 103–465, § 351(e)(8)][/us/pl/103/465/s351/e/8], substituted “, technical regulation, or conformity assessment procedure” for “or any certification system”.
+    Par. (14). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(8), substituted “, technical regulation, or conformity assessment procedure” for “or any certification system”.
 
-    Pars. (17), (18). [Pub. L. 103–465, § 351(e)(9)][/us/pl/103/465/s351/e/9], added par. (17) and redesignated former par. (17) as (18).
+    Pars. (17), (18). [Pub. L. 103–465][/us/pl/103/465], § 351(e)(9), added par. (17) and redesignated former par. (17) as (18).
 
     1993—Par. (12). [Pub. L. 103–182][/us/pl/103/182] amended par. (12) generally. Prior to amendment, par. (12) read as follows:
 
@@ -168,26 +168,26 @@
 
 [/us/usc/t19/s3511/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F5
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10
-[/us/pl/96/39/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs451
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F249
-[/us/pl/103/182/s351/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs351%2Fb%2F1
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2122
-[/us/pl/103/465/s351/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4956
-[/us/pl/104/295/s20/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F16
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/465/s351/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3511/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F5
 [/us/usc/t19/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fa
-[/us/pl/103/465/s351/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F2
-[/us/pl/103/465/s351/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F3
-[/us/pl/103/465/s351/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F4
-[/us/pl/103/465/s351/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F5
-[/us/pl/103/465/s351/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F6
-[/us/pl/103/465/s351/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F7
-[/us/pl/103/465/s351/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F8
-[/us/pl/103/465/s351/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fe%2F9
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs352

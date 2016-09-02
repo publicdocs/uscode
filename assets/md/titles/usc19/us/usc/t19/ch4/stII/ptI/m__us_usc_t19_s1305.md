@@ -19,7 +19,7 @@
 
         All persons are prohibited from importing into the United States from any foreign country any book, pamphlet, paper, writing, advertisement, circular, print, picture, or drawing containing any matter advocating or urging treason or insurrection against the United States, or forcible resistance to any law of the United States, or containing any threat to take the life of or inflict bodily harm upon any person in the United States, or any obscene book, pamphlet, paper, writing, advertisement, circular, print, picture, drawing, or other representation, figure, or image on or of paper or other material, or any cast, instrument, or other article which is obscene or immoral, or any drug or medicine or any article whatever for causing unlawful abortion, or any lottery ticket, or any printed paper that may be used as a lottery ticket, or any advertisement of any lottery. No such articles whether imported separately or contained in packages with other goods entitled to entry, shall be admitted to entry; and all such articles and, unless it appears to the satisfaction of the appropriate customs officer that the obscene or other prohibited articles contained in the package were inclosed therein without the knowledge or consent of the importer, owner, agent, or consignee, the entire contents of the package in which such articles are contained, shall be subject to seizure and forfeiture as hereinafter provided: Provided, That the drugs hereinbefore mentioned, when imported in bulk and not put up for any of the purposes hereinbefore specified, are excepted from the operation of this subdivision: Provided further, That the Secretary of the Treasury may, in his discretion, admit the so-called classics or books of recognized and established literary or scientific merit, but may, in his discretion, admit such classics or books only when imported for noncommercial purposes: Provided further, That effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canada for use in connection with a lottery conducted in the United States.
 
-    (b)  __1__  __Enforcement procedures__ 
+    (b)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (b) and (c) have been enacted. Second subsecs. (b) and (c) probably should be designated (e) and (f), respectively.__  __ </sup></sup> __  __Enforcement procedures__ 
 
     Upon the appearance of any such book or matter at any customs office, the same shall be seized and held by the appropriate customs officer to await the judgment of the district court as hereinafter provided; and no protest shall be taken to the United States Court of International Trade from the decision of such customs officer. Upon the seizure of such book or matter, such customs officer shall transmit information thereof to the United States attorney of the district in which is situated either—
 
@@ -39,7 +39,7 @@
 
         Upon motion of the United States, a court shall stay such civil forfeiture proceedings commenced under this section pending the completion of any related criminal matter.
 
-    (b)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (b) and (c) have been enacted. Second subsecs. (b) and (c) probably should be designated (e) and (f), respectively.__  __ </sup></sup> __  __Coordination of forfeiture proceedings with criminal proceedings__ 
+    (b)  __1__  __Coordination of forfeiture proceedings with criminal proceedings__ 
 
         (1) Notwithstanding subsection (a), whenever the Customs Service is of the opinion that criminal prosecution would be appropriate or that further criminal investigation is warranted in connection with allegedly obscene material seized at the time of entry, the appropriate customs officer shall immediately transmit information concerning such seizure to the United States Attorney  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should not be capitalized. </sup></sup>  of the district of the addressee’s residence. No notice to the addressee or consignee concerning the seizure is required at the time of such transmittal.
 
@@ -61,7 +61,7 @@
 
         Upon motion of the United States, a court, for good cause shown, shall stay civil forfeiture proceedings commenced under this section pending the completion of any related criminal matter whether in the same or in a different district.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 305, [46 Stat. 688][/us/stat/46/688]; [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 869][/us/stat/62/869]; [Pub. L. 91–271, title III, § 301(a)][/us/pl/91/271/s301/a], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 91–662, § 1][/us/pl/91/662/s1], Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973]; [Pub. L. 96–417, title VI, § 601(2)][/us/pl/96/417/s601/2], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 100–418, title I, § 1901(a)][/us/pl/100/418/s1901/a], Aug. 23, 1988, [102 Stat. 1312][/us/stat/102/1312]; [Pub. L. 100–449, title II, § 206][/us/pl/100/449/s206], Sept. 28, 1988, [102 Stat. 1864][/us/stat/102/1864]; [Pub. L. 100–690, title VII, § 7522(e)][/us/pl/100/690/s7522/e]\[d\], Nov. 18, 1988, [102 Stat. 4500][/us/stat/102/4500].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 305, [46 Stat. 688][/us/stat/46/688]; [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 869][/us/stat/62/869]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(a), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 91–662][/us/pl/91/662], § 1, Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973]; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 601(2), Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1901(a), Aug. 23, 1988, [102 Stat. 1312][/us/stat/102/1312]; [Pub. L. 100–449, title II][/us/pl/100/449/tII], § 206, Sept. 28, 1988, [102 Stat. 1864][/us/stat/102/1864]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7522(e)\[d\], Nov. 18, 1988, [102 Stat. 4500][/us/stat/102/4500].)
 
  __Amendment of Section__ 
 
@@ -69,21 +69,21 @@
 
  __Prior Provisions__ 
 
-    Provisions in substantially the same language as those in this section were made by [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, subsections 1, 2, and 3, [38 Stat. 194][/us/stat/38/194], superseding similar provisions of previous tariff acts. Those subsections were superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 305, [42 Stat. 937][/us/stat/42/937], and repealed by section 321 of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions in substantially the same language as those in this section were made by [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, subsections 1, 2, and 3, [38 Stat. 194][/us/stat/38/194], superseding similar provisions of previous tariff acts. Those subsections were superseded by [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 305, [42 Stat. 937][/us/stat/42/937], and repealed by section 321 of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
     1988—Subsec. (a). [Pub. L. 100–449][/us/pl/100/449] temporarily inserted proviso at end of first par. directing that, “effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canada for use in connection with a lottery conducted in the United States”. See Effective and Termination Dates of 1988 Amendment note below.
 
-    [Pub. L. 100–418, § 1901(a)(1)][/us/pl/100/418/s1901/a/1], designated second par. of subsec. (a) as subsec. (b) “Enforcement procedures”.
+    [Pub. L. 100–418][/us/pl/100/418], § 1901(a)(1), designated second par. of subsec. (a) as subsec. (b) “Enforcement procedures”.
 
-    Subsec. (b). [Pub. L. 100–690, § 7522(e)][/us/pl/100/690/s7522/e], added subsec. (b) relating to coordination of forfeiture proceedings with criminal proceedings.
+    Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 7522(e), added subsec. (b) relating to coordination of forfeiture proceedings with criminal proceedings.
 
-    [Pub. L. 100–418, § 1901(a)(1)][/us/pl/100/418/s1901/a/1], (2), designated second par. of subsec. (a) as subsec. (b) “Enforcement procedures” and amended second sentence generally. Prior to amendment, second sentence read as follows: “Upon the seizure of such book or matter such customs officer shall transmit information thereof to the United States attorney of the district in which is situated the office at which such seizure has taken place, who shall institute proceedings in the district court for the forfeiture, confiscation, and destruction of the book or matter seized.”
+    [Pub. L. 100–418][/us/pl/100/418], § 1901(a)(1), (2), designated second par. of subsec. (a) as subsec. (b) “Enforcement procedures” and amended second sentence generally. Prior to amendment, second sentence read as follows: “Upon the seizure of such book or matter such customs officer shall transmit information thereof to the United States attorney of the district in which is situated the office at which such seizure has taken place, who shall institute proceedings in the district court for the forfeiture, confiscation, and destruction of the book or matter seized.”
 
-    Subsec. (c). [Pub. L. 100–690, § 7522(e)][/us/pl/100/690/s7522/e], added subsec. (c) relating to stay on motion.
+    Subsec. (c). [Pub. L. 100–690][/us/pl/100/690], § 7522(e), added subsec. (c) relating to stay on motion.
 
-    [Pub. L. 100–418, § 1901(a)(3)][/us/pl/100/418/s1901/a/3], added subsec. (c) relating to institution of forfeiture proceedings.
+    [Pub. L. 100–418][/us/pl/100/418], § 1901(a)(3), added subsec. (c) relating to institution of forfeiture proceedings.
 
     Subsec. (d). [Pub. L. 100–418][/us/pl/100/418] added subsec. (d) relating to stay of forfeiture proceedings.
 
@@ -103,7 +103,7 @@
 
     Amendment by [Pub. L. 100–449][/us/pl/100/449] effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of [Pub. L. 100–449][/us/pl/100/449], set out in a note under [section 2112 of this title][/us/usc/t19/s2112].
 
-[Pub. L. 100–418, title I, § 1901(b)][/us/pl/100/418/s1901/b], Aug. 23, 1988, [102 Stat. 1312][/us/stat/102/1312], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1901(b), Aug. 23, 1988, [102 Stat. 1312][/us/stat/102/1312], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
@@ -150,33 +150,33 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F688
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
-[/us/pl/91/271/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fa
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/91/662/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs1
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
 [/us/stat/84/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1973
-[/us/pl/96/417/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs601%2F2
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1744
-[/us/pl/100/418/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1901%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1312
-[/us/pl/100/449/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs206
+[/us/pl/100/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtII
 [/us/stat/102/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1864
-[/us/pl/100/690/s7522/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7522%2Fe
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4500
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F194
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F937
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
-[/us/pl/100/418/s1901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1901%2Fa%2F1
-[/us/pl/100/690/s7522/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7522%2Fe
-[/us/pl/100/418/s1901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1901%2Fa%2F1
-[/us/pl/100/690/s7522/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7522%2Fe
-[/us/pl/100/418/s1901/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1901%2Fa%2F3
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
@@ -186,7 +186,7 @@
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/100/418/s1901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1901%2Fb
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1312
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/96/417/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs701%2Fa

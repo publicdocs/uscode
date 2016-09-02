@@ -17,7 +17,7 @@
 
     The Trade Representative shall seek the adoption by the Ministerial Conference and General Council of procedures that will ensure broader application of the principle of transparency and clarification of the costs and benefits of trade policy actions, through the observance of open and equitable procedures in trade matters by the Ministerial Conference and the General Council, and by the dispute settlement panels and the Appellate Body under the Dispute Settlement Understanding.
 
-([Pub. L. 103–465, title I, § 126][/us/pl/103/465/s126], Dec. 8, 1994, [108 Stat. 4834][/us/stat/108/4834].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 126, Dec. 8, 1994, [108 Stat. 4834][/us/stat/108/4834].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/465/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs126
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4834
 
 

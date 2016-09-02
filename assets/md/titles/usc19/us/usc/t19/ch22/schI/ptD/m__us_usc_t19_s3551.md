@@ -35,7 +35,7 @@
 
         The President shall report to the Congress, not later than 1 year after December 8, 1994, on the progress made in establishing the working party under this section, and on United States objectives with respect to the working party’s work program.
 
-([Pub. L. 103–465, title I, § 131][/us/pl/103/465/s131], Dec. 8, 1994, [108 Stat. 4839][/us/stat/108/4839]; [Pub. L. 104–188, title I, § 1954(a)(6)][/us/pl/104/188/s1954/a/6], Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 131, Dec. 8, 1994, [108 Stat. 4839][/us/stat/108/4839]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1954(a)(6), Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–465, title I, § 138][/us/pl/103/465/s138], Dec. 8, 1994, [108 Stat. 4842][/us/stat/108/4842], provided that:
+[Pub. L. 103–465, title I][/us/pl/103/465/tI], § 138, Dec. 8, 1994, [108 Stat. 4842][/us/stat/108/4842], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -70,15 +70,15 @@
 
 [/us/usc/t19/s2467/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F4
 [/us/usc/t19/s2467/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F4
-[/us/pl/103/465/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs131
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4839
-[/us/pl/104/188/s1954/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fa%2F6
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1928
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1953
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/103/465/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs138
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4842
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

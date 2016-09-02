@@ -53,7 +53,7 @@
 
                 (i) to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted or any review under this subtitle covering the same subject merchandise, or
 
-                (ii) to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
+                (ii) to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding negligence, gross negligence, or fraud under this subtitle.
 
             (B) __Additional requirements__ 
 
@@ -137,7 +137,7 @@
 
         Any party submitting written information, including business proprietary information, to the administering authority or the Commission during a proceeding shall, at the same time, serve the information upon all interested parties who are parties to the proceeding, if the information is covered by a protective order. The administering authority or the Commission shall not accept any such information that is not accompanied by a certificate of service and a copy of the protective order version of the document containing the information. Business proprietary information shall only be served upon interested parties who are parties to the proceeding that are subject to protective order; however, a nonconfidential summary thereof shall be served upon all other interested parties who are parties to the proceeding.
 
-    (e) __Repealed.__  __[__  __Pub. L. 103–465, title II, § 231(d)(1)__  __][/us/pl/103/465/s231/d/1]__  __,__  __Dec. 8, 1994__  __,__  __[__  __108 Stat. 4897__  __][/us/stat/108/4897]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 103–465, title II__  __][/us/pl/103/465/tII]__  __, § 231(d)(1),__  __Dec. 8, 1994__  __,__  __[__  __108 Stat. 4897__  __][/us/stat/108/4897]__ 
 
     (f) __Disclosure of proprietary information under protective orders issued pursuant to the North American Free Trade Agreement or the United States-Canada Agreement__ 
 
@@ -263,7 +263,7 @@
 
             (B) the Commission shall include in a final determination of injury an explanation of the basis for its determination that addresses relevant arguments that are made by interested parties who are parties to the investigation or review (as the case may be) concerning volume, price effects, and impact on the industry of imports of the subject merchandise.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 777, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 187][/us/stat/93/187]; amended [Pub. L. 98–573, title VI, § 619][/us/pl/98/573/s619], Oct. 30, 1984, [98 Stat. 3038][/us/stat/98/3038]; [Pub. L. 99–514, title XVIII][/us/pl/99/514], §§ 1886(a)(13), 1889(8), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922], 2926; [Pub. L. 100–418, title I, § 1332][/us/pl/100/418/s1332], Aug. 23, 1988, [102 Stat. 1207][/us/stat/102/1207]; [Pub. L. 100–449, title IV, § 403(c)][/us/pl/100/449/s403/c], Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 101–382, title I][/us/pl/101/382], §§ 134(a)(4), 135(b), Aug. 20, 1990, [104 Stat. 650][/us/stat/104/650], 651; [Pub. L. 103–182, title IV, § 412(c)][/us/pl/103/182/s412/c], Dec. 8, 1993, [107 Stat. 2146][/us/stat/107/2146]; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 226–228, 231(b), (d)(1), Dec. 8, 1994, [108 Stat. 4886–4888][/us/stat/108/4886-4888], 4896, 4897.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 777, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 187][/us/stat/93/187]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 619, Oct. 30, 1984, [98 Stat. 3038][/us/stat/98/3038]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], §§ 1886(a)(13), 1889(8), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922], 2926; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1332, Aug. 23, 1988, [102 Stat. 1207][/us/stat/102/1207]; [Pub. L. 100–449, title IV][/us/pl/100/449/tIV], § 403(c), Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], §§ 134(a)(4), 135(b), Aug. 20, 1990, [104 Stat. 650][/us/stat/104/650], 651; [Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 412(c), Dec. 8, 1993, [107 Stat. 2146][/us/stat/107/2146]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 226–228, 231(b), (d)(1), Dec. 8, 1994, [108 Stat. 4886–4888][/us/stat/108/4886-4888], 4896, 4897; [Pub. L. 114–125, title IV][/us/pl/114/125/tIV], § 413(a), Feb. 24, 2016, [130 Stat. 159][/us/stat/130/159].)
 
  __Amendment of Section__ 
 
@@ -271,81 +271,83 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(4). [Pub. L. 103–465, § 231(b)][/us/pl/103/465/s231/b], substituted “shall disclose” for “may disclose” in introductory provisions.
+    2016—Subsec. (b)(1)(A)(ii). [Pub. L. 114–125][/us/pl/114/125] inserted “negligence, gross negligence, or” after “regarding”.
 
-    Subsec. (b)(1). [Pub. L. 103–465, § 226(a)(1)][/us/pl/103/465/s226/a/1], amended par. (1) generally, designating first sentence as subpar. (A), rearranging provisions for clarity, and inserting provisions in cl. (i) relating to reviews under this subtitle covering same subject merchandise, and designating second sentence as subpar. (B) with corresponding redesignations of former subpars. as cls. and cls. as subcls.
+    1994—Subsec. (a)(4). [Pub. L. 103–465][/us/pl/103/465], § 231(b), substituted “shall disclose” for “may disclose” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 103–465, § 226(b)][/us/pl/103/465/s226/b], inserted at end “In a case in which the administering authority or the Commission returns the information to the person submitting it, the person may thereafter submit other material concerning the subject matter of the returned information if the submission is made within the time otherwise provided for submitting such material.”
+    Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 226(a)(1), amended par. (1) generally, designating first sentence as subpar. (A), rearranging provisions for clarity, and inserting provisions in cl. (i) relating to reviews under this subtitle covering same subject merchandise, and designating second sentence as subpar. (B) with corresponding redesignations of former subpars. as cls. and cls. as subcls.
 
-    Subsec. (b)(3). [Pub. L. 103–465, § 226(a)(2)][/us/pl/103/465/s226/a/2], added par. (3).
+    Subsec. (b)(2). [Pub. L. 103–465][/us/pl/103/465], § 226(b), inserted at end “In a case in which the administering authority or the Commission returns the information to the person submitting it, the person may thereafter submit other material concerning the subject matter of the returned information if the submission is made within the time otherwise provided for submitting such material.”
 
-    Subsec. (e). [Pub. L. 103–465, § 231(d)(1)][/us/pl/103/465/s231/d/1], struck out heading and text of subsec. (e). Text read as follows: “Information shall be submitted to the administering authority or the Commission during the course of a proceeding on a timely basis and shall be subject to comment by other parties within such reasonable time as the administering authority or the Commission shall provide. If information is submitted without an adequate opportunity for other parties to comment thereon, the administering authority or the Commission may return the information to the party submitting it and not consider it.”
+    Subsec. (b)(3). [Pub. L. 103–465][/us/pl/103/465], § 226(a)(2), added par. (3).
+
+    Subsec. (e). [Pub. L. 103–465][/us/pl/103/465], § 231(d)(1), struck out heading and text of subsec. (e). Text read as follows: “Information shall be submitted to the administering authority or the Commission during the course of a proceeding on a timely basis and shall be subject to comment by other parties within such reasonable time as the administering authority or the Commission shall provide. If information is submitted without an adequate opportunity for other parties to comment thereon, the administering authority or the Commission may return the information to the party submitting it and not consider it.”
 
     Subsecs. (h), (i). [Pub. L. 103–465][/us/pl/103/465], §§ 227, 228, added subsecs. (h) and (i).
 
-    1993—Subsec. (f). [Pub. L. 103–182, § 412(c)(1)][/us/pl/103/182/s412/c/1], inserted “the North American Free Trade Agreement or” in heading.
+    1993—Subsec. (f). [Pub. L. 103–182][/us/pl/103/182], § 412(c)(1), inserted “the North American Free Trade Agreement or” in heading.
 
-    Subsec. (f)(1)(A). [Pub. L. 103–182, § 412(c)(2)][/us/pl/103/182/s412/c/2], (3), inserted “the NAFTA or” before “the United States-Canada Agreement” in two places, in second sentence inserted “or extraordinary challenge committee” after “binational panel”, and substituted “identified by the panel or committee” for “identified by the panel”.
+    Subsec. (f)(1)(A). [Pub. L. 103–182][/us/pl/103/182], § 412(c)(2), (3), inserted “the NAFTA or” before “the United States-Canada Agreement” in two places, in second sentence inserted “or extraordinary challenge committee” after “binational panel”, and substituted “identified by the panel or committee” for “identified by the panel”.
 
-    Subsec. (f)(1)(B). [Pub. L. 103–182, § 412(c)(4)][/us/pl/103/182/s412/c/4], in cl. (iii), inserted “the NAFTA or” before “the Agreement” and in cl. (iv), inserted “the NAFTA or” before “the Agreement” and substituted “Government of a free trade area country (as defined in [section 1516a(f)(10) of this title][/us/usc/t19/s1516a/f/10]) designated by an authorized agency of such country” for “Government of Canada designated by an authorized agency of Canada”.
+    Subsec. (f)(1)(B). [Pub. L. 103–182][/us/pl/103/182], § 412(c)(4), in cl. (iii), inserted “the NAFTA or” before “the Agreement” and in cl. (iv), inserted “the NAFTA or” before “the Agreement” and substituted “Government of a free trade area country (as defined in [section 1516a(f)(10) of this title][/us/usc/t19/s1516a/f/10]) designated by an authorized agency of such country” for “Government of Canada designated by an authorized agency of Canada”.
 
-    Subsec. (f)(2). [Pub. L. 103–182, § 412(c)(5)][/us/pl/103/182/s412/c/5], inserted “, including any extraordinary challenge,” after “binational panel proceeding”.
+    Subsec. (f)(2). [Pub. L. 103–182][/us/pl/103/182], § 412(c)(5), inserted “, including any extraordinary challenge,” after “binational panel proceeding”.
 
-    Subsec. (f)(3). [Pub. L. 103–182, § 412(c)(6)][/us/pl/103/182/s412/c/6], (7), substituted “agency of a free trade area country (as defined in [section 1516a(f)(10) of this title][/us/usc/t19/s1516a/f/10])” for “agency of Canada” and inserted “or extraordinary challenge committee” after “binational panel” and “the NAFTA or” before “the United States-Canada Agreement”.
+    Subsec. (f)(3). [Pub. L. 103–182][/us/pl/103/182], § 412(c)(6), (7), substituted “agency of a free trade area country (as defined in [section 1516a(f)(10) of this title][/us/usc/t19/s1516a/f/10])” for “agency of Canada” and inserted “or extraordinary challenge committee” after “binational panel” and “the NAFTA or” before “the United States-Canada Agreement”.
 
-    Subsec. (f)(4). [Pub. L. 103–182, § 412(c)(7)][/us/pl/103/182/s412/c/7], (8), inserted “, except a judge appointed to a binational panel or an extraordinary challenge committee under [section 3432(b) of this title][/us/usc/t19/s3432/b],” after “Any person” and substituted “agency of a free trade area country (as defined in [section 1516a(f)(10) of this title][/us/usc/t19/s1516a/f/10])” for “agency of Canada”.
+    Subsec. (f)(4). [Pub. L. 103–182][/us/pl/103/182], § 412(c)(7), (8), inserted “, except a judge appointed to a binational panel or an extraordinary challenge committee under [section 3432(b) of this title][/us/usc/t19/s3432/b],” after “Any person” and substituted “agency of a free trade area country (as defined in [section 1516a(f)(10) of this title][/us/usc/t19/s1516a/f/10])” for “agency of Canada”.
 
-    1990—Subsec. (c)(1)(A). [Pub. L. 101–382, § 135(b)(1)][/us/pl/101/382/s135/b/1], inserted at end “Customer names obtained during any investigation which requires a determination under section 1671d(b) or 1673d(b) of this title may not be disclosed by the administering authority under protective order until either an order is published under section 1671e(a) or 1673e(a) of this title as a result of the investigation or the investigation is suspended or terminated. The Commission may delay disclosure of customer names under protective order during any such investigation until a reasonable time prior to any hearing provided under [section 1677c of this title][/us/usc/t19/s1677c].”
+    1990—Subsec. (c)(1)(A). [Pub. L. 101–382][/us/pl/101/382], § 135(b)(1), inserted at end “Customer names obtained during any investigation which requires a determination under section 1671d(b) or 1673d(b) of this title may not be disclosed by the administering authority under protective order until either an order is published under section 1671e(a) or 1673e(a) of this title as a result of the investigation or the investigation is suspended or terminated. The Commission may delay disclosure of customer names under protective order during any such investigation until a reasonable time prior to any hearing provided under [section 1677c of this title][/us/usc/t19/s1677c].”
 
-    Subsec. (d). [Pub. L. 101–382, § 134(a)(4)][/us/pl/101/382/s134/a/4], redesignated subsec. (d), relating to disclosure of proprietary information, etc., as (f).
+    Subsec. (d). [Pub. L. 101–382][/us/pl/101/382], § 134(a)(4), redesignated subsec. (d), relating to disclosure of proprietary information, etc., as (f).
 
-    Subsec. (f). [Pub. L. 101–382, § 134(a)(4)][/us/pl/101/382/s134/a/4], redesignated subsec. (d), relating to disclosure of proprietary information, etc., as (f).
+    Subsec. (f). [Pub. L. 101–382][/us/pl/101/382], § 134(a)(4), redesignated subsec. (d), relating to disclosure of proprietary information, etc., as (f).
 
-    Subsec. (f)(1)(A). [Pub. L. 101–382, § 134(a)(4)(A)][/us/pl/101/382/s134/a/4/A], struck out “(but not privileged material as defined by the rules of procedure referred to in article 1904(14) of the United States-Canada Agreement)” after “all proprietary material” and inserted at end “If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).”
+    Subsec. (f)(1)(A). [Pub. L. 101–382][/us/pl/101/382], § 134(a)(4)(A), struck out “(but not privileged material as defined by the rules of procedure referred to in article 1904(14) of the United States-Canada Agreement)” after “all proprietary material” and inserted at end “If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).”
 
-    Subsec. (f)(1)(B)(ii) to (iv). [Pub. L. 101–382, § 134(a)(4)(B)][/us/pl/101/382/s134/a/4/B], inserted “, and persons under the direction and control,” after “employees” in cl. (ii), substituted “make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement, and” for “implement the United States-Canada Agreement with respect to such proceeding.” in cl. (iii), and added cl. (iv).
+    Subsec. (f)(1)(B)(ii) to (iv). [Pub. L. 101–382][/us/pl/101/382], § 134(a)(4)(B), inserted “, and persons under the direction and control,” after “employees” in cl. (ii), substituted “make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement, and” for “implement the United States-Canada Agreement with respect to such proceeding.” in cl. (iii), and added cl. (iv).
 
-    Subsec. (f)(3). [Pub. L. 101–382, § 134(a)(4)(C)][/us/pl/101/382/s134/a/4/C], struck out “or” after “violate,” in two places and inserted “or knowingly to receive information the receipt of which constitutes a violation of,” after “the violation of,” in two places.
+    Subsec. (f)(3). [Pub. L. 101–382][/us/pl/101/382], § 134(a)(4)(C), struck out “or” after “violate,” in two places and inserted “or knowingly to receive information the receipt of which constitutes a violation of,” after “the violation of,” in two places.
 
-    Subsec. (f)(4). [Pub. L. 101–382, § 134(a)(4)(D)][/us/pl/101/382/s134/a/4/D], inserted provisions relating to receipt of information with reason to know the information was disclosed in violation.
+    Subsec. (f)(4). [Pub. L. 101–382][/us/pl/101/382], § 134(a)(4)(D), inserted provisions relating to receipt of information with reason to know the information was disclosed in violation.
 
-    Subsec. (g). [Pub. L. 101–382, § 135(b)(2)][/us/pl/101/382/s135/b/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–382][/us/pl/101/382], § 135(b)(2), added subsec. (g).
 
-    1988—Subsec. (b)(1)(B)(ii). [Pub. L. 100–418, § 1332(1)][/us/pl/100/418/s1332/1], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “a statement that the information should not be released under administrative protective order.”
+    1988—Subsec. (b)(1)(B)(ii). [Pub. L. 100–418][/us/pl/100/418], § 1332(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “a statement that the information should not be released under administrative protective order.”
 
-    Subsec. (c)(1)(A). [Pub. L. 100–418, § 1332(2)(A)][/us/pl/100/418/s1332/2/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Upon receipt of an application, (before or after receipt of the information requested) which describes with particularity the information requested and sets forth the reasons for the request, the administering authority and the Commission may make proprietary information submitted by any other party to the investigation available under a protective order described in subparagraph (B).”
+    Subsec. (c)(1)(A). [Pub. L. 100–418][/us/pl/100/418], § 1332(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Upon receipt of an application, (before or after receipt of the information requested) which describes with particularity the information requested and sets forth the reasons for the request, the administering authority and the Commission may make proprietary information submitted by any other party to the investigation available under a protective order described in subparagraph (B).”
 
-    Subsec. (c)(1)(C) to (E). [Pub. L. 100–418, § 1332(2)(B)][/us/pl/100/418/s1332/2/B], added subpars. (C) to (E).
+    Subsec. (c)(1)(C) to (E). [Pub. L. 100–418][/us/pl/100/418], § 1332(2)(B), added subpars. (C) to (E).
 
-    Subsec. (c)(2). [Pub. L. 100–418, § 1332(3)][/us/pl/100/418/s1332/3], struck out “or the Commission denies a request for proprietary information submitted by the petitioner or an interested party in support of the petitioner concerning the domestic price or cost of production of the like product,” after “information under paragraph (1),”.
+    Subsec. (c)(2). [Pub. L. 100–418][/us/pl/100/418], § 1332(3), struck out “or the Commission denies a request for proprietary information submitted by the petitioner or an interested party in support of the petitioner concerning the domestic price or cost of production of the like product,” after “information under paragraph (1),”.
 
     Subsec. (d). [Pub. L. 100–449][/us/pl/100/449] temporarily added subsec. (d) relating to disclosure of proprietary information, etc. See Effective and Termination Dates of 1988 Amendment note below.
 
-    [Pub. L. 100–418, § 1332(4)][/us/pl/100/418/s1332/4], added subsec. (d) relating to service.
+    [Pub. L. 100–418][/us/pl/100/418], § 1332(4), added subsec. (d) relating to service.
 
-    Subsec. (e). [Pub. L. 100–418, § 1332(4)][/us/pl/100/418/s1332/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1332(4), added subsec. (e).
 
-    1986—Subsec. (a)(4). [Pub. L. 99–514, § 1886(a)(13)(A)][/us/pl/99/514/s1886/a/13/A], substituted “non-proprietary” for “nonconfidential” in heading, and “proprietary” for “confidential” in two places in text.
+    1986—Subsec. (a)(4). [Pub. L. 99–514][/us/pl/99/514], § 1886(a)(13)(A), substituted “non-proprietary” for “nonconfidential” in heading, and “proprietary” for “confidential” in two places in text.
 
-    Subsec. (b). [Pub. L. 99–514, § 1886(a)(13)(A)][/us/pl/99/514/s1886/a/13/A], substituted “Proprietary” for “Confidential” in heading.
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 1886(a)(13)(A), substituted “Proprietary” for “Confidential” in heading.
 
-    Subsec. (b)(1). [Pub. L. 99–514, § 1886(a)(13)(A)][/us/pl/99/514/s1886/a/13/A], substituted “Proprietary status” for “Confidentiality” in heading, “proprietary” for “confidential” in two places in introductory provisions, and “non-proprietary” for “nonconfidential” in subpar. (A)(i).
+    Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 1886(a)(13)(A), substituted “Proprietary status” for “Confidentiality” in heading, “proprietary” for “confidential” in two places in introductory provisions, and “non-proprietary” for “nonconfidential” in subpar. (A)(i).
 
-    [Pub. L. 99–514, § 1889(8)][/us/pl/99/514/s1889/8], made technical correction to directory language of [Pub. L. 98–573, § 619(3)][/us/pl/98/573/s619/3], requiring no change in text. See 1984 Amendment note below.
+    [Pub. L. 99–514][/us/pl/99/514], § 1889(8), made technical correction to directory language of [Pub. L. 98–573][/us/pl/98/573], § 619(3), requiring no change in text. See 1984 Amendment note below.
 
-    Subsec. (b)(1)(B)(i). [Pub. L. 99–514, § 1886(a)(13)(B)][/us/pl/99/514/s1886/a/13/B], inserted “or the Commission” after “authority”.
+    Subsec. (b)(1)(B)(i). [Pub. L. 99–514][/us/pl/99/514], § 1886(a)(13)(B), inserted “or the Commission” after “authority”.
 
-    Subsec. (b)(2). [Pub. L. 99–514, § 1886(a)(13)(A)][/us/pl/99/514/s1886/a/13/A], substituted “proprietary” for “confidential”.
+    Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514], § 1886(a)(13)(A), substituted “proprietary” for “confidential”.
 
-    Subsec. (c). [Pub. L. 99–514, § 1886(a)(13)(A)][/us/pl/99/514/s1886/a/13/A], substituted “proprietary” for “confidential” in heading and in pars. (1)(A) and (2).
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1886(a)(13)(A), substituted “proprietary” for “confidential” in heading and in pars. (1)(A) and (2).
 
-    1984—Subsec. (a)(3). [Pub. L. 98–573, § 619(1)][/us/pl/98/573/s619/1], amended par. (3) generally, substituting in provisions preceding subpar. (A) “of any ex parte meeting” for “of ex parte meetings”, in subpar. (A) “a proceeding” for “an investigation”, in subpar. (B) “or any person” for “and any person” and “that proceeding,” for “that investigation,” and, in provisions following subpar. (B), “if information relating to that proceeding was presented or discussed at such meeting. The record of such an” for “The record of the”.
+    1984—Subsec. (a)(3). [Pub. L. 98–573][/us/pl/98/573], § 619(1), amended par. (3) generally, substituting in provisions preceding subpar. (A) “of any ex parte meeting” for “of ex parte meetings”, in subpar. (A) “a proceeding” for “an investigation”, in subpar. (B) “or any person” for “and any person” and “that proceeding,” for “that investigation,” and, in provisions following subpar. (B), “if information relating to that proceeding was presented or discussed at such meeting. The record of such an” for “The record of the”.
 
-    Subsec. (b)(1). [Pub. L. 98–573, § 619(2)][/us/pl/98/573/s619/2], in first sentence, inserted provision referring to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
+    Subsec. (b)(1). [Pub. L. 98–573][/us/pl/98/573], § 619(2), in first sentence, inserted provision referring to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
 
-    [Pub. L. 98–573, § 619(3)][/us/pl/98/573/s619/3], as amended by [Pub. L. 99–514, § 1889(8)][/us/pl/99/514/s1889/8], amended second sentence generally, and thereby substituted “the Commission shall require” for “the Commission may require”, designated existing provisions as subpar. (A) and, in subpar. (A) as so designated, substituted “either— (i) a nonconfidential summary” for “a non-confidential summary”, inserted designation “(ii)”, substituted “summary accompanied” for “summary, accompanied”, and added subpar. (B).
+    [Pub. L. 98–573][/us/pl/98/573], § 619(3), as amended by [Pub. L. 99–514][/us/pl/99/514], § 1889(8), amended second sentence generally, and thereby substituted “the Commission shall require” for “the Commission may require”, designated existing provisions as subpar. (A) and, in subpar. (A) as so designated, substituted “either— (i) a nonconfidential summary” for “a non-confidential summary”, inserted designation “(ii)”, substituted “summary accompanied” for “summary, accompanied”, and added subpar. (B).
 
-    Subsec. (c)(1)(A). [Pub. L. 98–573, § 619(4)][/us/pl/98/573/s619/4], inserted “(before or after receipt of the information requested)”.
+    Subsec. (c)(1)(A). [Pub. L. 98–573][/us/pl/98/573], § 619(4), inserted “(before or after receipt of the information requested)”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -386,7 +388,7 @@
 
 [/us/usc/t19/s1675/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fd
 [/us/usc/t19/s1677c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677c
-[/us/pl/103/465/s231/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs231%2Fd%2F1
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4897
 [/us/usc/t19/s1516a/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Ff%2F10
 [/us/usc/t19/s1516a/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Ff%2F10
@@ -402,68 +404,71 @@
 [/us/usc/t19/s1675b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675b
 [/us/usc/t19/s1675b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675b
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F187
-[/us/pl/98/573/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs619
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3038
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/100/418/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1332
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1207
-[/us/pl/100/449/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs403%2Fc
+[/us/pl/100/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIV
 [/us/stat/102/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1884
-[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F650
-[/us/pl/103/182/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fc
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2146
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4886-4888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4886-4888
+[/us/pl/114/125/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIV
+[/us/stat/130/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F159
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
-[/us/pl/103/465/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs231%2Fb
-[/us/pl/103/465/s226/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs226%2Fa%2F1
-[/us/pl/103/465/s226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs226%2Fb
-[/us/pl/103/465/s226/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs226%2Fa%2F2
-[/us/pl/103/465/s231/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs231%2Fd%2F1
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/182/s412/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fc%2F1
-[/us/pl/103/182/s412/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fc%2F2
-[/us/pl/103/182/s412/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fc%2F4
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s1516a/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Ff%2F10
-[/us/pl/103/182/s412/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fc%2F5
-[/us/pl/103/182/s412/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fc%2F6
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s1516a/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Ff%2F10
-[/us/pl/103/182/s412/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fc%2F7
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s3432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3432%2Fb
 [/us/usc/t19/s1516a/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Ff%2F10
-[/us/pl/101/382/s135/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs135%2Fb%2F1
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t19/s1677c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677c
-[/us/pl/101/382/s134/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs134%2Fa%2F4
-[/us/pl/101/382/s134/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs134%2Fa%2F4
-[/us/pl/101/382/s134/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs134%2Fa%2F4%2FA
-[/us/pl/101/382/s134/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs134%2Fa%2F4%2FB
-[/us/pl/101/382/s134/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs134%2Fa%2F4%2FC
-[/us/pl/101/382/s134/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs134%2Fa%2F4%2FD
-[/us/pl/101/382/s135/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs135%2Fb%2F2
-[/us/pl/100/418/s1332/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1332%2F1
-[/us/pl/100/418/s1332/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1332%2F2%2FA
-[/us/pl/100/418/s1332/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1332%2F2%2FB
-[/us/pl/100/418/s1332/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1332%2F3
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
-[/us/pl/100/418/s1332/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1332%2F4
-[/us/pl/100/418/s1332/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1332%2F4
-[/us/pl/99/514/s1886/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F13%2FA
-[/us/pl/99/514/s1886/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F13%2FA
-[/us/pl/99/514/s1886/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F13%2FA
-[/us/pl/99/514/s1889/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1889%2F8
-[/us/pl/98/573/s619/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs619%2F3
-[/us/pl/99/514/s1886/a/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F13%2FB
-[/us/pl/99/514/s1886/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F13%2FA
-[/us/pl/99/514/s1886/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F13%2FA
-[/us/pl/98/573/s619/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs619%2F1
-[/us/pl/98/573/s619/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs619%2F2
-[/us/pl/98/573/s619/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs619%2F3
-[/us/pl/99/514/s1889/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1889%2F8
-[/us/pl/98/573/s619/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs619%2F4
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

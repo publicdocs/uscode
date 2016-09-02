@@ -167,25 +167,25 @@
 
             If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President’s intention to terminate such designation, together with the considerations entering into such decision.
 
-([Pub. L. 93–618, title V, § 502][/us/pl/93/618/s502], as added [Pub. L. 104–188, title I, § 1952(a)][/us/pl/104/188/s1952/a], Aug. 20, 1996, [110 Stat. 1917][/us/stat/110/1917]; amended [Pub. L. 104–295, § 35(a)][/us/pl/104/295/s35/a], Oct. 11, 1996, [110 Stat. 3538][/us/stat/110/3538]; [Pub. L. 106–200, title IV, § 412(a)][/us/pl/106/200/s412/a], May 18, 2000, [114 Stat. 298][/us/stat/114/298]; [Pub. L. 107–210, div. D, title XLI, § 4102(a)][/us/pl/107/210/s4102/a], Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040].)
+([Pub. L. 93–618, title V][/us/pl/93/618/tV], § 502, as added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1952(a), Aug. 20, 1996, [110 Stat. 1917][/us/stat/110/1917]; amended [Pub. L. 104–295][/us/pl/104/295], § 35(a), Oct. 11, 1996, [110 Stat. 3538][/us/stat/110/3538]; [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 412(a), May 18, 2000, [114 Stat. 298][/us/stat/114/298]; [Pub. L. 107–210, div. D, title XLI][/us/pl/107/210/dD/tXLI], § 4102(a), Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040].)
 
  __Prior Provisions__ 
 
-    A prior section 2462, [Pub. L. 93–618, title V, § 502(a)][/us/pl/93/618/s502/a]–(c), (e), Jan. 3, 1975, [88 Stat. 2066–2069][/us/stat/88/2066-2069]; [Pub. L. 94–455, title XVIII, § 1802][/us/pl/94/455/s1802], Oct. 4, 1976, [90 Stat. 1763][/us/stat/90/1763]; [Pub. L. 96–39, title XI][/us/pl/96/39], §§ 1106(g)(1), (2), 1111(a)(1), (2), July 26, 1979, [93 Stat. 312][/us/stat/93/312], 313, 315; [Pub. L. 98–573, title V, § 503][/us/pl/98/573/s503], Oct. 30, 1984, [98 Stat. 3019][/us/stat/98/3019]; [Pub. L. 99–47, § 8(b)(2)][/us/pl/99/47/s8/b/2], June 11, 1985, [99 Stat. 85][/us/stat/99/85]; [Pub. L. 99–514, title XVIII, § 1887(a)(5)][/us/pl/99/514/s1887/a/5], Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923]; [Pub. L. 99–570, title IX, § 9002(a)][/us/pl/99/570/s9002/a], Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166]; [Pub. L. 101–179, title III, § 301][/us/pl/101/179/s301], Nov. 28, 1989, [103 Stat. 1311][/us/stat/103/1311]; [Pub. L. 101–382, title I, § 131][/us/pl/101/382/s131], Aug. 20, 1990, [104 Stat. 643][/us/stat/104/643]; [Pub. L. 103–66, title XIII, § 13802(a)][/us/pl/103/66/s13802/a], Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667]; [Pub. L. 103–149, § 4(b)(9)][/us/pl/103/149/s4/b/9], Nov. 23, 1993, [107 Stat. 1506][/us/stat/107/1506], related to beneficiary developing countries, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
+    A prior section 2462, [Pub. L. 93–618, title V][/us/pl/93/618/tV], § 502(a)–(c), (e), Jan. 3, 1975, [88 Stat. 2066–2069][/us/stat/88/2066-2069]; [Pub. L. 94–455, title XVIII][/us/pl/94/455/tXVIII], § 1802, Oct. 4, 1976, [90 Stat. 1763][/us/stat/90/1763]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], §§ 1106(g)(1), (2), 1111(a)(1), (2), July 26, 1979, [93 Stat. 312][/us/stat/93/312], 313, 315; [Pub. L. 98–573, title V][/us/pl/98/573/tV], § 503, Oct. 30, 1984, [98 Stat. 3019][/us/stat/98/3019]; [Pub. L. 99–47][/us/pl/99/47], § 8(b)(2), June 11, 1985, [99 Stat. 85][/us/stat/99/85]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1887(a)(5), Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923]; [Pub. L. 99–570, title IX][/us/pl/99/570/tIX], § 9002(a), Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166]; [Pub. L. 101–179, title III][/us/pl/101/179/tIII], § 301, Nov. 28, 1989, [103 Stat. 1311][/us/stat/103/1311]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 131, Aug. 20, 1990, [104 Stat. 643][/us/stat/104/643]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13802(a), Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667]; [Pub. L. 103–149][/us/pl/103/149], § 4(b)(9), Nov. 23, 1993, [107 Stat. 1506][/us/stat/107/1506], related to beneficiary developing countries, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
 
  __Amendments__ 
 
     2002—Subsec. (b)(2)(F). [Pub. L. 107–210][/us/pl/107/210] inserted “or such country has not taken steps to support the efforts of the United States to combat terrorism” before period at end.
 
-    2000—Subsec. (b)(2). [Pub. L. 106–200, § 412(a)(2)][/us/pl/106/200/s412/a/2], in concluding provisions substituted “(G), and (H) (to the extent described in [section 2467(6)(D) of this title][/us/usc/t19/s2467/6/D])” for “and (G)”.
+    2000—Subsec. (b)(2). [Pub. L. 106–200][/us/pl/106/200], § 412(a)(2), in concluding provisions substituted “(G), and (H) (to the extent described in [section 2467(6)(D) of this title][/us/usc/t19/s2467/6/D])” for “and (G)”.
 
-    Subsec. (b)(2)(H). [Pub. L. 106–200, § 412(a)(1)][/us/pl/106/200/s412/a/1], added subpar. (H).
+    Subsec. (b)(2)(H). [Pub. L. 106–200][/us/pl/106/200], § 412(a)(1), added subpar. (H).
 
     1996—Subsec. (b)(2)(F). [Pub. L. 104–295][/us/pl/104/295], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism.”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–295, § 35(b)][/us/pl/104/295/s35/b], Oct. 11, 1996, [110 Stat. 3538][/us/stat/110/3538], provided that: 
+[Pub. L. 104–295][/us/pl/104/295], § 35(b), Oct. 11, 1996, [110 Stat. 3538][/us/stat/110/3538], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1996.”
 
@@ -206,44 +206,44 @@
 [/us/usc/t19/s2467/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F6%2FD
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/93/618/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs502
-[/us/pl/104/188/s1952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1952%2Fa
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1917
-[/us/pl/104/295/s35/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs35%2Fa
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3538
-[/us/pl/106/200/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs412%2Fa
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F298
-[/us/pl/107/210/s4102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs4102%2Fa
+[/us/pl/107/210/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdD%2FtXLI
 [/us/stat/116/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1040
-[/us/pl/93/618/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs502%2Fa
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
 [/us/stat/88/2066-2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2066-2069
-[/us/pl/94/455/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1802
+[/us/pl/94/455/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXVIII
 [/us/stat/90/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1763
-[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F312
-[/us/pl/98/573/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs503
+[/us/pl/98/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtV
 [/us/stat/98/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3019
-[/us/pl/99/47/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47%2Fs8%2Fb%2F2
+[/us/pl/99/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47
 [/us/stat/99/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F85
-[/us/pl/99/514/s1887/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1887%2Fa%2F5
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2923
-[/us/pl/99/570/s9002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs9002%2Fa
+[/us/pl/99/570/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIX
 [/us/stat/100/3207-166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-166
-[/us/pl/101/179/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs301
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1311
-[/us/pl/101/382/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs131
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F643
-[/us/pl/103/66/s13802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13802%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F667
-[/us/pl/103/149/s4/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fb%2F9
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1506
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
-[/us/pl/106/200/s412/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs412%2Fa%2F2
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/usc/t19/s2467/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F6%2FD
-[/us/pl/106/200/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs412%2Fa%2F1
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/104/295/s35/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs35%2Fb
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3538
 
 

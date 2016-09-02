@@ -41,7 +41,7 @@
 
         (4) recognize the essential role of local governments and nongovernmental organizations in developing and implementing measures to address desertification.
 
-([Pub. L. 106–200, title I, § 131][/us/pl/106/200/s131], May 18, 2000, [114 Stat. 274][/us/stat/114/274].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 131, May 18, 2000, [114 Stat. 274][/us/stat/114/274].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/106/200/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs131
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F274
 
 

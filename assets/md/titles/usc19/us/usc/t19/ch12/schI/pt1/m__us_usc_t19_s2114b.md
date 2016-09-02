@@ -53,7 +53,7 @@
 
     (5) For purposes of this section, the term “services” means economic activities whose outputs are other than tangible goods. Such term includes, but is not limited to, banking, insurance, transportation, postal and delivery services, communications and data processing, retail and wholesale trade, advertising, accounting, construction, design and engineering, management consulting, real estate, professional services, entertainment, education, health care, and tourism.
 
-([Pub. L. 98–573, title III, § 306(a)][/us/pl/98/573/s306/a], Oct. 30, 1984, [98 Stat. 3008][/us/stat/98/3008]; [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 633(c)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–524.)
+([Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 306(a), Oct. 30, 1984, [98 Stat. 3008][/us/stat/98/3008]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 633(c)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–524.)
 
  __Codification__ 
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/98/573/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fa
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3008
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/98/573/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306
 [/us/usc/t22/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3101

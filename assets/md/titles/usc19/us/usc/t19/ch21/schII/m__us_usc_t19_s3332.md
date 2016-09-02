@@ -889,7 +889,7 @@
 
             (B) before December 8, 1994, modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of Appendix 6.A of Annex 300–B and section XI of part B of Annex 401 of the Agreement.
 
-([Pub. L. 103–182, title II, § 202][/us/pl/103/182/s202], Dec. 8, 1993, [107 Stat. 2069][/us/stat/107/2069]; [Pub. L. 104–295, § 21(a)(2)][/us/pl/104/295/s21/a/2], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 105–206, title V, § 5003(b)(4)][/us/pl/105/206/s5003/b/4], July 22, 1998, [112 Stat. 790][/us/stat/112/790].)
+([Pub. L. 103–182, title II][/us/pl/103/182/tII], § 202, Dec. 8, 1993, [107 Stat. 2069][/us/stat/107/2069]; [Pub. L. 104–295][/us/pl/104/295], § 21(a)(2), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(b)(4), July 22, 1998, [112 Stat. 790][/us/stat/112/790].)
 
  __References in Text__ 
 
@@ -903,9 +903,9 @@
 
     1998—Subsec. (n). [Pub. L. 105–206][/us/pl/105/206] struck out “most-favored-nation” before “rate of duty”.
 
-    1996—Subsec. (m)(4)(C). [Pub. L. 104–295, § 21(a)(2)(A)][/us/pl/104/295/s21/a/2/A], substituted “subsection (p)” for “subsection (o)”.
+    1996—Subsec. (m)(4)(C). [Pub. L. 104–295][/us/pl/104/295], § 21(a)(2)(A), substituted “subsection (p)” for “subsection (o)”.
 
-    Subsec. (p)(18). [Pub. L. 104–295, § 21(a)(2)(B)][/us/pl/104/295/s21/a/2/B], substituted “Federal Government” for “federal government”.
+    Subsec. (p)(18). [Pub. L. 104–295][/us/pl/104/295], § 21(a)(2)(B), substituted “Federal Government” for “federal government”.
 
  __Effective Date__ 
 
@@ -930,11 +930,11 @@
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3313
 [/us/usc/t19/s3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3313
-[/us/pl/103/182/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs202
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2069
-[/us/pl/104/295/s21/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fa%2F2
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
-[/us/pl/105/206/s5003/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fb%2F4
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F790
 [/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F998
@@ -943,8 +943,8 @@
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2068
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/104/295/s21/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fa%2F2%2FA
-[/us/pl/104/295/s21/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fa%2F2%2FB
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/182/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs213%2Fb
 [/us/usc/t19/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3331
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

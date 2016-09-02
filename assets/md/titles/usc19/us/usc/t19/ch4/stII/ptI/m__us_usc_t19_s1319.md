@@ -25,7 +25,7 @@
 
  __Actions Under Caribbean Basin Economic Recovery Program Not To Affect Puerto Rican Duties on Imported Coffee__ 
 
-[Pub. L. 98–67, title II, § 214(e)][/us/pl/98/67/s214/e], Aug. 5, 1983, [97 Stat. 393][/us/stat/97/393], provided that: 
+[Pub. L. 98–67, title II][/us/pl/98/67/tII], § 214(e), Aug. 5, 1983, [97 Stat. 393][/us/stat/97/393], provided that: 
 
 > “No action pursuant to this title \[[19 U.S.C. 2701][/us/usc/t19/s2701] et seq.\] may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 319 of the Tariff Act of 1930 ([19 U.S.C. 1319][/us/usc/t19/s1319]) on coffee imported into Puerto Rico.”
 
@@ -41,7 +41,7 @@
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a
-[/us/pl/98/67/s214/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs214%2Fe
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
 [/us/stat/97/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F393
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
 [/us/usc/t19/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1319

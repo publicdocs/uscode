@@ -23,7 +23,7 @@
 
         The United States shall, to the maximum extent practicable, encourage the selection of individuals who have expertise and experience in environmental issues for service in panel proceedings under chapter 20 of the Agreement to hear any challenge to a United States or State environmental law.
 
-([Pub. L. 103–182, title I, § 106][/us/pl/103/182/s106], Dec. 8, 1993, [107 Stat. 2065][/us/stat/107/2065].)
+([Pub. L. 103–182, title I][/us/pl/103/182/tI], § 106, Dec. 8, 1993, [107 Stat. 2065][/us/stat/107/2065].)
 
  __Termination of NAFTA Status__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs106
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2065
 [/us/pl/103/182/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs109%2Fb
 [/us/usc/t19/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311

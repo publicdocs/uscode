@@ -39,7 +39,7 @@
 
         In this section, the term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 553A, as added [Pub. L. 109–347, title IV, § 406][/us/pl/109/347/s406], Oct. 13, 2006, [120 Stat. 1931][/us/stat/120/1931].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 553A, as added [Pub. L. 109–347, title IV][/us/pl/109/347/tIV], § 406, Oct. 13, 2006, [120 Stat. 1931][/us/stat/120/1931].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/109/347/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs406
+[/us/pl/109/347/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIV
 [/us/stat/120/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1931
 [/us/usc/t19/s1553a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1553a
 

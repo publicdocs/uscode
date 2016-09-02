@@ -191,19 +191,19 @@
 
         The administering authority shall, to the maximum extent practicable, make the determinations under this section within 300 days from the date of the initiation of a countervailing duty or antidumping circumvention inquiry under this section.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 781, as added [Pub. L. 100–418, title I, § 1321(a)][/us/pl/100/418/s1321/a], Aug. 23, 1988, [102 Stat. 1192][/us/stat/102/1192]; amended [Pub. L. 103–465, title II, § 230][/us/pl/103/465/s230], Dec. 8, 1994, [108 Stat. 4891][/us/stat/108/4891].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 781, as added [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1321(a), Aug. 23, 1988, [102 Stat. 1192][/us/stat/102/1192]; amended [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 230, Dec. 8, 1994, [108 Stat. 4891][/us/stat/108/4891].)
 
  __References in Text__ 
 
-    The Antidumping Act, 1921, referred to in subsecs. (a)(1)(A)(ii), (b)(1)(A)(ii), and (c)(1)(C), is [act May 27, 1921, ch. 14][/us/act/1921-05-27/ch14], title II, [42 Stat. 11][/us/stat/42/11], as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by [Pub. L. 96–39, title I, § 106(a)][/us/pl/96/39/s106/a], July 26, 1979, [93 Stat. 193][/us/stat/93/193].
+    The Antidumping Act, 1921, referred to in subsecs. (a)(1)(A)(ii), (b)(1)(A)(ii), and (c)(1)(C), is [act May 27, 1921, ch. 14, title II][/us/act/1921-05-27/ch14/tII], [42 Stat. 11][/us/stat/42/11], as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 106(a), July 26, 1979, [93 Stat. 193][/us/stat/93/193].
 
     [Section 1303 of this title][/us/usc/t19/s1303], referred to in subsecs. (a)(1)(A)(iii), (b)(1)(A)(iii), (c)(1)(D), and (d)(1), is defined in [section 1677(26) of this title][/us/usc/t19/s1677/26] to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
  __Amendments__ 
 
-    1994—Subsecs. (a), (b). [Pub. L. 103–465, § 230(a)][/us/pl/103/465/s230/a], amended subsecs. (a) and (b) generally, to include provisions relating to whether process of assembly or completion of merchandise in United States or foreign countries is minor or insignificant.
+    1994—Subsecs. (a), (b). [Pub. L. 103–465][/us/pl/103/465], § 230(a), amended subsecs. (a) and (b) generally, to include provisions relating to whether process of assembly or completion of merchandise in United States or foreign countries is minor or insignificant.
 
-    Subsec. (f). [Pub. L. 103–465, § 230(b)][/us/pl/103/465/s230/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–465][/us/pl/103/465], § 230(b), added subsec. (f).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -227,18 +227,18 @@
 [/us/usc/t19/s1673e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673e
 [/us/usc/t19/s1671e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671e
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/100/418/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1321%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1192
-[/us/pl/103/465/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs230
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4891
-[/us/act/1921-05-27/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch14
+[/us/act/1921-05-27/ch14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch14%2FtII
 [/us/stat/42/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F11
-[/us/pl/96/39/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fa
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/usc/t19/s1677/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F26
-[/us/pl/103/465/s230/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs230%2Fa
-[/us/pl/103/465/s230/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs230%2Fb
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

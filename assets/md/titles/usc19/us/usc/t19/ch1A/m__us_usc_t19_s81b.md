@@ -31,7 +31,7 @@
 
         In case of any State in which harbor facilities of any port of entry are owned and controlled by the State and in which State harbor facilities of any other port of entry are owned and controlled by a municipality, the Board shall not grant an application by any public corporation for the establishment of any zone in such State, unless such application has been authorized by an Act of the legislature of such State (enacted after June 18, 1934).
 
-([June 18, 1934, ch. 590, § 2][/us/act/1934-06-18/ch590/s2], [48 Stat. 999][/us/stat/48/999].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 2, [48 Stat. 999][/us/stat/48/999].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs2
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F999
 
 

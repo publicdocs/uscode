@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s282.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s288.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs283)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s282.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s284 _us_usc_t19_s285.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs283)
 
 ## § 283. Duty on saloon stores
 
@@ -21,32 +21,18 @@
 
  __Codification__ 
 
-    R.S. § 3113 derived from acts [July 18, 1866, ch. 201, § 22][/us/act/1866-07-18/ch201/s22], [14 Stat. 183][/us/stat/14/183]; [Feb. 10, 1871, ch. 45][/us/act/1871-02-10/ch45], [16 Stat. 409][/us/stat/16/409].
-
-§§ 284, 285. __Repealed.__  __[__  __July 3, 1926, ch. 757, § 3__  __][/us/act/1926-07-03/ch757/s3]__  __,__  __[__  __44 Stat. 832__  __][/us/stat/44/832]__ 
-
-    Sections, R.S. §§ 3116, 3117, related to manifests of vessels in coasting trade and entry for goods taken or delivered at intermediate ports.
-
-§§ 286, 287. __Repealed.__  __[__  __Pub. L. 103–182, title VI, § 690(a)(3)__  __][/us/pl/103/182/s690/a/3]__  __, (4),__  __Dec. 8, 1993__  __,__  __[__  __107 Stat. 2222__  __][/us/stat/107/2222]__ 
-
-    Section 286, R.S. § 3118, mandated that master of any enrolled or licensed vessel file a manifest and obtain clearance before departing from a port in one collection district to a place in another collection district where there is not customhouse.
-
-    Section 287, R.S. § 3119, related to reporting requirements for merchandise destined for foreign ports and exempted unlading of cargo brought from American ports from permit requirements.
+    R.S. § 3113 derived from acts [July 18, 1866, ch. 201][/us/act/1866-07-18/ch201], § 22, [14 Stat. 183][/us/stat/14/183]; [Feb. 10, 1871, ch. 45][/us/act/1871-02-10/ch45], [16 Stat. 409][/us/stat/16/409].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s282.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s288.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs283)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s282.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s284 _us_usc_t19_s285.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs283)
 
 ----------
 ----------
 
-[/us/act/1866-07-18/ch201/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-18%2Fch201%2Fs22
+[/us/act/1866-07-18/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-18%2Fch201
 [/us/stat/14/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F183
 [/us/act/1871-02-10/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-02-10%2Fch45
 [/us/stat/16/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F409
-[/us/act/1926-07-03/ch757/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch757%2Fs3
-[/us/stat/44/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F832
-[/us/pl/103/182/s690/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fa%2F3
-[/us/stat/107/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2222
 
 

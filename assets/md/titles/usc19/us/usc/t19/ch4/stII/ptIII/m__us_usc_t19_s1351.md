@@ -95,7 +95,7 @@
 
             (C) In the case of any decrease in duty to which subparagraph (A) of this paragraph applies (i) no part of a decrease after the first part shall become initially effective until the immediately previous part shall have been in effect for a period or periods aggregating not less than one year, nor after the first part shall have been in effect for a period or periods aggregating more than three years, and (ii) no part of a decrease shall become initially effective after the expiration of the four-year period which begins on July 1, 1962. If any part of a decrease has become effective, then for the purposes of clauses (i) and (ii) of the preceding sentence any time thereafter during which such part of the decrease is not in effect by reason of legislation of the United States or action thereunder shall be excluded in determining when the three-year period or the four-year period, as the case may be, expires.
 
-        (5) Repealed. [Pub. L. 87–794, title II, § 257(b)][/us/pl/87/794/s257/b], Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882].
+        (5) Repealed. [Pub. L. 87–794, title II][/us/pl/87/794/tII], § 257(b), Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882].
 
         (6) The President may at any time terminate, in whole or in part, any proclamation made pursuant to this section.
 
@@ -129,55 +129,55 @@
 
         (3) No proclamation shall be made pursuant to this section for the purpose of carrying out any foreign trade agreement the proclamation with respect to which has been terminated in whole by the President prior to July 5, 1945.
 
-    (e) __Repealed.__  __[__  __Pub. L. 87–794, title II, § 257(b)__  __][/us/pl/87/794/s257/b]__  __,__  __Oct. 11, 1962__  __,__  __[__  __76 Stat. 882__  __][/us/stat/76/882]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 87–794, title II__  __][/us/pl/87/794/tII]__  __, § 257(b),__  __Oct. 11, 1962__  __,__  __[__  __76 Stat. 882__  __][/us/stat/76/882]__ 
 
     (f) __Information and advice from industry, agriculture, and labor__ 
 
         It is declared to be the sense of the Congress that the President, during the course of negotiating any foreign trade agreement under this section, should seek information and advice with respect to such agreement from representatives of industry, agriculture, and labor.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 350, as added [June 12, 1934, ch. 474, § 1][/us/act/1934-06-12/ch474/s1], [48 Stat. 943][/us/stat/48/943]; amended [June 7, 1943, ch. 118, § 2][/us/act/1943-06-07/ch118/s2], [57 Stat. 125][/us/stat/57/125]; [July 5, 1945, ch. 269][/us/act/1945-07-05/ch269], §§ 2, 3, [59 Stat. 410][/us/stat/59/410]; [Sept. 26, 1949, ch. 585][/us/act/1949-09-26/ch585], §§ 4, 6, [63 Stat. 698][/us/stat/63/698]; [June 21, 1955, ch. 169, § 3][/us/act/1955-06-21/ch169/s3], [69 Stat. 162][/us/stat/69/162]; [Pub. L. 85–686, § 3][/us/pl/85/686/s3], Aug. 20, 1958, [72 Stat. 673][/us/stat/72/673]; [Pub. L. 87–794, title II, § 257(a)][/us/pl/87/794/s257/a], (b), Oct. 11, 1962, [76 Stat. 881][/us/stat/76/881], 882; [Pub. L. 96–39, title II, § 202(a)(3)][/us/pl/96/39/s202/a/3], July 26, 1979, [93 Stat. 202][/us/stat/93/202].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 350, as added [June 12, 1934, ch. 474][/us/act/1934-06-12/ch474], § 1, [48 Stat. 943][/us/stat/48/943]; amended [June 7, 1943, ch. 118][/us/act/1943-06-07/ch118], § 2, [57 Stat. 125][/us/stat/57/125]; [July 5, 1945, ch. 269][/us/act/1945-07-05/ch269], §§ 2, 3, [59 Stat. 410][/us/stat/59/410]; [Sept. 26, 1949, ch. 585][/us/act/1949-09-26/ch585], §§ 4, 6, [63 Stat. 698][/us/stat/63/698]; [June 21, 1955, ch. 169][/us/act/1955-06-21/ch169], § 3, [69 Stat. 162][/us/stat/69/162]; [Pub. L. 85–686][/us/pl/85/686], § 3, Aug. 20, 1958, [72 Stat. 673][/us/stat/72/673]; [Pub. L. 87–794, title II][/us/pl/87/794/tII], § 257(a), (b), Oct. 11, 1962, [76 Stat. 881][/us/stat/76/881], 882; [Pub. L. 96–39, title II][/us/pl/96/39/tII], § 202(a)(3), July 26, 1979, [93 Stat. 202][/us/stat/93/202].)
 
  __References in Text__ 
 
     The Trade Agreements Extension Act of 1955, referred to in subsec. (a)(1)(A), is [act June 21, 1955, ch. 169][/us/act/1955-06-21/ch169], [69 Stat. 162][/us/stat/69/162], which is classified to sections 1351(a), (b), (c), (e), 1352(c), 1352a, 1363(b), and 1364(a), (b), (e) of this title. For complete classification of this Act to the Code, see Short Title of 1955 Amendment note set out under [section 1654 of this title][/us/usc/t19/s1654] and Tables.
 
-    Paragraph (5) of this subsection, referred to in subsec. (a)(3)(A), was repealed by [Pub. L. 87–794, title III, § 257(b)][/us/pl/87/794/s257/b], Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882].
+    Paragraph (5) of this subsection, referred to in subsec. (a)(3)(A), was repealed by [Pub. L. 87–794, title III][/us/pl/87/794/tIII], § 257(b), Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882].
 
     The Trade Expansion Act of 1962, referred to in subsec. (b), is [Pub. L. 87–794][/us/pl/87/794], Oct. 11, 1962, [76 Stat. 872][/us/stat/76/872], as amended, which is classified generally to chapter 7 (§ 1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§ 1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t19/s1801] and Tables.
 
-    [Section 1362 of this title][/us/usc/t19/s1362], referred to in subsec. (c)(2)(A), related to suspension or withdrawal of concessions from Communistic areas and was repealed by [Pub. L. 87–794, title II, § 257(e)(1)][/us/pl/87/794/s257/e/1], Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882].
+    [Section 1362 of this title][/us/usc/t19/s1362], referred to in subsec. (c)(2)(A), related to suspension or withdrawal of concessions from Communistic areas and was repealed by [Pub. L. 87–794, title II][/us/pl/87/794/tII], § 257(e)(1), Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882].
 
  __Amendments__ 
 
     1979—Subsec. (a)(2)(D)(ii). [Pub. L. 96–39][/us/pl/96/39] struck out reference to standards of valuation contained in [section 1402 of this title][/us/usc/t19/s1402].
 
-    1962—Subsec. (a)(5). [Pub. L. 87–794, § 257(b)][/us/pl/87/794/s257/b], repealed par. (5) which provided that, subject to the provisions of [section 1362 of this title][/us/usc/t19/s1362], duties and other import restrictions proclaimed pursuant to this section shall apply to all articles the growth, produce, or manufacture of all foreign countries, whether imported directly or indirectly, and required the President to suspend the application to articles the growth, produce, or manufacture of any country because of its discriminatory treatment of American commerce or because of other acts (including the operations of international cartels) or policies which in his opinion tend to defeat the purposes of this section.
+    1962—Subsec. (a)(5). [Pub. L. 87–794][/us/pl/87/794], § 257(b), repealed par. (5) which provided that, subject to the provisions of [section 1362 of this title][/us/usc/t19/s1362], duties and other import restrictions proclaimed pursuant to this section shall apply to all articles the growth, produce, or manufacture of all foreign countries, whether imported directly or indirectly, and required the President to suspend the application to articles the growth, produce, or manufacture of any country because of its discriminatory treatment of American commerce or because of other acts (including the operations of international cartels) or policies which in his opinion tend to defeat the purposes of this section.
 
-    Subsec. (b). [Pub. L. 87–794, § 257(a)][/us/pl/87/794/s257/a], inserted references to the Trade Expansion Act of 1962 in first and second sentences, substituted “1955, and before July 1, 1962” for “1955” in par. (2), and added par. (3).
+    Subsec. (b). [Pub. L. 87–794][/us/pl/87/794], § 257(a), inserted references to the Trade Expansion Act of 1962 in first and second sentences, substituted “1955, and before July 1, 1962” for “1955” in par. (2), and added par. (3).
 
-    Subsec. (e). [Pub. L. 87–794, § 257(b)][/us/pl/87/794/s257/b], repealed subsec. (e) which related to reports to Congress by the President and the Tariff Commission.
+    Subsec. (e). [Pub. L. 87–794][/us/pl/87/794], § 257(b), repealed subsec. (e) which related to reports to Congress by the President and the Tariff Commission.
 
-    1958—Subsec. (a)(2)(A). [Pub. L. 85–686, § 3(a)(1)][/us/pl/85/686/s3/a/1], substituted “any rate of duty existing on July 1, 1934” for “any rate of duty existing on July 1, 1945”, and inserted provisions permitting conversion of a specific rate of duty existing on July 1, 1934, to its ad valorem equivalent, and allowing an ad valorem rate of duty not in excess of 50 per centum above such ad valorem equivalent.
+    1958—Subsec. (a)(2)(A). [Pub. L. 85–686][/us/pl/85/686], § 3(a)(1), substituted “any rate of duty existing on July 1, 1934” for “any rate of duty existing on July 1, 1945”, and inserted provisions permitting conversion of a specific rate of duty existing on July 1, 1934, to its ad valorem equivalent, and allowing an ad valorem rate of duty not in excess of 50 per centum above such ad valorem equivalent.
 
-    Subsec. (a)(2)(D). [Pub. L. 85–686, § 3(a)(2)][/us/pl/85/686/s3/a/2], (3), inserted “and before July 1, 1958,” after “June 12, 1955”, in opening par., and substituted “section 1401a or 1402 of this title (as in effect, with respect to the article concerned,” for “[section 1402 of this title][/us/usc/t19/s1402] (as in effect”.
+    Subsec. (a)(2)(D). [Pub. L. 85–686][/us/pl/85/686], § 3(a)(2), (3), inserted “and before July 1, 1958,” after “June 12, 1955”, in opening par., and substituted “section 1401a or 1402 of this title (as in effect, with respect to the article concerned,” for “[section 1402 of this title][/us/usc/t19/s1402] (as in effect”.
 
-    Subsec. (a)(2)(E). [Pub. L. 85–686, § 3(a)(4)][/us/pl/85/686/s3/a/4], added subpar. (E).
+    Subsec. (a)(2)(E). [Pub. L. 85–686][/us/pl/85/686], § 3(a)(4), added subpar. (E).
 
-    Subsec. (a)(3)(A). [Pub. L. 85–686, § 3(a)(5)][/us/pl/85/686/s3/a/5], inserted “and of subparagraph (B) of paragraph 4 of this subsection” after “subparagraphs (B) and (C) of this paragraph”, and substituted “suspension under paragraph (5)” for “suspension under paragraph (4)”.
+    Subsec. (a)(3)(A). [Pub. L. 85–686][/us/pl/85/686], § 3(a)(5), inserted “and of subparagraph (B) of paragraph 4 of this subsection” after “subparagraphs (B) and (C) of this paragraph”, and substituted “suspension under paragraph (5)” for “suspension under paragraph (4)”.
 
-    Subsec. (a)(3)(D). [Pub. L. 85–686, § 3(a)(6)][/us/pl/85/686/s3/a/6], inserted “or paragraph (4)(A) or (B)” after “paragraph (2)(C) or (D)”.
+    Subsec. (a)(3)(D). [Pub. L. 85–686][/us/pl/85/686], § 3(a)(6), inserted “or paragraph (4)(A) or (B)” after “paragraph (2)(C) or (D)”.
 
-    Subsec. (a)(4) to (6). [Pub. L. 85–686, § 3(a)(7)][/us/pl/85/686/s3/a/7], (8), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+    Subsec. (a)(4) to (6). [Pub. L. 85–686][/us/pl/85/686], § 3(a)(7), (8), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-    Subsec. (b). [Pub. L. 85–686, § 3(b)(1)][/us/pl/85/686/s3/b/1], substituted “an agreement with Cuba” for “an exclusive agreement with Cuba” in opening par.
+    Subsec. (b). [Pub. L. 85–686][/us/pl/85/686], § 3(b)(1), substituted “an agreement with Cuba” for “an exclusive agreement with Cuba” in opening par.
 
-    Subsec. (b)(2). [Pub. L. 85–686, § 3(b)(2)][/us/pl/85/686/s3/b/2], inserted “or (4)(A)” after “subsection (a)(2)(C) or (D)”, “and (4)(B) and (C)” after “subsection (a)(3)(B), (C), and (D)”, and “or (4)(A)(iii)” after “subsection (a)(2)(D)(ii)”.
+    Subsec. (b)(2). [Pub. L. 85–686][/us/pl/85/686], § 3(b)(2), inserted “or (4)(A)” after “subsection (a)(2)(C) or (D)”, “and (4)(B) and (C)” after “subsection (a)(3)(B), (C), and (D)”, and “or (4)(A)(iii)” after “subsection (a)(2)(D)(ii)”.
 
-    Subsec. (c)(2)(A). [Pub. L. 85–686, § 3(c)][/us/pl/85/686/s3/c], defined “existing on July 1, 1934” and “existing on July 1, 1958”.
+    Subsec. (c)(2)(A). [Pub. L. 85–686][/us/pl/85/686], § 3(c), defined “existing on July 1, 1934” and “existing on July 1, 1958”.
 
-    Subsec. (e)(1). [Pub. L. 85–686, § 3(d)][/us/pl/85/686/s3/d], provided for the inclusion in the report of the results of action taken to obtain removal of foreign trade restrictions (including discriminatory restrictions) against United States exports, remaining restrictions, and the measures available to seek their removal in accordance with the objectives of this section.
+    Subsec. (e)(1). [Pub. L. 85–686][/us/pl/85/686], § 3(d), provided for the inclusion in the report of the results of action taken to obtain removal of foreign trade restrictions (including discriminatory restrictions) against United States exports, remaining restrictions, and the measures available to seek their removal in accordance with the objectives of this section.
 
-    Subsec. (f). [Pub. L. 85–686, § 3(e)][/us/pl/85/686/s3/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 85–686][/us/pl/85/686], § 3(e), added subsec. (f).
 
     1955—Subsec. (a). Act June 21, 1955, § 3(a), among other changes, authorized the President to reduce tariff rates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
 
@@ -209,7 +209,7 @@
 
  __Tariff Treatment of Cuban Products__ 
 
-[Pub. L. 87–456, title IV, § 401][/us/pl/87/456/s401], May 24, 1962, [76 Stat. 78][/us/stat/76/78], provided that:
+[Pub. L. 87–456, title IV][/us/pl/87/456/tIV], § 401, May 24, 1962, [76 Stat. 78][/us/stat/76/78], provided that:
 
 >     “(a)
 
@@ -233,13 +233,13 @@
 
  __Congressional Approval or Disapproval of General Agreement on Tariffs and Trade__ 
 
-[Pub. L. 85–686, § 10][/us/pl/85/686/s10], Aug. 20, 1958, [72 Stat. 680][/us/stat/72/680], provided that: 
+[Pub. L. 85–686][/us/pl/85/686], § 10, Aug. 20, 1958, [72 Stat. 680][/us/stat/72/680], provided that: 
 
 > “The enactment of this Act \[enacting [section 1335 of this title][/us/usc/t19/s1335], amending sections 1333, 1336, 1337, 1351, 1352a, 1360 and 1364 of this title, and enacting notes set out under sections 1351 and 1352 of this title\] shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.”
 
  __Reduction of Protection Resulting From 1956 Amendments__ 
 
-[Act Aug. 2, 1956, ch. 887, § 2(e)][/us/act/1956-08-02/ch887/s2/e], [70 Stat. 946][/us/stat/70/946], provided that: 
+[Act Aug. 2, 1956, ch. 887][/us/act/1956-08-02/ch887], § 2(e), [70 Stat. 946][/us/stat/70/946], provided that: 
 
 > “In any action relating to tariff adjustments by executive action, including action taken pursuant to section 350 of the Tariff Act of 1930, as amended \[this section\] the United States Tariff Commission \[now United States International Trade Commission\] and each officer of the executive branch of the Government concerned shall give full consideration to any reduction in the level of tariff protection which has resulted or is likely to result from the amendment of section 402 of the Tariff Act of 1930 made by this Act \[sections 1401a and 1402 of this title\].”
 
@@ -247,7 +247,7 @@
 
  __Commission on Foreign Economic Policy__ 
 
-    [Act Aug. 7, 1953, ch. 348][/us/act/1953-08-07/ch348], title III, §§ 301–310, [67 Stat. 473–475][/us/stat/67/473-475], as amended by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 657][/us/stat/80/657], provided for the establishment of a Commission on Foreign Economic Policy to examine and report on the subjects of international trade and its enlargement consistent with a sound domestic economy, our foreign economic policy, and the trade aspects of our national security and total foreign policy, and to recommend appropriate policies and measures. The Commission was to submit a report on its findings within 60 days after the second session of the 83rd Congress was convened, and was to expire 90 days after the submission of its report to Congress.
+    [Act Aug. 7, 1953, ch. 348, title III][/us/act/1953-08-07/ch348/tIII], §§ 301–310, [67 Stat. 473–475][/us/stat/67/473-475], as amended by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 657][/us/stat/80/657], provided for the establishment of a Commission on Foreign Economic Policy to examine and report on the subjects of international trade and its enlargement consistent with a sound domestic economy, our foreign economic policy, and the trade aspects of our national security and total foreign policy, and to recommend appropriate policies and measures. The Commission was to submit a report on its findings within 60 days after the second session of the 83rd Congress was convened, and was to expire 90 days after the submission of its report to Congress.
 
  __Extension of Presidential Authority__ 
 
@@ -277,79 +277,79 @@
 ----------
 
 [/us/usc/t19/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a
-[/us/pl/87/794/s257/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fb
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F882
 [/us/usc/t19/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801
 [/us/usc/t19/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1821
 [/us/usc/t19/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1362
-[/us/pl/87/794/s257/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fb
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F882
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/act/1934-06-12/ch474/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-12%2Fch474%2Fs1
+[/us/act/1934-06-12/ch474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-12%2Fch474
 [/us/stat/48/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F943
-[/us/act/1943-06-07/ch118/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-07%2Fch118%2Fs2
+[/us/act/1943-06-07/ch118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-07%2Fch118
 [/us/stat/57/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F125
 [/us/act/1945-07-05/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-05%2Fch269
 [/us/stat/59/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F410
 [/us/act/1949-09-26/ch585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-26%2Fch585
 [/us/stat/63/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F698
-[/us/act/1955-06-21/ch169/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch169%2Fs3
+[/us/act/1955-06-21/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch169
 [/us/stat/69/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F162
-[/us/pl/85/686/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
 [/us/stat/72/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F673
-[/us/pl/87/794/s257/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fa
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F881
-[/us/pl/96/39/s202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F3
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F202
 [/us/act/1955-06-21/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch169
 [/us/stat/69/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F162
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
-[/us/pl/87/794/s257/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fb
+[/us/pl/87/794/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtIII
 [/us/stat/76/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F882
 [/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
 [/us/stat/76/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F872
 [/us/usc/t19/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801
 [/us/usc/t19/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1362
-[/us/pl/87/794/s257/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fe%2F1
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F882
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1402
-[/us/pl/87/794/s257/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fb
+[/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
 [/us/usc/t19/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1362
-[/us/pl/87/794/s257/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fa
-[/us/pl/87/794/s257/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fb
-[/us/pl/85/686/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fa%2F1
-[/us/pl/85/686/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fa%2F2
+[/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
+[/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
 [/us/usc/t19/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1402
-[/us/pl/85/686/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fa%2F4
-[/us/pl/85/686/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fa%2F5
-[/us/pl/85/686/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fa%2F6
-[/us/pl/85/686/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fa%2F7
-[/us/pl/85/686/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fb%2F1
-[/us/pl/85/686/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fb%2F2
-[/us/pl/85/686/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fc
-[/us/pl/85/686/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fd
-[/us/pl/85/686/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs3%2Fe
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs204%2Fa
 [/us/usc/t19/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a
-[/us/pl/87/456/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs401
+[/us/pl/87/456/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIV
 [/us/stat/76/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F78
 [/us/usc/t19/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1362
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
 [/us/usc/t19/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs124
 [/us/usc/t19/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1316
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
-[/us/pl/85/686/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs10
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
 [/us/stat/72/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F680
 [/us/usc/t19/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1335
-[/us/act/1956-08-02/ch887/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs2%2Fe
+[/us/act/1956-08-02/ch887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887
 [/us/stat/70/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F946
 [/us/usc/t19/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1402
 [/us/usc/t19/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a
-[/us/act/1953-08-07/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch348
+[/us/act/1953-08-07/ch348/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch348%2FtIII
 [/us/stat/67/473-475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F473-475
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F657
 [/us/usc/t19/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1352
 [/us/usc/t19/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801

@@ -47,7 +47,7 @@
 
             (iii) provide to State and local governments and to United States service industries, upon their request, advice, assistance, and (except as may be otherwise prohibited by law) data, analyses, and information concerning United States policies on international trade in services.
 
-([Pub. L. 98–573, title III, § 306(c)(1)][/us/pl/98/573/s306/c/1], (2)(A), Oct. 30, 1984, [98 Stat. 3010][/us/stat/98/3010], 3011.)
+([Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 306(c)(1), (2)(A), Oct. 30, 1984, [98 Stat. 3010][/us/stat/98/3010], 3011.)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t19/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1872%2Fa
-[/us/pl/98/573/s306/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F1
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3010
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/stat/98/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2984

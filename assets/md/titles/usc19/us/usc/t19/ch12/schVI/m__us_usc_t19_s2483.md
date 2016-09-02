@@ -17,7 +17,7 @@
 
     The President shall from time to time, as appropriate, embody in the Harmonized Tariff Schedule of the United States the substance of the relevant provisions of this chapter, and of other Acts affecting import treatment, and actions thereunder, including removal, modification, continuance, or imposition of any rate of duty or other import restriction.
 
-([Pub. L. 93–618, title VI, § 604][/us/pl/93/618/s604], Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1213(a), 1214(j)(4), Aug. 23, 1988, [102 Stat. 1155][/us/stat/102/1155], 1158.)
+([Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 604, Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1213(a), 1214(j)(4), Aug. 23, 1988, [102 Stat. 1155][/us/stat/102/1155], 1158.)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 ----------
 ----------
 
-[/us/pl/93/618/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs604
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2073
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1155
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618

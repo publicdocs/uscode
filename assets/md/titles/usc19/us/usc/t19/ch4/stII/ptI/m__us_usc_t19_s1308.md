@@ -123,7 +123,7 @@
 
         The designated authorities shall, at least once each year, publish in the Federal Register a list of the names of any producer, manufacturer, supplier, seller, importer, or exporter, whether or not located within the customs territory of the United States or subject to the jurisdiction of the United States, against whom a final administrative determination with respect to the assessment of a civil penalty for a knowing and intentional or a grossly negligent violation has been made under this section.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 308, as added [Pub. L. 106–476, title I, § 1443(a)][/us/pl/106/476/s1443/a], Nov. 9, 2000, [114 Stat. 2164][/us/stat/114/2164]; amended [Pub. L. 113–188, title X, § 1001(a)][/us/pl/113/188/s1001/a], Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 308, as added [Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1443(a), Nov. 9, 2000, [114 Stat. 2164][/us/stat/114/2164]; amended [Pub. L. 113–188, title X][/us/pl/113/188/tX], § 1001(a), Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022].)
 
  __References in Text__ 
 
@@ -131,7 +131,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1308, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 308, [46 Stat. 690][/us/stat/46/690]; [June 25, 1938, ch. 679, § 4][/us/act/1938-06-25/ch679/s4], [52 Stat. 1079][/us/stat/52/1079]; [Aug. 8, 1953, ch. 397, § 10(a)(1)][/us/act/1953-08-08/ch397/s10/a/1], (b) to (f), [67 Stat. 512][/us/stat/67/512]; [Aug. 28, 1954, ch. 1045, § 1][/us/act/1954-08-28/ch1045/s1], [68 Stat. 914][/us/stat/68/914]; Aug. 28, 1957, [Pub. L. 85–211, § 3][/us/pl/85/211/s3], [71 Stat. 487][/us/stat/71/487]; Apr. 16, 1958, [Pub. L. 85–379][/us/pl/85/379], [72 Stat. 88][/us/stat/72/88]; May 16, 1958, [Pub. L. 85–414, § 1][/us/pl/85/414/s1], [72 Stat. 118][/us/stat/72/118], prescribed articles for temporary free importation under bond for exportation, prior to repeal by [Pub. L. 87–456, title III, § 301(a)][/us/pl/87/456/s301/a], title V, § 501(a), May 24, 1962, [76 Stat. 75][/us/stat/76/75], 78, effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+    A prior section 1308, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 308, [46 Stat. 690][/us/stat/46/690]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 4, [52 Stat. 1079][/us/stat/52/1079]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 10(a)(1), (b) to (f), [67 Stat. 512][/us/stat/67/512]; [Aug. 28, 1954, ch. 1045][/us/act/1954-08-28/ch1045], § 1, [68 Stat. 914][/us/stat/68/914]; Aug. 28, 1957, [Pub. L. 85–211][/us/pl/85/211], § 3, [71 Stat. 487][/us/stat/71/487]; Apr. 16, 1958, [Pub. L. 85–379][/us/pl/85/379], [72 Stat. 88][/us/stat/72/88]; May 16, 1958, [Pub. L. 85–414][/us/pl/85/414], § 1, [72 Stat. 118][/us/stat/72/118], prescribed articles for temporary free importation under bond for exportation, prior to repeal by [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 301(a), title V, § 501(a), May 24, 1962, [76 Stat. 75][/us/stat/76/75], 78, effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
  __Amendments__ 
 
@@ -139,7 +139,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–476, title I, § 1443(c)][/us/pl/106/476/s1443/c], Nov. 9, 2000, [114 Stat. 2167][/us/stat/114/2167], provided that: 
+[Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1443(c), Nov. 9, 2000, [114 Stat. 2167][/us/stat/114/2167], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 69 of Title 15][/us/usc/t15/s69], Commerce and Trade\] shall take effect on the date of the enactment of this Act \[Nov. 9, 2000\].”
 
@@ -149,7 +149,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 106–476, title I, § 1442][/us/pl/106/476/s1442], Nov. 9, 2000, [114 Stat. 2163][/us/stat/114/2163], provided that:
+[Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1442, Nov. 9, 2000, [114 Stat. 2163][/us/stat/114/2163], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -192,33 +192,33 @@
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/106/476/s1443/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1443%2Fa
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2164
-[/us/pl/113/188/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fa
+[/us/pl/113/188/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtX
 [/us/stat/128/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2022
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F690
-[/us/act/1938-06-25/ch679/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs4
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1079
-[/us/act/1953-08-08/ch397/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs10%2Fa%2F1
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F512
-[/us/act/1954-08-28/ch1045/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1045%2Fs1
+[/us/act/1954-08-28/ch1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1045
 [/us/stat/68/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F914
-[/us/pl/85/211/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F211%2Fs3
+[/us/pl/85/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F211
 [/us/stat/71/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F487
 [/us/pl/85/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F379
 [/us/stat/72/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F88
-[/us/pl/85/414/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F414%2Fs1
+[/us/pl/85/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F414
 [/us/stat/72/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F118
-[/us/pl/87/456/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs301%2Fa
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F75
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
-[/us/pl/106/476/s1443/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1443%2Fc
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2167
 [/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/106/476/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1442
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2163
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654

@@ -97,7 +97,7 @@
 
         (4) If any protest or petition referred to in paragraph (1)(A) is not sustained in whole or in part by a final judicial decision, the entries subject to that petition or protest and made before January 1, 1989, shall be liquidated or reliquidated, as appropriate, in accordance with the final judicial decision under the old Schedules.
 
-([Pub. L. 100–418, title I, § 1211][/us/pl/100/418/s1211], Aug. 23, 1988, [102 Stat. 1153][/us/stat/102/1153]; [Pub. L. 104–188, title I, § 1954(a)(1)][/us/pl/104/188/s1954/a/1], Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1211, Aug. 23, 1988, [102 Stat. 1153][/us/stat/102/1153]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1954(a)(1), Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927].)
 
  __References in Text__ 
 
@@ -107,9 +107,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b)(1). [Pub. L. 104–188, § 1954(a)(1)][/us/pl/104/188/s1954/a/1], inserted “(as in effect on July 31, 1995)” after “of this title”.
+    1996—Subsec. (b)(1). [Pub. L. 104–188][/us/pl/104/188], § 1954(a)(1), inserted “(as in effect on July 31, 1995)” after “of this title”.
 
-    Subsec. (b)(2). [Pub. L. 104–188, § 1954(a)(2)][/us/pl/104/188/s1954/a/2], inserted “(as in effect on July 31, 1995)” after “of this title”.
+    Subsec. (b)(2). [Pub. L. 104–188][/us/pl/104/188], § 1954(a)(2), inserted “(as in effect on July 31, 1995)” after “of this title”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -132,15 +132,15 @@
 [/us/usc/t19/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516
 [/us/usc/t19/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1332
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
-[/us/pl/100/418/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1211
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1153
-[/us/pl/104/188/s1954/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fa%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1927
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
-[/us/pl/104/188/s1954/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fa%2F1
-[/us/pl/104/188/s1954/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fa%2F2
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1953
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461

@@ -65,31 +65,31 @@
 
         The organization shall, to the maximum extent practicable, draw upon the resources of the agencies represented in the organization, as well as such other agencies as it may determine, including the United States International Trade Commission. In addition, the President may establish by regulation such procedures and committees as he may determine to be necessary to enable the organization to provide for the conduct of hearings pursuant to [section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2], and for the carrying out of other functions assigned to the organization pursuant to this section.
 
-([Pub. L. 87–794, title II, § 242][/us/pl/87/794/s242], Oct. 11, 1962, [76 Stat. 878][/us/stat/76/878]; [Pub. L. 93–618, title I, § 171(b)][/us/pl/93/618/s171/b], title VI, § 602(b), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009], 2072; [Pub. L. 96–39, title IX, § 902(c)][/us/pl/96/39/s902/c], July 26, 1979, [93 Stat. 300][/us/stat/93/300]; [Pub. L. 100–418, title I, § 1621(a)][/us/pl/100/418/s1621/a], Aug. 23, 1988, [102 Stat. 1263][/us/stat/102/1263].)
+([Pub. L. 87–794, title II][/us/pl/87/794/tII], § 242, Oct. 11, 1962, [76 Stat. 878][/us/stat/76/878]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 171(b), title VI, § 602(b), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009], 2072; [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 902(c), July 26, 1979, [93 Stat. 300][/us/stat/93/300]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1621(a), Aug. 23, 1988, [102 Stat. 1263][/us/stat/102/1263].)
 
  __References in Text__ 
 
-    [Section 2251 of this title][/us/usc/t19/s2251], referred to in subsec. (b)(2), was amended generally by [Pub. L. 100–418, title I, § 1401(a)][/us/pl/100/418/s1401/a], Aug. 23, 1988, [102 Stat. 1225][/us/stat/102/1225], and as so amended does not contain a subsec. (d). See [section 2252(f) of this title][/us/usc/t19/s2252/f].
+    [Section 2251 of this title][/us/usc/t19/s2251], referred to in subsec. (b)(2), was amended generally by [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1401(a), Aug. 23, 1988, [102 Stat. 1225][/us/stat/102/1225], and as so amended does not contain a subsec. (d). See [section 2252(f) of this title][/us/usc/t19/s2252/f].
 
-    [Section 2412 of this title][/us/usc/t19/s2412], referred to in subsec. (b)(3), was amended generally by [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1168][/us/stat/102/1168], and as so amended the provisions of subsec. (b)(2) of section 2412 are contained in subsec. (a)(4).
+    [Section 2412 of this title][/us/usc/t19/s2412], referred to in subsec. (b)(3), was amended generally by [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(a), Aug. 23, 1988, [102 Stat. 1168][/us/stat/102/1168], and as so amended the provisions of subsec. (b)(2) of section 2412 are contained in subsec. (a)(4).
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–418, § 1621(a)(1)][/us/pl/100/418/s1621/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President shall establish an interagency organization to assist him in carrying out the functions vested in him by this subchapter and sections 2251, 2252, and 2253 of this title. Such organization shall, in addition to the Special Representative for Trade Negotiations, be composed of the heads of such departments and of such other officers as the President shall designate. It shall meet at such times and with respect to such matters as the President or the chairman of the organization shall direct. The organization may invite the participation in its activities of any agency not represented in the organization when matters of interest to such agency are under consideration.”
+    1988—Subsec. (a). [Pub. L. 100–418][/us/pl/100/418], § 1621(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President shall establish an interagency organization to assist him in carrying out the functions vested in him by this subchapter and sections 2251, 2252, and 2253 of this title. Such organization shall, in addition to the Special Representative for Trade Negotiations, be composed of the heads of such departments and of such other officers as the President shall designate. It shall meet at such times and with respect to such matters as the President or the chairman of the organization shall direct. The organization may invite the participation in its activities of any agency not represented in the organization when matters of interest to such agency are under consideration.”
 
-    Subsec. (b). [Pub. L. 100–418, § 1621(a)(2)][/us/pl/100/418/s1621/a/2], inserted at end: “In carrying out its functions under this subsection, the organization shall take into account the advice of the congressional advisers and private sector advisory committees, as well as that of any committee or other body established to advise the department, agency, or office which a member of the organization heads.”
+    Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 1621(a)(2), inserted at end: “In carrying out its functions under this subsection, the organization shall take into account the advice of the congressional advisers and private sector advisory committees, as well as that of any committee or other body established to advise the department, agency, or office which a member of the organization heads.”
 
     1979—Subsecs. (b)(3), (c). [Pub. L. 96–39][/us/pl/96/39] substituted “[section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2]” for “section 2411(c) and (d) of this title”.
 
-    1975—Subsec. (a). [Pub. L. 93–618, § 602(b)(1)][/us/pl/93/618/s602/b/1], substituted reference to sections 2251, 2252, and 2253 of this title for reference to sections 1981 and 1982 of this title.
+    1975—Subsec. (a). [Pub. L. 93–618][/us/pl/93/618], § 602(b)(1), substituted reference to sections 2251, 2252, and 2253 of this title for reference to sections 1981 and 1982 of this title.
 
-    Subsec. (b)(2). [Pub. L. 93–618, § 602(b)(2)][/us/pl/93/618/s602/b/2], (3), substituted “reports submitted to him” for “reports with respect to tariff adjustment submitted to him” and “[section 2251(d) of this title][/us/usc/t19/s2251/d]” for “[section 1901(e) of this title][/us/usc/t19/s1901/e].”
+    Subsec. (b)(2). [Pub. L. 93–618][/us/pl/93/618], § 602(b)(2), (3), substituted “reports submitted to him” for “reports with respect to tariff adjustment submitted to him” and “[section 2251(d) of this title][/us/usc/t19/s2251/d]” for “[section 1901(e) of this title][/us/usc/t19/s1901/e].”
 
-    Subsec. (b)(3). [Pub. L. 93–618, § 602(b)(4)][/us/pl/93/618/s602/b/4], (5), substituted “hearings held pursuant to” for hearings concerning foreign import restrictions held pursuant to” and “section 2411(c) and (d) of this title” for “[section 1882(d) of this title][/us/usc/t19/s1882/d]”.
+    Subsec. (b)(3). [Pub. L. 93–618][/us/pl/93/618], § 602(b)(4), (5), substituted “hearings held pursuant to” for hearings concerning foreign import restrictions held pursuant to” and “section 2411(c) and (d) of this title” for “[section 1882(d) of this title][/us/usc/t19/s1882/d]”.
 
-    Subsec. (c). [Pub. L. 93–618, § 602(b)(5)][/us/pl/93/618/s602/b/5], substituted “section 2411(c) and (d) of this title” for “[section 1882(d) of this title][/us/usc/t19/s1882/d]”.
+    Subsec. (c). [Pub. L. 93–618][/us/pl/93/618], § 602(b)(5), substituted “section 2411(c) and (d) of this title” for “[section 1882(d) of this title][/us/usc/t19/s1882/d]”.
 
-    [Pub. L. 93–618, § 171(b)][/us/pl/93/618/s171/b], substituted “United States International Trade Commission” for “United States Tariff Commission”.
+    [Pub. L. 93–618][/us/pl/93/618], § 171(b), substituted “United States International Trade Commission” for “United States Tariff Commission”.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -97,7 +97,7 @@
 
  __Transfer of Functions From East-West Foreign Trade Board__ 
 
-    East-West Foreign Trade Board, which was established by [Pub. L. 93–618, title IV, § 411][/us/pl/93/618/s411], Jan. 3, 1975, [88 Stat. 2065][/us/stat/88/2065], and classified to [section 2441 of this title][/us/usc/t19/s2441], abolished by Reorg. Plan No. 3 of 1979, § 6, [44 Stat. 69275][/us/stat/44/69275], [93 Stat. 1381][/us/stat/93/1381], eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title][/us/usc/t19/s2171], and functions of Board under subsecs. (a) and (b) of [section 411 of Pub. L. 93–618][/us/pl/93/618/s411] transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See [section 2441 of this title][/us/usc/t19/s2441].
+    East-West Foreign Trade Board, which was established by [Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 411, Jan. 3, 1975, [88 Stat. 2065][/us/stat/88/2065], and classified to [section 2441 of this title][/us/usc/t19/s2441], abolished by Reorg. Plan No. 3 of 1979, § 6, [44 Stat. 69275][/us/stat/44/69275], [93 Stat. 1381][/us/stat/93/1381], eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title][/us/usc/t19/s2171], and functions of Board under subsecs. (a) and (b) of [section 411 of Pub. L. 93–618][/us/pl/93/618/s411] transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See [section 2441 of this title][/us/usc/t19/s2441].
 
  __Establishment of Interagency Group__ 
 
@@ -107,7 +107,7 @@
 
  __Sense of Congress Respecting Role of Interagency Organization__ 
 
-[Pub. L. 100–418, title I, § 1621(b)][/us/pl/100/418/s1621/b], Aug. 23, 1988, [102 Stat. 1264][/us/stat/102/1264], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1621(b), Aug. 23, 1988, [102 Stat. 1264][/us/stat/102/1264], provided that: 
 
 > “It is the sense of Congress that the interagency organization established under subsection (a) \[amending this section\] should be the principal interagency forum within the executive branch on international trade policy matters.”
 
@@ -124,38 +124,38 @@
 
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/usc/t19/s2412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2
-[/us/pl/87/794/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs242
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F878
-[/us/pl/93/618/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fb
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
-[/us/pl/96/39/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs902%2Fc
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F300
-[/us/pl/100/418/s1621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1621%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1263
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/pl/100/418/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1401%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1225
 [/us/usc/t19/s2252/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Ff
 [/us/usc/t19/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412
-[/us/pl/100/418/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1168
-[/us/pl/100/418/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1621%2Fa%2F1
-[/us/pl/100/418/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1621%2Fa%2F2
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s2412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2
-[/us/pl/93/618/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fb%2F1
-[/us/pl/93/618/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fb%2F2
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/usc/t19/s2251/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251%2Fd
 [/us/usc/t19/s1901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901%2Fe
-[/us/pl/93/618/s602/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fb%2F4
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/usc/t19/s1882/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1882%2Fd
-[/us/pl/93/618/s602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fb%2F5
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/usc/t19/s1882/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1882%2Fd
-[/us/pl/93/618/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fb
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs903
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
-[/us/pl/93/618/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs411
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2065
 [/us/usc/t19/s2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2441
 [/us/stat/44/69275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F69275
@@ -167,7 +167,7 @@
 [/us/usc/t19/s3432/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3432%2Fc%2F2
 [/us/pl/100/449/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs405
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/100/418/s1621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1621%2Fb
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1264
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
 

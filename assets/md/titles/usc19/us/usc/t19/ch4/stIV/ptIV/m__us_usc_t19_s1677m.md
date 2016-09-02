@@ -113,7 +113,7 @@
 
             (B) no verification was made under this subparagraph during the 2 immediately preceding reviews and determinations under [section 1675(a) of this title][/us/usc/t19/s1675/a] of the same order, finding, or notice, except that this clause shall not apply if good cause for verification is shown.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 782, as added [Pub. L. 103–465, title II, § 231(a)][/us/pl/103/465/s231/a], Dec. 8, 1994, [108 Stat. 4893][/us/stat/108/4893]; amended [Pub. L. 114–27, title V, § 506][/us/pl/114/27/s506], June 29, 2015, [129 Stat. 386][/us/stat/129/386].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 782, as added [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 231(a), Dec. 8, 1994, [108 Stat. 4893][/us/stat/108/4893]; amended [Pub. L. 114–27, title V][/us/pl/114/27/tV], § 506, June 29, 2015, [129 Stat. 386][/us/stat/129/386].)
 
  __Amendments__ 
 
@@ -138,9 +138,9 @@
 [/us/usc/t19/s1675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fa
 [/us/usc/t19/s1675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fa
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/465/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs231%2Fa
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4893
-[/us/pl/114/27/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs506
+[/us/pl/114/27/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtV
 [/us/stat/129/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F386
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291

@@ -57,9 +57,9 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 581, [42 Stat. 979][/us/stat/42/979]. That section was superseded by section 581 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 581, [42 Stat. 979][/us/stat/42/979]. That section was superseded by section 581 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Prior provisions dealing with the subject matter of this section were contained in R.S. § 3059, conferring powers similar in most respects to those conferred by this section, so far as it relates to vessels, on any officer of the customs, including inspectors and occasional inspectors, or of a revenue cutter, or authorized agent of the Treasury Department, or other persons specially appointed in writing; section 3060, requiring appointments under the preceding section to be filed in the custom house; section 3067, authorizing collectors, etc., and officers of revenue cutters to go on board vessels in port or within four leagues of the coast, for the purpose of demanding manifests, and examining and searching vessels; and section 3069, relative to noting and sealing, if necessary, packages found separate from the residue of the cargo. All of these sections were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Prior provisions dealing with the subject matter of this section were contained in R.S. § 3059, conferring powers similar in most respects to those conferred by this section, so far as it relates to vessels, on any officer of the customs, including inspectors and occasional inspectors, or of a revenue cutter, or authorized agent of the Treasury Department, or other persons specially appointed in writing; section 3060, requiring appointments under the preceding section to be filed in the custom house; section 3067, authorizing collectors, etc., and officers of revenue cutters to go on board vessels in port or within four leagues of the coast, for the purpose of demanding manifests, and examining and searching vessels; and section 3069, relative to noting and sealing, if necessary, packages found separate from the residue of the cargo. All of these sections were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -90,9 +90,9 @@
 [/us/stat/49/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F517
 [/us/usc/t19/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1711
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F979
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/usc/t19/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1613
 

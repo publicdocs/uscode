@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subtitle is comprised of title VIII of act June 17, 1930, as added by [Pub. L. 110–246, title III, § 3301(a)][/us/pl/110/246/s3301/a], June 18, 2008, [122 Stat. 1844][/us/stat/122/1844]. Another title VIII of act June 17, 1930, was added by [Pub. L. 106–476, title IV, § 4004(a)][/us/pl/106/476/s4004/a], Nov. 9, 2000, [114 Stat. 2178][/us/stat/114/2178], and is classified to subtitle V (§ 1681 et seq.) of this chapter.
+    Subtitle is comprised of title VIII of act June 17, 1930, as added by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3301(a), June 18, 2008, [122 Stat. 1844][/us/stat/122/1844]. Another title VIII of act June 17, 1930, was added by [Pub. L. 106–476, title IV][/us/pl/106/476/tIV], § 4004(a), Nov. 9, 2000, [114 Stat. 2178][/us/stat/114/2178], and is classified to subtitle V (§ 1681 et seq.) of this chapter.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1844
-[/us/pl/106/476/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4004%2Fa
+[/us/pl/106/476/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtIV
 [/us/stat/114/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2178
 
 

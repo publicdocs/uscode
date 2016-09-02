@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch10/m__us_usc_t19_s2083.md) | [Next](./../../../..//us/usc/t19/ch11/m__us_usc_t19_s2091.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch11)
+[Previous](./../../../..//us/usc/t19/ch10/m__us_usc_t19_s2084.md) | [Next](./../../../..//us/usc/t19/ch11/m__us_usc_t19_s2091.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch11)
 
 ## CHAPTER 11—IMPORTATION OF PRE-COLUMBIAN MONUMENTAL OR ARCHITECTURAL SCULPTURE OR MURALS
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch10/m__us_usc_t19_s2083.md) | [Next](./../../../..//us/usc/t19/ch11/m__us_usc_t19_s2091.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch11)
+[Previous](./../../../..//us/usc/t19/ch10/m__us_usc_t19_s2084.md) | [Next](./../../../..//us/usc/t19/ch11/m__us_usc_t19_s2091.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch11)
 
 ----------
 ----------

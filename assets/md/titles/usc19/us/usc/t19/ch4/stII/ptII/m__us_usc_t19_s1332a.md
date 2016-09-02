@@ -27,11 +27,11 @@
 
         The quantity of red cedar shingles entitled to exemption from any duty imposed pursuant to this section shall be ascertained for each quota period by the Commission and reported to the Secretary of the Treasury.
 
-([July 1, 1940, ch. 499][/us/act/1940-07-01/ch499], [54 Stat. 708][/us/stat/54/708]; [Pub. L. 93–618, title I, § 171(b)][/us/pl/93/618/s171/b], Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
+([July 1, 1940, ch. 499][/us/act/1940-07-01/ch499], [54 Stat. 708][/us/stat/54/708]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 171(b), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
 
  __References in Text__ 
 
-    [Section 1001 of this title][/us/usc/t19/s1001], referred to in subsec. (b), was struck out by [Pub. L. 87–456, title I, § 101(a)][/us/pl/87/456/s101/a], May 24, 1962, [76 Stat. 72][/us/stat/76/72].
+    [Section 1001 of this title][/us/usc/t19/s1001], referred to in subsec. (b), was struck out by [Pub. L. 87–456, title I][/us/pl/87/456/tI], § 101(a), May 24, 1962, [76 Stat. 72][/us/stat/76/72].
 
  __Codification__ 
 
@@ -51,10 +51,10 @@
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
 [/us/act/1940-07-01/ch499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-01%2Fch499
 [/us/stat/54/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F708
-[/us/pl/93/618/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fb
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
 [/us/usc/t19/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1001
-[/us/pl/87/456/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs101%2Fa
+[/us/pl/87/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtI
 [/us/stat/76/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F72
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 

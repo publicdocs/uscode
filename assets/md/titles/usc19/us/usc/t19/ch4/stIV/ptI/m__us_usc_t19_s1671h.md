@@ -29,7 +29,7 @@
 
         (3) pay, or agree to pay on demand, to the customs officer the amount of countervailing duty imposed under this part on that merchandise.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 709, as added [Pub. L. 98–573, title VI, § 608][/us/pl/98/573/s608], Oct. 30, 1984, [98 Stat. 3029][/us/stat/98/3029].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 709, as added [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 608, Oct. 30, 1984, [98 Stat. 3029][/us/stat/98/3029].)
 
  __Effective Date__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/98/573/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs608
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3029
 [/us/pl/98/573/s626/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs626%2Fa
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

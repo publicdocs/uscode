@@ -39,7 +39,7 @@
 
         (D) if none of the preceding subparagraphs apply, has been within the United States for a period of not less than twenty consecutive years and the claimant establishes that it purchased the material or article for value without knowledge or reason to believe that it was imported in violation of law.
 
-([Pub. L. 97–446, title III, § 312][/us/pl/97/446/s312], Jan. 12, 1983, [96 Stat. 2362][/us/stat/96/2362].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 312, Jan. 12, 1983, [96 Stat. 2362][/us/stat/96/2362].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t22/s2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2459
-[/us/pl/97/446/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs312
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2362
 
 

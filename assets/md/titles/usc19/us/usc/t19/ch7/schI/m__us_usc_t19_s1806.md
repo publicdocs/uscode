@@ -11,21 +11,21 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1801.md) | [Next](./../../../../..//us/usc/t19/ch7/schII/m__us_usc_t19_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1806)
+[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1802...1805.md) | [Next](./../../../../..//us/usc/t19/ch7/schII/m__us_usc_t19_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1806)
 
 ## § 1806. Definitions
 
     For purposes of this chapter—
 
-    (1) Repealed. [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
+    (1) Repealed. [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
 
     (2) The term “duty or other import restriction” includes (A) the rate and form of an import duty, and (B) a limitation, prohibition, charge, and exaction other than duty, imposed on importation or imposed for the regulation of imports.
 
-    (3) to (5) Repealed. [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
+    (3) to (5) Repealed. [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
 
     (6) The term “modification”, as applied to any duty or other import restriction, includes the elimination of any duty.
 
-([Pub. L. 87–794, title IV, § 405][/us/pl/87/794/s405], Oct. 11, 1962, [76 Stat. 902][/us/stat/76/902]; [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].)
+([Pub. L. 87–794, title IV][/us/pl/87/794/tIV], § 405, Oct. 11, 1962, [76 Stat. 902][/us/stat/76/902]; [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].)
 
  __References in Text__ 
 
@@ -37,18 +37,18 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1801.md) | [Next](./../../../../..//us/usc/t19/ch7/schII/m__us_usc_t19_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1806)
+[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1802...1805.md) | [Next](./../../../../..//us/usc/t19/ch7/schII/m__us_usc_t19_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1806)
 
 ----------
 ----------
 
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/87/794/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs405
+[/us/pl/87/794/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtIV
 [/us/stat/76/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F902
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
 [/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
 [/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794

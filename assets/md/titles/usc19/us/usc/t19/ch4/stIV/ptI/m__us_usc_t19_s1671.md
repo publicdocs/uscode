@@ -101,45 +101,45 @@
 
             A countervailing duty is not required to be imposed under subsection (a) on a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country if the administering authority is unable to identify and measure subsidies provided by the government of the nonmarket economy country or a public entity within the territory of the nonmarket economy country because the economy of that country is essentially comprised of a single entity.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 701, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 151][/us/stat/93/151]; amended [Pub. L. 98–573, title VI][/us/pl/98/573], §§ 602(a)(1), 613(b), Oct. 30, 1984, [98 Stat. 3024][/us/stat/98/3024], 3035; [Pub. L. 99–514, title XVIII, § 1886(a)(1)][/us/pl/99/514/s1886/a/1], Oct. 22, 1986, [100 Stat. 2921][/us/stat/100/2921]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1314, 1315, Aug. 23, 1988, [102 Stat. 1185][/us/stat/102/1185]; [Pub. L. 100–647, title IX, § 9001(a)(9)][/us/pl/100/647/s9001/a/9], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, [108 Stat. 4899][/us/stat/108/4899], 4910, 4917; [Pub. L. 112–99, § 1(a)][/us/pl/112/99/s1/a], Mar. 13, 2012, [126 Stat. 265][/us/stat/126/265].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 701, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 151][/us/stat/93/151]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], §§ 602(a)(1), 613(b), Oct. 30, 1984, [98 Stat. 3024][/us/stat/98/3024], 3035; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(1), Oct. 22, 1986, [100 Stat. 2921][/us/stat/100/2921]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1314, 1315, Aug. 23, 1988, [102 Stat. 1185][/us/stat/102/1185]; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(9), Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, [108 Stat. 4899][/us/stat/108/4899], 4910, 4917; [Pub. L. 112–99][/us/pl/112/99], § 1(a), Mar. 13, 2012, [126 Stat. 265][/us/stat/126/265].)
 
  __Amendments__ 
 
     2012—Subsec. (f). [Pub. L. 112–99][/us/pl/112/99] added subsec. (f).
 
-    1994—Subsecs. (a) to (c). [Pub. L. 103–465, § 262][/us/pl/103/465/s262], amended subsecs. (a) to (c) generally, substituting present provisions for provisions which generally authorized the imposition of countervailing duties, defined “country under the Agreement”, and provided for revocation of status as country under the Agreement.
+    1994—Subsecs. (a) to (c). [Pub. L. 103–465][/us/pl/103/465], § 262, amended subsecs. (a) to (c) generally, substituting present provisions for provisions which generally authorized the imposition of countervailing duties, defined “country under the Agreement”, and provided for revocation of status as country under the Agreement.
 
-    Subsec. (d). [Pub. L. 103–465, § 270(b)(1)(A)][/us/pl/103/465/s270/b/1/A], substituted “countervailable subsidies” for “subsidies” wherever appearing.
+    Subsec. (d). [Pub. L. 103–465][/us/pl/103/465], § 270(b)(1)(A), substituted “countervailable subsidies” for “subsidies” wherever appearing.
 
-    [Pub. L. 103–465, § 233(a)(5)(A)][/us/pl/103/465/s233/a/5/A], substituted “subject merchandise” for “a class or kind of merchandise subject to a countervailing duty investigation”.
+    [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(A), substituted “subject merchandise” for “a class or kind of merchandise subject to a countervailing duty investigation”.
 
-    Subsec. (f). [Pub. L. 103–465, § 261(d)(1)(B)(iii)][/us/pl/103/465/s261/d/1/B/iii], struck out subsec. (f) which provided for cross reference to [section 1303 of this title][/us/usc/t19/s1303] for provisions of law applicable in the case of merchandise which was product of country other than country under the Agreement.
+    Subsec. (f). [Pub. L. 103–465][/us/pl/103/465], § 261(d)(1)(B)(iii), struck out subsec. (f) which provided for cross reference to [section 1303 of this title][/us/usc/t19/s1303] for provisions of law applicable in the case of merchandise which was product of country other than country under the Agreement.
 
-    1988—Subsec. (c). [Pub. L. 100–418, § 1314(2)][/us/pl/100/418/s1314/2], added subsec. (c). Former subsec. (c) relating to upstream subsidies redesignated (d).
+    1988—Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1314(2), added subsec. (c). Former subsec. (c) relating to upstream subsidies redesignated (d).
 
     Subsec. (d). [Pub. L. 100–647][/us/pl/100/647] redesignated subsec. (d), relating to cross reference, as (f).
 
-    [Pub. L. 100–418, § 1315(2)][/us/pl/100/418/s1315/2], added subsec. (d) relating to treatment of international consortia. Former subsec. (d), relating to upstream subsidies, redesignated (e).
+    [Pub. L. 100–418][/us/pl/100/418], § 1315(2), added subsec. (d) relating to treatment of international consortia. Former subsec. (d), relating to upstream subsidies, redesignated (e).
 
-    [Pub. L. 100–418, § 1314(1)][/us/pl/100/418/s1314/1], redesignated subsec. (c), relating to upstream subsidies, as (d).
+    [Pub. L. 100–418][/us/pl/100/418], § 1314(1), redesignated subsec. (c), relating to upstream subsidies, as (d).
 
-    Subsec. (e). [Pub. L. 100–418, § 1315(1)][/us/pl/100/418/s1315/1], redesignated subsec. (d), relating to upstream subsidies, as (e).
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1315(1), redesignated subsec. (d), relating to upstream subsidies, as (e).
 
     Subsec. (f). [Pub. L. 100–647][/us/pl/100/647] redesignated subsec (d), relating to cross reference, as (f).
 
     1986—Subsecs. (c), (d), (g). [Pub. L. 99–514][/us/pl/99/514] redesignated subsecs. (g) and (c) as (c) and (d), respectively.
 
-    1984—Subsec. (a). [Pub. L. 98–573, § 602(a)(1)(C)][/us/pl/98/573/s602/a/1/C], inserted last sentence which provided that for purposes of this subsection and [section 1671d(b)(1) of this title][/us/usc/t19/s1671d/b/1], a reference to the sale of merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
+    1984—Subsec. (a). [Pub. L. 98–573][/us/pl/98/573], § 602(a)(1)(C), inserted last sentence which provided that for purposes of this subsection and [section 1671d(b)(1) of this title][/us/usc/t19/s1671d/b/1], a reference to the sale of merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
 
-    Subsec. (a)(1). [Pub. L. 98–573, § 602(a)(1)(A)][/us/pl/98/573/s602/a/1/A], inserted “, or sold (or likely to be sold) for importation,” in provisions following subpar. (B).
+    Subsec. (a)(1). [Pub. L. 98–573][/us/pl/98/573], § 602(a)(1)(A), inserted “, or sold (or likely to be sold) for importation,” in provisions following subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 98–573, § 602(a)(1)(B)][/us/pl/98/573/s602/a/1/B], inserted “or by reason of sales (or the likelihood of sales) of that merchandise for importation” in provisions following subpar. (B).
+    Subsec. (a)(2). [Pub. L. 98–573][/us/pl/98/573], § 602(a)(1)(B), inserted “or by reason of sales (or the likelihood of sales) of that merchandise for importation” in provisions following subpar. (B).
 
-    Subsec. (g). [Pub. L. 98–573, § 613(b)][/us/pl/98/573/s613/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 98–573][/us/pl/98/573], § 613(b), added subsec. (g).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–99, § 1(b)][/us/pl/112/99/s1/b], Mar. 13, 2012, [126 Stat. 265][/us/stat/126/265], provided that: 
+[Pub. L. 112–99][/us/pl/112/99], § 1(b), Mar. 13, 2012, [126 Stat. 265][/us/stat/126/265], provided that: 
 
 > “Subsection (f) of section 701 of the Tariff Act of 1930 \[[19 U.S.C. 1671(f)][/us/usc/t19/s1671/f]\], as added by subsection (a) of this section, applies to—
 
@@ -153,7 +153,7 @@
 
     Amendment by [section 261(d)(1)(B)(iii) of Pub. L. 103–465][/us/pl/103/465/s261/d/1/B/iii] effective on the effective date of title II of [Pub. L. 103–465][/us/pl/103/465], Jan. 1, 1995, see [section 261(d)(2) of Pub. L. 103–465][/us/pl/103/465/s261/d/2], set out as a note under [section 1315 of this title][/us/usc/t19/s1315].
 
-[Pub. L. 103–465, title II, § 291][/us/pl/103/465/s291], Dec. 8, 1994, [108 Stat. 4931][/us/stat/108/4931], provided that:
+[Pub. L. 103–465, title II][/us/pl/103/465/tII], § 291, Dec. 8, 1994, [108 Stat. 4931][/us/stat/108/4931], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -195,7 +195,7 @@
 
     Amendment by [Pub. L. 100–647][/us/pl/100/647] applicable as if such amendment took effect on Aug. 23, 1988, see [section 9001(b) of Pub. L. 100–647][/us/pl/100/647/s9001/b], set out as an Effective and Termination Dates of 1988 Amendments note under [section 58c of this title][/us/usc/t19/s58c].
 
-[Pub. L. 100–418, title I, § 1337][/us/pl/100/418/s1337], Aug. 23, 1988, [102 Stat. 1211][/us/stat/102/1211], as amended by [Pub. L. 100–647, title IX, § 9001(a)(6)][/us/pl/100/647/s9001/a/6], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1337, Aug. 23, 1988, [102 Stat. 1211][/us/stat/102/1211], as amended by [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(6), Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -237,7 +237,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–573, title VI, § 626][/us/pl/98/573/s626], Oct. 30, 1984, [98 Stat. 3042][/us/stat/98/3042], as amended by [Pub. L. 99–514, title XVIII, § 1886(b)][/us/pl/99/514/s1886/b], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922], provided that:
+[Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 626, Oct. 30, 1984, [98 Stat. 3042][/us/stat/98/3042], as amended by [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(b), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922], provided that:
 
 >     “(a) Except as provided in subsections (b) and (c), this Act \[probably should be “this title”\], and the amendments made by it \[enacting sections 1671h, 1677–1, and 1677h of this title, amending this section and sections 1671b to 1671e, 1673c, 1673d, 1677a to 1677f, and 1677g of this title, and repealing sections 1673h and 1673i of this title\], shall take effect on the date of the enactment of this Act \[Oct. 30, 1984\].
 
@@ -259,7 +259,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–39, title I, § 107][/us/pl/96/39/s107], July 26, 1979, [93 Stat. 193][/us/stat/93/193], provided that: 
+[Pub. L. 96–39, title I][/us/pl/96/39/tI], § 107, July 26, 1979, [93 Stat. 193][/us/stat/93/193], provided that: 
 
 > “Except as otherwise provided in this title, this title and the amendments made by it \[enacting this subtitle, amending sections 1303, 1337, 2033, and 2251 of this title, repealing sections 160 to 171 of this title, and enacting provisions set out as notes under this section and sections 160 and 1303 of this title\] shall take effect on January 1, 1980, if—
 
@@ -281,7 +281,7 @@
 
  __Investigations Pending on__  __January 1, 1980__ 
 
-[Pub. L. 96–39, title I, § 102][/us/pl/96/39/s102], July 26, 1979, [93 Stat. 189][/us/stat/93/189], provided that:
+[Pub. L. 96–39, title I][/us/pl/96/39/tI], § 102, July 26, 1979, [93 Stat. 189][/us/stat/93/189], provided that:
 
 >     “(a) __Pending Investigations of Bounties or Grants.—__ 
 
@@ -309,7 +309,7 @@
 
  __Transition Rules for Countervailing Duty Orders__ 
 
-[Pub. L. 96–39, title I, § 104][/us/pl/96/39/s104], July 26, 1979, [93 Stat. 190][/us/stat/93/190], as amended by [Pub. L. 98–573, title VI, § 611(c)][/us/pl/98/573/s611/c], Oct. 30, 1984, [98 Stat. 3033][/us/stat/98/3033], provided that:
+[Pub. L. 96–39, title I][/us/pl/96/39/tI], § 104, July 26, 1979, [93 Stat. 190][/us/stat/93/190], as amended by [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 611(c), Oct. 30, 1984, [98 Stat. 3033][/us/stat/98/3033], provided that:
 
 >     “(a) __Waived Countervailing Duty Orders.—__ 
 
@@ -429,39 +429,39 @@
 [/us/usc/t19/s1671e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671e%2Fc
 [/us/usc/t19/s1675/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fc
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F151
-[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3024
-[/us/pl/99/514/s1886/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2921
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1185
-[/us/pl/100/647/s9001/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F9
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3807
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4899
-[/us/pl/112/99/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99%2Fs1%2Fa
+[/us/pl/112/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99
 [/us/stat/126/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F265
 [/us/pl/112/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99
-[/us/pl/103/465/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs262
-[/us/pl/103/465/s270/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fb%2F1%2FA
-[/us/pl/103/465/s233/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FA
-[/us/pl/103/465/s261/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FB%2Fiii
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
-[/us/pl/100/418/s1314/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1314%2F2
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/418/s1315/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1315%2F2
-[/us/pl/100/418/s1314/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1314%2F1
-[/us/pl/100/418/s1315/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1315%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/573/s602/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs602%2Fa%2F1%2FC
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/usc/t19/s1671d/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671d%2Fb%2F1
-[/us/pl/98/573/s602/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs602%2Fa%2F1%2FA
-[/us/pl/98/573/s602/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs602%2Fa%2F1%2FB
-[/us/pl/98/573/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs613%2Fb
-[/us/pl/112/99/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99%2Fs1%2Fb
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/112/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99
 [/us/stat/126/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F265
 [/us/usc/t19/s1671/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671%2Ff
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
@@ -469,7 +469,7 @@
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s261/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F2
 [/us/usc/t19/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1315
-[/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4931
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
@@ -482,9 +482,9 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647/s9001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fb
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
-[/us/pl/100/418/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1337
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1211
-[/us/pl/100/647/s9001/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F6
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3807
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
@@ -495,23 +495,23 @@
 [/us/usc/t19/s1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677
 [/us/usc/t19/s1677b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677b
 [/us/usc/t19/s1673e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673e%2Fc
-[/us/pl/98/573/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs626
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3042
-[/us/pl/99/514/s1886/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fb
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
 [/us/usc/t28/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2631
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
 [/us/usc/t19/s1516a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a
 [/us/usc/t19/s1677g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677g
 [/us/usc/t19/s1677/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F4%2FA
-[/us/pl/96/39/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs107
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
 [/us/usc/t19/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fa
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/96/39/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs102
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F189
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
@@ -530,9 +530,9 @@
 [/us/usc/t19/s1671d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671d%2Fa
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/usc/t19/s1673d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673d%2Fa
-[/us/pl/96/39/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs104
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F190
-[/us/pl/98/573/s611/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs611%2Fc
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3033
 [/us/usc/t19/s1303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303%2Fd
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303

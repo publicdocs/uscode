@@ -19,19 +19,19 @@
 
     (b) If the Customs Service determines that the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, the Customs Service may promptly order the destruction or other appropriate disposition of such property under regulations prescribed by the Secretary. No customs officer shall be liable for the destruction or other disposition of property made pursuant to this section.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 612, [46 Stat. 755][/us/stat/46/755]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 869][/us/stat/62/869]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title V, § 506, [68 Stat. 1141][/us/stat/68/1141]; [Pub. L. 91–271, title III, § 301(ff)][/us/pl/91/271/s301/ff], June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 95–410, title I, § 111(c)][/us/pl/95/410/s111/c], Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; [Pub. L. 98–473, title II, § 315][/us/pl/98/473/s315], Oct. 12, 1984, [98 Stat. 2054][/us/stat/98/2054]; [Pub. L. 98–573, title II, § 213(a)(9)][/us/pl/98/573/s213/a/9], Oct. 30, 1984, [98 Stat. 2985][/us/stat/98/2985]; [Pub. L. 100–690, title VII, § 7367(c)(4)][/us/pl/100/690/s7367/c/4], Nov. 18, 1988, [102 Stat. 4480][/us/stat/102/4480]; [Pub. L. 103–182, title VI, § 667][/us/pl/103/182/s667], Dec. 8, 1993, [107 Stat. 2215][/us/stat/107/2215].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 612, [46 Stat. 755][/us/stat/46/755]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 869][/us/stat/62/869]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title V, § 506, [68 Stat. 1141][/us/stat/68/1141]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(ff), June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 111(c), Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 315, Oct. 12, 1984, [98 Stat. 2054][/us/stat/98/2054]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 213(a)(9), Oct. 30, 1984, [98 Stat. 2985][/us/stat/98/2985]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7367(c)(4), Nov. 18, 1988, [102 Stat. 4480][/us/stat/102/4480]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 667, Dec. 8, 1993, [107 Stat. 2215][/us/stat/107/2215].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 612, [42 Stat. 986][/us/stat/42/986]. That section was superseded by section 612 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 612, [42 Stat. 986][/us/stat/42/986]. That section was superseded by section 612 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions concerning the sale of property liable to perish or waste, etc., were contained in R.S. § 3080, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions concerning the sale of property liable to perish or waste, etc., were contained in R.S. § 3080, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–182, § 667(1)][/us/pl/103/182/s667/1], substituted “the Customs Service” for “the appropriate customs officer” after “Whenever it appears to”, for “such officer” after “delivered under bond,”, for “such officer” before “shall forthwith transmit” and for “the customs officer” after “Whether such sale be made by” and substituted “its report of the seizure” for “the appraiser’s return and his report of the seizure”.
+    1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 667(1), substituted “the Customs Service” for “the appropriate customs officer” after “Whenever it appears to”, for “such officer” after “delivered under bond,”, for “such officer” before “shall forthwith transmit” and for “the customs officer” after “Whether such sale be made by” and substituted “its report of the seizure” for “the appraiser’s return and his report of the seizure”.
 
-    Subsec. (b). [Pub. L. 103–182, § 667(2)][/us/pl/103/182/s667/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, and such value is less than $1,000, such officer may proceed forthwith to order destruction or other appropriate disposition of such property, under regulations prescribed by the Secretary of the Treasury.”
+    Subsec. (b). [Pub. L. 103–182][/us/pl/103/182], § 667(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, and such value is less than $1,000, such officer may proceed forthwith to order destruction or other appropriate disposition of such property, under regulations prescribed by the Secretary of the Treasury.”
 
     1988—[Pub. L. 100–690][/us/pl/100/690] reenacted section substantially without change.
 
@@ -72,28 +72,28 @@
 [/us/usc/t19/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1607
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F755
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 [/us/act/1954-09-01/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213
 [/us/stat/68/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1141
-[/us/pl/91/271/s301/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fff
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F291
-[/us/pl/95/410/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs111%2Fc
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F898
-[/us/pl/98/473/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs315
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2054
-[/us/pl/98/573/s213/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs213%2Fa%2F9
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2985
-[/us/pl/100/690/s7367/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7367%2Fc%2F4
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4480
-[/us/pl/103/182/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs667
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2215
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F986
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/pl/103/182/s667/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs667%2F1
-[/us/pl/103/182/s667/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs667%2F2
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/usc/t19/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1607

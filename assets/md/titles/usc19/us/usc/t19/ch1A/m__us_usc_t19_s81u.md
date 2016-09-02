@@ -17,7 +17,7 @@
 
     The right to alter, amend, or repeal this chapter is reserved.
 
-([June 18, 1934, ch. 590, § 21][/us/act/1934-06-18/ch590/s21], [48 Stat. 1003][/us/stat/48/1003].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 21, [48 Stat. 1003][/us/stat/48/1003].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs21
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1003
 
 

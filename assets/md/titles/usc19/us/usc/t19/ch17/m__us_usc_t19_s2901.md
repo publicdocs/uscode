@@ -237,17 +237,17 @@
 
             The principal negotiating objective of the United States regarding border taxes is to obtain a revision of the GATT with respect to the treatment of border adjustments for internal taxes to redress the disadvantage to countries relying primarily for revenue on direct taxes rather than indirect taxes.
 
-([Pub. L. 100–418, title I, § 1101][/us/pl/100/418/s1101], Aug. 23, 1988, [102 Stat. 1121][/us/stat/102/1121].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1101, Aug. 23, 1988, [102 Stat. 1121][/us/stat/102/1121].)
 
  __Short Title__ 
 
-[Pub. L. 100–418, § 1(a)][/us/pl/100/418/s1/a], Aug. 23, 1988, [102 Stat. 1107][/us/stat/102/1107], provided that: 
+[Pub. L. 100–418][/us/pl/100/418], § 1(a), Aug. 23, 1988, [102 Stat. 1107][/us/stat/102/1107], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Omnibus Trade and Competitiveness Act of 1988’.”
 
  __Findings and Purposes of Trade, Customs, and Tariff Laws__ 
 
-[Pub. L. 100–418, title I, § 1001][/us/pl/100/418/s1001], Aug. 23, 1988, [102 Stat. 1119][/us/stat/102/1119], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1001, Aug. 23, 1988, [102 Stat. 1119][/us/stat/102/1119], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -381,7 +381,7 @@
 
     (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 
-    (2) The Department of Defense, the Department of Energy, the National Science Foundation, the National Aeronautics and Space Administration, the Department of State, the United States Trade Representative, and other Federal agencies deemed appropriate by the Secretary of Commerce shall provide the information described in section 5141 of the Omnibus Trade Act \[[Pub. L. 100–418, title V][/us/pl/100/418], Aug. 23, 1988, [102 Stat. 1444][/us/stat/102/1444]\] concerning their Fiscal Year 1989 program and proposed Fiscal Year 1990 program to the Secretary of Commerce in sufficient time to permit preparation of the report.
+    (2) The Department of Defense, the Department of Energy, the National Science Foundation, the National Aeronautics and Space Administration, the Department of State, the United States Trade Representative, and other Federal agencies deemed appropriate by the Secretary of Commerce shall provide the information described in section 5141 of the Omnibus Trade Act \[[Pub. L. 100–418, title V][/us/pl/100/418/tV], Aug. 23, 1988, [102 Stat. 1444][/us/stat/102/1444]\] concerning their Fiscal Year 1989 program and proposed Fiscal Year 1990 program to the Secretary of Commerce in sufficient time to permit preparation of the report.
 
     (3) The Office of Management and Budget shall provide to the Secretary of Commerce, in sufficient time to permit preparation of the report, a summary of the Federal base program and Fiscal Year 1990 budget initiatives in each of the technical areas of the report.
 
@@ -423,11 +423,11 @@
 ----------
 
 [/us/usc/t19/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241
-[/us/pl/100/418/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1101
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1121
-[/us/pl/100/418/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1%2Fa
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1107
-[/us/pl/100/418/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1001
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1119
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1107
@@ -447,7 +447,7 @@
 [/us/usc/t15/s78dd–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931
 [/us/usc/t50/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565
 [/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1444
 [/us/usc/t41/s10a–10d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a%E2%80%9310d
 [/us/usc/t41/s10b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10b%E2%80%931

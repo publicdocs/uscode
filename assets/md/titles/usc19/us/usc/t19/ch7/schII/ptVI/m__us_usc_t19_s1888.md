@@ -17,7 +17,7 @@
 
     All provisions of law (other than this chapter and the Trade Agreements Extension Act of 1951) in effect after June 30, 1962, referring to section 350 of the Tariff Act of 1930, to that section as amended, to the Act entitled “An Act to amend the Tariff Act of 1930”, approved June 12, 1934, to that Act as amended, or to agreements entered into, or proclamations issued, under any of such provisions, shall be construed, unless clearly precluded by the context, to refer also to this chapter, or to agreements entered into or proclamations issued, pursuant to this chapter.
 
-([Pub. L. 87–794, title II, § 258][/us/pl/87/794/s258], Oct. 11, 1962, [76 Stat. 883][/us/stat/76/883].)
+([Pub. L. 87–794, title II][/us/pl/87/794/tII], § 258, Oct. 11, 1962, [76 Stat. 883][/us/stat/76/883].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/87/794/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs258
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F883
 [/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
 [/us/stat/76/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F872

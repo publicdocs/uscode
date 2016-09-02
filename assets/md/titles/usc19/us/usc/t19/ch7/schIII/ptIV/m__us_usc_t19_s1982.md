@@ -23,11 +23,11 @@
 
         In order to carry out an agreement concluded under subsection (a), the President is authorized to issue regulations governing the entry or withdrawal from warehouse of the article covered by such agreement. In addition, in order to carry out a multilateral agreement concluded under subsection (a) among countries accounting for a significant part of world trade in the article covered by such agreement, the President is also authorized to issue regulations governing the entry or withdrawal from warehouse of the like article which is the product of countries not parties to such agreement.
 
-([Pub. L. 87–794, title III, § 352][/us/pl/87/794/s352], Oct. 11, 1962, [76 Stat. 901][/us/stat/76/901]; [Pub. L. 93–618, title I, § 171(b)][/us/pl/93/618/s171/b], Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
+([Pub. L. 87–794, title III][/us/pl/87/794/tIII], § 352, Oct. 11, 1962, [76 Stat. 901][/us/stat/76/901]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 171(b), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
 
  __References in Text__ 
 
-    [Section 1901 of this title][/us/usc/t19/s1901], referred to in subsec. (a), was repealed by [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], (e), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]. See section 2251 et seq. of this title.
+    [Section 1901 of this title][/us/usc/t19/s1901], referred to in subsec. (a), was repealed by [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), (e), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]. See section 2251 et seq. of this title.
 
  __Amendments__ 
 
@@ -46,12 +46,12 @@
 
 [/us/usc/t19/s1981/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1981%2Fa%2F1
 [/us/usc/t19/s1981/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1981%2Fa%2F1
-[/us/pl/87/794/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs352
+[/us/pl/87/794/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtIII
 [/us/stat/76/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F901
-[/us/pl/93/618/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fb
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
 [/us/usc/t19/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111

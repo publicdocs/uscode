@@ -35,11 +35,11 @@
 
         No financial assistance shall be provided to any firm under section 1914 1 of this title unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within one year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which the Secretary of Commerce shall have determined involve discretion with respect to the provision of such financial assistance.
 
-([Pub. L. 87–794, title III, § 318][/us/pl/87/794/s318], Oct. 11, 1962, [76 Stat. 891][/us/stat/76/891].)
+([Pub. L. 87–794, title III][/us/pl/87/794/tIII], § 318, Oct. 11, 1962, [76 Stat. 891][/us/stat/76/891].)
 
  __References in Text__ 
 
-    Sections 1913, 1914, and 1917 of this title, referred to in text, were repealed by [Pub. L. 93–618, title VI, § 602(e)][/us/pl/93/618/s602/e], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
+    Sections 1913, 1914, and 1917 of this title, referred to in text, were repealed by [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(e), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
 
     [Section 1917 of this title][/us/usc/t19/s1917], referred to in subsecs. (a) to (c), was in the original “section 317”, meaning [section 317 of Pub. L. 87–794][/us/pl/87/794/s317], which enacted [section 1917 of this title][/us/usc/t19/s1917] and amended sections 172(b), 6501(h), and 6511(d)(2)(A) of Title 26, Internal Revenue Code.
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/87/794/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs318
+[/us/pl/87/794/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtIII
 [/us/stat/76/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F891
-[/us/pl/93/618/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fe
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
 [/us/usc/t19/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1917
 [/us/pl/87/794/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs317

@@ -45,11 +45,11 @@
 
             After publication of the countervailing duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the region concerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of [section 1675(a)(2)(B) of this title][/us/usc/t19/s1675/a/2/B].
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 706, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 160][/us/stat/93/160]; amended [Pub. L. 98–573, title VI, § 607][/us/pl/98/573/s607], Oct. 30, 1984, [98 Stat. 3029][/us/stat/98/3029]; [Pub. L. 99–514, title XVIII, § 1886(a)(5)][/us/pl/99/514/s1886/a/5], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 218(b)(1), 233(a)(5)(O), 264(c)(9), 265, 270(a)(1)(H), Dec. 8, 1994, [108 Stat. 4855][/us/stat/108/4855], 4899, 4914, 4917.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 706, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 160][/us/stat/93/160]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 607, Oct. 30, 1984, [98 Stat. 3029][/us/stat/98/3029]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(5), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 218(b)(1), 233(a)(5)(O), 264(c)(9), 265, 270(a)(1)(H), Dec. 8, 1994, [108 Stat. 4855][/us/stat/108/4855], 4899, 4914, 4917.)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1). [Pub. L. 103–465, § 270(a)(1)(H)][/us/pl/103/465/s270/a/1/H], substituted “countervailable subsidy” for “subsidy”.
+    1994—Subsec. (a)(1). [Pub. L. 103–465][/us/pl/103/465], § 270(a)(1)(H), substituted “countervailable subsidy” for “subsidy”.
 
     Subsec. (a)(2) to (4). [Pub. L. 103–465][/us/pl/103/465], §§ 233(a)(5)(O), 265, redesignated par. (3) as (2) and substituted “subject merchandise” for “class or kind of merchandise to which it applies”, redesignated par. (4) as (3), and struck out former par. (2) which read as follows:
 
@@ -61,9 +61,9 @@
 
     the order may provide for differing countervailing duties,”.
 
-    Subsec. (b)(1). [Pub. L. 103–465, § 264(c)(9)][/us/pl/103/465/s264/c/9], substituted “1671b(d)(2)” for “1671b(d)(1)” in two places.
+    Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 264(c)(9), substituted “1671b(d)(2)” for “1671b(d)(1)” in two places.
 
-    Subsec. (c). [Pub. L. 103–465, § 218(b)(1)][/us/pl/103/465/s218/b/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 218(b)(1), added subsec. (c).
 
     1986—Subsec. (a)(2). [Pub. L. 99–514][/us/pl/99/514] realigned the margins in provisions following subpar. (B), which realignment had been editorially supplied, thereby requiring no change in text.
 
@@ -99,18 +99,18 @@
 [/us/usc/t19/s1677/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F4%2FC
 [/us/usc/t19/s1675/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fa%2F2%2FB
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F160
-[/us/pl/98/573/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs607
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3029
-[/us/pl/99/514/s1886/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F5
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4855
-[/us/pl/103/465/s270/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fa%2F1%2FH
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s264/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs264%2Fc%2F9
-[/us/pl/103/465/s218/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs218%2Fb%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

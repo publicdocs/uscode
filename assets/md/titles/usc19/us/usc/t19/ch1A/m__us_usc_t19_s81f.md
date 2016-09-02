@@ -33,7 +33,7 @@
 
         The Board may upon its own initiative or upon request permit the amendment of the application. Any expansion of the area of an established zone shall be made and approved in the same manner as an original application.
 
-([June 18, 1934, ch. 590, § 6][/us/act/1934-06-18/ch590/s6], [48 Stat. 1000][/us/stat/48/1000].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 6, [48 Stat. 1000][/us/stat/48/1000].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs6
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1000
 
 

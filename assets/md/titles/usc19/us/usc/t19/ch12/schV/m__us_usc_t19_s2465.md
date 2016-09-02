@@ -17,11 +17,11 @@
 
     No duty-free treatment provided under this subchapter shall remain in effect after December 31, 2017.
 
-([Pub. L. 93–618, title V, § 505][/us/pl/93/618/s505], as added [Pub. L. 104–188, title I, § 1952(a)][/us/pl/104/188/s1952/a], Aug. 20, 1996, [110 Stat. 1925][/us/stat/110/1925]; amended [Pub. L. 105–34, title IX, § 981(a)][/us/pl/105/34/s981/a], Aug. 5, 1997, [111 Stat. 902][/us/stat/111/902]; [Pub. L. 105–277, div. J, title I, § 1011(a)][/us/pl/105/277/s1011/a], Oct. 21, 1998, [112 Stat. 2681–900][/us/stat/112/2681-900]; [Pub. L. 106–170, title V, § 508(a)][/us/pl/106/170/s508/a], Dec. 17, 1999, [113 Stat. 1923][/us/stat/113/1923]; [Pub. L. 107–210, div. D, title XLI, § 4101(a)][/us/pl/107/210/s4101/a], Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040]; [Pub. L. 109–432, div. D, title VIII, § 8002][/us/pl/109/432/s8002], Dec. 20, 2006, [120 Stat. 3195][/us/stat/120/3195]; [Pub. L. 110–436, § 4][/us/pl/110/436/s4], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–124, § 1][/us/pl/111/124/s1], Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 112–40, § 1(a)][/us/pl/112/40/s1/a], Oct. 21, 2011, [125 Stat. 401][/us/stat/125/401]; [Pub. L. 114–27, title II, § 201(a)][/us/pl/114/27/s201/a], June 29, 2015, [129 Stat. 371][/us/stat/129/371].)
+([Pub. L. 93–618, title V][/us/pl/93/618/tV], § 505, as added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1952(a), Aug. 20, 1996, [110 Stat. 1925][/us/stat/110/1925]; amended [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 981(a), Aug. 5, 1997, [111 Stat. 902][/us/stat/111/902]; [Pub. L. 105–277, div. J, title I][/us/pl/105/277/dJ/tI], § 1011(a), Oct. 21, 1998, [112 Stat. 2681–900][/us/stat/112/2681-900]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 508(a), Dec. 17, 1999, [113 Stat. 1923][/us/stat/113/1923]; [Pub. L. 107–210, div. D, title XLI][/us/pl/107/210/dD/tXLI], § 4101(a), Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040]; [Pub. L. 109–432, div. D, title VIII][/us/pl/109/432/dD/tVIII], § 8002, Dec. 20, 2006, [120 Stat. 3195][/us/stat/120/3195]; [Pub. L. 110–436][/us/pl/110/436], § 4, Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–124][/us/pl/111/124], § 1, Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 112–40][/us/pl/112/40], § 1(a), Oct. 21, 2011, [125 Stat. 401][/us/stat/125/401]; [Pub. L. 114–27, title II][/us/pl/114/27/tII], § 201(a), June 29, 2015, [129 Stat. 371][/us/stat/129/371].)
 
  __Prior Provisions__ 
 
-    A prior section 2465, [Pub. L. 93–618, title V, § 505][/us/pl/93/618/s505], Jan. 3, 1975, [88 Stat. 2071][/us/stat/88/2071]; [Pub. L. 98–573, title V, § 506(a)][/us/pl/98/573/s506/a], Oct. 30, 1984, [98 Stat. 3023][/us/stat/98/3023]; [Pub. L. 103–66, title XIII, § 13802(b)(1)][/us/pl/103/66/s13802/b/1], Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667]; [Pub. L. 103–465, title VI, § 601(a)][/us/pl/103/465/s601/a], Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990], related to termination of duty-free treatment and reports, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
+    A prior section 2465, [Pub. L. 93–618, title V][/us/pl/93/618/tV], § 505, Jan. 3, 1975, [88 Stat. 2071][/us/stat/88/2071]; [Pub. L. 98–573, title V][/us/pl/98/573/tV], § 506(a), Oct. 30, 1984, [98 Stat. 3023][/us/stat/98/3023]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13802(b)(1), Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667]; [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 601(a), Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990], related to termination of duty-free treatment and reports, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–27, title II, § 201(b)][/us/pl/114/27/s201/b], June 29, 2015, [129 Stat. 371][/us/stat/129/371], provided that:
+[Pub. L. 114–27, title II][/us/pl/114/27/tII], § 201(b), June 29, 2015, [129 Stat. 371][/us/stat/129/371], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–40, § 1(b)][/us/pl/112/40/s1/b], Oct. 21, 2011, [125 Stat. 401][/us/stat/125/401], provided that:
+[Pub. L. 112–40][/us/pl/112/40], § 1(b), Oct. 21, 2011, [125 Stat. 401][/us/stat/125/401], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -125,7 +125,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–170, title V, § 508(b)][/us/pl/106/170/s508/b], Dec. 17, 1999, [113 Stat. 1923][/us/stat/113/1923], provided that:
+[Pub. L. 106–170, title V][/us/pl/106/170/tV], § 508(b), Dec. 17, 1999, [113 Stat. 1923][/us/stat/113/1923], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. J, title I, § 1011(b)][/us/pl/105/277/s1011/b], Oct. 21, 1998, [112 Stat. 2681–900][/us/stat/112/2681-900], provided that:
+[Pub. L. 105–277, div. J, title I][/us/pl/105/277/dJ/tI], § 1011(b), Oct. 21, 1998, [112 Stat. 2681–900][/us/stat/112/2681-900], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -201,7 +201,7 @@
 
  __Retroactive Application for Certain Liquidations and Reliquidations__ 
 
-[Pub. L. 107–210, div. D, title XLI, § 4101(b)][/us/pl/107/210/s4101/b], Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040], as amended by [Pub. L. 108–429, title II, § 2004(a)(20)][/us/pl/108/429/s2004/a/20], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591], provided that:
+[Pub. L. 107–210, div. D, title XLI][/us/pl/107/210/dD/tXLI], § 4101(b), Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040], as amended by [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(a)(20), Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -229,11 +229,11 @@
 
     \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
-    [Pub. L. 105–34, title IX, § 981(b)][/us/pl/105/34/s981/b], Aug. 5, 1997, [111 Stat. 902][/us/stat/111/902], provided that the entry of any article to which duty-free treatment under this subchapter would have applied if the entry had been made on May 31, 1997, and that was made after May 31, 1997, and before Aug. 5, 1997, would be liquidated or reliquidated as free of duty, and the Secretary of the Treasury would refund any duty paid with respect to such entry, only if a request therefor was filed with the Customs Service, within 180 days after Aug. 5, 1997, that contained sufficient information to enable the Customs Service to locate the entry, or to reconstruct the entry if it could not be located.
+    [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 981(b), Aug. 5, 1997, [111 Stat. 902][/us/stat/111/902], provided that the entry of any article to which duty-free treatment under this subchapter would have applied if the entry had been made on May 31, 1997, and that was made after May 31, 1997, and before Aug. 5, 1997, would be liquidated or reliquidated as free of duty, and the Secretary of the Treasury would refund any duty paid with respect to such entry, only if a request therefor was filed with the Customs Service, within 180 days after Aug. 5, 1997, that contained sufficient information to enable the Customs Service to locate the entry, or to reconstruct the entry if it could not be located.
 
-    [Pub. L. 103–465, title VI, § 601(b)][/us/pl/103/465/s601/b], Dec. 8, 1994, [108 Stat. 4991][/us/stat/108/4991], as amended by [Pub. L. 104–295, § 20(f)(2)][/us/pl/104/295/s20/f/2], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529], provided that the entry of any article to which duty-free treatment under this subchapter would have applied if the entry had been made on Sept. 30, 1994, and that was made after Sept. 30, 1994, and before Dec. 8, 1994, would be liquidated or reliquidated as free of duty, and the Secretary of the Treasury would refund any duty paid with respect to such entry, only if a request therefor was filed with the Customs Service, within 180 days after Dec. 8, 1994, that contained sufficient information to enable the Customs Service to locate the entry, or to reconstruct the entry if it could not be located.
+    [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 601(b), Dec. 8, 1994, [108 Stat. 4991][/us/stat/108/4991], as amended by [Pub. L. 104–295][/us/pl/104/295], § 20(f)(2), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529], provided that the entry of any article to which duty-free treatment under this subchapter would have applied if the entry had been made on Sept. 30, 1994, and that was made after Sept. 30, 1994, and before Dec. 8, 1994, would be liquidated or reliquidated as free of duty, and the Secretary of the Treasury would refund any duty paid with respect to such entry, only if a request therefor was filed with the Customs Service, within 180 days after Dec. 8, 1994, that contained sufficient information to enable the Customs Service to locate the entry, or to reconstruct the entry if it could not be located.
 
-    [Pub. L. 103–66, title XIII, § 13802(b)(2)][/us/pl/103/66/s13802/b/2], Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667], provided that, upon proper request filed with the appropriate customs officer within 180 days after Aug. 10, 1993, the entry of any article to which duty-free treatment under this subchapter would have applied if the entry had been made on July 4, 1993, and that was made after July 4, 1993, and before Aug. 10, 1993, would be liquidated or reliquidated as free of duty, and the Secretary of the Treasury would refund any duty paid with respect to such entry.
+    [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13802(b)(2), Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667], provided that, upon proper request filed with the appropriate customs officer within 180 days after Aug. 10, 1993, the entry of any article to which duty-free treatment under this subchapter would have applied if the entry had been made on July 4, 1993, and that was made after July 4, 1993, and before Aug. 10, 1993, would be liquidated or reliquidated as free of duty, and the Secretary of the Treasury would refund any duty paid with respect to such entry.
 
 ----------
 
@@ -242,34 +242,34 @@
 ----------
 ----------
 
-[/us/pl/93/618/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs505
-[/us/pl/104/188/s1952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1952%2Fa
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1925
-[/us/pl/105/34/s981/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs981%2Fa
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F902
-[/us/pl/105/277/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1011%2Fa
+[/us/pl/105/277/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtI
 [/us/stat/112/2681-900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-900
-[/us/pl/106/170/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs508%2Fa
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1923
-[/us/pl/107/210/s4101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs4101%2Fa
+[/us/pl/107/210/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdD%2FtXLI
 [/us/stat/116/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1040
-[/us/pl/109/432/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs8002
+[/us/pl/109/432/dD/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtVIII
 [/us/stat/120/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3195
-[/us/pl/110/436/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs4
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
 [/us/stat/122/4981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4981
-[/us/pl/111/124/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F124%2Fs1
+[/us/pl/111/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F124
 [/us/stat/123/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3484
-[/us/pl/112/40/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs1%2Fa
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/stat/125/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F401
-[/us/pl/114/27/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs201%2Fa
+[/us/pl/114/27/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtII
 [/us/stat/129/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F371
-[/us/pl/93/618/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs505
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
 [/us/stat/88/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2071
-[/us/pl/98/573/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs506%2Fa
+[/us/pl/98/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtV
 [/us/stat/98/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3023
-[/us/pl/103/66/s13802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13802%2Fb%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F667
-[/us/pl/103/465/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs601%2Fa
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4990
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
@@ -281,37 +281,37 @@
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/114/27/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs201%2Fb
+[/us/pl/114/27/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtII
 [/us/stat/129/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F371
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/112/40/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs1%2Fb
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/stat/125/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F401
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/106/170/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs508%2Fb
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1923
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/105/277/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1011%2Fb
+[/us/pl/105/277/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtI
 [/us/stat/112/2681-900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-900
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/107/210/s4101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs4101%2Fb
+[/us/pl/107/210/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdD%2FtXLI
 [/us/stat/116/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1040
-[/us/pl/108/429/s2004/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F20
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2591
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/105/34/s981/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs981%2Fb
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F902
-[/us/pl/103/465/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs601%2Fb
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4991
-[/us/pl/104/295/s20/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Ff%2F2
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
-[/us/pl/103/66/s13802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13802%2Fb%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F667
 
 

@@ -45,7 +45,7 @@
 
         (6) in order to prevent adverse impact on a key industry in many developing countries, the International Monetary Fund must mobilize its own resources for providing debt relief to eligible countries without allowing gold to reach the open market, or otherwise adversely affecting the market price of gold.
 
-([Pub. L. 106–200, title I, § 121][/us/pl/106/200/s121], May 18, 2000, [114 Stat. 267][/us/stat/114/267].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 121, May 18, 2000, [114 Stat. 267][/us/stat/114/267].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/106/200/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs121
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F267
 
 

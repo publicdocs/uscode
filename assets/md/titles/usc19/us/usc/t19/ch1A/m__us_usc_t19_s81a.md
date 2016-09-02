@@ -35,13 +35,13 @@
 
     (i) The term “zone” means a “foreign-trade zone” as provided in this chapter.
 
-([June 18, 1934, ch. 590, § 1][/us/act/1934-06-18/ch590/s1], [48 Stat. 998][/us/stat/48/998]; [Pub. L. 104–201, div. A, title IX, § 910][/us/pl/104/201/s910], Sept. 23, 1996, [110 Stat. 2621][/us/stat/110/2621].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 1, [48 Stat. 998][/us/stat/48/998]; [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 910, Sept. 23, 1996, [110 Stat. 2621][/us/stat/110/2621].)
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–201, § 910(1)][/us/pl/104/201/s910/1], substituted “and the Secretary of the Treasury” for “the Secretary of the Treasury, and the Secretary of War”.
+    1996—Subsec. (b). [Pub. L. 104–201][/us/pl/104/201], § 910(1), substituted “and the Secretary of the Treasury” for “the Secretary of the Treasury, and the Secretary of War”.
 
-    Subsec. (c). [Pub. L. 104–201, § 910(2)][/us/pl/104/201/s910/2], struck out “Alaska, Hawaii,” after “Columbia,”.
+    Subsec. (c). [Pub. L. 104–201][/us/pl/104/201], § 910(2), struck out “Alaska, Hawaii,” after “Columbia,”.
 
  __Short Title__ 
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs1
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F998
-[/us/pl/104/201/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs910
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2621
-[/us/pl/104/201/s910/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs910%2F1
-[/us/pl/104/201/s910/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs910%2F2
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11218
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001

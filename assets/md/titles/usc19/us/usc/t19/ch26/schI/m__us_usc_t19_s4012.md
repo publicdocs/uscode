@@ -53,7 +53,7 @@
 
         (2) may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the Agreement.
 
-([Pub. L. 109–53, title I, § 102][/us/pl/109/53/s102], Aug. 2, 2005, [119 Stat. 464][/us/stat/119/464].)
+([Pub. L. 109–53, title I][/us/pl/109/53/tI], § 102, Aug. 2, 2005, [119 Stat. 464][/us/stat/119/464].)
 
  __Termination of Section__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/109/53/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs102
+[/us/pl/109/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtI
 [/us/stat/119/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F464
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

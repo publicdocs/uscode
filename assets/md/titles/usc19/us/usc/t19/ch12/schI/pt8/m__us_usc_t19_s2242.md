@@ -99,7 +99,7 @@
 
             (B) the manufacture of products that are patented or for which there are process patents.
 
-        (2) A foreign country denies adequate and effective protection of intellectual property rights if the foreign country denies adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such foreign country to secure, exercise, and enforce rights relating to patents, process patents, registered trademarks, copyrights and mask works.
+        (2) A foreign country denies adequate and effective protection of intellectual property rights if the foreign country denies adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such foreign country to secure, exercise, and enforce rights relating to patents, process patents, registered trademarks, copyrights, trade secrets, and mask works.
 
         (3)
 
@@ -149,23 +149,75 @@
 
             (E) Radio communications in which the transmissions are intended for direct reception by the general public, and all radio, television, and cable broadcasting undertakings and all satellite programming and broadcast network services.
 
-    (g) __Annual report__ 
+    (g) __Special rules for foreign countries on the priority watch list__ 
 
-        The Trade Representative shall, by not later than the date by which countries are identified under subsection (a), transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights.
+        (1) __Action plans__ 
 
-([Pub. L. 93–618, title I, § 182][/us/pl/93/618/s182], as added [Pub. L. 100–418, title I, § 1303(b)][/us/pl/100/418/s1303/b], Aug. 23, 1988, [102 Stat. 1179][/us/stat/102/1179]; amended [Pub. L. 103–182, title V, § 513][/us/pl/103/182/s513], Dec. 8, 1993, [107 Stat. 2156][/us/stat/107/2156]; [Pub. L. 103–465, title III, § 313][/us/pl/103/465/s313], Dec. 8, 1994, [108 Stat. 4938][/us/stat/108/4938]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(8)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584.)
+            (A) __In general__ 
+
+                Not later than 90 days after the date on which the Trade Representative submits the National Trade Estimate under [section 2241(b) of this title][/us/usc/t19/s2241/b], the Trade Representative shall develop an action plan described in subparagraph (C) with respect to each foreign country described in subparagraph (B).
+
+            (B) __Foreign country described__ 
+
+            The Trade Representative shall develop an action plan under subparagraph (A) with respect to each foreign country that—
+
+                (i) the Trade Representative has identified for placement on the priority watch list; and
+
+                (ii) has remained on such list for at least one year.
+
+            (C) __Action plan described__ 
+
+            An action plan developed under subparagraph (A) shall contain the benchmarks described in subparagraph (D) and be designed to assist the foreign country—
+
+                (i)
+
+                 to achieve—
+
+                    (I) adequate and effective protection of intellectual property rights; and
+
+                    (II) fair and equitable market access for United States persons that rely upon intellectual property protection; or
+
+                (ii) to make significant progress toward achieving the goals described in clause (i).
+
+            (D) __Benchmarks described__ 
+
+                The benchmarks contained in an action plan developed pursuant to subparagraph (A) are such legislative, institutional, enforcement, or other actions as the Trade Representative determines to be necessary for the foreign country to achieve the goals described in clause (i) or (ii) of subparagraph (C).
+
+        (2) __Failure to meet action plan benchmarks__ 
+
+            If, as of one year after the date on which an action plan is developed under paragraph (1)(A), the President, in consultation with the Trade Representative, determines that the foreign country to which the action plan applies has not substantially complied with the benchmarks described in paragraph (1)(D), the President may take appropriate action with respect to the foreign country.
+
+        (3) __Priority watch list defined__ 
+
+            In this subsection, the term “priority watch list” means the priority watch list established by the Trade Representative pursuant to subsection (a).
+
+    (h) __Annual report__ 
+
+    Not later than 30 days after the date on which the Trade Representative submits the National Trade Estimate under [section 2241(b) of this title][/us/usc/t19/s2241/b], the Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including—
+
+        (1) a list of any foreign countries identified under subsection (a);
+
+        (2) a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights; and
+
+        (3) a description of the action plans developed under subsection (g) and any actions taken by foreign countries under such plans.
+
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 182, as added [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1303(b), Aug. 23, 1988, [102 Stat. 1179][/us/stat/102/1179]; amended [Pub. L. 103–182, title V][/us/pl/103/182/tV], § 513, Dec. 8, 1993, [107 Stat. 2156][/us/stat/107/2156]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 313, Dec. 8, 1994, [108 Stat. 4938][/us/stat/108/4938]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(8)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 114–125, title VI][/us/pl/114/125/tVI], § 610(a), (b)(1), Feb. 24, 2016, [130 Stat. 191][/us/stat/130/191].)
 
  __Amendments__ 
 
+    2016—Subsec. (d)(2). [Pub. L. 114–125][/us/pl/114/125], § 610(a), inserted “, trade secrets,” after “copyrights”.
+
+    Subsecs. (g), (h). [Pub. L. 114–125][/us/pl/114/125], § 610(b)(1), added subsecs. (g) and (h) and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: “The Trade Representative shall, by not later than the date by which countries are identified under subsection (a), transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, a report on actions taken under this section during the 12 months preceding such report, and the reasons for such actions, including a description of progress made in achieving improved intellectual property protection and market access for persons relying on intellectual property rights.”
+
     1999—Subsec. (b)(2)(A). [Pub. L. 106–113][/us/pl/106/113] substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
 
-    1994—Subsec. (b)(4). [Pub. L. 103–465, § 313(1)][/us/pl/103/465/s313/1], added par. (4).
+    1994—Subsec. (b)(4). [Pub. L. 103–465][/us/pl/103/465], § 313(1), added par. (4).
 
-    Subsec. (d)(3). [Pub. L. 103–465, § 313(2)(A)][/us/pl/103/465/s313/2/A], amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright, patent, or process patent through the use of laws, procedures, practices, or regulations which—”.
+    Subsec. (d)(3). [Pub. L. 103–465][/us/pl/103/465], § 313(2)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright, patent, or process patent through the use of laws, procedures, practices, or regulations which—”.
 
-    Subsec. (d)(4). [Pub. L. 103–465, § 313(2)(B)][/us/pl/103/465/s313/2/B], added par. (4).
+    Subsec. (d)(4). [Pub. L. 103–465][/us/pl/103/465], § 313(2)(B), added par. (4).
 
-    Subsec. (g). [Pub. L. 103–465, § 313(3)][/us/pl/103/465/s313/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–465][/us/pl/103/465], § 313(3), added subsec. (g).
 
     1993—Subsec. (f). [Pub. L. 103–182][/us/pl/103/182] added subsec. (f).
 
@@ -181,13 +233,31 @@
 
     Amendment by [Pub. L. 103–182][/us/pl/103/182] effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see [section 516(a) of Pub. L. 103–182][/us/pl/103/182/s516/a], set out as an Effective Date note under [section 3461 of this title][/us/usc/t19/s3461].
 
+ __Construction of 2016 Amendment__ 
+
+[Pub. L. 114–125, title VI][/us/pl/114/125/tVI], § 610(b)(3), Feb. 24, 2016, [130 Stat. 192][/us/stat/130/192], provided that: 
+
+> “Nothing in this subsection \[amending this section and enacting provisions set out as a note below\] or the amendment made by this subsection shall be construed as limiting the authority of the President or the United States Trade Representative to develop action plans other than action plans described in section 182(g) of the Trade Act of 1974 \[[19 U.S.C. 2242(g)][/us/usc/t19/s2242/g]\], as amended by paragraph (1), or to take any action otherwise authorized by law in response to the failure of a foreign country to provide adequate and effective protection and enforcement of intellectual property rights.”
+
+ __Use of Trade Enforcement Trust Funds To Facilitate Compliance with Intellectual Property Protection Benchmarks by Developing Countries__ 
+
+[Pub. L. 114–125, title VI][/us/pl/114/125/tVI], § 610(b)(2), Feb. 24, 2016, [130 Stat. 192][/us/stat/130/192], provided that:
+
+>     “(A)  __In general__  __.—__ 
+
+>     Amounts from the Trade Enforcement Trust Fund established under section 611 \[[19 U.S.C. 4405][/us/usc/t19/s4405]\] may be expended by the United States Trade Representative, only as provided by appropriations Acts, to provide assistance to any developing country to which an action plan applies under section 182(g) of the Trade Act of 1974 \[[19 U.S.C. 2242(g)][/us/usc/t19/s2242/g]\], as amended by paragraph (1), to facilitate the efforts of the developing country to comply with the benchmarks contained in the action plan. Such assistance may include capacity building, activities designed to increase awareness of intellectual property rights, and training for officials responsible for enforcing intellectual property rights in the developing country.
+
+>     “(B)  __Developing country defined__  __.—__ 
+
+>     In this paragraph, the term ‘developing country’ means a country classified by the World Bank as having a low-income or lower-middle-income economy.”
+
  __Procurement From Countries That Deny Adequate and Effective Protection of Intellectual Property Rights__ 
 
-    [Pub. L. 101–189, div. A, title VIII, § 852][/us/pl/101/189/s852], Nov. 29, 1989, [103 Stat. 1517][/us/stat/103/1517], as amended by [Pub. L. 101–510, div. A, title XIII, § 1302(a)][/us/pl/101/510/s1302/a], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668], provided that it is the sense of Congress that it be a very important consideration in procurement of property, services, or technology by the Department of Defense whether such procurement is from any person of any country which has been identified by the United States Trade Representative as denying adequate and effective protection of intellectual property rights or fair and equitable market access to United States persons that rely upon intellectual property protection.
+    [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 852, Nov. 29, 1989, [103 Stat. 1517][/us/stat/103/1517], as amended by [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1302(a), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668], provided that it is the sense of Congress that it be a very important consideration in procurement of property, services, or technology by the Department of Defense whether such procurement is from any person of any country which has been identified by the United States Trade Representative as denying adequate and effective protection of intellectual property rights or fair and equitable market access to United States persons that rely upon intellectual property protection.
 
  __Identification of Countries That Deny Adequate and Effective Protection of Intellectual Property Rights__ 
 
-[Pub. L. 100–418, title I, § 1303(a)][/us/pl/100/418/s1303/a], Aug. 23, 1988, [102 Stat. 1179][/us/stat/102/1179], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1303(a), Aug. 23, 1988, [102 Stat. 1179][/us/stat/102/1179], provided that:
 
 >     “(1)
 
@@ -215,20 +285,26 @@
 [/us/usc/t19/s2412/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2%2FA
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s2241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241%2Fb
-[/us/pl/93/618/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs182
-[/us/pl/100/418/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1303%2Fb
+[/us/usc/t19/s2241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241%2Fb
+[/us/usc/t19/s2241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241%2Fb
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1179
-[/us/pl/103/182/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs513
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2156
-[/us/pl/103/465/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs313
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4938
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/pl/114/125/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVI
+[/us/stat/130/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F191
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/103/465/s313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs313%2F1
-[/us/pl/103/465/s313/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs313%2F2%2FA
-[/us/pl/103/465/s313/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs313%2F2%2FB
-[/us/pl/103/465/s313/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs313%2F3
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -239,11 +315,18 @@
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/103/182/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs516%2Fa
 [/us/usc/t19/s3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3461
-[/us/pl/101/189/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs852
+[/us/pl/114/125/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVI
+[/us/stat/130/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F192
+[/us/usc/t19/s2242/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2242%2Fg
+[/us/pl/114/125/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVI
+[/us/stat/130/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F192
+[/us/usc/t19/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4405
+[/us/usc/t19/s2242/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2242%2Fg
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1517
-[/us/pl/101/510/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1302%2Fa
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/100/418/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1303%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1179
 
 

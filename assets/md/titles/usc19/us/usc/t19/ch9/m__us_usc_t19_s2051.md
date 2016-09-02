@@ -29,7 +29,7 @@
 
     Such Federal agency or agencies may not label as propaganda any material that receives a certificate of international educational character under this section and the Agreement.
 
-([Pub. L. 89–634, § 1][/us/pl/89/634/s1], Oct. 8, 1966, [80 Stat. 879][/us/stat/80/879]; [Pub. L. 102–138, title II, § 207][/us/pl/102/138/s207], Oct. 28, 1991, [105 Stat. 693][/us/stat/105/693].)
+([Pub. L. 89–634][/us/pl/89/634], § 1, Oct. 8, 1966, [80 Stat. 879][/us/stat/80/879]; [Pub. L. 102–138, title II][/us/pl/102/138/tII], § 207, Oct. 28, 1991, [105 Stat. 693][/us/stat/105/693].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/89/634/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F634%2Fs1
+[/us/pl/89/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F634
 [/us/stat/80/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F879
-[/us/pl/102/138/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs207
+[/us/pl/102/138/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtII
 [/us/stat/105/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F693
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/89/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F634

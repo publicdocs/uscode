@@ -15,13 +15,17 @@
 
 ## § 1677l. Antidumping and countervailing duty collections
 
-    The Commissioner of Customs shall before the 60th day of each fiscal year after fiscal year 1994 submit to Congress a report regarding the collection during the preceding fiscal year of duties imposed under the antidumping and countervailing duty laws.
+    The Commissioner of U.S. Customs and Border Protection shall before the 60th day of each fiscal year after fiscal year 1994 submit to Congress a report regarding the collection during the preceding fiscal year of duties imposed under the antidumping and countervailing duty laws.
 
-([Pub. L. 103–182, title VI, § 691(a)][/us/pl/103/182/s691/a], Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].)
+([Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 691(a), Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Codification__ 
 
     Section was enacted as part of the North American Free Trade Agreement Implementation Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -34,8 +38,12 @@
 ----------
 ----------
 
-[/us/pl/103/182/s691/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs691%2Fa
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

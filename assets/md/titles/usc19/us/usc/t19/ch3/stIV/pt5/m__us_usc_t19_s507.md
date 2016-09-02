@@ -27,11 +27,11 @@
 
     (b) Any person other than an officer or employee of the United States who renders assistance in good faith upon the request of a customs officer shall not be held liable for any civil damages as a result of the rendering of such assistance if the assisting person acts as an ordinary, reasonably prudent person would have acted under the same or similar circumstances.
 
-(R.S. § 3071; [Pub. L. 99–570, title III, § 3152][/us/pl/99/570/s3152], Oct. 27, 1986, [100 Stat. 3207–94][/us/stat/100/3207-94].)
+(R.S. § 3071; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3152, Oct. 27, 1986, [100 Stat. 3207–94][/us/stat/100/3207-94].)
 
  __Codification__ 
 
-    R.S. § 3071 derived from [act July 18, 1866, ch. 201, § 10][/us/act/1866-07-18/ch201/s10], [14 Stat. 180][/us/stat/14/180].
+    R.S. § 3071 derived from [act July 18, 1866, ch. 201][/us/act/1866-07-18/ch201], § 10, [14 Stat. 180][/us/stat/14/180].
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/99/570/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3152
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-94
-[/us/act/1866-07-18/ch201/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-18%2Fch201%2Fs10
+[/us/act/1866-07-18/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-18%2Fch201
 [/us/stat/14/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F180
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 

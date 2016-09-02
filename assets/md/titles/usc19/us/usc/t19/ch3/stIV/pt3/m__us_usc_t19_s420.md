@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s405b.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt4/m__us_usc_t19_ch3_stIV_pt4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs420)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s413...419.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt4/m__us_usc_t19_ch3_stIV_pt4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs420)
 
-## § 420. Repealed. [Pub. L. 87–456, title III, § 303(c)][/us/pl/87/456/s303/c], May 24, 1962, [76 Stat. 78][/us/stat/76/78]
+## § 420. Repealed. [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 303(c), May 24, 1962, [76 Stat. 78][/us/stat/76/78]
 
     Section, R.S. § 2951, defined the word “ton” and was previously omitted.
 
@@ -23,12 +23,12 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s405b.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt4/m__us_usc_t19_ch3_stIV_pt4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs420)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s413...419.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt4/m__us_usc_t19_ch3_stIV_pt4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs420)
 
 ----------
 ----------
 
-[/us/pl/87/456/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs303%2Fc
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F78
 [/us/pl/87/456/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs501%2Fa
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202

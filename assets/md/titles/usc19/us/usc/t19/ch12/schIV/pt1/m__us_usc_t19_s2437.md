@@ -29,7 +29,7 @@
 
         (2) In the case of a document referred to in subsection (b) which contains a report submitted by the President under section 2432(b) or 2439(b) of this title with respect to a nonmarket economy country, if, before the close of the 90-day period beginning on the day on which such document is delivered to the House of Representatives and to the Senate, a joint resolution described in [section 2192(a)(1)(B) of this title][/us/usc/t19/s2192/a/1/B] is enacted into law that disapproves of the report submitted by the President with respect to such country, then, beginning with the day after the end of the 60-day period beginning with the date of the enactment of such resolution of disapproval, (A) nondiscriminatory treatment shall not be in force with respect to the products of such country, and the products of such country shall be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States, (B) such country may not participate in any program of the Government of the United States which extends credit or credit guarantees or investment guarantees, and (C) no commercial agreement may thereafter be concluded with such country under this subchapter. If the President vetoes the joint resolution, the joint resolution shall be treated as enacted into law before the end of the 90-day period under this paragraph if both Houses of Congress vote to override such veto on or before the later of the last day of such 90-day period or the last day of the 15-day period (excluding any day described in [section 2194(b) of this title][/us/usc/t19/s2194/b]) beginning on the date the Congress receives the veto message from the President.
 
-([Pub. L. 93–618, title IV, § 407][/us/pl/93/618/s407], Jan. 3, 1975, [88 Stat. 2063][/us/stat/88/2063]; [Pub. L. 100–418, title I, § 1214(j)(4)][/us/pl/100/418/s1214/j/4], Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158]; [Pub. L. 101–382, title I, § 132(b)(3)][/us/pl/101/382/s132/b/3], (c)(1), Aug. 20, 1990, [104 Stat. 646][/us/stat/104/646].)
+([Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 407, Jan. 3, 1975, [88 Stat. 2063][/us/stat/88/2063]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(j)(4), Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 132(b)(3), (c)(1), Aug. 20, 1990, [104 Stat. 646][/us/stat/104/646].)
 
  __References in Text__ 
 
@@ -37,11 +37,11 @@
 
  __Amendments__ 
 
-    1990—Subsec. (c)(1). [Pub. L. 101–382, § 132(b)(3)(A)][/us/pl/101/382/s132/b/3/A], added par. (1) and struck out former par. (1) which read as follows: “In the case of a document referred to in subsection (a) of this section (other than a document to which paragraph (2) applies), the proclamation set forth therein may become effective and the agreement set forth therein may enter into force and effect only if the House of Representatives and the Senate adopt, by an affirmative vote of a majority of those present and voting in each House, a concurrent resolution of approval (under the procedures set forth in [section 2191 of this title][/us/usc/t19/s2191]) of the extension of nondiscriminatory treatment to the products of the country concerned.”
+    1990—Subsec. (c)(1). [Pub. L. 101–382][/us/pl/101/382], § 132(b)(3)(A), added par. (1) and struck out former par. (1) which read as follows: “In the case of a document referred to in subsection (a) of this section (other than a document to which paragraph (2) applies), the proclamation set forth therein may become effective and the agreement set forth therein may enter into force and effect only if the House of Representatives and the Senate adopt, by an affirmative vote of a majority of those present and voting in each House, a concurrent resolution of approval (under the procedures set forth in [section 2191 of this title][/us/usc/t19/s2191]) of the extension of nondiscriminatory treatment to the products of the country concerned.”
 
     Subsec. (c)(2). [Pub. L. 101–382][/us/pl/101/382] struck out par. (2) and redesignated par. (3) as (2), and substituted “a joint resolution described in [section 2192(a)(1)(B) of this title][/us/usc/t19/s2192/a/1/B] is enacted into law that disapproves” for “either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of those present and voting in that House, a resolution of disapproval (under the procedures set forth in [section 2192 of this title][/us/usc/t19/s2192])” and “the end of the 60-day period beginning with the date of the enactment” for “the date of the adoption” and inserted at end “If the President vetoes the joint resolution, the joint resolution shall be treated as enacted into law before the end of the 90-day period under this paragraph if both Houses of Congress vote to override such veto on or before the later of the last day of such 90-day period or the last day of the 15-day period (excluding any day described in [section 2194(b) of this title][/us/usc/t19/s2194/b]) beginning on the date the Congress receives the veto message from the President.” Former par. (2) related to effective date of proclamation extending nondiscriminatory treatment to products of a foreign country and of agreement proclamation proposed to implement and related to resolution of disapproval of such extension as to certain countries.
 
-    Subsec. (c)(3). [Pub. L. 101–382, § 132(b)(3)(B)][/us/pl/101/382/s132/b/3/B], redesignated par. (3) as (2).
+    Subsec. (c)(3). [Pub. L. 101–382][/us/pl/101/382], § 132(b)(3)(B), redesignated par. (3) as (2).
 
     1988—Subsec. (c)(3). [Pub. L. 100–418][/us/pl/100/418] substituted “Harmonized Tariff Schedule of the United States” for “Tariff Schedules of the United States”.
 
@@ -60,20 +60,20 @@
 [/us/usc/t19/s2191/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191%2Fb%2F3
 [/us/usc/t19/s2192/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192%2Fa%2F1%2FB
 [/us/usc/t19/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2194%2Fb
-[/us/pl/93/618/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs407
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2063
-[/us/pl/100/418/s1214/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fj%2F4
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1158
-[/us/pl/101/382/s132/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fb%2F3
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F646
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/101/382/s132/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fb%2F3%2FA
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t19/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t19/s2192/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192%2Fa%2F1%2FB
 [/us/usc/t19/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192
 [/us/usc/t19/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2194%2Fb
-[/us/pl/101/382/s132/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fb%2F3%2FB
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1

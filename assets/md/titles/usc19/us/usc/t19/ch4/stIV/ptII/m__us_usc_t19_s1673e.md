@@ -103,25 +103,25 @@
 
             After publication of the antidumping duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the region concerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of [section 1675(a)(2)(B) of this title][/us/usc/t19/s1675/a/2/B].
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 736, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 172][/us/stat/93/172]; amended [Pub. L. 99–514, title XVIII, § 1886(a)(7)][/us/pl/99/514/s1886/a/7], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I, § 1325][/us/pl/100/418/s1325], Aug. 23, 1988, [102 Stat. 1201][/us/stat/102/1201]; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 218(b)(2), 219(c)(9), 233(a)(1)(C), (2)(A)(iii), (5)(W)–(Y), Dec. 8, 1994, [108 Stat. 4855][/us/stat/108/4855], 4857, 4898, 4900.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 736, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 172][/us/stat/93/172]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(7), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1325, Aug. 23, 1988, [102 Stat. 1201][/us/stat/102/1201]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 218(b)(2), 219(c)(9), 233(a)(1)(C), (2)(A)(iii), (5)(W)–(Y), Dec. 8, 1994, [108 Stat. 4855][/us/stat/108/4855], 4857, 4898, 4900.)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1). [Pub. L. 103–465, § 233(a)(1)(C)][/us/pl/103/465/s233/a/1/C], (2)(A)(iii), substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price”.
+    1994—Subsec. (a)(1). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(1)(C), (2)(A)(iii), substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price”.
 
-    Subsec. (a)(2). [Pub. L. 103–465, § 233(a)(5)(W)][/us/pl/103/465/s233/a/5/W], substituted “subject merchandise” for “class or kind of merchandise to which it applies”.
+    Subsec. (a)(2). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(W), substituted “subject merchandise” for “class or kind of merchandise to which it applies”.
 
     Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], §§ 219(c)(9), 233(a)(5)(X), substituted “1673b(d)(2)” for “1673b(d)(1)” in two places and “subject merchandise” for “merchandise subject to the antidumping duty order”.
 
-    Subsec. (b)(2). [Pub. L. 103–465, § 233(a)(5)(Y)][/us/pl/103/465/s233/a/5/Y], substituted “subject merchandise” for “merchandise subject to an antidumping duty order”.
+    Subsec. (b)(2). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(Y), substituted “subject merchandise” for “merchandise subject to an antidumping duty order”.
 
-    Subsec. (c). [Pub. L. 103–465, § 233(a)(1)(C)][/us/pl/103/465/s233/a/1/C], (2)(A)(iii), substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price” in pars. (1)(C) to (E), (2)(B), and (3).
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(1)(C), (2)(A)(iii), substituted “normal value” for “foreign market value” and “export price (or the constructed export price)” for “United States price” in pars. (1)(C) to (E), (2)(B), and (3).
 
-    Subsec. (d). [Pub. L. 103–465, § 218(b)(2)][/us/pl/103/465/s218/b/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–465][/us/pl/103/465], § 218(b)(2), added subsec. (d).
 
-    1988—Subsec. (c)(1). [Pub. L. 100–418, § 1325(a)][/us/pl/100/418/s1325/a], amended par. (1) generally, designating existing provisions as cl. (C) and adding cls. (A), (B), (D), and (E).
+    1988—Subsec. (c)(1). [Pub. L. 100–418][/us/pl/100/418], § 1325(a), amended par. (1) generally, designating existing provisions as cl. (C) and adding cls. (A), (B), (D), and (E).
 
-    Subsec. (c)(4). [Pub. L. 100–418, § 1325(b)][/us/pl/100/418/s1325/b], added par. (4).
+    Subsec. (c)(4). [Pub. L. 100–418][/us/pl/100/418], § 1325(b), added par. (4).
 
     1986—Subsec. (c)(1). [Pub. L. 99–514][/us/pl/99/514] inserted “, and was sold to any person that is not related to such manufacturer, producer, or exporter,” before “on or after the date”.
 
@@ -163,22 +163,22 @@
 [/us/usc/t19/s1677/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F4%2FC
 [/us/usc/t19/s1675/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fa%2F2%2FB
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F172
-[/us/pl/99/514/s1886/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F7
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/100/418/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1325
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1201
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4855
-[/us/pl/103/465/s233/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F1%2FC
-[/us/pl/103/465/s233/a/5/W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FW
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s233/a/5/Y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FY
-[/us/pl/103/465/s233/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F1%2FC
-[/us/pl/103/465/s218/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs218%2Fb%2F2
-[/us/pl/100/418/s1325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1325%2Fa
-[/us/pl/100/418/s1325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1325%2Fb
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291

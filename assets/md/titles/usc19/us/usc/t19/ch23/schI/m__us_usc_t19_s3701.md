@@ -37,7 +37,7 @@
 
     (10) encouraging the reciprocal reduction of trade and investment barriers in Africa will enhance the benefits of trade and investment for the region as well as enhance commercial and political ties between the United States and sub-Saharan Africa.
 
-([Pub. L. 106–200, title I, § 102][/us/pl/106/200/s102], May 18, 2000, [114 Stat. 252][/us/stat/114/252]; [Pub. L. 112–163, § 1(c)][/us/pl/112/163/s1/c], Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 102, May 18, 2000, [114 Stat. 252][/us/stat/114/252]; [Pub. L. 112–163][/us/pl/112/163], § 1(c), Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274].)
 
  __Amendments__ 
 
@@ -45,35 +45,35 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–163, § 1(d)][/us/pl/112/163/s1/d], Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274], provided that: 
+[Pub. L. 112–163][/us/pl/112/163], § 1(d), Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3706 and 3721 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2012\].”
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–27, title I, § 101][/us/pl/114/27/s101], June 29, 2015, [129 Stat. 363][/us/stat/129/363], provided that: 
+[Pub. L. 114–27, title I][/us/pl/114/27/tI], § 101, June 29, 2015, [129 Stat. 363][/us/stat/129/363], provided that: 
 
 > “This title \[amending sections 2466a, 2466b, 3702, 3703, and 3721 of this title, enacting provisions set out as notes under this section and sections 2466a and 3705 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘AGOA Extension and Enhancement Act of 2015’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. D, title VI, § 6001][/us/pl/109/432/s6001], Dec. 20, 2006, [120 Stat. 3190][/us/stat/120/3190], provided that: 
+[Pub. L. 109–432, div. D, title VI][/us/pl/109/432/dD/tVI], § 6001, Dec. 20, 2006, [120 Stat. 3190][/us/stat/120/3190], provided that: 
 
 > “This title \[amending [section 3721 of this title][/us/usc/t19/s3721]\] may be referred to as the ‘Africa Investment Incentive Act of 2006’.”
 
  __Short Title__ 
 
-[Pub. L. 106–200, § 1(a)][/us/pl/106/200/s1/a], May 18, 2000, [114 Stat. 251][/us/stat/114/251], provided that: 
+[Pub. L. 106–200][/us/pl/106/200], § 1(a), May 18, 2000, [114 Stat. 251][/us/stat/114/251], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Trade and Development Act of 2000’.”
 
-[Pub. L. 106–200, title I, § 101][/us/pl/106/200/s101], May 18, 2000, [114 Stat. 252][/us/stat/114/252], provided that: 
+[Pub. L. 106–200, title I][/us/pl/106/200/tI], § 101, May 18, 2000, [114 Stat. 252][/us/stat/114/252], provided that: 
 
 > “This title \[enacting this chapter and sections 2466a and 2466b of this title and amending [section 2463 of this title][/us/usc/t19/s2463] and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘African Growth and Opportunity Act’.”
 
  __Findings Relating to Extension and Enhancement of African Growth and Opportunity Act__ 
 
-[Pub. L. 114–27, title I, § 102][/us/pl/114/27/s102], June 29, 2015, [129 Stat. 363][/us/stat/129/363], provided that: 
+[Pub. L. 114–27, title I][/us/pl/114/27/tI], § 102, June 29, 2015, [129 Stat. 363][/us/stat/129/363], provided that: 
 
 > “Congress finds the following:
 
@@ -99,7 +99,7 @@
 
  __Deepening and Expanding Trade and Investment Ties Between Sub-Saharan Africa and the United States__ 
 
-[Pub. L. 114–27, title I, § 108][/us/pl/114/27/s108], June 29, 2015, [129 Stat. 369][/us/stat/129/369], provided that: 
+[Pub. L. 114–27, title I][/us/pl/114/27/tI], § 108, June 29, 2015, [129 Stat. 369][/us/stat/129/369], provided that: 
 
 > “It is the policy of the United States to continue to—
 
@@ -115,7 +115,7 @@
 
  __AGOA Acceleration__ 
 
-[Pub. L. 108–274][/us/pl/108/274], July 13, 2004, [118 Stat. 820][/us/stat/118/820], as amended by [Pub. L. 108–429, title II, § 2004(j)(1)][/us/pl/108/429/s2004/j/1], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595]; [Pub. L. 114–27, title I, § 109][/us/pl/114/27/s109], June 29, 2015, [129 Stat. 369][/us/stat/129/369], provided that:
+[Pub. L. 108–274][/us/pl/108/274], July 13, 2004, [118 Stat. 820][/us/stat/118/820], as amended by [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(j)(1), Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595]; [Pub. L. 114–27, title I][/us/pl/114/27/tI], § 109, June 29, 2015, [129 Stat. 369][/us/stat/129/369], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -228,29 +228,29 @@
 ----------
 ----------
 
-[/us/pl/106/200/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs102
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
-[/us/pl/112/163/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fc
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
 [/us/stat/126/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1274
 [/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
-[/us/pl/112/163/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fd
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
 [/us/stat/126/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1274
-[/us/pl/114/27/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs101
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F363
-[/us/pl/109/432/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6001
+[/us/pl/109/432/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtVI
 [/us/stat/120/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3190
 [/us/usc/t19/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721
-[/us/pl/106/200/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs1%2Fa
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F251
-[/us/pl/106/200/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs101
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
 [/us/usc/t19/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463
-[/us/pl/114/27/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs102
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F363
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
 [/us/pl/114/27/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs102
 [/us/pl/114/27/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs112
-[/us/pl/114/27/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs108
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F369
 [/us/usc/t19/s3501/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F9
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
@@ -258,9 +258,9 @@
 [/us/pl/114/27/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs112
 [/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
 [/us/stat/118/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F820
-[/us/pl/108/429/s2004/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fj%2F1
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2595
-[/us/pl/114/27/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs109
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F369
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
 [/us/usc/t19/s3802/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3802%2Fb%2F3

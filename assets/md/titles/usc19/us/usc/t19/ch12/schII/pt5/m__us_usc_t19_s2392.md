@@ -17,7 +17,7 @@
 
     There is established the Adjustment Assistance Coordinating Committee to consist of a Deputy United States Trade Representative as Chairman, and the officials charged with adjustment assistance responsibilities of the Departments of Labor and Commerce and the Small Business Administration. It shall be the function of the Committee to coordinate the adjustment assistance policies, studies, and programs of the various agencies involved and to promote the efficient and effective delivery of adjustment assistance benefits.
 
-([Pub. L. 93–618, title II, § 281][/us/pl/93/618/s281], Jan. 3, 1975, [88 Stat. 2040][/us/stat/88/2040]; 1979 Reorg. Plan No. 3, § 1(c), eff. Jan. 2, 1980, 44 F.R. 69274, [93 Stat. 1381][/us/stat/93/1381].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 281, Jan. 3, 1975, [88 Stat. 2040][/us/stat/88/2040]; 1979 Reorg. Plan No. 3, § 1(c), eff. Jan. 2, 1980, 44 F.R. 69274, [93 Stat. 1381][/us/stat/93/1381].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/618/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs281
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2040
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381

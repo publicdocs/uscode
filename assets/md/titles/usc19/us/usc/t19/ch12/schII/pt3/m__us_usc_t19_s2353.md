@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch12/schII/pt3/m__us_usc_t19_s2352.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt3/m__us_usc_t19_s2354.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2353)
 
-## § 2353. Repealed. [Pub. L. 97–35, title XXV, § 2526][/us/pl/97/35/s2526], Aug. 13, 1981, [95 Stat. 893][/us/stat/95/893]
+## § 2353. Repealed. [Pub. L. 97–35, title XXV][/us/pl/97/35/tXXV], § 2526, Aug. 13, 1981, [95 Stat. 893][/us/stat/95/893]
 
-    Section, [Pub. L. 93–618, title II, § 263][/us/pl/93/618/s263], Jan. 3, 1975, [88 Stat. 2034][/us/stat/88/2034], contained transitional provisions for certain events occurring prior to the effective date of this part.
+    Section, [Pub. L. 93–618, title II][/us/pl/93/618/tII], § 263, Jan. 3, 1975, [88 Stat. 2034][/us/stat/88/2034], contained transitional provisions for certain events occurring prior to the effective date of this part.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/97/35/s2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2526
+[/us/pl/97/35/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXV
 [/us/stat/95/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F893
-[/us/pl/93/618/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs263
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2034
 [/us/pl/97/35/s2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2529
 [/us/usc/t19/s2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2343

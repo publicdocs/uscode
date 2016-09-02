@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1916.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1918.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1917)
 
-## § 1917. Repealed. [Pub. L. 93–618, title VI, § 602(e)][/us/pl/93/618/s602/e], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]
+## § 1917. Repealed. [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(e), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]
 
-    Section, [Pub. L. 87–794, title III, § 317(a)][/us/pl/87/794/s317/a], Oct. 11, 1962, [76 Stat. 889][/us/stat/76/889], made provision for tax assistance to firms.
+    Section, [Pub. L. 87–794, title III][/us/pl/87/794/tIII], § 317(a), Oct. 11, 1962, [76 Stat. 889][/us/stat/76/889], made provision for tax assistance to firms.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/93/618/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fe
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/87/794/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs317%2Fa
+[/us/pl/87/794/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtIII
 [/us/stat/76/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F889
 [/us/usc/t19/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901
 

@@ -19,11 +19,11 @@
 
     (b) Any officer or employee of the United States conducting a search of a person pursuant to subsection (a) shall not be held liable for any civil damages as a result of such search if the officer or employee performed the search in good faith and used reasonable means while effectuating such search.
 
-(R.S. § 3061; [Pub. L. 107–210, div. A, title III, § 341(a)][/us/pl/107/210/s341/a], Aug. 6, 2002, [116 Stat. 980][/us/stat/116/980].)
+(R.S. § 3061; [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 341(a), Aug. 6, 2002, [116 Stat. 980][/us/stat/116/980].)
 
  __Codification__ 
 
-    R.S. § 3061 derived from [act July 18, 1866, ch. 201, § 3][/us/act/1866-07-18/ch201/s3], [14 Stat. 178][/us/stat/14/178].
+    R.S. § 3061 derived from [act July 18, 1866, ch. 201][/us/act/1866-07-18/ch201], § 3, [14 Stat. 178][/us/stat/14/178].
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Requirement To Post Policy and Procedures for Searches of Passengers__ 
 
-[Pub. L. 107–210, div. A, title III, § 341(b)][/us/pl/107/210/s341/b], Aug. 6, 2002, [116 Stat. 980][/us/stat/116/980], provided that: 
+[Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 341(b), Aug. 6, 2002, [116 Stat. 980][/us/stat/116/980], provided that: 
 
 > “Not later than 30 days after the date of the enactment of this Act \[Aug. 6, 2002\], the Commissioner of Customs shall ensure that at each Customs border facility appropriate notice is posted that provides a summary of the policy and procedures of the Customs Service for searching passengers, including a statement of the policy relating to the prohibition on the conduct of profiling of passengers based on gender, race, color, religion, or ethnic background.”
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/107/210/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs341%2Fa
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F980
-[/us/act/1866-07-18/ch201/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-18%2Fch201%2Fs3
+[/us/act/1866-07-18/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-18%2Fch201
 [/us/stat/14/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F178
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs151
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
-[/us/pl/107/210/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs341%2Fb
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F980
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

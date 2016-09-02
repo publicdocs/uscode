@@ -29,21 +29,21 @@
 
     shall apply to goods from a NAFTA country only to the extent specified in the amendment.
 
-([Pub. L. 103–182, title IV, § 408][/us/pl/103/182/s408], Dec. 8, 1993, [107 Stat. 2140][/us/stat/107/2140].)
+([Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 408, Dec. 8, 1993, [107 Stat. 2140][/us/stat/107/2140].)
 
  __References in Text__ 
 
-    The Tariff Act of 1930, referred to in par. (1), is [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], [46 Stat. 590][/us/stat/46/590], as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Section 303 of the Act was classified to [section 1303 of this title][/us/usc/t19/s1303] and was repealed, effective Jan. 1, 1995, by [Pub. L. 103–465, title II, § 261(a)][/us/pl/103/465/s261/a], Dec. 8, 1994, [108 Stat. 4908][/us/stat/108/4908]. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of [Pub. L. 103–465][/us/pl/103/465], set out as notes under [section 1303 of this title][/us/usc/t19/s1303]. For complete classification of this Act to the Code, see [section 1654 of this title][/us/usc/t19/s1654] and Tables.
+    The Tariff Act of 1930, referred to in par. (1), is [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], [46 Stat. 590][/us/stat/46/590], as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Section 303 of the Act was classified to [section 1303 of this title][/us/usc/t19/s1303] and was repealed, effective Jan. 1, 1995, by [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 261(a), Dec. 8, 1994, [108 Stat. 4908][/us/stat/108/4908]. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of [Pub. L. 103–465][/us/pl/103/465], set out as notes under [section 1303 of this title][/us/usc/t19/s1303]. For complete classification of this Act to the Code, see [section 1654 of this title][/us/usc/t19/s1654] and Tables.
 
  __Application of Amendments by__  __[__  __Public Law 114–27__  __][/us/pl/114/27]__  __to Goods From Canada and Mexico__ 
 
-[Pub. L. 114–27, title V, § 507][/us/pl/114/27/s507], June 29, 2015, [129 Stat. 387][/us/stat/129/387], provided that: 
+[Pub. L. 114–27, title V][/us/pl/114/27/tV], § 507, June 29, 2015, [129 Stat. 387][/us/stat/129/387], provided that: 
 
 > “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act ([19 U.S.C. 3438][/us/usc/t19/s3438]), the amendments made by this title \[amending sections 1677, 1677b, 1677e, and 1677m of this title\] shall apply with respect to goods from Canada and Mexico.”
 
  __Application of Amendments by__  __[__  __Public Law 103–465__  __][/us/pl/103/465]__  __to Goods From Canada and Mexico__ 
 
-[Pub. L. 103–465, title II, § 234][/us/pl/103/465/s234], Dec. 8, 1994, [108 Stat. 4901][/us/stat/108/4901], provided that: 
+[Pub. L. 103–465, title II][/us/pl/103/465/tII], § 234, Dec. 8, 1994, [108 Stat. 4901][/us/stat/108/4901], provided that: 
 
 > “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act \[[19 U.S.C. 3438][/us/usc/t19/s3438]\], the amendments made by this title \[see Tables for classification\] shall apply with respect to goods from Canada and Mexico.”
 
@@ -59,22 +59,22 @@
 ----------
 
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
-[/us/pl/103/182/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs408
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2140
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
-[/us/pl/103/465/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fa
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4908
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
-[/us/pl/114/27/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs507
+[/us/pl/114/27/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtV
 [/us/stat/129/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F387
 [/us/usc/t19/s3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3438
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs234
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4901
 [/us/usc/t19/s3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3438
 [/us/usc/t19/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311

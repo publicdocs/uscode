@@ -23,7 +23,7 @@
 
         At any time after the issuance of the proclamation authorized by subsection (a), the President is authorized to proclaim further modifications of the Harmonized Tariff Schedule of the United States to provide for the duty-free treatment of any Canadian article which is original motor-vehicle equipment (as defined by such Schedules as modified pursuant to subsection (a)) if he determines that the importation of such article is actually or potentially of commercial significance and that such duty-free treatment is required to carry out the Agreement.
 
-([Pub. L. 89–283, title II, § 201][/us/pl/89/283/s201], Oct. 21, 1965, [79 Stat. 1016][/us/stat/79/1016]; [Pub. L. 100–418, title I, § 1214(i)][/us/pl/100/418/s1214/i], Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157].)
+([Pub. L. 89–283, title II][/us/pl/89/283/tII], § 201, Oct. 21, 1965, [79 Stat. 1016][/us/stat/79/1016]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(i), Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157].)
 
  __References in Text__ 
 
@@ -98,9 +98,9 @@ WHEREAS I determine (a) under subsection (b) of section 201 \[subsection (b) of 
 ----------
 ----------
 
-[/us/pl/89/283/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs201
+[/us/pl/89/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2FtII
 [/us/stat/79/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1016
-[/us/pl/100/418/s1214/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fi
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1157
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/89/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283

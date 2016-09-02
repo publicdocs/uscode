@@ -57,7 +57,7 @@
 
             For purposes of this subsection, the term “foreign trade zone” includes a subzone.
 
-([June 18, 1934, ch. 590, § 3][/us/act/1934-06-18/ch590/s3], [48 Stat. 999][/us/stat/48/999]; [June 17, 1950, ch. 296, § 1][/us/act/1950-06-17/ch296/s1], [64 Stat. 246][/us/stat/64/246]; [Pub. L. 91–271, title III, § 309][/us/pl/91/271/s309], June 2, 1970, [84 Stat. 292][/us/stat/84/292]; [Pub. L. 98–573, title II, § 231(a)(2)][/us/pl/98/573/s231/a/2], Oct. 30, 1984, [98 Stat. 2990][/us/stat/98/2990]; [Pub. L. 99–514, title XVIII, § 1894][/us/pl/99/514/s1894], Oct. 22, 1986, [100 Stat. 2931][/us/stat/100/2931]; [Pub. L. 100–418, title I, § 1783(f)][/us/pl/100/418/s1783/f], Aug. 23, 1988, [102 Stat. 1300][/us/stat/102/1300]; [Pub. L. 100–449, title II, § 204(c)(5)][/us/pl/100/449/s204/c/5], Sept. 28, 1988, [102 Stat. 1863][/us/stat/102/1863]; [Pub. L. 100–647, title IX, § 9002][/us/pl/100/647/s9002], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808]; [Pub. L. 101–382, title III][/us/pl/101/382], §§ 481, 484F, Aug. 20, 1990, [104 Stat. 706][/us/stat/104/706], 710; [Pub. L. 103–182, title II, § 203(b)(5)][/us/pl/103/182/s203/b/5], Dec. 8, 1993, [107 Stat. 2091][/us/stat/107/2091]; [Pub. L. 104–295, § 31(a)][/us/pl/104/295/s31/a], Oct. 11, 1996, [110 Stat. 3536][/us/stat/110/3536]; [Pub. L. 106–36, title I, § 1001(b)(2)][/us/pl/106/36/s1001/b/2], June 25, 1999, [113 Stat. 131][/us/stat/113/131]; [Pub. L. 108–77, title II, § 203(b)(5)][/us/pl/108/77/s203/b/5], Sept. 3, 2003, [117 Stat. 929][/us/stat/117/929].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 3, [48 Stat. 999][/us/stat/48/999]; [June 17, 1950, ch. 296][/us/act/1950-06-17/ch296], § 1, [64 Stat. 246][/us/stat/64/246]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 309, June 2, 1970, [84 Stat. 292][/us/stat/84/292]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 231(a)(2), Oct. 30, 1984, [98 Stat. 2990][/us/stat/98/2990]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1894, Oct. 22, 1986, [100 Stat. 2931][/us/stat/100/2931]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1783(f), Aug. 23, 1988, [102 Stat. 1300][/us/stat/102/1300]; [Pub. L. 100–449, title II][/us/pl/100/449/tII], § 204(c)(5), Sept. 28, 1988, [102 Stat. 1863][/us/stat/102/1863]; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9002, Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808]; [Pub. L. 101–382, title III][/us/pl/101/382/tIII], §§ 481, 484F, Aug. 20, 1990, [104 Stat. 706][/us/stat/104/706], 710; [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 203(b)(5), Dec. 8, 1993, [107 Stat. 2091][/us/stat/107/2091]; [Pub. L. 104–295][/us/pl/104/295], § 31(a), Oct. 11, 1996, [110 Stat. 3536][/us/stat/110/3536]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(b)(2), June 25, 1999, [113 Stat. 131][/us/stat/113/131]; [Pub. L. 108–77, title II][/us/pl/108/77/tII], § 203(b)(5), Sept. 3, 2003, [117 Stat. 929][/us/stat/117/929].)
 
  __Amendment of Section__ 
 
@@ -69,9 +69,9 @@
 
     The Tariff Act of 1930, referred to in subsec. (a)(1), is [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], [46 Stat. 590][/us/stat/46/590], which is classified generally to chapter 4 (§ 1202 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-    Sections 1001 and 1201 of this title, referred to in subsec. (a), which comprised the dutiable and free lists for articles imported into the United States, were repealed by [Pub. L. 87–456, title I, § 101(a)][/us/pl/87/456/s101/a], May 24, 1962, [76 Stat. 72][/us/stat/76/72], which act also revised the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
+    Sections 1001 and 1201 of this title, referred to in subsec. (a), which comprised the dutiable and free lists for articles imported into the United States, were repealed by [Pub. L. 87–456, title I][/us/pl/87/456/tI], § 101(a), May 24, 1962, [76 Stat. 72][/us/stat/76/72], which act also revised the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
-    References in subsec. (a) to section and chapters of the Internal Revenue Code are references to section and chapters of the Internal Revenue Code, 1939, which was repealed by [section 7851 of Title 26][/us/usc/t26/s7851], I.R.C. 1954. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. Corresponding sections of I.R.C. 1986 to section and chapters of I.R.C. 1939 referred to in the text are set out below. For provision deeming a reference in other laws to a provision of I.R.C. 1939, also as a reference to corresponding provision of I.R.C. 1986, see [section 7852(b) of Title 26][/us/usc/t26/s7852/b], I.R.C. 1986.
+    References in subsec. (a) to section and chapters of the Internal Revenue Code are references to section and chapters of the Internal Revenue Code, 1939, which was repealed by [section 7851 of Title 26][/us/usc/t26/s7851], I.R.C. 1954. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. Corresponding sections of I.R.C. 1986 to section and chapters of I.R.C. 1939 referred to in the text are set out below. For provision deeming a reference in other laws to a provision of I.R.C. 1939, also as a reference to corresponding provision of I.R.C. 1986, see [section 7852(b) of Title 26][/us/usc/t26/s7852/b], I.R.C. 1986.
 
     Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (a), is [section 203(a) of Pub. L. 108–77][/us/pl/108/77/s203/a], which is set out in a note under [section 3805 of this title][/us/usc/t19/s3805].
 
@@ -223,9 +223,9 @@ Chapter 32  </td>
 
     1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], in provisions following par. (2), inserted second proviso relating to goods subject to NAFTA drawback, and in last proviso inserted “, if Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates,” after “That” and substituted “during the period such Agreement is in operation” for “on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988,”.
 
-    1990—Subsec. (b). [Pub. L. 101–382, § 481][/us/pl/101/382/s481], substituted “on or before December 31, 1992” for “before January 1, 1991”.
+    1990—Subsec. (b). [Pub. L. 101–382][/us/pl/101/382], § 481, substituted “on or before December 31, 1992” for “before January 1, 1991”.
 
-    Subsec. (c). [Pub. L. 101–382, § 484F][/us/pl/101/382/s484F], designated existing provisions as par. (1), struck out “domestic” before “denatured distilled”, inserted provisions relating to withdrawal free of tax from a distilled spirits plant, and added par. (2).
+    Subsec. (c). [Pub. L. 101–382][/us/pl/101/382], § 484F, designated existing provisions as par. (1), struck out “domestic” before “denatured distilled”, inserted provisions relating to withdrawal free of tax from a distilled spirits plant, and added par. (2).
 
     1988—Subsec. (a). [Pub. L. 100–449][/us/pl/100/449] temporarily inserted provision directing that, “with the exception of drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, no article manufactured or otherwise changed in condition (except a change by cleaning, testing or repacking) shall be exported to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without the payment of a duty that shall be payable on the article in its condition and quantity, and at its weight, at the time of its exportation to Canada unless the privilege in the first proviso to this subsection was requested.” See Effective and Termination Dates of 1988 Amendment note below.
 
@@ -247,7 +247,7 @@ Chapter 32  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–295, § 31(b)][/us/pl/104/295/s31/b], Oct. 11, 1996, [110 Stat. 3537][/us/stat/110/3537], provided that: 
+[Pub. L. 104–295][/us/pl/104/295], § 31(b), Oct. 11, 1996, [110 Stat. 3537][/us/stat/110/3537], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to merchandise admitted into a foreign trade zone after the date that is 15 days after the date of the enactment of this Act \[Oct. 11, 1996\].”
 
@@ -257,7 +257,7 @@ Chapter 32  </td>
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–382, title III, § 485(a)][/us/pl/101/382/s485/a], Aug. 20, 1990, [104 Stat. 712][/us/stat/104/712], provided that: 
+[Pub. L. 101–382, title III][/us/pl/101/382/tIII], § 485(a), Aug. 20, 1990, [104 Stat. 712][/us/stat/104/712], provided that: 
 
 > “Except as otherwise provided in this title, the amendments made by this title \[amending this section and sections 1309, 1313, 1466, and 1553 of this title and enacting provisions set out as notes under sections 1309, 1466, and 1553 of this title\], shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after October 1, 1990.”
 
@@ -269,7 +269,7 @@ Chapter 32  </td>
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–573, title II, § 231(a)(3)][/us/pl/98/573/s231/a/3], Oct. 30, 1984, [98 Stat. 2990][/us/stat/98/2990], provided that: 
+[Pub. L. 98–573, title II][/us/pl/98/573/tII], § 231(a)(3), Oct. 30, 1984, [98 Stat. 2990][/us/stat/98/2990], provided that: 
 
 > “The amendments made by paragraph (2) \[amending this section\] shall take effect on the fifteenth day after the date of the enactment of this Act \[Oct. 30, 1984\].”
 
@@ -307,41 +307,41 @@ Chapter 32  </td>
 [/us/usc/t26/s5002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5002%2Fa%2F1
 [/us/usc/t26/s5002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5002%2Fa%2F1
 [/us/usc/t19/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484
-[/us/act/1934-06-18/ch590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs3
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F999
-[/us/act/1950-06-17/ch296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-17%2Fch296%2Fs1
+[/us/act/1950-06-17/ch296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-17%2Fch296
 [/us/stat/64/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F246
-[/us/pl/91/271/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs309
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F292
-[/us/pl/98/573/s231/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs231%2Fa%2F2
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2990
-[/us/pl/99/514/s1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1894
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2931
-[/us/pl/100/418/s1783/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1783%2Ff
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1300
-[/us/pl/100/449/s204/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs204%2Fc%2F5
+[/us/pl/100/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtII
 [/us/stat/102/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1863
-[/us/pl/100/647/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9002
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3808
-[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIII
 [/us/stat/104/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F706
-[/us/pl/103/182/s203/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203%2Fb%2F5
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2091
-[/us/pl/104/295/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs31%2Fa
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3536
-[/us/pl/106/36/s1001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fb%2F2
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F131
-[/us/pl/108/77/s203/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs203%2Fb%2F5
+[/us/pl/108/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2FtII
 [/us/stat/117/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F929
 [/us/pl/108/77/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs107%2Fc
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
-[/us/pl/87/456/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs101%2Fa
+[/us/pl/87/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtI
 [/us/stat/76/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F72
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t26/s7851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s7852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7852%2Fb
 [/us/pl/108/77/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs203%2Fa
@@ -352,8 +352,8 @@ Chapter 32  </td>
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
-[/us/pl/101/382/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs481
-[/us/pl/101/382/s484F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs484F
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -363,19 +363,19 @@ Chapter 32  </td>
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
-[/us/pl/104/295/s31/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs31%2Fb
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3537
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/103/182/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs213%2Fc
 [/us/usc/t19/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3331
-[/us/pl/101/382/s485/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs485%2Fa
+[/us/pl/101/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIII
 [/us/stat/104/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F712
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/pl/100/418/s1783/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1783%2Ff
 [/us/pl/100/418/s1831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1831%2Fa
-[/us/pl/98/573/s231/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs231%2Fa%2F3
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2990
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203

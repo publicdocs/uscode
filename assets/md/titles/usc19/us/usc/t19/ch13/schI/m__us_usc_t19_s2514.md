@@ -45,25 +45,25 @@
 
         Before exercising the waiver authority in [section 2511 of this title][/us/usc/t19/s2511] for procurement not covered by the Agreement on the date it enters into force with respect to the United States, the President shall follow the consultation provisions of section 135 \[[19 U.S.C. 2155][/us/usc/t19/s2155]\] and chapter 6 of title I of the Trade Act of 1974 \[[19 U.S.C. 2211][/us/usc/t19/s2211] et seq.\] for private sector and congressional consultations.
 
-([Pub. L. 96–39, title III, § 304][/us/pl/96/39/s304], July 26, 1979, [93 Stat. 238][/us/stat/93/238]; [Pub. L. 103–465, title III, § 342(b)][/us/pl/103/465/s342/b], Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953]; [Pub. L. 104–295, § 20(c)(11)][/us/pl/104/295/s20/c/11], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
+([Pub. L. 96–39, title III][/us/pl/96/39/tIII], § 304, July 26, 1979, [93 Stat. 238][/us/stat/93/238]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 342(b), Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953]; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(11), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
 
  __References in Text__ 
 
-    [Section 2516 of this title][/us/usc/t19/s2516], referred to in subsec. (a), was repealed by [Pub. L. 103–355, title VII, § 7206(c)][/us/pl/103/355/s7206/c], Oct. 13, 1994, [108 Stat. 3382][/us/stat/108/3382], and [Pub. L. 103–465, title III, § 342(d)][/us/pl/103/465/s342/d], Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953].
+    [Section 2516 of this title][/us/usc/t19/s2516], referred to in subsec. (a), was repealed by [Pub. L. 103–355, title VII][/us/pl/103/355/tVII], § 7206(c), Oct. 13, 1994, [108 Stat. 3382][/us/stat/108/3382], and [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 342(d), Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953].
 
     The Trade Act of 1974, referred to in subsec. (e), is [Pub. L. 93–618][/us/pl/93/618], Jan. 3, 1975, [88 Stat. 1978][/us/stat/88/1978], as amended. Chapter 6 of title I of the Trade Act of 1974 is classified generally to part 6 of subchapter I (§ 2211 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title][/us/usc/t19/s2101] and Tables.
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–295, § 20(c)(11)(A)][/us/pl/104/295/s20/c/11/A], struck out comma after “XXIV(7)”.
+    1996—Subsec. (a). [Pub. L. 104–295][/us/pl/104/295], § 20(c)(11)(A), struck out comma after “XXIV(7)”.
 
-    Subsec. (c). [Pub. L. 104–295, § 20(c)(11)(B)][/us/pl/104/295/s20/c/11/B], struck out comma after “XXIV(7)” and “XIX(5)”.
+    Subsec. (c). [Pub. L. 104–295][/us/pl/104/295], § 20(c)(11)(B), struck out comma after “XXIV(7)” and “XIX(5)”.
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 342(b)(1)][/us/pl/103/465/s342/b/1], substituted “article XXIV(7)” for “part IX, paragraph 6”.
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 342(b)(1), substituted “article XXIV(7)” for “part IX, paragraph 6”.
 
-    Subsec. (c). [Pub. L. 103–465, § 342(b)(1)][/us/pl/103/465/s342/b/1], (2), substituted “article XXIV(7)” for “part IX, paragraph 6” and “article XIX(5)” for “part VI, paragraph 9”.
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 342(b)(1), (2), substituted “article XXIV(7)” for “part IX, paragraph 6” and “article XIX(5)” for “part VI, paragraph 9”.
 
-    Subsec. (e). [Pub. L. 103–465, § 342(b)(3)][/us/pl/103/465/s342/b/3], substituted “the date it enters into force with respect to the United States” for “July 26, 1979”.
+    Subsec. (e). [Pub. L. 103–465][/us/pl/103/465], § 342(b)(3), substituted “the date it enters into force with respect to the United States” for “July 26, 1979”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -91,25 +91,25 @@
 [/us/usc/t19/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2211
-[/us/pl/96/39/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs304
+[/us/pl/96/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIII
 [/us/stat/93/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F238
-[/us/pl/103/465/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fb
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4953
-[/us/pl/104/295/s20/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F11
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
 [/us/usc/t19/s2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2516
-[/us/pl/103/355/s7206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs7206%2Fc
+[/us/pl/103/355/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVII
 [/us/stat/108/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3382
-[/us/pl/103/465/s342/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fd
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4953
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
-[/us/pl/104/295/s20/c/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F11%2FA
-[/us/pl/104/295/s20/c/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F11%2FB
-[/us/pl/103/465/s342/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fb%2F1
-[/us/pl/103/465/s342/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fb%2F1
-[/us/pl/103/465/s342/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fb%2F3
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3511/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F17
 [/us/pl/103/465/s344/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs344%2Fa

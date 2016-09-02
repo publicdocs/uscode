@@ -199,7 +199,7 @@
 
         (3) Regulations prescribed under this subsection shall, to the extent practicable and consistent with efficient and fair administration, insure against inequitable sharing of imports by a relatively small number of the larger importers.
 
-([Pub. L. 93–618, title II, § 203][/us/pl/93/618/s203], Jan. 3, 1975, [88 Stat. 2015][/us/stat/88/2015]; [Pub. L. 96–39, title XI, § 1106(d)][/us/pl/96/39/s1106/d], July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 98–573, title II, § 248(a)][/us/pl/98/573/s248/a], Oct. 30, 1984, [98 Stat. 2998][/us/stat/98/2998]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1214(j)(2), 1401(a), Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158], 1234; [Pub. L. 100–647, title IX, § 9001(a)(2)][/us/pl/100/647/s9001/a/2], Nov. 10, 1988, [102 Stat. 3806][/us/stat/102/3806]; [Pub. L. 103–465, title III][/us/pl/103/465], §§ 301(d)(3), 302(a)–(b)(4)(A), 303(7)–(10), Dec. 8, 1994, [108 Stat. 4933–4937][/us/stat/108/4933-4937].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 203, Jan. 3, 1975, [88 Stat. 2015][/us/stat/88/2015]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(d), July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 248(a), Oct. 30, 1984, [98 Stat. 2998][/us/stat/98/2998]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1214(j)(2), 1401(a), Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158], 1234; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(2), Nov. 10, 1988, [102 Stat. 3806][/us/stat/102/3806]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], §§ 301(d)(3), 302(a)–(b)(4)(A), 303(7)–(10), Dec. 8, 1994, [108 Stat. 4933–4937][/us/stat/108/4933-4937].)
 
  __References in Text__ 
 
@@ -207,67 +207,67 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(2)(C). [Pub. L. 103–465, § 303(7)][/us/pl/103/465/s303/7], substituted “2252(a)” for “2251(b)”.
+    1994—Subsec. (a)(2)(C). [Pub. L. 103–465][/us/pl/103/465], § 303(7), substituted “2252(a)” for “2251(b)”.
 
-    Subsec. (a)(3)(E). [Pub. L. 103–465, § 302(a)(1)][/us/pl/103/465/s302/a/1], struck out “orderly marketing” before “agreements”.
+    Subsec. (a)(3)(E). [Pub. L. 103–465][/us/pl/103/465], § 302(a)(1), struck out “orderly marketing” before “agreements”.
 
-    Subsec. (a)(4). [Pub. L. 103–465, § 301(d)(3)][/us/pl/103/465/s301/d/3], designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), the” for “The”, inserted “(50 days if the President has proclaimed provisional relief under [section 2252(d)(2)(D) of this title][/us/usc/t19/s2252/d/2/D] with respect to the article concerned)” after “60 days”, and substituted a period and subpar. (B) for “; except that if a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received.”
+    Subsec. (a)(4). [Pub. L. 103–465][/us/pl/103/465], § 301(d)(3), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), the” for “The”, inserted “(50 days if the President has proclaimed provisional relief under [section 2252(d)(2)(D) of this title][/us/usc/t19/s2252/d/2/D] with respect to the article concerned)” after “60 days”, and substituted a period and subpar. (B) for “; except that if a supplemental report is requested under paragraph (5), the President shall take action under paragraph (1) within 30 days after the supplemental report is received.”
 
-    Subsec. (c). [Pub. L. 103–465, § 303(8)][/us/pl/103/465/s303/8], substituted “subsection (d)(2)” for “subsection (c)(2)” in concluding provisions.
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 303(8), substituted “subsection (d)(2)” for “subsection (c)(2)” in concluding provisions.
 
-    Subsec. (d)(1). [Pub. L. 103–465, § 302(a)(2)][/us/pl/103/465/s302/a/2], substituted “agreements described in subsection (a)(3)(E)” for “orderly marketing agreements”.
+    Subsec. (d)(1). [Pub. L. 103–465][/us/pl/103/465], § 302(a)(2), substituted “agreements described in subsection (a)(3)(E)” for “orderly marketing agreements”.
 
-    Subsec. (e)(1). [Pub. L. 103–465, § 302(b)(1)][/us/pl/103/465/s302/b/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+    Subsec. (e)(1). [Pub. L. 103–465][/us/pl/103/465], § 302(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
     “(1)(A) The duration of the period in which action taken under this section may be in effect shall not exceed 8 years.
 
     “(B) If the initial effective period for action taken under this section is less than 8 years, the President may extend the effective period once, but the aggregate of the initial period and the extension may not exceed 8 years.”
 
-    Subsec. (e)(2). [Pub. L. 103–465, § 303(9)][/us/pl/103/465/s303/9], substituted “of a type described in subsection (a)(3)(A), (B), or (C) may be taken under subsection (a)(1), under [section 2252(d)(1)(G) of this title][/us/usc/t19/s2252/d/1/G], or under [section 2252(d)(2)(D) of this title][/us/usc/t19/s2252/d/2/D]” for “may be taken under subsection (a)(1)(A), (B), or (C) or under [section 2252(d)(2)(B) of this title][/us/usc/t19/s2252/d/2/B]” and struck out “or threat thereof” after “the serious injury”.
+    Subsec. (e)(2). [Pub. L. 103–465][/us/pl/103/465], § 303(9), substituted “of a type described in subsection (a)(3)(A), (B), or (C) may be taken under subsection (a)(1), under [section 2252(d)(1)(G) of this title][/us/usc/t19/s2252/d/1/G], or under [section 2252(d)(2)(D) of this title][/us/usc/t19/s2252/d/2/D]” for “may be taken under subsection (a)(1)(A), (B), or (C) or under [section 2252(d)(2)(B) of this title][/us/usc/t19/s2252/d/2/B]” and struck out “or threat thereof” after “the serious injury”.
 
-    Subsec. (e)(4), (5). [Pub. L. 103–465, § 302(b)(2)][/us/pl/103/465/s302/b/2], (3), amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
+    Subsec. (e)(4), (5). [Pub. L. 103–465][/us/pl/103/465], § 302(b)(2), (3), amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
 
     “(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article.
 
     “(5) To the extent feasible, an effective period of more than 3 years for an action described in subsection (a)(3)(A), (B), or (C) of this section shall be phased down during the period in which the action is taken, with the first reduction taking effect no later than the close of the day which is 3 years after the day on which such action first takes effect.”
 
-    Subsec. (e)(6)(B). [Pub. L. 103–465, § 303(10)][/us/pl/103/465/s303/10], substituted “[section 2252(e) of this title][/us/usc/t19/s2252/e]” for “subsection (c) of this section” and “[section 2252(b) of this title][/us/usc/t19/s2252/b]” for “subsection (a) of this section”.
+    Subsec. (e)(6)(B). [Pub. L. 103–465][/us/pl/103/465], § 303(10), substituted “[section 2252(e) of this title][/us/usc/t19/s2252/e]” for “subsection (c) of this section” and “[section 2252(b) of this title][/us/usc/t19/s2252/b]” for “subsection (a) of this section”.
 
-    Subsec. (e)(7). [Pub. L. 103–465, § 302(b)(4)(A)][/us/pl/103/465/s302/b/4/A], added par. (7).
+    Subsec. (e)(7). [Pub. L. 103–465][/us/pl/103/465], § 302(b)(4)(A), added par. (7).
 
-    Subsec. (f). [Pub. L. 103–465, § 302(a)(3)][/us/pl/103/465/s302/a/3], in heading, substituted “Certain” for “Orderly marketing and other”, in par. (1), substituted “implementation of agreements of the type described in subsection (a)(3)(E)” for “implementation of orderly marketing agreements” and “negotiate agreements of the type described in subsection (a)(3)(E)” for “negotiate orderly marketing agreements with foreign countries”, and in par. (2), substituted “agreement implemented under subsection (a)(3)(E)” for “orderly marketing agreement implemented under subsection (a) of this section”.
+    Subsec. (f). [Pub. L. 103–465][/us/pl/103/465], § 302(a)(3), in heading, substituted “Certain” for “Orderly marketing and other”, in par. (1), substituted “implementation of agreements of the type described in subsection (a)(3)(E)” for “implementation of orderly marketing agreements” and “negotiate agreements of the type described in subsection (a)(3)(E)” for “negotiate orderly marketing agreements with foreign countries”, and in par. (2), substituted “agreement implemented under subsection (a)(3)(E)” for “orderly marketing agreement implemented under subsection (a) of this section”.
 
-    Subsec. (g)(2). [Pub. L. 103–465, § 302(a)(4)][/us/pl/103/465/s302/a/4], in first sentence, struck out “orderly marketing or other” before “international”, and in second sentence, substituted “agreement of the type described in subsection (a)(3)(E) that is” for “orderly marketing agreement” and “covered by such agreement” for “covered by such agreements”.
+    Subsec. (g)(2). [Pub. L. 103–465][/us/pl/103/465], § 302(a)(4), in first sentence, struck out “orderly marketing or other” before “international”, and in second sentence, substituted “agreement of the type described in subsection (a)(3)(E) that is” for “orderly marketing agreement” and “covered by such agreement” for “covered by such agreements”.
 
-    1988—[Pub. L. 100–418, § 1401(a)][/us/pl/100/418/s1401/a], in amending section generally, substituted provisions relating to action by President after determination of import injury for provisions relating to import relief.
+    1988—[Pub. L. 100–418][/us/pl/100/418], § 1401(a), in amending section generally, substituted provisions relating to action by President after determination of import injury for provisions relating to import relief.
 
-    Subsec. (e)(6)(A)(i). [Pub. L. 100–418, § 1214(j)(2)(A)][/us/pl/100/418/s1214/j/2/A], as amended by [Pub. L. 100–647, § 9001(a)(2)(B)(i)][/us/pl/100/647/s9001/a/2/B/i], (ii), substituted “subheadings 9802.00.60 or 9802.00.80 of the Harmonized Tariff Schedule of the United States” for “item 806.30 or 807.00 of the Tariff Schedules of the United States”.
+    Subsec. (e)(6)(A)(i). [Pub. L. 100–418][/us/pl/100/418], § 1214(j)(2)(A), as amended by [Pub. L. 100–647][/us/pl/100/647], § 9001(a)(2)(B)(i), (ii), substituted “subheadings 9802.00.60 or 9802.00.80 of the Harmonized Tariff Schedule of the United States” for “item 806.30 or 807.00 of the Tariff Schedules of the United States”.
 
-    Subsec. (e)(6)(B). [Pub. L. 100–647, § 9001(a)(2)(A)][/us/pl/100/647/s9001/a/2/A], substituted “(i) the application” for “(A) the application”, and “(ii) the designation” for “(B) the designation”.
+    Subsec. (e)(6)(B). [Pub. L. 100–647][/us/pl/100/647], § 9001(a)(2)(A), substituted “(i) the application” for “(A) the application”, and “(ii) the designation” for “(B) the designation”.
 
-    Subsec. (e)(6)(B)(i). [Pub. L. 100–418, § 1214(j)(2)(B)][/us/pl/100/418/s1214/j/2/B], as amended by [Pub. L. 100–647, § 9001(a)(2)(B)(i)][/us/pl/100/647/s9001/a/2/B/i], (iii), substituted “subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States” for “item 806.30 or item 807.00”.
+    Subsec. (e)(6)(B)(i). [Pub. L. 100–418][/us/pl/100/418], § 1214(j)(2)(B), as amended by [Pub. L. 100–647][/us/pl/100/647], § 9001(a)(2)(B)(i), (iii), substituted “subheading 9802.00.60 or subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States” for “item 806.30 or item 807.00”.
 
-    1984—Subsec. (c)(1). [Pub. L. 98–573, § 248(a)(1)][/us/pl/98/573/s248/a/1], substituted provision that the action recommended by the Commission shall take effect upon enactment of a joint resolution described in [section 2192(a)(1)(A) of this title][/us/usc/t19/s2192/a/1/A] for provision that the action recommended by the Commission would take effect upon the adoption by both Houses of Congress, by an affirmative vote of a majority of the Members of each House present and voting under the procedures set forth in [section 2192 of this title][/us/usc/t19/s2192], of a concurrent resolution disapproving the action taken by the President or his determination not to provide import relief under [section 2252(a)(1)(A) of this title][/us/usc/t19/s2252/a/1/A].
+    1984—Subsec. (c)(1). [Pub. L. 98–573][/us/pl/98/573], § 248(a)(1), substituted provision that the action recommended by the Commission shall take effect upon enactment of a joint resolution described in [section 2192(a)(1)(A) of this title][/us/usc/t19/s2192/a/1/A] for provision that the action recommended by the Commission would take effect upon the adoption by both Houses of Congress, by an affirmative vote of a majority of the Members of each House present and voting under the procedures set forth in [section 2192 of this title][/us/usc/t19/s2192], of a concurrent resolution disapproving the action taken by the President or his determination not to provide import relief under [section 2252(a)(1)(A) of this title][/us/usc/t19/s2252/a/1/A].
 
-    Subsec. (c)(2). [Pub. L. 98–573, § 248(a)(2)][/us/pl/98/573/s248/a/2], substituted “enactment of the joint resolution referred to in paragraph (1)” for “adoption of such resolution” and “section 2251(d)” for “section 2251(b)”.
+    Subsec. (c)(2). [Pub. L. 98–573][/us/pl/98/573], § 248(a)(2), substituted “enactment of the joint resolution referred to in paragraph (1)” for “adoption of such resolution” and “section 2251(d)” for “section 2251(b)”.
 
-    1979—Subsec. (a)(4). [Pub. L. 96–39, § 1106(d)(1)][/us/pl/96/39/s1106/d/1], substituted “negotiate, conclude, and carry out” for “negotiate”.
+    1979—Subsec. (a)(4). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(1), substituted “negotiate, conclude, and carry out” for “negotiate”.
 
-    Subsec. (b)(1). [Pub. L. 96–39, § 1106(d)(2)(A)][/us/pl/96/39/s1106/d/2/A], (B), substituted “On the day the President determines under [section 2252 of this title][/us/usc/t19/s2252] to provide import relief, including announcement of his intention to negotiate an orderly marketing agreement” for “On the day on which the President proclaims import relief under this section or announces his intention to negotiate one or more orderly marketing agreements” and section “2251(d)(1)(A)” for “2251(b)(1)(A)” of this title.
+    Subsec. (b)(1). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(2)(A), (B), substituted “On the day the President determines under [section 2252 of this title][/us/usc/t19/s2252] to provide import relief, including announcement of his intention to negotiate an orderly marketing agreement” for “On the day on which the President proclaims import relief under this section or announces his intention to negotiate one or more orderly marketing agreements” and section “2251(d)(1)(A)” for “2251(b)(1)(A)” of this title.
 
-    Subsec. (b)(3). [Pub. L. 96–39, § 1106(d)(2)(C)][/us/pl/96/39/s1106/d/2/C], added par. (3).
+    Subsec. (b)(3). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(2)(C), added par. (3).
 
-    Subsec. (c)(1). [Pub. L. 96–39, § 1106(d)(3)(A)][/us/pl/96/39/s1106/d/3/A], (B), substituted “section 2251(d)(1)(A)” for “section 2251(b)(1)(A)” of this title and inserted “under the procedures set forth in [section 2192 of this title][/us/usc/t19/s2192]” after “voting”.
+    Subsec. (c)(1). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(3)(A), (B), substituted “section 2251(d)(1)(A)” for “section 2251(b)(1)(A)” of this title and inserted “under the procedures set forth in [section 2192 of this title][/us/usc/t19/s2192]” after “voting”.
 
-    Subsec. (e)(3). [Pub. L. 96–39, § 1106(d)(4)][/us/pl/96/39/s1106/d/4], substituted “subsection (a) of this section” for “subsection (a)(1), (2), (3), or (5) of this section”.
+    Subsec. (e)(3). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(4), substituted “subsection (a) of this section” for “subsection (a)(1), (2), (3), or (5) of this section”.
 
-    Subsec. (g)(1). [Pub. L. 96–39, § 1106(d)(5)(A)][/us/pl/96/39/s1106/d/5/A], (B), struck out “quantitative” before “restriction” and substituted “pursuant to this section” for “pursuant to subsection (a)(3) or (c) of this section”.
+    Subsec. (g)(1). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(5)(A), (B), struck out “quantitative” before “restriction” and substituted “pursuant to this section” for “pursuant to subsection (a)(3) or (c) of this section”.
 
-    Subsec. (g)(2). [Pub. L. 96–39, § 1106(d)(6)][/us/pl/96/39/s1106/d/6], inserted references to subsec. (e)(3) of this section.
+    Subsec. (g)(2). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(6), inserted references to subsec. (e)(3) of this section.
 
-    Subsec. (h)(3). [Pub. L. 96–39, § 1106(d)(7)(A)][/us/pl/96/39/s1106/d/7/A], (B), inserted reference to subsec. (i)(3) of this section and substituted “one period of not more than 3 years” for “one 3-year period”.
+    Subsec. (h)(3). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(7)(A), (B), inserted reference to subsec. (i)(3) of this section and substituted “one period of not more than 3 years” for “one 3-year period”.
 
-    Subsec. (h)(4). [Pub. L. 96–39, § 1106(d)(7)(A)][/us/pl/96/39/s1106/d/7/A], inserted reference to subsec. (i)(3) of this section.
+    Subsec. (h)(4). [Pub. L. 96–39][/us/pl/96/39], § 1106(d)(7)(A), inserted reference to subsec. (i)(3) of this section.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -291,11 +291,11 @@
 
  __Steel Import Stabilization__ 
 
-    Title VIII of [Pub. L. 98–573][/us/pl/98/573], as amended by [Pub. L. 100–418, title I, § 1322][/us/pl/100/418/s1322], Aug. 23, 1988, [102 Stat. 1195][/us/stat/102/1195]; [Pub. L. 101–221][/us/pl/101/221], §§ 2, 3(a), 4–6(a), Dec. 12, 1989, [103 Stat. 1886–1889][/us/stat/103/1886-1889], known as the Steel Import Stabilization Act, endorsed principles and goals of steel trade liberalization program as announced by the President on July 25, 1989, and provided for its implementation, granted specific enforcement powers to President to carry out terms and conditions of bilateral arrangements entered into for purposes of implementing that program, made continuation of those powers subject to condition that steel industry continue to modernize its plant and equipment and provide for appropriate worker retraining, directed Secretary of Labor to prepare and submit to Congress plan of action for assisting workers in communities adversely affected by imports of steel products, and provided that section 805 which provided enforcement authority for President would terminate Mar. 31, 1992.
+    Title VIII of [Pub. L. 98–573][/us/pl/98/573], as amended by [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1322, Aug. 23, 1988, [102 Stat. 1195][/us/stat/102/1195]; [Pub. L. 101–221][/us/pl/101/221], §§ 2, 3(a), 4–6(a), Dec. 12, 1989, [103 Stat. 1886–1889][/us/stat/103/1886-1889], known as the Steel Import Stabilization Act, endorsed principles and goals of steel trade liberalization program as announced by the President on July 25, 1989, and provided for its implementation, granted specific enforcement powers to President to carry out terms and conditions of bilateral arrangements entered into for purposes of implementing that program, made continuation of those powers subject to condition that steel industry continue to modernize its plant and equipment and provide for appropriate worker retraining, directed Secretary of Labor to prepare and submit to Congress plan of action for assisting workers in communities adversely affected by imports of steel products, and provided that section 805 which provided enforcement authority for President would terminate Mar. 31, 1992.
 
  __Limitation on Meat Imports__ 
 
-    [Pub. L. 88–482, § 2][/us/pl/88/482/s2], Aug. 22, 1964, [78 Stat. 594][/us/stat/78/594], as amended by [Pub. L. 96–177][/us/pl/96/177], Dec. 31, 1979, [93 Stat. 1291][/us/stat/93/1291]; [Pub. L. 100–418, title I, § 1214(u)][/us/pl/100/418/s1214/u], Aug. 23, 1988, [102 Stat. 1162][/us/stat/102/1162]; [Pub. L. 100–449, title III, § 301(b)][/us/pl/100/449/s301/b], Sept. 28, 1988, [102 Stat. 1867][/us/stat/102/1867]; [Pub. L. 103–182, title III, § 321(a)][/us/pl/103/182/s321/a], Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108], provided that this section was to be cited as the “Meat Import Act of 1979”, defined terms for purposes of this section, limited with exception the aggregate quantity of meat articles which could enter the country in any calendar year after 1979, provided for adjustment of aggregate quantity for calendar years after 1979, required Secretary of Agriculture to estimate and publish yearly aggregate quantity, authorized President to increase or limit by proclamation the total quantity of meat articles entering this country under certain circumstances, and provided for suspension of such proclamations after providing notice in Federal Register and opportunity to comment, prior to repeal by [Pub. L. 103–465, title IV, § 403][/us/pl/103/465/s403], Dec. 8, 1994, [108 Stat. 4959][/us/stat/108/4959], effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995).
+    [Pub. L. 88–482][/us/pl/88/482], § 2, Aug. 22, 1964, [78 Stat. 594][/us/stat/78/594], as amended by [Pub. L. 96–177][/us/pl/96/177], Dec. 31, 1979, [93 Stat. 1291][/us/stat/93/1291]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(u), Aug. 23, 1988, [102 Stat. 1162][/us/stat/102/1162]; [Pub. L. 100–449, title III][/us/pl/100/449/tIII], § 301(b), Sept. 28, 1988, [102 Stat. 1867][/us/stat/102/1867]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 321(a), Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108], provided that this section was to be cited as the “Meat Import Act of 1979”, defined terms for purposes of this section, limited with exception the aggregate quantity of meat articles which could enter the country in any calendar year after 1979, provided for adjustment of aggregate quantity for calendar years after 1979, required Secretary of Agriculture to estimate and publish yearly aggregate quantity, authorized President to increase or limit by proclamation the total quantity of meat articles entering this country under certain circumstances, and provided for suspension of such proclamations after providing notice in Federal Register and opportunity to comment, prior to repeal by [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 403, Dec. 8, 1994, [108 Stat. 4959][/us/stat/108/4959], effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995).
 
 ----------
 
@@ -325,59 +325,59 @@
 [/us/usc/t19/s2252/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fe
 [/us/usc/t19/s2252/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fb%2F1
 [/us/usc/t19/s2252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fb
-[/us/pl/93/618/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs203
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2015
-[/us/pl/96/39/s1106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F312
-[/us/pl/98/573/s248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs248%2Fa
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2998
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1158
-[/us/pl/100/647/s9001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F2
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3806
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4933-4937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4933-4937
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/103/465/s303/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs303%2F7
-[/us/pl/103/465/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fa%2F1
-[/us/pl/103/465/s301/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs301%2Fd%2F3
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2252/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fd%2F2%2FD
-[/us/pl/103/465/s303/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs303%2F8
-[/us/pl/103/465/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fa%2F2
-[/us/pl/103/465/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fb%2F1
-[/us/pl/103/465/s303/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs303%2F9
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2252/d/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fd%2F1%2FG
 [/us/usc/t19/s2252/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fd%2F2%2FD
 [/us/usc/t19/s2252/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fd%2F2%2FB
-[/us/pl/103/465/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fb%2F2
-[/us/pl/103/465/s303/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs303%2F10
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2252/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fe
 [/us/usc/t19/s2252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fb
-[/us/pl/103/465/s302/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fb%2F4%2FA
-[/us/pl/103/465/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fa%2F3
-[/us/pl/103/465/s302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fa%2F4
-[/us/pl/100/418/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1401%2Fa
-[/us/pl/100/418/s1214/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fj%2F2%2FA
-[/us/pl/100/647/s9001/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F2%2FB%2Fi
-[/us/pl/100/647/s9001/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F2%2FA
-[/us/pl/100/418/s1214/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fj%2F2%2FB
-[/us/pl/100/647/s9001/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F2%2FB%2Fi
-[/us/pl/98/573/s248/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs248%2Fa%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/usc/t19/s2192/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192%2Fa%2F1%2FA
 [/us/usc/t19/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192
 [/us/usc/t19/s2252/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fa%2F1%2FA
-[/us/pl/98/573/s248/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs248%2Fa%2F2
-[/us/pl/96/39/s1106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F1
-[/us/pl/96/39/s1106/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F2%2FA
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
-[/us/pl/96/39/s1106/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F2%2FC
-[/us/pl/96/39/s1106/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F3%2FA
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192
-[/us/pl/96/39/s1106/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F4
-[/us/pl/96/39/s1106/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F5%2FA
-[/us/pl/96/39/s1106/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F6
-[/us/pl/96/39/s1106/d/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F7%2FA
-[/us/pl/96/39/s1106/d/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fd%2F7%2FA
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs304%2Fa
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
@@ -397,21 +397,21 @@
 [/us/pl/96/39/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1114
 [/us/usc/t19/s2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2581
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
-[/us/pl/100/418/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1322
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1195
 [/us/pl/101/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F221
 [/us/stat/103/1886-1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1886-1889
-[/us/pl/88/482/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F482%2Fs2
+[/us/pl/88/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F482
 [/us/stat/78/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F594
 [/us/pl/96/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F177
 [/us/stat/93/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1291
-[/us/pl/100/418/s1214/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fu
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1162
-[/us/pl/100/449/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs301%2Fb
+[/us/pl/100/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIII
 [/us/stat/102/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1867
-[/us/pl/103/182/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs321%2Fa
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2108
-[/us/pl/103/465/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs403
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4959
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1487.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1489.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1488)
 
-## § 1488. Repealed. [Pub. L. 91–271, title II, § 204(b)][/us/pl/91/271/s204/b], June 2, 1970, [84 Stat. 283][/us/stat/84/283]
+## § 1488. Repealed. [Pub. L. 91–271, title II][/us/pl/91/271/tII], § 204(b), June 2, 1970, [84 Stat. 283][/us/stat/84/283]
 
-    Section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 488, [46 Stat. 725][/us/stat/46/725], authorized a collector to cause the appraisal of entered merchandise.
+    Section, [act June 17, 1930, ch. 497, title IV][/us/act/1930-06-17/ch497/tIV], § 488, [46 Stat. 725][/us/stat/46/725], authorized a collector to cause the appraisal of entered merchandise.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/91/271/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs204%2Fb
+[/us/pl/91/271/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtII
 [/us/stat/84/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F283
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIV
 [/us/stat/46/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F725
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500

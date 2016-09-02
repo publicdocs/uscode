@@ -33,7 +33,7 @@
 
         (3) such information as may be submitted under [section 2805 of this title][/us/usc/t19/s2805] by representatives of the wine and grape products industries in the United States, as well as other sources.
 
-([Pub. L. 98–573, title IX, § 904][/us/pl/98/573/s904], Oct. 30, 1984, [98 Stat. 3048][/us/stat/98/3048].)
+([Pub. L. 98–573, title IX][/us/pl/98/573/tIX], § 904, Oct. 30, 1984, [98 Stat. 3048][/us/stat/98/3048].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t19/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2135
 [/us/usc/t19/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2805
-[/us/pl/98/573/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs904
+[/us/pl/98/573/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIX
 [/us/stat/98/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3048
 [/us/pl/96/39/s854/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs854%2Fa
 [/us/stat/93/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F294

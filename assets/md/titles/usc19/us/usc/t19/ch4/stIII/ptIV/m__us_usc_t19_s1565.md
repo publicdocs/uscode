@@ -23,13 +23,13 @@
 
     who shall give bond, in a penal sum to be fixed by the Customs Service, for the protection of the Government against any loss of, or damage to, the merchandise while being so carted. The cartage of merchandise designated for examination at the appraiser’s stores and of merchandise taken into custody by the customs officer as unclaimed shall be performed by such persons as may be designated, under contract or otherwise, by the Secretary of the Treasury, and under such regulations for the protection of the owners thereof and of the revenue as the Secretary of the Treasury shall prescribe.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 565, [46 Stat. 747][/us/stat/46/747]; [Pub. L. 91–271, title III, § 301(x)][/us/pl/91/271/s301/x], June 2, 1970, [84 Stat. 290][/us/stat/84/290]; [Pub. L. 103–182, title VI, § 666][/us/pl/103/182/s666], Dec. 8, 1993, [107 Stat. 2215][/us/stat/107/2215].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 565, [46 Stat. 747][/us/stat/46/747]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(x), June 2, 1970, [84 Stat. 290][/us/stat/84/290]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 666, Dec. 8, 1993, [107 Stat. 2215][/us/stat/107/2215].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 565, [42 Stat. 979][/us/stat/42/979]. That section was superseded by section 565 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 565, [42 Stat. 979][/us/stat/42/979]. That section was superseded by section 565 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    [Act June 22, 1874, ch. 391, § 25][/us/act/1874-06-22/ch391/s25], [18 Stat. 191][/us/stat/18/191], required cartage of merchandise in the custody of the government to be let to the lowest responsible bidder, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989].
+    [Act June 22, 1874, ch. 391][/us/act/1874-06-22/ch391], § 25, [18 Stat. 191][/us/stat/18/191], required cartage of merchandise in the custody of the government to be let to the lowest responsible bidder, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -55,15 +55,15 @@
 [/us/usc/t19/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1551
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F747
-[/us/pl/91/271/s301/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fx
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F290
-[/us/pl/103/182/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs666
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2215
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F979
-[/us/act/1874-06-22/ch391/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch391%2Fs25
+[/us/act/1874-06-22/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch391
 [/us/stat/18/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F191
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

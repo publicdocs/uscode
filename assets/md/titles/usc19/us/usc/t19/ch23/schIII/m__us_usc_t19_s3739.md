@@ -47,7 +47,7 @@
 
         (3) the HIV/AIDS crisis in sub-Saharan Africa is a global threat that merits further attention through greatly expanded public, private, and joint public-private efforts, and through appropriate United States legislation.
 
-([Pub. L. 106–200, title I, § 129][/us/pl/106/200/s129], May 18, 2000, [114 Stat. 273][/us/stat/114/273].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 129, May 18, 2000, [114 Stat. 273][/us/stat/114/273].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/106/200/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs129
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F273
 
 

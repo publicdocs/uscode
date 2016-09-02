@@ -93,7 +93,7 @@
 
         Before the review is conducted of the dispute settlement rules and procedures of the WTO that is provided for in the Decision on the Application of the Understanding on Rules and Procedures Governing the Settlement of Disputes, as such decision is set forth in the Ministerial Declarations and Decisions adopted on April 15, 1994, together with the Uruguay Round Agreements, the Trade Representative shall consult with the congressional committees regarding the policy of the United States concerning the review.
 
-([Pub. L. 103–465, title I, § 123][/us/pl/103/465/s123], Dec. 8, 1994, [108 Stat. 4830][/us/stat/108/4830].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 123, Dec. 8, 1994, [108 Stat. 4830][/us/stat/108/4830].)
 
 ----------
 
@@ -105,7 +105,7 @@
 [/us/usc/t19/s2213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213%2Fa
 [/us/usc/t19/s3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3534
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/103/465/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs123
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4830
 
 

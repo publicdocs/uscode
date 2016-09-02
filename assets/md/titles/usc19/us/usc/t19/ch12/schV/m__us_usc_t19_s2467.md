@@ -61,7 +61,7 @@
 
         The work referred to in subparagraph (D) shall be determined by the laws, regulations, or competent authority of the beneficiary developing country involved.
 
-([Pub. L. 93–618, title V, § 507][/us/pl/93/618/s507], as added [Pub. L. 104–188, title I, § 1952(a)][/us/pl/104/188/s1952/a], Aug. 20, 1996, [110 Stat. 1926][/us/stat/110/1926]; amended [Pub. L. 106–200, title IV, § 412(b)][/us/pl/106/200/s412/b], May 18, 2000, [114 Stat. 298][/us/stat/114/298]; [Pub. L. 107–210, div. D, title XLI, § 4102(b)][/us/pl/107/210/s4102/b], Aug. 6, 2002, [116 Stat. 1041][/us/stat/116/1041].)
+([Pub. L. 93–618, title V][/us/pl/93/618/tV], § 507, as added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1952(a), Aug. 20, 1996, [110 Stat. 1926][/us/stat/110/1926]; amended [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 412(b), May 18, 2000, [114 Stat. 298][/us/stat/114/298]; [Pub. L. 107–210, div. D, title XLI][/us/pl/107/210/dD/tXLI], § 4102(b), Aug. 6, 2002, [116 Stat. 1041][/us/stat/116/1041].)
 
  __Amendments__ 
 
@@ -82,12 +82,12 @@
 
 [/us/usc/t19/s2462/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2462%2Fb
 [/us/usc/t19/s2462/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2462%2Fa%2F2
-[/us/pl/93/618/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs507
-[/us/pl/104/188/s1952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1952%2Fa
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1926
-[/us/pl/106/200/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs412%2Fb
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F298
-[/us/pl/107/210/s4102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs4102%2Fb
+[/us/pl/107/210/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdD%2FtXLI
 [/us/stat/116/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1041
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200

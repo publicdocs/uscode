@@ -37,7 +37,7 @@
 
     (4) the President has consulted with such Committees regarding the proposed action during the period referred to in paragraph (3).
 
-([Pub. L. 109–53, title I, § 104][/us/pl/109/53/s104], Aug. 2, 2005, [119 Stat. 465][/us/stat/119/465].)
+([Pub. L. 109–53, title I][/us/pl/109/53/tI], § 104, Aug. 2, 2005, [119 Stat. 465][/us/stat/119/465].)
 
  __Termination of Section__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/109/53/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs104
+[/us/pl/109/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtI
 [/us/stat/119/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F465
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

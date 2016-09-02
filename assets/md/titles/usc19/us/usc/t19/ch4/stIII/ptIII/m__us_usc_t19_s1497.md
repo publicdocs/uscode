@@ -47,19 +47,19 @@
 
         (2) The Secretary and the Attorney General of the United States shall establish a method of determining the price at which each controlled substance is likely to be illegally sold to the consumer of such controlled substance.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 497, [46 Stat. 728][/us/stat/46/728]; [Pub. L. 99–570, title III, § 3116][/us/pl/99/570/s3116], Oct. 27, 1986, [100 Stat. 3207–83][/us/stat/100/3207-83]; [Pub. L. 100–690, title VII, § 7367(a)][/us/pl/100/690/s7367/a], Nov. 18, 1988, [102 Stat. 4479][/us/stat/102/4479]; [Pub. L. 103–182, title VI, § 612][/us/pl/103/182/s612], Dec. 8, 1993, [107 Stat. 2170][/us/stat/107/2170].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 497, [46 Stat. 728][/us/stat/46/728]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3116, Oct. 27, 1986, [100 Stat. 3207–83][/us/stat/100/3207-83]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7367(a), Nov. 18, 1988, [102 Stat. 4479][/us/stat/102/4479]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 612, Dec. 8, 1993, [107 Stat. 2170][/us/stat/107/2170].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 497, [42 Stat. 964][/us/stat/42/964]. That section was superseded by section 497 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 497, [42 Stat. 964][/us/stat/42/964]. That section was superseded by section 497 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    A prior provision for forfeiture of any article subject to duty found in baggage, and not mentioned to the collector before whom entry was made, and for a penalty of treble the value of the article, was contained in R.S. § 2802, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    A prior provision for forfeiture of any article subject to duty found in baggage, and not mentioned to the collector before whom entry was made, and for a penalty of treble the value of the article, was contained in R.S. § 2802, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
-    1993—Subsec. (a)(1)(A). [Pub. L. 103–182, § 612(1)][/us/pl/103/182/s612/1], inserted “or transmitted” after “made”.
+    1993—Subsec. (a)(1)(A). [Pub. L. 103–182][/us/pl/103/182], § 612(1), inserted “or transmitted” after “made”.
 
-    Subsec. (a)(2)(A). [Pub. L. 103–182, § 612(2)][/us/pl/103/182/s612/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “if the article is a controlled substance, 1,000 percent of the value of the article; and”.
+    Subsec. (a)(2)(A). [Pub. L. 103–182][/us/pl/103/182], § 612(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “if the article is a controlled substance, 1,000 percent of the value of the article; and”.
 
     1988—Subsec. (a)(2)(A). [Pub. L. 100–690][/us/pl/100/690] substituted “1,000 percent” for “200 percent”.
 
@@ -74,18 +74,18 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F728
-[/us/pl/99/570/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3116
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-83
-[/us/pl/100/690/s7367/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7367%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4479
-[/us/pl/103/182/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs612
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2170
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F964
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/pl/103/182/s612/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs612%2F1
-[/us/pl/103/182/s612/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs612%2F2
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 

@@ -45,7 +45,7 @@
 
         The agency specified in subsection (c)(2)(D) shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
 
-([Pub. L. 96–39, title IV, § 491][/us/pl/96/39/s491], as added [Pub. L. 103–465, title IV, § 432][/us/pl/103/465/s432], Dec. 8, 1994, [108 Stat. 4970][/us/stat/108/4970].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 491, as added [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 432, Dec. 8, 1994, [108 Stat. 4970][/us/stat/108/4970].)
 
  __Effective Date__ 
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/pl/96/39/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs491
-[/us/pl/103/465/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs432
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4970
 [/us/pl/103/465/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs451
 [/us/usc/t19/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3601

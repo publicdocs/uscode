@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2372.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371)
+[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2371a...2371f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371)
 
 ## § 2371. Community College and Career Training Grant Program
 
@@ -143,23 +143,23 @@
 
             (F) The number of workers receiving benefits under part 2 served by such programs who did not complete a degree and the average duration of the participation of such workers in training under [section 2296 of this title][/us/usc/t19/s2296].
 
-([Pub. L. 93–618, title II, § 271][/us/pl/93/618/s271], formerly § 278, as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 406][/us/stat/123/406]; amended [Pub. L. 111–344, title I, § 101(c)(8)][/us/pl/111/344/s101/c/8], Dec. 29, 2010, [124 Stat. 3614][/us/stat/124/3614]; as added, renumbered § 271, and amended [Pub. L. 112–40, title II][/us/pl/112/40], §§ 201(b), (c), 222(a)(3), (b)(1), (c)(1), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], 411.)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 271, formerly § 278, as added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1872(a), Feb. 17, 2009, [123 Stat. 406][/us/stat/123/406]; amended [Pub. L. 111–344, title I][/us/pl/111/344/tI], § 101(c)(8), Dec. 29, 2010, [124 Stat. 3614][/us/stat/124/3614]; as added, renumbered § 271, and amended [Pub. L. 112–40, title II][/us/pl/112/40/tII], §§ 201(b), (c), 222(a)(3), (b)(1), (c)(1), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], 411.)
 
  __Codification__ 
 
-    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of section, was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and this section, as added by [Pub. L. 111–5][/us/pl/111/5], as amended by [Pub. L. 111–344][/us/pl/111/344], and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by [Pub. L. 112–40, § 201(b)][/us/pl/112/40/s201/b], (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
+    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of section, was repealed by [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 201(a), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and this section, as added by [Pub. L. 111–5][/us/pl/111/5], as amended by [Pub. L. 111–344][/us/pl/111/344], and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by [Pub. L. 112–40][/us/pl/112/40], § 201(b), (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
 
     Section was formerly classified to [section 2372 of this title][/us/usc/t19/s2372] prior to renumbering by [Pub. L. 112–40][/us/pl/112/40].
 
  __Prior Provisions__ 
 
-    A prior section 2371, [Pub. L. 93–618, title II, § 271][/us/pl/93/618/s271], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 401][/us/stat/123/401], and [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], which defined terms, was repealed by [Pub. L. 112–40, title II, § 222(a)(1)][/us/pl/112/40/s222/a/1], Oct. 21, 2011, [125 Stat. 411][/us/stat/125/411].
+    A prior section 2371, [Pub. L. 93–618, title II][/us/pl/93/618/tII], § 271, as added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1872(a), Feb. 17, 2009, [123 Stat. 401][/us/stat/123/401], and [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 201(b), (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], which defined terms, was repealed by [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 222(a)(1), Oct. 21, 2011, [125 Stat. 411][/us/stat/125/411].
 
-    Another prior section 2371, [Pub. L. 93–618, title II, § 271][/us/pl/93/618/s271], Jan. 3, 1975, [88 Stat. 2035][/us/stat/88/2035], related to petitions and determinations and terminated Sept. 30, 1982, pursuant to [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out as a Termination Date note preceding [section 2271 of this title][/us/usc/t19/s2271], prior to the general amendment of this part by [Pub. L. 111–5][/us/pl/111/5].
+    Another prior section 2371, [Pub. L. 93–618, title II][/us/pl/93/618/tII], § 271, Jan. 3, 1975, [88 Stat. 2035][/us/stat/88/2035], related to petitions and determinations and terminated Sept. 30, 1982, pursuant to [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out as a Termination Date note preceding [section 2271 of this title][/us/usc/t19/s2271], prior to the general amendment of this part by [Pub. L. 111–5][/us/pl/111/5].
 
  __Amendments__ 
 
-    2011—Subsec. (c)(4)(A)(ii) to (v). [Pub. L. 112–40, § 222(c)(1)(A)(i)(I)][/us/pl/112/40/s222/c/1/A/i/I], substituted “; and” for semicolon at end of cl. (ii), redesignated cl. (v) as (iii), and struck out former cls. (iii) and (iv) which read as follows:
+    2011—Subsec. (c)(4)(A)(ii) to (v). [Pub. L. 112–40][/us/pl/112/40], § 222(c)(1)(A)(i)(I), substituted “; and” for semicolon at end of cl. (ii), redesignated cl. (v) as (iii), and struck out former cls. (iii) and (iv) which read as follows:
 
     “(iii) the extent to which the project for which the grant proposal is submitted fits within any overall strategic plan developed by an eligible community under [section 2371e of this title][/us/usc/t19/s2371e];
 
@@ -167,25 +167,25 @@
 
     See Codification note above.
 
-    Subsec. (c)(4)(B). [Pub. L. 112–40, § 222(c)(1)(A)(i)(II)][/us/pl/112/40/s222/c/1/A/i/II], substituted “(A)(iii)” for “(A)(v)”. See Codification note above.
+    Subsec. (c)(4)(B). [Pub. L. 112–40][/us/pl/112/40], § 222(c)(1)(A)(i)(II), substituted “(A)(iii)” for “(A)(v)”. See Codification note above.
 
-    Subsec. (c)(5)(A)(i). [Pub. L. 112–40, § 222(c)(1)(A)(ii)(I)(aa)][/us/pl/112/40/s222/c/1/A/ii/I/aa], struck out “, and other entities described in [section 2371e(a)(2)(B) of this title][/us/usc/t19/s2371e/a/2/B]” after “employers” in introductory provisions. See Codification note above.
+    Subsec. (c)(5)(A)(i). [Pub. L. 112–40][/us/pl/112/40], § 222(c)(1)(A)(ii)(I)(aa), struck out “, and other entities described in [section 2371e(a)(2)(B) of this title][/us/usc/t19/s2371e/a/2/B]” after “employers” in introductory provisions. See Codification note above.
 
-    Subsec. (c)(5)(A)(i)(II). [Pub. L. 112–40, § 222(c)(1)(A)(ii)(I)(bb)][/us/pl/112/40/s222/c/1/A/ii/I/bb], substituted “; and” for semicolon at end. See Codification note above.
+    Subsec. (c)(5)(A)(i)(II). [Pub. L. 112–40][/us/pl/112/40], § 222(c)(1)(A)(ii)(I)(bb), substituted “; and” for semicolon at end. See Codification note above.
 
-    Subsec. (c)(5)(A)(iii). [Pub. L. 112–40, § 222(c)(1)(A)(ii)(II)][/us/pl/112/40/s222/c/1/A/ii/II], struck out cl. (iii) which read as follows: “reached out to any eligible partnership in the community that has sought or received a Sector Partnership Grant under [section 2373 of this title][/us/usc/t19/s2373] to enhance the effectiveness of each grant and avoid duplication of efforts; and”. See Codification note above.
+    Subsec. (c)(5)(A)(iii). [Pub. L. 112–40][/us/pl/112/40], § 222(c)(1)(A)(ii)(II), struck out cl. (iii) which read as follows: “reached out to any eligible partnership in the community that has sought or received a Sector Partnership Grant under [section 2373 of this title][/us/usc/t19/s2373] to enhance the effectiveness of each grant and avoid duplication of efforts; and”. See Codification note above.
 
-    Subsec. (d)(2), (3). [Pub. L. 112–40, § 222(c)(1)(B)][/us/pl/112/40/s222/c/1/B], redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In awarding grants under this section, the Secretary shall give priority to an eligible institution that serves a community that the Secretary of Commerce has determined under [section 2371b of this title][/us/usc/t19/s2371b] is eligible to apply for assistance under subpart A within the 5-year period preceding the date on which the grant proposal is submitted to the Secretary under this section.” See Codification note above.
+    Subsec. (d)(2), (3). [Pub. L. 112–40][/us/pl/112/40], § 222(c)(1)(B), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In awarding grants under this section, the Secretary shall give priority to an eligible institution that serves a community that the Secretary of Commerce has determined under [section 2371b of this title][/us/usc/t19/s2371b] is eligible to apply for assistance under subpart A within the 5-year period preceding the date on which the grant proposal is submitted to the Secretary under this section.” See Codification note above.
 
-    Subsec. (e). [Pub. L. 112–40, § 222(b)(1)(A)][/us/pl/112/40/s222/b/1/A], substituted “December 15, 2009,” for “December 15 in each of the calendar years 2009 through” in introductory provisions. See Codification note above.
+    Subsec. (e). [Pub. L. 112–40][/us/pl/112/40], § 222(b)(1)(A), substituted “December 15, 2009,” for “December 15 in each of the calendar years 2009 through” in introductory provisions. See Codification note above.
 
-    Subsec. (e)(3). [Pub. L. 112–40, § 222(b)(1)(B)][/us/pl/112/40/s222/b/1/B]–(D), added par. (3). See Codification note above.
+    Subsec. (e)(3). [Pub. L. 112–40][/us/pl/112/40], § 222(b)(1)(B)–(D), added par. (3). See Codification note above.
 
     2010—Subsec. (e). [Pub. L. 111–344][/us/pl/111/344] substituted “and annually thereafter” for “2011” in introductory provisions. See Codification note above.
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–40, title II, § 222(b)(2)][/us/pl/112/40/s222/b/2], Oct. 21, 2011, [125 Stat. 411][/us/stat/125/411], provided that: 
+[Pub. L. 112–40, title II][/us/pl/112/40/tII], § 222(b)(2), Oct. 21, 2011, [125 Stat. 411][/us/stat/125/411], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall—
 
@@ -203,31 +203,17 @@
 
     Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see [section 1891 of Pub. L. 111–5][/us/pl/111/5/s1891], set out as an Effective and Termination Dates of 2009 Amendment note under [section 2271 of this title][/us/usc/t19/s2271].
 
-    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided that, except as otherwise provided, this section and the general amendment of this part not applicable on or after Feb. 13, 2011, and that this part be applied and administered beginning Feb. 13, 2011, as if this section and the general amendment of this part had never been enacted, was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]. See Codification note above.
+    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided that, except as otherwise provided, this section and the general amendment of this part not applicable on or after Feb. 13, 2011, and that this part be applied and administered beginning Feb. 13, 2011, as if this section and the general amendment of this part had never been enacted, was repealed by [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 201(a), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]. See Codification note above.
 
  __Purpose__ 
 
-[Pub. L. 111–5, div. B, title I, § 1871][/us/pl/111/5/s1871], Feb. 17, 2009, [123 Stat. 401][/us/stat/123/401], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1871, Feb. 17, 2009, [123 Stat. 401][/us/stat/123/401], provided that: 
 
 > “The purpose of the amendments made by this part \[part III (§§ 1871–1873) of subtitle I of title I of div. B of [Pub. L. 111–5][/us/pl/111/5], enacting this part and amending [section 2395 of this title][/us/usc/t19/s2395] and [section 1581 of Title 28][/us/usc/t28/s1581], Judiciary and Judicial Procedure\] is to assist communities impacted by trade with economic adjustment through the coordination of Federal, State, and local resources, the creation of community-based development strategies, and the development and provision of programs that meet the training needs of workers covered by certifications under section 223 \[probably means [section 223 of Pub. L. 93–618][/us/pl/93/618/s223], which is classified to [section 2273 of this title][/us/usc/t19/s2273]\].”
 
-§§ 2371a to 2371f. __Repealed.__  __[__  __Pub. L. 112–40, title II, § 222(a)(1)__  __][/us/pl/112/40/s222/a/1]__  __,__  __Oct. 21, 2011__  __,__  __[__  __125 Stat. 411__  __][/us/stat/125/411]__ 
-
-    Section 2371a, [Pub. L. 93–618, title II, § 272][/us/pl/93/618/s272], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 401][/us/stat/123/401], and [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to establishment of trade adjustment assistance for communities program.
-
-    Section 2371b, [Pub. L. 93–618, title II, § 273][/us/pl/93/618/s273], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 401][/us/stat/123/401], and [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to eligibility for assistance and required notifications.
-
-    Section 2371c, [Pub. L. 93–618, title II, § 274][/us/pl/93/618/s274], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 403][/us/stat/123/403], and [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to technical assistance to eligible communities.
-
-    Section 2371d, [Pub. L. 93–618, title II, § 275][/us/pl/93/618/s275], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 403][/us/stat/123/403]; amended [Pub. L. 111–344, title I, § 101(c)(5)][/us/pl/111/344/s101/c/5], Dec. 29, 2010, [124 Stat. 3613][/us/stat/124/3613]; as added [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to grants for eligible communities.
-
-    Section 2371e, [Pub. L. 93–618, title II, § 276][/us/pl/93/618/s276], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 404][/us/stat/123/404]; amended [Pub. L. 111–344, title I, § 101(c)(6)][/us/pl/111/344/s101/c/6], Dec. 29, 2010, [124 Stat. 3613][/us/stat/124/3613]; as added [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to strategic plans.
-
-    Section 2371f, [Pub. L. 93–618, title II, § 277][/us/pl/93/618/s277], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 405][/us/stat/123/405]; amended [Pub. L. 111–344, title I, § 101(c)(7)][/us/pl/111/344/s101/c/7], Dec. 29, 2010, [124 Stat. 3613][/us/stat/124/3613]; as added [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], provided for regulations, personnel, and appropriations to carry out former subpart A.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2372.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371)
+[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2371a...2371f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371)
 
 ----------
 ----------
@@ -243,48 +229,48 @@
 [/us/usc/t19/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2296
 [/us/usc/t19/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2296
 [/us/usc/t19/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2296
-[/us/pl/93/618/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs271
-[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F406
-[/us/pl/111/344/s101/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs101%2Fc%2F8
+[/us/pl/111/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2FtI
 [/us/stat/124/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3614
-[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
-[/us/pl/112/40/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fa
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2372
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
-[/us/pl/93/618/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs271
-[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F401
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
-[/us/pl/112/40/s222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fa%2F1
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F411
-[/us/pl/93/618/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs271
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2035
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/112/40/s222/c/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fc%2F1%2FA%2Fi%2FI
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2371e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371e
 [/us/usc/t19/s2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2373
-[/us/pl/112/40/s222/c/1/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fc%2F1%2FA%2Fi%2FII
-[/us/pl/112/40/s222/c/1/A/ii/I/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fc%2F1%2FA%2Fii%2FI%2Faa
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2371e/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371e%2Fa%2F2%2FB
-[/us/pl/112/40/s222/c/1/A/ii/I/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fc%2F1%2FA%2Fii%2FI%2Fbb
-[/us/pl/112/40/s222/c/1/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fc%2F1%2FA%2Fii%2FII
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2373
-[/us/pl/112/40/s222/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fc%2F1%2FB
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2371b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371b
-[/us/pl/112/40/s222/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fb%2F1%2FA
-[/us/pl/112/40/s222/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fb%2F1%2FB
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/111/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344
-[/us/pl/112/40/s222/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fb%2F2
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F411
 [/us/usc/t19/s2371/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371%2Fe
 [/us/pl/111/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344
@@ -295,52 +281,14 @@
 [/us/pl/111/5/s1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1891
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
-[/us/pl/112/40/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fa
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
-[/us/pl/111/5/s1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1871
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F401
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t19/s2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2395
 [/us/usc/t28/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1581
 [/us/pl/93/618/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs223
 [/us/usc/t19/s2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2273
-[/us/pl/112/40/s222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fa%2F1
-[/us/stat/125/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F411
-[/us/pl/93/618/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs272
-[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
-[/us/stat/123/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F401
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
-[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
-[/us/pl/93/618/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs273
-[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
-[/us/stat/123/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F401
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
-[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
-[/us/pl/93/618/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs274
-[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
-[/us/stat/123/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F403
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
-[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
-[/us/pl/93/618/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs275
-[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
-[/us/stat/123/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F403
-[/us/pl/111/344/s101/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs101%2Fc%2F5
-[/us/stat/124/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3613
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
-[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
-[/us/pl/93/618/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs276
-[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
-[/us/stat/123/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F404
-[/us/pl/111/344/s101/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs101%2Fc%2F6
-[/us/stat/124/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3613
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
-[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
-[/us/pl/93/618/s277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs277
-[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
-[/us/stat/123/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F405
-[/us/pl/111/344/s101/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs101%2Fc%2F7
-[/us/stat/124/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3613
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
-[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 
 

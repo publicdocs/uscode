@@ -17,7 +17,7 @@
 
     To aid in the enforcement of the customs and immigration laws along the Canadian and Mexican borders and to provide better facilities for such enforcement at points along such borders at which no Federal or other buildings adapted or suitably located for the purpose are available, and for similar purposes in the Virgin Islands of the United States, the Secretary of the Treasury and the Attorney General are hereby authorized to expend, and for similar purposes in Guam the Attorney General is hereby authorized to expend, from the funds appropriated for the general maintenance and operation of the Customs and the Immigration and Naturalization Services, respectively, the necessary amounts for the acquisition of land and the erection of buildings, sheds, and office quarters, including living quarters for officers where none are otherwise available: Provided, That the total amount which may be so expended for any one project, including the site, shall not exceed $200,000 and that where the project is for the joint use of the Customs Service and the Immigration and Naturalization Service, the combined cost of the project, including the site, shall be charged to the two appropriations concerned.
 
-([June 26, 1930, ch. 617, § 1][/us/act/1930-06-26/ch617/s1], [46 Stat. 817][/us/stat/46/817]; [Oct. 10, 1940, ch. 837][/us/act/1940-10-10/ch837], [54 Stat. 1091][/us/stat/54/1091]; [Sept. 26, 1951, ch. 414][/us/act/1951-09-26/ch414], [65 Stat. 336][/us/stat/65/336]; [May 18, 1956, ch. 282][/us/act/1956-05-18/ch282], [70 Stat. 159][/us/stat/70/159]; [Pub. L. 86–466][/us/pl/86/466], May 13, 1960, [74 Stat. 130][/us/stat/74/130]; [Pub. L. 87–465][/us/pl/87/465], May 31, 1962, [76 Stat. 87][/us/stat/76/87]; [Pub. L. 89–87][/us/pl/89/87], July 24, 1965, [79 Stat. 264][/us/stat/79/264]; [Pub. L. 93–396][/us/pl/93/396], Aug. 29, 1974, [88 Stat. 794][/us/stat/88/794].)
+([June 26, 1930, ch. 617][/us/act/1930-06-26/ch617], § 1, [46 Stat. 817][/us/stat/46/817]; [Oct. 10, 1940, ch. 837][/us/act/1940-10-10/ch837], [54 Stat. 1091][/us/stat/54/1091]; [Sept. 26, 1951, ch. 414][/us/act/1951-09-26/ch414], [65 Stat. 336][/us/stat/65/336]; [May 18, 1956, ch. 282][/us/act/1956-05-18/ch282], [70 Stat. 159][/us/stat/70/159]; [Pub. L. 86–466][/us/pl/86/466], May 13, 1960, [74 Stat. 130][/us/stat/74/130]; [Pub. L. 87–465][/us/pl/87/465], May 31, 1962, [76 Stat. 87][/us/stat/76/87]; [Pub. L. 89–87][/us/pl/89/87], July 24, 1965, [79 Stat. 264][/us/stat/79/264]; [Pub. L. 93–396][/us/pl/93/396], Aug. 29, 1974, [88 Stat. 794][/us/stat/88/794].)
 
  __Amendments__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-26/ch617/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-26%2Fch617%2Fs1
+[/us/act/1930-06-26/ch617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-26%2Fch617
 [/us/stat/46/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F817
 [/us/act/1940-10-10/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch837
 [/us/stat/54/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1091

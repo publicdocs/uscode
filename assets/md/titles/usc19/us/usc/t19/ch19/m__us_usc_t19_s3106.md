@@ -45,7 +45,7 @@
 
         (2) In taking actions under section 301 \[[19 U.S.C. 2411][/us/usc/t19/s2411]\] by reason of paragraph (1), the Trade Representative shall first take those actions which most directly affect trade in telecommunications products and services with the priority foreign country referred to in paragraph (1), unless the Trade Representative determines that actions against other economic sectors would be more effective in achieving compliance by the foreign country with the trade agreement that is the subject of the affirmative determination made under subsection (a)(2).
 
-([Pub. L. 100–418, title I, § 1377][/us/pl/100/418/s1377], Aug. 23, 1988, [102 Stat. 1222][/us/stat/102/1222].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1377, Aug. 23, 1988, [102 Stat. 1222][/us/stat/102/1222].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
 [/us/usc/t19/s2414/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414%2Fa%2F1%2FA
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
-[/us/pl/100/418/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1377
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1222
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

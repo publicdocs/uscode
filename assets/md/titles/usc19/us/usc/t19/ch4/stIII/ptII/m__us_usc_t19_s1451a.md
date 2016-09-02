@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1451.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1451a)
 
-## § 1451a. Repealed. [Pub. L. 103–66, title XIII, § 13811(b)(1)][/us/pl/103/66/s13811/b/1], Aug. 10, 1993, [107 Stat. 670][/us/stat/107/670]
+## § 1451a. Repealed. [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13811(b)(1), Aug. 10, 1993, [107 Stat. 670][/us/stat/107/670]
 
-    Section, [act June 3, 1944, ch. 233, § 2][/us/act/1944-06-03/ch233/s2], [58 Stat. 270][/us/stat/58/270], provided that certain extra compensation of customs officers and employees assigned to performance of inspectional services in connection with traffic over highways, toll bridges, etc. on Sundays or holidays prior to June 3, 1944, was to be payable by the U.S. without reimbursement by the applicant for such services and that any reimbursement which had accrued and been collected since Jan. 6, 1941, was to be refunded.
+    Section, [act June 3, 1944, ch. 233][/us/act/1944-06-03/ch233], § 2, [58 Stat. 270][/us/stat/58/270], provided that certain extra compensation of customs officers and employees assigned to performance of inspectional services in connection with traffic over highways, toll bridges, etc. on Sundays or holidays prior to June 3, 1944, was to be payable by the U.S. without reimbursement by the applicant for such services and that any reimbursement which had accrued and been collected since Jan. 6, 1941, was to be refunded.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13811/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13811%2Fb%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F670
-[/us/act/1944-06-03/ch233/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-03%2Fch233%2Fs2
+[/us/act/1944-06-03/ch233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-03%2Fch233
 [/us/stat/58/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F270
 [/us/pl/103/66/s13811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13811%2Fc
 [/us/usc/t19/s267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs267

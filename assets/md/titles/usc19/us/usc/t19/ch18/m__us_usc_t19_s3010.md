@@ -55,7 +55,7 @@
 
         (2) subject to applicable copyright laws, the Explanatory Notes, Classification Opinions, and other instruments of the Customs Cooperation Council relating to the Convention.
 
-([Pub. L. 100–418, title I, § 1210][/us/pl/100/418/s1210], Aug. 23, 1988, [102 Stat. 1152][/us/stat/102/1152]; [Pub. L. 104–295, § 21(e)(10)][/us/pl/104/295/s21/e/10], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1210, Aug. 23, 1988, [102 Stat. 1152][/us/stat/102/1152]; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(10), Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 
 [/us/usc/t19/s3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3009
 [/us/usc/t19/s1484/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484%2Ff
-[/us/pl/100/418/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1210
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1152
-[/us/pl/104/295/s21/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F10
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3531
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 

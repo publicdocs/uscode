@@ -17,7 +17,7 @@
 
     It shall be lawful for collecting officers to receive certified checks drawn on National and State banks and trust companies, during such time and under such regulations as the Secretary of the Treasury may prescribe, in payment for duties on imports, and all public dues, including special customs deposits. No person, however, who may be indebted to the United States on account of duties on imports who shall have tendered a certified check or checks as provisional payment for such duties or taxes, in accordance with the terms of this section, shall be released from the obligation to make ultimate payment thereof until such certified check so received has been duly paid; and if any such check so received is not duly paid by the bank on which it is drawn and so certifying the United States shall, in addition to its right to exact payment from the party originally indebted therefor, have a lien for the amount of such check upon all the assets of such bank; and such amount shall be paid out of its assets in preference to any or all other claims whatsoever against said bank, except the necessary costs and expenses of administration and the reimbursement of the United States for the amount expended in the redemption of the circulating notes of such bank.
 
-([Mar. 2, 1911, ch. 191, § 1][/us/act/1911-03-02/ch191/s1], [36 Stat. 965][/us/stat/36/965]; [Mar. 3, 1913, ch. 119][/us/act/1913-03-03/ch119], [37 Stat. 733][/us/stat/37/733].)
+([Mar. 2, 1911, ch. 191][/us/act/1911-03-02/ch191], § 1, [36 Stat. 965][/us/stat/36/965]; [Mar. 3, 1913, ch. 119][/us/act/1913-03-03/ch119], [37 Stat. 733][/us/stat/37/733].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1911-03-02/ch191/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-02%2Fch191%2Fs1
+[/us/act/1911-03-02/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-02%2Fch191
 [/us/stat/36/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F965
 [/us/act/1913-03-03/ch119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-03%2Fch119
 [/us/stat/37/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F733

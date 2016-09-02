@@ -61,7 +61,7 @@
 
             (B) may make such information available to any other person in a form which cannot be associated with, or otherwise identify, the person providing the information.
 
-([Pub. L. 93–618, title III, § 308][/us/pl/93/618/s308], as added [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1175][/us/stat/102/1175].)
+([Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 308, as added [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(a), Aug. 23, 1988, [102 Stat. 1175][/us/stat/102/1175].)
 
  __Effective Date__ 
 
@@ -75,8 +75,8 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/93/618/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs308
-[/us/pl/100/418/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fa
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1175
 [/us/usc/t19/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412
 [/us/usc/t19/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414

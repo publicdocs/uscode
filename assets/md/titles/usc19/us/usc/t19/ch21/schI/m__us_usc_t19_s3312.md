@@ -89,7 +89,7 @@
 
         (2) may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State on the ground that such action or inaction is inconsistent with the Agreement, the North American Agreement on Environmental Cooperation, or the North American Agreement on Labor Cooperation.
 
-([Pub. L. 103–182, title I, § 102][/us/pl/103/182/s102], Dec. 8, 1993, [107 Stat. 2062][/us/stat/107/2062].)
+([Pub. L. 103–182, title I][/us/pl/103/182/tI], § 102, Dec. 8, 1993, [107 Stat. 2062][/us/stat/107/2062].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
 [/us/usc/t19/s2114c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2114c%2F2%2FA
-[/us/pl/103/182/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs102
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2062
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057

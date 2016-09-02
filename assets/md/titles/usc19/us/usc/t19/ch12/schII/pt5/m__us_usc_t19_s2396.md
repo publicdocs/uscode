@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 93–618, title II, § 286][/us/pl/93/618/s286], as added [Pub. L. 100–418, title I, § 1427(a)][/us/pl/100/418/s1427/a], Aug. 23, 1988, [102 Stat. 1251][/us/stat/102/1251], which established the Trade Adjustment Assistance Trust Fund, did not become effective pursuant to [section 1430(c) of Pub. L. 100–418][/us/pl/100/418/s1430/c], set out as an Effective Date note under [section 2397 of this title][/us/usc/t19/s2397].
+    Section, [Pub. L. 93–618, title II][/us/pl/93/618/tII], § 286, as added [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1427(a), Aug. 23, 1988, [102 Stat. 1251][/us/stat/102/1251], which established the Trade Adjustment Assistance Trust Fund, did not become effective pursuant to [section 1430(c) of Pub. L. 100–418][/us/pl/100/418/s1430/c], set out as an Effective Date note under [section 2397 of this title][/us/usc/t19/s2397].
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/618/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs286
-[/us/pl/100/418/s1427/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1427%2Fa
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1251
 [/us/pl/100/418/s1430/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1430%2Fc
 [/us/usc/t19/s2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2397

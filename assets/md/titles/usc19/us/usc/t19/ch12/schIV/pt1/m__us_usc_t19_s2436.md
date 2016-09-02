@@ -79,11 +79,11 @@
 
                 (iv) evidence of disruptive pricing practices, or other efforts to unfairly manage trade patterns.
 
-([Pub. L. 93–618, title IV, § 406][/us/pl/93/618/s406], Jan. 3, 1975, [88 Stat. 2062][/us/stat/88/2062]; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381]; [Pub. L. 100–418, title I, § 1411(a)][/us/pl/100/418/s1411/a], (b), Aug. 23, 1988, [102 Stat. 1241][/us/stat/102/1241], 1242; [Pub. L. 106–36, title I, § 1001(a)(6)][/us/pl/106/36/s1001/a/6], June 25, 1999, [113 Stat. 130][/us/stat/113/130].)
+([Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 406, Jan. 3, 1975, [88 Stat. 2062][/us/stat/88/2062]; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1411(a), (b), Aug. 23, 1988, [102 Stat. 1241][/us/stat/102/1241], 1242; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(a)(6), June 25, 1999, [113 Stat. 130][/us/stat/113/130].)
 
  __References in Text__ 
 
-    Subsection (b)(4) of [section 2252 of this title][/us/usc/t19/s2252], referred to in subsec. (a)(2), was repealed by [Pub. L. 103–465, title III, § 301(c)][/us/pl/103/465/s301/c], Dec. 8, 1994, [108 Stat. 4932][/us/stat/108/4932]. See [section 2252(b)(3) of this title][/us/usc/t19/s2252/b/3].
+    Subsection (b)(4) of [section 2252 of this title][/us/usc/t19/s2252], referred to in subsec. (a)(2), was repealed by [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 301(c), Dec. 8, 1994, [108 Stat. 4932][/us/stat/108/4932]. See [section 2252(b)(3) of this title][/us/usc/t19/s2252/b/3].
 
     The date of the enactment of the Omnibus Trade and Competitiveness Act of 1988, referred to in subsec. (b), is the date of enactment of [Pub. L. 100–418][/us/pl/100/418], which was approved Aug. 23, 1988.
 
@@ -93,19 +93,19 @@
 
     1999—Subsec. (e)(2)(B), (C). [Pub. L. 106–36][/us/pl/106/36] realigned margins.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–418, § 1411(b)(1)][/us/pl/100/418/s1411/b/1], substituted “section 2252(a)” for “section 2251(a)(1)”.
+    1988—Subsec. (a)(1). [Pub. L. 100–418][/us/pl/100/418], § 1411(b)(1), substituted “section 2252(a)” for “section 2251(a)(1)”.
 
-    Subsec. (a)(2). [Pub. L. 100–418, § 1411(b)(2)][/us/pl/100/418/s1411/b/2], substituted “subsections (a)(3), (b)(4), and (c)(4) of section 2252” for “subsections (a)(2), (b)(3), and (c) of section 2251”.
+    Subsec. (a)(2). [Pub. L. 100–418][/us/pl/100/418], § 1411(b)(2), substituted “subsections (a)(3), (b)(4), and (c)(4) of section 2252” for “subsections (a)(2), (b)(3), and (c) of section 2251”.
 
-    Subsec. (b). [Pub. L. 100–418, § 1411(a)(1)][/us/pl/100/418/s1411/a/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of sections 2252 and 2253 of this title, an affirmative determination of the Commission under subsection (a) of this section shall be treated as an affirmative determination under [section 2251(b) of this title][/us/usc/t19/s2251/b], except that—
+    Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 1411(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of sections 2252 and 2253 of this title, an affirmative determination of the Commission under subsection (a) of this section shall be treated as an affirmative determination under [section 2251(b) of this title][/us/usc/t19/s2251/b], except that—
 
     “(1) the President may take action under sections 2252 and 2253 of this title only with respect to imports from the country or countries involved of the article with respect to which the affirmative determination was made, and
 
     “(2) if such action consists of, or includes, an orderly marketing agreement, such agreement shall be entered into within 60 days after the import relief determination date.”
 
-    Subsec. (c). [Pub. L. 100–418, § 1411(a)(2)][/us/pl/100/418/s1411/a/2], inserted “referred to in subsection (b)” after “sections 2252 and 2253 of this title”.
+    Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1411(a)(2), inserted “referred to in subsection (b)” after “sections 2252 and 2253 of this title”.
 
-    Subsec. (e)(2). [Pub. L. 100–418, § 1411(a)(3)][/us/pl/100/418/s1411/a/3], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+    Subsec. (e)(2). [Pub. L. 100–418][/us/pl/100/418], § 1411(a)(3), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
  __Change of Name__ 
 
@@ -113,7 +113,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–418, title I, § 1411(c)][/us/pl/100/418/s1411/c], Aug. 23, 1988, [102 Stat. 1242][/us/stat/102/1242], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1411(c), Aug. 23, 1988, [102 Stat. 1242][/us/stat/102/1242], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] apply with respect to investigations initiated under section 406(a) of the Trade Act of 1974 \[[19 U.S.C. 2436(a)][/us/usc/t19/s2436/a]\] on or after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
@@ -129,15 +129,15 @@
 [/us/usc/t19/s2251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251%2Fb
 [/us/usc/t19/s2251/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251%2Fa%2F1
 [/us/usc/t19/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2435
-[/us/pl/93/618/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs406
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2062
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
-[/us/pl/100/418/s1411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1411%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1241
-[/us/pl/106/36/s1001/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fa%2F6
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F130
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
-[/us/pl/103/465/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs301%2Fc
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4932
 [/us/usc/t19/s2252/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fb%2F3
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
@@ -146,17 +146,17 @@
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
-[/us/pl/100/418/s1411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1411%2Fb%2F1
-[/us/pl/100/418/s1411/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1411%2Fb%2F2
-[/us/pl/100/418/s1411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1411%2Fa%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251%2Fb
-[/us/pl/100/418/s1411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1411%2Fa%2F2
-[/us/pl/100/418/s1411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1411%2Fa%2F3
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
-[/us/pl/100/418/s1411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1411%2Fc
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1242
 [/us/usc/t19/s2436/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2436%2Fa
 

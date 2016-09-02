@@ -31,11 +31,11 @@
 
         (2) increasing any rate of duty to (or imposing) a rate more than 50 percent above the rate existing on July 1, 1934.
 
-([Pub. L. 87–794, title II, § 201][/us/pl/87/794/s201], Oct. 11, 1962, [76 Stat. 872][/us/stat/76/872].)
+([Pub. L. 87–794, title II][/us/pl/87/794/tII], § 201, Oct. 11, 1962, [76 Stat. 872][/us/stat/76/872].)
 
  __Wood-Wind and Parts of Wood-Wind Instruments__ 
 
-[Pub. L. 90–234, § 2(b)(2)][/us/pl/90/234/s2/b/2], Dec. 30, 1967, [81 Stat. 752][/us/stat/81/752], provided that: 
+[Pub. L. 90–234][/us/pl/90/234], § 2(b)(2), Dec. 30, 1967, [81 Stat. 752][/us/stat/81/752], provided that: 
 
 > “The amendments made by the first section of this Act, insofar as such amendments relate to items 725.24 and 726.70 of the Tariff Schedules of the United States, shall not affect the authority of the President contained in section 201(a)(2) of the Trade Expansion Act of 1962 \[subsec. (a)(2) of this section\].”
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t19/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801
-[/us/pl/87/794/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs201
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F872
-[/us/pl/90/234/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F234%2Fs2%2Fb%2F2
+[/us/pl/90/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F234
 [/us/stat/81/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F752
 [/us/usc/t19/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1823
 

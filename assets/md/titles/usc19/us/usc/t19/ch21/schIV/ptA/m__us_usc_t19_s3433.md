@@ -41,7 +41,7 @@
 
         The committee may order testimony to be taken by deposition at any stage of the committee review. Such deposition may be taken before any person designated by the committee and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under the direction of such person, and shall then be subscribed by the deponent. Any individual, partnership, corporation, association, organization, or other entity may be compelled to appear and be deposed and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the committee, as provided in this section.
 
-([Pub. L. 103–182, title IV, § 403][/us/pl/103/182/s403], Dec. 8, 1993, [107 Stat. 2136][/us/stat/107/2136].)
+([Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 403, Dec. 8, 1993, [107 Stat. 2136][/us/stat/107/2136].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs403
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2136
 
 

@@ -17,7 +17,7 @@
 
     If any passenger is unladen from any vessel or vehicle without a special license or permit therefor issued by the appropriate customs officer, the master of such vessel or the person in charge of such vehicle and every other person who knowingly is concerned, or who aids therein, shall each be liable to a penalty of $1,000 for the first passenger and $500 for each additional such passenger so unladen.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 454, [46 Stat. 716][/us/stat/46/716]; [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 99–570, title III, § 3114][/us/pl/99/570/s3114], Oct. 27, 1986, [100 Stat. 3207–82][/us/stat/100/3207-82].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 454, [46 Stat. 716][/us/stat/46/716]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(b), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3114, Oct. 27, 1986, [100 Stat. 3207–82][/us/stat/100/3207-82].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F716
-[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/99/570/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3114
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-82
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

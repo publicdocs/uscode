@@ -17,7 +17,7 @@
 
     The Secretary, after consultation with the Secretary of State, by regulation shall promulgate, and thereafter when appropriate shall revise, a list of stone carvings and wall art which are pre-Columbian monumental or architectural sculpture or murals within the meaning of paragraph (3) of [section 2095 of this title][/us/usc/t19/s2095]. Such stone carvings and wall art may be listed by type or other classification deemed appropriate by the Secretary.
 
-([Pub. L. 92–587, title II, § 201][/us/pl/92/587/s201], Oct. 27, 1972, [86 Stat. 1297][/us/stat/86/1297].)
+([Pub. L. 92–587, title II][/us/pl/92/587/tII], § 201, Oct. 27, 1972, [86 Stat. 1297][/us/stat/86/1297].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t19/s2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2095
-[/us/pl/92/587/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2Fs201
+[/us/pl/92/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2FtII
 [/us/stat/86/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1297
 
 

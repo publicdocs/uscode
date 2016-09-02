@@ -27,7 +27,7 @@
 
         The Assistant United States Trade Representative for Small Business, Market Access, and Industrial Competitiveness shall be responsible for ensuring that the interests of small businesses are considered in all trade negotiations in accordance with the objective described in [section 4201(a)(8) of this title][/us/usc/t19/s4201/a/8].
 
-([Pub. L. 114–26, title I, § 109][/us/pl/114/26/s109], June 29, 2015, [129 Stat. 356][/us/stat/129/356].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 109, June 29, 2015, [129 Stat. 356][/us/stat/129/356].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t19/s4201/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fa%2F8
-[/us/pl/114/26/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs109
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F356
 
 

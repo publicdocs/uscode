@@ -21,9 +21,9 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 458, [42 Stat. 956][/us/stat/42/956]. That section was superseded by section 458 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 458, [42 Stat. 956][/us/stat/42/956]. That section was superseded by section 458 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions somewhat similar to those in this section, but applicable only to vessels laden with specified articles, were contained in R.S. § 2881, as amended by [act June 3, 1892, ch. 86, § 2][/us/act/1892-06-03/ch86/s2], [27 Stat. 41][/us/stat/27/41], prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions somewhat similar to those in this section, but applicable only to vessels laden with specified articles, were contained in R.S. § 2881, as amended by [act June 3, 1892, ch. 86][/us/act/1892-06-03/ch86], § 2, [27 Stat. 41][/us/stat/27/41], prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
 ----------
 
@@ -34,11 +34,11 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F717
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F956
-[/us/act/1892-06-03/ch86/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-06-03%2Fch86%2Fs2
+[/us/act/1892-06-03/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-06-03%2Fch86
 [/us/stat/27/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F41
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 
 

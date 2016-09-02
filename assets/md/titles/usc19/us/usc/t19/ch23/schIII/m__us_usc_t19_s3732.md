@@ -45,7 +45,7 @@
 
         (6) encouraging greater sub-Saharan African participation in future negotiations in the World Trade Organization on services and making further commitments in their schedules to the General Agreement on Trade in Services in order to encourage the removal of tariff and nontariff barriers.
 
-([Pub. L. 106–200, title I, § 122][/us/pl/106/200/s122], May 18, 2000, [114 Stat. 268][/us/stat/114/268].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 122, May 18, 2000, [114 Stat. 268][/us/stat/114/268].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/106/200/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs122
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F268
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252

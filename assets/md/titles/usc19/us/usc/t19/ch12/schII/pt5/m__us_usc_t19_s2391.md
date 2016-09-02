@@ -27,7 +27,7 @@
 
         In carrying out his responsibilities under this section, the Comptroller General shall, to the extent practical, avail himself of the assistance of the Departments of Labor and Commerce. The Secretaries of Labor and Commerce shall make available to the Comptroller General any assistance necessary for an effective evaluation of the adjustment assistance programs established under this subchapter.
 
-([Pub. L. 93–618, title II, § 280][/us/pl/93/618/s280], Jan. 3, 1975, [88 Stat. 2040][/us/stat/88/2040].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 280, Jan. 3, 1975, [88 Stat. 2040][/us/stat/88/2040].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/618/s280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs280
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2040
 
 

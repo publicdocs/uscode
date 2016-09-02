@@ -43,11 +43,11 @@
 
         (2) the Government of such country exchanges notes with the United States providing for the entry into force of the North American Agreement on Environmental Cooperation and the North American Agreement on Labor Cooperation for that country and the United States.
 
-([Pub. L. 103–182, title I, § 101][/us/pl/103/182/s101], Dec. 8, 1993, [107 Stat. 2061][/us/stat/107/2061].)
+([Pub. L. 103–182, title I][/us/pl/103/182/tI], § 101, Dec. 8, 1993, [107 Stat. 2061][/us/stat/107/2061].)
 
  __Effective Date; Termination of NAFTA Status__ 
 
-[Pub. L. 103–182, title I, § 109][/us/pl/103/182/s109], Dec. 8, 1993, [107 Stat. 2067][/us/stat/107/2067], provided that:
+[Pub. L. 103–182, title I][/us/pl/103/182/tI], § 109, Dec. 8, 1993, [107 Stat. 2067][/us/stat/107/2067], provided that:
 
 >     “(a) __Effective Dates.—__ 
 
@@ -264,9 +264,9 @@ Sec. 4. Publication of Proposed Rules regarding Technical Regulations and Sanita
 
 [/us/usc/t19/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903
 [/us/usc/t19/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191
-[/us/pl/103/182/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs101
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2061
-[/us/pl/103/182/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs109
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2067
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112

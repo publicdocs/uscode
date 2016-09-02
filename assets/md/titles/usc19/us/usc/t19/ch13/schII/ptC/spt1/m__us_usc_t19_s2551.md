@@ -17,7 +17,7 @@
 
     Except as provided under this subpart, the provisions of this part do not create any right of action under the laws of the United States with respect to allegations that any standards-related activity engaged in within the United States violates the obligations of the United States under the Agreement.
 
-([Pub. L. 96–39, title IV, § 421][/us/pl/96/39/s421], July 26, 1979, [93 Stat. 247][/us/stat/93/247].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 421, July 26, 1979, [93 Stat. 247][/us/stat/93/247].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/39/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs421
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F247
 
 

@@ -27,7 +27,7 @@
 
         At such time as the President determines that countries listed in subsection (a)(1) have taken measures necessary to comply with the provisions of the Agreement that are to take effect on the date on which the Agreement enters into force, the President is authorized to provide for the Agreement to enter into force with respect to those countries that provide for the Agreement to enter into force for them.
 
-([Pub. L. 109–53, title I, § 101][/us/pl/109/53/s101], Aug. 2, 2005, [119 Stat. 464][/us/stat/119/464].)
+([Pub. L. 109–53, title I][/us/pl/109/53/tI], § 101, Aug. 2, 2005, [119 Stat. 464][/us/stat/119/464].)
 
  __Termination of Section__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
 [/us/usc/t19/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191
-[/us/pl/109/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs101
+[/us/pl/109/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtI
 [/us/stat/119/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F464
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

@@ -73,7 +73,7 @@
 
             For purposes of this subsection, the term “country” means a foreign country or territory, including any overseas dependent territory or possession of a foreign country.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 592A, as added [Pub. L. 103–465, title III, § 333][/us/pl/103/465/s333], Dec. 8, 1994, [108 Stat. 4947][/us/stat/108/4947]; amended [Pub. L. 104–295, § 20(c)(3)][/us/pl/104/295/s20/c/3], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 592A, as added [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 333, Dec. 8, 1994, [108 Stat. 4947][/us/stat/108/4947]; amended [Pub. L. 104–295][/us/pl/104/295], § 20(c)(3), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
 
  __Amendments__ 
 
@@ -99,9 +99,9 @@
 [/us/usc/t19/s1484/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484%2Fa
 [/us/usc/t19/s1484/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484%2Fa
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/465/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs333
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4947
-[/us/pl/104/295/s20/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F3
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs335

@@ -19,13 +19,13 @@
 
     Pending such disposition, the property shall be stored in such place as, in the customs officer’s opinion, is most convenient and appropriate with due regard to the expense involved, whether or not the place of storage is within the judicial district or the customs collection district in which the property was seized; and storage of the property outside the judicial district or customs collection district in which it was seized shall in no way affect the jurisdiction of the court which would otherwise have jurisdiction over such property.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 605, [46 Stat. 754][/us/stat/46/754]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title V, § 505, [68 Stat. 1141][/us/stat/68/1141]; [Pub. L. 91–271, title III, § 301(cc)][/us/pl/91/271/s301/cc], June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 98–473, title II, § 321][/us/pl/98/473/s321], Oct. 12, 1984, [98 Stat. 2056][/us/stat/98/2056]; [Pub. L. 98–573, title II, § 213(a)(2)][/us/pl/98/573/s213/a/2], Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 605, [46 Stat. 754][/us/stat/46/754]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title V, § 505, [68 Stat. 1141][/us/stat/68/1141]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(cc), June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 321, Oct. 12, 1984, [98 Stat. 2056][/us/stat/98/2056]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 213(a)(2), Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 605, [42 Stat. 985][/us/stat/42/985]. That section was superseded by section 605 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 605, [42 Stat. 985][/us/stat/42/985]. That section was superseded by section 605 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions substantially similar to those in this section so far as it relates to merchandise or property seized under the customs laws, were contained in R.S. § 3086, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions substantially similar to those in this section so far as it relates to merchandise or property seized under the customs laws, were contained in R.S. § 3086, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -54,15 +54,15 @@
 [/us/stat/46/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F754
 [/us/act/1954-09-01/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213
 [/us/stat/68/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1141
-[/us/pl/91/271/s301/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fcc
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F291
-[/us/pl/98/473/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs321
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2056
-[/us/pl/98/573/s213/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs213%2Fa%2F2
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2984
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F985
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

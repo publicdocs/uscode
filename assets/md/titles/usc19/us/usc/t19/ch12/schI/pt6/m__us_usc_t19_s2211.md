@@ -67,7 +67,7 @@
 
         When necessary, meetings shall be held with each Committee 1 in executive session to review matters under negotiation.
 
-([Pub. L. 93–618, title I, § 161][/us/pl/93/618/s161], Jan. 3, 1975, [88 Stat. 2008][/us/stat/88/2008]; [Pub. L. 96–39, § 3(e)][/us/pl/96/39/s3/e], July 26, 1979, [93 Stat. 150][/us/stat/93/150]; [Pub. L. 100–418, title I, § 1632][/us/pl/100/418/s1632], Aug. 23, 1988, [102 Stat. 1269][/us/stat/102/1269].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 161, Jan. 3, 1975, [88 Stat. 2008][/us/stat/88/2008]; [Pub. L. 96–39][/us/pl/96/39], § 3(e), July 26, 1979, [93 Stat. 150][/us/stat/93/150]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1632, Aug. 23, 1988, [102 Stat. 1269][/us/stat/102/1269].)
 
  __Amendments__ 
 
@@ -82,11 +82,11 @@
 ----------
 ----------
 
-[/us/pl/93/618/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs161
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2008
-[/us/pl/96/39/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs3%2Fe
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F150
-[/us/pl/100/418/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1632
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1269
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39

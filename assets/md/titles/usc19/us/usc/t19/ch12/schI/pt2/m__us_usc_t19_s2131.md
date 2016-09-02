@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated annually such sums as may be necessary for the payment by the United States of its share of the expenses of the Contracting Parties to the General Agreement on Tariffs and Trade. This authorization does not imply approval or disapproval by the Congress of all articles of the General Agreement on Tariffs and Trade.
 
-([Pub. L. 93–618, title I, § 121][/us/pl/93/618/s121], Jan. 3, 1975, [88 Stat. 1986][/us/stat/88/1986]; [Pub. L. 96–39, title XI, § 1106(c)(2)][/us/pl/96/39/s1106/c/2], July 26, 1979, [93 Stat. 311][/us/stat/93/311]; [Pub. L. 100–418, title I, § 1107(b)(2)][/us/pl/100/418/s1107/b/2], Aug. 23, 1988, [102 Stat. 1135][/us/stat/102/1135]; [Pub. L. 100–647, title IX, § 9001(a)(1)][/us/pl/100/647/s9001/a/1], Nov. 10, 1988, [102 Stat. 3806][/us/stat/102/3806].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 121, Jan. 3, 1975, [88 Stat. 1986][/us/stat/88/1986]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(c)(2), July 26, 1979, [93 Stat. 311][/us/stat/93/311]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1107(b)(2), Aug. 23, 1988, [102 Stat. 1135][/us/stat/102/1135]; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(1), Nov. 10, 1988, [102 Stat. 3806][/us/stat/102/3806].)
 
  __Amendments__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/93/618/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs121
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1986
-[/us/pl/96/39/s1106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fc%2F2
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F311
-[/us/pl/100/418/s1107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1107%2Fb%2F2
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1135
-[/us/pl/100/647/s9001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F1
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3806
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

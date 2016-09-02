@@ -31,13 +31,13 @@
 
         If duties, fees, and interest determined to be due or refunded are not paid in full within the 30-day period specified in subsection (b), any unpaid balance shall be considered delinquent and bear interest by 30-day periods, at a rate determined by the Secretary, from the date of liquidation or reliquidation until the full balance is paid. No interest shall accrue during the 30-day period in which payment is actually made.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 505, [46 Stat. 732][/us/stat/46/732]; [Pub. L. 91–271, title II, § 204(c)][/us/pl/91/271/s204/c], June 2, 1970, [84 Stat. 283][/us/stat/84/283]; [Pub. L. 95–410, title I, § 103][/us/pl/95/410/s103], Oct. 3, 1978, [92 Stat. 889][/us/stat/92/889]; [Pub. L. 97–446, title II, § 201(e)][/us/pl/97/446/s201/e], Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350]; [Pub. L. 98–573, title II, § 210(a)][/us/pl/98/573/s210/a], Oct. 30, 1984, [98 Stat. 2977][/us/stat/98/2977]; [Pub. L. 103–182, title VI, § 642(a)][/us/pl/103/182/s642/a], Dec. 8, 1993, [107 Stat. 2205][/us/stat/107/2205]; [Pub. L. 104–295, § 2(a)][/us/pl/104/295/s2/a], Oct. 11, 1996, [110 Stat. 3515][/us/stat/110/3515]; [Pub. L. 106–36, title II, § 2418(e)][/us/pl/106/36/s2418/e], June 25, 1999, [113 Stat. 177][/us/stat/113/177]; [Pub. L. 106–476, title I, § 1451][/us/pl/106/476/s1451], Nov. 9, 2000, [114 Stat. 2167][/us/stat/114/2167]; [Pub. L. 107–210, div. A, title III, § 383][/us/pl/107/210/s383], Aug. 6, 2002, [116 Stat. 992][/us/stat/116/992]; [Pub. L. 108–429, title II, § 2004(c)][/us/pl/108/429/s2004/c], Dec. 3, 2004, [118 Stat. 2592][/us/stat/118/2592].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 505, [46 Stat. 732][/us/stat/46/732]; [Pub. L. 91–271, title II][/us/pl/91/271/tII], § 204(c), June 2, 1970, [84 Stat. 283][/us/stat/84/283]; [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 103, Oct. 3, 1978, [92 Stat. 889][/us/stat/92/889]; [Pub. L. 97–446, title II][/us/pl/97/446/tII], § 201(e), Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 210(a), Oct. 30, 1984, [98 Stat. 2977][/us/stat/98/2977]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 642(a), Dec. 8, 1993, [107 Stat. 2205][/us/stat/107/2205]; [Pub. L. 104–295][/us/pl/104/295], § 2(a), Oct. 11, 1996, [110 Stat. 3515][/us/stat/110/3515]; [Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2418(e), June 25, 1999, [113 Stat. 177][/us/stat/113/177]; [Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1451, Nov. 9, 2000, [114 Stat. 2167][/us/stat/114/2167]; [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 383, Aug. 6, 2002, [116 Stat. 992][/us/stat/116/992]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(c), Dec. 3, 2004, [118 Stat. 2592][/us/stat/118/2592].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 504, [42 Stat. 967][/us/stat/42/967]. That section was superseded by section 505 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 504, [42 Stat. 967][/us/stat/42/967]. That section was superseded by section 505 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    A prior provision that the collector or person acting as such should ascertain, fix, and liquidate the rate and amount of duties, and the dutiable costs and charges, was contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, M, [38 Stat. 186][/us/stat/38/186], the provisions of which were substituted for provisions of the same nature contained in the Customs Administrative [Act of June 10, 1890, ch. 407, § 13][/us/act/1890-06-10/ch407/s13], [26 Stat. 136][/us/stat/26/136], as amended by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 99][/us/stat/36/99].
+    A prior provision that the collector or person acting as such should ascertain, fix, and liquidate the rate and amount of duties, and the dutiable costs and charges, was contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, M, [38 Stat. 186][/us/stat/38/186], the provisions of which were substituted for provisions of the same nature contained in the Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 13, [26 Stat. 136][/us/stat/26/136], as amended by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 99][/us/stat/36/99].
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–295, § 2(b)][/us/pl/104/295/s2/b], Oct. 11, 1996, [110 Stat. 3515][/us/stat/110/3515], provided that: 
+[Pub. L. 104–295][/us/pl/104/295], § 2(b), Oct. 11, 1996, [110 Stat. 3515][/us/stat/110/3515], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to claims made pursuant to section 520(d) of the Tariff Act of 1930 ([19 U.S.C. 1520(d)][/us/usc/t19/s1520/d]) on or after June 7, 1996.”
 
@@ -105,33 +105,33 @@
 [/us/usc/t19/s1520/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520%2Fd
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F732
-[/us/pl/91/271/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs204%2Fc
+[/us/pl/91/271/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtII
 [/us/stat/84/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F283
-[/us/pl/95/410/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs103
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F889
-[/us/pl/97/446/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fe
+[/us/pl/97/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtII
 [/us/stat/96/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2350
-[/us/pl/98/573/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs210%2Fa
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2977
-[/us/pl/103/182/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs642%2Fa
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2205
-[/us/pl/104/295/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs2%2Fa
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3515
-[/us/pl/106/36/s2418/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2418%2Fe
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F177
-[/us/pl/106/476/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1451
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2167
-[/us/pl/107/210/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs383
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F992
-[/us/pl/108/429/s2004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fc
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2592
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F967
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F186
-[/us/act/1890-06-10/ch407/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs13
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F136
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F99
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
@@ -153,7 +153,7 @@
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/106/36/s2418/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2418%2Ff
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
-[/us/pl/104/295/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs2%2Fb
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3515
 [/us/usc/t19/s1520/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520%2Fd
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573

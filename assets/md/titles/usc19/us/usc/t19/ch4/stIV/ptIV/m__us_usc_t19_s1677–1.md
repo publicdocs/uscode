@@ -41,23 +41,23 @@
 
         If the administering authority decides, during the course of a countervailing duty proceeding that an upstream countervailable subsidy is being or has been paid or bestowed regarding the subject merchandise, the administering authority shall include in the amount of any countervailing duty imposed on the merchandise an amount equal to the amount of the competitive benefit referred to in subparagraph (1)(B), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (a)(2) of this section,”. </sup></sup>  except that in no event shall the amount be greater than the amount of the countervailable subsidy determined with respect to the upstream product.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771A, as added [Pub. L. 98–573, title VI, § 613(a)][/us/pl/98/573/s613/a], Oct. 30, 1984, [98 Stat. 3035][/us/stat/98/3035]; amended [Pub. L. 99–514, title XVIII, § 1886(a)(10)][/us/pl/99/514/s1886/a/10], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 233(a)(5)(GG), 268, 270(a)(1)(K), (L), (2)(B), (c)(3), Dec. 8, 1994, [108 Stat. 4901][/us/stat/108/4901], 4916, 4917; [Pub. L. 104–295, § 20(b)(2)][/us/pl/104/295/s20/b/2], Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771A, as added [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 613(a), Oct. 30, 1984, [98 Stat. 3035][/us/stat/98/3035]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(10), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 233(a)(5)(GG), 268, 270(a)(1)(K), (L), (2)(B), (c)(3), Dec. 8, 1994, [108 Stat. 4901][/us/stat/108/4901], 4916, 4917; [Pub. L. 104–295][/us/pl/104/295], § 20(b)(2), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–295][/us/pl/104/295] amended directory language of [Pub. L. 103–465, § 270(a)(2)(B)][/us/pl/103/465/s270/a/2/B]. See 1994 Amendment note below.
+    1996—Subsec. (c). [Pub. L. 104–295][/us/pl/104/295] amended directory language of [Pub. L. 103–465][/us/pl/103/465], § 270(a)(2)(B). See 1994 Amendment note below.
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 268][/us/pl/103/465/s268], inserted introductory provisions and struck out former introductory provisions which read as follows: “The term ‘upstream subsidy’ means any subsidy described in section 1677(5)(B)(i), (ii), (iii), or (iv) of this title by the government of a country that—”, and in concluding provisions, inserted “countervailable” before “subsidy”.
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 268, inserted introductory provisions and struck out former introductory provisions which read as follows: “The term ‘upstream subsidy’ means any subsidy described in section 1677(5)(B)(i), (ii), (iii), or (iv) of this title by the government of a country that—”, and in concluding provisions, inserted “countervailable” before “subsidy”.
 
-    Subsec. (a)(1). [Pub. L. 103–465, § 268(1)][/us/pl/103/465/s268/1], added par. (1) and struck out former par. (1) which read as follows: “is paid or bestowed by that government with respect to a product (hereafter referred to as an ‘input product’) that is used in the manufacture or production in that country of merchandise which is the subject of a countervailing duty proceeding;”.
+    Subsec. (a)(1). [Pub. L. 103–465][/us/pl/103/465], § 268(1), added par. (1) and struck out former par. (1) which read as follows: “is paid or bestowed by that government with respect to a product (hereafter referred to as an ‘input product’) that is used in the manufacture or production in that country of merchandise which is the subject of a countervailing duty proceeding;”.
 
-    Subsec. (b)(2). [Pub. L. 103–465, § 270(a)(1)(K)][/us/pl/103/465/s270/a/1/K], inserted “countervailable” before “subsidy” in two places.
+    Subsec. (b)(2). [Pub. L. 103–465][/us/pl/103/465], § 270(a)(1)(K), inserted “countervailable” before “subsidy” in two places.
 
-    Subsec. (c). [Pub. L. 103–465, § 270(a)(2)(B)][/us/pl/103/465/s270/a/2/B], as amended by [Pub. L. 104–295][/us/pl/104/295], inserted “countervailable” before “subsidy” in heading.
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 270(a)(2)(B), as amended by [Pub. L. 104–295][/us/pl/104/295], inserted “countervailable” before “subsidy” in heading.
 
-    [Pub. L. 103–465, § 270(a)(1)(L)][/us/pl/103/465/s270/a/1/L], (c)(3), inserted “countervailable” after “upstream” and substituted “the countervailable subsidy determined” for “subsidization determined”.
+    [Pub. L. 103–465][/us/pl/103/465], § 270(a)(1)(L), (c)(3), inserted “countervailable” after “upstream” and substituted “the countervailable subsidy determined” for “subsidization determined”.
 
-    [Pub. L. 103–465, § 233(a)(5)(GG)][/us/pl/103/465/s233/a/5/GG], substituted “subject merchandise” for “merchandise under investigation”.
+    [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(GG), substituted “subject merchandise” for “merchandise under investigation”.
 
     1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514] substituted “(ii), (iii), or (iv)” for “(ii), or (iii)” in introductory provisions.
 
@@ -82,23 +82,23 @@
 
 [/us/usc/t19/s1677/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F5
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/98/573/s613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs613%2Fa
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3035
-[/us/pl/99/514/s1886/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F10
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4901
-[/us/pl/104/295/s20/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F2
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/465/s270/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fa%2F2%2FB
-[/us/pl/103/465/s268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs268
-[/us/pl/103/465/s268/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs268%2F1
-[/us/pl/103/465/s270/a/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fa%2F1%2FK
-[/us/pl/103/465/s270/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fa%2F2%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/465/s270/a/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fa%2F1%2FL
-[/us/pl/103/465/s233/a/5/GG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FGG
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291

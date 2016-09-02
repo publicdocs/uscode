@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    “Section 3324(a) and (b) of title 31” substituted in text for “Section 3648 of the Revised Statutes \[[31 U.S.C. 529][/us/usc/t31/s529]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “Section 3324(a) and (b) of title 31” substituted in text for “Section 3648 of the Revised Statutes \[[31 U.S.C. 529][/us/usc/t31/s529]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    Section was formerly classified to [section 529b of Title 31][/us/usc/t31/s529b] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 529b of Title 31][/us/usc/t31/s529b] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
 Section is from Treasury Department Appropriation Act, 1940, act May 6, 1939. Similar provisions were contained in the following prior appropriation acts:
 
@@ -55,10 +55,10 @@ Section is from Treasury Department Appropriation Act, 1940, act May 6, 1939. Si
 [/us/act/1939-05-06/ch115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-06%2Fch115
 [/us/stat/53/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F660
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t31/s529b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529b
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/act/1938-03-28/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-28%2Fch55
 [/us/stat/52/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F126

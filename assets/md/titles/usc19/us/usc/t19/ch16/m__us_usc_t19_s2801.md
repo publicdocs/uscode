@@ -39,11 +39,11 @@
 
         (3) to achieve greater access to foreign markets for United States wine and grape products through the reduction or elimination of tariff barriers and nontariff barriers to (or other distortions of) trade in wine.
 
-([Pub. L. 98–573, title IX, § 902][/us/pl/98/573/s902], Oct. 30, 1984, [98 Stat. 3047][/us/stat/98/3047].)
+([Pub. L. 98–573, title IX][/us/pl/98/573/tIX], § 902, Oct. 30, 1984, [98 Stat. 3047][/us/stat/98/3047].)
 
  __Short Title__ 
 
-[Pub. L. 98–573, title IX, § 901][/us/pl/98/573/s901], Oct. 30, 1984, [98 Stat. 3047][/us/stat/98/3047], provided that: 
+[Pub. L. 98–573, title IX][/us/pl/98/573/tIX], § 901, Oct. 30, 1984, [98 Stat. 3047][/us/stat/98/3047], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Wine Equity and Export Expansion Act of 1984’.”
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/98/573/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs902
+[/us/pl/98/573/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIX
 [/us/stat/98/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3047
-[/us/pl/98/573/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs901
+[/us/pl/98/573/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIX
 [/us/stat/98/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3047
 
 

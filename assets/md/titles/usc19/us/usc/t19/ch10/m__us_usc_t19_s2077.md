@@ -15,13 +15,17 @@
 
 ## § 2077. Advances for enforcement of customs provisions
 
-    The Commissioner of Customs, with the approval of the Secretary of the Treasury, is authorized to direct the advance of funds by the Fiscal Service, Treasury Department, in connection with the enforcement of the customs laws.
+    The Commissioner of U.S. Customs and Border Protection, with the approval of the Secretary of the Treasury, is authorized to direct the advance of funds by the Fiscal Service, Treasury Department, in connection with the enforcement of the customs laws.
 
-([Mar. 28, 1928, ch. 266, § 2][/us/act/1928-03-28/ch266/s2], as added [Aug. 7, 1939, ch. 566, § 1][/us/act/1939-08-07/ch566/s1], [53 Stat. 1263][/us/stat/53/1263]; amended 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231].)
+([Mar. 28, 1928, ch. 266][/us/act/1928-03-28/ch266], § 2, as added [Aug. 7, 1939, ch. 566][/us/act/1939-08-07/ch566], § 1, [53 Stat. 1263][/us/stat/53/1263]; amended 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 529c of Title 31][/us/usc/t31/s529c] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 529c of Title 31][/us/usc/t31/s529c] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -38,13 +42,17 @@
 ----------
 ----------
 
-[/us/act/1928-03-28/ch266/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-28%2Fch266%2Fs2
-[/us/act/1939-08-07/ch566/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch566%2Fs1
+[/us/act/1928-03-28/ch266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-28%2Fch266
+[/us/act/1939-08-07/ch566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch566
 [/us/stat/53/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1263
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/usc/t31/s529c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529c
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231

@@ -83,11 +83,11 @@
 
         When a common carrier has been seized in accordance with the provisions of subsection (c) and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 594, [46 Stat. 751][/us/stat/46/751]; [Pub. L. 99–570, title III, § 3121][/us/pl/99/570/s3121], Oct. 27, 1986, [100 Stat. 3207–86][/us/stat/100/3207-86]; [Pub. L. 100–690, title VI, § 6076(b)][/us/pl/100/690/s6076/b], Nov. 18, 1988, [102 Stat. 4324][/us/stat/102/4324].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 594, [46 Stat. 751][/us/stat/46/751]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3121, Oct. 27, 1986, [100 Stat. 3207–86][/us/stat/100/3207-86]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6076(b), Nov. 18, 1988, [102 Stat. 4324][/us/stat/102/4324].)
 
  __Prior Provisions__ 
 
-    Provisions substantially similar to subsec. (a) of this section, so far as it relates to vessels, except that they referred to the “revenue laws,” instead of the “customs laws,” were contained in R.S. § 3088. Provisions substantially similar to subsec. (b), so far as it relates to vessels, were contained in [act Feb. 8, 1881, ch. 34][/us/act/1881-02-08/ch34], [21 Stat. 322][/us/stat/21/322]. Provisions similar to subsec. (b), except that they applied to railway cars, engines, other vehicles, and teams, and referred to the owner, superintendent, or agent of the owner in charge, instead of the “conductor, driver,” etc., were contained in R.S. § 3063. All of these sections were superseded and more closely assimilated to this section by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 594, [42 Stat. 982][/us/stat/42/982], and repealed by sections 642 and 643 thereof. Section 594 of the 1922 act was superseded by section 594 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions substantially similar to subsec. (a) of this section, so far as it relates to vessels, except that they referred to the “revenue laws,” instead of the “customs laws,” were contained in R.S. § 3088. Provisions substantially similar to subsec. (b), so far as it relates to vessels, were contained in [act Feb. 8, 1881, ch. 34][/us/act/1881-02-08/ch34], [21 Stat. 322][/us/stat/21/322]. Provisions similar to subsec. (b), except that they applied to railway cars, engines, other vehicles, and teams, and referred to the owner, superintendent, or agent of the owner in charge, instead of the “conductor, driver,” etc., were contained in R.S. § 3063. All of these sections were superseded and more closely assimilated to this section by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 594, [42 Stat. 982][/us/stat/42/982], and repealed by sections 642 and 643 thereof. Section 594 of the 1922 act was superseded by section 594 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
@@ -104,13 +104,13 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F751
-[/us/pl/99/570/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3121
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-86
-[/us/pl/100/690/s6076/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6076%2Fb
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4324
 [/us/act/1881-02-08/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1881-02-08%2Fch34
 [/us/stat/21/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F322
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F982
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570

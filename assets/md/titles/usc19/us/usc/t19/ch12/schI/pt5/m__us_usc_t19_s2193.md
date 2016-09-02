@@ -39,7 +39,7 @@
 
         (2) In any case in which there are amendments in disagreement, time on each amendment shall be limited to 30 minutes, to be equally divided between, and controlled by, the manager of the conference report and the minority leader or his designee. No amendment to any amendment in disagreement shall be received unless it is a germane amendment.
 
-([Pub. L. 93–618, title I, § 153][/us/pl/93/618/s153], Jan. 3, 1975, [88 Stat. 2006][/us/stat/88/2006]; [Pub. L. 101–382, title I, § 132(a)(3)][/us/pl/101/382/s132/a/3]–(6), Aug. 20, 1990, [104 Stat. 644][/us/stat/104/644], 645.)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 153, Jan. 3, 1975, [88 Stat. 2006][/us/stat/88/2006]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 132(a)(3)–(6), Aug. 20, 1990, [104 Stat. 644][/us/stat/104/644], 645.)
 
  __References in Text__ 
 
@@ -47,17 +47,17 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–382, § 132(a)(3)][/us/pl/101/382/s132/a/3], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this section, the term ‘resolution’ means only—
+    1990—Subsec. (a). [Pub. L. 101–382][/us/pl/101/382], § 132(a)(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this section, the term ‘resolution’ means only—
 
     “(1) a concurrent resolution of the two Houses of the Congress, the matter after the resolving clause of which is as follows: ‘That the Congress approves the extension of the authority contained in section 402(c)(1) of the Trade Act of 1974 recommended by the President to the Congress on \_\_\_, except with respect to \_\_\_.’, with the first blank space being filled with the appropriate date and the second blank space being filled with the names of those countries, if any, with respect to which such extension of authority is not approved, and with the except clause being omitted if there is no such country; and
 
     “(2) a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_ does not approve the extension of the authority contained in section 402(c) of the Trade Act of 1974 recommended by the President to the Congress on \_\_\_ with respect to \_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled with the appropriate date, and the third blank space being filled with the names of those countries, if any, with respect to which such extension of authority is not approved, and with the with-respect-to clause being omitted if the extension of the authority is not approved with respect to any country.”
 
-    Subsec. (b). [Pub. L. 101–382, § 132(a)(4)][/us/pl/101/382/s132/a/4], in par. (2), struck out provisions substituting 20 days for 30 days in resolution related to [section 2432(d)(4) of this title][/us/usc/t19/s2432/d/4], and in pars. (3) and (4), struck out provisions relating to except clause in resolutions under subsec. (a)(1) and provisions identifying with-respect-to clause as relating to resolutions under subsec. (a)(2).
+    Subsec. (b). [Pub. L. 101–382][/us/pl/101/382], § 132(a)(4), in par. (2), struck out provisions substituting 20 days for 30 days in resolution related to [section 2432(d)(4) of this title][/us/usc/t19/s2432/d/4], and in pars. (3) and (4), struck out provisions relating to except clause in resolutions under subsec. (a)(1) and provisions identifying with-respect-to clause as relating to resolutions under subsec. (a)(2).
 
-    Subsec. (c). [Pub. L. 101–382, § 132(a)(5)][/us/pl/101/382/s132/a/5], substituted “subsection (a)” for “subsection (a)(1)”.
+    Subsec. (c). [Pub. L. 101–382][/us/pl/101/382], § 132(a)(5), substituted “subsection (a)” for “subsection (a)(1)”.
 
-    Subsec. (d). [Pub. L. 101–382, § 132(a)(6)][/us/pl/101/382/s132/a/6], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–382][/us/pl/101/382], § 132(a)(6), added subsec. (d).
 
  __Effective Date of 1990 Amendment__ 
 
@@ -77,16 +77,16 @@
 [/us/usc/t19/s2192/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192%2Fe%2F4
 [/us/usc/t19/s2192/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192%2Fe%2F2
 [/us/usc/t19/s2432/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2432%2Fd
-[/us/pl/93/618/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs153
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2006
-[/us/pl/101/382/s132/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F3
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F644
 [/us/usc/t19/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2432
-[/us/pl/101/382/s132/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F3
-[/us/pl/101/382/s132/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F4
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t19/s2432/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2432%2Fd%2F4
-[/us/pl/101/382/s132/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F5
-[/us/pl/101/382/s132/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F6
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t19/s2432/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2432%2Fd
 [/us/pl/101/382/s132/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fd

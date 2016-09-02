@@ -17,15 +17,15 @@
 
     Subject to appeal to the Secretary of the Treasury and under such regulations as he may prescribe, when the Secretary of Transportation is shown upon evidence which he deems sufficient that such vessel is being, or is intended to be, employed to smuggle, transport, or otherwise assist in the unlawful introduction or importation into the United States of any merchandise or person, or to smuggle any merchandise into the territory of any foreign government in violation of the laws there in force, if under the laws of such foreign government any penalty or forfeiture is provided for violation of the laws of the United States respecting the customs revenue, or whenever, from the design or fittings of any vessel or the nature of any repairs made thereon, it is apparent to the Secretary of Transportation that such vessel has been built or adapted for the purpose of smuggling merchandise, the the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Secretary of Transportation shall revoke any endorsement on the vessel’s certificate of documentation or number (when the Secretary is the authority issuing the number under chapter 123 of title 46) or refuse the same if application be made therefor, as the case may be. The Secretary of Transportation and all persons acting by or under his direction shall be indemnified from any penalties or actions for damages for carrying out the provisions of this section.
 
-([Aug. 5, 1935, ch. 438][/us/act/1935-08-05/ch438], title I, § 4, [49 Stat. 519][/us/stat/49/519]; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097]; [Pub. L. 103–182, title VI, § 689(b)][/us/pl/103/182/s689/b], Dec. 8, 1993, [107 Stat. 2222][/us/stat/107/2222].)
+([Aug. 5, 1935, ch. 438][/us/act/1935-08-05/ch438], title I, § 4, [49 Stat. 519][/us/stat/49/519]; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 689(b), Dec. 8, 1993, [107 Stat. 2222][/us/stat/107/2222].)
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–182, § 689(b)(4)][/us/pl/103/182/s689/b/4], substituted “The Secretary of Transportation and all persons” for “Such collector and all persons”.
+    1993—[Pub. L. 103–182][/us/pl/103/182], § 689(b)(4), substituted “The Secretary of Transportation and all persons” for “Such collector and all persons”.
 
-    [Pub. L. 103–182, § 689(b)(3)][/us/pl/103/182/s689/b/3], which directed the substitution of “the Secretary of Transportation shall revoke any endorsement on the vessel’s certificate of documentation or number (when the Secretary is the authority issuing the number under chapter 123 of title 46)” for “said collector shall revoke the registry, enrollment, license, or number of such vessel”, was executed by making the substitution in text which read “said vessel” rather than “such vessel”, to reflect the probable intent of Congress.
+    [Pub. L. 103–182][/us/pl/103/182], § 689(b)(3), which directed the substitution of “the Secretary of Transportation shall revoke any endorsement on the vessel’s certificate of documentation or number (when the Secretary is the authority issuing the number under chapter 123 of title 46)” for “said collector shall revoke the registry, enrollment, license, or number of such vessel”, was executed by making the substitution in text which read “said vessel” rather than “such vessel”, to reflect the probable intent of Congress.
 
-    [Pub. L. 103–182, § 689(b)(1)][/us/pl/103/182/s689/b/1], (2), substituted “when the Secretary of Transportation” for “whenever the collector of customs of the district in which any vessel is, or is sought to be, registered, enrolled, licensed, or numbered,” and “is apparent to the Secretary of Transportation” for “is apparent to such collector”.
+    [Pub. L. 103–182][/us/pl/103/182], § 689(b)(1), (2), substituted “when the Secretary of Transportation” for “whenever the collector of customs of the district in which any vessel is, or is sought to be, registered, enrolled, licensed, or numbered,” and “is apparent to the Secretary of Transportation” for “is apparent to such collector”.
 
  __Transfer of Functions__ 
 
@@ -47,11 +47,11 @@
 [/us/act/1935-08-05/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-05%2Fch438
 [/us/stat/49/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F519
 [/us/stat/60/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1097
-[/us/pl/103/182/s689/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs689%2Fb
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2222
-[/us/pl/103/182/s689/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs689%2Fb%2F4
-[/us/pl/103/182/s689/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs689%2Fb%2F3
-[/us/pl/103/182/s689/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs689%2Fb%2F1
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3

@@ -87,19 +87,19 @@
 
         (2) The term “WTO Agreement” means the Agreement Establishing the World Trade Organization entered into on April 15, 1994 and the multilateral trade agreements (as such term is defined in [section 3501(4) of this title][/us/usc/t19/s3501/4]).
 
-([Pub. L. 100–418, title I, § 1106][/us/pl/100/418/s1106], Aug. 23, 1988, [102 Stat. 1133][/us/stat/102/1133]; [Pub. L. 103–465, title VI, § 621(a)(4)][/us/pl/103/465/s621/a/4], Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993]; [Pub. L. 104–295, § 20(f)(3)][/us/pl/104/295/s20/f/3], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1106, Aug. 23, 1988, [102 Stat. 1133][/us/stat/102/1133]; [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 621(a)(4), Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993]; [Pub. L. 104–295][/us/pl/104/295], § 20(f)(3), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529].)
 
  __Amendments__ 
 
     1996—[Pub. L. 104–295][/us/pl/104/295] substituted “or WTO” for “for WTO” in section catchline.
 
-    1994—[Pub. L. 103–465, § 621(a)(4)(D)][/us/pl/103/465/s621/a/4/D], inserted “for WTO” after “Trade” in section catchline.
+    1994—[Pub. L. 103–465][/us/pl/103/465], § 621(a)(4)(D), inserted “for WTO” after “Trade” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–465, § 621(a)(4)(A)][/us/pl/103/465/s621/a/4/A], substituted “the GATT 1947, or to the WTO Agreement,” for “the GATT” in introductory provisions.
+    Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 621(a)(4)(A), substituted “the GATT 1947, or to the WTO Agreement,” for “the GATT” in introductory provisions.
 
-    Subsecs. (b), (c). [Pub. L. 103–465, § 621(a)(4)(B)][/us/pl/103/465/s621/a/4/B], inserted “1947 or the WTO Agreement” after “the GATT” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 103–465][/us/pl/103/465], § 621(a)(4)(B), inserted “1947 or the WTO Agreement” after “the GATT” wherever appearing.
 
-    Subsec. (e). [Pub. L. 103–465, § 621(a)(4)(C)][/us/pl/103/465/s621/a/4/C], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–465][/us/pl/103/465], § 621(a)(4)(C), added subsec. (e).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -135,17 +135,17 @@
 [/us/usc/t19/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191
 [/us/usc/t19/s3501/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F1%2FA
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
-[/us/pl/100/418/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1106
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1133
-[/us/pl/103/465/s621/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F4
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4993
-[/us/pl/104/295/s20/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Ff%2F3
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/465/s621/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F4%2FD
-[/us/pl/103/465/s621/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F4%2FA
-[/us/pl/103/465/s621/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F4%2FB
-[/us/pl/103/465/s621/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F4%2FC
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fb
 [/us/usc/t19/s1677k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677k

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 3014 derived from [act Mar. 3, 1865, ch. 80, § 12][/us/act/1865-03-03/ch80/s12], [13 Stat. 494][/us/stat/13/494].
+    R.S. § 3014 derived from [act Mar. 3, 1865, ch. 80][/us/act/1865-03-03/ch80], § 12, [13 Stat. 494][/us/stat/13/494].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1865-03-03/ch80/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-03-03%2Fch80%2Fs12
+[/us/act/1865-03-03/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-03-03%2Fch80
 [/us/stat/13/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F494
 
 

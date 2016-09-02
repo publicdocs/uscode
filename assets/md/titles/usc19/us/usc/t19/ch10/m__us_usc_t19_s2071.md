@@ -15,7 +15,7 @@
 
 ## § 2071. Establishment of Service; Commissioner; appointment
 
-    There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of Customs. The Commissioner of Customs, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
+    There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of U.S. Customs and Border Protection. The Commissioner of U.S. Customs and Border Protection, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
 
     (1) be at the head of the United States Customs Service;
 
@@ -23,15 +23,15 @@
 
     (3) report to the Secretary of the Treasury through such other officials as may be designated by the Secretary.
 
-([Mar. 3, 1927, ch. 348, § 1][/us/act/1927-03-03/ch348/s1], [44 Stat. 1381][/us/stat/44/1381]; [May 27, 1930, ch. 342, § 8][/us/act/1930-05-27/ch342/s8], [46 Stat. 430][/us/stat/46/430]; Ex. Ord. No. 6639, § 1a, Mar. 10, 1934; [Pub. L. 101–207, § 3(b)(1)][/us/pl/101/207/s3/b/1], Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833].)
+([Mar. 3, 1927, ch. 348][/us/act/1927-03-03/ch348], § 1, [44 Stat. 1381][/us/stat/44/1381]; [May 27, 1930, ch. 342][/us/act/1930-05-27/ch342], § 8, [46 Stat. 430][/us/stat/46/430]; Ex. Ord. No. 6639, § 1a, Mar. 10, 1934; [Pub. L. 101–207][/us/pl/101/207], § 3(b)(1), Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Codification__ 
 
     Provisions that fixed the compensation of the Commissioner have been omitted as the position is under the Executive Schedule, see [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
 
-    Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the [act of Nov. 26, 1940, ch. 919][/us/act/1940-11-26/ch919], title I, § 1, [54 Stat. 1211][/us/stat/54/1211], which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5][/us/usc/t5/s3301]. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
+    Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the [act of Nov. 26, 1940, ch. 919, title I][/us/act/1940-11-26/ch919/tI], § 1, [54 Stat. 1211][/us/stat/54/1211], which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5][/us/usc/t5/s3301]. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
 
-    Section was formerly classified to [section 281 of Title 5][/us/usc/t5/s281] prior to the general revision and codification of Title 5 by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 281 of Title 5][/us/usc/t5/s281] prior to the general revision and codification of Title 5 by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
     References to the Bureau of Prohibition and to the Commissioner of Prohibition were omitted in view of the change of name of the Bureau of Prohibition to the Bureau of Industrial Alcohol by act May 27, 1930, and the abolition of the Bureau of Industrial Alcohol by Ex. Ord. No. 6639.
 
@@ -41,11 +41,13 @@
 
  __Change of Name__ 
 
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+
     “United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31][/us/usc/t31/s308], Money and Finance.
 
  __Effective Date__ 
 
-[Act Mar. 3, 1927, ch. 348, § 7][/us/act/1927-03-03/ch348/s7], [44 Stat. 1383][/us/stat/44/1383], provided that: 
+[Act Mar. 3, 1927, ch. 348][/us/act/1927-03-03/ch348], § 7, [44 Stat. 1383][/us/stat/44/1383], provided that: 
 
 > “This Act shall take effect April 1, 1927.”
 
@@ -59,7 +61,7 @@
 
  __Mandatory Advanced Electronic Information for Cargo and Other Improved Customs Reporting Procedures__ 
 
-[Pub. L. 107–210, div. A, title III, § 343(a)][/us/pl/107/210/s343/a], (c), Aug. 6, 2002, [116 Stat. 981][/us/stat/116/981], 985, as amended by [Pub. L. 107–295, title I, § 108(b)][/us/pl/107/295/s108/b], Nov. 25, 2002, [116 Stat. 2089][/us/stat/116/2089]; [Pub. L. 109–59, title XI, § 11165(a)][/us/pl/109/59/s11165/a], Aug. 10, 2005, [119 Stat. 1976][/us/stat/119/1976], provided that:
+[Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 343(a), (c), Aug. 6, 2002, [116 Stat. 981][/us/stat/116/981], 985, as amended by [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 108(b), Nov. 25, 2002, [116 Stat. 2089][/us/stat/116/2089]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11165(a), Aug. 10, 2005, [119 Stat. 1976][/us/stat/119/1976]; [Pub. L. 114–125, title I][/us/pl/114/125/tI], § 111(c), Feb. 24, 2016, [130 Stat. 140][/us/stat/130/140], provided that:
 
 >     “(a) __Cargo Information.—__ 
 
@@ -87,7 +89,7 @@
 
 >             “(E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
 
->             “(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security and preventing smuggling, and shall not be used for determining merchandise entry or for any other commercial enforcement purposes. Notwithstanding the preceding sentence, nothing in this section \[enacting [section 1431a of this title][/us/usc/t19/s1431a] and this note\] shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[[19 U.S.C. 1401][/us/usc/t19/s1401] et seq.\] or regulations promulgated thereunder.
+>             “(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security, preventing smuggling, and commercial risk assessment targeting, and shall not be used for any commercial enforcement purposes, including for determining merchandise entry. Notwithstanding the preceding sentence, nothing in this section \[enacting [section 1431a of this title][/us/usc/t19/s1431a] and this note\] shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[[19 U.S.C. 1401][/us/usc/t19/s1401] et seq.\] or regulations promulgated thereunder.
 
 >             “(G) The regulations shall protect the privacy of business proprietary and any other confidential cargo information provided to the Customs Service pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 \[[19 U.S.C. 1431][/us/usc/t19/s1431]\] and required to be available for public disclosure pursuant to section 431(c) of such Act.. \[sic\]
 
@@ -121,27 +123,27 @@
 
 >     For purposes of this section \[enacting [section 1431a of this title][/us/usc/t19/s1431a] and this note\], the term ‘Secretary’ means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located.”
 
-\[[Pub. L. 109–59, title XI, § 11165(b)][/us/pl/109/59/s11165/b], Aug. 10, 2005, [119 Stat. 1976][/us/stat/119/1976], provided that: 
+\[[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11165(b), Aug. 10, 2005, [119 Stat. 1976][/us/stat/119/1976], provided that: 
 
 > “The amendment made by this section \[amending [section 343(a) of Pub. L. 107–210][/us/pl/107/210/s343/a], set out above\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\].”
 
 \]
 
-    \[[Pub. L. 107–295, title I, § 108(b)(3)(D)(i)(II)][/us/pl/107/295/s108/b/3/D/i/II], Nov. 25, 2002, [116 Stat. 2090][/us/stat/116/2090], which directed the amendment of [section 343(a)(3)(L) of Pub. L. 107–210][/us/pl/107/210/s343/a/3/L], set out above, by substituting “publication of a final rule pursuant to this section” for “promulgation of regulations” in the matter preceding cl. (i), was executed by making the substitution for “promulgation of the regulations” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 107–295, title I][/us/pl/107/295/tI], § 108(b)(3)(D)(i)(II), Nov. 25, 2002, [116 Stat. 2090][/us/stat/116/2090], which directed the amendment of [section 343(a)(3)(L) of Pub. L. 107–210][/us/pl/107/210/s343/a/3/L], set out above, by substituting “publication of a final rule pursuant to this section” for “promulgation of regulations” in the matter preceding cl. (i), was executed by making the substitution for “promulgation of the regulations” to reflect the probable intent of Congress.\]
 
  __Secure Systems of Transportation__ 
 
-    [Pub. L. 107–210, div. A, title III, § 343A][/us/pl/107/210/s343A], Aug. 6, 2002, [116 Stat. 985][/us/stat/116/985], required the Secretary of the Treasury to establish a joint task force to evaluate, prototype, and certify secure systems of transportation, required the joint task force to establish a program to evaluate and certify secure systems of international intermodal transport, provided minimum standards for the program, and mandated that the Secretary recognize certified systems of intermodal transport and report to Congress within one year of the program’s implementation, prior to repeal by [Pub. L. 107–295, title I, § 108(c)][/us/pl/107/295/s108/c], Nov. 25, 2002, [116 Stat. 2090][/us/stat/116/2090].
+    [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 343A, Aug. 6, 2002, [116 Stat. 985][/us/stat/116/985], required the Secretary of the Treasury to establish a joint task force to evaluate, prototype, and certify secure systems of transportation, required the joint task force to establish a program to evaluate and certify secure systems of international intermodal transport, provided minimum standards for the program, and mandated that the Secretary recognize certified systems of intermodal transport and report to Congress within one year of the program’s implementation, prior to repeal by [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 108(c), Nov. 25, 2002, [116 Stat. 2090][/us/stat/116/2090].
 
  __Extension of Pre-Clearance Program in Aruba__ 
 
-[Pub. L. 102–393, title VI, § 637][/us/pl/102/393/s637], Oct. 6, 1992, [106 Stat. 1779][/us/stat/106/1779], provided that: 
+[Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 637, Oct. 6, 1992, [106 Stat. 1779][/us/stat/106/1779], provided that: 
 
 > “Notwithstanding any other provision of law, the United States Customs Service pilot pre-clearance program authorized to be established in Aruba shall be extended through 1994.”
 
  __Reports Regarding Expansion of Customs Preclearance Operations and Recovery for Damage Resulting From Customs Examinations__ 
 
-[Pub. L. 101–382, title I, § 124][/us/pl/101/382/s124], Aug. 20, 1990, [104 Stat. 643][/us/stat/104/643], provided that:
+[Pub. L. 101–382, title I][/us/pl/101/382/tI], § 124, Aug. 20, 1990, [104 Stat. 643][/us/stat/104/643], as amended by [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210], provided that:
 
 >     “(a)  __Customs Preclearance__  __.—__ 
 
@@ -155,21 +157,21 @@
 
 >     “(c)  __Merchandise Damage Statistics__  __.—__ 
 
->     The Commissioner of Customs shall keep accurate statistics on the incidence, nature, and extent of damage to merchandise resulting from customs examinations and shall provide an annual summary of these statistics to the Committees.”
+>     The Commissioner of U.S. Customs and Border Protection shall keep accurate statistics on the incidence, nature, and extent of damage to merchandise resulting from customs examinations and shall provide an annual summary of these statistics to the Committees.”
 
  __Pilot Preclearance Program__ 
 
-    [Pub. L. 101–382, title II, § 233][/us/pl/101/382/s233], Aug. 20, 1990, [104 Stat. 663][/us/stat/104/663], required the Commissioner of Customs to carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which the Commissioner considered appropriate for testing the extent to which the availability of preclearance operations could assist in the development of tourism and to submit to Congress, as soon as practicable after Sept. 30, 1992, a report regarding those preclearance operations.
+    [Pub. L. 101–382, title II][/us/pl/101/382/tII], § 233, Aug. 20, 1990, [104 Stat. 663][/us/stat/104/663], required the Commissioner of Customs to carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which the Commissioner considered appropriate for testing the extent to which the availability of preclearance operations could assist in the development of tourism and to submit to Congress, as soon as practicable after Sept. 30, 1992, a report regarding those preclearance operations.
 
  __Incumbent Commissioner on__  __December 6, 1989__ 
 
-[Pub. L. 101–207, § 3(b)(2)][/us/pl/101/207/s3/b/2], Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], provided that: 
+[Pub. L. 101–207][/us/pl/101/207], § 3(b)(2), Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], provided that: 
 
 > “The individual who is serving as the Commissioner of Customs on the day before the date of the enactment of this Act \[Dec. 7, 1989\] may continue to serve in such capacity until a Commissioner of Customs, appointed as provided in the amendment made by paragraph (1) \[amending this section\], takes office.”
 
  __Advisory Committee on Commercial Operations of United States Customs Service__ 
 
-[Pub. L. 100–203, title IX, § 9503(c)][/us/pl/100/203/s9503/c], Dec. 22, 1987, [101 Stat. 1330–381][/us/stat/101/1330-381], provided that:
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9503(c), Dec. 22, 1987, [101 Stat. 1330–381][/us/stat/101/1330-381], provided that:
 
 >     “(1) The Secretary of the Treasury shall establish an advisory committee which shall be known as the ‘Advisory Committee on Commercial Operations of the United States Customs Service’ (hereafter in this subsection referred to as the ‘Advisory Committee’).
 
@@ -201,7 +203,9 @@
 
 >     “(4) The Assistant Secretary of the Treasury for Enforcement shall preside over meetings of the Advisory Committee.”
 
-    [Pub. L. 99–272, title XIII, § 13033][/us/pl/99/272/s13033], Apr. 7, 1986, [100 Stat. 311][/us/stat/100/311], which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by [Pub. L. 100–203, title IX, § 9503(d)][/us/pl/100/203/s9503/d], Dec. 22, 1987, [101 Stat. 1330–382][/us/stat/101/1330-382].
+    \[[Pub. L. 114–125, title I][/us/pl/114/125/tI], § 109(g)(1), Feb. 24, 2016, [130 Stat. 137][/us/stat/130/137], provided that, effective on the date on which the Advisory Committee is established under [section 4316(a) of this title][/us/usc/t19/s4316/a], [section 9503(c) of Pub. L. 100–203][/us/pl/100/203/s9503/c], set out above, is repealed.\]
+
+    [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13033, Apr. 7, 1986, [100 Stat. 311][/us/stat/100/311], which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9503(d), Dec. 22, 1987, [101 Stat. 1330–382][/us/stat/101/1330-382].
 
 ----------
 
@@ -210,62 +214,74 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch348/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch348%2Fs1
+[/us/act/1927-03-03/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch348
 [/us/stat/44/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1381
-[/us/act/1930-05-27/ch342/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch342%2Fs8
+[/us/act/1930-05-27/ch342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch342
 [/us/stat/46/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F430
-[/us/pl/101/207/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fb%2F1
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
 [/us/stat/103/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1833
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/act/1940-11-26/ch919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919
+[/us/act/1940-11-26/ch919/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919%2FtI
 [/us/stat/54/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1211
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
 [/us/usc/t5/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs281
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t31/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs308
-[/us/act/1927-03-03/ch348/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch348%2Fs7
+[/us/act/1927-03-03/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch348
 [/us/stat/44/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1383
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/87/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1091
 [/us/pl/93/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253
 [/us/stat/88/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F50
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
-[/us/pl/107/210/s343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs343%2Fa
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F981
-[/us/pl/107/295/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs108%2Fb
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2089
-[/us/pl/109/59/s11165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11165%2Fa
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1976
+[/us/pl/114/125/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtI
+[/us/stat/130/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F140
 [/us/usc/t19/s1431a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1431a
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
 [/us/usc/t19/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1431
 [/us/usc/t26/s4083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4083
 [/us/usc/t19/s1431a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1431a
-[/us/pl/109/59/s11165/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11165%2Fb
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1976
 [/us/pl/107/210/s343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs343%2Fa
-[/us/pl/107/295/s108/b/3/D/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs108%2Fb%2F3%2FD%2Fi%2FII
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2090
 [/us/pl/107/210/s343/a/3/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs343%2Fa%2F3%2FL
-[/us/pl/107/210/s343A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs343A
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F985
-[/us/pl/107/295/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs108%2Fc
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2090
-[/us/pl/102/393/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs637
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1779
-[/us/pl/101/382/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs124
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F643
-[/us/pl/101/382/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs233
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F663
-[/us/pl/101/207/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fb%2F2
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
 [/us/stat/103/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1834
-[/us/pl/100/203/s9503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fc
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-381
-[/us/pl/99/272/s13033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13033
+[/us/pl/114/125/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtI
+[/us/stat/130/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F137
+[/us/usc/t19/s4316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4316%2Fa
+[/us/pl/100/203/s9503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fc
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F311
-[/us/pl/100/203/s9503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fd
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-382
 
 

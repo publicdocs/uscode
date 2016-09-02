@@ -61,7 +61,7 @@
 
             The President is authorized to proclaim additional United States note 3 to chapter 17 of the HTS, and to proclaim the modifications to the note, as determined appropriate by the President to reflect Schedule XX.
 
-([Pub. L. 103–465, title IV, § 404][/us/pl/103/465/s404], Dec. 8, 1994, [108 Stat. 4959][/us/stat/108/4959].)
+([Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 404, Dec. 8, 1994, [108 Stat. 4959][/us/stat/108/4959].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–465, title IV, § 451][/us/pl/103/465/s451], Dec. 8, 1994, [108 Stat. 4973][/us/stat/108/4973], provided that: 
+[Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 451, Dec. 8, 1994, [108 Stat. 4973][/us/stat/108/4973], provided that: 
 
 > “Except as otherwise provided in this title, this title \[enacting this subchapter, sections 2578 to 2578b of this title, and [section 1585 of Title 7][/us/usc/t7/s1585], Agriculture, amending sections 1306, 1313, 2463, 2544, 2703, and 3203 of this title, sections 149, 150bb, 150cc, 154, 156, 281, 624, 1314i, 1359a, 1444–2, 1445, 1581, 1582, 1586, 1852, 2803, 5623, and 5651 of Title 7, [section 713a–14 of Title 15][/us/usc/t15/s713a–14], Commerce and Trade, and sections 104, 105, 135, 466, and 620 of Title 21, Food and Drugs, repealing sections 1585 and 1853 of Title 7, enacting provisions set out as notes under [section 2135 of this title][/us/usc/t19/s2135] and sections 624, 1314i, 1445, and 5601 of Title 7, amending provisions set out as a note under [section 1313 of this title][/us/usc/t19/s1313] and [section 1731 of Title 7][/us/usc/t7/s1731], and repealing provisions set out as a note under [section 2253 of this title][/us/usc/t19/s2253]\], and the amendments made by this title, shall take effect on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\].”
 
@@ -107,13 +107,13 @@
 ----------
 
 [/us/usc/t19/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3524
-[/us/pl/103/465/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs404
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4959
 [/us/pl/103/465/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs404
 [/us/pl/103/465/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs404
 [/us/usc/t7/s1359a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359a
 [/us/usc/t19/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1313
-[/us/pl/103/465/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs451
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4973
 [/us/usc/t7/s1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1585
 [/us/usc/t15/s713a–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9314

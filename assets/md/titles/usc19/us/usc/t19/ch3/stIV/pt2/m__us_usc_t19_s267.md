@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s261.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s267a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs267)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s262...266.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s267a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs267)
 
 ## § 267. Overtime and premium pay for customs officers
 
@@ -73,7 +73,7 @@
 
         (1) __Fiscal year cap__ 
 
-            The aggregate of overtime pay under subsection (a) (including commuting compensation under subsection (a)(2)(B)) and premium pay under subsection (b) that a customs officer may be paid in any fiscal year may not exceed $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Customs Service.
+            The aggregate of overtime pay under subsection (a) (including commuting compensation under subsection (a)(2)(B)) and premium pay under subsection (b) that a customs officer may be paid in any fiscal year may not exceed $25,000; except that the Commissioner of U.S. Customs and Border Protection or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Customs Service.
 
         (2) __Exclusivity of pay under this section__ 
 
@@ -95,11 +95,11 @@
 
         (2) The term “holiday” means any day designated as a holiday under a Federal statute or Executive order.
 
-([Feb. 13, 1911, ch. 46, § 5][/us/act/1911-02-13/ch46/s5], [36 Stat. 901][/us/stat/36/901]; [Feb. 7, 1920, ch. 61][/us/act/1920-02-07/ch61], [41 Stat. 402][/us/stat/41/402]; [Pub. L. 91–271, title III, § 316][/us/pl/91/271/s316], June 2, 1970, [84 Stat. 293][/us/stat/84/293]; [Pub. L. 103–66, title XIII, § 13811(a)][/us/pl/103/66/s13811/a], Aug. 10, 1993, [107 Stat. 668][/us/stat/107/668].)
+([Feb. 13, 1911, ch. 46][/us/act/1911-02-13/ch46], § 5, [36 Stat. 901][/us/stat/36/901]; [Feb. 7, 1920, ch. 61][/us/act/1920-02-07/ch61], [41 Stat. 402][/us/stat/41/402]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 316, June 2, 1970, [84 Stat. 293][/us/stat/84/293]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13811(a), Aug. 10, 1993, [107 Stat. 668][/us/stat/107/668]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Codification__ 
 
-    Section derived from R.S. § 2872, as amended by [act June 26, 1884, ch. 121, § 25][/us/act/1884-06-26/ch121/s25], [23 Stat. 59][/us/stat/23/59].
+    Section derived from R.S. § 2872, as amended by [act June 26, 1884, ch. 121][/us/act/1884-06-26/ch121], § 25, [23 Stat. 59][/us/stat/23/59].
 
     Prior to the general revision of section 5 of act Feb. 13, 1911, by [section 13811(a) of Pub. L. 103–66][/us/pl/103/66/s13811/a], provisions of section 5 of act Feb. 13, 1911, relating to extra compensation for boarding officers performing services at night or on Sundays and holidays, were classified to [section 261 of this title][/us/usc/t19/s261].
 
@@ -109,9 +109,13 @@
 
     1970—[Pub. L. 91–271][/us/pl/91/271] substituted references to the appropriate customs officer for references to the collector of customs wherever appearing, and struck out reference to inspectors, storekeepers, weighers, and other customs officers and employees.
 
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c)(1) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13811(c)][/us/pl/103/66/s13811/c], Aug. 10, 1993, [107 Stat. 670][/us/stat/107/670], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13811(c), Aug. 10, 1993, [107 Stat. 670][/us/stat/107/670], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 1450 of this title][/us/usc/t19/s1450], repealing [section 1451a of this title][/us/usc/t19/s1451a], and omitting provisions formerly set out as [section 261 of this title][/us/usc/t19/s261]\] apply to customs inspectional services provided on or after January 1, 1994.”
 
@@ -127,26 +131,30 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s261.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s267a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs267)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s262...266.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s267a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs267)
 
 ----------
 ----------
 
-[/us/act/1911-02-13/ch46/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-02-13%2Fch46%2Fs5
+[/us/act/1911-02-13/ch46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-02-13%2Fch46
 [/us/stat/36/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F901
 [/us/act/1920-02-07/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-07%2Fch61
 [/us/stat/41/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F402
-[/us/pl/91/271/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs316
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F293
-[/us/pl/103/66/s13811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13811%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F668
-[/us/act/1884-06-26/ch121/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fch121%2Fs25
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/act/1884-06-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fch121
 [/us/stat/23/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F59
 [/us/pl/103/66/s13811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13811%2Fa
 [/us/usc/t19/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs261
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
-[/us/pl/103/66/s13811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13811%2Fc
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F670
 [/us/usc/t19/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1450
 [/us/usc/t19/s1451a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1451a

@@ -17,7 +17,7 @@
 
     Whenever a vessel from a foreign port or place or from a port or place in any Territory or possession of the United States arrives at a port or place in the United States or the Virgin Islands, whether directly or via another port or place in the United States or the Virgin Islands, the appropriate customs officer for such port or place of arrival may, under such regulations as the Secretary of the Treasury may prescribe and for the purpose of assuring compliance with any law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce, cause inspection, examination, and search to be made of the persons, baggage, and merchandise discharged or unladen from such vessel, whether or not any or all such persons, baggage, or merchandise has previously been inspected, examined, or searched by officers of the customs.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 467, as added [June 25, 1938, ch. 679, § 11][/us/act/1938-06-25/ch679/s11], [52 Stat. 1083][/us/stat/52/1083]; amended [Pub. L. 91–271, title III, § 301(g)][/us/pl/91/271/s301/g], June 2, 1970, [84 Stat. 288][/us/stat/84/288].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 467, as added [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 11, [52 Stat. 1083][/us/stat/52/1083]; amended [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(g), June 2, 1970, [84 Stat. 288][/us/stat/84/288].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/act/1938-06-25/ch679/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs11
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1083
-[/us/pl/91/271/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fg
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F288
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

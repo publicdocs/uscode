@@ -23,17 +23,17 @@
 
         The Secretary of the Treasury is authorized to provide by regulations for the issuing of special permits for delivery, prior to formal entry therefor, of perishable articles and other articles, the immediate delivery of which is necessary.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 448, [46 Stat. 714][/us/stat/46/714]; [Pub. L. 91–271, title III, § 301(e)][/us/pl/91/271/s301/e], June 2, 1970, [84 Stat. 288][/us/stat/84/288]; [Pub. L. 103–182, title VI, § 656][/us/pl/103/182/s656], Dec. 8, 1993, [107 Stat. 2211][/us/stat/107/2211].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 448, [46 Stat. 714][/us/stat/46/714]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(e), June 2, 1970, [84 Stat. 288][/us/stat/84/288]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 656, Dec. 8, 1993, [107 Stat. 2211][/us/stat/107/2211].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 448, [42 Stat. 953][/us/stat/42/953]. That section was superseded by section 448 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 448, [42 Stat. 953][/us/stat/42/953]. That section was superseded by section 448 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions similar to those in this section concerning preliminary entries, and a further provision that on making such entry lading might proceed by both day and night, were contained in [act Feb. 13, 1911, ch. 46, § 2][/us/act/1911-02-13/ch46/s2], [36 Stat. 900][/us/stat/36/900], prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989].
+    Provisions similar to those in this section concerning preliminary entries, and a further provision that on making such entry lading might proceed by both day and night, were contained in [act Feb. 13, 1911, ch. 46][/us/act/1911-02-13/ch46], § 2, [36 Stat. 900][/us/stat/36/900], prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989].
 
-    Provisions for the estimation of duties, and the issuance of permits for delivery of merchandise, and provisions prescribing the contents of such permits, were contained in R.S. § 2869, (as amended by [act June 5, 1894, ch. 92, § 2][/us/act/1894-06-05/ch92/s2], [28 Stat. 86][/us/stat/28/86]) and § 2870, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions for the estimation of duties, and the issuance of permits for delivery of merchandise, and provisions prescribing the contents of such permits, were contained in R.S. § 2869, (as amended by [act June 5, 1894, ch. 92][/us/act/1894-06-05/ch92], § 2, [28 Stat. 86][/us/stat/28/86]) and § 2870, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
-    Provisions as to the removal of merchandise brought in any vessel from a foreign port or place, from the wharf or place where it might be landed or put, before it had been weighed, gauged, measured, etc., were contained in R.S. § 2882, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions as to the removal of merchandise brought in any vessel from a foreign port or place, from the wharf or place where it might be landed or put, before it had been weighed, gauged, measured, etc., were contained in R.S. § 2882, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -63,21 +63,21 @@
 [/us/usc/t19/s1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1490
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F714
-[/us/pl/91/271/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fe
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F288
-[/us/pl/103/182/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs656
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2211
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F953
-[/us/act/1911-02-13/ch46/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-02-13%2Fch46%2Fs2
+[/us/act/1911-02-13/ch46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-02-13%2Fch46
 [/us/stat/36/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F900
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1894-06-05/ch92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-06-05%2Fch92%2Fs2
+[/us/act/1894-06-05/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-06-05%2Fch92
 [/us/stat/28/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F86
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1434

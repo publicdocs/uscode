@@ -43,13 +43,13 @@
 
         The Secretary of the Treasury is authorized to permit the deposit of money or obligations of the United States, in such amount and upon such conditions as he may by regulation prescribe, in lieu of sureties on any bond required or authorized by a law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 623, [46 Stat. 759][/us/stat/46/759]; [June 25, 1938, ch. 679, § 30][/us/act/1938-06-25/ch679/s30], [52 Stat. 1089][/us/stat/52/1089]; [Pub. L. 91–271, title III, § 301(ii)][/us/pl/91/271/s301/ii], June 2, 1970, [84 Stat. 291][/us/stat/84/291]; Pub. L. 100—418, title I, § 1904, Aug. 23, 1988, [102 Stat. 1313][/us/stat/102/1313]; [Pub. L. 103–182, title VI, § 647][/us/pl/103/182/s647], Dec. 8, 1993, [107 Stat. 2207][/us/stat/107/2207].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 623, [46 Stat. 759][/us/stat/46/759]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 30, [52 Stat. 1089][/us/stat/52/1089]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(ii), June 2, 1970, [84 Stat. 291][/us/stat/84/291]; Pub. L. 100—418, title I, § 1904, Aug. 23, 1988, [102 Stat. 1313][/us/stat/102/1313]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 647, Dec. 8, 1993, [107 Stat. 2207][/us/stat/107/2207].)
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1). [Pub. L. 103–182, § 647(1)][/us/pl/103/182/s647/1], inserted “and the manner in which the bond may be filed with or, pursuant to an authorized electronic data interchange system, transmitted to the Customs Service” after “form of such bond”.
+    1993—Subsec. (b)(1). [Pub. L. 103–182][/us/pl/103/182], § 647(1), inserted “and the manner in which the bond may be filed with or, pursuant to an authorized electronic data interchange system, transmitted to the Customs Service” after “form of such bond”.
 
-    Subsec. (d). [Pub. L. 103–182, § 647(2)][/us/pl/103/182/s647/2], inserted at end “Any bond transmitted to the Customs Service pursuant to an authorized electronic data interchange system shall have the same force and effect and be binding upon the parties thereto as if such bond were manually executed, signed, and filed.”
+    Subsec. (d). [Pub. L. 103–182][/us/pl/103/182], § 647(2), inserted at end “Any bond transmitted to the Customs Service pursuant to an authorized electronic data interchange system shall have the same force and effect and be binding upon the parties thereto as if such bond were manually executed, signed, and filed.”
 
     1988—Subsec. (c). [Pub. L. 100–418][/us/pl/100/418] provided for publication of guidelines establishing customs bond cancellation standards.
 
@@ -80,15 +80,15 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F759
-[/us/act/1938-06-25/ch679/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs30
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1089
-[/us/pl/91/271/s301/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fii
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F291
 [/us/stat/102/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1313
-[/us/pl/103/182/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs647
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2207
-[/us/pl/103/182/s647/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs647%2F1
-[/us/pl/103/182/s647/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs647%2F2
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

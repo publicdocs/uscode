@@ -23,7 +23,7 @@
 
         In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 \[[19 U.S.C. 2251][/us/usc/t19/s2251] et seq.\], the President may exclude from the action goods of a CAFTA–DR country with respect to which the Commission has made a negative finding under subsection (a).
 
-([Pub. L. 109–53, title III, § 331][/us/pl/109/53/s331], Aug. 2, 2005, [119 Stat. 494][/us/stat/119/494].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 331, Aug. 2, 2005, [119 Stat. 494][/us/stat/119/494].)
 
  __Termination of Section__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t19/s1330/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1330%2Fd
 [/us/usc/t19/s4033/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4033%2Fb
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/pl/109/53/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs331
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F494
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618

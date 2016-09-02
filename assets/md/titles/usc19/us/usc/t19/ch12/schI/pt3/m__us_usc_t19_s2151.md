@@ -45,25 +45,25 @@
 
         In preparing its advice to the President under this section, the Commission shall, after reasonable notice, hold public hearings.
 
-([Pub. L. 93–618, title I, § 131][/us/pl/93/618/s131], Jan. 3, 1975, [88 Stat. 1994][/us/stat/88/1994]; [Pub. L. 100–418, title I, § 1111(a)][/us/pl/100/418/s1111/a], Aug. 23, 1988, [102 Stat. 1135][/us/stat/102/1135]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(2)][/us/pl/107/210/s2110/a/2], Aug. 6, 2002, [116 Stat. 1019][/us/stat/116/1019]; [Pub. L. 114–26, title I, § 110(a)(1)][/us/pl/114/26/s110/a/1], June 29, 2015, [129 Stat. 357][/us/stat/129/357].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 131, Jan. 3, 1975, [88 Stat. 1994][/us/stat/88/1994]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1111(a), Aug. 23, 1988, [102 Stat. 1135][/us/stat/102/1135]; [Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2110(a)(2), Aug. 6, 2002, [116 Stat. 1019][/us/stat/116/1019]; [Pub. L. 114–26, title I][/us/pl/114/26/tI], § 110(a)(1), June 29, 2015, [129 Stat. 357][/us/stat/129/357].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–26, § 110(a)(1)(A)(i)][/us/pl/114/26/s110/a/1/A/i], substituted “subsection (a) or (b) of [section 4202 of this title][/us/usc/t19/s4202]” for “section 3803(a) or (b) of this title”.
+    2015—Subsec. (a)(1). [Pub. L. 114–26][/us/pl/114/26], § 110(a)(1)(A)(i), substituted “subsection (a) or (b) of [section 4202 of this title][/us/usc/t19/s4202]” for “section 3803(a) or (b) of this title”.
 
-    Subsec. (a)(2). [Pub. L. 114–26, § 110(a)(1)(A)(ii)][/us/pl/114/26/s110/a/1/A/ii], substituted “[section 4202(b) of this title][/us/usc/t19/s4202/b]” for “[section 3803(b) of this title][/us/usc/t19/s3803/b]”.
+    Subsec. (a)(2). [Pub. L. 114–26][/us/pl/114/26], § 110(a)(1)(A)(ii), substituted “[section 4202(b) of this title][/us/usc/t19/s4202/b]” for “[section 3803(b) of this title][/us/usc/t19/s3803/b]”.
 
-    Subsec. (b). [Pub. L. 114–26, § 110(a)(1)(B)][/us/pl/114/26/s110/a/1/B], substituted “[section 4202(a)(4)(A) of this title][/us/usc/t19/s4202/a/4/A]” for “[section 3803(a)(3)(A) of this title][/us/usc/t19/s3803/a/3/A]”.
+    Subsec. (b). [Pub. L. 114–26][/us/pl/114/26], § 110(a)(1)(B), substituted “[section 4202(a)(4)(A) of this title][/us/usc/t19/s4202/a/4/A]” for “[section 3803(a)(3)(A) of this title][/us/usc/t19/s3803/a/3/A]”.
 
-    Subsec. (c). [Pub. L. 114–26, § 110(a)(1)(C)][/us/pl/114/26/s110/a/1/C], substituted “[section 4202(a) of this title][/us/usc/t19/s4202/a]” for “[section 3803 of this title][/us/usc/t19/s3803]”.
+    Subsec. (c). [Pub. L. 114–26][/us/pl/114/26], § 110(a)(1)(C), substituted “[section 4202(a) of this title][/us/usc/t19/s4202/a]” for “[section 3803 of this title][/us/usc/t19/s3803]”.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–210, § 2110(a)(2)(A)(i)][/us/pl/107/210/s2110/a/2/A/i], substituted “[section 2133 of this title][/us/usc/t19/s2133] or section 3803(a) or (b) of this title,” for “[section 2133 of this title][/us/usc/t19/s2133] or section 2902(a) or (c) of this title,”.
+    2002—Subsec. (a)(1). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(2)(A)(i), substituted “[section 2133 of this title][/us/usc/t19/s2133] or section 3803(a) or (b) of this title,” for “[section 2133 of this title][/us/usc/t19/s2133] or section 2902(a) or (c) of this title,”.
 
-    Subsec. (a)(2). [Pub. L. 107–210, § 2110(a)(2)(A)(ii)][/us/pl/107/210/s2110/a/2/A/ii], substituted “[section 3803(b) of this title][/us/usc/t19/s3803/b]” for “section 2902(b) or (c) of this title”.
+    Subsec. (a)(2). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(2)(A)(ii), substituted “[section 3803(b) of this title][/us/usc/t19/s3803/b]” for “section 2902(b) or (c) of this title”.
 
-    Subsec. (b). [Pub. L. 107–210, § 2110(a)(2)(B)][/us/pl/107/210/s2110/a/2/B], substituted “[section 3803(a)(3)(A) of this title][/us/usc/t19/s3803/a/3/A]” for “[section 2902(a)(3)(A) of this title][/us/usc/t19/s2902/a/3/A]”.
+    Subsec. (b). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(2)(B), substituted “[section 3803(a)(3)(A) of this title][/us/usc/t19/s3803/a/3/A]” for “[section 2902(a)(3)(A) of this title][/us/usc/t19/s2902/a/3/A]”.
 
-    Subsec. (c). [Pub. L. 107–210, § 2110(a)(2)(C)][/us/pl/107/210/s2110/a/2/C], substituted “[section 3803 of this title][/us/usc/t19/s3803],” for “[section 2902 of this title][/us/usc/t19/s2902],”.
+    Subsec. (c). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(2)(C), substituted “[section 3803 of this title][/us/usc/t19/s3803],” for “[section 2902 of this title][/us/usc/t19/s2902],”.
 
     1988—[Pub. L. 100–418][/us/pl/100/418] amended section generally, substituting present provisions for provisions which related to: in subsec. (a), lists of articles which could be considered for modification or continuance of duties, duty-free or excise treatment, or additional duties; in subsec. (b), advice to President following receipt of list by Commission; in subsec. (c), additional investigations and reports requested by President; in subsec. (d), Commission steps in preparing its advice to President; and in subsec. (e), public hearings.
 
@@ -84,34 +84,34 @@
 [/us/usc/t19/s4202/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fa%2F4%2FA
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
 [/us/usc/t19/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fa
-[/us/pl/93/618/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs131
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1994
-[/us/pl/100/418/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1111%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1135
-[/us/pl/107/210/s2110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F2
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1019
-[/us/pl/114/26/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F1
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F357
-[/us/pl/114/26/s110/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F1%2FA%2Fi
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
-[/us/pl/114/26/s110/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F1%2FA%2Fii
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
 [/us/usc/t19/s3803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fb
-[/us/pl/114/26/s110/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F1%2FB
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4202/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fa%2F4%2FA
 [/us/usc/t19/s3803/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fa%2F3%2FA
-[/us/pl/114/26/s110/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F1%2FC
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fa
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
-[/us/pl/107/210/s2110/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F2%2FA%2Fi
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
-[/us/pl/107/210/s2110/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F2%2FA%2Fii
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fb
-[/us/pl/107/210/s2110/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F2%2FB
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3803/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fa%2F3%2FA
 [/us/usc/t19/s2902/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902%2Fa%2F3%2FA
-[/us/pl/107/210/s2110/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F2%2FC
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/usc/t19/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

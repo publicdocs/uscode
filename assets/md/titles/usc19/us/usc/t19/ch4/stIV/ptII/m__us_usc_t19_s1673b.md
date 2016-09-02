@@ -177,11 +177,11 @@
 
         Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2), the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 733, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 163][/us/stat/93/163]; amended [Pub. L. 99–514, title XVIII, § 1886(a)(2)][/us/pl/99/514/s1886/a/2], Oct. 22, 1986, [100 Stat. 2921][/us/stat/100/2921]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1323(b), 1324(b)(2), 1326(d)(1), Aug. 23, 1988, [102 Stat. 1198][/us/stat/102/1198], 1201, 1204; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 212(b)(2)(A), (C)–(E), 213(a), 214(b)(1), 215(b), 219(a), (c)(1), 233(a)(6)(A)(viii)–(x), (B), Dec. 8, 1994, [108 Stat. 4848–4852][/us/stat/108/4848-4852], 4855, 4857, 4901.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 733, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 163][/us/stat/93/163]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(2), Oct. 22, 1986, [100 Stat. 2921][/us/stat/100/2921]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1323(b), 1324(b)(2), 1326(d)(1), Aug. 23, 1988, [102 Stat. 1198][/us/stat/102/1198], 1201, 1204; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 212(b)(2)(A), (C)–(E), 213(a), 214(b)(1), 215(b), 219(a), (c)(1), 233(a)(6)(A)(viii)–(x), (B), Dec. 8, 1994, [108 Stat. 4848–4852][/us/stat/108/4848-4852], 4855, 4857, 4901.)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 212(b)(2)(A)][/us/pl/103/465/s212/b/2/A], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Except in the case of a petition dismissed by the administering authority under [section 1673a(c)(3) of this title][/us/usc/t19/s1673a/c/3], the Commission, within 45 days after the date on which a petition is filed under [section 1673a(b) of this title][/us/usc/t19/s1673a/b] or on which it receives notice from the administering authority of an investigation commenced under [section 1673a(a) of this title][/us/usc/t19/s1673a/a], shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable indication that—
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 212(b)(2)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Except in the case of a petition dismissed by the administering authority under [section 1673a(c)(3) of this title][/us/usc/t19/s1673a/c/3], the Commission, within 45 days after the date on which a petition is filed under [section 1673a(b) of this title][/us/usc/t19/s1673a/b] or on which it receives notice from the administering authority of an investigation commenced under [section 1673a(a) of this title][/us/usc/t19/s1673a/a], shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable indication that—
 
     “(1) an industry in the United States—
 
@@ -193,27 +193,27 @@
 
     by reason of imports of the merchandise which is the subject of the investigation by the administering authority. If that determination is negative, the investigation shall be terminated.”
 
-    Subsec. (b)(1)(A). [Pub. L. 103–465, § 219(a)(2)][/us/pl/103/465/s219/a/2], struck out at end “If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
+    Subsec. (b)(1)(A). [Pub. L. 103–465][/us/pl/103/465], § 219(a)(2), struck out at end “If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
 
     [Pub. L. 103–465][/us/pl/103/465], §§ 212(b)(2)(C)(i), 233(a)(6)(A)(viii), substituted “140 days after the date on which the administering authority initiates an investigation under [section 1673a(c) of this title][/us/usc/t19/s1673a/c]” for “160 days after the date on which a petition is filed under [section 1673a(b) of this title][/us/usc/t19/s1673a/b]”, “initiated” for “commenced”, and “information” for “best information”.
 
     Subsec. (b)(1)(B). [Pub. L. 103–465][/us/pl/103/465], §§ 212(b)(2)(C)(ii), 233(a)(6)(A)(viii), in introductory provisions, substituted “initiated” for “commenced”, in cl. (i), substituted “100” for “120” and “140” for “160”, and in cl. (ii), substituted “80” for “100” and “140” for “160”.
 
-    Subsec. (b)(2). [Pub. L. 103–465, § 233(a)(6)(A)(ix)][/us/pl/103/465/s233/a/6/A/ix], (B), substituted “initiation” for “commencement” after “90 days after the” and “initiated” for “commenced”.
+    Subsec. (b)(2). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(6)(A)(ix), (B), substituted “initiation” for “commencement” after “90 days after the” and “initiated” for “commenced”.
 
-    Subsec. (b)(3). [Pub. L. 103–465, § 213(a)][/us/pl/103/465/s213/a], added par. (3).
+    Subsec. (b)(3). [Pub. L. 103–465][/us/pl/103/465], § 213(a), added par. (3).
 
     Subsec. (c)(1). [Pub. L. 103–465][/us/pl/103/465], §§ 212(b)(2)(D), 233(a)(6)(A)(x), in concluding provisions, substituted “190th day after the date on which the administering authority initiates an investigation under [section 1673a(c) of this title][/us/usc/t19/s1673a/c]” for “210th day after the date on which a petition is filed under [section 1673a(b) of this title][/us/usc/t19/s1673a/b]” and “initiated” for “commenced”.
 
-    Subsec. (d). [Pub. L. 103–465, § 215(b)(1)(B)][/us/pl/103/465/s215/b/1/B], inserted concluding provisions.
+    Subsec. (d). [Pub. L. 103–465][/us/pl/103/465], § 215(b)(1)(B), inserted concluding provisions.
 
-    Subsec. (d)(1). [Pub. L. 103–465, § 219(a)(1)(D)][/us/pl/103/465/s219/a/1/D], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (d)(1). [Pub. L. 103–465][/us/pl/103/465], § 219(a)(1)(D), added par. (1). Former par. (1) redesignated (2).
 
-    [Pub. L. 103–465, § 215(b)(1)(A)][/us/pl/103/465/s215/b/1/A], substituted “warehouse, for consumption on or after the later of—” and subpars. (A) and (B) for “warehouse, for consumption on or after the date of publication of the notice of the determination in the Federal Register,”.
+    [Pub. L. 103–465][/us/pl/103/465], § 215(b)(1)(A), substituted “warehouse, for consumption on or after the later of—” and subpars. (A) and (B) for “warehouse, for consumption on or after the date of publication of the notice of the determination in the Federal Register,”.
 
-    Subsec. (d)(2). [Pub. L. 103–465, § 219(a)(1)(A)][/us/pl/103/465/s219/a/1/A]–(C), redesignated par. (1) as (2), inserted “and” at end, and struck out former par. (2) which read as follows: “shall order the posting of a cash deposit, bond, or other security, as it deems appropriate, for each entry of the merchandise concerned equal to the estimated average amount by which the foreign market value exceeds the United States price, and”.
+    Subsec. (d)(2). [Pub. L. 103–465][/us/pl/103/465], § 219(a)(1)(A)–(C), redesignated par. (1) as (2), inserted “and” at end, and struck out former par. (2) which read as follows: “shall order the posting of a cash deposit, bond, or other security, as it deems appropriate, for each entry of the merchandise concerned equal to the estimated average amount by which the foreign market value exceeds the United States price, and”.
 
-    Subsec. (e)(1). [Pub. L. 103–465, § 214(b)(1)][/us/pl/103/465/s214/b/1], in introductory provisions, substituted “information” for “best information” and amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+    Subsec. (e)(1). [Pub. L. 103–465][/us/pl/103/465], § 214(b)(1), in introductory provisions, substituted “information” for “best information” and amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
     “(A)(i) there is a history of dumping in the United States or elsewhere of the class or kind of the merchandise which is the subject of the investigation, or
 
@@ -223,17 +223,17 @@
 
     Subsec. (e)(2). [Pub. L. 103–465][/us/pl/103/465], §§ 215(b)(2), 219(c)(1), substituted “subsection (d)(2)” for “subsection (d)(1)” and “warehouse, for consumption on or after the later of—” and subpars. (A) and (B) for “warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered.”
 
-    Subsec. (f). [Pub. L. 103–465, § 212(b)(2)(E)][/us/pl/103/465/s212/b/2/E], amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Whenever the Commission or the administering authority makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.”
+    Subsec. (f). [Pub. L. 103–465][/us/pl/103/465], § 212(b)(2)(E), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Whenever the Commission or the administering authority makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.”
 
-    1988—Subsec. (b)(1). [Pub. L. 100–418, § 1323(b)(1)][/us/pl/100/418/s1323/b/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 160 days after the date on which a petition is filed under [section 1673a(b) of this title][/us/usc/t19/s1673a/b], or an investigation is commenced under [section 1673a(a) of this title][/us/usc/t19/s1673a/a], but not before an affirmative determination by the Commission under subsection (a) of this section, the administering authority shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable basis to believe or suspect that the merchandise is being sold, or is likely to be sold at less than fair value. If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
+    1988—Subsec. (b)(1). [Pub. L. 100–418][/us/pl/100/418], § 1323(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 160 days after the date on which a petition is filed under [section 1673a(b) of this title][/us/usc/t19/s1673a/b], or an investigation is commenced under [section 1673a(a) of this title][/us/usc/t19/s1673a/a], but not before an affirmative determination by the Commission under subsection (a) of this section, the administering authority shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable basis to believe or suspect that the merchandise is being sold, or is likely to be sold at less than fair value. If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
 
-    Subsec. (b)(2). [Pub. L. 100–418, § 1326(d)(1)][/us/pl/100/418/s1326/d/1], substituted “(F), or (G)” for “or (F)” in two places.
+    Subsec. (b)(2). [Pub. L. 100–418][/us/pl/100/418], § 1326(d)(1), substituted “(F), or (G)” for “or (F)” in two places.
 
-    Subsec. (c)(1). [Pub. L. 100–418, § 1323(b)(2)][/us/pl/100/418/s1323/b/2], inserted sentence at end relating to notice for extensions under subsec. (b)(1)(B).
+    Subsec. (c)(1). [Pub. L. 100–418][/us/pl/100/418], § 1323(b)(2), inserted sentence at end relating to notice for extensions under subsec. (b)(1)(B).
 
-    Subsec. (e)(1). [Pub. L. 100–418, § 1324(b)(2)][/us/pl/100/418/s1324/b/2], inserted “(at any time after the initiation of the investigation under this part)” after “promptly” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 100–418][/us/pl/100/418], § 1324(b)(2), inserted “(at any time after the initiation of the investigation under this part)” after “promptly” in introductory provisions.
 
-    [Pub. L. 100–418, § 1323(b)(3)][/us/pl/100/418/s1323/b/3], inserted sentence at end relating to investigations in which subsec. (b)(1)(B) is applied.
+    [Pub. L. 100–418][/us/pl/100/418], § 1323(b)(3), inserted sentence at end relating to investigations in which subsec. (b)(1)(B) is applied.
 
     1986—Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514] inserted reference to subpar. (F) of [section 1677(9) of this title][/us/usc/t19/s1677/9] in two places.
 
@@ -274,42 +274,42 @@
 [/us/usc/t19/s1673a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fa
 [/us/usc/t19/s1673d/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673d%2Fc%2F5
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F163
-[/us/pl/99/514/s1886/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2921
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1198
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4848-4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4848-4852
-[/us/pl/103/465/s212/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs212%2Fb%2F2%2FA
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1673a/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fc%2F3
 [/us/usc/t19/s1673a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fb
 [/us/usc/t19/s1673a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fa
-[/us/pl/103/465/s219/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs219%2Fa%2F2
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1673a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fc
 [/us/usc/t19/s1673a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fb
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s233/a/6/A/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F6%2FA%2Fix
-[/us/pl/103/465/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs213%2Fa
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1673a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fc
 [/us/usc/t19/s1673a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fb
-[/us/pl/103/465/s215/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs215%2Fb%2F1%2FB
-[/us/pl/103/465/s219/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs219%2Fa%2F1%2FD
-[/us/pl/103/465/s215/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs215%2Fb%2F1%2FA
-[/us/pl/103/465/s219/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs219%2Fa%2F1%2FA
-[/us/pl/103/465/s214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs214%2Fb%2F1
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s212/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs212%2Fb%2F2%2FE
-[/us/pl/100/418/s1323/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1323%2Fb%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s1673a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fb
 [/us/usc/t19/s1673a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a%2Fa
-[/us/pl/100/418/s1326/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1326%2Fd%2F1
-[/us/pl/100/418/s1323/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1323%2Fb%2F2
-[/us/pl/100/418/s1324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1324%2Fb%2F2
-[/us/pl/100/418/s1323/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1323%2Fb%2F3
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

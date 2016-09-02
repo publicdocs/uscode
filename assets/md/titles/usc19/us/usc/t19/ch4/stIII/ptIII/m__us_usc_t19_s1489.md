@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1488.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1490.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1489)
 
-## § 1489. Repealed. [Pub. L. 87–456, title III, § 301(a)][/us/pl/87/456/s301/a], May 24, 1962, [76 Stat. 75][/us/stat/76/75]
+## § 1489. Repealed. [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 301(a), May 24, 1962, [76 Stat. 75][/us/stat/76/75]
 
-    Section, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 489, [46 Stat. 725][/us/stat/46/725]; [Aug. 8, 1953, ch. 397, § 18(b)][/us/act/1953-08-08/ch397/s18/b], [67 Stat. 517][/us/stat/67/517], related to entry of antique furniture at designated ports.
+    Section, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 489, [46 Stat. 725][/us/stat/46/725]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 18(b), [67 Stat. 517][/us/stat/67/517], related to entry of antique furniture at designated ports.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/87/456/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs301%2Fa
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F75
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F725
-[/us/act/1953-08-08/ch397/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs18%2Fb
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F517
 [/us/pl/87/456/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs501%2Fa
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202

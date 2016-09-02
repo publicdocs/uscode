@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury may prescribe such regulations as may be necessary or appropriate to carry out the provisions of this chapter (other than section 1751 thereof).
 
-([Pub. L. 86–14, § 7][/us/pl/86/14/s7], Apr. 22, 1959, [73 Stat. 19][/us/stat/73/19].)
+([Pub. L. 86–14][/us/pl/86/14], § 7, Apr. 22, 1959, [73 Stat. 19][/us/stat/73/19].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/14/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14%2Fs7
+[/us/pl/86/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14
 [/us/stat/73/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F19
 
 

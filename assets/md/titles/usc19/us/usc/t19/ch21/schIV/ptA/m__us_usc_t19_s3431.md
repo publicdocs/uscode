@@ -17,11 +17,11 @@
 
     Any reference in this part to an Annex, chapter, or article shall be considered to be a reference to the respective Annex, chapter, or article of the Agreement.
 
-([Pub. L. 103–182, title IV, § 401][/us/pl/103/182/s401], Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129].)
+([Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 401, Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129].)
 
  __Effective Date__ 
 
-[Pub. L. 103–182, title IV, § 416][/us/pl/103/182/s416], Dec. 8, 1993, [107 Stat. 2148][/us/stat/107/2148], provided that: 
+[Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 416, Dec. 8, 1993, [107 Stat. 2148][/us/stat/107/2148], provided that: 
 
 > “The provisions of this title \[enacting this subchapter, amending sections 1502, 1514, 1516a, 1677, and 1677f of this title and sections 1581, 1584, 2201, and 2643 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under [section 2112 of this title][/us/usc/t19/s2112]\] and the amendments made by this title take effect on the date the Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but shall not apply—
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/103/182/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs401
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2129
-[/us/pl/103/182/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs416
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2148
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s1516a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Fa%2F1%2FB

@@ -55,7 +55,7 @@
 
         [Section 1677f of this title][/us/usc/t19/s1677f] shall apply to investigations under this section, to the extent specified by the Trade Representative, after consultation with the administering authority and the Commission.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 783, as added [Pub. L. 103–465, title II, § 232(a)][/us/pl/103/465/s232/a], Dec. 8, 1994, [108 Stat. 4897][/us/stat/108/4897]; amended [Pub. L. 104–295, § 20(b)(17)][/us/pl/104/295/s20/b/17], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 783, as added [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 232(a), Dec. 8, 1994, [108 Stat. 4897][/us/stat/108/4897]; amended [Pub. L. 104–295][/us/pl/104/295], § 20(b)(17), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
 
  __Amendments__ 
 
@@ -79,9 +79,9 @@
 [/us/usc/t19/s1673d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673d
 [/us/usc/t19/s1677f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/465/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs232%2Fa
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4897
-[/us/pl/104/295/s20/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F17
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291

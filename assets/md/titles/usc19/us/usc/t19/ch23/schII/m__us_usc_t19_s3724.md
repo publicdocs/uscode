@@ -29,7 +29,7 @@
 
     (3) the United States Trade Representative should have adequate funding and staff to carry out the duties of the Assistant United States Trade Representative for African Affairs described in paragraph (2), subject to the availability of appropriations.
 
-([Pub. L. 106–200, title I, § 117][/us/pl/106/200/s117], May 18, 2000, [114 Stat. 267][/us/stat/114/267].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 117, May 18, 2000, [114 Stat. 267][/us/stat/114/267].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/106/200/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs117
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F267
 
 

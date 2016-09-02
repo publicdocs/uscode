@@ -135,7 +135,7 @@
 
         Nothing contained in this section shall be construed to authorize or to permit any individual (not otherwise authorized or permitted) to participate directly in any negotiation of any agreement authorized by this chapter.
 
-([Pub. L. 97–446, title III, § 306][/us/pl/97/446/s306], Jan. 12, 1983, [96 Stat. 2356][/us/stat/96/2356]; [Pub. L. 100–204, title III, § 307(a)][/us/pl/100/204/s307/a], (b), Dec. 22, 1987, [101 Stat. 1380][/us/stat/101/1380].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 306, Jan. 12, 1983, [96 Stat. 2356][/us/stat/96/2356]; [Pub. L. 100–204, title III][/us/pl/100/204/tIII], § 307(a), (b), Dec. 22, 1987, [101 Stat. 1380][/us/stat/101/1380].)
 
  __References in Text__ 
 
@@ -143,13 +143,13 @@
 
  __Amendments__ 
 
-    1987—Subsec. (b)(3)(A). [Pub. L. 100–204, § 307(a)][/us/pl/100/204/s307/a], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Members of the Committee shall be appointed for terms of two years and may be reappointed for 1 or more terms.”
+    1987—Subsec. (b)(3)(A). [Pub. L. 100–204][/us/pl/100/204], § 307(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Members of the Committee shall be appointed for terms of two years and may be reappointed for 1 or more terms.”
 
-    Subsec. (b)(3)(B). [Pub. L. 100–204, § 307(b)][/us/pl/100/204/s307/b], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A vacancy in the Commission shall be filled in the same manner in which the original appointment was made.”
+    Subsec. (b)(3)(B). [Pub. L. 100–204][/us/pl/100/204], § 307(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A vacancy in the Commission shall be filled in the same manner in which the original appointment was made.”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–204, title III, § 307(c)][/us/pl/100/204/s307/c], Dec. 22, 1987, [101 Stat. 1380][/us/stat/101/1380], provided that: 
+[Pub. L. 100–204, title III][/us/pl/100/204/tIII], § 307(c), Dec. 22, 1987, [101 Stat. 1380][/us/stat/101/1380], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to members of the Cultural Property Advisory Committee first appointed after the date of enactment of this Act \[Dec. 22, 1987\].”
 
@@ -181,15 +181,15 @@
 [/us/usc/t19/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2603
 [/us/usc/t19/s2602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2602%2Fd
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
-[/us/pl/97/446/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs306
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2356
-[/us/pl/100/204/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs307%2Fa
+[/us/pl/100/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtIII
 [/us/stat/101/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1380
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/100/204/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs307%2Fa
-[/us/pl/100/204/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs307%2Fb
-[/us/pl/100/204/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs307%2Fc
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtIII
 [/us/stat/101/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1380
 [/us/usc/t19/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2602
 

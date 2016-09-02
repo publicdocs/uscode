@@ -163,7 +163,7 @@
 
             In preparing the assessment, the Commission shall review available economic assessments regarding the agreement, including literature regarding any substantially equivalent proposed agreement, and shall provide in its assessment a description of the analyses used and conclusions drawn in such literature, and a discussion of areas of consensus and divergence between the various analyses and conclusions, including those of the Commission regarding the agreement.
 
-([Pub. L. 107–210, div. B, title XXI, § 2104][/us/pl/107/210/s2104], Aug. 6, 2002, [116 Stat. 1008][/us/stat/116/1008].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2104, Aug. 6, 2002, [116 Stat. 1008][/us/stat/116/1008].)
 
  __References in Text__ 
 
@@ -203,7 +203,7 @@
 [/us/usc/t19/s2192/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192%2Fd
 [/us/usc/t19/s2155/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155%2Fe%2F1
 [/us/usc/t19/s3803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fb
-[/us/pl/107/210/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2104
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1008
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590

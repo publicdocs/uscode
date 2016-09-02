@@ -91,21 +91,21 @@
 
         (8) The failure of a vessel to stop when hailed by a customs officer or other government authority.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 590, as added [Pub. L. 99–570, title III, § 3120][/us/pl/99/570/s3120], Oct. 27, 1986, [100 Stat. 3207–84][/us/stat/100/3207-84]; amended [Pub. L. 112–93, § 2(a)][/us/pl/112/93/s2/a], (b), Feb. 10, 2012, [126 Stat. 8][/us/stat/126/8].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 590, as added [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3120, Oct. 27, 1986, [100 Stat. 3207–84][/us/stat/100/3207-84]; amended [Pub. L. 112–93][/us/pl/112/93], § 2(a), (b), Feb. 10, 2012, [126 Stat. 8][/us/stat/126/8].)
 
  __Prior Provisions__ 
 
-    A prior section 1590, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 590, [46 Stat. 750][/us/stat/46/750], related to false drawback claims, prior to repeal by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948. See [section 550 of Title 18][/us/usc/t18/s550], Crimes and Criminal Procedure.
+    A prior section 1590, [act June 17, 1930, ch. 497, title IV][/us/act/1930-06-17/ch497/tIV], § 590, [46 Stat. 750][/us/stat/46/750], related to false drawback claims, prior to repeal by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948. See [section 550 of Title 18][/us/usc/t18/s550], Crimes and Criminal Procedure.
 
  __Amendments__ 
 
-    2012—Subsec. (d). [Pub. L. 112–93, § 2(b)][/us/pl/112/93/s2/b], inserted “, or attempts or conspires to commit,” after “commits” in introductory provisions.
+    2012—Subsec. (d). [Pub. L. 112–93][/us/pl/112/93], § 2(b), inserted “, or attempts or conspires to commit,” after “commits” in introductory provisions.
 
-    Subsecs. (g), (h). [Pub. L. 112–93, § 2(a)][/us/pl/112/93/s2/a], added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 112–93][/us/pl/112/93], § 2(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–93, § 2(c)][/us/pl/112/93/s2/c], Feb. 10, 2012, [126 Stat. 8][/us/stat/126/8], provided that: 
+[Pub. L. 112–93][/us/pl/112/93], § 2(c), Feb. 10, 2012, [126 Stat. 8][/us/stat/126/8], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply with respect to violations of any provision of section 590 of the Tariff Act of 1930 \[[19 U.S.C. 1590][/us/usc/t19/s1590]\] on or after the 30th day after the date of the enactment of this Act \[Feb. 10, 2012\].”
 
@@ -125,18 +125,18 @@
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t19/s1595a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1595a
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/99/570/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3120
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-84
-[/us/pl/112/93/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93%2Fs2%2Fa
+[/us/pl/112/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93
 [/us/stat/126/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F8
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIV
 [/us/stat/46/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F750
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/usc/t18/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs550
-[/us/pl/112/93/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93%2Fs2%2Fb
-[/us/pl/112/93/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93%2Fs2%2Fa
-[/us/pl/112/93/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93%2Fs2%2Fc
+[/us/pl/112/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93
+[/us/pl/112/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93
+[/us/pl/112/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F93
 [/us/stat/126/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F8
 [/us/usc/t19/s1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1590
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331

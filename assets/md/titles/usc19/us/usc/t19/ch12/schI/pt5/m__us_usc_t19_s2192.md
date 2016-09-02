@@ -89,13 +89,13 @@
 
         (3) Consideration in the Senate of any veto message with respect to a joint resolution described in subsection (a)(2)(B) or [section 2193(a) of this title][/us/usc/t19/s2193/a], including consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-([Pub. L. 93–618, title I, § 152][/us/pl/93/618/s152], Jan. 3, 1975, [88 Stat. 2004][/us/stat/88/2004]; [Pub. L. 96–39, title IX, § 902(a)(1)][/us/pl/96/39/s902/a/1], title XI, § 1106(c)(5), July 26, 1979, [93 Stat. 299][/us/stat/93/299], 312; [Pub. L. 98–573, title II, § 248(b)][/us/pl/98/573/s248/b], Oct. 30, 1984, [98 Stat. 2998][/us/stat/98/2998]; [Pub. L. 101–382, title I, § 132(c)(2)][/us/pl/101/382/s132/c/2]–(5), Aug. 20, 1990, [104 Stat. 646][/us/stat/104/646], 647; [Pub. L. 103–465, title II, § 261(d)(1)(A)(ii)][/us/pl/103/465/s261/d/1/A/ii], Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909]; [Pub. L. 104–295, § 20(b)(10)][/us/pl/104/295/s20/b/10], Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 152, Jan. 3, 1975, [88 Stat. 2004][/us/stat/88/2004]; [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 902(a)(1), title XI, § 1106(c)(5), July 26, 1979, [93 Stat. 299][/us/stat/93/299], 312; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 248(b), Oct. 30, 1984, [98 Stat. 2998][/us/stat/98/2998]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 132(c)(2)–(5), Aug. 20, 1990, [104 Stat. 646][/us/stat/104/646], 647; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 261(d)(1)(A)(ii), Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909]; [Pub. L. 104–295][/us/pl/104/295], § 20(b)(10), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
 
  __References in Text__ 
 
     Section 203 of the Trade Act of 1974, referred to in subsec. (a)(1)(A), is [section 203 of Pub. L. 93–618][/us/pl/93/618/s203], title II, Jan. 3, 1975, [88 Stat. 2015][/us/stat/88/2015], which is classified to [section 2253 of this title][/us/usc/t19/s2253].
 
-    Sections 402(b) and 409(b) of the Trade Act of 1974, referred to in subsec. (a)(2)(C), are sections 402(b) and 409(b) of [Pub. L. 93–618, title IV][/us/pl/93/618], Jan. 3, 1975, [88 Stat. 2060][/us/stat/88/2060], 2064, respectively, which are classified to sections 2432 and 2439 of this title, respectively.
+    Sections 402(b) and 409(b) of the Trade Act of 1974, referred to in subsec. (a)(2)(C), are sections 402(b) and 409(b) of [Pub. L. 93–618, title IV][/us/pl/93/618/tIV], Jan. 3, 1975, [88 Stat. 2060][/us/stat/88/2060], 2064, respectively, which are classified to sections 2432 and 2439 of this title, respectively.
 
  __Amendments__ 
 
@@ -103,17 +103,17 @@
 
     1994—Subsec. (a)(2). [Pub. L. 103–465][/us/pl/103/465], as amended by [Pub. L. 104–295][/us/pl/104/295], substituted comma for “as follows:” after “shall be filled” in introductory provisions, struck out “(B)” before “in the case”, and struck out subpar. (A) which read as follows: “in the case of a resolution referred to in [section 1303(e) of this title][/us/usc/t19/s1303/e], with the phrase ‘the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930’; and”.
 
-    1990—Subsec. (a)(1)(B). [Pub. L. 101–382, § 132(c)(2)][/us/pl/101/382/s132/c/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_ does not approve \_\_\_ transmitted to the Congress on \_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date.”
+    1990—Subsec. (a)(1)(B). [Pub. L. 101–382][/us/pl/101/382], § 132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_ does not approve \_\_\_ transmitted to the Congress on \_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date.”
 
-    Subsec. (a)(2). [Pub. L. 101–382, § 132(c)(3)][/us/pl/101/382/s132/c/3], substituted “first” for “second” in introductory provisions and “2437(c)(2)” for “2437(c)(3)” in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of a resolution referred to in [section 2437(c)(2) of this title][/us/usc/t19/s2437/c/2], with the phrase ‘the extension of nondiscriminatory treatment with respect to the products of \_\_\_’ (with this blank space being filled with the name of the country involved); and”.
+    Subsec. (a)(2). [Pub. L. 101–382][/us/pl/101/382], § 132(c)(3), substituted “first” for “second” in introductory provisions and “2437(c)(2)” for “2437(c)(3)” in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of a resolution referred to in [section 2437(c)(2) of this title][/us/usc/t19/s2437/c/2], with the phrase ‘the extension of nondiscriminatory treatment with respect to the products of \_\_\_’ (with this blank space being filled with the name of the country involved); and”.
 
-    Subsec. (c)(1). [Pub. L. 101–382, § 132(c)(4)][/us/pl/101/382/s132/c/4], substituted “except that a motion to discharge—
+    Subsec. (c)(1). [Pub. L. 101–382][/us/pl/101/382], § 132(c)(4), substituted “except that a motion to discharge—
 
     “(A) may only be made on the second legislative day after the calendar day on which the Member making the motion announces to the House his intention to do so; and
 
     “(B) is not in order after the Committee has reported a resolution with respect to the same matter” for “except no motion to discharge shall be in order after the committee has reported a resolution with respect to the same matter”.
 
-    Subsec. (f). [Pub. L. 101–382, § 132(c)(5)][/us/pl/101/382/s132/c/5], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In the case of a resolution described in subsection (a)(1) of this section, if prior to the passage by one House of a resolution of that House, that House receives a resolution with respect to the same matter from the other House, then—
+    Subsec. (f). [Pub. L. 101–382][/us/pl/101/382], § 132(c)(5), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In the case of a resolution described in subsection (a)(1) of this section, if prior to the passage by one House of a resolution of that House, that House receives a resolution with respect to the same matter from the other House, then—
 
     “(1) the procedure in that House shall be the same as if no resolution had been received from the other House; but
 
@@ -121,13 +121,13 @@
 
     1984—Subsec. (a)(1)(A). [Pub. L. 98–573][/us/pl/98/573] substituted “joint resolution” for “concurrent resolution”.
 
-    1979—Subsec. (a)(1)(A). [Pub. L. 96–39, § 902(a)(1)(A)][/us/pl/96/39/s902/a/1/A], substituted “does not approve the action taken by, or the determination of, the President under section 203 of the Trade Act of 1974 transmitted to the Congress on \_\_\_.’, the blank space being filled with the appropriate date” for “does not approve \_\_\_ transmitted to the Congress on \_\_\_.’, the first blank space being filled in accordance with paragraph (2) and the second blank space being filled with the appropriate date”.
+    1979—Subsec. (a)(1)(A). [Pub. L. 96–39][/us/pl/96/39], § 902(a)(1)(A), substituted “does not approve the action taken by, or the determination of, the President under section 203 of the Trade Act of 1974 transmitted to the Congress on \_\_\_.’, the blank space being filled with the appropriate date” for “does not approve \_\_\_ transmitted to the Congress on \_\_\_.’, the first blank space being filled in accordance with paragraph (2) and the second blank space being filled with the appropriate date”.
 
-    Subsec. (a)(1)(B). [Pub. L. 96–39, § 902(a)(1)(B)][/us/pl/96/39/s902/a/1/B], substituted “paragraph (2),” for “paragraph (3),”.
+    Subsec. (a)(1)(B). [Pub. L. 96–39][/us/pl/96/39], § 902(a)(1)(B), substituted “paragraph (2),” for “paragraph (3),”.
 
-    Subsec. (a)(2), (3). [Pub. L. 96–39, § 902(a)(1)(C)][/us/pl/96/39/s902/a/1/C], (D), redesignated par. (3) as (2). Former par. (2), relating to the first blank space referred to in subsec. (a)(1)(A), was struck out.
+    Subsec. (a)(2), (3). [Pub. L. 96–39][/us/pl/96/39], § 902(a)(1)(C), (D), redesignated par. (3) as (2). Former par. (2), relating to the first blank space referred to in subsec. (a)(1)(A), was struck out.
 
-    Subsec. (c)(1). [Pub. L. 96–39, § 1106(c)(5)][/us/pl/96/39/s1106/c/5], substituted “[section 2194(b) of this title][/us/usc/t19/s2194/b]” for “[section 2193(b) of this title][/us/usc/t19/s2193/b]”.
+    Subsec. (c)(1). [Pub. L. 96–39][/us/pl/96/39], § 1106(c)(5), substituted “[section 2194(b) of this title][/us/usc/t19/s2194/b]” for “[section 2193(b) of this title][/us/usc/t19/s2193/b]”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -156,38 +156,38 @@
 [/us/usc/t19/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2194%2Fb
 [/us/usc/t19/s2193/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2193%2Fa
 [/us/usc/t19/s2193/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2193%2Fa
-[/us/pl/93/618/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs152
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2004
-[/us/pl/96/39/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs902%2Fa%2F1
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F299
-[/us/pl/98/573/s248/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs248%2Fb
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2998
-[/us/pl/101/382/s132/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fc%2F2
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F646
-[/us/pl/103/465/s261/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FA%2Fii
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4909
-[/us/pl/104/295/s20/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F10
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
 [/us/pl/93/618/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs203
 [/us/stat/88/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2015
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
-[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2060
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/usc/t19/s1303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303%2Fe
-[/us/pl/101/382/s132/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fc%2F2
-[/us/pl/101/382/s132/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fc%2F3
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t19/s2437/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2437%2Fc%2F2
-[/us/pl/101/382/s132/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fc%2F4
-[/us/pl/101/382/s132/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fc%2F5
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
-[/us/pl/96/39/s902/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs902%2Fa%2F1%2FA
-[/us/pl/96/39/s902/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs902%2Fa%2F1%2FB
-[/us/pl/96/39/s902/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs902%2Fa%2F1%2FC
-[/us/pl/96/39/s1106/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fc%2F5
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2194%2Fb
 [/us/usc/t19/s2193/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2193%2Fb
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

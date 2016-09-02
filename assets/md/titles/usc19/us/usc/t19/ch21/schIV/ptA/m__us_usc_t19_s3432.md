@@ -235,7 +235,7 @@
 
         At such time as the final candidate lists are submitted under subsection (c)(4)(A) and the final forms of amendments are submitted under subsection (c)(4)(C)(iv), the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 19.
 
-([Pub. L. 103–182, title IV, § 402][/us/pl/103/182/s402], Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 104–295, § 21(c)(1)][/us/pl/104/295/s21/c/1], Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
+([Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 402, Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 104–295][/us/pl/104/295], § 21(c)(1), Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
 
  __References in Text__ 
 
@@ -261,9 +261,9 @@
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t19/s1677f/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f%2Ff%2F3
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
-[/us/pl/103/182/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs402
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2129
-[/us/pl/104/295/s21/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fc%2F1
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3530
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590

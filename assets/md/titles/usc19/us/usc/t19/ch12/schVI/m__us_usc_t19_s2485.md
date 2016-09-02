@@ -21,7 +21,7 @@
 
     (2) ceases to be effective not later than January 1, 1975.
 
-([Pub. L. 93–618, title VI, § 607][/us/pl/93/618/s607], Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073].)
+([Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 607, Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs44
-[/us/pl/93/618/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs607
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2073
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

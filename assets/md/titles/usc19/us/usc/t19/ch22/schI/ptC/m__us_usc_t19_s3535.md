@@ -79,7 +79,7 @@
 
         (2) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
-([Pub. L. 103–465, title I, § 125][/us/pl/103/465/s125], Dec. 8, 1994, [108 Stat. 4833][/us/stat/108/4833].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 125, Dec. 8, 1994, [108 Stat. 4833][/us/stat/108/4833].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 [/us/usc/t19/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2194%2Fb
 [/us/usc/t19/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192
 [/us/usc/t19/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2194%2Fb
-[/us/pl/103/465/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs125
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4833
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd
 [/us/usc/t19/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511

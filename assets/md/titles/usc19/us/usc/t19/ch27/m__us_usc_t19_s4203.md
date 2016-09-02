@@ -75,7 +75,7 @@
 
         (3) __Accreditation__ 
 
-            Each Member of Congress designated as a congressional adviser under paragraph (1) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
+            Each Member of Congress designated as a congressional adviser under paragraph (1) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
 
     (c) __Congressional advisory groups on negotiations__ 
 
@@ -103,7 +103,7 @@
 
             (C) __Accreditation__ 
 
-                Each member of the congressional advisory groups described in subparagraphs (A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
+                Each member of the congressional advisory groups described in subparagraphs (A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
 
             (D) __Consultation and advice__ 
 
@@ -201,7 +201,7 @@
 
     (f) __Omitted__ 
 
-([Pub. L. 114–26, title I, § 104][/us/pl/114/26/s104], June 29, 2015, [129 Stat. 337][/us/stat/129/337].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 104, June 29, 2015, [129 Stat. 337][/us/stat/129/337]; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 914(d), Feb. 24, 2016, [130 Stat. 274][/us/stat/130/274].)
 
  __References in Text__ 
 
@@ -210,6 +210,16 @@
  __Codification__ 
 
     Section is comprised of [section 104 of Pub. L. 114–26][/us/pl/114/26/s104]. Subsec. (f) of [section 104 of Pub. L. 114–26][/us/pl/114/26/s104] amended [section 2171 of this title][/us/usc/t19/s2171].
+
+ __Amendments__ 
+
+    2016—Subsec. (b)(3). [Pub. L. 114–125][/us/pl/114/125], § 914(d)(1), substituted “a delegate and official” for “an official”.
+
+    Subsec. (c)(2)(C). [Pub. L. 114–125][/us/pl/114/125], § 914(d)(2), substituted “a delegate and official” for “an official” in two places and inserted after first sentence “In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies.”
+
+ __Effective Date of 2016 Amendment__ 
+
+    Amendment by [Pub. L. 114–125][/us/pl/114/125] effective as if included in the enactment of title I of [Pub. L. 114–26][/us/pl/114/26], see [section 914(g) of Pub. L. 114–125][/us/pl/114/125/s914/g], set out as a note under [section 4201 of this title][/us/usc/t19/s4201].
 
  __Delegation of Functions__ 
 
@@ -224,14 +234,22 @@
 
 [/us/usc/t19/s4204/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4204%2Fd%2F3
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/114/26/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs104
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F337
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F274
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 [/us/pl/114/26/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs104
 [/us/pl/114/26/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs104
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
+[/us/pl/114/125/s914/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs914%2Fg
+[/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 
 

@@ -31,7 +31,7 @@
 
         If the President determines that competitive opportunities in one or more product sectors will be significantly affected by a trade agreement concluded under section 2111 or 2112 of this title, he shall submit to the Congress with each such agreement an analysis of the extent to which the negotiating objective set forth in subsection (a) is achieved by such agreement in each product sector or product sectors.
 
-([Pub. L. 93–618, title I, § 104][/us/pl/93/618/s104], Jan. 3, 1975, [88 Stat. 1984][/us/stat/88/1984]; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381]; [Pub. L. 98–573, title III, § 306(c)(2)(C)(i)][/us/pl/98/573/s306/c/2/C/i], Oct. 30, 1984, [98 Stat. 3012][/us/stat/98/3012].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 104, Jan. 3, 1975, [88 Stat. 1984][/us/stat/88/1984]; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381]; [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 306(c)(2)(C)(i), Oct. 30, 1984, [98 Stat. 3012][/us/stat/98/3012].)
 
  __Change of Name__ 
 
@@ -50,10 +50,10 @@
 
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/93/618/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs104
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1984
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
-[/us/pl/98/573/s306/c/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F2%2FC%2Fi
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3012
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171

@@ -41,7 +41,7 @@
 
         The Secretary may make available in writing or through electronic media, in an efficient, comprehensive and timely manner, all information, including directives, memoranda, electronic messages and telexes which contain instructions, requirements, methods or advice necessary for importers and exporters to comply with the Customs  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  laws and regulations. All information which may be made available pursuant to this subsection shall be subject to any exemption from disclosure provided by [section 552 of title 5][/us/usc/t5/s552].
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 625, as added [Pub. L. 95–410, title I, § 112][/us/pl/95/410/s112], Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; amended [Pub. L. 103–182, title VI, § 623][/us/pl/103/182/s623], Dec. 8, 1993, [107 Stat. 2186][/us/stat/107/2186]; [Pub. L. 104–295, § 21(e)(14)][/us/pl/104/295/s21/e/14], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 625, as added [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 112, Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; amended [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 623, Dec. 8, 1993, [107 Stat. 2186][/us/stat/107/2186]; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(14), Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Study and Report Relating to Timeliness of Prospective Rulings__ 
 
-    [Pub. L. 107–210, div. A, title III, § 335][/us/pl/107/210/s335], Aug. 6, 2002, [116 Stat. 978][/us/stat/116/978], required the Comptroller General, not later than 1 year after Aug. 6, 2002, to conduct a study and report to committees of Congress on the extent to which the Office of Regulations and Rulings of the Customs Service had made improvements to decrease the time between requests for, and issuance of, prospective rulings relating to the proper classification, valuation, or marking of goods proposed to be imported into the United States.
+    [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 335, Aug. 6, 2002, [116 Stat. 978][/us/stat/116/978], required the Comptroller General, not later than 1 year after Aug. 6, 2002, to conduct a study and report to committees of Congress on the extent to which the Office of Regulations and Rulings of the Customs Service had made improvements to decrease the time between requests for, and issuance of, prospective rulings relating to the proper classification, valuation, or marking of goods proposed to be imported into the United States.
 
 ----------
 
@@ -66,16 +66,16 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/95/410/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs112
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F898
-[/us/pl/103/182/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs623
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2186
-[/us/pl/104/295/s21/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F14
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3531
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/210/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs335
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F978
 
 

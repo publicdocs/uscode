@@ -17,7 +17,7 @@
 
     The United States Trade Representative shall make available to the Members of Congress designated as official advisers pursuant to [section 2211 of this title][/us/usc/t19/s2211] information compiled by the Committee on Government Procurement under article XIX(5) of the Agreement.
 
-([Pub. L. 96–39, title III, § 307][/us/pl/96/39/s307], July 26, 1979, [93 Stat. 240][/us/stat/93/240]; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381]; [Pub. L. 103–465, title III, § 342(e)][/us/pl/103/465/s342/e], Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953].)
+([Pub. L. 96–39, title III][/us/pl/96/39/tIII], § 307, July 26, 1979, [93 Stat. 240][/us/stat/93/240]; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, [93 Stat. 1381][/us/stat/93/1381]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 342(e), Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953].)
 
  __Amendments__ 
 
@@ -39,10 +39,10 @@
 ----------
 
 [/us/usc/t19/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2211
-[/us/pl/96/39/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs307
+[/us/pl/96/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIII
 [/us/stat/93/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F240
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
-[/us/pl/103/465/s342/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fe
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4953
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381

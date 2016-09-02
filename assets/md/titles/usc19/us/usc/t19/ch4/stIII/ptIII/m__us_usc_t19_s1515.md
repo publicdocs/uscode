@@ -25,19 +25,19 @@
 
     (c) __Request for set aside of denial of further review__ 
 
-        If a protesting party believes that an application for further review was erroneously or improperly denied or was denied without authority for such action, it may file with the Commissioner of Customs a written request that the denial of the application for further review be set aside. Such request must be filed within 60 days after the date of the notice of the denial. The Commissioner of Customs may review such request and, based solely on the information before the Customs Service at the time the application for further review was denied, may set aside the denial of the application for further review and void the denial of protest, if appropriate. If the Commissioner of Customs fails to act within 60 days after the date of the request, the request shall be considered denied. All denials of protests are effective from the date of original denial for purposes of [section 2636 of title 28][/us/usc/t28/s2636]. If an action is commenced in the Court of International Trade that arises out of a protest or an application for further review, all administrative action pertaining to such protest or application shall terminate and any administrative action taken subsequent to the commencement of the action is null and void.
+        If a protesting party believes that an application for further review was erroneously or improperly denied or was denied without authority for such action, it may file with the Commissioner of U.S. Customs and Border Protection a written request that the denial of the application for further review be set aside. Such request must be filed within 60 days after the date of the notice of the denial. The Commissioner of U.S. Customs and Border Protection may review such request and, based solely on the information before the Customs Service at the time the application for further review was denied, may set aside the denial of the application for further review and void the denial of protest, if appropriate. If the Commissioner of U.S. Customs and Border Protection fails to act within 60 days after the date of the request, the request shall be considered denied. All denials of protests are effective from the date of original denial for purposes of [section 2636 of title 28][/us/usc/t28/s2636]. If an action is commenced in the Court of International Trade that arises out of a protest or an application for further review, all administrative action pertaining to such protest or application shall terminate and any administrative action taken subsequent to the commencement of the action is null and void.
 
     (d) __Voiding denial of protest__ 
 
         If a protest is timely and properly filed, but is denied contrary to proper instructions, the Customs Service may on its own initiative, or pursuant to a written request by the protesting party filed with the appropriate port director within 90 days after the date of the protest denial, void the denial of the protest.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 515, [46 Stat. 734][/us/stat/46/734]; [Pub. L. 91–271, title II, § 208][/us/pl/91/271/s208], June 2, 1970, [84 Stat. 285][/us/stat/84/285]; [Pub. L. 96–39, title X, § 1001(b)(2)][/us/pl/96/39/s1001/b/2], July 26, 1979, [93 Stat. 304][/us/stat/93/304]; [Pub. L. 96–417, title VI, § 606][/us/pl/96/417/s606], Oct. 10, 1980, [94 Stat. 1745][/us/stat/94/1745]; [Pub. L. 103–182, title VI, § 617][/us/pl/103/182/s617], Dec. 8, 1993, [107 Stat. 2179][/us/stat/107/2179]; [Pub. L. 104–295, § 3(a)(11)][/us/pl/104/295/s3/a/11], Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516]; [Pub. L. 106–36, title II, § 2407][/us/pl/106/36/s2407], June 25, 1999, [113 Stat. 171][/us/stat/113/171]; [Pub. L. 108–429, title II, § 2104][/us/pl/108/429/s2104], Dec. 3, 2004, [118 Stat. 2598][/us/stat/118/2598].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 515, [46 Stat. 734][/us/stat/46/734]; [Pub. L. 91–271, title II][/us/pl/91/271/tII], § 208, June 2, 1970, [84 Stat. 285][/us/stat/84/285]; [Pub. L. 96–39, title X][/us/pl/96/39/tX], § 1001(b)(2), July 26, 1979, [93 Stat. 304][/us/stat/93/304]; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 606, Oct. 10, 1980, [94 Stat. 1745][/us/stat/94/1745]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 617, Dec. 8, 1993, [107 Stat. 2179][/us/stat/107/2179]; [Pub. L. 104–295][/us/pl/104/295], § 3(a)(11), Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516]; [Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2407, June 25, 1999, [113 Stat. 171][/us/stat/113/171]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2104, Dec. 3, 2004, [118 Stat. 2598][/us/stat/118/2598]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 515, [42 Stat. 970][/us/stat/42/970]. That section was superseded by section 515 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 515, [42 Stat. 970][/us/stat/42/970]. That section was superseded by section 515 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions for transmission of the invoice, papers, and exhibits to the board of general appraisers in case of protest, and provisions concerning the conclusiveness of its determination, were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, N, [38 Stat. 187][/us/stat/38/187], the provisions of which were substituted for provisions of a similar nature in Customs Administrative [Act of June 10, 1890, ch. 407, § 14][/us/act/1890-06-10/ch407/s14], [26 Stat. 137][/us/stat/26/137], as amended by Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 100][/us/stat/36/100].
+    Provisions for transmission of the invoice, papers, and exhibits to the board of general appraisers in case of protest, and provisions concerning the conclusiveness of its determination, were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, N, [38 Stat. 187][/us/stat/38/187], the provisions of which were substituted for provisions of a similar nature in Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 14, [26 Stat. 137][/us/stat/26/137], as amended by Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 100][/us/stat/36/100].
 
  __Amendments__ 
 
@@ -54,6 +54,10 @@
     1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39] required that notice of denial include a statement of reasons for denial, as well as a statement informing protesting party of his right to file a civil action contesting denial of a protest under [section 1514 of this title][/us/usc/t19/s1514].
 
     1970—[Pub. L. 91–271][/us/pl/91/271] designating existing provisions as subsec. (a), substituted provisions authorizing review by appropriate customs officer for provisions authorizing review by collector and revised such review procedures, and added subsec. (b).
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” wherever appearing in subsec. (c) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -83,7 +87,7 @@
 
  __Review of Protests in Import Surcharge Cases__ 
 
-[Pub. L. 93–618, title VI, § 611][/us/pl/93/618/s611], Jan. 3, 1975, [88 Stat. 2075][/us/stat/88/2075], provided that: 
+[Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 611, Jan. 3, 1975, [88 Stat. 2075][/us/stat/88/2075], provided that: 
 
 > “Notwithstanding the provisions of section 515(a) of the Tariff Act of 1930 ([19 U.S.C. 1515(a)][/us/usc/t19/s1515/a]), in the case of any protest under section 514 of such Act \[[section 1514 of this title][/us/usc/t19/s1514]\] involving the imposition of an import surcharge in the form of a supplemental duty pursuant to Presidential Proclamation 4074, dated August 17, 1971 \[set out as a note preceding [section 1202 of this title][/us/usc/t19/s1202]\], the time for review and allowing or denying the protest shall not expire until five years from the date the protest was filed in accordance with such section 514 \[[section 1514 of this title][/us/usc/t19/s1514]\].”
 
@@ -102,27 +106,29 @@
 [/us/usc/t28/s2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2636
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F734
-[/us/pl/91/271/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs208
+[/us/pl/91/271/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtII
 [/us/stat/84/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F285
-[/us/pl/96/39/s1001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F2
+[/us/pl/96/39/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtX
 [/us/stat/93/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F304
-[/us/pl/96/417/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs606
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1745
-[/us/pl/103/182/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs617
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2179
-[/us/pl/104/295/s3/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs3%2Fa%2F11
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3516
-[/us/pl/106/36/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2407
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F171
-[/us/pl/108/429/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2104
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2598
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F970
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F187
-[/us/act/1890-06-10/ch407/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs14
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F137
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F100
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
@@ -132,6 +138,8 @@
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/108/429/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2108
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
@@ -150,7 +158,7 @@
 [/us/usc/t19/s1516a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
-[/us/pl/93/618/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs611
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2075
 [/us/usc/t19/s1515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1515%2Fa
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514

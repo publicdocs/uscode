@@ -23,7 +23,7 @@
 
     This chapter, referred to in text, was in the original “the Trade Expansion Act of 1962” meaning [Pub. L. 87–794][/us/pl/87/794], Oct. 11, 1962, [76 Stat. 872][/us/stat/76/872], which is classified principally to this chapter. For complete classification of [Pub. L. 87–794][/us/pl/87/794], to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t19/s1801] and Tables.
 
-    Sections 1841, 1843, 1844 and 1883, referred to in text, were repealed by [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
+    Sections 1841, 1843, 1844 and 1883, referred to in text, were repealed by [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
 
     The Tariff Schedules of the United States, referred to in text, to be treated as a reference to the Harmonized Tariff Schedule pursuant to [section 3012 of this title][/us/usc/t19/s3012]. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
@@ -46,7 +46,7 @@
 [/us/stat/76/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F872
 [/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
 [/us/usc/t19/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
 [/us/usc/t19/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3012
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202

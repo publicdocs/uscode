@@ -57,35 +57,35 @@
 
         (4) The imposition of a fine under this subsection shall be within the discretion of the Customs Service, and shall be in addition to any other civil or criminal penalty or other remedy authorized by law.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 526, [46 Stat. 741][/us/stat/46/741]; [Pub. L. 93–596, § 3][/us/pl/93/596/s3], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 95–410, title II, § 211(a)][/us/pl/95/410/s211/a], (c), Oct. 3, 1978, [92 Stat. 903][/us/stat/92/903]; [Pub. L. 103–182, title VI, § 663][/us/pl/103/182/s663], Dec. 8, 1993, [107 Stat. 2214][/us/stat/107/2214]; [Pub. L. 104–153][/us/pl/104/153], §§ 9, 10, July 2, 1996, [110 Stat. 1388][/us/stat/110/1388].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 526, [46 Stat. 741][/us/stat/46/741]; [Pub. L. 93–596][/us/pl/93/596], § 3, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 95–410, title II][/us/pl/95/410/tII], § 211(a), (c), Oct. 3, 1978, [92 Stat. 903][/us/stat/92/903]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 663, Dec. 8, 1993, [107 Stat. 2214][/us/stat/107/2214]; [Pub. L. 104–153][/us/pl/104/153], §§ 9, 10, July 2, 1996, [110 Stat. 1388][/us/stat/110/1388].)
 
  __References in Text__ 
 
-    Sections 81 to 109 of title 15, referred to in subsecs. (a) and (c), were repealed by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [61 Stat. 444][/us/stat/61/444]. See sections 1051 to 1127, respectively, of Title 15, Commerce and Trade.
+    Sections 81 to 109 of title 15, referred to in subsecs. (a) and (c), were repealed by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [61 Stat. 444][/us/stat/61/444]. See sections 1051 to 1127, respectively, of Title 15, Commerce and Trade.
 
-    [Section 106 of title 15][/us/usc/t15/s106], referred to in subsec. (a), was repealed by [act July 15, 1946, ch. 540, § 46(a)][/us/act/1946-07-15/ch540/s46/a], [60 Stat. 444][/us/stat/60/444]. See [section 1124 of Title 15][/us/usc/t15/s1124].
+    [Section 106 of title 15][/us/usc/t15/s106], referred to in subsec. (a), was repealed by [act July 15, 1946, ch. 540][/us/act/1946-07-15/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444]. See [section 1124 of Title 15][/us/usc/t15/s1124].
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 526, [42 Stat. 975][/us/stat/42/975]. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 526, [42 Stat. 975][/us/stat/42/975]. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
-    1996—Subsec. (e). [Pub. L. 104–153, § 9][/us/pl/104/153/s9], inserted “destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may” after “shall, after forfeiture,” in second sentence, inserted “or” at end of par. (2), substituted period for “, or” at end of par. (3), and struck out par. (4) which read as follows: “if the merchandise is unsafe or a hazard to health, by destruction.”
+    1996—Subsec. (e). [Pub. L. 104–153][/us/pl/104/153], § 9, inserted “destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may” after “shall, after forfeiture,” in second sentence, inserted “or” at end of par. (2), substituted period for “, or” at end of par. (3), and struck out par. (4) which read as follows: “if the merchandise is unsafe or a hazard to health, by destruction.”
 
-    Subsec. (f). [Pub. L. 104–153, § 10][/us/pl/104/153/s10], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–153][/us/pl/104/153], § 10, added subsec. (f).
 
     1993—Subsec. (e)(3). [Pub. L. 103–182][/us/pl/103/182] substituted “90 days” for “1 year” and “the Customs Service” for “appropriate customs officers”.
 
-    1978—Subsec. (a). [Pub. L. 95–410, § 211(a)(1)][/us/pl/95/410/s211/a/1], substituted “Except as provided in subsection (d) of this section, it” for “It”.
+    1978—Subsec. (a). [Pub. L. 95–410][/us/pl/95/410], § 211(a)(1), substituted “Except as provided in subsection (d) of this section, it” for “It”.
 
-    Subsec. (d). [Pub. L. 95–410, § 211(a)(2)][/us/pl/95/410/s211/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–410][/us/pl/95/410], § 211(a)(2), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 95–410, § 211(c)][/us/pl/95/410/s211/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–410][/us/pl/95/410], § 211(c), added subsec. (e).
 
  __Change of Name__ 
 
-    “Patent and Trademark Office” substituted for “Patent Office” in subsec. (a) pursuant to [Pub. L. 93–596, § 3][/us/pl/93/596/s3], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], set out as a note under [section 1 of Title 35][/us/usc/t35/s1], Patents.
+    “Patent and Trademark Office” substituted for “Patent Office” in subsec. (a) pursuant to [Pub. L. 93–596][/us/pl/93/596], § 3, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949], set out as a note under [section 1 of Title 35][/us/usc/t35/s1], Patents.
 
  __Transfer of Functions__ 
 
@@ -103,29 +103,29 @@
 [/us/usc/t15/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1124
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F741
-[/us/pl/93/596/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs3
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/95/410/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs211%2Fa
+[/us/pl/95/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtII
 [/us/stat/92/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F903
-[/us/pl/103/182/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs663
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2214
 [/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 [/us/stat/110/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1388
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/61/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F444
 [/us/usc/t15/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs106
-[/us/act/1946-07-15/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-15%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-15/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-15%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
 [/us/usc/t15/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1124
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F975
-[/us/pl/104/153/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs9
-[/us/pl/104/153/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs10
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
-[/us/pl/95/410/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs211%2Fa%2F1
-[/us/pl/95/410/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs211%2Fa%2F2
-[/us/pl/95/410/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs211%2Fc
-[/us/pl/93/596/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs3
+[/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
+[/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
+[/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

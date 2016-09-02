@@ -31,7 +31,7 @@
 
         (3) assist in relocating employees to other locations in the United States where employment opportunities exist.
 
-([Pub. L. 93–618, title II, § 283][/us/pl/93/618/s283], Jan. 3, 1975, [88 Stat. 2041][/us/stat/88/2041].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 283, Jan. 3, 1975, [88 Stat. 2041][/us/stat/88/2041].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/93/618/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs283
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2041
 
 

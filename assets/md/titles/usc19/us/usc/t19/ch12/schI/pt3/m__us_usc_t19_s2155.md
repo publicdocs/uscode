@@ -175,7 +175,7 @@
 
         (2) any agency or instrumentality of any entity described in paragraph (1).
 
-([Pub. L. 93–618, title I, § 135][/us/pl/93/618/s135], Jan. 3, 1975, [88 Stat. 1996][/us/stat/88/1996]; [Pub. L. 96–39, title XI, § 1103][/us/pl/96/39/s1103], July 26, 1979, [93 Stat. 308][/us/stat/93/308]; [Pub. L. 98–573, title III, § 306(c)(2)(B)][/us/pl/98/573/s306/c/2/B], Oct. 30, 1984, [98 Stat. 3011][/us/stat/98/3011]; [Pub. L. 99–514, title XVIII, § 1887(a)(2)][/us/pl/99/514/s1887/a/2], Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923]; [Pub. L. 100–418, title I, § 1631][/us/pl/100/418/s1631], Aug. 23, 1988, [102 Stat. 1264][/us/stat/102/1264]; [Pub. L. 103–465, title I][/us/pl/103/465], §§ 127(f), 128, Dec. 8, 1994, [108 Stat. 4836][/us/stat/108/4836]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(5)][/us/pl/107/210/s2110/a/5], Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020]; [Pub. L. 108–429, title II, § 2004(i)(1)][/us/pl/108/429/s2004/i/1], (2), Dec. 3, 2004, [118 Stat. 2594][/us/stat/118/2594], 2595; [Pub. L. 109–280, title XIV, § 1635(f)(2)][/us/pl/109/280/s1635/f/2], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 114–26, title I, § 110(a)(5)][/us/pl/114/26/s110/a/5], June 29, 2015, [129 Stat. 357][/us/stat/129/357].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 135, Jan. 3, 1975, [88 Stat. 1996][/us/stat/88/1996]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1103, July 26, 1979, [93 Stat. 308][/us/stat/93/308]; [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 306(c)(2)(B), Oct. 30, 1984, [98 Stat. 3011][/us/stat/98/3011]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1887(a)(2), Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1631, Aug. 23, 1988, [102 Stat. 1264][/us/stat/102/1264]; [Pub. L. 103–465, title I][/us/pl/103/465/tI], §§ 127(f), 128, Dec. 8, 1994, [108 Stat. 4836][/us/stat/108/4836]; [Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2110(a)(5), Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(i)(1), (2), Dec. 3, 2004, [118 Stat. 2594][/us/stat/118/2594], 2595; [Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1635(f)(2), Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 114–26, title I][/us/pl/114/26/tI], § 110(a)(5), June 29, 2015, [129 Stat. 357][/us/stat/129/357].)
 
  __References in Text__ 
 
@@ -189,67 +189,67 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1)(A). [Pub. L. 114–26, § 110(a)(5)(A)][/us/pl/114/26/s110/a/5/A], substituted “[section 4202 of this title][/us/usc/t19/s4202]” for “[section 3803 of this title][/us/usc/t19/s3803]”.
+    2015—Subsec. (a)(1)(A). [Pub. L. 114–26][/us/pl/114/26], § 110(a)(5)(A), substituted “[section 4202 of this title][/us/usc/t19/s4202]” for “[section 3803 of this title][/us/usc/t19/s3803]”.
 
-    Subsec. (e)(1). [Pub. L. 114–26, § 110(a)(5)(B)(i)][/us/pl/114/26/s110/a/5/B/i], substituted “[section 4202 of this title][/us/usc/t19/s4202]” for “[section 3803 of this title][/us/usc/t19/s3803]” in two places and “not later than the date that is 30 days after the date on which the President notifies Congress under [section 4205(a)(1)(A) of this title][/us/usc/t19/s4205/a/1/A]” for “not later than the date on which the President notifies the Congress under [section 3805(a)(1)(A) of this title][/us/usc/t19/s3805/a/1/A]”.
+    Subsec. (e)(1). [Pub. L. 114–26][/us/pl/114/26], § 110(a)(5)(B)(i), substituted “[section 4202 of this title][/us/usc/t19/s4202]” for “[section 3803 of this title][/us/usc/t19/s3803]” in two places and “not later than the date that is 30 days after the date on which the President notifies Congress under [section 4205(a)(1)(A) of this title][/us/usc/t19/s4205/a/1/A]” for “not later than the date on which the President notifies the Congress under [section 3805(a)(1)(A) of this title][/us/usc/t19/s3805/a/1/A]”.
 
-    Subsec. (e)(2). [Pub. L. 114–26, § 110(a)(5)(B)(ii)][/us/pl/114/26/s110/a/5/B/ii], substituted “[section 4201 of this title][/us/usc/t19/s4201]” for “[section 3802 of this title][/us/usc/t19/s3802]”.
+    Subsec. (e)(2). [Pub. L. 114–26][/us/pl/114/26], § 110(a)(5)(B)(ii), substituted “[section 4201 of this title][/us/usc/t19/s4201]” for “[section 3802 of this title][/us/usc/t19/s3802]”.
 
     2006—Subsec. (f)(2)(B). [Pub. L. 109–280][/us/pl/109/280] substituted “its establishment” for “their establishment”.
 
-    2004—Subsec. (b)(1). [Pub. L. 108–429, § 2004(i)(2)][/us/pl/108/429/s2004/i/2], substituted “4 years or until the committee is scheduled to expire” for “2 years”.
+    2004—Subsec. (b)(1). [Pub. L. 108–429][/us/pl/108/429], § 2004(i)(2), substituted “4 years or until the committee is scheduled to expire” for “2 years”.
 
-    Subsec. (f)(2). [Pub. L. 108–429, § 2004(i)(1)][/us/pl/108/429/s2004/i/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section.”
+    Subsec. (f)(2). [Pub. L. 108–429][/us/pl/108/429], § 2004(i)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section.”
 
-    2002—Subsec. (a)(1)(A). [Pub. L. 107–210, § 2110(a)(5)(A)][/us/pl/107/210/s2110/a/5/A], substituted “[section 3803 of this title][/us/usc/t19/s3803]” for “[section 2902 of this title][/us/usc/t19/s2902]”.
+    2002—Subsec. (a)(1)(A). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(5)(A), substituted “[section 3803 of this title][/us/usc/t19/s3803]” for “[section 2902 of this title][/us/usc/t19/s2902]”.
 
-    Subsec. (e)(1). [Pub. L. 107–210, § 2110(a)(5)(B)][/us/pl/107/210/s2110/a/5/B], substituted “[section 3803 of this title][/us/usc/t19/s3803]” for “[section 2902 of this title][/us/usc/t19/s2902]” in two places and “[section 3805(a)(1)(A) of this title][/us/usc/t19/s3805/a/1/A]” for “[section 2903(a)(1)(A) of this title][/us/usc/t19/s2903/a/1/A]”.
+    Subsec. (e)(1). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(5)(B), substituted “[section 3803 of this title][/us/usc/t19/s3803]” for “[section 2902 of this title][/us/usc/t19/s2902]” in two places and “[section 3805(a)(1)(A) of this title][/us/usc/t19/s3805/a/1/A]” for “[section 2903(a)(1)(A) of this title][/us/usc/t19/s2903/a/1/A]”.
 
-    Subsec. (e)(2). [Pub. L. 107–210, § 2110(a)(5)(C)][/us/pl/107/210/s2110/a/5/C], substituted “[section 3802 of this title][/us/usc/t19/s3802]” for “[section 2901 of this title][/us/usc/t19/s2901]”.
+    Subsec. (e)(2). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(5)(C), substituted “[section 3802 of this title][/us/usc/t19/s3802]” for “[section 2901 of this title][/us/usc/t19/s2901]”.
 
-    1994—Subsec. (a)(1)(B). [Pub. L. 103–465, § 127(f)][/us/pl/103/465/s127/f], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the operation of any trade agreement once entered into; and”.
+    1994—Subsec. (a)(1)(B). [Pub. L. 103–465][/us/pl/103/465], § 127(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the operation of any trade agreement once entered into; and”.
 
-    Subsec. (b)(1). [Pub. L. 103–465, § 128][/us/pl/103/465/s128], inserted “nongovernmental environmental and conservation organizations,” after “retailers,”.
+    Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 128, inserted “nongovernmental environmental and conservation organizations,” after “retailers,”.
 
     1988—[Pub. L. 100–418][/us/pl/100/418] amended section generally, substituting present provisions for provisions which, in the following subsections, had related to: subsec. (a), information and advice on trade agreements and other matters; subsec. (b), Advisory Committee for Trade Negotiations; subsec. (c), general policy, sectoral, functional, or policy advisory committees; subsec. (d), policy advice, technical advice and information, and other advice; subsec. (e), meeting of advisory committees at conclusion of negotiations for trade agreements; subsec. (f), Federal Advisory Committee Act; subsec. (g), trade secrets and confidential commercial, financial, or other information; subsec. (h), staff, information, personnel, and administrative services and assistance to advisory committees; subsec. (i), consultation with advisory committees; adoption of procedures; nonacceptance of committee advice or recommendations; subsec. (j), private or non-Federal government organizations or groups; subsec. (k), direct participation in negotiations by private individuals not authorized; information, consultation, participation of committee members and appropriate parties in international meetings; restrictions; subsec. (l), advisory committees established by Department of Agriculture; and subsec. (m), definition of “non-Federal government”.
 
     1986—Subsecs. (m), (n). [Pub. L. 99–514][/us/pl/99/514] redesignated subsec. (n) as (m).
 
-    1984—Subsec. (a). [Pub. L. 98–573, § 306(c)(2)(B)(i)][/us/pl/98/573/s306/c/2/B/i], inserted “and the non-Federal governmental sector” after “private sector”.
+    1984—Subsec. (a). [Pub. L. 98–573][/us/pl/98/573], § 306(c)(2)(B)(i), inserted “and the non-Federal governmental sector” after “private sector”.
 
-    Subsec. (c)(3). [Pub. L. 98–573, § 306(c)(2)(B)(ii)][/us/pl/98/573/s306/c/2/B/ii], added par. (3).
+    Subsec. (c)(3). [Pub. L. 98–573][/us/pl/98/573], § 306(c)(2)(B)(ii), added par. (3).
 
-    Subsec. (g)(1)(A), (B). [Pub. L. 98–573, § 306(c)(2)(B)(iii)][/us/pl/98/573/s306/c/2/B/iii], inserted “or non-Federal government” after “private”.
+    Subsec. (g)(1)(A), (B). [Pub. L. 98–573][/us/pl/98/573], § 306(c)(2)(B)(iii), inserted “or non-Federal government” after “private”.
 
-    Subsec. (j). [Pub. L. 98–573, § 306(c)(2)(B)(iii)][/us/pl/98/573/s306/c/2/B/iii], (iv), inserted “or non-Federal government” after “private” and “government,” before “labor, industry”.
+    Subsec. (j). [Pub. L. 98–573][/us/pl/98/573], § 306(c)(2)(B)(iii), (iv), inserted “or non-Federal government” after “private” and “government,” before “labor, industry”.
 
-    Subsec. (n). [Pub. L. 98–573, § 306(c)(2)(B)(v)][/us/pl/98/573/s306/c/2/B/v], added subsec. (n).
+    Subsec. (n). [Pub. L. 98–573][/us/pl/98/573], § 306(c)(2)(B)(v), added subsec. (n).
 
-    1979—Subsec. (a). [Pub. L. 96–39, § 1103(1)][/us/pl/96/39/s1103/1], (2), struck out “, in accordance with the provisions of this section,” after “President” and required the seeking of information and advice respecting operation of a trade agreement once entered into and respecting other matters arising in connection with the administration of trade policy of the United States.
+    1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39], § 1103(1), (2), struck out “, in accordance with the provisions of this section,” after “President” and required the seeking of information and advice respecting operation of a trade agreement once entered into and respecting other matters arising in connection with the administration of trade policy of the United States.
 
-    Subsec. (b)(1). [Pub. L. 96–39, § 1103(3)][/us/pl/96/39/s1103/3], substituted “matters referred to in subsection (a) of this section” for “any trade agreement referred to in section 2111 or 2112 of this title”.
+    Subsec. (b)(1). [Pub. L. 96–39][/us/pl/96/39], § 1103(3), substituted “matters referred to in subsection (a) of this section” for “any trade agreement referred to in section 2111 or 2112 of this title”.
 
-    Subsec. (b)(2). [Pub. L. 96–39, § 1103(4)][/us/pl/96/39/s1103/4], substituted requirement that the members elect the Chairman of the Committee from among its membership for provision designating the Special Representative as Chairman and struck out provision for termination of the Committee upon submission of its report to Congress as soon as practical after the end of the period which ends 5 years after Jan. 3, 1975.
+    Subsec. (b)(2). [Pub. L. 96–39][/us/pl/96/39], § 1103(4), substituted requirement that the members elect the Chairman of the Committee from among its membership for provision designating the Special Representative as Chairman and struck out provision for termination of the Committee upon submission of its report to Congress as soon as practical after the end of the period which ends 5 years after Jan. 3, 1975.
 
-    Subsec. (c)(1). [Pub. L. 96–39, § 1103(5)][/us/pl/96/39/s1103/5], inserted a comma after “initiative”, included references to “services”, and substituted “general policy advice on matters referred to in subsection (a) of this section” for “general policy advice on any trade agreement referred to in section 2111 or 2112 of this title”, “Special Representative for Trade Negotiations” for “President acting through the Special Representative for Trade Negotiations” and “or Agriculture” for “and Agriculture”.
+    Subsec. (c)(1). [Pub. L. 96–39][/us/pl/96/39], § 1103(5), inserted a comma after “initiative”, included references to “services”, and substituted “general policy advice on matters referred to in subsection (a) of this section” for “general policy advice on any trade agreement referred to in section 2111 or 2112 of this title”, “Special Representative for Trade Negotiations” for “President acting through the Special Representative for Trade Negotiations” and “or Agriculture” for “and Agriculture”.
 
-    Subsec. (c)(2). [Pub. L. 96–39, § 1103(6)][/us/pl/96/39/s1103/6]–(9), substituted “The President shall establish such sectoral or functional advisory committees as may be appropriate” for “The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title” and “Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned” for “Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned” and “the Special Representative for Trade Negotiations” for “the President, acting through the Special Representative for Trade Negotiations”, struck out “product sector” before “advisory committees”, and inserted “, in the case of each sectoral committee,” before “the product lines”.
+    Subsec. (c)(2). [Pub. L. 96–39][/us/pl/96/39], § 1103(6)–(9), substituted “The President shall establish such sectoral or functional advisory committees as may be appropriate” for “The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title” and “Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned” for “Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned” and “the Special Representative for Trade Negotiations” for “the President, acting through the Special Representative for Trade Negotiations”, struck out “product sector” before “advisory committees”, and inserted “, in the case of each sectoral committee,” before “the product lines”.
 
-    Subsec. (d). [Pub. L. 96–39, § 1103(10)][/us/pl/96/39/s1103/10], required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for “policy advice”, “technical advice” and “advice on other factors”, struck out “on negotiations” and “on negotiations on particular products both domestic and foreign” after “policy advice” and “technical advice and information” and substituted “factors relevant to the matters referred to in subsection (a) of this section” for “factors relevant to positions of the United States in trade negotiations.”
+    Subsec. (d). [Pub. L. 96–39][/us/pl/96/39], § 1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for “policy advice”, “technical advice” and “advice on other factors”, struck out “on negotiations” and “on negotiations on particular products both domestic and foreign” after “policy advice” and “technical advice and information” and substituted “factors relevant to the matters referred to in subsection (a) of this section” for “factors relevant to positions of the United States in trade negotiations.”
 
-    Subsec. (e). [Pub. L. 96–39, § 1103(11)][/us/pl/96/39/s1103/11]–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and “within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
+    Subsec. (e). [Pub. L. 96–39][/us/pl/96/39], § 1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and “within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
 
-    Subsec. (f)(2). [Pub. L. 96–39, § 1103(15)(A)][/us/pl/96/39/s1103/15/A], (B), substituted “committees” for “groups” and “with respect to matters referred to in subsection (a) of this section” for “on the negotiation of any trade agreement”.
+    Subsec. (f)(2). [Pub. L. 96–39][/us/pl/96/39], § 1103(15)(A), (B), substituted “committees” for “groups” and “with respect to matters referred to in subsection (a) of this section” for “on the negotiation of any trade agreement”.
 
-    Subsec. (g). [Pub. L. 96–39, § 1103(16)][/us/pl/96/39/s1103/16], (17)(A), (B), substituted in par. (1)(A) “matters referred to in subsection (a) of this section” for “a trade agreement referred to in section 2111 or 2112 of this title”, in par. (1)(B) “matters referred to in subsection (a) of this section” for “trade negotiations”, and in par. (2) “matters referred to in subsection (a) of this title” for “proposed trade agreements”.
+    Subsec. (g). [Pub. L. 96–39][/us/pl/96/39], § 1103(16), (17)(A), (B), substituted in par. (1)(A) “matters referred to in subsection (a) of this section” for “a trade agreement referred to in section 2111 or 2112 of this title”, in par. (1)(B) “matters referred to in subsection (a) of this section” for “trade negotiations”, and in par. (2) “matters referred to in subsection (a) of this title” for “proposed trade agreements”.
 
-    Subsec. (i). [Pub. L. 96–39, § 1103(18)(A)][/us/pl/96/39/s1103/18/A]–(C), struck out in provision before cl. (1) “, both during preparation for negotiations and actual negotiations” after “basis” and in cl. (1) “arising in preparation for or in the course of such negotiations” after “developments” and substituted in cl. (2) “with respect to matters referred to in subsection (a) of this section” for “to the negotiations”.
+    Subsec. (i). [Pub. L. 96–39][/us/pl/96/39], § 1103(18)(A)–(C), struck out in provision before cl. (1) “, both during preparation for negotiations and actual negotiations” after “basis” and in cl. (1) “arising in preparation for or in the course of such negotiations” after “developments” and substituted in cl. (2) “with respect to matters referred to in subsection (a) of this section” for “to the negotiations”.
 
-    Subsec. (j). [Pub. L. 96–39, § 1103(19)][/us/pl/96/39/s1103/19], substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title”.
+    Subsec. (j). [Pub. L. 96–39][/us/pl/96/39], § 1103(19), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title”.
 
-    Subsec. (k). [Pub. L. 96–39, § 1103(19)][/us/pl/96/39/s1103/19], (20), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
+    Subsec. (k). [Pub. L. 96–39][/us/pl/96/39], § 1103(19), (20), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
 
-    Subsec. (l). [Pub. L. 96–39, § 1103(21)][/us/pl/96/39/s1103/21], added subsec. (l).
+    Subsec. (l). [Pub. L. 96–39][/us/pl/96/39], § 1103(21), added subsec. (l).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -257,7 +257,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–429, title II, § 2004(i)(3)][/us/pl/108/429/s2004/i/3], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595], provided that: 
+[Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(i)(3), Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect on February 1, 2006.”
 
@@ -333,7 +333,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-    Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+    Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+    Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 ----------
 
@@ -354,25 +356,25 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t19/s2211/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2211%2Fb%2F3%2FB
 [/us/usc/t19/s2211/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2211%2Fb%2F3%2FB
 [/us/usc/t7/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2281
-[/us/pl/93/618/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs135
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1996
-[/us/pl/96/39/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F308
-[/us/pl/98/573/s306/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F2%2FB
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3011
-[/us/pl/99/514/s1887/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1887%2Fa%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2923
-[/us/pl/100/418/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1631
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1264
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4836
-[/us/pl/107/210/s2110/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F5
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1020
-[/us/pl/108/429/s2004/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fi%2F1
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2594
-[/us/pl/109/280/s1635/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1635%2Ff%2F2
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1171
-[/us/pl/114/26/s110/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F5
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F357
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
@@ -381,57 +383,57 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/stat/91/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F913
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
-[/us/pl/114/26/s110/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F5%2FA
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
-[/us/pl/114/26/s110/a/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F5%2FB%2Fi
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/usc/t19/s4205/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4205%2Fa%2F1%2FA
 [/us/usc/t19/s3805/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1%2FA
-[/us/pl/114/26/s110/a/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F5%2FB%2Fii
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 [/us/usc/t19/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3802
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/108/429/s2004/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fi%2F2
-[/us/pl/108/429/s2004/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fi%2F1
-[/us/pl/107/210/s2110/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F5%2FA
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/usc/t19/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902
-[/us/pl/107/210/s2110/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F5%2FB
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/usc/t19/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902
 [/us/usc/t19/s3805/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1%2FA
 [/us/usc/t19/s2903/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903%2Fa%2F1%2FA
-[/us/pl/107/210/s2110/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F5%2FC
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3802
 [/us/usc/t19/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2901
-[/us/pl/103/465/s127/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs127%2Ff
-[/us/pl/103/465/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs128
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/573/s306/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F2%2FB%2Fi
-[/us/pl/98/573/s306/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F2%2FB%2Fii
-[/us/pl/98/573/s306/c/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F2%2FB%2Fiii
-[/us/pl/98/573/s306/c/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F2%2FB%2Fiii
-[/us/pl/98/573/s306/c/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F2%2FB%2Fv
-[/us/pl/96/39/s1103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F1
-[/us/pl/96/39/s1103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F3
-[/us/pl/96/39/s1103/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F4
-[/us/pl/96/39/s1103/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F5
-[/us/pl/96/39/s1103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F6
-[/us/pl/96/39/s1103/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F10
-[/us/pl/96/39/s1103/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F11
-[/us/pl/96/39/s1103/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F15%2FA
-[/us/pl/96/39/s1103/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F16
-[/us/pl/96/39/s1103/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F18%2FA
-[/us/pl/96/39/s1103/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F19
-[/us/pl/96/39/s1103/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F19
-[/us/pl/96/39/s1103/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1103%2F21
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1641
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
-[/us/pl/108/429/s2004/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fi%2F3
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2595
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs130

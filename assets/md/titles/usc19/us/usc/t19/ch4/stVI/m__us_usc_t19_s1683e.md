@@ -33,7 +33,7 @@
 
             The Secretary of the Treasury is authorized to take such action, and examine such records, under [section 1509 of this title][/us/usc/t19/s1509], as the Secretary determines necessary to verify the declarations made pursuant to [section 1683a(c) of this title][/us/usc/t19/s1683a/c] are true and accurate.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 807, as added [Pub. L. 110–246, title III, § 3301(a)][/us/pl/110/246/s3301/a], June 18, 2008, [122 Stat. 1851][/us/stat/122/1851].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 807, as added [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3301(a), June 18, 2008, [122 Stat. 1851][/us/stat/122/1851].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 [/us/usc/t19/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1509
 [/us/usc/t19/s1683a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683a%2Fc
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1851
 [/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497

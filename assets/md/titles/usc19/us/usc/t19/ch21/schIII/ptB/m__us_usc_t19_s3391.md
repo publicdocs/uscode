@@ -85,7 +85,7 @@
 
         (1) __In general__ 
 
-        The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of Customs, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
+        The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of U.S. Customs and Border Protection, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
 
             (A) of any wheat that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of wheat that is a product of the United States (referred to in this subsection as “United States-produced wheat”); and
 
@@ -163,19 +163,23 @@
 
             The Secretary shall furnish the report required under this subsection to the Committee on Agriculture, Nutrition, and Forestry of the Senate and to the Committee on Agriculture of the House of Representatives. The report shall be due every 2 years and shall be submitted by March 1 of the year in which the report is due. The first report shall be due by March 1, 1997, and the final report shall be due by March 1, 2011.
 
-([Pub. L. 103–182, title III, § 321][/us/pl/103/182/s321], Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 321, Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
     This Act, referred to in subsec. (d)(1)(A), is [Pub. L. 103–182][/us/pl/103/182], Dec. 8, 1993, [107 Stat. 2057][/us/stat/107/2057], known as the North American Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title][/us/usc/t19/s3301] and Tables.
 
-    [Section 1359a of title 7][/us/usc/t7/s1359a], referred to in subsec. (d)(1)(A)(i), was repealed by [Pub. L. 107–171, title I, § 1309(a)(1)][/us/pl/107/171/s1309/a/1], May 13, 2002, [116 Stat. 179][/us/stat/116/179].
+    [Section 1359a of title 7][/us/usc/t7/s1359a], referred to in subsec. (d)(1)(A)(i), was repealed by [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1309(a)(1), May 13, 2002, [116 Stat. 179][/us/stat/116/179].
 
-    [Section 1445c–3(f) of title 7][/us/usc/t7/s1445c–3/f], referred to in subsec. (d)(1)(A)(ii), was repealed by [Pub. L. 104–127, title I, § 171(b)(2)(E)][/us/pl/104/127/s171/b/2/E], Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938].
+    [Section 1445c–3(f) of title 7][/us/usc/t7/s1445c–3/f], referred to in subsec. (d)(1)(A)(ii), was repealed by [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 171(b)(2)(E), Apr. 4, 1996, [110 Stat. 938][/us/stat/110/938].
 
  __Codification__ 
 
     Section is comprised of [section 321 of Pub. L. 103–182][/us/pl/103/182/s321]. Subsec. (a) of [section 321 of Pub. L. 103–182][/us/pl/103/182/s321] amended provisions set out as a note under [section 2253 of this title][/us/usc/t19/s2253]. Subsec. (d)(1)(B) of [section 321 of Pub. L. 103–182][/us/pl/103/182/s321] amended [section 1359a of Title 7][/us/usc/t7/s1359a], Agriculture. Subsec. (g) of [section 321 of Pub. L. 103–182][/us/pl/103/182/s321] amended provisions set out as a note under [section 5622 of Title 7][/us/usc/t7/s5622].
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (f)(1) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -194,16 +198,18 @@
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t42/s5177a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5177a%2Fb
-[/us/pl/103/182/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs321
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2108
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057
 [/us/usc/t19/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3301
 [/us/usc/t7/s1359a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359a
-[/us/pl/107/171/s1309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1309%2Fa%2F1
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F179
 [/us/usc/t7/s1445c–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445c%E2%80%933%2Ff
-[/us/pl/104/127/s171/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs171%2Fb%2F2%2FE
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F938
 [/us/pl/103/182/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs321
 [/us/pl/103/182/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs321
@@ -212,6 +218,8 @@
 [/us/usc/t7/s1359a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1359a
 [/us/pl/103/182/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs321
 [/us/usc/t7/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5622
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

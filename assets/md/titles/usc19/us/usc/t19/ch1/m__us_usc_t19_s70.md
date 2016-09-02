@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 3068 derived from [act Mar. 2, 1799, ch. 22, § 71][/us/act/1799-03-02/ch22/s71], [1 Stat. 678][/us/stat/1/678].
+    R.S. § 3068 derived from [act Mar. 2, 1799, ch. 22][/us/act/1799-03-02/ch22], § 71, [1 Stat. 678][/us/stat/1/678].
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1935-08-05/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-05%2Fch438
 [/us/stat/49/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F528
-[/us/act/1799-03-02/ch22/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1799-03-02%2Fch22%2Fs71
+[/us/act/1799-03-02/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1799-03-02%2Fch22
 [/us/stat/1/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F678
 
 

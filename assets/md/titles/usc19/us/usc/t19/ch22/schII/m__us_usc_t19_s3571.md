@@ -189,7 +189,7 @@
 
         Notwithstanding any other provision of law, the administering authority may provide the Trade Representative with a copy of proprietary information submitted to, or obtained by, the administering authority that the Trade Representative considers relevant in carrying out its responsibilities under this subchapter. The Trade Representative shall protect from public disclosure proprietary information obtained from the administering authority under this subchapter.
 
-([Pub. L. 103–465, title II, § 281][/us/pl/103/465/s281], Dec. 8, 1994, [108 Stat. 4922][/us/stat/108/4922]; [Pub. L. 104–295, § 20(b)(13)][/us/pl/104/295/s20/b/13], Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
+([Pub. L. 103–465, title II][/us/pl/103/465/tII], § 281, Dec. 8, 1994, [108 Stat. 4922][/us/stat/108/4922]; [Pub. L. 104–295][/us/pl/104/295], § 20(b)(13), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
 
  __References in Text__ 
 
@@ -229,9 +229,9 @@
 [/us/usc/t19/s1677/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F1
 [/us/usc/t19/s1677/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9%2FC
 [/us/usc/t19/s1677/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F8
-[/us/pl/103/465/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs281
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4922
-[/us/pl/104/295/s20/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F13
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590

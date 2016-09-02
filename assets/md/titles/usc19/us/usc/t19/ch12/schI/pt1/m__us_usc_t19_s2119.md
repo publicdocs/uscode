@@ -45,7 +45,7 @@
 
             (B) the expiration of the 10-year period referred to in paragraph (1) of this subsection.
 
-([Pub. L. 93–618, title I, § 109][/us/pl/93/618/s109], Jan. 3, 1975, [88 Stat. 1985][/us/stat/88/1985]; [Pub. L. 96–39, title XI, § 1106(c)(3)][/us/pl/96/39/s1106/c/3], July 26, 1979, [93 Stat. 312][/us/stat/93/312].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 109, Jan. 3, 1975, [88 Stat. 1985][/us/stat/88/1985]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(c)(3), July 26, 1979, [93 Stat. 312][/us/stat/93/312].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Staging of Certain Tariff Reductions__ 
 
-[Pub. L. 96–39, title V, § 503][/us/pl/96/39/s503], July 26, 1979, [93 Stat. 251][/us/stat/93/251], provided that:
+[Pub. L. 96–39, title V][/us/pl/96/39/tV], § 503, July 26, 1979, [93 Stat. 251][/us/stat/93/251], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -94,15 +94,15 @@
 [/us/usc/t19/s2111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111%2Fa%2F2
 [/us/usc/t19/s2111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111%2Fb
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
-[/us/pl/93/618/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs109
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1985
-[/us/pl/96/39/s1106/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fc%2F3
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F312
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1114
 [/us/usc/t19/s2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2581
-[/us/pl/96/39/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs503
+[/us/pl/96/39/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtV
 [/us/stat/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F251
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
 [/us/usc/t19/s2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2119

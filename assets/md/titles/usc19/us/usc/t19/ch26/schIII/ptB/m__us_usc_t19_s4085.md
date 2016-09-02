@@ -17,7 +17,7 @@
 
     When import relief under this part is terminated with respect to an article, the rate of duty on that article shall be the rate that would have been in effect, but for the provision of such relief.
 
-([Pub. L. 109–53, title III, § 325][/us/pl/109/53/s325], Aug. 2, 2005, [119 Stat. 494][/us/stat/119/494].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 325, Aug. 2, 2005, [119 Stat. 494][/us/stat/119/494].)
 
  __Termination of Section__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/109/53/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs325
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F494
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

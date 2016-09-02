@@ -855,7 +855,7 @@
 
                 (ii) providing an opportunity for interested entities to submit comments and supporting evidence before the President makes a determination under subparagraph (C)(ii) or (vi) or (E)(iii).
 
-([Pub. L. 109–53, title II, § 203][/us/pl/109/53/s203], Aug. 2, 2005, [119 Stat. 469][/us/stat/119/469]; [Pub. L. 109–135, title IV, § 421][/us/pl/109/135/s421], Dec. 21, 2005, [119 Stat. 2642][/us/stat/119/2642].)
+([Pub. L. 109–53, title II][/us/pl/109/53/tII], § 203, Aug. 2, 2005, [119 Stat. 469][/us/stat/119/469]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 421, Dec. 21, 2005, [119 Stat. 2642][/us/stat/119/2642].)
 
  __Termination of Section__ 
 
@@ -869,7 +869,7 @@
 
  __Amendments__ 
 
-    2005—Subsec. (c)(2)(A). [Pub. L. 109–135, § 421(1)][/us/pl/109/135/s421/1], substituted
+    2005—Subsec. (c)(2)(A). [Pub. L. 109–135][/us/pl/109/135], § 421(1), substituted
 
 <table>
 
@@ -1001,7 +1001,7 @@ av–vnm  </td>
 
 </table>
 
-    Subsec. (c)(3)(A). [Pub. L. 109–135, § 421(2)][/us/pl/109/135/s421/2], substituted
+    Subsec. (c)(3)(A). [Pub. L. 109–135][/us/pl/109/135], § 421(2), substituted
 
 <table>
 
@@ -1133,7 +1133,7 @@ vom  </td>
 
 </table>
 
-    Subsec. (c)(4)(A). [Pub. L. 109–135, § 421(3)][/us/pl/109/135/s421/3], substituted
+    Subsec. (c)(4)(A). [Pub. L. 109–135][/us/pl/109/135], § 421(3), substituted
 
 <table>
 
@@ -1289,9 +1289,9 @@ nc–vnm  </td>
 [/us/usc/t19/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4014
 [/us/usc/t19/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4014
 [/us/usc/t19/s4013/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4013%2Fa%2F2
-[/us/pl/109/53/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs203
+[/us/pl/109/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtII
 [/us/stat/119/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F469
-[/us/pl/109/135/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs421
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2642
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
@@ -1299,9 +1299,9 @@ nc–vnm  </td>
 [/us/usc/t19/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4001
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
 [/us/stat/119/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F462
-[/us/pl/109/135/s421/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs421%2F1
-[/us/pl/109/135/s421/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs421%2F2
-[/us/pl/109/135/s421/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs421%2F3
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107
 [/us/usc/t19/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4001
 

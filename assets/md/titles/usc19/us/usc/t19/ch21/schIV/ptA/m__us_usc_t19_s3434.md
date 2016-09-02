@@ -39,7 +39,7 @@
 
         Whenever binational panel review of a final determination made by a competent investigating authority is requested under this section, the United States Secretary shall serve a copy of the request on all persons who would otherwise be entitled under the law of the importing country to commence proceedings for judicial review of the determination.
 
-([Pub. L. 103–182, title IV, § 404][/us/pl/103/182/s404], Dec. 8, 1993, [107 Stat. 2137][/us/stat/107/2137].)
+([Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 404, Dec. 8, 1993, [107 Stat. 2137][/us/stat/107/2137].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs404
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2137
 
 

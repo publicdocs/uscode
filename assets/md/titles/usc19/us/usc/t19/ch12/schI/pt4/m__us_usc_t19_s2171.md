@@ -23,11 +23,17 @@
 
         (1) The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive the same allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
 
-        (2) There shall be in the Office three Deputy United States Trade Representatives and one Chief Agricultural Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative or the Chief Agricultural Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative and the Chief Agricultural Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
+        (2) There shall be in the Office three Deputy United States Trade Representatives, one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator, who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative, the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative, the Chief Agricultural Negotiator, and the Chief Innovation and Intellectual Property Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
 
         (3) There shall be in the Office one Chief Transparency Officer. The Chief Transparency Officer shall consult with Congress on transparency policy, coordinate transparency in trade negotiations, engage and assist the public, and advise the United States Trade Representative on transparency policy.
 
         (4) A person who has directly represented, aided, or advised a foreign entity (as defined by [section 207(f)(3) of title 18][/us/usc/t18/s207/f/3]) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
+
+        (5)
+
+            (A) When the President submits to the Senate for its advice and consent a nomination of an individual for appointment as a Deputy United States Trade Representative under paragraph (2), the President shall include in that submission information on the country, regional offices, and functions of the Office of the United States Trade Representative with respect to which that individual will have responsibility.
+
+            (B) The President shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not less than 30 days prior to making any change to the responsibilities of any Deputy United States Trade Representative included in a submission under subparagraph (A), including the reason for that change.
 
     (c) __Duties of United States Trade Representative and Deputy United States Trade Representatives__ 
 
@@ -75,13 +81,15 @@
 
         (5) The principal function of the Chief Agricultural Negotiator shall be to conduct trade negotiations and to enforce trade agreements relating to United States agricultural products and services. The Chief Agricultural Negotiator shall be a vigorous advocate on behalf of United States agricultural interests. The Chief Agricultural Negotiator shall perform such other functions as the United States Trade Representative may direct.
 
+        (6) The principal functions of the Chief Innovation and Intellectual Property Negotiator shall be to conduct trade negotiations and to enforce trade agreements relating to United States intellectual property and to take appropriate actions to address acts, policies, and practices of foreign governments that have a significant adverse impact on the value of United States innovation. The Chief Innovation and Intellectual Property Negotiator shall be a vigorous advocate on behalf of United States innovation and intellectual property interests. The Chief Innovation and Intellectual Property Negotiator shall perform such other functions as the United States Trade Representative may direct.
+
     (d) __Unfair trade practices; additional duties of Representative; advisory committee; definition__ 
 
         (1)
 
          In carrying out subsection (c) with respect to unfair trade practices, the United States Trade Representative shall—
 
-            (A) coordinate the application of interagency resources to specific unfair trade practice cases;
+            (A) coordinate the application of interagency resources, including resources of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under subsection (h), to specific unfair trade practice cases;
 
             (B)
 
@@ -175,7 +183,35 @@
 
         (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
 
-([Pub. L. 93–618, title I, § 141][/us/pl/93/618/s141], Jan. 3, 1975, [88 Stat. 1999][/us/stat/88/1999]; [Pub. L. 97–456, § 3(a)][/us/pl/97/456/s3/a]–(d)(2), Jan. 12, 1983, [96 Stat. 2504][/us/stat/96/2504], 2505; [Pub. L. 98–573, title III, § 304(d)(2)(A)][/us/pl/98/573/s304/d/2/A], title VII, § 703, Oct. 30, 1984, [98 Stat. 3004][/us/stat/98/3004], 3043; [Pub. L. 99–272, title XIII, § 13023][/us/pl/99/272/s13023], Apr. 7, 1986, [100 Stat. 307][/us/stat/100/307]; [Pub. L. 99–514, title XVIII, § 1887(a)(3)][/us/pl/99/514/s1887/a/3], (4), Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923]; [Pub. L. 100–203, title IX, § 9504][/us/pl/100/203/s9504], Dec. 22, 1987, [101 Stat. 1330–382][/us/stat/101/1330-382]; [Pub. L. 100–418, title I, § 1601][/us/pl/100/418/s1601], Aug. 23, 1988, [102 Stat. 1260][/us/stat/102/1260]; [Pub. L. 101–207, § 1(a)][/us/pl/101/207/s1/a], Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 101–382, title I, § 103(a)][/us/pl/101/382/s103/a], Aug. 20, 1990, [104 Stat. 634][/us/stat/104/634]; [Pub. L. 103–465, title VI, § 621(a)(8)][/us/pl/103/465/s621/a/8], Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993]; [Pub. L. 104–65, § 21(b)][/us/pl/104/65/s21/b], Dec. 19, 1995, [109 Stat. 704][/us/stat/109/704]; [Pub. L. 104–295, § 20(f)(1)][/us/pl/104/295/s20/f/1], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 106–36, title I, § 1001(a)(2)][/us/pl/106/36/s1001/a/2], June 25, 1999, [113 Stat. 130][/us/stat/113/130]; [Pub. L. 106–200, title IV, § 406][/us/pl/106/200/s406], May 18, 2000, [114 Stat. 293][/us/stat/114/293]; [Pub. L. 107–210, div. A, title III, § 361(a)][/us/pl/107/210/s361/a], (b), Aug. 6, 2002, [116 Stat. 991][/us/stat/116/991]; [Pub. L. 108–429, title II, § 2004(a)(15)][/us/pl/108/429/s2004/a/15], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591]; [Pub. L. 114–26, title I, § 104(f)][/us/pl/114/26/s104/f], June 29, 2015, [129 Stat. 342][/us/stat/129/342].)
+    (h) __Interagency Center on Trade Implementation, Monitoring, and Enforcement__ 
+
+        (1) __Establishment of Center__ 
+
+            There is established in the Office of the United States Trade Representative an Interagency Center on Trade Implementation, Monitoring, and Enforcement (in this section referred to as the “Center”).
+
+        (2) __Functions of Center__ 
+
+        The Center shall support the activities of the United States Trade Representative in—
+
+            (A) investigating potential disputes under the auspices of the World Trade Organization;
+
+            (B) investigating potential disputes pursuant to bilateral and regional trade agreements to which the United States is a party;
+
+            (C) carrying out the functions of the United States Trade Representative under this section with respect to the monitoring and enforcement of trade agreements to which the United States is a party; and
+
+            (D) monitoring measures taken by parties to implement provisions of trade agreements to which the United States is a party.
+
+        (3) __Personnel__ 
+
+            (A) __Director__ 
+
+                The head of the Center shall be a Director, who shall be appointed by the United States Trade Representative.
+
+            (B) __Additional employees__ 
+
+                A Federal agency may, in consultation with and with the approval of the United States Trade Representative, detail or assign one or more employees to the Center without any reimbursement from the Center to support the functions of the Center.
+
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 141, Jan. 3, 1975, [88 Stat. 1999][/us/stat/88/1999]; [Pub. L. 97–456][/us/pl/97/456], § 3(a)–(d)(2), Jan. 12, 1983, [96 Stat. 2504][/us/stat/96/2504], 2505; [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 304(d)(2)(A), title VII, § 703, Oct. 30, 1984, [98 Stat. 3004][/us/stat/98/3004], 3043; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13023, Apr. 7, 1986, [100 Stat. 307][/us/stat/100/307]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1887(a)(3), (4), Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9504, Dec. 22, 1987, [101 Stat. 1330–382][/us/stat/101/1330-382]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1601, Aug. 23, 1988, [102 Stat. 1260][/us/stat/102/1260]; [Pub. L. 101–207][/us/pl/101/207], § 1(a), Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 103(a), Aug. 20, 1990, [104 Stat. 634][/us/stat/104/634]; [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 621(a)(8), Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993]; [Pub. L. 104–65][/us/pl/104/65], § 21(b), Dec. 19, 1995, [109 Stat. 704][/us/stat/109/704]; [Pub. L. 104–295][/us/pl/104/295], § 20(f)(1), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(a)(2), June 25, 1999, [113 Stat. 130][/us/stat/113/130]; [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 406, May 18, 2000, [114 Stat. 293][/us/stat/114/293]; [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 361(a), (b), Aug. 6, 2002, [116 Stat. 991][/us/stat/116/991]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(a)(15), Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591]; [Pub. L. 114–26, title I][/us/pl/114/26/tI], § 104(f), June 29, 2015, [129 Stat. 342][/us/stat/129/342]; [Pub. L. 114–125, title VI][/us/pl/114/125/tVI], §§ 604(a), (b), 609(a), title IX, § 918, Feb. 24, 2016, [130 Stat. 185][/us/stat/130/185], 186, 190, 280.)
 
  __References in Text__ 
 
@@ -191,23 +227,35 @@
 
  __Amendments__ 
 
+    2016—Subsec. (b)(2). [Pub. L. 114–125][/us/pl/114/125], § 609(a)(1), substituted “, one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator,” for “and one Chief Agricultural Negotiator”, “, the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator” for “or the Chief Agricultural Negotiator”, and “, the Chief Agricultural Negotiator, and the Chief Innovation and Intellectual Property Negotiator” for “and the Chief Agricultural Negotiator”.
+
+    Subsec. (b)(5). [Pub. L. 114–125][/us/pl/114/125], § 918, added par. (5).
+
+    Subsec. (c)(5). [Pub. L. 114–125][/us/pl/114/125], § 609(a)(2)(A), realigned margins.
+
+    Subsec. (c)(6). [Pub. L. 114–125][/us/pl/114/125], § 609(a)(2)(B), added par. (6).
+
+    Subsec. (d)(1)(A). [Pub. L. 114–125][/us/pl/114/125], § 604(b), inserted “, including resources of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under subsection (h),” after “interagency resources”.
+
+    Subsec. (h). [Pub. L. 114–125][/us/pl/114/125], § 604(a), added subsec. (h).
+
     2015—Subsec. (b)(3), (4). [Pub. L. 114–26][/us/pl/114/26] added par. (3) and redesignated former par. (3) as (4).
 
     2004—Subsec. (b)(2). [Pub. L. 108–429][/us/pl/108/429] realigned margins.
 
-    2002—Subsec. (g)(1)(A). [Pub. L. 107–210, § 361(a)(1)(A)][/us/pl/107/210/s361/a/1/A], struck out “not to exceed” after “functions” in introductory provisions.
+    2002—Subsec. (g)(1)(A). [Pub. L. 107–210][/us/pl/107/210], § 361(a)(1)(A), struck out “not to exceed” after “functions” in introductory provisions.
 
-    Subsec. (g)(1)(A)(i). [Pub. L. 107–210, § 361(a)(1)(B)][/us/pl/107/210/s361/a/1/B], added cl. (i) and struck out former cl. (i) which read as follows: “$23,250,000 for fiscal year 1991.”
+    Subsec. (g)(1)(A)(i). [Pub. L. 107–210][/us/pl/107/210], § 361(a)(1)(B), added cl. (i) and struck out former cl. (i) which read as follows: “$23,250,000 for fiscal year 1991.”
 
-    Subsec. (g)(1)(A)(ii). [Pub. L. 107–210, § 361(a)(1)(C)][/us/pl/107/210/s361/a/1/C], added cl. (ii) and struck out former cl. (ii) which read as follows: “$21,077,000 for fiscal year 1992.”
+    Subsec. (g)(1)(A)(ii). [Pub. L. 107–210][/us/pl/107/210], § 361(a)(1)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: “$21,077,000 for fiscal year 1992.”
 
-    Subsec. (g)(1)(B). [Pub. L. 107–210, § 361(a)(2)][/us/pl/107/210/s361/a/2], inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “not to exceed $2,050,000 may be used to pay the United States share of the expenses of binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the United States-Canada Free-Trade Agreement; and”.
+    Subsec. (g)(1)(B). [Pub. L. 107–210][/us/pl/107/210], § 361(a)(2), inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “not to exceed $2,050,000 may be used to pay the United States share of the expenses of binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the United States-Canada Free-Trade Agreement; and”.
 
-    Subsec. (g)(3). [Pub. L. 107–210, § 361(b)][/us/pl/107/210/s361/b], added par. (3).
+    Subsec. (g)(3). [Pub. L. 107–210][/us/pl/107/210], § 361(b), added par. (3).
 
-    2000—Subsec. (b)(2). [Pub. L. 106–200, § 406(1)][/us/pl/106/200/s406/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There shall be in the Office three Deputy United States Trade Representatives who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative shall hold office at the pleasure of the President and shall have the rank of Ambassador.”
+    2000—Subsec. (b)(2). [Pub. L. 106–200][/us/pl/106/200], § 406(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There shall be in the Office three Deputy United States Trade Representatives who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative shall hold office at the pleasure of the President and shall have the rank of Ambassador.”
 
-    Subsec. (c)(5). [Pub. L. 106–200, § 406(2)][/us/pl/106/200/s406/2], added par. (5).
+    Subsec. (c)(5). [Pub. L. 106–200][/us/pl/106/200], § 406(2), added par. (5).
 
     1999—Subsec. (b)(3). [Pub. L. 106–36][/us/pl/106/36] struck out “Limitation on appointments.—” after “(3)” and realigned margins.
 
@@ -215,9 +263,9 @@
 
     1995—Subsec. (b)(3). [Pub. L. 104–65][/us/pl/104/65] added par. (3).
 
-    1994—Subsec. (c)(1)(C). [Pub. L. 103–465, § 621(a)(8)(A)][/us/pl/103/465/s621/a/8/A], inserted “all negotiations on any matter considered under the auspices of the World Trade Organization,” after “including”.
+    1994—Subsec. (c)(1)(C). [Pub. L. 103–465][/us/pl/103/465], § 621(a)(8)(A), inserted “all negotiations on any matter considered under the auspices of the World Trade Organization,” after “including”.
 
-    Subsec. (c)(1)(D). [Pub. L. 103–465, § 621(a)(8)(B)][/us/pl/103/465/s621/a/8/B], inserted “, including any matter considered under the auspices of the World Trade Organization,” after “functions”.
+    Subsec. (c)(1)(D). [Pub. L. 103–465][/us/pl/103/465], § 621(a)(8)(B), inserted “, including any matter considered under the auspices of the World Trade Organization,” after “functions”.
 
     1990—Subsec. (g)(1). [Pub. L. 101–382][/us/pl/101/382] amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
@@ -231,7 +279,7 @@
 
     1989—Subsec. (g)(1). [Pub. L. 101–207][/us/pl/101/207], in subpar. (A), substituted “1990” for “1988” and “$19,651,000” for “$15,172,000”, and in subpar. (B), substituted “1990” for “1988” in introductory provisions, and “$89,000” for “$69,000” in cl. (i).
 
-    1988—Subsec. (c)(1). [Pub. L. 100–418, § 1601(a)(1)][/us/pl/100/418/s1601/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The United States Trade Representative shall—
+    1988—Subsec. (c)(1). [Pub. L. 100–418][/us/pl/100/418], § 1601(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The United States Trade Representative shall—
 
     “(A) be the chief representative of the United States for each trade negotiation under this subchapter or [section 2411 of this title][/us/usc/t19/s2411];
 
@@ -245,51 +293,51 @@
 
     “(F) be responsible for such other functions as the President may direct.”
 
-    Subsec. (c)(2) to (4). [Pub. L. 100–418, § 1601(a)(2)][/us/pl/100/418/s1601/a/2], (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (c)(2) to (4). [Pub. L. 100–418][/us/pl/100/418], § 1601(a)(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsecs. (d) to (g). [Pub. L. 100–418, § 1601(b)(1)][/us/pl/100/418/s1601/b/1], (2), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (d) to (g). [Pub. L. 100–418][/us/pl/100/418], § 1601(b)(1), (2), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
     1987—Subsec. (f)(1). [Pub. L. 100–203][/us/pl/100/203] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to the Office for the purpose of carrying out its functions $13,582,000 for fiscal year 1986; of which not to exceed $80,000 may be used for entertainment and representation expenses.”
 
-    1986—Subsec. (d)(1). [Pub. L. 99–272, § 13023(1)][/us/pl/99/272/s13023/1], inserted provision that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule.
+    1986—Subsec. (d)(1). [Pub. L. 99–272][/us/pl/99/272], § 13023(1), inserted provision that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule.
 
-    Subsec. (d)(6). [Pub. L. 99–514, § 1887(a)(3)][/us/pl/99/514/s1887/a/3], substituted “1342 of title 31” for “3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])”.
+    Subsec. (d)(6). [Pub. L. 99–514][/us/pl/99/514], § 1887(a)(3), substituted “1342 of title 31” for “3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])”.
 
-    Subsec. (d)(8), (11). [Pub. L. 99–514, § 1887(a)(4)][/us/pl/99/514/s1887/a/4], redesignated the par. (8) relating to the provision of copies of documents to persons at cost as par. (11).
+    Subsec. (d)(8), (11). [Pub. L. 99–514][/us/pl/99/514], § 1887(a)(4), redesignated the par. (8) relating to the provision of copies of documents to persons at cost as par. (11).
 
-    Subsec. (f)(1). [Pub. L. 99–272, § 13023(2)][/us/pl/99/272/s13023/2], substituted “$13,582,000 for fiscal year 1986” for “$14,179,000 for fiscal year 1985”.
+    Subsec. (f)(1). [Pub. L. 99–272][/us/pl/99/272], § 13023(2), substituted “$13,582,000 for fiscal year 1986” for “$14,179,000 for fiscal year 1985”.
 
-    1984—Subsec. (d)(6) to (8). [Pub. L. 98–573, § 304(d)(2)(A)][/us/pl/98/573/s304/d/2/A], which directed that a new par. (8), relating to the provision of copies of documents to persons at cost, be added to subsec. (d) by striking out “and” at the end of par. (6), substituting “; and” for the period at the end of par. (7), and adding the new par. (8) at the end thereof, was executed by adding the new par. (8) following par. (10). Amendments to pars. (6) and (7) could not be executed.
+    1984—Subsec. (d)(6) to (8). [Pub. L. 98–573][/us/pl/98/573], § 304(d)(2)(A), which directed that a new par. (8), relating to the provision of copies of documents to persons at cost, be added to subsec. (d) by striking out “and” at the end of par. (6), substituting “; and” for the period at the end of par. (7), and adding the new par. (8) at the end thereof, was executed by adding the new par. (8) following par. (10). Amendments to pars. (6) and (7) could not be executed.
 
-    Subsec. (f)(1). [Pub. L. 98–573, § 703][/us/pl/98/573/s703], substituted provisions authorizing appropriations of $14,179,000 for fiscal year 1985, of which not more than $80,000 may be used for entertainment and representation for provisions authorizing appropriations of $11,100,000 for fiscal year 1983, of which not more than $65,000 could be used for entertainment and representation expenses.
+    Subsec. (f)(1). [Pub. L. 98–573][/us/pl/98/573], § 703, substituted provisions authorizing appropriations of $14,179,000 for fiscal year 1985, of which not more than $80,000 may be used for entertainment and representation for provisions authorizing appropriations of $11,100,000 for fiscal year 1983, of which not more than $65,000 could be used for entertainment and representation expenses.
 
-    1983—Subsec. (a). [Pub. L. 97–456, § 3(d)(1)(D)][/us/pl/97/456/s3/d/1/D], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+    1983—Subsec. (a). [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
-    Subsec. (b)(1). [Pub. L. 97–456, § 3(d)(1)(D)][/us/pl/97/456/s3/d/1/D], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” wherever appearing.
+    Subsec. (b)(1). [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” wherever appearing.
 
-    Subsec. (b)(2). [Pub. L. 97–456, § 3(c)][/us/pl/97/456/s3/c], (d)(2)(A), (B), substituted “three Deputy United States Trade Representatives” for “two Deputy Special Representatives for Trade Negotiations” after “in the Office”, “a Deputy United States Trade Representative” for “a Deputy Special Representative” after “any nomination of a”, and “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each”.
+    Subsec. (b)(2). [Pub. L. 97–456][/us/pl/97/456], § 3(c), (d)(2)(A), (B), substituted “three Deputy United States Trade Representatives” for “two Deputy Special Representatives for Trade Negotiations” after “in the Office”, “a Deputy United States Trade Representative” for “a Deputy Special Representative” after “any nomination of a”, and “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each”.
 
-    Subsec. (c)(1). [Pub. L. 97–456, § 3(d)(1)(D)][/us/pl/97/456/s3/d/1/D], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in provisions preceding subpar. (A).
+    Subsec. (c)(1). [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in provisions preceding subpar. (A).
 
-    Subsec. (c)(2). [Pub. L. 97–456, § 3(b)(1)][/us/pl/97/456/s3/b/1], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (c)(2). [Pub. L. 97–456][/us/pl/97/456], § 3(b)(1), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (c)(3). [Pub. L. 97–456, § 3(b)(1)][/us/pl/97/456/s3/b/1], (d)(2)(C), (D), redesignated former par. (2) as (3) and substituted “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each” and “United States Trade Representative” for “Special Representative for Trade Negotiations” after “such other functions as the”.
+    Subsec. (c)(3). [Pub. L. 97–456][/us/pl/97/456], § 3(b)(1), (d)(2)(C), (D), redesignated former par. (2) as (3) and substituted “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each” and “United States Trade Representative” for “Special Representative for Trade Negotiations” after “such other functions as the”.
 
-    Subsec. (d). [Pub. L. 97–456, § 3(d)(1)(D)][/us/pl/97/456/s3/d/1/D], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in provisions preceding par. (1).
+    Subsec. (d). [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in provisions preceding par. (1).
 
-    Subsec. (d)(3). [Pub. L. 97–456, § 3(b)(2)][/us/pl/97/456/s3/b/2], inserted “, powers and duties” after “functions”.
+    Subsec. (d)(3). [Pub. L. 97–456][/us/pl/97/456], § 3(b)(2), inserted “, powers and duties” after “functions”.
 
-    Subsec. (d)(5). [Pub. L. 97–456, § 3(d)(1)(D)][/us/pl/97/456/s3/d/1/D], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+    Subsec. (d)(5). [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
-    Subsec. (d)(8) to (10). [Pub. L. 97–456, § 3(b)(3)][/us/pl/97/456/s3/b/3]–(5), added pars. (8) to (10).
+    Subsec. (d)(8) to (10). [Pub. L. 97–456][/us/pl/97/456], § 3(b)(3)–(5), added pars. (8) to (10).
 
-    Subsec. (e). [Pub. L. 97–456, § 3(d)(1)(D)][/us/pl/97/456/s3/d/1/D], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
+    Subsec. (e). [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations”.
 
-    Subsec. (f). [Pub. L. 97–456, § 3(a)][/us/pl/97/456/s3/a], substituted provisions authorizing for appropriation $11,100,000 for fiscal 1983, of which no more than $65,000 could be used for entertainment and representation expenses, and authorizing for appropriation such additional sums as might be provided in accordance with the Federal Pay Comparability Act of 1970, for provisions authorizing for appropriation necessary sums for fiscal 1976 and each fiscal year thereafter any part of which was within the five-year period beginning on Jan. 3, 1975.
+    Subsec. (f). [Pub. L. 97–456][/us/pl/97/456], § 3(a), substituted provisions authorizing for appropriation $11,100,000 for fiscal 1983, of which no more than $65,000 could be used for entertainment and representation expenses, and authorizing for appropriation such additional sums as might be provided in accordance with the Federal Pay Comparability Act of 1970, for provisions authorizing for appropriation necessary sums for fiscal 1976 and each fiscal year thereafter any part of which was within the five-year period beginning on Jan. 3, 1975.
 
-    Subsec. (g). [Pub. L. 97–456, § 3(d)(1)][/us/pl/97/456/s3/d/1], struck out subsec. (g) which abolished the Office of Special Representative for Trade Negotiations and transferred its assets and obligations to the Office of United States Trade Representative.
+    Subsec. (g). [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1), struck out subsec. (g) which abolished the Office of Special Representative for Trade Negotiations and transferred its assets and obligations to the Office of United States Trade Representative.
 
-    Subsec. (h). [Pub. L. 97–456, § 3(d)(1)][/us/pl/97/456/s3/d/1], struck out subsec. (h) which permitted any individual holding the position of Special Representative for Trade Negotiations or Deputy Special Representative for Trade Negotiations on Jan. 3, 1975, appointed with the advice and consent of the Senate, to continue to hold such position, and provided for the transfer of personnel employed by the Office of Special Representative for Trade Negotiations on Jan. 2, 1975, to the Office of United States Trade Representative.
+    Subsec. (h). [Pub. L. 97–456][/us/pl/97/456], § 3(d)(1), struck out subsec. (h) which permitted any individual holding the position of Special Representative for Trade Negotiations or Deputy Special Representative for Trade Negotiations on Jan. 3, 1975, appointed with the advice and consent of the Senate, to continue to hold such position, and provided for the transfer of personnel employed by the Office of Special Representative for Trade Negotiations on Jan. 2, 1975, to the Office of United States Trade Representative.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -305,7 +353,7 @@
 
  __Chief Negotiator for Intellectual Property Enforcement__ 
 
-[Pub. L. 108–447, div. B, title II][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 2872][/us/stat/118/2872], provided in part: 
+[Pub. L. 108–447, div. B, title II][/us/pl/108/447/dB/tII], Dec. 8, 2004, [118 Stat. 2872][/us/stat/118/2872], provided in part: 
 
 > “That there is established a position of Chief Negotiator for Intellectual Property Enforcement.”
 
@@ -323,23 +371,23 @@
 
 Provisions requiring the Secretary of State, upon the request of the Secretary of Commerce, to accord the diplomatic title of Minister-Counselor to the senior Commercial Officer assigned to any United States mission abroad with a limit on the number of Commercial Service officers accorded such diplomatic title at any time were contained in the following appropriation acts:
 
-    [Pub. L. 102–395, title II][/us/pl/102/395], Oct. 6, 1992, [106 Stat. 1852][/us/stat/106/1852].
+    [Pub. L. 102–395, title II][/us/pl/102/395/tII], Oct. 6, 1992, [106 Stat. 1852][/us/stat/106/1852].
 
-    [Pub. L. 102–140, title II][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 802][/us/stat/105/802].
+    [Pub. L. 102–140, title II][/us/pl/102/140/tII], Oct. 28, 1991, [105 Stat. 802][/us/stat/105/802].
 
-    [Pub. L. 101–515, title I][/us/pl/101/515], Nov. 5, 1990, [104 Stat. 2103][/us/stat/104/2103].
+    [Pub. L. 101–515, title I][/us/pl/101/515/tI], Nov. 5, 1990, [104 Stat. 2103][/us/stat/104/2103].
 
-    [Pub. L. 101–162, title I][/us/pl/101/162], Nov. 21, 1989, [103 Stat. 991][/us/stat/103/991].
+    [Pub. L. 101–162, title I][/us/pl/101/162/tI], Nov. 21, 1989, [103 Stat. 991][/us/stat/103/991].
 
-    [Pub. L. 100–459, title I][/us/pl/100/459], Oct. 1, 1988, [102 Stat. 2189][/us/stat/102/2189].
+    [Pub. L. 100–459, title I][/us/pl/100/459/tI], Oct. 1, 1988, [102 Stat. 2189][/us/stat/102/2189].
 
-    [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title I\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–3.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title I\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–3.
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 
     For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§ 1101–1147 and 1171–1177\] or title XVIII \[§§ 1801–1899A\] of [Pub. L. 99–514][/us/pl/99/514] require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see [section 1140 of Pub. L. 99–514][/us/pl/99/514/s1140], as amended, set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
- __REORGANIZATION PLAN NO. 3 OF 1979__  __44 F.R. 69273,__  __[__  __93 Stat. 1381__  __][/us/stat/93/1381]__  __, as amended__  __[__  __Pub. L. 97–195, § 1(c)(6)__  __][/us/pl/97/195/s1/c/6]__  __,__  __June 16, 1982__  __,__  __[__  __96 Stat. 115__  __][/us/stat/96/115]__  __;__  __[__  __Pub. L. 97–377, title I, § 122__  __][/us/pl/97/377/s122]__  __,__  __Dec. 21, 1982__  __,__  __[__  __96 Stat. 1913__  __][/us/stat/96/1913]__ 
+ __REORGANIZATION PLAN NO. 3 OF 1979__  __44 F.R. 69273,__  __[__  __93 Stat. 1381__  __][/us/stat/93/1381]__  __, as amended__  __[__  __Pub. L. 97–195__  __][/us/pl/97/195]__  __, § 1(c)(6),__  __June 16, 1982__  __,__  __[__  __96 Stat. 115__  __][/us/stat/96/115]__  __;__  __[__  __Pub. L. 97–377, title I__  __][/us/pl/97/377/tI]__  __, § 122,__  __Dec. 21, 1982__  __,__  __[__  __96 Stat. 1913__  __][/us/stat/96/1913]__ 
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, September 25, 1979, pursuant to the provisions of chapter 9 of title 5 of the United States Code.
 
@@ -383,7 +431,7 @@ Provisions requiring the Secretary of State, upon the request of the Secretary o
 
     (d) There shall be in the Department two additional Assistant Secretaries appointed by the President, by and with the advice and consent of the Senate. Each such Assistant Secretary shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
 
-    (e) There shall be in the Department of Commerce a Director General of the United States and Foreign Commercial Services who shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate prescribed by law for level IV of the Executive Schedule \[[5 U.S.C. 5315][/us/usc/t5/s5315]\]. \[As amended [Pub. L. 97–195, § 1(c)(6)][/us/pl/97/195/s1/c/6], June 16, 1982, [96 Stat. 115][/us/stat/96/115]; [Pub. L. 97–377, title I, § 122][/us/pl/97/377/s122], Dec. 21, 1982, [96 Stat. 1913][/us/stat/96/1913].\]
+    (e) There shall be in the Department of Commerce a Director General of the United States and Foreign Commercial Services who shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate prescribed by law for level IV of the Executive Schedule \[[5 U.S.C. 5315][/us/usc/t5/s5315]\]. \[As amended [Pub. L. 97–195][/us/pl/97/195], § 1(c)(6), June 16, 1982, [96 Stat. 115][/us/stat/96/115]; [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 122, Dec. 21, 1982, [96 Stat. 1913][/us/stat/96/1913].\]
 
  __Sec. 3. Export-Import Bank of the United States__ 
 
@@ -782,40 +830,42 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/93/618/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs141
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1999
-[/us/pl/97/456/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fa
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
 [/us/stat/96/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2504
-[/us/pl/98/573/s304/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fd%2F2%2FA
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3004
-[/us/pl/99/272/s13023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13023
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F307
-[/us/pl/99/514/s1887/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1887%2Fa%2F3
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2923
-[/us/pl/100/203/s9504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9504
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-382
-[/us/pl/100/418/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1601
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1260
-[/us/pl/101/207/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs1%2Fa
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
 [/us/stat/103/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1833
-[/us/pl/101/382/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs103%2Fa
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F634
-[/us/pl/103/465/s621/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F8
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4993
-[/us/pl/104/65/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs21%2Fb
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F704
-[/us/pl/104/295/s20/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Ff%2F1
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
-[/us/pl/106/36/s1001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fa%2F2
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F130
-[/us/pl/106/200/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs406
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F293
-[/us/pl/107/210/s361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs361%2Fa
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F991
-[/us/pl/108/429/s2004/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F15
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2591
-[/us/pl/114/26/s104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs104%2Ff
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F342
+[/us/pl/114/125/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVI
+[/us/stat/130/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F185
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
@@ -831,51 +881,57 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/pl/93/618/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs141
 [/us/pl/93/618/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs141%2Fb
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
-[/us/pl/107/210/s361/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs361%2Fa%2F1%2FA
-[/us/pl/107/210/s361/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs361%2Fa%2F1%2FB
-[/us/pl/107/210/s361/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs361%2Fa%2F1%2FC
-[/us/pl/107/210/s361/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs361%2Fa%2F2
-[/us/pl/107/210/s361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs361%2Fb
-[/us/pl/106/200/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs406%2F1
-[/us/pl/106/200/s406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs406%2F2
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
-[/us/pl/103/465/s621/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F8%2FA
-[/us/pl/103/465/s621/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F8%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
-[/us/pl/100/418/s1601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1601%2Fa%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
 [/us/usc/t19/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
 [/us/usc/t19/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1872%2Fa
-[/us/pl/100/418/s1601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1601%2Fa%2F2
-[/us/pl/100/418/s1601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1601%2Fb%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/272/s13023/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13023%2F1
-[/us/pl/99/514/s1887/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1887%2Fa%2F3
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/99/514/s1887/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1887%2Fa%2F4
-[/us/pl/99/272/s13023/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13023%2F2
-[/us/pl/98/573/s304/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fd%2F2%2FA
-[/us/pl/98/573/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs703
-[/us/pl/97/456/s3/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1%2FD
-[/us/pl/97/456/s3/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1%2FD
-[/us/pl/97/456/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fc
-[/us/pl/97/456/s3/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1%2FD
-[/us/pl/97/456/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fb%2F1
-[/us/pl/97/456/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fb%2F1
-[/us/pl/97/456/s3/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1%2FD
-[/us/pl/97/456/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fb%2F2
-[/us/pl/97/456/s3/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1%2FD
-[/us/pl/97/456/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fb%2F3
-[/us/pl/97/456/s3/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1%2FD
-[/us/pl/97/456/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fa
-[/us/pl/97/456/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1
-[/us/pl/97/456/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F1
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs151
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
@@ -885,32 +941,32 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fb
 [/us/usc/t19/s1677k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677k
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtII
 [/us/stat/118/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2872
 [/us/pl/105/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F5
 [/us/stat/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F11
 [/us/usc/t19/s2171/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171%2Fb%2F3
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
+[/us/pl/102/395/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtII
 [/us/stat/106/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1852
-[/us/pl/102/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140
+[/us/pl/102/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtII
 [/us/stat/105/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F802
-[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
+[/us/pl/101/515/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtI
 [/us/stat/104/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2103
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtI
 [/us/stat/103/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F991
-[/us/pl/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459
+[/us/pl/100/459/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2FtI
 [/us/stat/102/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2189
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
-[/us/pl/97/195/s1/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F195%2Fs1%2Fc%2F6
+[/us/pl/97/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F195
 [/us/stat/96/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F115
-[/us/pl/97/377/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs122
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1913
 [/us/usc/t19/s1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1872
 [/us/usc/t19/s2503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fc
@@ -921,9 +977,9 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 [/us/usc/t15/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1502
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/97/195/s1/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F195%2Fs1%2Fc%2F6
+[/us/pl/97/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F195
 [/us/stat/96/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F115
-[/us/pl/97/377/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs122
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1913
 [/us/usc/t19/s2515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2515%2Fb
 [/us/usc/t19/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862

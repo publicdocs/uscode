@@ -47,21 +47,21 @@
 
         (4) destruction.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 491, [46 Stat. 726][/us/stat/46/726]; [June 25, 1938, ch. 679, § 14][/us/act/1938-06-25/ch679/s14], [52 Stat. 1083][/us/stat/52/1083]; [Pub. L. 91–271, title III, § 301(j)][/us/pl/91/271/s301/j], June 2, 1970, [84 Stat. 289][/us/stat/84/289]; [Pub. L. 95–410, title II, § 208][/us/pl/95/410/s208], Oct. 3, 1978, [92 Stat. 901][/us/stat/92/901]; [Pub. L. 103–182, title VI, § 659][/us/pl/103/182/s659], Dec. 8, 1993, [107 Stat. 2213][/us/stat/107/2213]; [Pub. L. 104–295, § 21(e)(8)][/us/pl/104/295/s21/e/8], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 491, [46 Stat. 726][/us/stat/46/726]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 14, [52 Stat. 1083][/us/stat/52/1083]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(j), June 2, 1970, [84 Stat. 289][/us/stat/84/289]; [Pub. L. 95–410, title II][/us/pl/95/410/tII], § 208, Oct. 3, 1978, [92 Stat. 901][/us/stat/92/901]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 659, Dec. 8, 1993, [107 Stat. 2213][/us/stat/107/2213]; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(8), Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in R.S. §§ 2973, 2975 and 2976, all of which were superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 491, [42 Stat. 963][/us/stat/42/963], and repealed by section 642 thereof. Section 491 of the 1922 act was superseded by section 491 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in R.S. §§ 2973, 2975 and 2976, all of which were superseded by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 491, [42 Stat. 963][/us/stat/42/963], and repealed by section 642 thereof. Section 491 of the 1922 act was superseded by section 491 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
     1996—Subsec. (a). [Pub. L. 104–295][/us/pl/104/295] substituted “in a bonded warehouse pursuant to section 1490” for “in in a bonded warehouse pursuant to section 1490” and “Customs Service” for “appropriate customs officer”.
 
-    1993—Subsec. (a). [Pub. L. 103–182, § 659(1)][/us/pl/103/182/s659/1], substituted “in a bonded warehouse pursuant to [section 1490 of this title][/us/usc/t19/s1490] for 6 months” for “customs custody for one year”, “estimated duties, taxes, fees, interest, storage,” for “estimated duties and storage”, “duties, taxes, fees, interest, storage, and other charges, if permitted” for “duties, storage, and other charges, if permitted”, “pursuant to [section 1490 of this title][/us/usc/t19/s1490] in a bonded warehouse for 6 months” for “public store or bonded warehouse for a period of one year”, “duties, taxes, fees, interest, storage, and other charges” for “duties, storage, and other charges”, “duties, taxes, fees, interest, charges, and expenses” for “duties, charges, and expenses”, and “computation of duties, taxes, interest, and fees for the purposes” for “computation of duties for the purposes”.
+    1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 659(1), substituted “in a bonded warehouse pursuant to [section 1490 of this title][/us/usc/t19/s1490] for 6 months” for “customs custody for one year”, “estimated duties, taxes, fees, interest, storage,” for “estimated duties and storage”, “duties, taxes, fees, interest, storage, and other charges, if permitted” for “duties, storage, and other charges, if permitted”, “pursuant to [section 1490 of this title][/us/usc/t19/s1490] in a bonded warehouse for 6 months” for “public store or bonded warehouse for a period of one year”, “duties, taxes, fees, interest, storage, and other charges” for “duties, storage, and other charges”, “duties, taxes, fees, interest, charges, and expenses” for “duties, charges, and expenses”, and “computation of duties, taxes, interest, and fees for the purposes” for “computation of duties for the purposes”.
 
-    Subsecs. (b) to (d). [Pub. L. 103–182, § 659(2)][/us/pl/103/182/s659/2], added subsecs. (b) to (d). Former subsec. (b) redesignated (e).
+    Subsecs. (b) to (d). [Pub. L. 103–182][/us/pl/103/182], § 659(2), added subsecs. (b) to (d). Former subsec. (b) redesignated (e).
 
-    Subsec. (e). [Pub. L. 103–182, § 659(2)][/us/pl/103/182/s659/2], (3), redesignated subsec. (b) as (e) and substituted “Customs Service” for “appropriate customs officer” in par. (3).
+    Subsec. (e). [Pub. L. 103–182][/us/pl/103/182], § 659(2), (3), redesignated subsec. (b) as (e) and substituted “Customs Service” for “appropriate customs officer” in par. (3).
 
     1978—[Pub. L. 95–410][/us/pl/95/410] amended section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
@@ -101,24 +101,24 @@
 [/us/usc/t19/s1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1493
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F726
-[/us/act/1938-06-25/ch679/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs14
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1083
-[/us/pl/91/271/s301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fj
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F289
-[/us/pl/95/410/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs208
+[/us/pl/95/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtII
 [/us/stat/92/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F901
-[/us/pl/103/182/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs659
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2213
-[/us/pl/104/295/s21/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F8
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3531
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F963
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/182/s659/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs659%2F1
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1490
 [/us/usc/t19/s1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1490
-[/us/pl/103/182/s659/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs659%2F2
-[/us/pl/103/182/s659/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs659%2F2
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

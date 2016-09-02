@@ -17,7 +17,7 @@
 
     Legislation in the Senate of the United States amending section 2497 or 2497a of this title shall be referred to the Committee on Finance of the Senate.
 
-([Pub. L. 93–618, title IX, § 903][/us/pl/93/618/s903], as added [Pub. L. 110–234, title XV, § 15101(a)][/us/pl/110/234/s15101/a], May 22, 2008, [122 Stat. 1499][/us/stat/122/1499], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15101(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2261.)
+([Pub. L. 93–618, title IX][/us/pl/93/618/tIX], § 903, as added [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15101(a), May 22, 2008, [122 Stat. 1499][/us/stat/122/1499], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15101(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2261.)
 
  __Codification__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/93/618/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs903
-[/us/pl/110/234/s15101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15101%2Fa
+[/us/pl/93/618/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIX
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1499
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

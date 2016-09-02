@@ -17,11 +17,11 @@
 
     All moneys paid to any customs officer for unascertained duties or for duties paid under protest against the rate or amount of duties charged shall be deposited to the credit of the Treasurer of the United States and shall not be held by the customs officers to await any ascertainment of duties or the result of any litigation in relation to the rate or amount of duties legally chargeable and collectible in any case where money is so paid.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 512, [46 Stat. 734][/us/stat/46/734]; [Pub. L. 91–271, title III, § 301(q)][/us/pl/91/271/s301/q], June 2, 1970, [84 Stat. 290][/us/stat/84/290].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 512, [46 Stat. 734][/us/stat/46/734]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(q), June 2, 1970, [84 Stat. 290][/us/stat/84/290].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in R.S. § 3010, which was superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 512, [42 Stat. 969][/us/stat/42/969], and was repealed by section 642 thereof. Section 512 of the 1922 act was superseded by section 512 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in R.S. § 3010, which was superseded by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 512, [42 Stat. 969][/us/stat/42/969], and was repealed by section 642 thereof. Section 512 of the 1922 act was superseded by section 512 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F734
-[/us/pl/91/271/s301/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fq
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F290
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F969
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

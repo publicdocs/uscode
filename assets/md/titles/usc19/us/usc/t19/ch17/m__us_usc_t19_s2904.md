@@ -37,7 +37,7 @@
 
         (3) For purposes of this subsection, the term “major industrial country” means Canada, the European Communities, the individual member countries of the European Communities, Japan, and any other foreign country designated by the President for purposes of this subsection.
 
-([Pub. L. 100–418, title I, § 1105][/us/pl/100/418/s1105], Aug. 23, 1988, [102 Stat. 1132][/us/stat/102/1132].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1105, Aug. 23, 1988, [102 Stat. 1132][/us/stat/102/1132].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t19/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902
 [/us/usc/t19/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/100/418/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1105
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1132
 
 

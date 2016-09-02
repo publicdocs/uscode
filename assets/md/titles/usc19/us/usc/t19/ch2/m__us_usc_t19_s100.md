@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Sept. 8, 1916, ch. 463, § 706][/us/act/1916-09-08/ch463/s706], [39 Stat. 797][/us/stat/39/797], as amended by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 318(f), [42 Stat. 947][/us/stat/42/947], related to testimony and production of papers. See section 1333(a) to (e) of this title.
+    Section, [act Sept. 8, 1916, ch. 463][/us/act/1916-09-08/ch463], § 706, [39 Stat. 797][/us/stat/39/797], as amended by [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 318(f), [42 Stat. 947][/us/stat/42/947], related to testimony and production of papers. See section 1333(a) to (e) of this title.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1916-09-08/ch463/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463%2Fs706
+[/us/act/1916-09-08/ch463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463
 [/us/stat/39/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F797
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F947
 
 

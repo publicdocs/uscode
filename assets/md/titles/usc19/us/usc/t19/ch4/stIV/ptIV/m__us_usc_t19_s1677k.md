@@ -57,7 +57,7 @@
 
         If the appropriate authority of an Agreement country refuses to undertake antidumping measures in response to a request made therefor by the Trade Representative under subsection (c), the Trade Representative shall promptly consult with the domestic industry on whether action under any other law of the United States is appropriate.
 
-([Pub. L. 100–418, title I, § 1317][/us/pl/100/418/s1317], Aug. 23, 1988, [102 Stat. 1188][/us/stat/102/1188]; [Pub. L. 103–465, title VI, § 621(a)(1)][/us/pl/103/465/s621/a/1], Dec. 8, 1994, [108 Stat. 4992][/us/stat/108/4992].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1317, Aug. 23, 1988, [102 Stat. 1188][/us/stat/102/1188]; [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 621(a)(1), Dec. 8, 1994, [108 Stat. 4992][/us/stat/108/4992].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title VI, § 621(b)][/us/pl/103/465/s621/b], Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993], provided that: 
+[Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 621(b), Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2171, 2411, 2702, 2905, 2906, 3107, 3111, and 3202 of this title\] shall take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 
@@ -81,12 +81,12 @@
 ----------
 
 [/us/usc/t19/s3501/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F1%2FB
-[/us/pl/100/418/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1317
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1188
-[/us/pl/103/465/s621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F1
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4992
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fb
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4993
 
 

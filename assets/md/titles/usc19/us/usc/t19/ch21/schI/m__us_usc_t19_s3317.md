@@ -87,7 +87,7 @@
 
             (K) monitoring and effective dispute settlement mechanisms to facilitate compliance with the matters described in subparagraphs (A) through (J).
 
-([Pub. L. 103–182, title I, § 108][/us/pl/103/182/s108], Dec. 8, 1993, [107 Stat. 2066][/us/stat/107/2066].)
+([Pub. L. 103–182, title I][/us/pl/103/182/tI], § 108, Dec. 8, 1993, [107 Stat. 2066][/us/stat/107/2066].)
 
 ----------
 
@@ -97,7 +97,7 @@
 ----------
 
 [/us/usc/t19/s3311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311%2Fa
-[/us/pl/103/182/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs108
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2066
 
 

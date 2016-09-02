@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    Subdivision (a) of [section 2073 of this title][/us/usc/t19/s2073], referred to in text, was repealed by [act Sept. 3, 1954, ch. 1263, § 10][/us/act/1954-09-03/ch1263/s10], [68 Stat. 1229][/us/stat/68/1229].
+    Subdivision (a) of [section 2073 of this title][/us/usc/t19/s2073], referred to in text, was repealed by [act Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 10, [68 Stat. 1229][/us/stat/68/1229].
 
 ----------
 
@@ -34,7 +34,7 @@
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F761
 [/us/usc/t19/s2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2073
-[/us/act/1954-09-03/ch1263/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs10
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1229
 
 

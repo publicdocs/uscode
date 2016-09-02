@@ -31,7 +31,7 @@
 
         The Secretary of the Treasury may by regulation prescribe that any document required by any law administered by the Customs Service to be under oath may be verified by a written declaration in such form as he shall prescribe, such declaration to be in lieu of the oath otherwise required.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 486, [46 Stat. 725][/us/stat/46/725]; [Aug. 8, 1953, ch. 397, § 17][/us/act/1953-08-08/ch397/s17], [67 Stat. 517][/us/stat/67/517].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 486, [46 Stat. 725][/us/stat/46/725]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 17, [67 Stat. 517][/us/stat/67/517].)
 
  __Amendments__ 
 
@@ -60,7 +60,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F725
-[/us/act/1953-08-08/ch397/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs17
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F517
 [/us/usc/t31/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs308
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304

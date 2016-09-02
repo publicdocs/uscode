@@ -109,7 +109,7 @@
 
         Nothing in this section or the amendments made by it shall be considered to authorize the refund, waiver, or reduction of countervailing duties or antidumping duties imposed on an imported good.
 
-([Pub. L. 103–182, title II, § 203][/us/pl/103/182/s203], Dec. 8, 1993, [107 Stat. 2086][/us/stat/107/2086].)
+([Pub. L. 103–182, title II][/us/pl/103/182/tII], § 203, Dec. 8, 1993, [107 Stat. 2086][/us/stat/107/2086].)
 
  __References in Text__ 
 
@@ -139,7 +139,7 @@
 [/us/usc/t19/s3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3332
 [/us/usc/t7/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs624
 [/us/usc/t7/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs624
-[/us/pl/103/182/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2086
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057

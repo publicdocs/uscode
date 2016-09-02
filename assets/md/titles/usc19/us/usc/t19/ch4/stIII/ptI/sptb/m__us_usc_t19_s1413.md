@@ -93,7 +93,7 @@
 
         For purposes of this section, the term “Committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 413, as added [Pub. L. 103–182, title VI, § 631(2)][/us/pl/103/182/s631/2], Dec. 8, 1993, [107 Stat. 2189][/us/stat/107/2189]; amended [Pub. L. 104–295, § 21(e)(15)][/us/pl/104/295/s21/e/15], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 413, as added [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 631(2), Dec. 8, 1993, [107 Stat. 2189][/us/stat/107/2189]; amended [Pub. L. 104–295][/us/pl/104/295], § 21(e)(15), Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
 
  __Amendments__ 
 
@@ -117,9 +117,9 @@
 [/us/usc/t19/s1411/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1411%2Fa%2F1%2FG
 [/us/usc/t19/s1411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1411%2Fa%2F2
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/182/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs631%2F2
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2189
-[/us/pl/104/295/s21/e/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F15
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3531
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

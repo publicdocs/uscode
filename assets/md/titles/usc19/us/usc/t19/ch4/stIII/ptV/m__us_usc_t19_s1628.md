@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1627a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1629.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1628)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1627a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1628a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1628)
 
 ## § 1628. Exchange of information
 
@@ -41,7 +41,7 @@
 
         (2) obtains assurances from such country that the information will be held in confidence and used only for governmental purposes.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 628, as added [Pub. L. 99–570, title III, § 3127][/us/pl/99/570/s3127], Oct. 27, 1986, [100 Stat. 3207–89][/us/stat/100/3207-89]; amended [Pub. L. 103–182, title II, § 209][/us/pl/103/182/s209], Dec. 8, 1993, [107 Stat. 2098][/us/stat/107/2098].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 628, as added [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3127, Oct. 27, 1986, [100 Stat. 3207–89][/us/stat/100/3207-89]; amended [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 209, Dec. 8, 1993, [107 Stat. 2098][/us/stat/107/2098].)
 
  __Amendments__ 
 
@@ -57,16 +57,16 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1627a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1629.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1628)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1627a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1628a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1628)
 
 ----------
 ----------
 
 [/us/usc/t19/s3301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3301%2F4
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/99/570/s3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3127
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-89
-[/us/pl/103/182/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs209
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2098
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

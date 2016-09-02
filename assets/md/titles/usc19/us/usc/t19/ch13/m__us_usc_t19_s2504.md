@@ -61,7 +61,7 @@
 
         Neither the entry into force with respect to the United States of any agreement approved under [section 2503(a) of this title][/us/usc/t19/s2503/a], nor the enactment of this Act, shall be construed as creating any private right of action or remedy for which provision is not explicitly made under this Act or under the laws of the United States.
 
-([Pub. L. 96–39, § 3(a)][/us/pl/96/39/s3/a]–(c), (f), July 26, 1979, [93 Stat. 148–150][/us/stat/93/148-150].)
+([Pub. L. 96–39][/us/pl/96/39], § 3(a)–(c), (f), July 26, 1979, [93 Stat. 148–150][/us/stat/93/148-150].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 [/us/usc/t19/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191
 [/us/usc/t19/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191
 [/us/usc/t19/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fa
-[/us/pl/96/39/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs3%2Fa
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/148-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F148-150
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144

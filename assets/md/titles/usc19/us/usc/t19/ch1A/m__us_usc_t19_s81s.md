@@ -17,7 +17,7 @@
 
     In case of a violation of this chapter, or any regulation under this chapter, by the grantee, any officer, agent or employee thereof responsible for or permitting any such violation shall be subject to a fine of not more than $1,000. Each day during which a violation continues shall constitute a separate offense.
 
-([June 18, 1934, ch. 590, § 19][/us/act/1934-06-18/ch590/s19], [48 Stat. 1003][/us/stat/48/1003].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 19, [48 Stat. 1003][/us/stat/48/1003].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs19
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1003
 
 

@@ -17,7 +17,7 @@
 
     Except as provided in R.S. § 3369 (relating to tobacco and snuff), and in section 901 of the Revenue Act of 1926 (relating to distilled spirits), any merchandise abandoned or forfeited to the Government under the preceding or any other provision of the customs laws, which is subject to internal revenue tax and which the Customs Service shall be satisfied will not sell for a sufficient amount to pay such taxes, shall be forthwith destroyed, retained for official use, or otherwise disposed of under regulations to be prescribed by the Secretary of the Treasury, instead of being sold at auction.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 492, [46 Stat. 727][/us/stat/46/727]; [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 103–182, title VI, § 660][/us/pl/103/182/s660], Dec. 8, 1993, [107 Stat. 2214][/us/stat/107/2214].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 492, [46 Stat. 727][/us/stat/46/727]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(b), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 660, Dec. 8, 1993, [107 Stat. 2214][/us/stat/107/2214].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 492, [42 Stat. 963][/us/stat/42/963]. That section was superseded by section 492 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 492, [42 Stat. 963][/us/stat/42/963]. That section was superseded by section 492 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
     Prior to its incorporation into the Code, this section read: “Except as provided in section 3369 of the Revised Statutes, as amended,” etc. R.S. § 3369, as amended by [act Oct. 14, 1921, ch. 107][/us/act/1921-10-14/ch107], [42 Stat. 205][/us/stat/42/205], related in part to abandoned, condemned or forfeited tobacco, snuff, cigars, or cigarettes, which would not bring a price equal to the internal revenue tax thereon. So far as it related to tobacco and snuff, it was incorporated into the Code as sections 702(a)(1), 803(a)(1), (c), (d), and 890, of Title 26, Internal Revenue Code, and so far as it applied to cigars and cigarettes, it was incorporated into the Code as sections 812(d)(2) and 890, of Title 26.
 
@@ -54,12 +54,12 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F727
-[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/103/182/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs660
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2214
 [/us/usc/t26/s5243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5243
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F963
 [/us/act/1921-10-14/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-10-14%2Fch107
 [/us/stat/42/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F205

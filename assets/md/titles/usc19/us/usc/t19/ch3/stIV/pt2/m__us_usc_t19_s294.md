@@ -17,11 +17,11 @@
 
     Any foreign merchandise taken in at one port of the United States to be conveyed in a United States documented vessel with a registry or coastwise endorsement, or both, to any other port within the same, either under the provisions relating to warehouses, or under the laws regulating the transportation coastwise of merchandise entitled to drawback, as well as any merchandise not entitled to drawback, but on which the import duties chargeable by law shall have been duly paid, shall not become subject to any import duty by reason of the vessel in which they may arrive having touched at a foreign port during the voyage.
 
-(R.S. § 3127; [Pub. L. 103–182, title VI, § 686(a)(3)][/us/pl/103/182/s686/a/3], Dec. 8, 1993, [107 Stat. 2220][/us/stat/107/2220]; [Pub. L. 104–295, § 21(e)(2)][/us/pl/104/295/s21/e/2], Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
+(R.S. § 3127; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 686(a)(3), Dec. 8, 1993, [107 Stat. 2220][/us/stat/107/2220]; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(2), Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
 
  __Codification__ 
 
-    R.S. § 3127 derived from [act May 27, 1848, ch. 48, § 2][/us/act/1848-05-27/ch48/s2], [9 Stat. 232][/us/stat/9/232].
+    R.S. § 3127 derived from [act May 27, 1848, ch. 48][/us/act/1848-05-27/ch48], § 2, [9 Stat. 232][/us/stat/9/232].
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/103/182/s686/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs686%2Fa%2F3
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2220
-[/us/pl/104/295/s21/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F2
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3530
-[/us/act/1848-05-27/ch48/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1848-05-27%2Fch48%2Fs2
+[/us/act/1848-05-27/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1848-05-27%2Fch48
 [/us/stat/9/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F232
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

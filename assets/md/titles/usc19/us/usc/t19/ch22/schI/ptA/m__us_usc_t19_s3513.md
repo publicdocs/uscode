@@ -29,7 +29,7 @@
 
         Any interim regulation necessary or appropriate to carry out any action proposed in the statement of administrative action approved under [section 3511(a) of this title][/us/usc/t19/s3511/a] to implement an agreement described in section 3511(d)(7), (12), or (13) of this title shall be issued not later than 1 year after the date on which the agreement enters into force with respect to the United States.
 
-([Pub. L. 103–465, title I, § 103][/us/pl/103/465/s103], Dec. 8, 1994, [108 Stat. 4819][/us/stat/108/4819].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 103, Dec. 8, 1994, [108 Stat. 4819][/us/stat/108/4819].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t19/s3511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fa
-[/us/pl/103/465/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs103
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4819
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/stat/108/4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4809

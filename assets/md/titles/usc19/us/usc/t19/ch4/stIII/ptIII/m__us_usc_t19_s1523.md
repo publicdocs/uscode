@@ -21,11 +21,11 @@
 
     (2) verify, to such extent as the Secretary of the Treasury shall direct, assessments of duties and taxes and allowances of drawback.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 523, [46 Stat. 740][/us/stat/46/740]; [Aug. 8, 1953, ch. 397, § 2(d)][/us/act/1953-08-08/ch397/s2/d], [67 Stat. 508][/us/stat/67/508]; [Pub. L. 91–271, title III, § 301(s)][/us/pl/91/271/s301/s], June 2, 1970, [84 Stat. 290][/us/stat/84/290].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 523, [46 Stat. 740][/us/stat/46/740]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 2(d), [67 Stat. 508][/us/stat/67/508]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(s), June 2, 1970, [84 Stat. 290][/us/stat/84/290].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 523, [42 Stat. 974][/us/stat/42/974]. That section was superseded by section 523 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 523, [42 Stat. 974][/us/stat/42/974]. That section was superseded by section 523 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F740
-[/us/act/1953-08-08/ch397/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs2%2Fd
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F508
-[/us/pl/91/271/s301/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fs
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F290
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F974
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

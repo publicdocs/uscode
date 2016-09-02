@@ -59,21 +59,21 @@
 
     Section 2804 of the Revised Statutes, referred to in subsec. (a)(4), was classified, prior to its repeal, to [section 192 of this title][/us/usc/t19/s192].
 
-    Subsection 2 of paragraph N of Section IV of [act of October 3, 1913, ch. 16][/us/act/1913-10-03/ch16], referred to in subsec. (d)(2), which appears at [38 Stat. 199][/us/stat/38/199] and which was classified to sections 487 and 488 of former Title 26, Internal Revenue, was repealed by [act Feb. 10, 1939, ch. 2, § 4][/us/act/1939-02-10/ch2/s4], [53 Stat. 1][/us/stat/53/1], which enacted the Internal Revenue Code of 1939.
+    Subsection 2 of paragraph N of Section IV of [act of October 3, 1913, ch. 16][/us/act/1913-10-03/ch16], referred to in subsec. (d)(2), which appears at [38 Stat. 199][/us/stat/38/199] and which was classified to sections 487 and 488 of former Title 26, Internal Revenue, was repealed by [act Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 4, [53 Stat. 1][/us/stat/53/1], which enacted the Internal Revenue Code of 1939.
 
-    [Section 296 of title 5][/us/usc/t5/s296], referred to in subsec. (d)(3), was repealed in the general revision of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 636][/us/stat/80/636]. The office of the Assistant Attorney General in charge of customs matters was abolished by Reorg. Plan No. 4 of 1953, § 2, eff. June 20, 1953.
+    [Section 296 of title 5][/us/usc/t5/s296], referred to in subsec. (d)(3), was repealed in the general revision of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 636][/us/stat/80/636]. The office of the Assistant Attorney General in charge of customs matters was abolished by Reorg. Plan No. 4 of 1953, § 2, eff. June 20, 1953.
 
-    Act of March 3, 1925, referred to in subsec. (d)(4), was repealed by [act Aug. 27, 1935, ch. 740, § 308][/us/act/1935-08-27/ch740/s308], [49 Stat. 880][/us/stat/49/880].
+    Act of March 3, 1925, referred to in subsec. (d)(4), was repealed by [act Aug. 27, 1935, ch. 740][/us/act/1935-08-27/ch740], § 308, [49 Stat. 880][/us/stat/49/880].
 
-    The Antidumping Act, 1921, referred to in subsec. (d)(5), is [act May 27, 1921, ch. 14][/us/act/1921-05-27/ch14], title II, [42 Stat. 11][/us/stat/42/11], as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by [Pub. L. 96–39, title I, § 106(a)][/us/pl/96/39/s106/a], July 26, 1979, [93 Stat. 193][/us/stat/93/193].
+    The Antidumping Act, 1921, referred to in subsec. (d)(5), is [act May 27, 1921, ch. 14, title II][/us/act/1921-05-27/ch14/tII], [42 Stat. 11][/us/stat/42/11], as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 106(a), July 26, 1979, [93 Stat. 193][/us/stat/93/193].
 
  __Codification__ 
 
-    In subsec. (d)(1), “Section 60501 or 60502 of title 46” substituted for “Subsections 1, 2, and 3 of paragraph J of Section IV of the Act entitled ‘An Act to reduce tariff duties and to provide revenue for the Government, and for other purposes,’ approved October 3, 1913 (relating to restrictions on importations in foreign vessels or through contiguous countries), as modified by the Act of March 4, 1915, chapter 171” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted sections 60501 and 60502 of Title 46, Shipping.
+    In subsec. (d)(1), “Section 60501 or 60502 of title 46” substituted for “Subsections 1, 2, and 3 of paragraph J of Section IV of the Act entitled ‘An Act to reduce tariff duties and to provide revenue for the Government, and for other purposes,’ approved October 3, 1913 (relating to restrictions on importations in foreign vessels or through contiguous countries), as modified by the Act of March 4, 1915, chapter 171” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted sections 60501 and 60502 of Title 46, Shipping.
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subd. (c) of this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 641, [42 Stat. 989][/us/stat/42/989]. That section was superseded by section 651 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in subd. (c) of this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 641, [42 Stat. 989][/us/stat/42/989]. That section was superseded by section 651 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 ----------
 
@@ -96,20 +96,20 @@
 [/us/usc/t19/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs192
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F199
-[/us/act/1939-02-10/ch2/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs4
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1
 [/us/usc/t5/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs296
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F636
-[/us/act/1935-08-27/ch740/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch740%2Fs308
+[/us/act/1935-08-27/ch740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch740
 [/us/stat/49/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F880
-[/us/act/1921-05-27/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch14
+[/us/act/1921-05-27/ch14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch14%2FtII
 [/us/stat/42/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F11
-[/us/pl/96/39/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fa
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 
 

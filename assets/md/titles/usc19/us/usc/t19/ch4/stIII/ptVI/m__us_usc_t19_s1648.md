@@ -17,7 +17,7 @@
 
     Customs officers may receive uncertified checks, United States notes, and circulating notes of national banking associations in payment of duties on imports, during such time and under such rules and regulations as the Secretary of the Treasury shall prescribe; but if a check so received is not paid the person by whom such check has been tendered shall remain liable for the payment of the duties and for all legal penalties and additions to the same extent as if such check had not been tendered.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 648, [46 Stat. 762][/us/stat/46/762]; [Pub. L. 91–271, title III, § 301(kk)][/us/pl/91/271/s301/kk], June 2, 1970, [84 Stat. 291][/us/stat/84/291].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 648, [46 Stat. 762][/us/stat/46/762]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(kk), June 2, 1970, [84 Stat. 291][/us/stat/84/291].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
-[/us/pl/91/271/s301/kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fkk
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F291
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

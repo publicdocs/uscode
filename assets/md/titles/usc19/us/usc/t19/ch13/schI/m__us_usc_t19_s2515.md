@@ -39,19 +39,19 @@
 
             The report required under paragraph (1) shall contain an evaluation of the administrative practices under the laws of each major industrial country which require determinations to be made of the country of origin of goods, products, commodities, or other articles of commerce, including an assessment of such practices on the exports of the United States.
 
-([Pub. L. 96–39, title III, § 305][/us/pl/96/39/s305], July 26, 1979, [93 Stat. 239][/us/stat/93/239]; [Pub. L. 100–418, title VII, § 7003][/us/pl/100/418/s7003], Aug. 23, 1988, [102 Stat. 1548][/us/stat/102/1548]; [Pub. L. 103–465, title III][/us/pl/103/465], §§ 341, 342(c), 343(c), Dec. 8, 1994, [108 Stat. 4951][/us/stat/108/4951], 4953, 4955; [Pub. L. 104–295, § 20(c)(10)][/us/pl/104/295/s20/c/10], (13), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
+([Pub. L. 96–39, title III][/us/pl/96/39/tIII], § 305, July 26, 1979, [93 Stat. 239][/us/stat/93/239]; [Pub. L. 100–418, title VII][/us/pl/100/418/tVII], § 7003, Aug. 23, 1988, [102 Stat. 1548][/us/stat/102/1548]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], §§ 341, 342(c), 343(c), Dec. 8, 1994, [108 Stat. 4951][/us/stat/108/4951], 4953, 4955; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(10), (13), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
 
  __Amendments__ 
 
-    1996—Subsec. (d)(2)(B), (C). [Pub. L. 104–295, § 20(c)(10)][/us/pl/104/295/s20/c/10], struck out “or” at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
+    1996—Subsec. (d)(2)(B), (C). [Pub. L. 104–295][/us/pl/104/295], § 20(c)(10), struck out “or” at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
 
-    Subsec. (g)(1). [Pub. L. 104–295, § 20(c)(13)(A)][/us/pl/104/295/s20/c/13/A], in introductory provisions, substituted “of subsection (d)(2) of this section” for “of such subsection” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
+    Subsec. (g)(1). [Pub. L. 104–295][/us/pl/104/295], § 20(c)(13)(A), in introductory provisions, substituted “of subsection (d)(2) of this section” for “of such subsection” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
 
-    Subsec. (g)(3). [Pub. L. 104–295, § 20(c)(13)(B)][/us/pl/104/295/s20/c/13/B], substituted “eliminated the practices” for “eliminated the the practices” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
+    Subsec. (g)(3). [Pub. L. 104–295][/us/pl/104/295], § 20(c)(13)(B), substituted “eliminated the practices” for “eliminated the the practices” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
 
-    1994—Subsec. (d)(1). [Pub. L. 103–465, § 342(c)][/us/pl/103/465/s342/c], substituted “April 30 of each year,” for “April 30, 1990, and annually on April 30 thereafter,”.
+    1994—Subsec. (d)(1). [Pub. L. 103–465][/us/pl/103/465], § 342(c), substituted “April 30 of each year,” for “April 30, 1990, and annually on April 30 thereafter,”.
 
-    Subsec. (d)(2)(D), (E). [Pub. L. 103–465, § 341(c)(1)][/us/pl/103/465/s341/c/1], added subpars. (D) and (E) which read as follows:
+    Subsec. (d)(2)(D), (E). [Pub. L. 103–465][/us/pl/103/465], § 341(c)(1), added subpars. (D) and (E) which read as follows:
 
     “(D)(i) are not signatories to the Agreement;
 
@@ -65,13 +65,13 @@
 
     “(iii) whose products or services are acquired in significant amounts by the United States Government.”
 
-    Subsec. (d)(3)(C). [Pub. L. 103–465, § 341(c)(2)][/us/pl/103/465/s341/c/2], inserted before period at end “, including the failure to maintain and enforce effective prohibitions on bribery and other corrupt practices in connection with government procurement”.
+    Subsec. (d)(3)(C). [Pub. L. 103–465][/us/pl/103/465], § 341(c)(2), inserted before period at end “, including the failure to maintain and enforce effective prohibitions on bribery and other corrupt practices in connection with government procurement”.
 
-    Subsec. (f)(2). [Pub. L. 103–465, § 341(a)(1)][/us/pl/103/465/s341/a/1], substituted “the 18 months” for “a year” in introductory provisions.
+    Subsec. (f)(2). [Pub. L. 103–465][/us/pl/103/465], § 341(a)(1), substituted “the 18 months” for “a year” in introductory provisions.
 
-    Subsec. (f)(2)(B) to (D). [Pub. L. 103–465, § 341(a)(2)][/us/pl/103/465/s341/a/2]–(4), struck out “or” at end of subpar. (B), redesignated subpar. (C) as (D), and added a new subpar. (C) which read as follows: “the procedures result in a determination providing a specific period of time for the other participant to bring its practices into compliance with the Agreement, or”.
+    Subsec. (f)(2)(B) to (D). [Pub. L. 103–465][/us/pl/103/465], § 341(a)(2)–(4), struck out “or” at end of subpar. (B), redesignated subpar. (C) as (D), and added a new subpar. (C) which read as follows: “the procedures result in a determination providing a specific period of time for the other participant to bring its practices into compliance with the Agreement, or”.
 
-    Subsec. (f)(3). [Pub. L. 103–465, § 341(b)(1)][/us/pl/103/465/s341/b/1], amended heading and text of par. (3) to read as follows:
+    Subsec. (f)(3). [Pub. L. 103–465][/us/pl/103/465], § 341(b)(1), amended heading and text of par. (3) to read as follows:
 
     “(3) Sanctions after dispute resolution fails.—
 
@@ -101,11 +101,11 @@
 
     “(II) described in clause (i)(II) shall apply beginning on the day after the date described in subclause (I).”
 
-    Subsec. (f)(4). [Pub. L. 103–465, § 341(b)(2)][/us/pl/103/465/s341/b/2], substituted “subclause (I) or (II) of paragraph (3)(B)(i)” for “subparagraph (A) or (B) of paragraph (3)” in introductory provisions.
+    Subsec. (f)(4). [Pub. L. 103–465][/us/pl/103/465], § 341(b)(2), substituted “subclause (I) or (II) of paragraph (3)(B)(i)” for “subparagraph (A) or (B) of paragraph (3)” in introductory provisions.
 
-    Subsec. (g)(1). [Pub. L. 103–465, § 343(c)(1)][/us/pl/103/465/s343/c/1], in introductory provisions, substituted “(B), (C), (D), or (E)” for “(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
+    Subsec. (g)(1). [Pub. L. 103–465][/us/pl/103/465], § 343(c)(1), in introductory provisions, substituted “(B), (C), (D), or (E)” for “(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
 
-    Subsec. (g)(3). [Pub. L. 103–465, § 343(c)(2)][/us/pl/103/465/s343/c/2], substituted “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
+    Subsec. (g)(3). [Pub. L. 103–465][/us/pl/103/465], § 343(c)(2), substituted “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
 
     1988—Subsecs. (d) to (k). [Pub. L. 100–418][/us/pl/100/418], §§ 7003, 7004, temporarily added subsecs. (d) to (k) which read as follows:
 
@@ -251,7 +251,7 @@
 
     Functions of Secretary of the Treasury under subsec. (b) transferred to Secretary of Commerce, to exercise in consultation with Secretary of the Treasury, by section 5(a)(1)(A) of Reorg. Plan No. 3 of 1979, 44 F.R. 69274, [93 Stat. 1381][/us/stat/93/1381], eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title][/us/usc/t19/s2171].
 
-[Pub. L. 96–609, title II, § 205][/us/pl/96/609/s205], Dec. 28, 1980, [94 Stat. 3562][/us/stat/94/3562], provided that: 
+[Pub. L. 96–609, title II][/us/pl/96/609/tII], § 205, Dec. 28, 1980, [94 Stat. 3562][/us/stat/94/3562], provided that: 
 
 > “Notwithstanding subparagraph (1)(A) of subsection 5(a) of Reorganization Plan No. 3 of 1979 (44 F.R. 69272, [93 Stat. 1381][/us/stat/93/1381]) \[set out as a note under [section 2171 of this title][/us/usc/t19/s2171]\], the Secretary of the Treasury or his delegate shall issue such advisory rulings and make such determinations as are authorized by subsection 305(b)(1) of the Trade Agreements Act of 1979 ([19 U.S.C. 2515(b)(1)][/us/usc/t19/s2515/b/1]).”
 
@@ -273,28 +273,28 @@
 [/us/usc/t19/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511
 [/us/usc/t19/s2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2512
 [/us/usc/t19/s2511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fa
-[/us/pl/96/39/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs305
+[/us/pl/96/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIII
 [/us/stat/93/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F239
-[/us/pl/100/418/s7003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs7003
+[/us/pl/100/418/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVII
 [/us/stat/102/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1548
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4951
-[/us/pl/104/295/s20/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F10
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
-[/us/pl/104/295/s20/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F10
-[/us/pl/104/295/s20/c/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F13%2FA
-[/us/pl/104/295/s20/c/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F13%2FB
-[/us/pl/103/465/s342/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fc
-[/us/pl/103/465/s341/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs341%2Fc%2F1
-[/us/pl/103/465/s341/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs341%2Fc%2F2
-[/us/pl/103/465/s341/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs341%2Fa%2F1
-[/us/pl/103/465/s341/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs341%2Fa%2F2
-[/us/pl/103/465/s341/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs341%2Fb%2F1
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t41/s10b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10b%E2%80%931
 [/us/usc/t19/s2511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fa
-[/us/pl/103/465/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs341%2Fb%2F2
-[/us/pl/103/465/s343/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs343%2Fc%2F1
-[/us/pl/103/465/s343/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs343%2Fc%2F2
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1872%2Fa
 [/us/usc/t41/s10b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10b%E2%80%931
@@ -313,7 +313,7 @@
 [/us/usc/t19/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
-[/us/pl/96/609/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F609%2Fs205
+[/us/pl/96/609/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F609%2FtII
 [/us/stat/94/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3562
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171

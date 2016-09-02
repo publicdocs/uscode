@@ -43,7 +43,7 @@
 
         (3) the proceeds from the undercover operation may be used to offset necessary and reasonable expenses incurred in such operation without regard to the provisions of [section 3302 of title 31][/us/usc/t31/s3302];
 
-        only upon the written certification of the Commissioner of Customs (or, if designated by the Commissioner the Deputy or an Assistant Commissioner of Customs) that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
+        only upon the written certification of the Commissioner of U.S. Customs and Border Protection (or, if designated by the Commissioner the Deputy or an Assistant Commissioner of U.S. Customs and Border Protection) that any action authorized by paragraph (1), (2), or (3) of this subsection is necessary for the conduct of such undercover operation.
 
     (b) __Liquidation of corporations and business entities__ 
 
@@ -103,23 +103,27 @@
 
             except that subparagraphs (A) and (B) shall not apply with respect to the report required under paragraph (2) of subsection (d) of this section.
 
-([Pub. L. 99–570, title III, § 3131][/us/pl/99/570/s3131], Oct. 27, 1986, [100 Stat. 3207–90][/us/stat/100/3207-90]; [Pub. L. 104–201, div. A, title X, § 1074(d)(3)][/us/pl/104/201/s1074/d/3], Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661]; [Pub. L. 104–316, title I, § 110(b)][/us/pl/104/316/s110/b], Oct. 19, 1996, [110 Stat. 3832][/us/stat/110/3832].)
+([Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3131, Oct. 27, 1986, [100 Stat. 3207–90][/us/stat/100/3207-90]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(d)(3), Sept. 23, 1996, [110 Stat. 2661][/us/stat/110/2661]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 110(b), Oct. 19, 1996, [110 Stat. 3832][/us/stat/110/3832]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Codification__ 
 
-    In subsec. (a)(1)(A)(ii), “sections 6301(a) and (b)(1) to (3) and 6306 of title 41,” substituted for “sections 3732(a) and 3741 of the Revised Statutes of the United States ([41 U.S.C. 11(a)][/us/usc/t41/s11/a] and 22),” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1)(A)(ii), “sections 6301(a) and (b)(1) to (3) and 6306 of title 41,” substituted for “sections 3732(a) and 3741 of the Revised Statutes of the United States ([41 U.S.C. 11(a)][/us/usc/t41/s11/a] and 22),” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(1)(A)(iii), “chapter 45 of title 41,” substituted for “[section 305 of the Act of June 30, 1949][/us/act/1949-06-30/s305] ([63 Stat. 396][/us/stat/63/396]; [41 U.S.C. 255][/us/usc/t41/s255]),” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1)(A)(iii), “chapter 45 of title 41,” substituted for “[section 305 of the Act of June 30, 1949][/us/act/1949-06-30/s305] ([63 Stat. 396][/us/stat/63/396]; [41 U.S.C. 255][/us/usc/t41/s255]),” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(1)(A)(iv), “[Section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the third undesignated paragraph under the heading ‘Miscellaneous’ of the Act of March 3, 1877 ([19 Stat. 370][/us/stat/19/370]; [40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (a)(1)(A)(iv), “[Section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the third undesignated paragraph under the heading ‘Miscellaneous’ of the Act of March 3, 1877 ([19 Stat. 370][/us/stat/19/370]; [40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
 
-    In subsec. (a)(1)(A)(v), “[section 3901 of title 41][/us/usc/t41/s3901], and” substituted for “section 304(a) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254(a)][/us/usc/t41/s254/a]), and” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1)(A)(v), “[section 3901 of title 41][/us/usc/t41/s3901], and” substituted for “section 304(a) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 254(a)][/us/usc/t41/s254/a]), and” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
     1996—Subsec. (a)(1)(A)(v). [Pub. L. 104–201][/us/pl/104/201] struck out “and (c)” after “section 254(a)”.
 
     Subsec. (b). [Pub. L. 104–316][/us/pl/104/316] struck out “and the Comptroller General” after “the Secretary of the Treasury”.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -138,31 +142,35 @@
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/99/570/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3131
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-90
-[/us/pl/104/201/s1074/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fd%2F3
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2661
-[/us/pl/104/316/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs110%2Fb
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3832
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/usc/t41/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs11%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/act/1949-06-30/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fs305
 [/us/stat/63/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F396
 [/us/usc/t41/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs255
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t40/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8141
 [/us/stat/19/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F370
 [/us/usc/t40/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs34
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t41/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3901
 [/us/usc/t41/s254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254%2Fa
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

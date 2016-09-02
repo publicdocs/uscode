@@ -17,7 +17,7 @@
 
     The President is authorized at any time to terminate, in whole or in part, any proclamation issued pursuant to section 2011 or 2012 of this title.
 
-([Pub. L. 89–283, title II, § 204][/us/pl/89/283/s204], Oct. 21, 1965, [79 Stat. 1018][/us/stat/79/1018].)
+([Pub. L. 89–283, title II][/us/pl/89/283/tII], § 204, Oct. 21, 1965, [79 Stat. 1018][/us/stat/79/1018].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/283/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs204
+[/us/pl/89/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2FtII
 [/us/stat/79/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1018
 
 

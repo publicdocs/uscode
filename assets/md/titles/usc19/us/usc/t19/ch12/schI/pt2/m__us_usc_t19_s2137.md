@@ -31,7 +31,7 @@
 
         In addition, the President shall also so reserve any other article which he determines to be appropriate, taking into consideration information and advice available pursuant to and with respect to the matters covered by sections 2151, 2152, and 2153 of this title, where applicable.
 
-([Pub. L. 93–618, title I, § 127(a)][/us/pl/93/618/s127/a], (b), Jan. 3, 1975, [88 Stat. 1993][/us/stat/88/1993].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 127(a), (b), Jan. 3, 1975, [88 Stat. 1993][/us/stat/88/1993].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Codification__ 
 
-    Section is comprised of subsecs. (a) and (b) of section 127 of act Jan. 3, 1975. Subsec. (c) of such section was classified to [section 1863 of this title][/us/usc/t19/s1863], prior to its repeal by [Pub. L. 100–418, title I, § 1501(b)(2)][/us/pl/100/418/s1501/b/2], Aug. 23, 1988, [102 Stat. 1259][/us/stat/102/1259], and subsec. (d) amended [section 1862 of this title][/us/usc/t19/s1862].
+    Section is comprised of subsecs. (a) and (b) of section 127 of act Jan. 3, 1975. Subsec. (c) of such section was classified to [section 1863 of this title][/us/usc/t19/s1863], prior to its repeal by [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1501(b)(2), Aug. 23, 1988, [102 Stat. 1259][/us/stat/102/1259], and subsec. (d) amended [section 1862 of this title][/us/usc/t19/s1862].
 
 ----------
 
@@ -50,13 +50,13 @@
 
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
 [/us/usc/t19/s2132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2132%2Fc
-[/us/pl/93/618/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs127%2Fa
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1993
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 [/us/usc/t19/s1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1863
-[/us/pl/100/418/s1501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fb%2F2
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1259
 [/us/usc/t19/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862
 

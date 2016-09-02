@@ -63,9 +63,9 @@
 
         No exception may be made under subsection (a)(3) with respect to compressed gas cylinders designed to be used for the transport and storage of compressed gases whether or not certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49, Code of Federal Regulations, each of which shall be marked with the English name of the country of origin by means of die stamping, molding, etching, raised lettering, or an equally permanent method of marking.
 
-    (e) __Marking of certain manhole rings or frames, covers, and assemblies thereof__ 
+    (e) __Marking of certain castings__ 
 
-        No exception may be made under subsection (a)(3) with respect to manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking.
+        No exception may be made under subsection (a)(3) with respect to inlet frames, tree and trench grates, lampposts, lamppost bases, cast utility poles, bollards, hydrants, utility boxes, manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking in a location such that it will remain visible after installation.
 
     (f) __Marking of certain coffee and tea products__ 
 
@@ -153,7 +153,7 @@
 
         (2) upon conviction for the second or any subsequent violation of this subsection, be fined not more than $250,000, or imprisoned for not more than 1 year, or both.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 304, [46 Stat. 687][/us/stat/46/687]; [June 25, 1938, ch. 679, § 3][/us/act/1938-06-25/ch679/s3], [52 Stat. 1077][/us/stat/52/1077]; [Aug. 8, 1953, ch. 397, § 4(c)][/us/act/1953-08-08/ch397/s4/c], [67 Stat. 509][/us/stat/67/509]; [Pub. L. 98–573, title II, § 207][/us/pl/98/573/s207], Oct. 30, 1984, [98 Stat. 2976][/us/stat/98/2976]; [Pub. L. 99–514, title XVIII, § 1888(1)][/us/pl/99/514/s1888/1], Oct. 22, 1986, [100 Stat. 2924][/us/stat/100/2924]; [Pub. L. 100–418, title I, § 1907(a)(1)][/us/pl/100/418/s1907/a/1], Aug. 23, 1988, [102 Stat. 1314][/us/stat/102/1314]; [Pub. L. 103–182, title II, § 207(a)][/us/pl/103/182/s207/a], Dec. 8, 1993, [107 Stat. 2096][/us/stat/107/2096]; [Pub. L. 104–295, § 14(a)][/us/pl/104/295/s14/a], (b), Oct. 11, 1996, [110 Stat. 3521][/us/stat/110/3521], 3522; [Pub. L. 106–36, title II, § 2423(a)][/us/pl/106/36/s2423/a], (b), June 25, 1999, [113 Stat. 180][/us/stat/113/180].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 304, [46 Stat. 687][/us/stat/46/687]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 3, [52 Stat. 1077][/us/stat/52/1077]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 4(c), [67 Stat. 509][/us/stat/67/509]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 207, Oct. 30, 1984, [98 Stat. 2976][/us/stat/98/2976]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1888(1), Oct. 22, 1986, [100 Stat. 2924][/us/stat/100/2924]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1907(a)(1), Aug. 23, 1988, [102 Stat. 1314][/us/stat/102/1314]; [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 207(a), Dec. 8, 1993, [107 Stat. 2096][/us/stat/107/2096]; [Pub. L. 104–295][/us/pl/104/295], § 14(a), (b), Oct. 11, 1996, [110 Stat. 3521][/us/stat/110/3521], 3522; [Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2423(a), (b), June 25, 1999, [113 Stat. 180][/us/stat/113/180]; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 917(a), Feb. 24, 2016, [130 Stat. 279][/us/stat/130/279].)
 
  __References in Text__ 
 
@@ -161,29 +161,35 @@
 
  __Prior Provisions__ 
 
-    Provisions dealing with the subject matter of this section and former [section 133 of this title][/us/usc/t19/s133] were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, F, subsecs. 1 and 2, [38 Stat. 194][/us/stat/38/194], superseding similar provisions of previous tariff acts. Those subsections were superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 304(a), [42 Stat. 947][/us/stat/42/947], and repealed by § 321 of that act. Section 304(a) of the act of 1922 was superseded by section 304 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions dealing with the subject matter of this section and former [section 133 of this title][/us/usc/t19/s133] were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, F, subsecs. 1 and 2, [38 Stat. 194][/us/stat/38/194], superseding similar provisions of previous tariff acts. Those subsections were superseded by [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 304(a), [42 Stat. 947][/us/stat/42/947], and repealed by § 321 of that act. Section 304(a) of the act of 1922 was superseded by section 304 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
-    1999—Subsecs. (h), (i). [Pub. L. 106–36, § 2423(a)][/us/pl/106/36/s2423/a], added subsec. (h) and redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
+    2016—Subsec. (e). [Pub. L. 114–125][/us/pl/114/125], § 917(a)(3), inserted before period at end “in a location such that it will remain visible after installation”.
 
-    Subsec. (j). [Pub. L. 106–36, § 2423(a)(1)][/us/pl/106/36/s2423/a/1], (b), redesignated subsec. (i) as (j) and substituted “subsection (i)” for “subsection (h)”. Former subsec. (j) redesignated (k).
+    [Pub. L. 114–125][/us/pl/114/125], § 917(a)(2), which directed insertion of “inlet frames, tree and trench grates, lampposts, lamppost bases, cast utility poles, bollards, hydrants, utility boxes,” before “manhole rings,”, was executed by making the insertion before “manhole rings or frames,” to reflect the probable intent of Congress.
 
-    Subsecs. (k), (l). [Pub. L. 106–36, § 2423(a)(1)][/us/pl/106/36/s2423/a/1], redesignated subsecs. (j) and (k) as (k) and (l), respectively.
+    [Pub. L. 114–125][/us/pl/114/125], § 917(a)(1), substituted “castings” for “manhole rings or frames, covers, and assemblies thereof” in heading.
 
-    1996—Subsecs. (f) to (h). [Pub. L. 104–295, § 14(a)][/us/pl/104/295/s14/a], added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+    1999—Subsecs. (h), (i). [Pub. L. 106–36][/us/pl/106/36], § 2423(a), added subsec. (h) and redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-    Subsec. (i). [Pub. L. 104–295, § 14(a)(1)][/us/pl/104/295/s14/a/1], (b), redesignated subsec. (g) as (i) and substituted “subsection (h) of this section” for “subsection (f) of this section”.
+    Subsec. (j). [Pub. L. 106–36][/us/pl/106/36], § 2423(a)(1), (b), redesignated subsec. (i) as (j) and substituted “subsection (i)” for “subsection (h)”. Former subsec. (j) redesignated (k).
 
-    Subsecs. (j), (k). [Pub. L. 104–295, § 14(a)(1)][/us/pl/104/295/s14/a/1], redesignated subsecs. (h) and (i) as (j) and (k), respectively.
+    Subsecs. (k), (l). [Pub. L. 106–36][/us/pl/106/36], § 2423(a)(1), redesignated subsecs. (j) and (k) as (k) and (l), respectively.
 
-    1993—Subsec. (c)(1). [Pub. L. 103–182, § 207(a)(1)][/us/pl/103/182/s207/a/1], substituted “engraving, or continuous paint stenciling” for “or engraving”.
+    1996—Subsecs. (f) to (h). [Pub. L. 104–295][/us/pl/104/295], § 14(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
-    Subsec. (c)(2). [Pub. L. 103–182, § 207(a)(2)][/us/pl/103/182/s207/a/2], substituted “five methods” for “four methods” and struck out “such as paint stenciling” after “method of marking”.
+    Subsec. (i). [Pub. L. 104–295][/us/pl/104/295], § 14(a)(1), (b), redesignated subsec. (g) as (i) and substituted “subsection (h) of this section” for “subsection (f) of this section”.
 
-    Subsec. (e). [Pub. L. 103–182, § 207(a)(3)][/us/pl/103/182/s207/a/3], substituted “engraving, or an equally permanent method of marking” for “or engraving”.
+    Subsecs. (j), (k). [Pub. L. 104–295][/us/pl/104/295], § 14(a)(1), redesignated subsecs. (h) and (i) as (j) and (k), respectively.
 
-    Subsecs. (h), (i). [Pub. L. 103–182, § 207(a)(4)][/us/pl/103/182/s207/a/4], (5), added subsec. (h) and redesignated former subsec. (h) as (i).
+    1993—Subsec. (c)(1). [Pub. L. 103–182][/us/pl/103/182], § 207(a)(1), substituted “engraving, or continuous paint stenciling” for “or engraving”.
+
+    Subsec. (c)(2). [Pub. L. 103–182][/us/pl/103/182], § 207(a)(2), substituted “five methods” for “four methods” and struck out “such as paint stenciling” after “method of marking”.
+
+    Subsec. (e). [Pub. L. 103–182][/us/pl/103/182], § 207(a)(3), substituted “engraving, or an equally permanent method of marking” for “or engraving”.
+
+    Subsecs. (h), (i). [Pub. L. 103–182][/us/pl/103/182], § 207(a)(4), (5), added subsec. (h) and redesignated former subsec. (h) as (i).
 
     1988—Subsec. (h). [Pub. L. 100–418][/us/pl/100/418] amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “If any person shall, with intent to conceal the information given thereby or contained therein, deface, destroy, remove, alter, cover, obscure, or obliterate any mark required under the provisions of this chapter, he shall, upon conviction, be fined not more than $5,000 or imprisoned not more than one year, or both.”
 
@@ -195,15 +201,21 @@
 
     1938—Act June 25, 1938, amended section generally.
 
+ __Effective Date of 2016 Amendment__ 
+
+[Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 917(b), Feb. 24, 2016, [130 Stat. 279][/us/stat/130/279], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Feb. 24, 2016\] and apply with respect to the importation of castings described in such amendments on or after the date that is 180 days after such date of enactment.”
+
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–36, title II, § 2423(c)][/us/pl/106/36/s2423/c], June 25, 1999, [113 Stat. 180][/us/stat/113/180], provided that: 
+[Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2423(c), June 25, 1999, [113 Stat. 180][/us/stat/113/180], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[June 25, 1999\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–295, § 14(c)][/us/pl/104/295/s14/c], Oct. 11, 1996, [110 Stat. 3522][/us/stat/110/3522], provided that: 
+[Pub. L. 104–295][/us/pl/104/295], § 14(c), Oct. 11, 1996, [110 Stat. 3522][/us/stat/110/3522], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[Oct. 11, 1996\].”
 
@@ -213,7 +225,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–418, title I, § 1907(a)(2)][/us/pl/100/418/s1907/a/2], Aug. 23, 1988, [102 Stat. 1314][/us/stat/102/1314], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1907(a)(2), Aug. 23, 1988, [102 Stat. 1314][/us/stat/102/1314], provided that:
 
 >     “(A) The amendment made by paragraph (1) \[amending this section\] applies with respect to acts committed on or after the date of the enactment of this Act \[Aug. 23, 1988\].
 
@@ -221,7 +233,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–573, title II, § 214][/us/pl/98/573/s214], Oct. 30, 1984, [98 Stat. 2988][/us/stat/98/2988], provided that:
+[Pub. L. 98–573, title II][/us/pl/98/573/tII], § 214, Oct. 30, 1984, [98 Stat. 2988][/us/stat/98/2988], provided that:
 
 >     “(a) For purposes of this section, the term ‘15th day’ means the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
 
@@ -277,7 +289,7 @@
 
  __Effective Date of 1953 Amendments, Enactments, and Repeals__ 
 
-    [Act Aug. 8, 1953, ch. 397, § 1][/us/act/1953-08-08/ch397/s1], [67 Stat. 507][/us/stat/67/507], provided that such act \[see Short Title of 1953 Amendment note set out under [section 1654 of this title][/us/usc/t19/s1654]\] is effective, except as otherwise specifically provided for, on and after the thirtieth day following the date of its enactment \[Aug. 8, 1953\].
+    [Act Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 1, [67 Stat. 507][/us/stat/67/507], provided that such act \[see Short Title of 1953 Amendment note set out under [section 1654 of this title][/us/usc/t19/s1654]\] is effective, except as otherwise specifically provided for, on and after the thirtieth day following the date of its enactment \[Aug. 8, 1953\].
 
     The exception “except as otherwise specifically provided for” apparently refers to the amendments made to the provisions preceding subd. (1) of [section 1308 of this title][/us/usc/t19/s1308], and to [section 1557(b) of this title][/us/usc/t19/s1557/b], for which separate effective dates were provided as explained in notes under such sections.
 
@@ -287,7 +299,7 @@
 
  __Savings Provision__ 
 
-[Act Aug. 8, 1953, ch. 397, § 23][/us/act/1953-08-08/ch397/s23], [67 Stat. 521][/us/stat/67/521], provided: 
+[Act Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 23, [67 Stat. 521][/us/stat/67/521], provided: 
 
 > “Except as may be otherwise provided for in this Act \[see Short Title of 1953 Amendment note set out under [section 1654 of this title][/us/usc/t19/s1654]\], the repeal of existing law or modifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except as otherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal or modification had not been made.”
 
@@ -299,7 +311,7 @@
 
  __Marking Requirements for Articles Qualifying as Goods of NAFTA Country__ 
 
-[Pub. L. 103–182, title II, § 207(b)][/us/pl/103/182/s207/b], Dec. 8, 1993, [107 Stat. 2097][/us/stat/107/2097], provided that: 
+[Pub. L. 103–182, title II][/us/pl/103/182/tII], § 207(b), Dec. 8, 1993, [107 Stat. 2097][/us/stat/107/2097], provided that: 
 
 > “Articles that qualify as goods of a NAFTA country under regulations issued by the Secretary in accordance with Annex 311 of the Agreement \[North American Free Trade Agreement\] are exempt from the marking requirements promulgated by the Secretary of the Treasury under section 1907(c) of the Omnibus Trade and Competitiveness Act of 1988 ([Public Law 100–418][/us/pl/100/418] \[[102 Stat. 1315][/us/stat/102/1315]\]), but are subject to the requirements of section 304 of the Tariff Act of 1930 ([19 U.S.C. 1304][/us/usc/t19/s1304]).”
 
@@ -318,52 +330,59 @@
 [/us/usc/t19/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F687
-[/us/act/1938-06-25/ch679/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs3
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1077
-[/us/act/1953-08-08/ch397/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs4%2Fc
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F509
-[/us/pl/98/573/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs207
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2976
-[/us/pl/99/514/s1888/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1888%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2924
-[/us/pl/100/418/s1907/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1907%2Fa%2F1
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1314
-[/us/pl/103/182/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs207%2Fa
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2096
-[/us/pl/104/295/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs14%2Fa
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3521
-[/us/pl/106/36/s2423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2423%2Fa
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F180
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F279
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs133
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F194
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F947
-[/us/pl/106/36/s2423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2423%2Fa
-[/us/pl/106/36/s2423/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2423%2Fa%2F1
-[/us/pl/106/36/s2423/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2423%2Fa%2F1
-[/us/pl/104/295/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs14%2Fa
-[/us/pl/104/295/s14/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs14%2Fa%2F1
-[/us/pl/104/295/s14/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs14%2Fa%2F1
-[/us/pl/103/182/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs207%2Fa%2F1
-[/us/pl/103/182/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs207%2Fa%2F2
-[/us/pl/103/182/s207/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs207%2Fa%2F3
-[/us/pl/103/182/s207/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs207%2Fa%2F4
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
-[/us/pl/106/36/s2423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2423%2Fc
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F279
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F180
-[/us/pl/104/295/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs14%2Fc
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3522
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/103/182/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs213%2Fb
 [/us/usc/t19/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3331
-[/us/pl/100/418/s1907/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1907%2Fa%2F2
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1314
 [/us/usc/t19/s1304/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304%2Fh
-[/us/pl/98/573/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs214
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2988
 [/us/usc/t18/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs925
 [/us/usc/t26/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162
@@ -377,18 +396,18 @@
 [/us/usc/t19/s1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520
 [/us/usc/t19/s1641/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1641%2Fc%2F1%2FB
 [/us/usc/t26/s7607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7607
-[/us/act/1953-08-08/ch397/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs1
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F507
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/usc/t19/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1308
 [/us/usc/t19/s1557/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1557%2Fb
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
-[/us/act/1953-08-08/ch397/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs23
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F521
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
-[/us/pl/103/182/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs207%2Fb
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2097
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1315

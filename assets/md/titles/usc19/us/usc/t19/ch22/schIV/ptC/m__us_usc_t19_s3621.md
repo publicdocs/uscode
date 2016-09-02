@@ -23,7 +23,7 @@
 
         This section shall take effect on December 8, 1994.
 
-([Pub. L. 103–465, title IV, § 423][/us/pl/103/465/s423], Dec. 8, 1994, [108 Stat. 4965][/us/stat/108/4965].)
+([Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 423, Dec. 8, 1994, [108 Stat. 4965][/us/stat/108/4965].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/465/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs423
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4965
 
 

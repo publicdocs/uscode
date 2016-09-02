@@ -29,11 +29,11 @@
 
             (C) Take any other action that may be necessary to respond directly to the national emergency or specific threat.
 
-        (2) Notwithstanding any other provision of law, the Commissioner of Customs, when necessary to respond to a specific threat to human life or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
+        (2) Notwithstanding any other provision of law, the Commissioner of U.S. Customs and Border Protection, when necessary to respond to a specific threat to human life or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
 
-        (3) The Secretary of the Treasury or the Commissioner of Customs, as the case may be, shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 72 hours after taking any action under paragraph (1) or (2).
+        (3) The Secretary of the Treasury or the Commissioner of U.S. Customs and Border Protection, as the case may be, shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 72 hours after taking any action under paragraph (1) or (2).
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 318, [46 Stat. 696][/us/stat/46/696]; [Pub. L. 107–210, div. A, title III, § 342][/us/pl/107/210/s342], Aug. 6, 2002, [116 Stat. 981][/us/stat/116/981].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 318, [46 Stat. 696][/us/stat/46/696]; [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 342, Aug. 6, 2002, [116 Stat. 981][/us/stat/116/981]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
@@ -41,11 +41,15 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsec. (a) of this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 622, [42 Stat. 988][/us/stat/42/988], which was superseded by section 318 of the Tariff Act of 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 Act.
+    Provisions similar to those in subsec. (a) of this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 622, [42 Stat. 988][/us/stat/42/988], which was superseded by section 318 of the Tariff Act of 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 Act.
 
  __Amendments__ 
 
     2002—[Pub. L. 107–210][/us/pl/107/210] designated existing provisions as subsec. (a) and added subsec. (b).
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (b)(2) and (3) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -91,14 +95,18 @@ NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, a
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F696
-[/us/pl/107/210/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs342
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F981
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F988
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs151
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1592a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1593a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1593)
 
-## § 1593. Repealed. [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948
+## § 1593. Repealed. [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948
 
-    Section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 593, [46 Stat. 751][/us/stat/46/751], related to smuggling and clandestine importations. See [section 545 of Title 18][/us/usc/t18/s545], Crimes and Criminal Procedure.
+    Section, [act June 17, 1930, ch. 497, title IV][/us/act/1930-06-17/ch497/tIV], § 593, [46 Stat. 751][/us/stat/46/751], related to smuggling and clandestine importations. See [section 545 of Title 18][/us/usc/t18/s545], Crimes and Criminal Procedure.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIV
 [/us/stat/46/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F751
 [/us/usc/t18/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs545
 

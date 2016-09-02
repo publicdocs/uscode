@@ -37,7 +37,7 @@
 
         The debtor shall be assessed and pay any and all costs associated with collection efforts pursuant to this section. Notwithstanding [section 3302(b) of title 31][/us/usc/t31/s3302/b], any sum so collected shall be used to pay the costs of debt collection services.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 631, as added [Pub. L. 103–182, title VI, § 671][/us/pl/103/182/s671], Dec. 8, 1993, [107 Stat. 2217][/us/stat/107/2217]; amended [Pub. L. 104–295, § 3(a)(9)][/us/pl/104/295/s3/a/9], Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516]; [Pub. L. 106–36, title I, § 1001(b)(5)(A)][/us/pl/106/36/s1001/b/5/A], June 25, 1999, [113 Stat. 132][/us/stat/113/132].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 631, as added [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 671, Dec. 8, 1993, [107 Stat. 2217][/us/stat/107/2217]; amended [Pub. L. 104–295][/us/pl/104/295], § 3(a)(9), Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(b)(5)(A), June 25, 1999, [113 Stat. 132][/us/stat/113/132].)
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/182/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs671
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2217
-[/us/pl/104/295/s3/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs3%2Fa%2F9
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3516
-[/us/pl/106/36/s1001/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fb%2F5%2FA
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F132
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295

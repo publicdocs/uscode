@@ -251,7 +251,7 @@
 
                 The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper’s cooperation.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 509, [46 Stat. 733][/us/stat/46/733]; [June 25, 1948, ch. 646, § 26][/us/act/1948-06-25/ch646/s26], [62 Stat. 990][/us/stat/62/990]; [Pub. L. 91–271, title III, § 301(n)][/us/pl/91/271/s301/n], June 2, 1970, [84 Stat. 289][/us/stat/84/289]; [Pub. L. 95–410, title I, § 105][/us/pl/95/410/s105], Oct. 3, 1978, [92 Stat. 889][/us/stat/92/889]; [Pub. L. 99–570, title III, § 3117][/us/pl/99/570/s3117], Oct. 27, 1986, [100 Stat. 3207–84][/us/stat/100/3207-84]; [Pub. L. 103–182, title II, § 205(b)][/us/pl/103/182/s205/b], title VI, § 615, Dec. 8, 1993, [107 Stat. 2094][/us/stat/107/2094], 2175; [Pub. L. 104–295, § 3(a)(1)][/us/pl/104/295/s3/a/1], (10), Oct. 11, 1996, [110 Stat. 3515][/us/stat/110/3515], 3516; [Pub. L. 107–210, div. A, title III, § 382][/us/pl/107/210/s382], Aug. 6, 2002, [116 Stat. 992][/us/stat/116/992].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 509, [46 Stat. 733][/us/stat/46/733]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 26, [62 Stat. 990][/us/stat/62/990]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(n), June 2, 1970, [84 Stat. 289][/us/stat/84/289]; [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 105, Oct. 3, 1978, [92 Stat. 889][/us/stat/92/889]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3117, Oct. 27, 1986, [100 Stat. 3207–84][/us/stat/100/3207-84]; [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 205(b), title VI, § 615, Dec. 8, 1993, [107 Stat. 2094][/us/stat/107/2094], 2175; [Pub. L. 104–295][/us/pl/104/295], § 3(a)(1), (10), Oct. 11, 1996, [110 Stat. 3515][/us/stat/110/3515], 3516; [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 382, Aug. 6, 2002, [116 Stat. 992][/us/stat/116/992].)
 
  __References in Text__ 
 
@@ -259,7 +259,7 @@
 
  __Prior Provisions__ 
 
-    Provisions substantially the same, in most respects, as those in this section, were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, O, [38 Stat. 188][/us/stat/38/188], which substantially reenacted the provisions of Customs Administrative [Act of June 10, 1890, ch. 407, § 16][/us/act/1890-06-10/ch407/s16], [26 Stat. 138][/us/stat/26/138], as renumbered and reenacted without other change by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 100][/us/stat/36/100]. Section III of the 1913 act was superseded and more closely assimilated to this section by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 508, [42 Stat. 968][/us/stat/42/968], and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions substantially the same, in most respects, as those in this section, were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, O, [38 Stat. 188][/us/stat/38/188], which substantially reenacted the provisions of Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 16, [26 Stat. 138][/us/stat/26/138], as renumbered and reenacted without other change by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 100][/us/stat/36/100]. Section III of the 1913 act was superseded and more closely assimilated to this section by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 508, [42 Stat. 968][/us/stat/42/968], and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
     Prior provisions similar to those in this section and [section 1510 of this title][/us/usc/t19/s1510] were made by R.S. §§ 2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, [26 Stat. 141][/us/stat/26/141].
 
@@ -267,45 +267,45 @@
 
     2002—Subsec. (b)(6). [Pub. L. 107–210][/us/pl/107/210] added par. (6).
 
-    1996—Subsec. (a)(2). [Pub. L. 104–295, § 3(a)(1)][/us/pl/104/295/s3/a/1], substituted “(d)(1)(A)” for “(c)(1)(A)” in concluding provisions.
+    1996—Subsec. (a)(2). [Pub. L. 104–295][/us/pl/104/295], § 3(a)(1), substituted “(d)(1)(A)” for “(c)(1)(A)” in concluding provisions.
 
-    Subsec. (b)(3), (4). [Pub. L. 104–295, § 3(a)(10)][/us/pl/104/295/s3/a/10], substituted “officer designated pursuant to regulations” for “appropriate regional commissioner”.
+    Subsec. (b)(3), (4). [Pub. L. 104–295][/us/pl/104/295], § 3(a)(10), substituted “officer designated pursuant to regulations” for “appropriate regional commissioner”.
 
-    1993—Subsec. (a). [Pub. L. 103–182, § 615(1)(A)][/us/pl/103/182/s615/1/A], substituted “, fees and taxes” for “and taxes” in two places in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 615(1)(A), substituted “, fees and taxes” for “and taxes” in two places in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 103–182, § 615(1)(B)][/us/pl/103/182/s615/1/B], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “examine, or cause to be examined, upon reasonable notice, any record, statement, declaration or other document, described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry;”.
+    Subsec. (a)(1). [Pub. L. 103–182][/us/pl/103/182], § 615(1)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “examine, or cause to be examined, upon reasonable notice, any record, statement, declaration or other document, described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry;”.
 
-    Subsec. (a)(2)(A). [Pub. L. 103–182, § 615(1)(C)][/us/pl/103/182/s615/1/C], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the person who imported, or knowingly caused to be imported, merchandise into the customs territory of the United States,”. See Construction of 1993 Amendment note below.
+    Subsec. (a)(2)(A). [Pub. L. 103–182][/us/pl/103/182], § 615(1)(C), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the person who imported, or knowingly caused to be imported, merchandise into the customs territory of the United States,”. See Construction of 1993 Amendment note below.
 
-    Subsec. (a)(2)(A)(ii). [Pub. L. 103–182, § 205(b)][/us/pl/103/182/s205/b], amended generally cl. (ii), as amended by [Pub. L. 103–182, § 615(1)(C)][/us/pl/103/182/s615/1/C]. Prior to amendment, cl. (ii) read as follows: “exported merchandise, or knowingly caused merchandise to be exported, to Canada,”. See Construction of 1993 Amendment note below.
+    Subsec. (a)(2)(A)(ii). [Pub. L. 103–182][/us/pl/103/182], § 205(b), amended generally cl. (ii), as amended by [Pub. L. 103–182][/us/pl/103/182], § 615(1)(C). Prior to amendment, cl. (ii) read as follows: “exported merchandise, or knowingly caused merchandise to be exported, to Canada,”. See Construction of 1993 Amendment note below.
 
-    Subsec. (a)(2)(B), (C). [Pub. L. 103–182, § 615(1)(C)][/us/pl/103/182/s615/1/C], amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
+    Subsec. (a)(2)(B), (C). [Pub. L. 103–182][/us/pl/103/182], § 615(1)(C), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
 
     “(B) any officer, employee, or agent of such person,
 
     “(C) any person having possession, custody, or care of records relating to such importation, or”.
 
-    Subsec. (a)(2)(D). [Pub. L. 103–182, § 615(1)(D)][/us/pl/103/182/s615/1/D], substituted a semicolon for comma at end.
+    Subsec. (a)(2)(D). [Pub. L. 103–182][/us/pl/103/182], § 615(1)(D), substituted a semicolon for comma at end.
 
-    Subsecs. (b), (c). [Pub. L. 103–182, § 615(2)][/us/pl/103/182/s615/2], (3), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 103–182][/us/pl/103/182], § 615(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 103–182, § 615(2)][/us/pl/103/182/s615/2], redesignated subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 103–182][/us/pl/103/182], § 615(2), redesignated subsec. (c) as (d).
 
-    Subsec. (d)(1)(A). [Pub. L. 103–182, § 615(4)(A)][/us/pl/103/182/s615/4/A], substituted “those” for “statements, declarations, or documents” in introductory provisions.
+    Subsec. (d)(1)(A). [Pub. L. 103–182][/us/pl/103/182], § 615(4)(A), substituted “those” for “statements, declarations, or documents” in introductory provisions.
 
-    Subsec. (d)(1)(C)(i). [Pub. L. 103–182, § 615(4)(B)][/us/pl/103/182/s615/4/B], inserted “, unless such customhouse broker is the importer of record on an entry” after “broker”.
+    Subsec. (d)(1)(C)(i). [Pub. L. 103–182][/us/pl/103/182], § 615(4)(B), inserted “, unless such customhouse broker is the importer of record on an entry” after “broker”.
 
-    Subsec. (d)(2)(B). [Pub. L. 103–182, § 615(4)(C)][/us/pl/103/182/s615/4/C], (D), substituted “the transactions described in [section 1508 of this title][/us/usc/t19/s1508]” for “the import transactions”.
+    Subsec. (d)(2)(B). [Pub. L. 103–182][/us/pl/103/182], § 615(4)(C), (D), substituted “the transactions described in [section 1508 of this title][/us/usc/t19/s1508]” for “the import transactions”.
 
-    Subsec. (d)(4)(A). [Pub. L. 103–182, § 615(4)(E)][/us/pl/103/182/s615/4/E], inserted “, fees,” after “duties”.
+    Subsec. (d)(4)(A). [Pub. L. 103–182][/us/pl/103/182], § 615(4)(E), inserted “, fees,” after “duties”.
 
-    Subsec. (d)(4)(B). [Pub. L. 103–182, § 615(4)(C)][/us/pl/103/182/s615/4/C], (D), substituted “the transactions described in [section 1508 of this title][/us/usc/t19/s1508]” for “the import transactions”.
+    Subsec. (d)(4)(B). [Pub. L. 103–182][/us/pl/103/182], § 615(4)(C), (D), substituted “the transactions described in [section 1508 of this title][/us/usc/t19/s1508]” for “the import transactions”.
 
-    Subsecs. (e) to (g). [Pub. L. 103–182, § 615(5)][/us/pl/103/182/s615/5], added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 103–182][/us/pl/103/182], § 615(5), added subsecs. (e) to (g).
 
-    1986—Subsec. (a)(2). [Pub. L. 99–570, § 3117(1)][/us/pl/99/570/s3117/1], substituted “as defined in subsection (c)(1)(A)” for “required to be kept under [section 1508 of this title][/us/usc/t19/s1508]” in concluding provisions.
+    1986—Subsec. (a)(2). [Pub. L. 99–570][/us/pl/99/570], § 3117(1), substituted “as defined in subsection (c)(1)(A)” for “required to be kept under [section 1508 of this title][/us/usc/t19/s1508]” in concluding provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 99–570, § 3117(2)][/us/pl/99/570/s3117/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘records’ includes statements, declarations, or documents required to be kept under [section 1508 of this title][/us/usc/t19/s1508].”
+    Subsec. (c)(1)(A). [Pub. L. 99–570][/us/pl/99/570], § 3117(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘records’ includes statements, declarations, or documents required to be kept under [section 1508 of this title][/us/usc/t19/s1508].”
 
     1978—[Pub. L. 95–410][/us/pl/95/410] substituted subsec. (a) to (c) provisions for examination of books and witnesses for prior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate or amount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
 
@@ -331,7 +331,7 @@
 
  __Effective Date of 1948 Amendment__ 
 
-    [Act June 25, 1948, ch. 646, § 38][/us/act/1948-06-25/ch646/s38], [62 Stat. 992][/us/stat/62/992], provided that the amendment made by that act is effective Sept. 1, 1948.
+    [Act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 38, [62 Stat. 992][/us/stat/62/992], provided that the amendment made by that act is effective Sept. 1, 1948.
 
  __Construction of 1993 Amendment__ 
 
@@ -362,56 +362,56 @@
 [/us/usc/t19/s1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1618
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F733
-[/us/act/1948-06-25/ch646/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs26
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F990
-[/us/pl/91/271/s301/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fn
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F289
-[/us/pl/95/410/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs105
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F889
-[/us/pl/99/570/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3117
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-84
-[/us/pl/103/182/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs205%2Fb
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2094
-[/us/pl/104/295/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs3%2Fa%2F1
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3515
-[/us/pl/107/210/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs382
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F992
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F188
-[/us/act/1890-06-10/ch407/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs16
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F138
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F100
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F968
 [/us/usc/t19/s1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1510
 [/us/stat/26/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F141
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
-[/us/pl/104/295/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs3%2Fa%2F1
-[/us/pl/104/295/s3/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs3%2Fa%2F10
-[/us/pl/103/182/s615/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F1%2FA
-[/us/pl/103/182/s615/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F1%2FB
-[/us/pl/103/182/s615/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F1%2FC
-[/us/pl/103/182/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs205%2Fb
-[/us/pl/103/182/s615/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F1%2FC
-[/us/pl/103/182/s615/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F1%2FC
-[/us/pl/103/182/s615/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F1%2FD
-[/us/pl/103/182/s615/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F2
-[/us/pl/103/182/s615/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F2
-[/us/pl/103/182/s615/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F4%2FA
-[/us/pl/103/182/s615/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F4%2FB
-[/us/pl/103/182/s615/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F4%2FC
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1508
-[/us/pl/103/182/s615/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F4%2FE
-[/us/pl/103/182/s615/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F4%2FC
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1508
-[/us/pl/103/182/s615/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615%2F5
-[/us/pl/99/570/s3117/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3117%2F1
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t19/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1508
-[/us/pl/99/570/s3117/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3117%2F2
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t19/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1508
 [/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
@@ -427,7 +427,7 @@
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500
-[/us/act/1948-06-25/ch646/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs38
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
 [/us/pl/103/182/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs205%2Fb
 [/us/pl/103/182/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs615

@@ -33,7 +33,7 @@
 
         (3) such other matters as the Commission considers to be necessary or appropriate to carry out the purposes enumerated in the Preamble to the Convention.
 
-([Pub. L. 100–418, title I, § 1207][/us/pl/100/418/s1207], Aug. 23, 1988, [102 Stat. 1151][/us/stat/102/1151]; [Pub. L. 104–295, § 21(e)(10)][/us/pl/104/295/s21/e/10], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1207, Aug. 23, 1988, [102 Stat. 1151][/us/stat/102/1151]; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(10), Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t19/s1484/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484%2Ff
-[/us/pl/100/418/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1207
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1151
-[/us/pl/104/295/s21/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F10
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3531
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt1/m__us_usc_t19_s233.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_ch3_stIV_pt2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs240)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt1/m__us_usc_t19_s234...239.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_ch3_stIV_pt2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs240)
 
 ## § 240. Value at date of shipment
 
@@ -21,16 +21,16 @@
 
  __Codification__ 
 
-    R.S. § 2904 derived from [act Mar. 2, 1861, ch. 68, § 28][/us/act/1861-03-02/ch68/s28], [12 Stat. 197][/us/stat/12/197].
+    R.S. § 2904 derived from [act Mar. 2, 1861, ch. 68][/us/act/1861-03-02/ch68], § 28, [12 Stat. 197][/us/stat/12/197].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt1/m__us_usc_t19_s233.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_ch3_stIV_pt2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs240)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt1/m__us_usc_t19_s234...239.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_ch3_stIV_pt2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs240)
 
 ----------
 ----------
 
-[/us/act/1861-03-02/ch68/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-03-02%2Fch68%2Fs28
+[/us/act/1861-03-02/ch68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-03-02%2Fch68
 [/us/stat/12/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F197
 
 

@@ -33,7 +33,7 @@
 
         A claim may be paid under this section only if the claimant accepts the amount of settlement in complete satisfaction of the claim.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 630, as added [Pub. L. 103–182, title VI, § 670][/us/pl/103/182/s670], Dec. 8, 1993, [107 Stat. 2216][/us/stat/107/2216].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 630, as added [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 670, Dec. 8, 1993, [107 Stat. 2216][/us/stat/107/2216].)
 
  __Transfer of Functions__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t28/s2680/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2680%2Fh
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/182/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs670
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2216
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

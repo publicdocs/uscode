@@ -4041,7 +4041,7 @@
 
         Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025.
 
-([Pub. L. 98–67, title II, § 213A][/us/pl/98/67/s213A], as added [Pub. L. 109–432, div. D, title V, § 5002(a)][/us/pl/109/432/s5002/a], Dec. 20, 2006, [120 Stat. 3181][/us/stat/120/3181]; amended [Pub. L. 110–234, title XV][/us/pl/110/234], §§ 15402–15405, May 22, 2008, [122 Stat. 1527–1545][/us/stat/122/1527-1545]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, §§ 15402–15405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289–2307; [Pub. L. 110–436, § 7][/us/pl/110/436/s7], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–171][/us/pl/111/171], §§ 3(2)–8, May 24, 2010, [124 Stat. 1195–1205][/us/stat/124/1195-1205]; [Pub. L. 112–234, § 2(f)][/us/pl/112/234/s2/f], Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625]; [Pub. L. 114–27, title III, § 301][/us/pl/114/27/s301], June 29, 2015, [129 Stat. 373][/us/stat/129/373].)
+([Pub. L. 98–67, title II][/us/pl/98/67/tII], § 213A, as added [Pub. L. 109–432, div. D, title V][/us/pl/109/432/dD/tV], § 5002(a), Dec. 20, 2006, [120 Stat. 3181][/us/stat/120/3181]; amended [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], §§ 15402–15405, May 22, 2008, [122 Stat. 1527–1545][/us/stat/122/1527-1545]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, §§ 15402–15405, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289–2307; [Pub. L. 110–436][/us/pl/110/436], § 7, Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–171][/us/pl/111/171], §§ 3(2)–8, May 24, 2010, [124 Stat. 1195–1205][/us/stat/124/1195-1205]; [Pub. L. 112–234][/us/pl/112/234], § 2(f), Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625]; [Pub. L. 114–27, title III][/us/pl/114/27/tIII], § 301, June 29, 2015, [129 Stat. 373][/us/stat/129/373].)
 
  __References in Text__ 
 
@@ -4057,113 +4057,113 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(B)(v)(I)(cc). [Pub. L. 114–27, § 301(1)(A)(i)][/us/pl/114/27/s301/1/A/i], amended item (cc) generally. Prior to amendment, item (cc) read as follows: “60 percent or more during the 1-year period beginning on December 20, 2017.”
+    2015—Subsec. (b)(1)(B)(v)(I)(cc). [Pub. L. 114–27][/us/pl/114/27], § 301(1)(A)(i), amended item (cc) generally. Prior to amendment, item (cc) read as follows: “60 percent or more during the 1-year period beginning on December 20, 2017.”
 
-    Subsec. (b)(1)(C). [Pub. L. 114–27, § 301(1)(A)(ii)][/us/pl/114/27/s301/1/A/ii], substituted “16 succeeding 1-year periods” for “succeeding 11 1-year periods” in table and “December 19, 2025” for “December 19, 2018” in concluding provisions.
+    Subsec. (b)(1)(C). [Pub. L. 114–27][/us/pl/114/27], § 301(1)(A)(ii), substituted “16 succeeding 1-year periods” for “succeeding 11 1-year periods” in table and “December 19, 2025” for “December 19, 2018” in concluding provisions.
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 114–27, § 301(1)(B)(i)][/us/pl/114/27/s301/1/B/i], substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
+    Subsec. (b)(2)(A)(ii). [Pub. L. 114–27][/us/pl/114/27], § 301(1)(B)(i), substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
 
-    Subsec. (b)(2)(B)(iii). [Pub. L. 114–27, § 301(1)(B)(ii)][/us/pl/114/27/s301/1/B/ii], substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
+    Subsec. (b)(2)(B)(iii). [Pub. L. 114–27][/us/pl/114/27], § 301(1)(B)(ii), substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
 
-    Subsec. (h). [Pub. L. 114–27, § 301(2)][/us/pl/114/27/s301/2], substituted “September 30, 2025” for “September 30, 2020”.
+    Subsec. (h). [Pub. L. 114–27][/us/pl/114/27], § 301(2), substituted “September 30, 2025” for “September 30, 2020”.
 
     2012—Subsec. (b)(4)(C), (D). [Pub. L. 112–234][/us/pl/112/234], which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: “The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program.”
 
-    2010—Subsec. (a)(1). [Pub. L. 111–171, § 7(1)][/us/pl/111/171/s7/1], added par. (1) and struck out former par. (1) which defined “applicable 1-year period”, “initial applicable 1-year period”, “second applicable 1-year period”, “third applicable 1-year period”, “fourth applicable 1-year period”, and “fifth applicable 1-year period” in subpars. (A) to (F), respectively.
+    2010—Subsec. (a)(1). [Pub. L. 111–171][/us/pl/111/171], § 7(1), added par. (1) and struck out former par. (1) which defined “applicable 1-year period”, “initial applicable 1-year period”, “second applicable 1-year period”, “third applicable 1-year period”, “fourth applicable 1-year period”, and “fifth applicable 1-year period” in subpars. (A) to (F), respectively.
 
-    Subsec. (b)(1)(A). [Pub. L. 111–171, § 7(2)(A)][/us/pl/111/171/s7/2/A], substituted “the initial applicable 1-year period and any 1-year period thereafter” for “an applicable 1-year period”.
+    Subsec. (b)(1)(A). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(A), substituted “the initial applicable 1-year period and any 1-year period thereafter” for “an applicable 1-year period”.
 
-    Subsec. (b)(1)(B)(i). [Pub. L. 111–171, § 7(2)(B)(i)][/us/pl/111/171/s7/2/B/i], in introductory provisions, substituted “the initial applicable 1-year period and any 1-year period thereafter” for “any applicable 1-year period” and “that 1-year period” for “the applicable 1-year period”.
+    Subsec. (b)(1)(B)(i). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(B)(i), in introductory provisions, substituted “the initial applicable 1-year period and any 1-year period thereafter” for “any applicable 1-year period” and “that 1-year period” for “the applicable 1-year period”.
 
-    Subsec. (b)(1)(B)(iv)(II). [Pub. L. 111–171, § 7(2)(B)(ii)][/us/pl/111/171/s7/2/B/ii], struck out “applicable” after “Other” in heading and substituted “In any 1-year period after the initial applicable 1-year period” for “In each of the second, third, fourth, and fifth applicable 1-year periods” and “during the 1-year period” for “during the applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
+    Subsec. (b)(1)(B)(iv)(II). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(B)(ii), struck out “applicable” after “Other” in heading and substituted “In any 1-year period after the initial applicable 1-year period” for “In each of the second, third, fourth, and fifth applicable 1-year periods” and “during the 1-year period” for “during the applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
 
-    Subsec. (b)(1)(B)(v)(I)(aa). [Pub. L. 111–171, § 7(2)(B)(iii)(I)][/us/pl/111/171/s7/2/B/iii/I], substituted “and the succeeding 8 1-year periods” for “, the second applicable 1-year period, and the third applicable 1-year period”.
+    Subsec. (b)(1)(B)(v)(I)(aa). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(B)(iii)(I), substituted “and the succeeding 8 1-year periods” for “, the second applicable 1-year period, and the third applicable 1-year period”.
 
-    Subsec. (b)(1)(B)(v)(I)(bb). [Pub. L. 111–171, § 7(2)(B)(iii)(II)][/us/pl/111/171/s7/2/B/iii/II], substituted “the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016” for “the fourth applicable 1-year period”.
+    Subsec. (b)(1)(B)(v)(I)(bb). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(B)(iii)(II), substituted “the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016” for “the fourth applicable 1-year period”.
 
-    Subsec. (b)(1)(B)(v)(I)(cc). [Pub. L. 111–171, § 7(2)(B)(iii)(III)][/us/pl/111/171/s7/2/B/iii/III], substituted “the 1-year period beginning on December 20, 2017” for “the fifth applicable 1-year period”.
+    Subsec. (b)(1)(B)(v)(I)(cc). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(B)(iii)(III), substituted “the 1-year period beginning on December 20, 2017” for “the fifth applicable 1-year period”.
 
-    Subsec. (b)(1)(B)(vi)(II). [Pub. L. 111–171, § 7(2)(B)(iv)(I)][/us/pl/111/171/s7/2/B/iv/I], substituted “the initial applicable 1-year period or any 1-year period thereafter” for “any applicable 1-year period” and “succeeding 1-year period” for “succeeding applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
+    Subsec. (b)(1)(B)(vi)(II). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(B)(iv)(I), substituted “the initial applicable 1-year period or any 1-year period thereafter” for “any applicable 1-year period” and “succeeding 1-year period” for “succeeding applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
 
-    Subsec. (b)(1)(B)(vi)(III)(aa). [Pub. L. 111–171, § 7(2)(B)(iv)(II)(aa)][/us/pl/111/171/s7/2/B/iv/II/aa], substituted “the initial applicable 1-year period or any 1-year period thereafter” for “an applicable 1-year period”.
+    Subsec. (b)(1)(B)(vi)(III)(aa). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(B)(iv)(II)(aa), substituted “the initial applicable 1-year period or any 1-year period thereafter” for “an applicable 1-year period”.
 
-    Subsec. (b)(1)(B)(vi)(III)(bb). [Pub. L. 111–171, § 7(2)(B)(iv)(II)(bb)][/us/pl/111/171/s7/2/B/iv/II/bb], substituted “1-year period” for “applicable 1-year period” in item (bb) and subitem (AA).
+    Subsec. (b)(1)(B)(vi)(III)(bb). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(B)(iv)(II)(bb), substituted “1-year period” for “applicable 1-year period” in item (bb) and subitem (AA).
 
-    Subsec. (b)(1)(C). [Pub. L. 111–171, § 7(2)(C)][/us/pl/111/171/s7/2/C], substituted “1-year periods” for “applicable 1-year periods” in introductory provisions, added table, struck out former table which designated 1 percent for the initial and 1.25 percent for the second through fifth applicable 1-year periods, and substituted “December 19, 2018” for “the last day of the fifth applicable 1-year period” in concluding provisions.
+    Subsec. (b)(1)(C). [Pub. L. 111–171][/us/pl/111/171], § 7(2)(C), substituted “1-year periods” for “applicable 1-year periods” in introductory provisions, added table, struck out former table which designated 1 percent for the initial and 1.25 percent for the second through fifth applicable 1-year periods, and substituted “December 19, 2018” for “the last day of the fifth applicable 1-year period” in concluding provisions.
 
-    Subsec. (b)(2)(A)(ii), (B)(iii). [Pub. L. 111–171, § 5(1)][/us/pl/111/171/s5/1], substituted “Except as provided in paragraph (2A), the preferential treatment” for “The preferential treatment” and “11” for “9”.
+    Subsec. (b)(2)(A)(ii), (B)(iii). [Pub. L. 111–171][/us/pl/111/171], § 5(1), substituted “Except as provided in paragraph (2A), the preferential treatment” for “The preferential treatment” and “11” for “9”.
 
-    Subsec. (b)(2A). [Pub. L. 111–171, § 5(2)][/us/pl/111/171/s5/2], added par. (2A).
+    Subsec. (b)(2A). [Pub. L. 111–171][/us/pl/111/171], § 5(2), added par. (2A).
 
-    Subsec. (b)(3)(F). [Pub. L. 111–171, § 4(a)][/us/pl/111/171/s4/a], added subpar. (F).
+    Subsec. (b)(3)(F). [Pub. L. 111–171][/us/pl/111/171], § 4(a), added subpar. (F).
 
-    Subsec. (b)(3)(G). [Pub. L. 111–171, § 4(b)][/us/pl/111/171/s4/b], added subpar. (G).
+    Subsec. (b)(3)(G). [Pub. L. 111–171][/us/pl/111/171], § 4(b), added subpar. (G).
 
-    Subsec. (b)(4)(B)(ii)(I). [Pub. L. 111–171, § 6][/us/pl/111/171/s6], substituted “two” for “three”.
+    Subsec. (b)(4)(B)(ii)(I). [Pub. L. 111–171][/us/pl/111/171], § 6, substituted “two” for “three”.
 
-    Subsec. (c)(1). [Pub. L. 111–171, § 8][/us/pl/111/171/s8], substituted “10-year period” for “5-year period” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 111–171][/us/pl/111/171], § 8, substituted “10-year period” for “5-year period” in introductory provisions.
 
-    Subsec. (h). [Pub. L. 111–171, § 3(2)][/us/pl/111/171/s3/2], substituted “September 30, 2020” for “September 30, 2018”.
+    Subsec. (h). [Pub. L. 111–171][/us/pl/111/171], § 3(2), substituted “September 30, 2020” for “September 30, 2018”.
 
-    2008—Subsec. (a)(2). [Pub. L. 110–246, § 15403(1)(C)][/us/pl/110/246/s15403/1/C], added par. (2). Former par. (2) redesignated (4).
+    2008—Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], § 15403(1)(C), added par. (2). Former par. (2) redesignated (4).
 
-    Subsec. (a)(3). [Pub. L. 110–246, § 15403(1)(C)][/us/pl/110/246/s15403/1/C], added par. (3). Former par. (3) redesignated (5).
+    Subsec. (a)(3). [Pub. L. 110–246][/us/pl/110/246], § 15403(1)(C), added par. (3). Former par. (3) redesignated (5).
 
-    [Pub. L. 110–246, § 15402(f)(2)][/us/pl/110/246/s15402/f/2], added par. (3).
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(f)(2), added par. (3).
 
-    Subsec. (a)(4). [Pub. L. 110–246, § 15403(1)(B)][/us/pl/110/246/s15403/1/B], redesignated par. (2) as (4). Former par. (4) redesignated (6).
+    Subsec. (a)(4). [Pub. L. 110–246][/us/pl/110/246], § 15403(1)(B), redesignated par. (2) as (4). Former par. (4) redesignated (6).
 
-    [Pub. L. 110–246, § 15402(f)(2)][/us/pl/110/246/s15402/f/2], added par. (4).
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(f)(2), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 110–246, § 15403(1)(B)][/us/pl/110/246/s15403/1/B], redesignated par. (3) as (5). Former par. (5) redesignated (8).
+    Subsec. (a)(5). [Pub. L. 110–246][/us/pl/110/246], § 15403(1)(B), redesignated par. (3) as (5). Former par. (5) redesignated (8).
 
-    [Pub. L. 110–246, § 15402(f)(2)][/us/pl/110/246/s15402/f/2], added par. (5).
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(f)(2), added par. (5).
 
-    Subsec. (a)(6). [Pub. L. 110–246, § 15403(1)(B)][/us/pl/110/246/s15403/1/B], redesignated par. (4) as (6).
+    Subsec. (a)(6). [Pub. L. 110–246][/us/pl/110/246], § 15403(1)(B), redesignated par. (4) as (6).
 
-    Subsec. (a)(7). [Pub. L. 110–246, § 15403(1)(D)][/us/pl/110/246/s15403/1/D], added par. (7).
+    Subsec. (a)(7). [Pub. L. 110–246][/us/pl/110/246], § 15403(1)(D), added par. (7).
 
-    Subsec. (a)(8). [Pub. L. 110–246, § 15403(1)(A)][/us/pl/110/246/s15403/1/A], redesignated par. (5) as (8).
+    Subsec. (a)(8). [Pub. L. 110–246][/us/pl/110/246], § 15403(1)(A), redesignated par. (5) as (8).
 
-    Subsec. (b). [Pub. L. 110–246, § 15402(a)(5)][/us/pl/110/246/s15402/a/5], (b), (c), as amended by [Pub. L. 110–436, § 7(1)][/us/pl/110/436/s7/1], added pars. (1)(D), (2), and (3).
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 15402(a)(5), (b), (c), as amended by [Pub. L. 110–436][/us/pl/110/436], § 7(1), added pars. (1)(D), (2), and (3).
 
-    [Pub. L. 110–246, § 15402(a)(4)][/us/pl/110/246/s15402/a/4], as amended by [Pub. L. 110–436, § 7(1)][/us/pl/110/436/s7/1], redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted “subparagraph (A)” for “paragraph (1)” in two places, in table substituted “1.25 percent” for “1.5 percent” during the third applicable 1-year period, “1.25 percent” for “1.75 percent” during the fourth applicable 1-year period, and “1.25 percent” for “2 percent” during the fifth applicable 1-year period.
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(a)(4), as amended by [Pub. L. 110–436][/us/pl/110/436], § 7(1), redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted “subparagraph (A)” for “paragraph (1)” in two places, in table substituted “1.25 percent” for “1.5 percent” during the third applicable 1-year period, “1.25 percent” for “1.75 percent” during the fourth applicable 1-year period, and “1.25 percent” for “2 percent” during the fifth applicable 1-year period.
 
-    [Pub. L. 110–246, § 15402(a)(3)][/us/pl/110/246/s15402/a/3], as amended by [Pub. L. 110–436, § 7(1)][/us/pl/110/436/s7/1], redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted “that enters into force thereafter” for “that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 ([19 U.S.C. 3801][/us/usc/t19/s3801] et seq.)”, amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted “U.S. Customs and Border Protection” for “The Bureau of Customs and Border Protection” in subcl. (I) and for “the Bureau of Customs and Border Protection” in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted “with respect to the United States” for “under the Bipartisan Trade Promotion Authority Act of 2002”.
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(a)(3), as amended by [Pub. L. 110–436][/us/pl/110/436], § 7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted “that enters into force thereafter” for “that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 ([19 U.S.C. 3801][/us/usc/t19/s3801] et seq.)”, amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted “U.S. Customs and Border Protection” for “The Bureau of Customs and Border Protection” in subcl. (I) and for “the Bureau of Customs and Border Protection” in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted “with respect to the United States” for “under the Bipartisan Trade Promotion Authority Act of 2002”.
 
-    [Pub. L. 110–246, § 15402(a)(2)][/us/pl/110/246/s15402/a/2], as amended by [Pub. L. 110–436, § 7(1)][/us/pl/110/436/s7/1], amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any other preferential treatment under this chapter, apparel articles described in paragraph (2) of a producer or entity controlling production that are imported directly from Haiti shall enter the United States free of duty during an applicable 1-year period, subject to the limitations set forth in paragraphs (2) and (3), if Haiti has met the requirements of subsections (d) and (e).”
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(a)(2), as amended by [Pub. L. 110–436][/us/pl/110/436], § 7(1), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any other preferential treatment under this chapter, apparel articles described in paragraph (2) of a producer or entity controlling production that are imported directly from Haiti shall enter the United States free of duty during an applicable 1-year period, subject to the limitations set forth in paragraphs (2) and (3), if Haiti has met the requirements of subsections (d) and (e).”
 
-    [Pub. L. 110–246, § 15402(a)(1)][/us/pl/110/246/s15402/a/1], as amended by [Pub. L. 110–436, § 7(1)][/us/pl/110/436/s7/1], substituted “Apparel and other textile articles” for “Apparel articles” in heading.
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(a)(1), as amended by [Pub. L. 110–436][/us/pl/110/436], § 7(1), substituted “Apparel and other textile articles” for “Apparel articles” in heading.
 
-    Subsec. (b)(4). [Pub. L. 110–246, § 15402(d)][/us/pl/110/246/s15402/d], as amended by [Pub. L. 110–436, § 7(2)][/us/pl/110/436/s7/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 110–246][/us/pl/110/246], § 15402(d), as amended by [Pub. L. 110–436][/us/pl/110/436], § 7(2), added par. (4).
 
-    [Pub. L. 110–246, § 15402(b)][/us/pl/110/246/s15402/b], as amended by [Pub. L. 110–436, § 7(1)][/us/pl/110/436/s7/1], struck out par. (4) which related to special rule for certain woven apparel articles classifiable under chapter 62 of the HTS, as in effect on Dec. 20, 2006.
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(b), as amended by [Pub. L. 110–436][/us/pl/110/436], § 7(1), struck out par. (4) which related to special rule for certain woven apparel articles classifiable under chapter 62 of the HTS, as in effect on Dec. 20, 2006.
 
-    Subsec. (b)(5). [Pub. L. 110–246, § 15402(c)][/us/pl/110/246/s15402/c], (e), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The preferential treatment under paragraph (1) shall, subject to the limitations under paragraph (3), be extended to any article classifiable under heading 6212.10 of the HTS, if the article is both cut and sewn or otherwise assembled in Haiti or the United States, or both, without regard to the source of the fabric or components from which the article is made, and if Haiti has met the requirements of subsections (d) and (e).”
+    Subsec. (b)(5). [Pub. L. 110–246][/us/pl/110/246], § 15402(c), (e), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The preferential treatment under paragraph (1) shall, subject to the limitations under paragraph (3), be extended to any article classifiable under heading 6212.10 of the HTS, if the article is both cut and sewn or otherwise assembled in Haiti or the United States, or both, without regard to the source of the fabric or components from which the article is made, and if Haiti has met the requirements of subsections (d) and (e).”
 
-    Subsec. (b)(6). [Pub. L. 110–246, § 15402(f)(1)][/us/pl/110/246/s15402/f/1], added par. (6).
+    Subsec. (b)(6). [Pub. L. 110–246][/us/pl/110/246], § 15402(f)(1), added par. (6).
 
-    Subsec. (d)(4). [Pub. L. 110–246, § 15404][/us/pl/110/246/s15404], added par. (4).
+    Subsec. (d)(4). [Pub. L. 110–246][/us/pl/110/246], § 15404, added par. (4).
 
-    Subsec. (e). [Pub. L. 110–246, § 15403(3)][/us/pl/110/246/s15403/3], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 15403(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(1). [Pub. L. 110–246, § 15402(h)][/us/pl/110/246/s15402/h], substituted “U.S. Customs and Border Protection” for “the Bureau of Customs and Border Protection” wherever appearing.
+    Subsec. (e)(1). [Pub. L. 110–246][/us/pl/110/246], § 15402(h), substituted “U.S. Customs and Border Protection” for “the Bureau of Customs and Border Protection” wherever appearing.
 
-    Subsec. (f). [Pub. L. 110–246, § 15403(2)][/us/pl/110/246/s15403/2], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 15403(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(3). [Pub. L. 110–246, § 15405][/us/pl/110/246/s15405], added par. (3).
+    Subsec. (f)(3). [Pub. L. 110–246][/us/pl/110/246], § 15405, added par. (3).
 
-    Subsec. (g). [Pub. L. 110–246, § 15403(2)][/us/pl/110/246/s15403/2], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 110–246][/us/pl/110/246], § 15403(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    [Pub. L. 110–246, § 15402(g)][/us/pl/110/246/s15402/g], added subsec. (g).
+    [Pub. L. 110–246][/us/pl/110/246], § 15402(g), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 110–246, § 15403(2)][/us/pl/110/246/s15403/2], redesignated subsec. (g) as (h).
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 15403(2), redesignated subsec. (g) as (h).
 
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-[Pub. L. 110–234, title XV, § 15412][/us/pl/110/234/s15412], May 22, 2008, [122 Stat. 1547][/us/stat/122/1547], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15412, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2309, provided that:
+[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15412, May 22, 2008, [122 Stat. 1547][/us/stat/122/1547], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15412, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2309, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -4181,7 +4181,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–234, title XV, § 15407][/us/pl/110/234/s15407], May 22, 2008, [122 Stat. 1546][/us/stat/122/1546], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15407, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2308, provided that: 
+[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15407, May 22, 2008, [122 Stat. 1546][/us/stat/122/1546], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15407, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2308, provided that: 
 
 > “The President shall issue such regulations as may be necessary to carry out the amendments made by sections 15402, 15403, and 15404 \[amending this section\]. Regulations to carry out the amendments made by section 15402 shall be issued not later than September 30, 2008. The Secretary of Commerce shall issue such procedures as may be necessary to carry out the amendment made by section 15402(d) not later than September 30, 2008.”
 
@@ -4195,7 +4195,7 @@
 
  __Findings__ 
 
-[Pub. L. 111–171, § 2][/us/pl/111/171/s2], May 24, 2010, [124 Stat. 1194][/us/stat/124/1194], provided that: 
+[Pub. L. 111–171][/us/pl/111/171], § 2, May 24, 2010, [124 Stat. 1194][/us/stat/124/1194], provided that: 
 
 > “Congress finds the following:
 
@@ -4207,7 +4207,7 @@
 
 >     “(4) In recent years, however, the Government and people of Haiti had taken important steps forward to promote economic growth and development, including making strides towards establishing a competitive apparel sector.
 
->     “(5) United States trade preference programs, including the Caribbean Basin Economic Recovery Act \[[19 U.S.C. 2701][/us/usc/t19/s2701] et seq.\] (as amended by the United States-Caribbean Basin Trade Partnership Act \[[Pub. L. 106–200, title II][/us/pl/106/200], see Tables for classification\], the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 \[[Pub. L. 109–432, div. D, title V][/us/pl/109/432], see Tables for classification\], and the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008 \[[Pub. L. 110–234, title XV][/us/pl/110/234], subtitle D, part I, and [Pub. L. 110–246, title XV][/us/pl/110/246], subtitle D, part I, see Tables for classification\]), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti’s economic development efforts.
+>     “(5) United States trade preference programs, including the Caribbean Basin Economic Recovery Act \[[19 U.S.C. 2701][/us/usc/t19/s2701] et seq.\] (as amended by the United States-Caribbean Basin Trade Partnership Act \[[Pub. L. 106–200, title II][/us/pl/106/200/tII], see Tables for classification\], the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 \[[Pub. L. 109–432, div. D, title V][/us/pl/109/432/dD/tV], see Tables for classification\], and the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008 \[[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], subtitle D, part I, and [Pub. L. 110–246, title XV][/us/pl/110/246/tXV], subtitle D, part I, see Tables for classification\]), which extend duty-free tariff treatment to certain apparel produced in Haiti, have made an important contribution to Haiti’s economic development efforts.
 
 >     “(6) However, the Haitian apparel sector has been hard hit by the January 12, 2010, earthquake. A number of apparel factories based in and around Port-au-Prince have been heavily damaged, including the collapse of one major apparel factory that had employed nearly 4,000 workers.
 
@@ -4219,7 +4219,7 @@
 
  __Customs Support Services__ 
 
-[Pub. L. 111–171, § 9][/us/pl/111/171/s9], May 24, 2010, [124 Stat. 1205][/us/stat/124/1205], provided that:
+[Pub. L. 111–171][/us/pl/111/171], § 9, May 24, 2010, [124 Stat. 1205][/us/stat/124/1205], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -4277,7 +4277,7 @@
 
  __Presidential Proclamation Authority__ 
 
-[Pub. L. 110–234, title XV, § 15406][/us/pl/110/234/s15406], May 22, 2008, [122 Stat. 1546][/us/stat/122/1546], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15406, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2308, provided that: 
+[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15406, May 22, 2008, [122 Stat. 1546][/us/stat/122/1546], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15406, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2308, provided that: 
 
 > “The President may exercise the authority under section 604 of the Trade Act of 1974 \[[19 U.S.C. 2483][/us/usc/t19/s2483]\] to proclaim such modifications to the Harmonized Tariff Schedule of the United States as may be necessary to carry out this part \[part I (§§ 15401–15412) of subtitle D of title XV of [Pub. L. 110–246][/us/pl/110/246], amending this section and [section 2703 of this title][/us/usc/t19/s2703] and enacting provisions set out as notes under this section and [section 2701 of this title][/us/usc/t19/s2701]\] and the amendments made by this part.”
 
@@ -4305,20 +4305,20 @@
 [/us/usc/t19/s3203/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203%2Fb%2F3%2FB
 [/us/usc/t19/s2703/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fa%2F3
 [/us/usc/t19/s2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2462
-[/us/pl/98/67/s213A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs213A
-[/us/pl/109/432/s5002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs5002%2Fa
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
+[/us/pl/109/432/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtV
 [/us/stat/120/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3181
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1527-1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1527-1545
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/436/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs7
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
 [/us/stat/122/4981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4981
 [/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
 [/us/stat/124/1195-1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1195-1205
-[/us/pl/112/234/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Ff
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1625
-[/us/pl/114/27/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301
+[/us/pl/114/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtIII
 [/us/stat/129/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F373
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
@@ -4329,73 +4329,73 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/114/27/s301/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F1%2FA%2Fi
-[/us/pl/114/27/s301/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F1%2FA%2Fii
-[/us/pl/114/27/s301/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F1%2FB%2Fi
-[/us/pl/114/27/s301/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F1%2FB%2Fii
-[/us/pl/114/27/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs301%2F2
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
-[/us/pl/111/171/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F1
-[/us/pl/111/171/s7/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FA
-[/us/pl/111/171/s7/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FB%2Fi
-[/us/pl/111/171/s7/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FB%2Fii
-[/us/pl/111/171/s7/2/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FB%2Fiii%2FI
-[/us/pl/111/171/s7/2/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FB%2Fiii%2FII
-[/us/pl/111/171/s7/2/B/iii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FB%2Fiii%2FIII
-[/us/pl/111/171/s7/2/B/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FB%2Fiv%2FI
-[/us/pl/111/171/s7/2/B/iv/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FB%2Fiv%2FII%2Faa
-[/us/pl/111/171/s7/2/B/iv/II/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FB%2Fiv%2FII%2Fbb
-[/us/pl/111/171/s7/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs7%2F2%2FC
-[/us/pl/111/171/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs5%2F1
-[/us/pl/111/171/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs5%2F2
-[/us/pl/111/171/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs4%2Fa
-[/us/pl/111/171/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs4%2Fb
-[/us/pl/111/171/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs6
-[/us/pl/111/171/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs8
-[/us/pl/111/171/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs3%2F2
-[/us/pl/110/246/s15403/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F1%2FC
-[/us/pl/110/246/s15403/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F1%2FC
-[/us/pl/110/246/s15402/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Ff%2F2
-[/us/pl/110/246/s15403/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F1%2FB
-[/us/pl/110/246/s15402/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Ff%2F2
-[/us/pl/110/246/s15403/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F1%2FB
-[/us/pl/110/246/s15402/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Ff%2F2
-[/us/pl/110/246/s15403/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F1%2FB
-[/us/pl/110/246/s15403/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F1%2FD
-[/us/pl/110/246/s15403/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F1%2FA
-[/us/pl/110/246/s15402/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fa%2F5
-[/us/pl/110/436/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs7%2F1
-[/us/pl/110/246/s15402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fa%2F4
-[/us/pl/110/436/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs7%2F1
-[/us/pl/110/246/s15402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fa%2F3
-[/us/pl/110/436/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs7%2F1
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
 [/us/usc/t19/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801
-[/us/pl/110/246/s15402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fa%2F2
-[/us/pl/110/436/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs7%2F1
-[/us/pl/110/246/s15402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fa%2F1
-[/us/pl/110/436/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs7%2F1
-[/us/pl/110/246/s15402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fd
-[/us/pl/110/436/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs7%2F2
-[/us/pl/110/246/s15402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fb
-[/us/pl/110/436/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs7%2F1
-[/us/pl/110/246/s15402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fc
-[/us/pl/110/246/s15402/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Ff%2F1
-[/us/pl/110/246/s15404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15404
-[/us/pl/110/246/s15403/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F3
-[/us/pl/110/246/s15402/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fh
-[/us/pl/110/246/s15403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F2
-[/us/pl/110/246/s15405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15405
-[/us/pl/110/246/s15403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F2
-[/us/pl/110/246/s15402/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15402%2Fg
-[/us/pl/110/246/s15403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15403%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s15412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15412
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1547
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t19/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703
@@ -4407,29 +4407,29 @@
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/109/432/s5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs5006
 [/us/usc/t19/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703
-[/us/pl/110/234/s15407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15407
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1546
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/111/171/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs2
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
 [/us/stat/124/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1194
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
-[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
-[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/111/171/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs9
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
+[/us/pl/109/432/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtV
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
+[/us/pl/110/246/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtXV
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
 [/us/stat/124/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1205
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
-[/us/pl/110/234/s15406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15406
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1546
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t19/s2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2483
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -15,7 +15,7 @@
 
 ## § 1301. Repealed. [Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 511(1), [60 Stat. 158][/us/stat/60/158]
 
-    Section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 301, [46 Stat. 685][/us/stat/46/685], related to duties and taxes on Philippine articles coming to the United States and United States articles imported into the Philippine Islands. Subject matter is covered by Philippine Trade Act of 1946 (see Short Title note set out under [section 1354 of Title 22][/us/usc/t22/s1354], Foreign Relations and Intercourse).
+    Section, [act June 17, 1930, ch. 497, title III][/us/act/1930-06-17/ch497/tIII], § 301, [46 Stat. 685][/us/stat/46/685], related to duties and taxes on Philippine articles coming to the United States and United States articles imported into the Philippine Islands. Subject matter is covered by Philippine Trade Act of 1946 (see Short Title note set out under [section 1354 of Title 22][/us/usc/t22/s1354], Foreign Relations and Intercourse).
 
  __Effective Date of Repeal__ 
 
@@ -30,7 +30,7 @@
 
 [/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
 [/us/stat/60/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F158
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIII
 [/us/stat/46/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F685
 [/us/usc/t22/s1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1354
 [/us/usc/t22/s1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1354

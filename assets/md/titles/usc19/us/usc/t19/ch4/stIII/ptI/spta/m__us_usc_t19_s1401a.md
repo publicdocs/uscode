@@ -363,7 +363,7 @@
 
             means information that establishes the accuracy of such amount, difference, or adjustment.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 402, as added [Aug. 2, 1956, ch. 887, § 2(a)][/us/act/1956-08-02/ch887/s2/a], [70 Stat. 943][/us/stat/70/943]; amended [Pub. L. 96–39, title II, § 201(a)][/us/pl/96/39/s201/a], July 26, 1979, [93 Stat. 194][/us/stat/93/194]; [Pub. L. 96–490, § 2][/us/pl/96/490/s2], Dec. 2, 1980, [94 Stat. 2556][/us/stat/94/2556].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 402, as added [Aug. 2, 1956, ch. 887][/us/act/1956-08-02/ch887], § 2(a), [70 Stat. 943][/us/stat/70/943]; amended [Pub. L. 96–39, title II][/us/pl/96/39/tII], § 201(a), July 26, 1979, [93 Stat. 194][/us/stat/93/194]; [Pub. L. 96–490][/us/pl/96/490], § 2, Dec. 2, 1980, [94 Stat. 2556][/us/stat/94/2556].)
 
  __Amendments__ 
 
@@ -373,7 +373,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–490, § 2][/us/pl/96/490/s2], Dec. 2, 1980, [94 Stat. 2556][/us/stat/94/2556], provided in part that the amendment made by that section is “effective on the latest of—
+    [Pub. L. 96–490][/us/pl/96/490], § 2, Dec. 2, 1980, [94 Stat. 2556][/us/stat/94/2556], provided in part that the amendment made by that section is “effective on the latest of—
 
     “(1) the date on which the amendments made by title II of the Trade Agreements Act of 1979 (except the amendments made by section 223(b)) take effect \[July 1, 1980\],
 
@@ -389,7 +389,7 @@
 
  __Effective Date of 1979 Amendment; Transition to New Valuation Standards__ 
 
-[Pub. L. 96–39, title II, § 204][/us/pl/96/39/s204], July 26, 1979, [93 Stat. 202][/us/stat/93/202], provided that:
+[Pub. L. 96–39, title II][/us/pl/96/39/tII], § 204, July 26, 1979, [93 Stat. 202][/us/stat/93/202], provided that:
 
 >     “(a) __Effective Date of Amendments.—__ 
 
@@ -433,19 +433,19 @@
 
  __Effective Date__ 
 
-[Act Aug. 2, 1956, ch. 887, § 8][/us/act/1956-08-02/ch887/s8], [70 Stat. 949][/us/stat/70/949], provided that: 
+[Act Aug. 2, 1956, ch. 887][/us/act/1956-08-02/ch887], § 8, [70 Stat. 949][/us/stat/70/949], provided that: 
 
 > “This Act \[enacting this section and provisions set out in notes under this section and sections 2, 160, 1351, and 1402 of this title, amending sections 1001, 1402, 1500, and 1583 of this title, and sections 372 and 711 of former Title 31, Money and Finance, and repealing sections 12 to 18, 21 to 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title\] shall be effective on and after the day following the date of its enactment \[Aug. 2, 1956\], except that section 2 \[enacting this section and provisions set out in note under [section 1351 of this title][/us/usc/t19/s1351], and amending sections 1001, 1336, and 1402 of this title\] shall be effective only as to articles entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the publication of the final list provided for in section 6(a) of this Act \[set out in note under [section 1402 of this title][/us/usc/t19/s1402]\], and section 3 \[amending section 372 of former Title 31\] shall be effective as to entries filed on or after the thirtieth day following the date of enactment of this Act \[Aug. 2, 1956\].”
 
  __Presidential Report to Congress on Operation of Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade Over 2-Year Period__ 
 
-[Pub. L. 96–39, title II, § 203][/us/pl/96/39/s203], July 26, 1979, [93 Stat. 202][/us/stat/93/202], provided that: 
+[Pub. L. 96–39, title II][/us/pl/96/39/tII], § 203, July 26, 1979, [93 Stat. 202][/us/stat/93/202], provided that: 
 
 > “As soon as practicable after the close of the 2-year period beginning on the date on which the amendments made by this title (other than section 223(b), relating to certain rubber footwear) take effect \[see Effective Date of 1979 Amendment note set out above\], the President shall prepare and submit to Congress a report containing an evaluation of the operation of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade approved under section 2(a) \[[section 2503(a) of this title][/us/usc/t19/s2503/a]\] (hereinafter in this subtitle referred to as the ‘Agreement’), both domestically and internationally, during that period.”
 
  __List of Articles To Be Valued; Preliminary List; Additions; Final List; Transmittal to Congressional Committees__ 
 
-[Act Aug. 2, 1956, ch. 887, § 6][/us/act/1956-08-02/ch887/s6], [70 Stat. 948][/us/stat/70/948], provided that:
+[Act Aug. 2, 1956, ch. 887][/us/act/1956-08-02/ch887], § 6, [70 Stat. 948][/us/stat/70/948], provided that:
 
 >     “(a) The Secretary of the Treasury shall determine and make public a list of the articles which shall be valued in accordance with section 402a, Tariff Act of 1930, as amended by this Act \[former [section 1402 of this title][/us/usc/t19/s1402]\], as follows:    “As soon as practicable after the enactment of this Act \[Aug. 2, 1956\] the Secretary shall make public a preliminary list of the imported articles which he shall have determined, after such investigation as he deems necessary, would have been appraised in accordance with section 402 of the Tariff Act of 1930, as amended by this Act \[this section\], at average values for each article which are 95 (or less) per centum of the average values at which such article was actually appraised during the fiscal year 1954. If within sixty days after the publication of such preliminary list any manufacturer, producer, or wholesaler in the United States presents to the Secretary his reason for belief that any imported articles not specified in such list and like or similar to articles manufactured, produced, or sold at wholesale by him would have been appraised in accordance with such section 402 \[[section 1401a of this title][/us/usc/t19/s1401a]\] at average values which are 95 (or less) per centum of the average values at which they were or would have been appraised under section 402a, Tariff Act of 1930, as amended by this Act, the Secretary shall cause such investigation of the matter to be made as he deems necessary. If in the opinion of the Secretary the reason for belief is substantiated by the investigation, the articles involved shall be added to the preliminary list and such list, including any additions so made thereto, shall be published as a final list. Every article so specified in the final list which is entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the date of publication of the final list shall be appraised in accordance with the provisions of section 402a, Tariff Act of 1930, as amended by this Act.
 
@@ -459,31 +459,31 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/act/1956-08-02/ch887/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs2%2Fa
+[/us/act/1956-08-02/ch887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887
 [/us/stat/70/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F943
-[/us/pl/96/39/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs201%2Fa
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F194
-[/us/pl/96/490/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F490%2Fs2
+[/us/pl/96/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F490
 [/us/stat/94/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2556
 [/us/pl/96/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F490
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
-[/us/pl/96/490/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F490%2Fs2
+[/us/pl/96/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F490
 [/us/stat/94/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2556
-[/us/pl/96/39/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs204
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F202
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t26/s993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs993
 [/us/usc/t19/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1402
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
-[/us/act/1956-08-02/ch887/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs8
+[/us/act/1956-08-02/ch887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887
 [/us/stat/70/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F949
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
 [/us/usc/t19/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1402
-[/us/pl/96/39/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs203
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F202
 [/us/usc/t19/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fa
-[/us/act/1956-08-02/ch887/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs6
+[/us/act/1956-08-02/ch887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887
 [/us/stat/70/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F948
 [/us/usc/t19/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1402
 [/us/usc/t19/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a

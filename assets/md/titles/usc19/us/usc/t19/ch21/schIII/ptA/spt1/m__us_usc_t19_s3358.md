@@ -27,7 +27,7 @@
 
         (2) __Notice of determinations__ 
 
-            The Secretary shall immediately notify the Commissioner of Customs and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
+            The Secretary shall immediately notify the Commissioner of U.S. Customs and Border Protection and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
 
     (b) __Imports of Mexican articles__ 
 
@@ -63,11 +63,15 @@
 
         (6) The term “trigger price” means the average daily closing price of the New York Cotton Exchange, or any successor as determined by the Secretary, for the corresponding month during the previous 5-year period, excluding the year with the highest average price for the corresponding month and the year with the lowest average price for the corresponding month.
 
-([Pub. L. 103–182, title III, § 309][/us/pl/103/182/s309], Dec. 8, 1993, [107 Stat. 2105][/us/stat/107/2105]; [Pub. L. 104–295, § 21(b)(4)][/us/pl/104/295/s21/b/4], Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 309, Dec. 8, 1993, [107 Stat. 2105][/us/stat/107/2105]; [Pub. L. 104–295][/us/pl/104/295], § 21(b)(4), Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Amendments__ 
 
     1996—Subsec. (c)(1), (2). [Pub. L. 104–295][/us/pl/104/295] substituted “column 1 general” for “column 1–General”.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a)(2) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -80,11 +84,15 @@
 ----------
 ----------
 
-[/us/pl/103/182/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs309
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2105
-[/us/pl/104/295/s21/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fb%2F4
-[/us/stat/110/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3530
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/stat/110/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3530
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

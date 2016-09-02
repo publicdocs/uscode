@@ -41,7 +41,7 @@
 
         (4) The import restrictions under this section may continue to apply in whole or in part, if before their expiration under paragraph (3), there has entered into force with respect to the archaeological or ethnological materials an agreement under [section 2602 of this title][/us/usc/t19/s2602] or an agreement with a State Party to which the Senate has given its advice and consent to ratification. Such import restrictions may continue to apply for the duration of the agreement.
 
-([Pub. L. 97–446, title III, § 304][/us/pl/97/446/s304], Jan. 12, 1983, [96 Stat. 2354][/us/stat/96/2354].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 304, Jan. 12, 1983, [96 Stat. 2354][/us/stat/96/2354].)
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t19/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2606
 [/us/usc/t19/s2602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2602%2Fa
 [/us/usc/t19/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2602
-[/us/pl/97/446/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs304
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2354
 [/us/usc/t19/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2602
 [/us/usc/t19/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2602

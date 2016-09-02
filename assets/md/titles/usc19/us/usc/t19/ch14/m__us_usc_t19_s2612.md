@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe such rules and regulations as are necessary and appropriate to carry out the provisions of this chapter.
 
-([Pub. L. 97–446, title III, § 313][/us/pl/97/446/s313], Jan. 12, 1983, [96 Stat. 2363][/us/stat/96/2363].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 313, Jan. 12, 1983, [96 Stat. 2363][/us/stat/96/2363].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/446/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs313
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2363
 
 

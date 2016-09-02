@@ -49,7 +49,7 @@
 
             (B) report to Congress on the reasons for such delay in the report required under [section 2419(a)(3) of this title][/us/usc/t19/s2419/a/3].
 
-([Pub. L. 93–618, title III, § 303][/us/pl/93/618/s303], as added [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 297][/us/stat/93/297]; amended [Pub. L. 98–573, title III][/us/pl/98/573], §§ 304(d)(2)(B), (e), 306(c)(2)(C)(ii), Oct. 30, 1984, [98 Stat. 3004][/us/stat/98/3004], 3005, 3012; [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1170][/us/stat/102/1170].)
+([Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 303, as added [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 901, July 26, 1979, [93 Stat. 297][/us/stat/93/297]; amended [Pub. L. 98–573, title III][/us/pl/98/573/tIII], §§ 304(d)(2)(B), (e), 306(c)(2)(C)(ii), Oct. 30, 1984, [98 Stat. 3004][/us/stat/98/3004], 3005, 3012; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(a), Aug. 23, 1988, [102 Stat. 1170][/us/stat/102/1170].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
     1984—Subsec. (a). [Pub. L. 98–573][/us/pl/98/573], §§ 304(d)(2)(B), (e)(1), 306(c)(2)(C)(ii), designated existing provisions as subsec. (a), struck out “with respect to a petition” after “[section 2412(b) of this title][/us/usc/t19/s2412/b]”, inserted “or the determination of the Trade Representative under [section 2412(c)(1) of this title][/us/usc/t19/s2412/c/1]” after “in the petition”, and “(if any)” after “petitioner”, and struck out “private sector” after “appropriate”.
 
-    Subsec. (b). [Pub. L. 98–573, § 304(e)(2)][/us/pl/98/573/s304/e/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 98–573][/us/pl/98/573], § 304(e)(2), added subsec. (b).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -75,18 +75,18 @@
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414
 [/us/usc/t19/s2419/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2419%2Fa%2F3
-[/us/pl/93/618/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs303
-[/us/pl/96/39/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs901
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F297
-[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3004
-[/us/pl/100/418/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1170
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/usc/t19/s2412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb
 [/us/usc/t19/s2412/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fc%2F1
-[/us/pl/98/573/s304/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fe%2F2
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412
 [/us/usc/t19/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414

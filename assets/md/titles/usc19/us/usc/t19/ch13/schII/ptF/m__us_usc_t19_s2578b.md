@@ -51,7 +51,7 @@
 
         The definitions set forth in [section 2575b of this title][/us/usc/t19/s2575b] apply for purposes of this part except that in applying paragraph (7) of [section 2575b of this title][/us/usc/t19/s2575b] with respect to a sanitary or phytosanitary measure of a foreign country, any reference in such paragraph to the United States shall be deemed to be a reference to that foreign country.
 
-([Pub. L. 96–39, title IV, § 493][/us/pl/96/39/s493], as added [Pub. L. 103–465, title IV, § 432][/us/pl/103/465/s432], Dec. 8, 1994, [108 Stat. 4972][/us/stat/108/4972].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 493, as added [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 432, Dec. 8, 1994, [108 Stat. 4972][/us/stat/108/4972].)
 
 ----------
 
@@ -64,8 +64,8 @@
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10
 [/us/usc/t19/s2575b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2575b
 [/us/usc/t19/s2575b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2575b
-[/us/pl/96/39/s493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs493
-[/us/pl/103/465/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs432
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4972
 
 

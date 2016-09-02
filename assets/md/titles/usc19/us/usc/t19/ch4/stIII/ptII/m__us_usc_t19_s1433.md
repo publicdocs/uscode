@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1431a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1434.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1432 _us_usc_t19_s1432a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1434.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433)
 
 ## § 1433. Report of arrival of vessels, vehicles, and aircraft
 
@@ -69,13 +69,13 @@
 
         (2) discharge any passenger or merchandise (including baggage).
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 433, [46 Stat. 711][/us/stat/46/711]; [Pub. L. 99–570, title III, § 3112][/us/pl/99/570/s3112], Oct. 27, 1986, [100 Stat. 3207–80][/us/stat/100/3207-80]; [Pub. L. 103–182, title VI, § 652][/us/pl/103/182/s652], Dec. 8, 1993, [107 Stat. 2209][/us/stat/107/2209]; [Pub. L. 106–476, title I, § 1452(a)(1)][/us/pl/106/476/s1452/a/1], Nov. 9, 2000, [114 Stat. 2167][/us/stat/114/2167].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 433, [46 Stat. 711][/us/stat/46/711]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3112, Oct. 27, 1986, [100 Stat. 3207–80][/us/stat/100/3207-80]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 652, Dec. 8, 1993, [107 Stat. 2209][/us/stat/107/2209]; [Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1452(a)(1), Nov. 9, 2000, [114 Stat. 2167][/us/stat/114/2167].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 433, [42 Stat. 951][/us/stat/42/951]. That section was superseded by section 433 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 433, [42 Stat. 951][/us/stat/42/951]. That section was superseded by section 433 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    R.S. § 2774, requiring a report of arrival, and a further report in the form of a manifest, and imposing a penalty for violations was superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 433, [42 Stat. 951][/us/stat/42/951], and repealed by section 642 of that act.
+    R.S. § 2774, requiring a report of arrival, and a further report in the form of a manifest, and imposing a penalty for violations was superseded by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 433, [42 Stat. 951][/us/stat/42/951], and repealed by section 642 of that act.
 
     R.S. § 2772, relative to report and entry by the master of every vessel, bound to a port of delivery; section 2775, requiring a special report by the master of any vessel having on board distilled spirits or wines; and section 2832, relative to report of arrival of vessels proceeding to the ports of Natchez or Vicksburg, were also repealed by [section 642 of the act of Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356/s642].
 
@@ -83,11 +83,11 @@
 
     2000—Subsec. (a)(1)(C). [Pub. L. 106–476][/us/pl/106/476] struck out “bonded merchandise, or” before “foreign merchandise”.
 
-    1993—Subsec. (a)(1)(D). [Pub. L. 103–182, § 652(1)][/us/pl/103/182/s652/1], added subpar. (D).
+    1993—Subsec. (a)(1)(D). [Pub. L. 103–182][/us/pl/103/182], § 652(1), added subpar. (D).
 
-    Subsec. (d). [Pub. L. 103–182, § 652(2)][/us/pl/103/182/s652/2], substituted “present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data,” for “present to customs officers such”.
+    Subsec. (d). [Pub. L. 103–182][/us/pl/103/182], § 652(2), substituted “present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data,” for “present to customs officers such”.
 
-    Subsec. (e). [Pub. L. 103–182, § 652(3)][/us/pl/103/182/s652/3], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Unless otherwise authorized by law, a vessel, aircraft, or vehicle may, after arriving in the United States or the Virgin Islands—
+    Subsec. (e). [Pub. L. 103–182][/us/pl/103/182], § 652(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Unless otherwise authorized by law, a vessel, aircraft, or vehicle may, after arriving in the United States or the Virgin Islands—
 
     “(1) depart from the port, place, or airport of arrival; or
 
@@ -107,28 +107,28 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1431a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1434.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1432 _us_usc_t19_s1432a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1434.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433)
 
 ----------
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F711
-[/us/pl/99/570/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3112
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-80
-[/us/pl/103/182/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs652
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2209
-[/us/pl/106/476/s1452/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1452%2Fa%2F1
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2167
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F951
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F951
 [/us/act/1922-09-21/ch356/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2Fs642
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
-[/us/pl/103/182/s652/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs652%2F1
-[/us/pl/103/182/s652/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs652%2F2
-[/us/pl/103/182/s652/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs652%2F3
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
 [/us/pl/106/476/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1471

@@ -139,7 +139,7 @@
 
             may be taken into account under this section or section 1673b(b)(1)(B) and (C) of this title.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 739, as added [Pub. L. 100–418, title I, § 1323(a)][/us/pl/100/418/s1323/a], Aug. 23, 1988, [102 Stat. 1195][/us/stat/102/1195]; amended [Pub. L. 101–382, title I, § 139(a)(2)][/us/pl/101/382/s139/a/2], Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653]; [Pub. L. 103–465, title II, § 233(a)(1)(D)][/us/pl/103/465/s233/a/1/D], (2)(A)(v), Dec. 8, 1994, [108 Stat. 4898][/us/stat/108/4898].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 739, as added [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1323(a), Aug. 23, 1988, [102 Stat. 1195][/us/stat/102/1195]; amended [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 139(a)(2), Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 233(a)(1)(D), (2)(A)(v), Dec. 8, 1994, [108 Stat. 4898][/us/stat/108/4898].)
 
  __References in Text__ 
 
@@ -147,7 +147,7 @@
 
  __Prior Provisions__ 
 
-    A prior section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 739, as added July 26, 1979, [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], [93 Stat. 174][/us/stat/93/174], related to duties of customs officers, prior to repeal by [Pub. L. 98–573, title VI, § 610(a)][/us/pl/98/573/s610/a], Oct. 30, 1984, [98 Stat. 3031][/us/stat/98/3031].
+    A prior section, [act June 17, 1930, ch. 497, title VII][/us/act/1930-06-17/ch497/tVII], § 739, as added July 26, 1979, [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, [93 Stat. 174][/us/stat/93/174], related to duties of customs officers, prior to repeal by [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 610(a), Oct. 30, 1984, [98 Stat. 3031][/us/stat/98/3031].
 
  __Amendments__ 
 
@@ -172,17 +172,17 @@
 [/us/usc/t19/s1673d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673d
 [/us/usc/t19/s1673c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673c
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/100/418/s1323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1323%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1195
-[/us/pl/101/382/s139/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs139%2Fa%2F2
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F653
-[/us/pl/103/465/s233/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F1%2FD
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4898
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/act/1930-06-17/ch497/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtVII
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F174
-[/us/pl/98/573/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs610%2Fa
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3031
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382

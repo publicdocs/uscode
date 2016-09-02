@@ -53,7 +53,7 @@
 
         An agreement referred to in subsection (a), and a proclamation referred to in [section 2434(a) of this title][/us/usc/t19/s2434/a] implementing such agreement, shall take effect only if a joint resolution described in [section 2191(b)(3) of this title][/us/usc/t19/s2191/b/3] that approves of the agreement referred to in subsection (a) is enacted into law.
 
-([Pub. L. 93–618, title IV, § 405][/us/pl/93/618/s405], Jan. 3, 1975, [88 Stat. 2061][/us/stat/88/2061]; [Pub. L. 96–39, title XI, § 1106(f)(3)][/us/pl/96/39/s1106/f/3], July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 101–382, title I, § 132(b)(1)][/us/pl/101/382/s132/b/1], Aug. 20, 1990, [104 Stat. 645][/us/stat/104/645].)
+([Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 405, Jan. 3, 1975, [88 Stat. 2061][/us/stat/88/2061]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(f)(3), July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 132(b)(1), Aug. 20, 1990, [104 Stat. 645][/us/stat/104/645].)
 
  __References in Text__ 
 
@@ -78,11 +78,11 @@
 
 [/us/usc/t19/s2434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2434%2Fa
 [/us/usc/t19/s2191/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191%2Fb%2F3
-[/us/pl/93/618/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs405
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2061
-[/us/pl/96/39/s1106/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Ff%2F3
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F312
-[/us/pl/101/382/s132/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fb%2F1
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F645
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

@@ -31,13 +31,13 @@
 
         (4) pay, or agree to pay on demand, to the customs officer the amount of antidumping duty imposed under [section 1673 of this title][/us/usc/t19/s1673] on that merchandise.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 738, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 174][/us/stat/93/174]; amended [Pub. L. 103–465, title II, § 233(a)(2)(A)(iv)][/us/pl/103/465/s233/a/2/A/iv], (B), Dec. 8, 1994, [108 Stat. 4898][/us/stat/108/4898].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 738, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 174][/us/stat/93/174]; amended [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 233(a)(2)(A)(iv), (B), Dec. 8, 1994, [108 Stat. 4898][/us/stat/108/4898].)
 
  __Amendments__ 
 
-    1994—Subsec. (b)(1). [Pub. L. 103–465, § 233(a)(2)(A)(iv)][/us/pl/103/465/s233/a/2/A/iv], substituted “export price (or the constructed export price)” for “United States price”.
+    1994—Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(2)(A)(iv), substituted “export price (or the constructed export price)” for “United States price”.
 
-    Subsec. (b)(3). [Pub. L. 103–465, § 233(a)(2)(B)][/us/pl/103/465/s233/a/2/B], substituted “constructed export price” for “exporter’s sales price”.
+    Subsec. (b)(3). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(2)(B), substituted “constructed export price” for “exporter’s sales price”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -52,12 +52,12 @@
 
 [/us/usc/t19/s1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F174
-[/us/pl/103/465/s233/a/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F2%2FA%2Fiv
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4898
-[/us/pl/103/465/s233/a/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F2%2FA%2Fiv
-[/us/pl/103/465/s233/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F2%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

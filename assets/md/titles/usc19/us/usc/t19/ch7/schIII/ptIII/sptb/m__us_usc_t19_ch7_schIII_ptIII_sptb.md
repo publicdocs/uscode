@@ -11,35 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/spta/m__us_usc_t19_ch7_schIII_ptIII_spta.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptc/m__us_usc_t19_ch7_schIII_ptIII_sptc.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fsptb)
+[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/spta/m__us_usc_t19_s1941...1944.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptb/m__us_usc_t19_s1951 _us_usc_t19_s1952.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fsptb)
 
 ##### subpart b—training
 
-§§ 1951, 1952. __Repealed.__  __[__  __Pub. L. 93–618, title VI, § 602(e)__  __][/us/pl/93/618/s602/e]__  __,__  __Jan. 3, 1975__  __,__  __[__  __88 Stat. 2072__  __][/us/stat/88/2072]__ 
-
-    Section 1951, [Pub. L. 87–794, title III, § 326][/us/pl/87/794/s326], Oct. 11, 1962, [76 Stat. 895][/us/stat/76/895], provided for training to prepare workers for full employment. See [section 2295 of this title][/us/usc/t19/s2295].
-
-    Section 1952, [Pub. L. 87–794, title III, § 327][/us/pl/87/794/s327], Oct. 11, 1962, [76 Stat. 895][/us/stat/76/895], provided for disqualification for refusal of training. See [section 2296 of this title][/us/usc/t19/s2296].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective on 90th day following Jan. 3, 1975, see note set out under [section 1901 of this title][/us/usc/t19/s1901].
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/spta/m__us_usc_t19_ch7_schIII_ptIII_spta.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptc/m__us_usc_t19_ch7_schIII_ptIII_sptc.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fsptb)
+[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/spta/m__us_usc_t19_s1941...1944.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptb/m__us_usc_t19_s1951 _us_usc_t19_s1952.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fsptb)
 
 ----------
 ----------
 
-[/us/pl/93/618/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fe
-[/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/87/794/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs326
-[/us/stat/76/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F895
-[/us/usc/t19/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2295
-[/us/pl/87/794/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs327
-[/us/stat/76/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F895
-[/us/usc/t19/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2296
-[/us/usc/t19/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901
 
 

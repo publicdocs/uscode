@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1503.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1504.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1503a)
 
-## § 1503a. Repealed. [Aug. 8, 1953, ch. 397, § 18(e)][/us/act/1953-08-08/ch397/s18/e], [67 Stat. 518][/us/stat/67/518]
+## § 1503a. Repealed. [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 18(e), [67 Stat. 518][/us/stat/67/518]
 
     Section, [act July 12, 1932, ch. 473][/us/act/1932-07-12/ch473], [47 Stat. 657][/us/stat/47/657], related to the construction of former subsection (b) of [section 1503 of this title][/us/usc/t19/s1503], which was omitted by section 18(d) of act Aug. 8, 1953.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1953-08-08/ch397/s18/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs18%2Fe
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F518
 [/us/act/1932-07-12/ch473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-12%2Fch473
 [/us/stat/47/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F657

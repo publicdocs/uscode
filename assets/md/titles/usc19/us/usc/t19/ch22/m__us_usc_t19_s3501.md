@@ -63,7 +63,7 @@
 
         The terms “WTO member” and “WTO member country” mean a state, or separate customs territory (within the meaning of Article XII of the WTO Agreement), with respect to which the United States applies the WTO Agreement.
 
-([Pub. L. 103–465, § 2][/us/pl/103/465/s2], Dec. 8, 1994, [108 Stat. 4813][/us/stat/108/4813].)
+([Pub. L. 103–465][/us/pl/103/465], § 2, Dec. 8, 1994, [108 Stat. 4813][/us/stat/108/4813].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–465, § 1(a)][/us/pl/103/465/s1/a], Dec. 8, 1994, [108 Stat. 4809][/us/stat/108/4809], provided that: 
+[Pub. L. 103–465][/us/pl/103/465], § 1(a), Dec. 8, 1994, [108 Stat. 4809][/us/stat/108/4809], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Uruguay Round Agreements Act’.”
 
@@ -90,12 +90,12 @@
 
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd
 [/us/usc/t19/s3511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fa%2F1
-[/us/pl/103/465/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs2
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/stat/108/4813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4813
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/stat/108/4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4809
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/103/465/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs1%2Fa
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/stat/108/4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4809
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd
 [/us/usc/t19/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511

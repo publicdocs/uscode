@@ -23,7 +23,7 @@
 
     (3) any proclamation issued under section 4033(o) of this title.
 
-([Pub. L. 109–53, title II, § 210][/us/pl/109/53/s210], Aug. 2, 2005, [119 Stat. 488][/us/stat/119/488].)
+([Pub. L. 109–53, title II][/us/pl/109/53/tII], § 210, Aug. 2, 2005, [119 Stat. 488][/us/stat/119/488].)
 
  __Termination of Section__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t19/s4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4033
-[/us/pl/109/53/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs210
+[/us/pl/109/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtII
 [/us/stat/119/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F488
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs204

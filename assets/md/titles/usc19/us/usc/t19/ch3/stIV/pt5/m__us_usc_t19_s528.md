@@ -17,7 +17,7 @@
 
     The appropriate customs officer within whose district any seizure shall be made or forfeiture incurred for any violation of the duty laws is authorized to receive from the court within which trial is had, or from the proper officer thereof, the sum recovered, after deducting all proper charges to be allowed by the court; and on receipt thereof he shall pay and distribute the same without delay, according to law.
 
-(R.S. § 3087; [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 604, [46 Stat. 754][/us/stat/46/754]; [Pub. L. 91–271, title III, § 319][/us/pl/91/271/s319], June 2, 1970, [84 Stat. 293][/us/stat/84/293].)
+(R.S. § 3087; [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 604, [46 Stat. 754][/us/stat/46/754]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 319, June 2, 1970, [84 Stat. 293][/us/stat/84/293].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F754
-[/us/pl/91/271/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs319
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F293
 [/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
 [/us/stat/42/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F984

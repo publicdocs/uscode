@@ -17,7 +17,7 @@
 
     The Congress supports the policy that the President shall take appropriate steps to promote and facilitate the adoption by the international community of the Kimberley Process Certification Scheme implemented under this chapter.
 
-([Pub. L. 108–19, § 7][/us/pl/108/19/s7], Apr. 25, 2003, [117 Stat. 634][/us/stat/117/634].)
+([Pub. L. 108–19][/us/pl/108/19], § 7, Apr. 25, 2003, [117 Stat. 634][/us/stat/117/634].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs7
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F634
 
 

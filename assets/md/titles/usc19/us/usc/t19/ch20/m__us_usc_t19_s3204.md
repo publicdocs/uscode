@@ -55,7 +55,7 @@
 
         (2) The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
-([Pub. L. 102–182, title II, § 206][/us/pl/102/182/s206], Dec. 4, 1991, [105 Stat. 1243][/us/stat/105/1243]; [Pub. L. 106–200, title II, § 211(d)(2)][/us/pl/106/200/s211/d/2], May 18, 2000, [114 Stat. 287][/us/stat/114/287].)
+([Pub. L. 102–182, title II][/us/pl/102/182/tII], § 206, Dec. 4, 1991, [105 Stat. 1243][/us/stat/105/1243]; [Pub. L. 106–200, title II][/us/pl/106/200/tII], § 211(d)(2), May 18, 2000, [114 Stat. 287][/us/stat/114/287].)
 
  __Amendments__ 
 
@@ -75,9 +75,9 @@
 ----------
 
 [/us/usc/t19/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2704
-[/us/pl/102/182/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs206
+[/us/pl/102/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtII
 [/us/stat/105/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1243
-[/us/pl/106/200/s211/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs211%2Fd%2F2
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
 [/us/stat/114/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F287
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/usc/t19/s3206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3206%2Fb

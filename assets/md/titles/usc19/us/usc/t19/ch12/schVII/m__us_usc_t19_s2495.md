@@ -33,7 +33,7 @@
 
     (4) the term “narcotic and psychotropic drugs and other controlled substances” has the same meaning as is given by any applicable international narcotics control agreement or domestic law of the country or countries concerned.
 
-([Pub. L. 93–618, title VIII, § 805][/us/pl/93/618/s805], as added [Pub. L. 99–570, title IX, § 9001][/us/pl/99/570/s9001], Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166]; amended [Pub. L. 101–231, § 17(h)(5)][/us/pl/101/231/s17/h/5], Dec. 13, 1989, [103 Stat. 1965][/us/stat/103/1965]; [Pub. L. 106–36, title I, § 1001(a)(10)][/us/pl/106/36/s1001/a/10], June 25, 1999, [113 Stat. 131][/us/stat/113/131].)
+([Pub. L. 93–618, title VIII][/us/pl/93/618/tVIII], § 805, as added [Pub. L. 99–570, title IX][/us/pl/99/570/tIX], § 9001, Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166]; amended [Pub. L. 101–231][/us/pl/101/231], § 17(h)(5), Dec. 13, 1989, [103 Stat. 1965][/us/stat/103/1965]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(a)(10), June 25, 1999, [113 Stat. 131][/us/stat/113/131].)
 
  __Amendments__ 
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/93/618/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs805
-[/us/pl/99/570/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs9001
+[/us/pl/93/618/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVIII
+[/us/pl/99/570/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIX
 [/us/stat/100/3207-166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-166
-[/us/pl/101/231/s17/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fh%2F5
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1965
-[/us/pl/106/36/s1001/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fa%2F10
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F131
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231

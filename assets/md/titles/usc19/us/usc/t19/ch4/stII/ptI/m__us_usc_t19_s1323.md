@@ -17,7 +17,7 @@
 
     Upon the convocation of a conference on the use or conservation of international fishery resources, the President shall, by all appropriate means at his disposal, seek to persuade countries whose domestic fishing practices or policies affect such resources, to engage in negotiations in good faith relating to the use or conservation of such resources. If, after such efforts by the President and by other countries which have agreed to engage in such negotiations, any other country whose conservation practices or policies affect the interests of the United States and such other countries, has, in the judgment of the President, failed or refused to engage in such negotiations in good faith, the President may, if he is satisfied that such action is likely to be effective in inducing such country to engage in such negotiations in good faith, increase the rate of duty on any fish (in any form) which is the product of such country, for such time as he deems necessary, to a rate not more than 50 percent above the rate existing on July 1, 1934.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 323, as added [Pub. L. 87–794, title II, § 257(i)][/us/pl/87/794/s257/i], Oct. 11, 1962, [76 Stat. 883][/us/stat/76/883].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 323, as added [Pub. L. 87–794, title II][/us/pl/87/794/tII], § 257(i), Oct. 11, 1962, [76 Stat. 883][/us/stat/76/883].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/87/794/s257/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fi
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F883
 
 

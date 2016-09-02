@@ -37,7 +37,7 @@
 
         (3) The Secretary of the Treasury shall compile the information collected under paragraph (1)(A)(ii) into a summary and shall annually submit such summary to the Congress until the authority to negotiate trade agreements under chapter 17 of this title expires. Such information shall also be made available to the public.
 
-([Pub. L. 100–418, title I, § 1380][/us/pl/100/418/s1380], Aug. 23, 1988, [102 Stat. 1223][/us/stat/102/1223].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1380, Aug. 23, 1988, [102 Stat. 1223][/us/stat/102/1223].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1380
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1223
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1121

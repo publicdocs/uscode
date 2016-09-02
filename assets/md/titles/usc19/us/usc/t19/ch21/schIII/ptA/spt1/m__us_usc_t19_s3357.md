@@ -23,7 +23,7 @@
 
     (3) under both this subpart and such chapter 1 at the same time, in which case the International Trade Commission shall consider such petitions jointly.
 
-([Pub. L. 103–182, title III, § 307][/us/pl/103/182/s307], Dec. 8, 1993, [107 Stat. 2104][/us/stat/107/2104].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 307, Dec. 8, 1993, [107 Stat. 2104][/us/stat/107/2104].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/pl/103/182/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs307
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2104
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

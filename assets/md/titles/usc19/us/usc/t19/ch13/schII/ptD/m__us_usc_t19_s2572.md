@@ -21,7 +21,7 @@
 
     (2) any standards activity engaged in by any private person solely for use in the production or consumption of products by that person.
 
-([Pub. L. 96–39, title IV, § 452][/us/pl/96/39/s452], July 26, 1979, [93 Stat. 250][/us/stat/93/250].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 452, July 26, 1979, [93 Stat. 250][/us/stat/93/250].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/39/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs452
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F250
 
 

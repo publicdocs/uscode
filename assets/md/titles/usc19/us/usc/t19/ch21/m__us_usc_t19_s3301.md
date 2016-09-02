@@ -45,7 +45,7 @@
 
         The term “Trade Representative” means the United States Trade Representative.
 
-([Pub. L. 103–182, § 2][/us/pl/103/182/s2], Dec. 8, 1993, [107 Stat. 2060][/us/stat/107/2060].)
+([Pub. L. 103–182][/us/pl/103/182], § 2, Dec. 8, 1993, [107 Stat. 2060][/us/stat/107/2060].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–182, § 1(a)][/us/pl/103/182/s1/a], Dec. 8, 1993, [107 Stat. 2057][/us/stat/107/2057], provided that: 
+[Pub. L. 103–182][/us/pl/103/182], § 1(a), Dec. 8, 1993, [107 Stat. 2057][/us/stat/107/2057], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘North American Free Trade Agreement Implementation Act’.”
 
@@ -70,12 +70,12 @@
 
 [/us/usc/t19/s3311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311%2Fa
 [/us/usc/t19/s3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3332
-[/us/pl/103/182/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs2
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2060
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/103/182/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs1%2Fa
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057
 
 

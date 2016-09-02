@@ -71,7 +71,7 @@
 
             The President shall include in each report under subsection (a), as the President deems appropriate, summaries of the meetings held pursuant to paragraph (1).
 
-([Pub. L. 109–53, title IV, § 403][/us/pl/109/53/s403], Aug. 2, 2005, [119 Stat. 496][/us/stat/119/496].)
+([Pub. L. 109–53, title IV][/us/pl/109/53/tIV], § 403, Aug. 2, 2005, [119 Stat. 496][/us/stat/119/496].)
 
  __Termination of Section__ 
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/109/53/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs403
+[/us/pl/109/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIV
 [/us/stat/119/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F496
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1354.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1356k)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356a...1356j.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1356k)
 
 ## § 1356k. Importation of coffee under International Coffee Agreement, 1983; Presidential powers and duties
 
@@ -25,7 +25,7 @@
 
     (4) to take such other action, and issue and enforce such rules and regulations, as he may consider necessary or appropriate in order to implement the obligations of the United States under the agreement.
 
-([Pub. L. 96–599, § 2][/us/pl/96/599/s2], Dec. 24, 1980, [94 Stat. 3491][/us/stat/94/3491]; [Pub. L. 97–276, § 161][/us/pl/97/276/s161], Oct. 2, 1982, [96 Stat. 1204][/us/stat/96/1204]; [Pub. L. 97–446, § 154][/us/pl/97/446/s154], Jan. 12, 1983, [96 Stat. 2345][/us/stat/96/2345]; [Pub. L. 98–120, § 1][/us/pl/98/120/s1], Oct. 12, 1983, [97 Stat. 809][/us/stat/97/809]; [Pub. L. 100–418, title I, § 1123(a)][/us/pl/100/418/s1123/a], Aug. 23, 1988, [102 Stat. 1146][/us/stat/102/1146].)
+([Pub. L. 96–599][/us/pl/96/599], § 2, Dec. 24, 1980, [94 Stat. 3491][/us/stat/94/3491]; [Pub. L. 97–276][/us/pl/97/276], § 161, Oct. 2, 1982, [96 Stat. 1204][/us/stat/96/1204]; [Pub. L. 97–446][/us/pl/97/446], § 154, Jan. 12, 1983, [96 Stat. 2345][/us/stat/96/2345]; [Pub. L. 98–120][/us/pl/98/120], § 1, Oct. 12, 1983, [97 Stat. 809][/us/stat/97/809]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1123(a), Aug. 23, 1988, [102 Stat. 1146][/us/stat/102/1146].)
 
  __References in Text__ 
 
@@ -47,40 +47,40 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–418, title I, § 1123(b)][/us/pl/100/418/s1123/b], Aug. 23, 1988, [102 Stat. 1146][/us/stat/102/1146], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1123(b), Aug. 23, 1988, [102 Stat. 1146][/us/stat/102/1146], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1987.”
 
  __Short Title__ 
 
-[Pub. L. 96–599, § 1][/us/pl/96/599/s1], Dec. 24, 1980, [94 Stat. 3491][/us/stat/94/3491], provided that: 
+[Pub. L. 96–599][/us/pl/96/599], § 1, Dec. 24, 1980, [94 Stat. 3491][/us/stat/94/3491], provided that: 
 
 > “This Act \[enacting this section and sections 1356l to 1356n of this title\] may be cited as the ‘International Coffee Agreement Act of 1980’.”
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1354.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1356k)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356a...1356j.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1356k)
 
 ----------
 ----------
 
-[/us/pl/96/599/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F599%2Fs2
+[/us/pl/96/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F599
 [/us/stat/94/3491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3491
-[/us/pl/97/276/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs161
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1204
-[/us/pl/97/446/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs154
+[/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
 [/us/stat/96/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2345
-[/us/pl/98/120/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F120%2Fs1
+[/us/pl/98/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F120
 [/us/stat/97/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F809
-[/us/pl/100/418/s1123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1123%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1146
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/98/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F120
 [/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
 [/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
-[/us/pl/100/418/s1123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1123%2Fb
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1146
-[/us/pl/96/599/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F599%2Fs1
+[/us/pl/96/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F599
 [/us/stat/94/3491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3491
 
 

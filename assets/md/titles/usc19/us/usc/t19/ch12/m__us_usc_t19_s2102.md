@@ -29,7 +29,7 @@
 
     (6) to provide fair and reasonable access to products of less developed countries in the United States market.
 
-([Pub. L. 93–618, § 2][/us/pl/93/618/s2], Jan. 3, 1975, [88 Stat. 1981][/us/stat/88/1981].)
+([Pub. L. 93–618][/us/pl/93/618], § 2, Jan. 3, 1975, [88 Stat. 1981][/us/stat/88/1981].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Statement of Purposes of 1984 Amendment__ 
 
-[Pub. L. 98–573, title III, § 302][/us/pl/98/573/s302], Oct. 30, 1984, [98 Stat. 3000][/us/stat/98/3000], provided that: 
+[Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 302, Oct. 30, 1984, [98 Stat. 3000][/us/stat/98/3000], provided that: 
 
 > “The purposes of this title \[see Short Title of 1984 Amendment note set out under [section 2101 of this title][/us/usc/t19/s2101]\] are—
 
@@ -68,12 +68,12 @@
 ----------
 ----------
 
-[/us/pl/93/618/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs2
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1981
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
-[/us/pl/98/573/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs302
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3000
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 

@@ -123,7 +123,7 @@
 
         If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States–Panama Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 514, [46 Stat. 734][/us/stat/46/734]; [Pub. L. 91–271, title II, § 207][/us/pl/91/271/s207], June 2, 1970, [84 Stat. 284][/us/stat/84/284]; [Pub. L. 96–39, title X, § 1001(b)(3)][/us/pl/96/39/s1001/b/3], July 26, 1979, [93 Stat. 305][/us/stat/93/305]; [Pub. L. 96–417, title VI][/us/pl/96/417], §§ 601(5), 605, Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 98–573, title VI, § 612(b)(1)][/us/pl/98/573/s612/b/1], Oct. 30, 1984, [98 Stat. 3034][/us/stat/98/3034]; [Pub. L. 99–514, title XVIII, § 1888(4)][/us/pl/99/514/s1888/4], Oct. 22, 1986, [100 Stat. 2924][/us/stat/100/2924]; [Pub. L. 100–449, title IV, § 403(b)][/us/pl/100/449/s403/b], Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 103–182, title II, § 208][/us/pl/103/182/s208], title IV, § 412(a), title VI, § 645, Dec. 8, 1993, [107 Stat. 2097][/us/stat/107/2097], 2146, 2206; [Pub. L. 104–295, § 21(e)(7)][/us/pl/104/295/s21/e/7], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531]; [Pub. L. 106–36, title II, § 2408(b)][/us/pl/106/36/s2408/b], June 25, 1999, [113 Stat. 171][/us/stat/113/171]; [Pub. L. 108–77, title II, § 205(b)][/us/pl/108/77/s205/b], Sept. 3, 2003, [117 Stat. 931][/us/stat/117/931]; [Pub. L. 108–429, title II, § 2103][/us/pl/108/429/s2103], Dec. 3, 2004, [118 Stat. 2597][/us/stat/118/2597]; [Pub. L. 109–53, title II, § 206(b)][/us/pl/109/53/s206/b], Aug. 2, 2005, [119 Stat. 484][/us/stat/119/484]; [Pub. L. 109–280, title XIV, § 1635(f)(7)][/us/pl/109/280/s1635/f/7], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 110–138, title II, § 205(b)][/us/pl/110/138/s205/b], Dec. 14, 2007, [121 Stat. 1476][/us/stat/121/1476]; [Pub. L. 111–3, title VII, § 702(c)(1)][/us/pl/111/3/s702/c/1], Feb. 4, 2009, [123 Stat. 110][/us/stat/123/110]; [Pub. L. 112–41, title II, § 204(b)][/us/pl/112/41/s204/b], Oct. 21, 2011, [125 Stat. 448][/us/stat/125/448]; [Pub. L. 112–42, title II, § 205(b)][/us/pl/112/42/s205/b], Oct. 21, 2011, [125 Stat. 484][/us/stat/125/484]; [Pub. L. 112–43, title II, § 205(b)][/us/pl/112/43/s205/b], Oct. 21, 2011, [125 Stat. 519][/us/stat/125/519].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 514, [46 Stat. 734][/us/stat/46/734]; [Pub. L. 91–271, title II][/us/pl/91/271/tII], § 207, June 2, 1970, [84 Stat. 284][/us/stat/84/284]; [Pub. L. 96–39, title X][/us/pl/96/39/tX], § 1001(b)(3), July 26, 1979, [93 Stat. 305][/us/stat/93/305]; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], §§ 601(5), 605, Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 612(b)(1), Oct. 30, 1984, [98 Stat. 3034][/us/stat/98/3034]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1888(4), Oct. 22, 1986, [100 Stat. 2924][/us/stat/100/2924]; [Pub. L. 100–449, title IV][/us/pl/100/449/tIV], § 403(b), Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 208, title IV, § 412(a), title VI, § 645, Dec. 8, 1993, [107 Stat. 2097][/us/stat/107/2097], 2146, 2206; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(7), Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531]; [Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2408(b), June 25, 1999, [113 Stat. 171][/us/stat/113/171]; [Pub. L. 108–77, title II][/us/pl/108/77/tII], § 205(b), Sept. 3, 2003, [117 Stat. 931][/us/stat/117/931]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2103, Dec. 3, 2004, [118 Stat. 2597][/us/stat/118/2597]; [Pub. L. 109–53, title II][/us/pl/109/53/tII], § 206(b), Aug. 2, 2005, [119 Stat. 484][/us/stat/119/484]; [Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1635(f)(7), Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 110–138, title II][/us/pl/110/138/tII], § 205(b), Dec. 14, 2007, [121 Stat. 1476][/us/stat/121/1476]; [Pub. L. 111–3, title VII][/us/pl/111/3/tVII], § 702(c)(1), Feb. 4, 2009, [123 Stat. 110][/us/stat/123/110]; [Pub. L. 112–41, title II][/us/pl/112/41/tII], § 204(b), Oct. 21, 2011, [125 Stat. 448][/us/stat/125/448]; [Pub. L. 112–42, title II][/us/pl/112/42/tII], § 205(b), Oct. 21, 2011, [125 Stat. 484][/us/stat/125/484]; [Pub. L. 112–43, title II][/us/pl/112/43/tII], § 205(b), Oct. 21, 2011, [125 Stat. 519][/us/stat/125/519].)
 
  __Amendment of Section__ 
 
@@ -157,13 +157,13 @@
 
  __Codification__ 
 
-    Section was formerly classified to former [section 579 of this title][/us/usc/t19/s579] subsequent to its classification to [section 784 of title 28][/us/usc/t28/s784] prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 464, § 1][/us/act/1948-06-25/ch464/s1], [62 Stat. 869][/us/stat/62/869].
+    Section was formerly classified to former [section 579 of this title][/us/usc/t19/s579] subsequent to its classification to [section 784 of title 28][/us/usc/t28/s784] prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 464][/us/act/1948-06-25/ch464], § 1, [62 Stat. 869][/us/stat/62/869].
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 514, [42 Stat. 969][/us/stat/42/969]. That section was superseded by section 514 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 514, [42 Stat. 969][/us/stat/42/969]. That section was superseded by section 514 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions that the decision of the collector as to duties, including dutiable costs and charges, and as to all fees and exactions, should be final and conclusive unless a protest was filed within 30 days after ascertainment and liquidation of duties, or within 15 days after payment of fees, charges and exactions, with further provisions as to fees, transmission of the papers to the Board of General Appraisers, etc., were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, N, [38 Stat. 187][/us/stat/38/187], the provisions of which were substituted for provisions of a similar nature in the Customs Administrative [Act of June 10, 1890, ch. 407, § 14][/us/act/1890-06-10/ch407/s14], [26 Stat. 137][/us/stat/26/137], as amended by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 100][/us/stat/36/100]. Section III, N, of the 1913 act was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989].
+    Provisions that the decision of the collector as to duties, including dutiable costs and charges, and as to all fees and exactions, should be final and conclusive unless a protest was filed within 30 days after ascertainment and liquidation of duties, or within 15 days after payment of fees, charges and exactions, with further provisions as to fees, transmission of the papers to the Board of General Appraisers, etc., were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, N, [38 Stat. 187][/us/stat/38/187], the provisions of which were substituted for provisions of a similar nature in the Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 14, [26 Stat. 137][/us/stat/26/137], as amended by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 100][/us/stat/36/100]. Section III, N, of the 1913 act was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989].
 
     Provisions relating to decisions of the collector, and appeals therefrom to the Secretary of the Treasury were contained in R.S. §§ 2931, 2932, prior to repeal by section 29 of the Customs Administrative Act, [26 Stat. 141][/us/stat/26/141].
 
@@ -183,17 +183,17 @@
 
     2005—Subsec. (h). [Pub. L. 109–53][/us/pl/109/53], §§ 107(d), 206(b), temporarily added subsec. (h). See Effective and Termination Dates of 2005 Amendment note below.
 
-    2004—Subsec. (a). [Pub. L. 108–429, § 2103(1)(A)][/us/pl/108/429/s2103/1/A], substituted “(relating to refunds), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and” for “(relating to refunds and errors)” in introductory provisions.
+    2004—Subsec. (a). [Pub. L. 108–429][/us/pl/108/429], § 2103(1)(A), substituted “(relating to refunds), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and” for “(relating to refunds and errors)” in introductory provisions.
 
-    Subsec. (a)(5). [Pub. L. 108–429, § 2103(1)(B)][/us/pl/108/429/s2103/1/B], inserted “, including the liquidation of an entry, pursuant to either [section 1500 of this title][/us/usc/t19/s1500] or [section 1504 of this title][/us/usc/t19/s1504]” after “thereof”.
+    Subsec. (a)(5). [Pub. L. 108–429][/us/pl/108/429], § 2103(1)(B), inserted “, including the liquidation of an entry, pursuant to either [section 1500 of this title][/us/usc/t19/s1500] or [section 1504 of this title][/us/usc/t19/s1504]” after “thereof”.
 
-    Subsec. (a)(7). [Pub. L. 108–429, § 2103(1)(C)][/us/pl/108/429/s2103/1/C], struck out “(c) or” after “subsection”.
+    Subsec. (a)(7). [Pub. L. 108–429][/us/pl/108/429], § 2103(1)(C), struck out “(c) or” after “subsection”.
 
-    Subsec. (c)(1). [Pub. L. 108–429, § 2103(2)(A)][/us/pl/108/429/s2103/2/A], which directed substitution of “Unless a request for accelerated disposition is filed under [section 1515(b) of this title][/us/usc/t19/s1515/b], a protest may be amended,” for “A protest may be amended,” in the sixth sentence, was executed by making the substitution in the fifth sentence, to reflect the probable intent of Congress.
+    Subsec. (c)(1). [Pub. L. 108–429][/us/pl/108/429], § 2103(2)(A), which directed substitution of “Unless a request for accelerated disposition is filed under [section 1515(b) of this title][/us/usc/t19/s1515/b], a protest may be amended,” for “A protest may be amended,” in the sixth sentence, was executed by making the substitution in the fifth sentence, to reflect the probable intent of Congress.
 
-    Subsec. (c)(3). [Pub. L. 108–429, § 2103(2)(B)(i)][/us/pl/108/429/s2103/2/B/i], (iii), substituted “180 days” for “ninety days” in introductory provisions and “180 days” for “90 days” in concluding provisions.
+    Subsec. (c)(3). [Pub. L. 108–429][/us/pl/108/429], § 2103(2)(B)(i), (iii), substituted “180 days” for “ninety days” in introductory provisions and “180 days” for “90 days” in concluding provisions.
 
-    Subsec. (c)(3)(A). [Pub. L. 108–429, § 2103(2)(B)(ii)][/us/pl/108/429/s2103/2/B/ii], substituted “date of” for “notice of”.
+    Subsec. (c)(3)(A). [Pub. L. 108–429][/us/pl/108/429], § 2103(2)(B)(ii), substituted “date of” for “notice of”.
 
     2003—Subsec. (g). [Pub. L. 108–77][/us/pl/108/77], §§ 107(c), 205(b), temporarily added subsec. (g). See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -201,27 +201,27 @@
 
     1996—Subsec. (a). [Pub. L. 104–295][/us/pl/104/295] substituted “and [section 1520 of this title][/us/usc/t19/s1520] (relating to refunds and errors)” for “[section 1520 of this title][/us/usc/t19/s1520] (relating to refunds and errors), and [section 1521 of this title][/us/usc/t19/s1521] (relating to reliquidations on account of fraud)”.
 
-    1993—[Pub. L. 103–182, § 645(7)][/us/pl/103/182/s645/7], amended section catchline generally.
+    1993—[Pub. L. 103–182][/us/pl/103/182], § 645(7), amended section catchline generally.
 
-    Subsec. (a). [Pub. L. 103–182, § 645(1)][/us/pl/103/182/s645/1], in introductory provisions, substituted “Customs Service” for “appropriate customs officer”, in par. (5), inserted “or reconciliation as to the issues contained therein,” after “entry,”, in par. (6), substituted “or” for “and” at end, in par. (7), substituted a semicolon for the comma at end, and in concluding provisions, substituted “Customs Service, which” for “appropriate customs officer, who”.
+    Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 645(1), in introductory provisions, substituted “Customs Service” for “appropriate customs officer”, in par. (5), inserted “or reconciliation as to the issues contained therein,” after “entry,”, in par. (6), substituted “or” for “and” at end, in par. (7), substituted a semicolon for the comma at end, and in concluding provisions, substituted “Customs Service, which” for “appropriate customs officer, who”.
 
-    Subsec. (b). [Pub. L. 103–182, § 645(2)][/us/pl/103/182/s645/2], substituted “Customs Service” for “appropriate customs officer”.
+    Subsec. (b). [Pub. L. 103–182][/us/pl/103/182], § 645(2), substituted “Customs Service” for “appropriate customs officer”.
 
-    [Pub. L. 103–182, § 412(a)][/us/pl/103/182/s412/a], inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement”.
+    [Pub. L. 103–182][/us/pl/103/182], § 412(a), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement”.
 
-    Subsec. (c)(1). [Pub. L. 103–182, § 208(1)][/us/pl/103/182/s208/1], inserted in fourth sentence “, or with respect to a determination of origin under [section 3332 of this title][/us/usc/t19/s3332],” after “with respect to any one category of merchandise”. See Construction of 1993 Amendment note below.
+    Subsec. (c)(1). [Pub. L. 103–182][/us/pl/103/182], § 208(1), inserted in fourth sentence “, or with respect to a determination of origin under [section 3332 of this title][/us/usc/t19/s3332],” after “with respect to any one category of merchandise”. See Construction of 1993 Amendment note below.
 
-    [Pub. L. 103–182, § 645(3)][/us/pl/103/182/s645/3], substituted first two sentences, including subpars. (A) to (D), for former first sentence which read as follows: “A protest of a decision under subsection (a) of this section shall be filed in writing with the appropriate customs officer designated in regulations prescribed by the Secretary, setting forth distinctly and specifically each decision described in subsection (a) of this section as to which protest is made; each category of merchandise affected by each such decision as to which protest is made; and the nature of each objection and reasons therefor.” See Construction of 1993 Amendment note below.
+    [Pub. L. 103–182][/us/pl/103/182], § 645(3), substituted first two sentences, including subpars. (A) to (D), for former first sentence which read as follows: “A protest of a decision under subsection (a) of this section shall be filed in writing with the appropriate customs officer designated in regulations prescribed by the Secretary, setting forth distinctly and specifically each decision described in subsection (a) of this section as to which protest is made; each category of merchandise affected by each such decision as to which protest is made; and the nature of each objection and reasons therefor.” See Construction of 1993 Amendment note below.
 
-    Subsec. (c)(2). [Pub. L. 103–182, § 208(2)][/us/pl/103/182/s208/2], added subpar. (E) and redesignated former subpar. (E) as (F) and substituted “clauses (A) through (E)” for “clauses (A) through (D)”. See Construction of 1993 Amendment note below.
+    Subsec. (c)(2). [Pub. L. 103–182][/us/pl/103/182], § 208(2), added subpar. (E) and redesignated former subpar. (E) as (F) and substituted “clauses (A) through (E)” for “clauses (A) through (D)”. See Construction of 1993 Amendment note below.
 
-    [Pub. L. 103–182, § 645(5)][/us/pl/103/182/s645/5], designated last sentence of par. (1) as par. (2). Former par. (2) redesignated (3). See Construction of 1993 Amendment note below.
+    [Pub. L. 103–182][/us/pl/103/182], § 645(5), designated last sentence of par. (1) as par. (2). Former par. (2) redesignated (3). See Construction of 1993 Amendment note below.
 
-    Subsec. (c)(3). [Pub. L. 103–182, § 645(4)][/us/pl/103/182/s645/4], redesignated par. (2) as (3) and substituted “the Customs Service” for “such customs officer” in introductory provisions.
+    Subsec. (c)(3). [Pub. L. 103–182][/us/pl/103/182], § 645(4), redesignated par. (2) as (3) and substituted “the Customs Service” for “such customs officer” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 103–182, § 645(6)][/us/pl/103/182/s645/6], substituted “Customs Service” for “customs officer”.
+    Subsec. (d). [Pub. L. 103–182][/us/pl/103/182], § 645(6), substituted “Customs Service” for “customs officer”.
 
-    Subsecs. (e), (f). [Pub. L. 103–182, § 208(3)][/us/pl/103/182/s208/3], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 103–182][/us/pl/103/182], § 208(3), added subsecs. (e) and (f).
 
     1988—Subsec. (b). [Pub. L. 100–449][/us/pl/100/449] temporarily inserted “, or review by a binational panel of a determination to which [section 1516a(g)(2) of this title][/us/usc/t19/s1516a/g/2] applies is commenced pursuant to [section 1516a(g) of this title][/us/usc/t19/s1516a/g] and article 1904 of the United States-Canada Free-Trade Agreement” before period at end. See Effective and Termination Dates of 1988 Amendment note below.
 
@@ -231,17 +231,17 @@
 
     1980—Subsec. (a). [Pub. L. 96–417][/us/pl/96/417], §§ 601(5), 605, redesignated the United States Customs Court as the United States Court of International Trade, inserted in item (4) provision for decisions as to a demand for redelivery to customs custody and the phrase “, except a determination appealable under [section 1337 of this title][/us/usc/t19/s1337]” and substituted provision for contesting denial of a protest in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title for provision for such contest in accordance with [section 2632 of title 28][/us/usc/t28/s2632] within the time prescribed by section 2631 of that title.
 
-    Subsec. (b). [Pub. L. 96–417, § 601(5)][/us/pl/96/417/s601/5], redesignated the United States Customs Court as the United States Court of International Trade.
+    Subsec. (b). [Pub. L. 96–417][/us/pl/96/417], § 601(5), redesignated the United States Customs Court as the United States Court of International Trade.
 
-    1979—Subsec. (a). [Pub. L. 96–39, § 1001(b)(3)(A)][/us/pl/96/39/s1001/b/3/A], (B), inserted reference to subsection (b) of this section and substituted “[section 1516 of this title][/us/usc/t19/s1516] (relating to petitions by domestic interested parties as defined in section 1677(9)(C), (D), and (E) of this title)” for “[section 1516 of this title][/us/usc/t19/s1516] (relating to petitions by American manufacturers, producers, and wholesalers)” in provisions preceding par. (1).
+    1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39], § 1001(b)(3)(A), (B), inserted reference to subsection (b) of this section and substituted “[section 1516 of this title][/us/usc/t19/s1516] (relating to petitions by domestic interested parties as defined in section 1677(9)(C), (D), and (E) of this title)” for “[section 1516 of this title][/us/usc/t19/s1516] (relating to petitions by American manufacturers, producers, and wholesalers)” in provisions preceding par. (1).
 
-    Subsec. (b). [Pub. L. 96–39, § 1001(b)(3)(D)][/us/pl/96/39/s1001/b/3/D], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 96–39][/us/pl/96/39], § 1001(b)(3)(D), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c)(1). [Pub. L. 96–39, § 1001(b)(3)(C)][/us/pl/96/39/s1001/b/3/C], (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in [section 1557(b) of this title][/us/usc/t19/s1557/b], protests could be filed only by importers, consignees, or the authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
+    Subsec. (c)(1). [Pub. L. 96–39][/us/pl/96/39], § 1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in [section 1557(b) of this title][/us/usc/t19/s1557/b], protests could be filed only by importers, consignees, or the authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
 
-    Subsec. (c)(2). [Pub. L. 96–39, § 1001(b)(3)(C)][/us/pl/96/39/s1001/b/3/C], (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety’s protest shall certify that it is not being filed collusively to extend another authorized person’s time to protest as specified in this subsection.
+    Subsec. (c)(2). [Pub. L. 96–39][/us/pl/96/39], § 1001(b)(3)(C), (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety’s protest shall certify that it is not being filed collusively to extend another authorized person’s time to protest as specified in this subsection.
 
-    Subsec. (d). [Pub. L. 96–39, § 1001(b)(3)(C)][/us/pl/96/39/s1001/b/3/C], redesignated former subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 96–39][/us/pl/96/39], § 1001(b)(3)(C), redesignated former subsec. (c) as (d).
 
     1970—[Pub. L. 91–271][/us/pl/91/271] designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
 
@@ -257,7 +257,7 @@
 
     Except as otherwise provided, amendment by [Pub. L. 111–3][/us/pl/111/3] effective Apr. 1, 2009, see [section 3 of Pub. L. 111–3][/us/pl/111/3/s3], set out as an Effective Date note under [section 1396 of Title 42][/us/usc/t42/s1396], The Public Health and Welfare.
 
-[Pub. L. 111–3, title VII, § 702(c)(2)][/us/pl/111/3/s702/c/2], Feb. 4, 2009, [123 Stat. 110][/us/stat/123/110], provided that: 
+[Pub. L. 111–3, title VII][/us/pl/111/3/tVII], § 702(c)(2), Feb. 4, 2009, [123 Stat. 110][/us/stat/123/110], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to articles imported after the date of the enactment of this Act \[Feb. 4, 2009\].”
 
@@ -283,7 +283,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–36, title II, § 2408(c)][/us/pl/106/36/s2408/c], June 25, 1999, [113 Stat. 171][/us/stat/113/171], provided that: 
+[Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2408(c), June 25, 1999, [113 Stat. 171][/us/stat/113/171], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1520 of this title][/us/usc/t19/s1520]\] apply with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[June 25, 1999\].”
 
@@ -329,7 +329,7 @@
 
  __Inconsistent Decisions of Customs Officers__ 
 
-[Pub. L. 100–690, title VII, § 7361(c)][/us/pl/100/690/s7361/c], Nov. 18, 1988, [102 Stat. 4474][/us/stat/102/4474], provided that:
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7361(c), Nov. 18, 1988, [102 Stat. 4474][/us/stat/102/4474], provided that:
 
 >     “(1)
 
@@ -385,41 +385,41 @@
 [/us/usc/t19/s4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4033
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F734
-[/us/pl/91/271/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs207
+[/us/pl/91/271/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtII
 [/us/stat/84/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F284
-[/us/pl/96/39/s1001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F3
+[/us/pl/96/39/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtX
 [/us/stat/93/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F305
-[/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1744
-[/us/pl/98/573/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs612%2Fb%2F1
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3034
-[/us/pl/99/514/s1888/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1888%2F4
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2924
-[/us/pl/100/449/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs403%2Fb
+[/us/pl/100/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIV
 [/us/stat/102/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1884
-[/us/pl/103/182/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs208
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2097
-[/us/pl/104/295/s21/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F7
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3531
-[/us/pl/106/36/s2408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2408%2Fb
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F171
-[/us/pl/108/77/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs205%2Fb
+[/us/pl/108/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2FtII
 [/us/stat/117/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F931
-[/us/pl/108/429/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2103
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2597
-[/us/pl/109/53/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs206%2Fb
+[/us/pl/109/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtII
 [/us/stat/119/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F484
-[/us/pl/109/280/s1635/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1635%2Ff%2F7
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1171
-[/us/pl/110/138/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138%2Fs205%2Fb
+[/us/pl/110/138/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138%2FtII
 [/us/stat/121/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1476
-[/us/pl/111/3/s702/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs702%2Fc%2F1
+[/us/pl/111/3/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVII
 [/us/stat/123/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F110
-[/us/pl/112/41/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs204%2Fb
+[/us/pl/112/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2FtII
 [/us/stat/125/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F448
-[/us/pl/112/42/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2Fs205%2Fb
+[/us/pl/112/42/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2FtII
 [/us/stat/125/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F484
-[/us/pl/112/43/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs205%2Fb
+[/us/pl/112/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2FtII
 [/us/stat/125/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F519
 [/us/pl/112/43/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs107%2Fc
 [/us/pl/112/42/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2Fs107%2Fc
@@ -442,17 +442,17 @@
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
 [/us/usc/t19/s579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs579
 [/us/usc/t28/s784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs784
-[/us/act/1948-06-25/ch464/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch464%2Fs1
+[/us/act/1948-06-25/ch464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch464
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F969
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F187
-[/us/act/1890-06-10/ch407/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs14
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F137
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F100
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/stat/26/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F141
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
@@ -465,33 +465,33 @@
 [/us/pl/110/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
-[/us/pl/108/429/s2103/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2103%2F1%2FA
-[/us/pl/108/429/s2103/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2103%2F1%2FB
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500
 [/us/usc/t19/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1504
-[/us/pl/108/429/s2103/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2103%2F1%2FC
-[/us/pl/108/429/s2103/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2103%2F2%2FA
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/usc/t19/s1515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1515%2Fb
-[/us/pl/108/429/s2103/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2103%2F2%2FB%2Fi
-[/us/pl/108/429/s2103/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2103%2F2%2FB%2Fii
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/usc/t19/s1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520
 [/us/usc/t19/s1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520
 [/us/usc/t19/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1521
-[/us/pl/103/182/s645/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs645%2F7
-[/us/pl/103/182/s645/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs645%2F1
-[/us/pl/103/182/s645/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs645%2F2
-[/us/pl/103/182/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fa
-[/us/pl/103/182/s208/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs208%2F1
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3332
-[/us/pl/103/182/s645/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs645%2F3
-[/us/pl/103/182/s208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs208%2F2
-[/us/pl/103/182/s645/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs645%2F5
-[/us/pl/103/182/s645/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs645%2F4
-[/us/pl/103/182/s645/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs645%2F6
-[/us/pl/103/182/s208/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs208%2F3
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t19/s1516a/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Fg%2F2
 [/us/usc/t19/s1516a/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Fg
@@ -500,15 +500,15 @@
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/usc/t28/s2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2632
-[/us/pl/96/417/s601/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs601%2F5
-[/us/pl/96/39/s1001/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F3%2FA
+[/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516
 [/us/usc/t19/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516
-[/us/pl/96/39/s1001/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F3%2FD
-[/us/pl/96/39/s1001/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F3%2FC
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s1557/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1557%2Fb
-[/us/pl/96/39/s1001/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F3%2FC
-[/us/pl/96/39/s1001/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F3%2FC
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43
 [/us/pl/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43
@@ -522,7 +522,7 @@
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/111/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs3
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/111/3/s702/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs702%2Fc%2F2
+[/us/pl/111/3/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVII
 [/us/stat/123/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F110
 [/us/pl/110/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138
 [/us/pl/110/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138
@@ -539,7 +539,7 @@
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
-[/us/pl/106/36/s2408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2408%2Fc
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F171
 [/us/usc/t19/s1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520
 [/us/pl/103/182/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs208
@@ -574,7 +574,7 @@
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t19/s3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3451
-[/us/pl/100/690/s7361/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7361%2Fc
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4474
 [/us/usc/t19/s1514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514%2Fa
 [/us/usc/t19/s1514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514%2Fc%2F1

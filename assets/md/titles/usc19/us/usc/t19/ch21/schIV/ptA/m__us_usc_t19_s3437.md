@@ -87,7 +87,7 @@
 
         Nothing in this section may be construed to alter in any manner the requirements in effect before December 8, 1993, for standing under any law of the United States or to add any additional requirements for standing under any law of the United States.
 
-([Pub. L. 103–182, title IV, § 407][/us/pl/103/182/s407], Dec. 8, 1993, [107 Stat. 2138][/us/stat/107/2138]; [Pub. L. 104–295, § 21(c)(2)][/us/pl/104/295/s21/c/2], Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
+([Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 407, Dec. 8, 1993, [107 Stat. 2138][/us/stat/107/2138]; [Pub. L. 104–295][/us/pl/104/295], § 21(c)(2), Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530].)
 
  __References in Text__ 
 
@@ -118,9 +118,9 @@
 [/us/usc/t19/s2411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411%2Fa
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
-[/us/pl/103/182/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs407
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2138
-[/us/pl/104/295/s21/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fc%2F2
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3530
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590

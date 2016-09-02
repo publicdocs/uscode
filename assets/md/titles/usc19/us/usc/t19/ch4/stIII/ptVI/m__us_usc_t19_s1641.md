@@ -21,7 +21,7 @@
 
         (1) The term “customs broker” means any person granted a customs broker’s license by the Secretary under subsection (b).
 
-        (2) The term “customs business” means those activities involving transactions with the Customs Service concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by the Customs Service upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
+        (2) The term “customs business” means those activities involving transactions with U.S. Customs and Border Protection concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by U.S. Customs and Border Protection upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with U.S. Customs and Border Protection in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
 
         (3) The term “Secretary” means the Secretary of the Treasury.
 
@@ -85,7 +85,7 @@
 
         The Secretary may impose a monetary penalty in all cases with the exception of the infractions described in clause (iii) of subparagraph (B) of this subsection, or revoke or suspend a license or permit of any customs broker, if it is shown that the broker—
 
-            (A) has made or caused to be made in any application for any license or permit under this section, or report filed with the Customs Service, any statement which was, at the time and in light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein;
+            (A) has made or caused to be made in any application for any license or permit under this section, or report filed with U.S. Customs and Border Protection, any statement which was, at the time and in light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein;
 
             (B)
 
@@ -97,13 +97,15 @@
 
                 (iii) involved larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds;
 
-            (C) has violated any provision of any law enforced by the Customs Service or the rules or regulations issued under any such provision;
+            (C) has violated any provision of any law enforced by U.S. Customs and Border Protection or the rules or regulations issued under any such provision;
 
-            (D) has counseled, commanded, induced, procured, or knowingly aided or abetted the violations by any other person of any provision of any law enforced by the Customs Service, or the rules or regulations issued under any such provision;
+            (D) has counseled, commanded, induced, procured, or knowingly aided or abetted the violations by any other person of any provision of any law enforced by U.S. Customs and Border Protection, or the rules or regulations issued under any such provision;
 
-            (E) has knowingly employed, or continues to employ, any person who has been convicted of a felony, without written approval of such employment from the Secretary; or
+            (E) has knowingly employed, or continues to employ, any person who has been convicted of a felony, without written approval of such employment from the Secretary;
 
-            (F) has, in the course of its customs business, with intent to defraud, in any manner willfully and knowingly deceived, misled or threatened any client or prospective client.
+            (F) has, in the course of its customs business, with intent to defraud, in any manner willfully and knowingly deceived, misled or threatened any client or prospective client; or
+
+            (G) has been convicted of committing or conspiring to commit an act of terrorism described in [section 2332b of title 18][/us/usc/t18/s2332b].
 
         (2) __Procedures__ 
 
@@ -113,7 +115,7 @@
 
             (B) __Revocation or suspension__ 
 
-                The Customs Service may, for good and sufficient reason, serve notice in writing upon any customs broker to show cause why a license or permit issued under this section should not be revoked or suspended. The notice shall be in the form of a statement specifically setting forth the grounds of the complaint, and shall allow the customs broker 30 days to respond. If no response is filed, or the Customs Service determines that the revocation or suspension is still warranted, it shall notify the customs broker in writing of a hearing to be held within 30 days, or at a later date if the broker requests an extension and shows good cause therefor, before an administrative law judge appointed pursuant to [section 3105 of title 5][/us/usc/t5/s3105] who shall serve as the hearing officer. If the customs broker waives the hearing, or the broker or his designated representative fails to appear at the appointed time and place, the hearing officer shall make findings and recommendations based on the record submitted by the parties. At the hearing, the customs broker may be represented by counsel, and all proceedings, including the proof of the charges and the response thereto shall be presented with testimony taken under oath and the right of cross-examination accorded to both parties. A transcript of the hearing shall be made and a copy will be provided to the Customs Service and the customs broker; which shall thereafter be provided reasonable opportunity to file a post-hearing brief. Following the conclusion of the hearing, the hearing officer shall transmit promptly the record of the hearing along with the findings of fact and recommendations to the Secretary for decision. The Secretary will issue a written decision, based solely on the record, setting forth the findings of fact and the reasons for the decision. Such decision may provide for the sanction contained in the notice to show cause or any lesser sanction authorized by this subsection, including a monetary penalty not to exceed $30,000, than was contained in the notice to show cause.
+                U.S. Customs and Border Protection may, for good and sufficient reason, serve notice in writing upon any customs broker to show cause why a license or permit issued under this section should not be revoked or suspended. The notice shall be in the form of a statement specifically setting forth the grounds of the complaint, and shall allow the customs broker 30 days to respond. If no response is filed, or U.S. Customs and Border Protection determines that the revocation or suspension is still warranted, it shall notify the customs broker in writing of a hearing to be held within 30 days, or at a later date if the broker requests an extension and shows good cause therefor, before an administrative law judge appointed pursuant to [section 3105 of title 5][/us/usc/t5/s3105] who shall serve as the hearing officer. If the customs broker waives the hearing, or the broker or his designated representative fails to appear at the appointed time and place, the hearing officer shall make findings and recommendations based on the record submitted by the parties. At the hearing, the customs broker may be represented by counsel, and all proceedings, including the proof of the charges and the response thereto shall be presented with testimony taken under oath and the right of cross-examination accorded to both parties. A transcript of the hearing shall be made and a copy will be provided to U.S. Customs and Border Protection and the customs broker; which shall thereafter be provided reasonable opportunity to file a post-hearing brief. Following the conclusion of the hearing, the hearing officer shall transmit promptly the record of the hearing along with the findings of fact and recommendations to the Secretary for decision. The Secretary will issue a written decision, based solely on the record, setting forth the findings of fact and the reasons for the decision. Such decision may provide for the sanction contained in the notice to show cause or any lesser sanction authorized by this subsection, including a monetary penalty not to exceed $30,000, than was contained in the notice to show cause.
 
         (3) __Settlement and compromise__ 
 
@@ -147,11 +149,11 @@
 
         (6) __Failure to appeal__ 
 
-            If an appeal is not filed within the time limits specified in this section, the decision by the Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to the Customs Service.
+            If an appeal is not filed within the time limits specified in this section, the decision by the Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to U.S. Customs and Border Protection.
 
     (f) __Regulations by the Secretary__ 
 
-        The Secretary may prescribe such rules and regulations relating to the customs business of customs brokers as the Secretary considers necessary to protect importers and the revenue of the United States, and to carry out the provisions of this section, including rules and regulations governing the licensing of or issuance of permits to customs brokers, the keeping of books, accounts, and records by customs brokers, and documents and correspondence, and the furnishing by customs brokers of any other information relating to their customs business to any duly accredited officer or employee of the Customs Service. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this chapter pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker’s business system.
+        The Secretary may prescribe such rules and regulations relating to the customs business of customs brokers as the Secretary considers necessary to protect importers and the revenue of the United States, and to carry out the provisions of this section, including rules and regulations governing the licensing of or issuance of permits to customs brokers, the keeping of books, accounts, and records by customs brokers, and documents and correspondence, and the furnishing by customs brokers of any other information relating to their customs business to any duly accredited officer or employee of U.S. Customs and Border Protection. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this chapter pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker’s business system.
 
     (g) __Triennial reports by customs brokers__ 
 
@@ -169,43 +171,93 @@
 
             (A) The Secretary shall transmit written notice of suspension to the licensee no later than March 31 of the reporting year.
 
-            (B) If the licensee files the required report within 60 days of receipt of the Secretary’s notice, the license shall be reinstated.
+            (B) If the licensee files the required report within 60 days of receipt of the notice under subparagraph (A), the license shall be reinstated.
 
             (C) In the event the required report is not filed within the 60-day period, the license shall be revoked without prejudice to the filing of an application for a new license.
 
     (h) __Fees and charges__ 
 
-        The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
+        The Secretary may prescribe reasonable fees and charges to defray the costs of U.S. Customs and Border Protection in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 641, [46 Stat. 759][/us/stat/46/759]; [Aug. 26, 1935, ch. 689][/us/act/1935-08-26/ch689], §§ 3–5, [49 Stat. 864][/us/stat/49/864], 865; [Pub. L. 85–791, § 8][/us/pl/85/791/s8], Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 91–271, title III, § 301(jj)][/us/pl/91/271/s301/jj], June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 95–410, title I, § 113][/us/pl/95/410/s113], Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; [Pub. L. 96–417, title VI, § 611][/us/pl/96/417/s611], Oct. 10, 1980, [94 Stat. 1746][/us/stat/94/1746]; [Pub. L. 98–573, title II, § 212(a)][/us/pl/98/573/s212/a], Oct. 30, 1984, [98 Stat. 2978][/us/stat/98/2978]; [Pub. L. 99–514, title XVIII, § 1888(8)][/us/pl/99/514/s1888/8], Oct. 22, 1986, [100 Stat. 2925][/us/stat/100/2925]; [Pub. L. 103–182, title VI, § 648][/us/pl/103/182/s648], Dec. 8, 1993, [107 Stat. 2207][/us/stat/107/2207]; [Pub. L. 104–295, § 21(e)(11)][/us/pl/104/295/s21/e/11], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531]; [Pub. L. 105–258, title III, § 302(b)][/us/pl/105/258/s302/b], Oct. 14, 1998, [112 Stat. 1916][/us/stat/112/1916].)
+    (i) __Identification of importers__ 
+
+        (1) __In general__ 
+
+            The Secretary shall prescribe regulations setting forth the minimum standards for customs brokers and importers, including nonresident importers, regarding the identity of the importer that shall apply in connection with the importation of merchandise into the United States.
+
+        (2) __Minimum requirements__ 
+
+        The regulations required under paragraph (1) shall, at a minimum—
+
+            (A) identify the information that an importer, including a nonresident importer, is required to submit to a broker and that a broker is required to collect in order to verify the identity of the importer;
+
+            (B) identify reasonable procedures that a broker is required to follow in order to verify the authenticity of information collected from an importer; and
+
+            (C) require a broker to maintain records of the information collected by the broker to verify the identity of an importer.
+
+        (3) __Penalties__ 
+
+            Any customs broker who fails to collect information required under the regulations prescribed under this subsection shall be liable to the United States, at the discretion of the Secretary, for a monetary penalty not to exceed $10,000 for each violation of those regulations and shall be subject to revocation or suspension of a license or permit of the customs broker pursuant to the procedures set forth in subsection (d). This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A).
+
+        (4) __Definitions__ 
+
+        In this subsection:
+
+            (A) __Importer__ 
+
+                The term “importer” means one of the parties qualifying as an importer of record under [section 1484(a)(2)(B) of this title][/us/usc/t19/s1484/a/2/B].
+
+            (B) __Nonresident importer__ 
+
+            The term “nonresident importer” means an importer who is—
+
+                (i) an individual who is not a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; or
+
+                (ii) a partnership, corporation, or other commercial entity that is not organized under the laws of a jurisdiction within the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule of the United States) or in the Virgin Islands of the United States.
+
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 641, [46 Stat. 759][/us/stat/46/759]; [Aug. 26, 1935, ch. 689][/us/act/1935-08-26/ch689], §§ 3–5, [49 Stat. 864][/us/stat/49/864], 865; [Pub. L. 85–791][/us/pl/85/791], § 8, Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(jj), June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 113, Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 611, Oct. 10, 1980, [94 Stat. 1746][/us/stat/94/1746]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 212(a), Oct. 30, 1984, [98 Stat. 2978][/us/stat/98/2978]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1888(8), Oct. 22, 1986, [100 Stat. 2925][/us/stat/100/2925]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 648, Dec. 8, 1993, [107 Stat. 2207][/us/stat/107/2207]; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(11), Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531]; [Pub. L. 105–258, title III][/us/pl/105/258/tIII], § 302(b), Oct. 14, 1998, [112 Stat. 1916][/us/stat/112/1916]; [Pub. L. 114–125, title I][/us/pl/114/125/tI], § 116(a), title IX, § 903, Feb. 24, 2016, [130 Stat. 144][/us/stat/130/144], 223.)
+
+ __References in Text__ 
+
+    The Harmonized Tariff Schedule of the United States, referred to in subsec. (i)(4)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
  __Prior Provisions__ 
 
     This section relates to the same subject matter as [act June 10, 1910, ch. 283][/us/act/1910-06-10/ch283], §§ 1–5, [36 Stat. 464][/us/stat/36/464], 465 (incorporated into the Code as former sections 415 to 419 of this title); and those sections were expressly repealed by paragraph (e) of this section which read as follows: “(e) Licenses under Act of June 10, 1910.—The Act entitled ‘An Act to license customhouse brokers,’ approved June 10, 1910, is hereby repealed, except that any license issued under such Act shall continue in force and effect, subject to suspension and revocation in the same manner and upon the same conditions as licenses issued pursuant to subdivision (a) of this section.”
 
-    [Act June 10, 1910, ch. 283, § 1][/us/act/1910-06-10/ch283/s1], [36 Stat. 464][/us/stat/36/464], prior to its incorporation into the Code, referred to the collector or chief officer of the customs “at any port of entry or delivery.” Ports of delivery, not specifically mentioned as ports of entry, were abolished in the reorganization of the customs service by the President (see notes to [section 1 of this title][/us/usc/t19/s1]).
+    [Act June 10, 1910, ch. 283][/us/act/1910-06-10/ch283], § 1, [36 Stat. 464][/us/stat/36/464], prior to its incorporation into the Code, referred to the collector or chief officer of the customs “at any port of entry or delivery.” Ports of delivery, not specifically mentioned as ports of entry, were abolished in the reorganization of the customs service by the President (see notes to [section 1 of this title][/us/usc/t19/s1]).
 
-    [Act June 10, 1910, ch. 283, § 3][/us/act/1910-06-10/ch283/s3], [36 Stat. 465][/us/stat/36/465], prior to its incorporation into the Code, referred to the United States Circuit Court instead of the District Court. [Section 291 of the act of Mar. 3, 1911][/us/act/1911-03-03/s291], provided that any reference, in any law not embraced in that act, to the Circuit Courts, or any power or duty conferred upon them, should be deemed to refer to, and to confer such power and duty upon, the District Courts.
+    [Act June 10, 1910, ch. 283][/us/act/1910-06-10/ch283], § 3, [36 Stat. 465][/us/stat/36/465], prior to its incorporation into the Code, referred to the United States Circuit Court instead of the District Court. [Section 291 of the act of Mar. 3, 1911][/us/act/1911-03-03/s291], provided that any reference, in any law not embraced in that act, to the Circuit Courts, or any power or duty conferred upon them, should be deemed to refer to, and to confer such power and duty upon, the District Courts.
 
  __Amendments__ 
+
+    2016—[Pub. L. 114–125][/us/pl/114/125], § 903(b)(1), substituted “U.S. Customs and Border Protection” for “the Customs Service” wherever appearing.
+
+    Subsec. (d)(1)(G). [Pub. L. 114–125][/us/pl/114/125], § 903(a), added subpar. (G).
+
+    Subsec. (d)(2)(B). [Pub. L. 114–125][/us/pl/114/125], § 903(b)(2), substituted “U.S. Customs and Border Protection” for “The Customs Service”.
+
+    Subsec. (g)(2)(B). [Pub. L. 114–125][/us/pl/114/125], § 903(b)(3), substituted “notice under subparagraph (A)” for “Secretary’s notice”.
+
+    Subsec. (i). [Pub. L. 114–125][/us/pl/114/125], § 116(a), added subsec. (i).
 
     1998—Subsec. (i). [Pub. L. 105–258][/us/pl/105/258] struck out subsec. (i) which prohibited conference or group of two or more ocean common carriers from denying any member the right to take independent action on any level of compensation paid to an ocean freight forwarder who was also a customs broker, and from agreeing to limit payment to such a forwarder to less than 1.25 percent of aggregate of tariff rates and charges, and set out provisions relating to administration of provisions, remedies for violations, and definitions.
 
     1996—Subsec. (d)(2)(B). [Pub. L. 104–295][/us/pl/104/295] substituted “the findings of fact” for “his findings of fact” in penultimate sentence.
 
-    1993—Subsec. (a)(2). [Pub. L. 103–182, § 648(1)][/us/pl/103/182/s648/1], inserted at end “It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.”
+    1993—Subsec. (a)(2). [Pub. L. 103–182][/us/pl/103/182], § 648(1), inserted at end “It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.”
 
-    Subsec. (c)(1). [Pub. L. 103–182, § 648(2)][/us/pl/103/182/s648/2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each person granted a customs broker’s license under subsection (b) of this section shall—
+    Subsec. (c)(1). [Pub. L. 103–182][/us/pl/103/182], § 648(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each person granted a customs broker’s license under subsection (b) of this section shall—
 
     “(A) be issued a permit, in accordance with regulations prescribed under this section, for each customs district in which that person conducts customs business; and
 
     “(B) except as provided in paragraph (2), regularly employ in each customs district for which a permit is so issued at least one individual who is licensed under subsection (b)(2) of this section to exercise responsible supervision and control over the customs business conducted by that person in that district.”
 
-    Subsec. (c)(4). [Pub. L. 103–182, § 648(3)][/us/pl/103/182/s648/3], added par. (4).
+    Subsec. (c)(4). [Pub. L. 103–182][/us/pl/103/182], § 648(3), added par. (4).
 
-    Subsec. (d)(2)(B). [Pub. L. 103–182, § 648(4)][/us/pl/103/182/s648/4], in first sentence, substituted “Customs Service” for “appropriate customs officer”, in third sentence, substituted “Customs Service” for “appropriate customs officer”, “it shall notify” for “he shall notify”, and “30” for “15”, in sixth sentence, substituted “the Customs Service and the customs broker; which” for “the appropriate customs officer and the customs broker; they”, in the seventh sentence, substituted “the findings of fact” for “his findings of fact”, and in the eighth sentence, substituted “for the decision” for “for his decision”.
+    Subsec. (d)(2)(B). [Pub. L. 103–182][/us/pl/103/182], § 648(4), in first sentence, substituted “Customs Service” for “appropriate customs officer”, in third sentence, substituted “Customs Service” for “appropriate customs officer”, “it shall notify” for “he shall notify”, and “30” for “15”, in sixth sentence, substituted “the Customs Service and the customs broker; which” for “the appropriate customs officer and the customs broker; they”, in the seventh sentence, substituted “the findings of fact” for “his findings of fact”, and in the eighth sentence, substituted “for the decision” for “for his decision”.
 
-    Subsec. (f). [Pub. L. 103–182, § 648(5)][/us/pl/103/182/s648/5], substituted “Customs Service. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this Act pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker’s business system.” for “United States Customs Service.”
+    Subsec. (f). [Pub. L. 103–182][/us/pl/103/182], § 648(5), substituted “Customs Service. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this Act pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker’s business system.” for “United States Customs Service.”
 
     1986—Subsec. (i). [Pub. L. 99–514][/us/pl/99/514] added subsec. (i).
 
@@ -227,7 +279,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–258, § 2][/us/pl/105/258/s2], Oct. 14, 1998, [112 Stat. 1902][/us/stat/112/1902], provided that: 
+[Pub. L. 105–258][/us/pl/105/258], § 2, Oct. 14, 1998, [112 Stat. 1902][/us/stat/112/1902], provided that: 
 
 > “Except as otherwise expressly provided in this Act \[see Tables for classification\], this Act and the amendments made by this Act take effect May 1, 1999.”
 
@@ -260,48 +312,58 @@
 
 [/us/usc/t19/s1413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1413%2Fb%2F2
 [/us/usc/t19/s1411/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1411%2Fa%2F2%2FB
+[/us/usc/t18/s2332b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332b
 [/us/usc/t19/s1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1618
 [/us/usc/t19/s1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1618
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/usc/t19/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1621
 [/us/usc/t28/s2635/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2635%2Fd
+[/us/usc/t19/s1484/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484%2Fa%2F2%2FB
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F759
 [/us/act/1935-08-26/ch689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch689
 [/us/stat/49/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F864
-[/us/pl/85/791/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs8
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F945
-[/us/pl/91/271/s301/jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fjj
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F291
-[/us/pl/95/410/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs113
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F898
-[/us/pl/96/417/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs611
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1746
-[/us/pl/98/573/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fa
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2978
-[/us/pl/99/514/s1888/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1888%2F8
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2925
-[/us/pl/103/182/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs648
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2207
-[/us/pl/104/295/s21/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F11
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3531
-[/us/pl/105/258/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F258%2Fs302%2Fb
+[/us/pl/105/258/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F258%2FtIII
 [/us/stat/112/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1916
+[/us/pl/114/125/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtI
+[/us/stat/130/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F144
+[/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1910-06-10/ch283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-10%2Fch283
 [/us/stat/36/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F464
-[/us/act/1910-06-10/ch283/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-10%2Fch283%2Fs1
+[/us/act/1910-06-10/ch283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-10%2Fch283
 [/us/stat/36/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F464
 [/us/usc/t19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1
-[/us/act/1910-06-10/ch283/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-10%2Fch283%2Fs3
+[/us/act/1910-06-10/ch283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-10%2Fch283
 [/us/stat/36/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F465
 [/us/act/1911-03-03/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fs291
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/105/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F258
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/182/s648/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs648%2F1
-[/us/pl/103/182/s648/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs648%2F2
-[/us/pl/103/182/s648/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs648%2F3
-[/us/pl/103/182/s648/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs648%2F4
-[/us/pl/103/182/s648/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs648%2F5
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
@@ -309,7 +371,7 @@
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/pl/105/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F258%2Fs2
+[/us/pl/105/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F258
 [/us/stat/112/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1902
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/98/573/s214/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs214%2Fd

@@ -27,7 +27,7 @@
 
         For purposes of this section, “major industrial country” means Canada, the European Economic Community, the individual member countries of such Community, Japan, and any other foreign country designated by the President for purposes of this subsection.
 
-([Pub. L. 93–618, title I, § 126][/us/pl/93/618/s126], Jan. 3, 1975, [88 Stat. 1992][/us/stat/88/1992]; [Pub. L. 105–362, title XIV, § 1401(b)(1)][/us/pl/105/362/s1401/b/1], Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 126, Jan. 3, 1975, [88 Stat. 1992][/us/stat/88/1992]; [Pub. L. 105–362, title XIV][/us/pl/105/362/tXIV], § 1401(b)(1), Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/93/618/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs126
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1992
-[/us/pl/105/362/s1401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1401%2Fb%2F1
+[/us/pl/105/362/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIV
 [/us/stat/112/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3294
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

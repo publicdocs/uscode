@@ -159,29 +159,29 @@
 
         (2) the person by whom, or for whose account, the merchandise was imported knew, or should have known, that the exporter was selling the subject merchandise at less than its fair value,
 
-        the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under [section 1673d(a) of this title][/us/usc/t19/s1673d/a], the investigation is terminated, or the administering authority withdraws the request.
+        the administering authority may request the Commissioner of U.S. Customs and Border Protection to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of U.S. Customs and Border Protection shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under [section 1673d(a) of this title][/us/usc/t19/s1673d/a], the investigation is terminated, or the administering authority withdraws the request.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 732, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 162][/us/stat/93/162]; amended [Pub. L. 98–573, title VI, § 609][/us/pl/98/573/s609], Oct. 30, 1984, [98 Stat. 3030][/us/stat/98/3030]; [Pub. L. 99–514, title XVIII, § 1886(a)(2)][/us/pl/99/514/s1886/a/2], Oct. 22, 1986, [100 Stat. 2921][/us/stat/100/2921]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1324(b)(1), 1326(d)(1), Aug. 23, 1988, [102 Stat. 1200][/us/stat/102/1200], 1204; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), Dec. 8, 1994, [108 Stat. 4843][/us/stat/108/4843], 4845, 4900, 4901; [Pub. L. 104–295, § 20(b)(4)][/us/pl/104/295/s20/b/4], (8), (9), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 732, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 162][/us/stat/93/162]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 609, Oct. 30, 1984, [98 Stat. 3030][/us/stat/98/3030]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(2), Oct. 22, 1986, [100 Stat. 2921][/us/stat/100/2921]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1324(b)(1), 1326(d)(1), Aug. 23, 1988, [102 Stat. 1200][/us/stat/102/1200], 1204; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), Dec. 8, 1994, [108 Stat. 4843][/us/stat/108/4843], 4845, 4900, 4901; [Pub. L. 104–295][/us/pl/104/295], § 20(b)(4), (8), (9), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2)(B). [Pub. L. 104–295, § 20(b)(9)][/us/pl/104/295/s20/b/9], amended directory language of [Pub. L. 103–465, § 233(a)(6)(C)][/us/pl/103/465/s233/a/6/C]. See 1994 Amendment note below.
+    1996—Subsec. (a)(2)(B). [Pub. L. 104–295][/us/pl/104/295], § 20(b)(9), amended directory language of [Pub. L. 103–465][/us/pl/103/465], § 233(a)(6)(C). See 1994 Amendment note below.
 
-    Subsec. (c)(5). [Pub. L. 104–295, § 20(b)(4)][/us/pl/104/295/s20/b/4], substituted “(b)(1)” for “(b)(1)(A)”.
+    Subsec. (c)(5). [Pub. L. 104–295][/us/pl/104/295], § 20(b)(4), substituted “(b)(1)” for “(b)(1)(A)”.
 
-    Subsec. (e)(1). [Pub. L. 104–295, § 20(b)(8)][/us/pl/104/295/s20/b/8], substituted “the” for “the the” before “subject merchandise”.
+    Subsec. (e)(1). [Pub. L. 104–295][/us/pl/104/295], § 20(b)(8), substituted “the” for “the the” before “subject merchandise”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–465, § 233(a)(6)(A)(v)][/us/pl/103/465/s233/a/6/A/v], substituted “initiated” for “commenced”.
+    1994—Subsec. (a)(1). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(6)(A)(v), substituted “initiated” for “commenced”.
 
-    Subsec. (a)(2)(B). [Pub. L. 103–465, § 233(a)(6)(C)][/us/pl/103/465/s233/a/6/C], as amended by [Pub. L. 104–295, § 20(b)(9)][/us/pl/104/295/s20/b/9], substituted “initiate” for “commerce” in two places.
+    Subsec. (a)(2)(B). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(6)(C), as amended by [Pub. L. 104–295][/us/pl/104/295], § 20(b)(9), substituted “initiate” for “commerce” in two places.
 
-    Subsec. (a)(2)(D). [Pub. L. 103–465, § 233(a)(6)(A)(vi)][/us/pl/103/465/s233/a/6/A/vi], substituted “initiated” for “commenced”.
+    Subsec. (a)(2)(D). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(6)(A)(vi), substituted “initiated” for “commenced”.
 
-    Subsec. (b)(1). [Pub. L. 103–465, § 233(a)(6)(A)(vii)][/us/pl/103/465/s233/a/6/A/vii], substituted “initiated” for “commenced”.
+    Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(6)(A)(vii), substituted “initiated” for “commenced”.
 
-    Subsec. (b)(3). [Pub. L. 103–465, § 211(b)][/us/pl/103/465/s211/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 103–465][/us/pl/103/465], § 211(b), added par. (3).
 
-    Subsec. (c). [Pub. L. 103–465, § 212(a)(2)][/us/pl/103/465/s212/a/2], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Within 20 days after the date on which a petition is filed under subsection (b) of this section, the administering authority shall—
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 212(a)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Within 20 days after the date on which a petition is filed under subsection (b) of this section, the administering authority shall—
 
     “(1) determine whether the petition alleges the elements necessary for the imposition of a duty under [section 1673 of this title][/us/usc/t19/s1673] and contains information reasonably available to the petitioner supporting the allegations,
 
@@ -189,19 +189,23 @@
 
     “(3) if the determination is negative, dismiss the petition, terminate the proceeding, notify the petitioner in writing of the reasons for the determination, and provide for the publication of notice of the determination in the Federal Register.”
 
-    Subsec. (e). [Pub. L. 103–465, § 233(a)(5)(R)][/us/pl/103/465/s233/a/5/R], in concluding provisions, substituted “subject merchandise” for “class or kind of merchandise that is the subject of the investigation” in two places.
+    Subsec. (e). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(R), in concluding provisions, substituted “subject merchandise” for “class or kind of merchandise that is the subject of the investigation” in two places.
 
-    Subsec. (e)(1). [Pub. L. 103–465, § 233(a)(5)(P)][/us/pl/103/465/s233/a/5/P], substituted “the subject merchandise” for “class or kind of the merchandise which is the subject of the investigation”.
+    Subsec. (e)(1). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(P), substituted “the subject merchandise” for “class or kind of the merchandise which is the subject of the investigation”.
 
-    Subsec. (e)(2). [Pub. L. 103–465, § 233(a)(5)(Q)][/us/pl/103/465/s233/a/5/Q], substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
+    Subsec. (e)(2). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(Q), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–418, § 1326(d)(1)][/us/pl/100/418/s1326/d/1], substituted “(F), or (G)” for “or (F)”.
+    1988—Subsec. (b)(1). [Pub. L. 100–418][/us/pl/100/418], § 1326(d)(1), substituted “(F), or (G)” for “or (F)”.
 
-    Subsec. (e). [Pub. L. 100–418, § 1324(b)(1)][/us/pl/100/418/s1324/b/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1324(b)(1), added subsec. (e).
 
     1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514] inserted reference to subpar. (F) of [section 1677(9) of this title][/us/usc/t19/s1677/9].
 
     1984—Subsec. (a). [Pub. L. 98–573][/us/pl/98/573] designated existing provisions as par. (1) and added par. (2).
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in subsec. (e) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -240,38 +244,42 @@
 [/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
 [/us/usc/t19/s1673d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673d%2Fa
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F162
-[/us/pl/98/573/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs609
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3030
-[/us/pl/99/514/s1886/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2921
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1200
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4843
-[/us/pl/104/295/s20/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F4
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
-[/us/pl/104/295/s20/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F9
-[/us/pl/103/465/s233/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F6%2FC
-[/us/pl/104/295/s20/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F4
-[/us/pl/104/295/s20/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F8
-[/us/pl/103/465/s233/a/6/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F6%2FA%2Fv
-[/us/pl/103/465/s233/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F6%2FC
-[/us/pl/104/295/s20/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F9
-[/us/pl/103/465/s233/a/6/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F6%2FA%2Fvi
-[/us/pl/103/465/s233/a/6/A/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F6%2FA%2Fvii
-[/us/pl/103/465/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs211%2Fb
-[/us/pl/103/465/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs212%2Fa%2F2
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673
-[/us/pl/103/465/s233/a/5/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FR
-[/us/pl/103/465/s233/a/5/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FP
-[/us/pl/103/465/s233/a/5/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FQ
-[/us/pl/100/418/s1326/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1326%2Fd%2F1
-[/us/pl/100/418/s1324/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1324%2Fb%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

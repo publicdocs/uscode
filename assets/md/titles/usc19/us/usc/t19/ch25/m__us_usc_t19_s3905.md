@@ -27,7 +27,7 @@
 
         The President shall publish in the Federal Register a list of all Participants, and all exporting authorities and importing authorities of Participants. The President shall update the list as necessary.
 
-([Pub. L. 108–19, § 6][/us/pl/108/19/s6], Apr. 25, 2003, [117 Stat. 634][/us/stat/117/634].)
+([Pub. L. 108–19][/us/pl/108/19], § 6, Apr. 25, 2003, [117 Stat. 634][/us/stat/117/634].)
 
  __Delegation of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs6
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F634
 [/us/usc/t19/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3901
 

@@ -17,7 +17,7 @@
 
     No article of cultural property documented as appertaining to the inventory of a museum or religious or secular public monument or similar institution in any State Party which is stolen from such institution after the effective date of this chapter, or after the date of entry into force of the Convention for the State Party, whichever date is later, may be imported into the United States.
 
-([Pub. L. 97–446, title III, § 308][/us/pl/97/446/s308], Jan. 12, 1983, [96 Stat. 2360][/us/stat/96/2360].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 308, Jan. 12, 1983, [96 Stat. 2360][/us/stat/96/2360].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/446/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs308
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2360
 [/us/pl/97/446/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs315
 [/us/usc/t19/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2601

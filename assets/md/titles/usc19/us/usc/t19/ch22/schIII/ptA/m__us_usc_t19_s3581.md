@@ -33,11 +33,11 @@
 
     (5) to take an active role in the World Intellectual Property Organization (WIPO) to develop a cooperative and mutually supportive relationship between the World Trade Organization and WIPO.
 
-([Pub. L. 103–465, title III, § 315][/us/pl/103/465/s315], Dec. 8, 1994, [108 Stat. 4942][/us/stat/108/4942].)
+([Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 315, Dec. 8, 1994, [108 Stat. 4942][/us/stat/108/4942].)
 
  __Effective Date__ 
 
-[Pub. L. 103–465, title III, § 316][/us/pl/103/465/s316], Dec. 8, 1994, [108 Stat. 4943][/us/stat/108/4943], provided that:
+[Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 316, Dec. 8, 1994, [108 Stat. 4943][/us/stat/108/4943], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
-[/us/pl/103/465/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs315
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4942
-[/us/pl/103/465/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs316
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4943
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2420

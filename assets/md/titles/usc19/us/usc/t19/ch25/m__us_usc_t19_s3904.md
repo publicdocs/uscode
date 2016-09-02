@@ -27,7 +27,7 @@
 
         The President shall require the appropriate Government agency to conduct annual reviews of the standards, practices, and procedures of any entity in the United States that issues Kimberley Process Certificates for the exportation from the United States of rough diamonds to determine whether such standards, practices, and procedures are in accordance with the Kimberley Process Certification Scheme. The President shall transmit to the appropriate congressional committees a report on each annual review under this subsection.
 
-([Pub. L. 108–19, § 5][/us/pl/108/19/s5], Apr. 25, 2003, [117 Stat. 634][/us/stat/117/634].)
+([Pub. L. 108–19][/us/pl/108/19], § 5, Apr. 25, 2003, [117 Stat. 634][/us/stat/117/634].)
 
  __Delegation of Functions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t19/s3903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3903%2Fa
-[/us/pl/108/19/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs5
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F634
 [/us/usc/t19/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3901
 

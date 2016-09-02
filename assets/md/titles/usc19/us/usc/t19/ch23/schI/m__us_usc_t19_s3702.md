@@ -37,7 +37,7 @@
 
     (10) promoting the role of women in social, political, and economic development in sub-Saharan Africa.
 
-([Pub. L. 106–200, title I, § 103][/us/pl/106/200/s103], May 18, 2000, [114 Stat. 253][/us/stat/114/253]; [Pub. L. 114–27, title I, § 106(a)][/us/pl/114/27/s106/a], June 29, 2015, [129 Stat. 368][/us/stat/129/368].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 103, May 18, 2000, [114 Stat. 253][/us/stat/114/253]; [Pub. L. 114–27, title I][/us/pl/114/27/tI], § 106(a), June 29, 2015, [129 Stat. 368][/us/stat/129/368].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/106/200/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs103
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F253
-[/us/pl/114/27/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs106%2Fa
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F368
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 

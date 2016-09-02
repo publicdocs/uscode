@@ -107,7 +107,7 @@
 
                 The term “total actual profit” means the total profit earned by the foreign producer, exporter, and affiliated parties described in subparagraph (C) with respect to the sale of the same merchandise for which total expenses are determined under such subparagraph.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 772, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 181][/us/stat/93/181]; amended [Pub. L. 98–573, title VI, § 614][/us/pl/98/573/s614], Oct. 30, 1984, [98 Stat. 3036][/us/stat/98/3036]; [Pub. L. 103–465, title II, § 223][/us/pl/103/465/s223], Dec. 8, 1994, [108 Stat. 4876][/us/stat/108/4876].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 772, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 181][/us/stat/93/181]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 614, Oct. 30, 1984, [98 Stat. 3036][/us/stat/98/3036]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 223, Dec. 8, 1994, [108 Stat. 4876][/us/stat/108/4876].)
 
  __Amendments__ 
 
@@ -132,11 +132,11 @@
 
 [/us/usc/t19/s1677/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F6%2FC
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F181
-[/us/pl/98/573/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs614
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3036
-[/us/pl/103/465/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs223
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4876
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573

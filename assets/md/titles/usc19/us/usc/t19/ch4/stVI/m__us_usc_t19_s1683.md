@@ -119,7 +119,7 @@
 
         The term “United States” means the customs territory of the United States, as defined in General Note 2 of the HTS.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 802, as added [Pub. L. 110–246, title III, § 3301(a)][/us/pl/110/246/s3301/a], June 18, 2008, [122 Stat. 1844][/us/stat/122/1844].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 802, as added [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3301(a), June 18, 2008, [122 Stat. 1844][/us/stat/122/1844].)
 
  __References in Text__ 
 
@@ -131,7 +131,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–246, title III, § 3301(b)][/us/pl/110/246/s3301/b], June 18, 2008, [122 Stat. 1853][/us/stat/122/1853], provided that: 
+[Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3301(b), June 18, 2008, [122 Stat. 1853][/us/stat/122/1853], provided that: 
 
 > “The amendments made by this section \[enacting this subtitle\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[June 18, 2008\].”
 
@@ -146,11 +146,11 @@
 [/us/usc/t26/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs152%2Fa
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1844
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1681a
-[/us/pl/110/246/s3301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fb
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1853
 
 

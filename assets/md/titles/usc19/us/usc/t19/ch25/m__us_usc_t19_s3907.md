@@ -31,7 +31,7 @@
 
         The United States Bureau of Customs and Border Protection and the United States Bureau of Immigration and Customs Enforcement are authorized, as appropriate, to enforce the provisions of subsection (a) and to enforce the laws and regulations governing exports of rough diamonds, including with respect to the validation of the Kimberley Process Certificate by the exporting authority.
 
-([Pub. L. 108–19, § 8][/us/pl/108/19/s8], Apr. 25, 2003, [117 Stat. 634][/us/stat/117/634].)
+([Pub. L. 108–19][/us/pl/108/19], § 8, Apr. 25, 2003, [117 Stat. 634][/us/stat/117/634].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs8
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F634
 
 

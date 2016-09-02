@@ -27,7 +27,7 @@
 
         Nothing in this subchapter may be construed as prohibiting any private person, Federal agency, or State agency from engaging in standards-related activities that do not create unnecessary obstacles to the foreign commerce of the United States. No standards-related activity of any private person, Federal agency, or State agency shall be deemed to constitute an unnecessary obstacle to the foreign commerce of the United States if the demonstrable purpose of the standards-related activity is to achieve a legitimate domestic objective including, but not limited to, the protection of legitimate health or safety, essential security, environmental, or consumer interests and if such activity does not operate to exclude imported products which fully meet the objectives of such activity.
 
-([Pub. L. 96–39, title IV, § 401][/us/pl/96/39/s401], July 26, 1979, [93 Stat. 242][/us/stat/93/242]; [Pub. L. 103–465, title III, § 351(b)][/us/pl/103/465/s351/b], Dec. 8, 1994, [108 Stat. 4955][/us/stat/108/4955].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 401, July 26, 1979, [93 Stat. 242][/us/stat/93/242]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 351(b), Dec. 8, 1994, [108 Stat. 4955][/us/stat/108/4955].)
 
  __Amendments__ 
 
@@ -35,13 +35,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title III, § 352][/us/pl/103/465/s352], Dec. 8, 1994, [108 Stat. 4957][/us/stat/108/4957], provided that: 
+[Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 352, Dec. 8, 1994, [108 Stat. 4957][/us/stat/108/4957], provided that: 
 
 > “This subtitle \[subtitle F (§§ 351, 352) of title III of [Pub. L. 103–465][/us/pl/103/465], amending this section and sections 2532, 2544, 2571, and 2573 of this title and repealing provisions set out below\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 
  __Effective Date__ 
 
-    [Pub. L. 96–39, title IV, § 454][/us/pl/96/39/s454], July 26, 1979, [93 Stat. 250][/us/stat/93/250], which provided that this subchapter was to take effect on Jan. 1, 1980, if the Agreement on Technical Barriers to Trade entered into force with respect to the United States by that date, was repealed by [Pub. L. 103–465, title III, § 351(g)][/us/pl/103/465/s351/g], Dec. 8, 1994, [108 Stat. 4957][/us/stat/108/4957].
+    [Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 454, July 26, 1979, [93 Stat. 250][/us/stat/93/250], which provided that this subchapter was to take effect on Jan. 1, 1980, if the Agreement on Technical Barriers to Trade entered into force with respect to the United States by that date, was repealed by [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 351(g), Dec. 8, 1994, [108 Stat. 4957][/us/stat/108/4957].
 
 ----------
 
@@ -50,17 +50,17 @@
 ----------
 ----------
 
-[/us/pl/96/39/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs401
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F242
-[/us/pl/103/465/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fb
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4955
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs352
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4957
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/96/39/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs454
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F250
-[/us/pl/103/465/s351/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fg
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4957
 
 

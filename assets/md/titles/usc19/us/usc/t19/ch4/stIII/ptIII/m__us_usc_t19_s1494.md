@@ -17,13 +17,13 @@
 
     In all cases in which the invoice or entry does not state the weight, quantity, or measure of the merchandise, the expense of ascertaining the same shall be collected from the importer of record before its release from customs custody.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 494, [46 Stat. 727][/us/stat/46/727]; [Pub. L. 97–446, title II, § 201(e)][/us/pl/97/446/s201/e], Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 494, [46 Stat. 727][/us/stat/46/727]; [Pub. L. 97–446, title II][/us/pl/97/446/tII], § 201(e), Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 494, [42 Stat. 964][/us/stat/42/964]. That section was superseded by section 494 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 494, [42 Stat. 964][/us/stat/42/964]. That section was superseded by section 494 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    A prior provision requiring merchandise to be weighed, gauged or measured at the expense of the owner, agent or consignee, in cases in which the invoice or entry did not contain the weight, quantity or measure was contained in R.S. § 2920, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    A prior provision requiring merchandise to be weighed, gauged or measured at the expense of the owner, agent or consignee, in cases in which the invoice or entry did not contain the weight, quantity or measure was contained in R.S. § 2920, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F727
-[/us/pl/97/446/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fe
+[/us/pl/97/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtII
 [/us/stat/96/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2350
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F964
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
 [/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446

@@ -107,7 +107,25 @@
 
             There is established an Interagency Steering Committee (in this section, referred to as the “Committee”). The members of the Committee shall include the Secretary (who shall serve as the chairperson of the Committee), the Director of the Office of Management and Budget, and the head of each agency participating in the ITDS. The Committee shall assist the Secretary in overseeing the implementation of, and participation in, the ITDS.
 
-        (4) __Report__ 
+        (4) __Information technology infrastructure__ 
+
+            (A) __In general__ 
+
+            The Secretary shall work with the head of each agency participating in the ITDS and the Interagency Steering Committee to ensure that each agency—
+
+                (i) develops and maintains the necessary information technology infrastructure to support the operation of the ITDS and to submit all data to the ITDS electronically;
+
+                (ii) enters into a memorandum of understanding, or takes such other action as is necessary, to provide for the information sharing between the agency and U.S. Customs and Border Protection necessary for the operation and maintenance of the ITDS;
+
+                (iii) not later than June 30, 2016, identifies and transmits to the Commissioner of U.S. Customs and Border Protection the admissibility criteria and data elements required by the agency to authorize the release of cargo by U.S. Customs and Border Protection for incorporation into the operational functionality of the Automated Commercial Environment computer system authorized under [section 58c(f)(4) of this title][/us/usc/t19/s58c/f/4]; and
+
+                (iv) not later than December 31, 2016, utilizes the ITDS as the primary means of receiving from users the standard set of data and other relevant documentation, exclusive of applications for permits, licenses, or certifications required for the release of imported cargo and clearance of cargo for export.
+
+            (B) __Rule of construction__ 
+
+                Nothing in this paragraph shall be construed to require any action to be taken that would compromise an ongoing law enforcement investigation or would compromise national security.
+
+        (5) __Report__ 
 
         The President shall submit a report before the end of each fiscal year to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Each report shall include information on—
 
@@ -123,25 +141,23 @@
 
             (F) the status of the development, implementation, and management of the Automated Commercial Environment within the United States Customs and Border Protection.
 
-        (5) __Sense of Congress__ 
+        (6) __Sense of Congress__ 
 
             It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the United States Customs and Border Protection that is responsible for maintaining the ITDS.
 
-        (6) __Construction__ 
+        (7) __Construction__ 
 
             Nothing in this section shall be construed as amending or modifying subsection (g) of [section 301 of title 13][/us/usc/t13/s301].
 
-        (7) __Definition__ 
+        (8) __Definition__ 
 
-            The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071][/us/usc/t19/s2071] note) or any successor committee.
+            The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to [section 4316 of this title][/us/usc/t19/s4316] or any successor committee.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 411, as added [Pub. L. 103–182, title VI, § 631(2)][/us/pl/103/182/s631/2], Dec. 8, 1993, [107 Stat. 2188][/us/stat/107/2188]; amended [Pub. L. 106–36, title II, § 2405][/us/pl/106/36/s2405], June 25, 1999, [113 Stat. 169][/us/stat/113/169]; [Pub. L. 107–210, div. A, title III, § 338][/us/pl/107/210/s338], Aug. 6, 2002, [116 Stat. 980][/us/stat/116/980]; [Pub. L. 109–347, title IV, § 405][/us/pl/109/347/s405], Oct. 13, 2006, [120 Stat. 1929][/us/stat/120/1929].)
-
- __References in Text__ 
-
-    Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (d)(7), is [section 9503(c) of Pub. L. 100–203][/us/pl/100/203/s9503/c], which is set out as a note under [section 2071 of this title][/us/usc/t19/s2071].
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 411, as added [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 631(2), Dec. 8, 1993, [107 Stat. 2188][/us/stat/107/2188]; amended [Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2405, June 25, 1999, [113 Stat. 169][/us/stat/113/169]; [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 338, Aug. 6, 2002, [116 Stat. 980][/us/stat/116/980]; [Pub. L. 109–347, title IV][/us/pl/109/347/tIV], § 405, Oct. 13, 2006, [120 Stat. 1929][/us/stat/120/1929]; [Pub. L. 114–125, title I][/us/pl/114/125/tI], § 107, Feb. 24, 2016, [130 Stat. 135][/us/stat/130/135].)
 
  __Amendments__ 
+
+    2016—Subsec. (d)(4) to (8). [Pub. L. 114–125][/us/pl/114/125] added par. (4), redesignated former pars. (4) to (7) as (5) to (8), and, in par. (8), substituted “[section 4316 of this title][/us/usc/t19/s4316]” for “section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071][/us/usc/t19/s2071] note)”.
 
     2006—Subsec. (d). [Pub. L. 109–347][/us/pl/109/347] added subsec. (d).
 
@@ -251,18 +267,22 @@
 ----------
 
 [/us/usc/t19/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1414
+[/us/usc/t19/s58c/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Ff%2F4
 [/us/usc/t13/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs301
-[/us/usc/t19/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2071
+[/us/usc/t19/s4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4316
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/182/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs631%2F2
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2188
-[/us/pl/106/36/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2405
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F169
-[/us/pl/107/210/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs338
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F980
-[/us/pl/109/347/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs405
+[/us/pl/109/347/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIV
 [/us/stat/120/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1929
-[/us/pl/100/203/s9503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fc
+[/us/pl/114/125/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtI
+[/us/stat/130/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F135
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/usc/t19/s4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4316
 [/us/usc/t19/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2071
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210

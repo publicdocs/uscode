@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 89–283, title II, § 202][/us/pl/89/283/s202], Oct. 21, 1965, [79 Stat. 1016][/us/stat/79/1016], which related to the modification of tariff schedules to implement duty free motor vehicle agreements and duty reduced or duty free automotive product agreements, the necessity for advice and public notice prior to negotiation of such agreements, the transmission to the Congress of copies of such agreements, and Presidential proclamations to implement such agreements, expired by its own terms on Oct. 22, 1965.
+    Section, [Pub. L. 89–283, title II][/us/pl/89/283/tII], § 202, Oct. 21, 1965, [79 Stat. 1016][/us/stat/79/1016], which related to the modification of tariff schedules to implement duty free motor vehicle agreements and duty reduced or duty free automotive product agreements, the necessity for advice and public notice prior to negotiation of such agreements, the transmission to the Congress of copies of such agreements, and Presidential proclamations to implement such agreements, expired by its own terms on Oct. 22, 1965.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/283/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs202
+[/us/pl/89/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2FtII
 [/us/stat/79/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1016
 
 

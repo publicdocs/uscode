@@ -433,7 +433,7 @@ Part III—Promotion of Foreign Trade  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1356" data-uslm-ref="/us/usc/t19/s1356">1356</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1356l" data-uslm-ref="/us/usc/t19/s1356l">1356l.</a>  </td>
 
     <td> “Coffee” defined.  </td>
 
@@ -1051,7 +1051,7 @@ Part III—Ascertainment, Collection, and Recovery of Duties  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1501" data-uslm-ref="/us/usc/t19/s1501">1501.</a>  </td>
 
-    <td> Voluntary reliquidations by Customs Service.  </td>
+    <td> Voluntary reliquidations by U.S. Customs and Border Protection.  </td>
 
   </tr>
 
@@ -1193,7 +1193,15 @@ Part III—Ascertainment, Collection, and Recovery of Duties  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1517" data-uslm-ref="/us/usc/t19/s1517">1517</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1519" data-uslm-ref="/us/usc/t19/s1519">1519.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1517" data-uslm-ref="/us/usc/t19/s1517">1517.</a>  </td>
+
+    <td> Procedures for investigating claims of evasion of antidumping and countervailing duty orders  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1518" data-uslm-ref="/us/usc/t19/s1518">1518</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1519" data-uslm-ref="/us/usc/t19/s1519">1519.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1865,6 +1873,14 @@ Part V—Enforcement Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1628a" data-uslm-ref="/us/usc/t19/s1628a">1628a.</a>  </td>
+
+    <td> Exchange of information related to trade enforcement.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1629" data-uslm-ref="/us/usc/t19/s1629">1629.</a>  </td>
 
     <td> Inspections and preclearance in foreign countries.  </td>
@@ -2433,7 +2449,7 @@ Part IV—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1677" data-uslm-ref="/us/usc/t19/s1677">1677</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1677l" data-uslm-ref="/us/usc/t19/s1677l">1677l.</a>  </td>
 
     <td> Antidumping and countervailing duty collections.  </td>
 

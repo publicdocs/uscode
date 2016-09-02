@@ -73,7 +73,7 @@
 
         Upon the request of a majority of the Congressional Oversight Group, the President shall meet with the Congressional Oversight Group before initiating negotiations with respect to a trade agreement, or at any other time concerning the negotiations.
 
-([Pub. L. 107–210, div. B, title XXI, § 2107][/us/pl/107/210/s2107], Aug. 6, 2002, [116 Stat. 1017][/us/stat/116/1017]; [Pub. L. 109–280, title XIV, § 1635(f)(6)][/us/pl/109/280/s1635/f/6], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2107, Aug. 6, 2002, [116 Stat. 1017][/us/stat/116/1017]; [Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1635(f)(6), Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171].)
 
  __Amendments__ 
 
@@ -96,9 +96,9 @@
 
 [/us/usc/t19/s3802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3802%2Fc
 [/us/usc/t19/s3802/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3802%2Fc%2F8
-[/us/pl/107/210/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2107
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1017
-[/us/pl/109/280/s1635/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1635%2Ff%2F6
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1171
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280

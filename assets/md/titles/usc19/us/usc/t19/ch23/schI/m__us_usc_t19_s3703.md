@@ -45,13 +45,13 @@
 
     (3) does not engage in gross violations of internationally recognized human rights or provide support for acts of international terrorism and cooperates in international efforts to eliminate human rights violations and terrorist activities.
 
-([Pub. L. 106–200, title I, § 104][/us/pl/106/200/s104], May 18, 2000, [114 Stat. 254][/us/stat/114/254]; [Pub. L. 114–27, title I][/us/pl/114/27], §§ 106(b), 111, June 29, 2015, [129 Stat. 368][/us/stat/129/368], 370.)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 104, May 18, 2000, [114 Stat. 254][/us/stat/114/254]; [Pub. L. 114–27, title I][/us/pl/114/27/tI], §§ 106(b), 111, June 29, 2015, [129 Stat. 368][/us/stat/129/368], 370.)
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–27, § 111][/us/pl/114/27/s111], struck out subsec. (a) designation and heading before “The President is authorized” and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “If the President determines that an eligible sub-Saharan African country is not making continual progress in meeting the requirements described in subsection (a)(1) of this section, the President shall terminate the designation of the country made pursuant to subsection (a) of this section.”
+    2015—[Pub. L. 114–27][/us/pl/114/27], § 111, struck out subsec. (a) designation and heading before “The President is authorized” and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “If the President determines that an eligible sub-Saharan African country is not making continual progress in meeting the requirements described in subsection (a)(1) of this section, the President shall terminate the designation of the country made pursuant to subsection (a) of this section.”
 
-    Subsec. (a)(1)(A). [Pub. L. 114–27, § 106(b)][/us/pl/114/27/s106/b], inserted “for men and women” after “rights”.
+    Subsec. (a)(1)(A). [Pub. L. 114–27][/us/pl/114/27], § 106(b), inserted “for men and women” after “rights”.
 
 ----------
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/106/200/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs104
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F254
-[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F368
-[/us/pl/114/27/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs111
-[/us/pl/114/27/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs106%2Fb
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 
 

@@ -95,25 +95,25 @@
 
             (B) to demonstrate that the countervailable subsidy rate or dumping margin used by the administering authority reflects an alleged commercial reality of the interested party.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 776, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 186][/us/stat/93/186]; amended [Pub. L. 98–573, title VI, § 618][/us/pl/98/573/s618], Oct. 30, 1984, [98 Stat. 3037][/us/stat/98/3037]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1326(d)(1), 1331, Aug. 23, 1988, [102 Stat. 1204][/us/stat/102/1204], 1207; [Pub. L. 103–465, title II, § 231(c)][/us/pl/103/465/s231/c], Dec. 8, 1994, [108 Stat. 4896][/us/stat/108/4896]; [Pub. L. 114–27, title V, § 502][/us/pl/114/27/s502], June 29, 2015, [129 Stat. 383][/us/stat/129/383].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 776, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 186][/us/stat/93/186]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 618, Oct. 30, 1984, [98 Stat. 3037][/us/stat/98/3037]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1326(d)(1), 1331, Aug. 23, 1988, [102 Stat. 1204][/us/stat/102/1204], 1207; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 231(c), Dec. 8, 1994, [108 Stat. 4896][/us/stat/108/4896]; [Pub. L. 114–27, title V][/us/pl/114/27/tV], § 502, June 29, 2015, [129 Stat. 383][/us/stat/129/383].)
 
  __Amendments__ 
 
-    2015—Subsec. (b). [Pub. L. 114–27, § 502(1)][/us/pl/114/27/s502/1], inserted par. (1) designation and heading before “If the administering”, substituted “under this subtitle—” for “under this subtitle, may use”, inserted “(A) may use” before “an inference that is adverse” substituted “facts otherwise available; and” for “facts otherwise available. Such adverse inference may include”, added subpar. (B), inserted par. (2) designation, heading, and “An adverse inference under paragraph (1)(A) may include” before “reliance on information”, and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (2) and realigned margins.
+    2015—Subsec. (b). [Pub. L. 114–27][/us/pl/114/27], § 502(1), inserted par. (1) designation and heading before “If the administering”, substituted “under this subtitle—” for “under this subtitle, may use”, inserted “(A) may use” before “an inference that is adverse” substituted “facts otherwise available; and” for “facts otherwise available. Such adverse inference may include”, added subpar. (B), inserted par. (2) designation, heading, and “An adverse inference under paragraph (1)(A) may include” before “reliance on information”, and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (2) and realigned margins.
 
-    Subsec. (c). [Pub. L. 114–27, § 502(2)][/us/pl/114/27/s502/2], designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), when the” for “When the”, and added par. (2).
+    Subsec. (c). [Pub. L. 114–27][/us/pl/114/27], § 502(2), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), when the” for “When the”, and added par. (2).
 
-    Subsec. (d). [Pub. L. 114–27, § 502(3)][/us/pl/114/27/s502/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 114–27][/us/pl/114/27], § 502(3), added subsec. (d).
 
     1994—[Pub. L. 103–465][/us/pl/103/465] amended section generally, substituting present provisions for provisions relating to verification of information, certification of submissions, and determinations required to be made on best information available.
 
-    1988—Subsec. (a). [Pub. L. 100–418, § 1331(1)][/us/pl/100/418/s1331/1], (3), added subsec. (a). Former subsec. (a) redesignated (b).
+    1988—Subsec. (a). [Pub. L. 100–418][/us/pl/100/418], § 1331(1), (3), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 100–418, § 1331(1)][/us/pl/100/418/s1331/1], (2), redesignated former subsec. (a) as (b) and in heading substituted “Verification” for “General rule”.
+    Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 1331(1), (2), redesignated former subsec. (a) as (b) and in heading substituted “Verification” for “General rule”.
 
-    Subsec. (b)(3)(A). [Pub. L. 100–418, § 1326(d)(1)][/us/pl/100/418/s1326/d/1], which directed the amendment of this subtitle by substituting “subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title][/us/usc/t19/s1677/9]” for “subparagraph (C), (D), (E), or (F), of [section 1677(9) of this title][/us/usc/t19/s1677/9]” was executed to subsec. (b)(3)(A) of this section by substituting “section 1677(9)(C), (D), (E), (F), or (G) of this title” for “section 1677(9)(C), (D), (E), or (F) of this title” to reflect the probable intent of Congress.
+    Subsec. (b)(3)(A). [Pub. L. 100–418][/us/pl/100/418], § 1326(d)(1), which directed the amendment of this subtitle by substituting “subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title][/us/usc/t19/s1677/9]” for “subparagraph (C), (D), (E), or (F), of [section 1677(9) of this title][/us/usc/t19/s1677/9]” was executed to subsec. (b)(3)(A) of this section by substituting “section 1677(9)(C), (D), (E), (F), or (G) of this title” for “section 1677(9)(C), (D), (E), or (F) of this title” to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 100–418, § 1331(1)][/us/pl/100/418/s1331/1], redesignated former subsec. (b) as (c).
+    Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1331(1), redesignated former subsec. (b) as (c).
 
     1984—Subsec. (a). [Pub. L. 98–573][/us/pl/98/573] amended subsec. (a) generally, which prior to amendment read as follows: “Except with respect to information the verification of which is waived under [section 1673b(b)(2) of this title][/us/usc/t19/s1673b/b/2], the administering authority shall verify all information relied upon in making a final determination in an investigation. In publishing such a determination, the administering authority shall report the methods and procedures used to verify such information. If the administering authority is unable to verify the accuracy of the information submitted, it shall use the best information available to it as the basis for its determination, which may include the information submitted in support of the petition.”
 
@@ -142,26 +142,26 @@
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
 [/us/usc/t19/s1675b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675b
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F186
-[/us/pl/98/573/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs618
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3037
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1204
-[/us/pl/103/465/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs231%2Fc
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4896
-[/us/pl/114/27/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs502
+[/us/pl/114/27/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtV
 [/us/stat/129/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F383
-[/us/pl/114/27/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs502%2F1
-[/us/pl/114/27/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs502%2F2
-[/us/pl/114/27/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs502%2F3
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/100/418/s1331/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1331%2F1
-[/us/pl/100/418/s1331/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1331%2F1
-[/us/pl/100/418/s1326/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1326%2Fd%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
 [/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
-[/us/pl/100/418/s1331/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1331%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/usc/t19/s1673b/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673b%2Fb%2F2
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

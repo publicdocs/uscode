@@ -133,7 +133,7 @@
 
         Labor performed and services rendered pursuant to this section shall be under the supervision of an officer of the customs, to be appointed by the Secretary of the Treasury and at the expense of the manufacturer. The Secretary of the Treasury is authorized to make such rules and regulations as may be necessary to carry out the provisions of this section.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 312, [46 Stat. 692][/us/stat/46/692]; [Pub. L. 87–456, title III, § 301(b)][/us/pl/87/456/s301/b], May 24, 1962, [76 Stat. 75][/us/stat/76/75]; [Pub. L. 100–418, title I, § 1214(h)(1)][/us/pl/100/418/s1214/h/1], Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157]; [Pub. L. 100–449, title II, § 204(c)(2)][/us/pl/100/449/s204/c/2], Sept. 28, 1988, [102 Stat. 1862][/us/stat/102/1862]; [Pub. L. 103–182, title II, § 203(b)(2)][/us/pl/103/182/s203/b/2], Dec. 8, 1993, [107 Stat. 2088][/us/stat/107/2088]; [Pub. L. 108–77, title II, § 203(b)(2)][/us/pl/108/77/s203/b/2], Sept. 3, 2003, [117 Stat. 925][/us/stat/117/925].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 312, [46 Stat. 692][/us/stat/46/692]; [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 301(b), May 24, 1962, [76 Stat. 75][/us/stat/76/75]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(h)(1), Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157]; [Pub. L. 100–449, title II][/us/pl/100/449/tII], § 204(c)(2), Sept. 28, 1988, [102 Stat. 1862][/us/stat/102/1862]; [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 203(b)(2), Dec. 8, 1993, [107 Stat. 2088][/us/stat/107/2088]; [Pub. L. 108–77, title II][/us/pl/108/77/tII], § 203(b)(2), Sept. 3, 2003, [117 Stat. 925][/us/stat/117/925].)
 
  __Amendment of Section__ 
 
@@ -151,11 +151,11 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, N, subsection 1, [38 Stat. 198][/us/stat/38/198], which was superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 312, [42 Stat. 940][/us/stat/42/940], and repealed by section 321 thereof. Section 312 of the act of 1922 was superseded by section 312 of act June 17, 1930, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, N, subsection 1, [38 Stat. 198][/us/stat/38/198], which was superseded by [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 312, [42 Stat. 940][/us/stat/42/940], and repealed by section 321 thereof. Section 312 of the act of 1922 was superseded by section 312 of act June 17, 1930, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions more or less similar were contained in the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 24][/us/act/1909-08-05/ch6/s24], [36 Stat. 89][/us/stat/36/89], the Dingley Tariff [Act of July 24, 1897, ch. 11, § 29][/us/act/1897-07-24/ch11/s29], [30 Stat. 210][/us/stat/30/210], the McKinley Tariff [Act of Oct. 1, 1890, ch. 1244, § 24][/us/act/1890-10-01/ch1244/s24], [26 Stat. 617][/us/stat/26/617], and the Wilson Tariff [Act of Aug. 27, 1894, ch. 349, § 21][/us/act/1894-08-27/ch349/s21], [28 Stat. 551][/us/stat/28/551].
+    Provisions more or less similar were contained in the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 24, [36 Stat. 89][/us/stat/36/89], the Dingley Tariff [Act of July 24, 1897, ch. 11][/us/act/1897-07-24/ch11], § 29, [30 Stat. 210][/us/stat/30/210], the McKinley Tariff [Act of Oct. 1, 1890, ch. 1244][/us/act/1890-10-01/ch1244], § 24, [26 Stat. 617][/us/stat/26/617], and the Wilson Tariff [Act of Aug. 27, 1894, ch. 349][/us/act/1894-08-27/ch349], § 21, [28 Stat. 551][/us/stat/28/551].
 
-    Previous provisions for sampling lead ores were contained in [act Mar. 2, 1895, ch. 189, § 1][/us/act/1895-03-02/ch189/s1], [28 Stat. 933][/us/stat/28/933], prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 321, [42 Stat. 947][/us/stat/42/947].
+    Previous provisions for sampling lead ores were contained in [act Mar. 2, 1895, ch. 189][/us/act/1895-03-02/ch189], § 1, [28 Stat. 933][/us/stat/28/933], prior to repeal by [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 321, [42 Stat. 947][/us/stat/42/947].
 
  __Amendments__ 
 
@@ -183,23 +183,23 @@
 
     See Effective and Termination Dates of 2003 Amendment note below.
 
-    1993—Subsec. (b). [Pub. L. 103–182, § 203(b)(2)(B)][/us/pl/103/182/s203/b/2/B], inserted concluding provisions following par. (5).
+    1993—Subsec. (b). [Pub. L. 103–182][/us/pl/103/182], § 203(b)(2)(B), inserted concluding provisions following par. (5).
 
-    Subsec. (b)(1). [Pub. L. 103–182, § 203(b)(2)(A)][/us/pl/103/182/s203/b/2/A], struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “upon the exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
+    Subsec. (b)(1). [Pub. L. 103–182][/us/pl/103/182], § 203(b)(2)(A), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “upon the exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
 
-    Subsec. (b)(4). [Pub. L. 103–182, § 203(b)(2)(A)][/us/pl/103/182/s203/b/2/A], struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “warehouse for exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
+    Subsec. (b)(4). [Pub. L. 103–182][/us/pl/103/182], § 203(b)(2)(A), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “warehouse for exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
 
-    Subsec. (d). [Pub. L. 103–182, § 203(b)(2)(C)][/us/pl/103/182/s203/b/2/C], struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “Upon the exportation” and inserted before concluding period provisions excepting goods withdrawn for exportation to a NAFTA country, including pars. (1) and (2), as well as sentence relating to conditions arising should Canada cease to be a NAFTA country.
+    Subsec. (d). [Pub. L. 103–182][/us/pl/103/182], § 203(b)(2)(C), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “Upon the exportation” and inserted before concluding period provisions excepting goods withdrawn for exportation to a NAFTA country, including pars. (1) and (2), as well as sentence relating to conditions arising should Canada cease to be a NAFTA country.
 
-    1988—Subsec. (b)(1), (4). [Pub. L. 100–449, § 204(c)(2)(A)][/us/pl/100/449/s204/c/2/A], temporarily inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “exportation”. See Effective and Termination Dates of 1988 Amendment note below.
+    1988—Subsec. (b)(1), (4). [Pub. L. 100–449][/us/pl/100/449], § 204(c)(2)(A), temporarily inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “exportation”. See Effective and Termination Dates of 1988 Amendment note below.
 
-    Subsec. (d). [Pub. L. 100–449, § 204(c)(2)(B)][/us/pl/100/449/s204/c/2/B], temporarily inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “exportation”. See Effective and Termination Dates of 1988 Amendment note below.
+    Subsec. (d). [Pub. L. 100–449][/us/pl/100/449], § 204(c)(2)(B), temporarily inserted “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “exportation”. See Effective and Termination Dates of 1988 Amendment note below.
 
-    Subsec. (f)(1). [Pub. L. 100–418, § 1214(h)(1)(A)][/us/pl/100/418/s1214/h/1/A], substituted “chapter 26 of the Harmonized Tariff Schedule of the United States” for “schedule 6, part 1, of the Tariff Schedules of the United States” and “chapters 71 through 83 of the Harmonized Tariff Schedule of the United States” for “schedule 6, part 2, of such schedules” and struck out the quotation marks surrounding “metal waste and scrap” and “unwrought metal”.
+    Subsec. (f)(1). [Pub. L. 100–418][/us/pl/100/418], § 1214(h)(1)(A), substituted “chapter 26 of the Harmonized Tariff Schedule of the United States” for “schedule 6, part 1, of the Tariff Schedules of the United States” and “chapters 71 through 83 of the Harmonized Tariff Schedule of the United States” for “schedule 6, part 2, of such schedules” and struck out the quotation marks surrounding “metal waste and scrap” and “unwrought metal”.
 
-    Subsec. (f)(2)(A). [Pub. L. 100–418, § 1214(h)(1)(B)][/us/pl/100/418/s1214/h/1/B], substituted “chapters 71 through 83 of the Harmonized Tariff Schedule of the United States” for “part 2 of schedule 6” and “chapter 26 of the Harmonized Tariff Schedule of the United States” for “part 1 of schedule 6” and struck out single quotation marks surrounding “unwrought metal”.
+    Subsec. (f)(2)(A). [Pub. L. 100–418][/us/pl/100/418], § 1214(h)(1)(B), substituted “chapters 71 through 83 of the Harmonized Tariff Schedule of the United States” for “part 2 of schedule 6” and “chapter 26 of the Harmonized Tariff Schedule of the United States” for “part 1 of schedule 6” and struck out single quotation marks surrounding “unwrought metal”.
 
-    Subsec. (f)(3). [Pub. L. 100–418, § 1214(h)(1)(C)][/us/pl/100/418/s1214/h/1/C], substituted “of chapter 26 of the Harmonized Tariff Schedule of the United States” for “as defined in part 1 of schedule 6”.
+    Subsec. (f)(3). [Pub. L. 100–418][/us/pl/100/418], § 1214(h)(1)(C), substituted “of chapter 26 of the Harmonized Tariff Schedule of the United States” for “as defined in part 1 of schedule 6”.
 
     1962—[Pub. L. 87–456][/us/pl/87/456] amended section generally, and among other changes, substituted “metal-bearing minerals” for “ores or crude metals”, authorized adjustment of the bond charge to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond, permitted two or more warehouses to be included under one general bond, prohibited allowances for wastage of copper, lead, and zinc, and defined “metal-bearing materials”, “smelting or refining”, and “product of smelting or refining”.
 
@@ -239,15 +239,15 @@
 [/us/usc/t19/s1508/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1508%2Fb%2F2%2FB
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F692
-[/us/pl/87/456/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs301%2Fb
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F75
-[/us/pl/100/418/s1214/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fh%2F1
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1157
-[/us/pl/100/449/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs204%2Fc%2F2
+[/us/pl/100/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtII
 [/us/stat/102/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1862
-[/us/pl/103/182/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203%2Fb%2F2
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2088
-[/us/pl/108/77/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs203%2Fb%2F2
+[/us/pl/108/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2FtII
 [/us/stat/117/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F925
 [/us/pl/108/77/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs107%2Fc
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
@@ -258,19 +258,19 @@
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F198
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F940
-[/us/act/1909-08-05/ch6/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs24
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F89
-[/us/act/1897-07-24/ch11/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-07-24%2Fch11%2Fs29
+[/us/act/1897-07-24/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-07-24%2Fch11
 [/us/stat/30/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F210
-[/us/act/1890-10-01/ch1244/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1244%2Fs24
+[/us/act/1890-10-01/ch1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1244
 [/us/stat/26/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F617
-[/us/act/1894-08-27/ch349/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349%2Fs21
+[/us/act/1894-08-27/ch349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349
 [/us/stat/28/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F551
-[/us/act/1895-03-02/ch189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189%2Fs1
+[/us/act/1895-03-02/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch189
 [/us/stat/28/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F933
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F947
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/usc/t19/s3301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3301%2F4
@@ -284,15 +284,15 @@
 [/us/usc/t19/s3301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3301%2F4
 [/us/usc/t19/s3333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3333%2Fa
 [/us/usc/t19/s1508/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1508%2Fb%2F2%2FB
-[/us/pl/103/182/s203/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203%2Fb%2F2%2FB
-[/us/pl/103/182/s203/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203%2Fb%2F2%2FA
-[/us/pl/103/182/s203/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203%2Fb%2F2%2FA
-[/us/pl/103/182/s203/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203%2Fb%2F2%2FC
-[/us/pl/100/449/s204/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs204%2Fc%2F2%2FA
-[/us/pl/100/449/s204/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs204%2Fc%2F2%2FB
-[/us/pl/100/418/s1214/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fh%2F1%2FA
-[/us/pl/100/418/s1214/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fh%2F1%2FB
-[/us/pl/100/418/s1214/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fh%2F1%2FC
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
+[/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/87/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77

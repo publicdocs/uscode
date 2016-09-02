@@ -25,7 +25,7 @@
 
         Under such regulations as the Secretary of the Treasury may prescribe and subject to any conditions imposed thereby the consignee may at any time within three years from the date of original importation, abandon to the Government any merchandise in bonded warehouse, whereupon any duties on such merchandise may be remitted or refunded as the case may be, but any merchandise so abandoned shall not be less than an entire package and shall be abandoned in the original package without having been repacked while in a bonded warehouse (other than a bonded manip­ulating warehouse).
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 563, [46 Stat. 746][/us/stat/46/746]; [June 25, 1938, ch. 679, § 23(a)][/us/act/1938-06-25/ch679/s23/a], [52 Stat. 1088][/us/stat/52/1088]; [Pub. L. 91–271, title III, § 301(v)][/us/pl/91/271/s301/v], June 2, 1970, [84 Stat. 290][/us/stat/84/290].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 563, [46 Stat. 746][/us/stat/46/746]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 23(a), [52 Stat. 1088][/us/stat/52/1088]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(v), June 2, 1970, [84 Stat. 290][/us/stat/84/290].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Prior Provisions__ 
 
-    Prior provisions somewhat similar to those in this section, were contained in R.S. § 2983, and section 2984 as amended by [act Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 247][/us/stat/19/247], which contained a further provision for cancellation or satisfaction of warehouse bonds. Both of these sections were superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 563, [42 Stat. 978][/us/stat/42/978], and repealed by section 642 thereof. Section 563 of the 1922 act was superseded and enlarged by section 563 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Prior provisions somewhat similar to those in this section, were contained in R.S. § 2983, and section 2984 as amended by [act Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 247][/us/stat/19/247], which contained a further provision for cancellation or satisfaction of warehouse bonds. Both of these sections were superseded by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 563, [42 Stat. 978][/us/stat/42/978], and repealed by section 642 thereof. Section 563 of the 1922 act was superseded and enlarged by section 563 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 
  __Effective Date of 1938 Amendment__ 
 
-[Act June 25, 1938, ch. 679, § 23(b)][/us/act/1938-06-25/ch679/s23/b], [52 Stat. 1088][/us/stat/52/1088], provided that: 
+[Act June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 23(b), [52 Stat. 1088][/us/stat/52/1088], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under [section 1401 of this title][/us/usc/t19/s1401]\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers.”
 
  __Appropriations__ 
 
-    [Act June 26, 1934, ch. 756, § 2][/us/act/1934-06-26/ch756/s2], [48 Stat. 1225][/us/stat/48/1225], which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Refunding duties on goods destroyed (Customs) (2x330)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+    [Act June 26, 1934, ch. 756][/us/act/1934-06-26/ch756], § 2, [48 Stat. 1225][/us/stat/48/1225], which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Refunding duties on goods destroyed (Customs) (2x330)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
 ----------
 
@@ -64,22 +64,22 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F746
-[/us/act/1938-06-25/ch679/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs23%2Fa
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1088
-[/us/pl/91/271/s301/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fv
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F290
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F247
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F978
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500
-[/us/act/1938-06-25/ch679/s23/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs23%2Fb
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1088
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
-[/us/act/1934-06-26/ch756/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756%2Fs2
+[/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1225
 
 

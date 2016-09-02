@@ -31,11 +31,11 @@
 
         The Secretary of Commerce may prescribe such regulations as he deems necessary or appropriate to carry out the provisions of this section.
 
-([Pub. L. 86–14, § 2][/us/pl/86/14/s2], Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18].)
+([Pub. L. 86–14][/us/pl/86/14], § 2, Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18].)
 
  __Short Title__ 
 
-[Pub. L. 86–14, § 1][/us/pl/86/14/s1], Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18], provided: 
+[Pub. L. 86–14][/us/pl/86/14], § 1, Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18], provided: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Trade Fair Act of 1959’.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/86/14/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14%2Fs2
+[/us/pl/86/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14
 [/us/stat/73/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F18
-[/us/pl/86/14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14%2Fs1
+[/us/pl/86/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14
 [/us/stat/73/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F18
 
 

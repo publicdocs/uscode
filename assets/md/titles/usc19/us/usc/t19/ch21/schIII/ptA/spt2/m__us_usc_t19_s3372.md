@@ -49,7 +49,7 @@
 
         Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article, with allowance for reasonable growth.
 
-([Pub. L. 103–182, title III, § 312][/us/pl/103/182/s312], Dec. 8, 1993, [107 Stat. 2107][/us/stat/107/2107].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 312, Dec. 8, 1993, [107 Stat. 2107][/us/stat/107/2107].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/pl/103/182/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs312
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2107
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

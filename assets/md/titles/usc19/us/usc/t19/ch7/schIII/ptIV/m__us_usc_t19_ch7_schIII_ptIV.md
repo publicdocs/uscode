@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptd/m__us_usc_t19_ch7_schIII_ptIII_sptd.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptIV/m__us_usc_t19_s1981.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIV)
+[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptd/m__us_usc_t19_s1971...1978.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptIV/m__us_usc_t19_s1981.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIV)
 
 #### Part IV—Tariff Adjustment
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptd/m__us_usc_t19_ch7_schIII_ptIII_sptd.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptIV/m__us_usc_t19_s1981.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIV)
+[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptd/m__us_usc_t19_s1971...1978.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptIV/m__us_usc_t19_s1981.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIV)
 
 ----------
 ----------

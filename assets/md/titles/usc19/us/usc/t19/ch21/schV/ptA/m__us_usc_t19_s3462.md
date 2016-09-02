@@ -57,7 +57,7 @@
 
         The President shall provide the study to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and any other committee that has jurisdiction over any provision of United States law that was either enacted or amended by the North American Free Trade Agreement Implementation Act. Each such committee may hold hearings and make recommendations to the President with respect to the operation and effects of the Agreement.
 
-([Pub. L. 103–182, title V, § 512][/us/pl/103/182/s512], Dec. 8, 1993, [107 Stat. 2155][/us/stat/107/2155].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 512, Dec. 8, 1993, [107 Stat. 2155][/us/stat/107/2155].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs512
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2155
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057

@@ -103,7 +103,7 @@
 
         (2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
-        (3) records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.
+        (3) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 
     (d) __Limitation__ 
 
@@ -305,7 +305,7 @@
 
         (2) the general record keeping penalty that applies under the customs laws of the United States.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 508, as added [Pub. L. 95–410, title I, § 104][/us/pl/95/410/s104], Oct. 3, 1978, [92 Stat. 889][/us/stat/92/889]; amended [Pub. L. 100–449, title II, § 205(b)][/us/pl/100/449/s205/b], Sept. 28, 1988, [102 Stat. 1864][/us/stat/102/1864]; [Pub. L. 103–182, title II, § 205(a)][/us/pl/103/182/s205/a], title VI, § 614, Dec. 8, 1993, [107 Stat. 2093][/us/stat/107/2093], 2174; [Pub. L. 104–295, § 3(a)(6)(B)][/us/pl/104/295/s3/a/6/B], Oct. 11, 1996, [110 Stat. 3515][/us/stat/110/3515]; [Pub. L. 108–77, title II][/us/pl/108/77], §§ 207, 209, Sept. 3, 2003, [117 Stat. 931][/us/stat/117/931], 933; [Pub. L. 109–53, title II, § 208][/us/pl/109/53/s208], Aug. 2, 2005, [119 Stat. 485][/us/stat/119/485]; [Pub. L. 110–138, title II, § 207][/us/pl/110/138/s207], Dec. 14, 2007, [121 Stat. 1476][/us/stat/121/1476]; [Pub. L. 112–41, title II, § 206][/us/pl/112/41/s206], Oct. 21, 2011, [125 Stat. 449][/us/stat/125/449]; [Pub. L. 112–42, title II, § 207][/us/pl/112/42/s207], Oct. 21, 2011, [125 Stat. 484][/us/stat/125/484]; [Pub. L. 112–43, title II, § 207][/us/pl/112/43/s207], Oct. 21, 2011, [125 Stat. 520][/us/stat/125/520].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 508, as added [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 104, Oct. 3, 1978, [92 Stat. 889][/us/stat/92/889]; amended [Pub. L. 100–449, title II][/us/pl/100/449/tII], § 205(b), Sept. 28, 1988, [102 Stat. 1864][/us/stat/102/1864]; [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 205(a), title VI, § 614, Dec. 8, 1993, [107 Stat. 2093][/us/stat/107/2093], 2174; [Pub. L. 104–295][/us/pl/104/295], § 3(a)(6)(B), Oct. 11, 1996, [110 Stat. 3515][/us/stat/110/3515]; [Pub. L. 108–77, title II][/us/pl/108/77/tII], §§ 207, 209, Sept. 3, 2003, [117 Stat. 931][/us/stat/117/931], 933; [Pub. L. 109–53, title II][/us/pl/109/53/tII], § 208, Aug. 2, 2005, [119 Stat. 485][/us/stat/119/485]; [Pub. L. 110–138, title II][/us/pl/110/138/tII], § 207, Dec. 14, 2007, [121 Stat. 1476][/us/stat/121/1476]; [Pub. L. 112–41, title II][/us/pl/112/41/tII], § 206, Oct. 21, 2011, [125 Stat. 449][/us/stat/125/449]; [Pub. L. 112–42, title II][/us/pl/112/42/tII], § 207, Oct. 21, 2011, [125 Stat. 484][/us/stat/125/484]; [Pub. L. 112–43, title II][/us/pl/112/43/tII], § 207, Oct. 21, 2011, [125 Stat. 520][/us/stat/125/520]; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 906(o), Feb. 24, 2016, [130 Stat. 233][/us/stat/130/233].)
 
  __Amendment of Section__ 
 
@@ -325,9 +325,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 1508, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 508, [46 Stat. 732][/us/stat/46/732]; [Aug. 8, 1953, ch. 397, § 19][/us/act/1953-08-08/ch397/s19], [67 Stat. 518][/us/stat/67/518], related to commingling of goods, prior to repeal by [Pub. L. 87–456, title III, § 301(a)][/us/pl/87/456/s301/a], May 24, 1962, [76 Stat. 75][/us/stat/76/75], effective, pursuant to [section 501(a) of Pub. L. 87–456][/us/pl/87/456/s501/a], with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+    A prior section 1508, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 508, [46 Stat. 732][/us/stat/46/732]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 19, [67 Stat. 518][/us/stat/67/518], related to commingling of goods, prior to repeal by [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 301(a), May 24, 1962, [76 Stat. 75][/us/stat/76/75], effective, pursuant to [section 501(a) of Pub. L. 87–456][/us/pl/87/456/s501/a], with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
  __Amendments__ 
+
+    2016—Subsec. (c)(3). [Pub. L. 114–125][/us/pl/114/125] substituted “liquidation” for “payment”.
 
     2011—Subsec. (i). [Pub. L. 112–41][/us/pl/112/41], §§ 107(c), 206(2), temporarily added subsec. (i). Former subsec. (i) redesignated (j). See Effective and Termination Dates of 2011 Amendment note below.
 
@@ -357,21 +359,25 @@
 
     1996—Subsec. (c)(1). [Pub. L. 104–295][/us/pl/104/295] inserted “, filing of a reconciliation,” after “entry”.
 
-    1993—Subsec. (a). [Pub. L. 103–182, § 614(1)][/us/pl/103/182/s614/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any owner, importer, consignee, or agent thereof who imports, or who knowingly causes to be imported, any merchandise into the customs territory of the United States shall make, keep, and render for examination and inspection such records (including statements, declarations, and other documents) which—
+    1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 614(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any owner, importer, consignee, or agent thereof who imports, or who knowingly causes to be imported, any merchandise into the customs territory of the United States shall make, keep, and render for examination and inspection such records (including statements, declarations, and other documents) which—
 
     “(1) pertain to any such importation, or to the information contained in the documents required by this chapter in connection with the entry of merchandise; and
 
     “(2) are normally kept in the ordinary course of business.”
 
-    Subsec. (b). [Pub. L. 103–182, § 205(a)(1)][/us/pl/103/182/s205/a/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who exports, or who knowingly causes to be exported, any merchandise to Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to such exportations.”
+    Subsec. (b). [Pub. L. 103–182][/us/pl/103/182], § 205(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who exports, or who knowingly causes to be exported, any merchandise to Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to such exportations.”
 
-    Subsec. (c). [Pub. L. 103–182, § 205(a)(2)][/us/pl/103/182/s205/a/2], amended generally subsec. (c), as amended by [Pub. L. 103–182, § 614(2)][/us/pl/103/182/s614/2] (see below). Prior to amendment, subsec. (c) read as follows: “The records required by subsections (a) and (b) of this section shall be kept for such period of time, not to exceed 5 years from the date of entry or exportation, as appropriate, as the Secretary shall prescribe; except that records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.” See Construction of 1993 Amendment note below.
+    Subsec. (c). [Pub. L. 103–182][/us/pl/103/182], § 205(a)(2), amended generally subsec. (c), as amended by [Pub. L. 103–182][/us/pl/103/182], § 614(2) (see below). Prior to amendment, subsec. (c) read as follows: “The records required by subsections (a) and (b) of this section shall be kept for such period of time, not to exceed 5 years from the date of entry or exportation, as appropriate, as the Secretary shall prescribe; except that records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.” See Construction of 1993 Amendment note below.
 
-    [Pub. L. 103–182, § 614(2)][/us/pl/103/182/s614/2], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The records required by subsection (a) and (b) of this section shall be kept for such periods of time, not to exceed 5 years from the date of entry, as the Secretary shall prescribe.” See Construction of 1993 Amendment note below.
+    [Pub. L. 103–182][/us/pl/103/182], § 614(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The records required by subsection (a) and (b) of this section shall be kept for such periods of time, not to exceed 5 years from the date of entry, as the Secretary shall prescribe.” See Construction of 1993 Amendment note below.
 
-    Subsec. (e). [Pub. L. 103–182, § 205(a)(3)][/us/pl/103/182/s205/a/3], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
+    Subsec. (e). [Pub. L. 103–182][/us/pl/103/182], § 205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
 
     1988—Subsecs. (b) to (e). [Pub. L. 100–449][/us/pl/100/449] temporarily added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e). See Effective and Termination Dates of 1988 Amendment note below.
+
+ __Effective Date of 2016 Amendment__ 
+
+    Amendment by [Pub. L. 114–125][/us/pl/114/125] effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 years after such date, see [section 906(q) of Pub. L. 114–125][/us/pl/114/125/s906/q], set out as a note under [section 1313 of this title][/us/usc/t19/s1313].
 
  __Effective and Termination Dates of 2011 Amendment__ 
 
@@ -426,26 +432,28 @@
 [/us/usc/t19/s1312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1312%2Fd
 [/us/usc/t19/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1509
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/95/410/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs104
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F889
-[/us/pl/100/449/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs205%2Fb
+[/us/pl/100/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtII
 [/us/stat/102/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1864
-[/us/pl/103/182/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs205%2Fa
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2093
-[/us/pl/104/295/s3/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs3%2Fa%2F6%2FB
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3515
-[/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
+[/us/pl/108/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2FtII
 [/us/stat/117/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F931
-[/us/pl/109/53/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs208
+[/us/pl/109/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtII
 [/us/stat/119/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F485
-[/us/pl/110/138/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138%2Fs207
+[/us/pl/110/138/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138%2FtII
 [/us/stat/121/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1476
-[/us/pl/112/41/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs206
+[/us/pl/112/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2FtII
 [/us/stat/125/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F449
-[/us/pl/112/42/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2Fs207
+[/us/pl/112/42/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2FtII
 [/us/stat/125/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F484
-[/us/pl/112/43/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs207
+[/us/pl/112/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2FtII
 [/us/stat/125/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F520
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F233
 [/us/pl/112/43/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs107%2Fc
 [/us/pl/112/42/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2Fs107%2Fc
 [/us/pl/112/41/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs107%2Fc
@@ -455,11 +463,12 @@
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F732
-[/us/act/1953-08-08/ch397/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs19
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F518
-[/us/pl/87/456/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs301%2Fa
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F75
 [/us/pl/87/456/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs501%2Fa
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
 [/us/pl/112/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
@@ -478,13 +487,16 @@
 [/us/usc/t19/s81c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs81c%2Fa
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/182/s614/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs614%2F1
-[/us/pl/103/182/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs205%2Fa%2F1
-[/us/pl/103/182/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs205%2Fa%2F2
-[/us/pl/103/182/s614/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs614%2F2
-[/us/pl/103/182/s614/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs614%2F2
-[/us/pl/103/182/s205/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs205%2Fa%2F3
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125/s906/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs906%2Fq
+[/us/usc/t19/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1313
 [/us/pl/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43
 [/us/pl/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805

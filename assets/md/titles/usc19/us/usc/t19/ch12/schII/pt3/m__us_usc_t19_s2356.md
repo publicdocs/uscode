@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch12/schII/pt3/m__us_usc_t19_s2355.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2356)
 
-## § 2356. Repealed. [Pub. L. 112–40, title II, § 221(a)(3)][/us/pl/112/40/s221/a/3], Oct. 21, 2011, [125 Stat. 410][/us/stat/125/410]
+## § 2356. Repealed. [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 221(a)(3), Oct. 21, 2011, [125 Stat. 410][/us/stat/125/410]
 
-    Section, [Pub. L. 111–5, div. B, title I, § 1866][/us/pl/111/5/s1866], Feb. 17, 2009, [123 Stat. 399][/us/stat/123/399], required the Secretary of Commerce to submit and publish an annual report on trade adjustment assistance for firms and proscribed the release of certain confidential business information.
+    Section, [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1866, Feb. 17, 2009, [123 Stat. 399][/us/stat/123/399], required the Secretary of Commerce to submit and publish an annual report on trade adjustment assistance for firms and proscribed the release of certain confidential business information.
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 112–40, title II, § 221(a)(3)][/us/pl/112/40/s221/a/3], Oct. 21, 2011, [125 Stat. 410][/us/stat/125/410], provided that the repeal of this section is effective on the day after the date on which the Secretary of Commerce submits the report required by this section for fiscal year 2011 \[report submitted Dec. 15, 2011\].
+    [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 221(a)(3), Oct. 21, 2011, [125 Stat. 410][/us/stat/125/410], provided that the repeal of this section is effective on the day after the date on which the Secretary of Commerce submits the report required by this section for fiscal year 2011 \[report submitted Dec. 15, 2011\].
 
 ----------
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/112/40/s221/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs221%2Fa%2F3
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F410
-[/us/pl/111/5/s1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1866
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F399
-[/us/pl/112/40/s221/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs221%2Fa%2F3
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F410
 
 

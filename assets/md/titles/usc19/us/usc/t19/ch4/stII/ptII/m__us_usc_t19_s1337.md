@@ -229,7 +229,7 @@
 
             (C) an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under subsection (d), (e), or (g) resulting from the investigation or related proceeding in connection with which the information is submitted.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 337, [46 Stat. 703][/us/stat/46/703]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [Pub. L. 85–686, § 9(c)(1)][/us/pl/85/686/s9/c/1], Aug. 20, 1958, [72 Stat. 679][/us/stat/72/679]; [Pub. L. 93–618, title III, § 341(a)][/us/pl/93/618/s341/a], Jan. 3, 1975, [88 Stat. 2053][/us/stat/88/2053]; [Pub. L. 96–39, title I, § 106(b)(1)][/us/pl/96/39/s106/b/1], title XI, § 1105, July 26, 1979, [93 Stat. 193][/us/stat/93/193], 310; [Pub. L. 96–417, title VI, § 604][/us/pl/96/417/s604], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 97–164, title I][/us/pl/97/164], §§ 160(a)(5), 163(a)(4), Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48], 49; [Pub. L. 98–620, title IV, § 413][/us/pl/98/620/s413], Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1214(h)(3), 1342(a), (b), Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157], 1212, 1215; [Pub. L. 100–647, title IX, § 9001(a)(7)][/us/pl/100/647/s9001/a/7], (12), Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 102–563, § 3(d)][/us/pl/102/563/s3/d], Oct. 28, 1992, [106 Stat. 4248][/us/stat/106/4248]; [Pub. L. 103–465, title II, § 261(d)(1)(B)(ii)][/us/pl/103/465/s261/d/1/B/ii], title III, § 321(a), Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909], 4943; [Pub. L. 104–295, § 20(b)(11)][/us/pl/104/295/s20/b/11], (12), (c)(2), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527], 3528; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5005(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–594; [Pub. L. 108–429, title II, § 2004(d)(5)][/us/pl/108/429/s2004/d/5], Dec. 3, 2004, [118 Stat. 2592][/us/stat/118/2592].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 337, [46 Stat. 703][/us/stat/46/703]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [Pub. L. 85–686][/us/pl/85/686], § 9(c)(1), Aug. 20, 1958, [72 Stat. 679][/us/stat/72/679]; [Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 341(a), Jan. 3, 1975, [88 Stat. 2053][/us/stat/88/2053]; [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 106(b)(1), title XI, § 1105, July 26, 1979, [93 Stat. 193][/us/stat/93/193], 310; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 604, Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], §§ 160(a)(5), 163(a)(4), Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48], 49; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 413, Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1214(h)(3), 1342(a), (b), Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157], 1212, 1215; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(7), (12), Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 102–563][/us/pl/102/563], § 3(d), Oct. 28, 1992, [106 Stat. 4248][/us/stat/106/4248]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 261(d)(1)(B)(ii), title III, § 321(a), Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909], 4943; [Pub. L. 104–295][/us/pl/104/295], § 20(b)(11), (12), (c)(2), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527], 3528; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5005(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–594; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(d)(5), Dec. 3, 2004, [118 Stat. 2592][/us/stat/118/2592].)
 
  __References in Text__ 
 
@@ -247,121 +247,121 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 316, [42 Stat. 943][/us/stat/42/943]. That section was superseded by section 337 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 316, [42 Stat. 943][/us/stat/42/943]. That section was superseded by section 337 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1)(E). [Pub. L. 108–429, § 2004(d)(5)(A)][/us/pl/108/429/s2004/d/5/A], realigned margins.
+    2004—Subsec. (a)(1)(E). [Pub. L. 108–429][/us/pl/108/429], § 2004(d)(5)(A), realigned margins.
 
-    Subsec. (a)(2). [Pub. L. 108–429, § 2004(d)(5)(B)][/us/pl/108/429/s2004/d/5/B], substituted “(D), and (E)” for “and (D)”.
+    Subsec. (a)(2). [Pub. L. 108–429][/us/pl/108/429], § 2004(d)(5)(B), substituted “(D), and (E)” for “and (D)”.
 
-    1999—Subsec. (a)(1)(A). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5005(b)(1)(A)(i)\], substituted “(D), and (E)” for “and (D)”.
+    1999—Subsec. (a)(1)(A). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title V, § 5005(b)(1)(A)(i)\], substituted “(D), and (E)” for “and (D)”.
 
-    Subsec. (a)(1)(E). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5005(b)(1)(A)(ii)\], added subpar. (E).
+    Subsec. (a)(1)(E). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title V, § 5005(b)(1)(A)(ii)\], added subpar. (E).
 
-    Subsec. (a)(2), (3). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5005(b)(1)(B)\], substituted “mask work, or design” for “or mask work”.
+    Subsec. (a)(2), (3). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title V, § 5005(b)(1)(B)\], substituted “mask work, or design” for “or mask work”.
 
-    Subsec. (l). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5005(b)(2)\], substituted “mask work, or design” for “or mask work” in two places.
+    Subsec. (l). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title V, § 5005(b)(2)\], substituted “mask work, or design” for “or mask work” in two places.
 
-    1996—Subsec. (b)(3). [Pub. L. 104–295, § 20(c)(2)][/us/pl/104/295/s20/c/2], amended [Pub. L. 103–465, § 321(a)(1)(C)(i)][/us/pl/103/465/s321/a/1/C/i]. See 1994 Amendment note below.
+    1996—Subsec. (b)(3). [Pub. L. 104–295][/us/pl/104/295], § 20(c)(2), amended [Pub. L. 103–465][/us/pl/103/465], § 321(a)(1)(C)(i). See 1994 Amendment note below.
 
-    [Pub. L. 104–295, § 20(b)(12)][/us/pl/104/295/s20/b/12], struck out “such section and” before “such part II” in first sentence.
+    [Pub. L. 104–295][/us/pl/104/295], § 20(b)(12), struck out “such section and” before “such part II” in first sentence.
 
-    [Pub. L. 104–295, § 20(b)(11)][/us/pl/104/295/s20/b/11], amended [Pub. L. 103–465, § 261(d)(1)(B)(ii)(I)][/us/pl/103/465/s261/d/1/B/ii/I]. See 1994 Amendment note below.
+    [Pub. L. 104–295][/us/pl/104/295], § 20(b)(11), amended [Pub. L. 103–465][/us/pl/103/465], § 261(d)(1)(B)(ii)(I). See 1994 Amendment note below.
 
-    1994—Subsec. (b). [Pub. L. 103–465, § 321(a)(1)(A)][/us/pl/103/465/s321/a/1/A], struck out “; time limits” after “Commission” in heading.
+    1994—Subsec. (b). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(1)(A), struck out “; time limits” after “Commission” in heading.
 
-    Subsec. (b)(1). [Pub. L. 103–465, § 321(a)(1)(B)][/us/pl/103/465/s321/a/1/B], substituted third and fourth sentences for “The Commission shall conclude any such investigation, and make its determination under this section, at the earliest practicable time, but not later than one year (18 months in more complicated cases) after the date of publication of notice of such investigation. The Commission shall publish in the Federal Register its reasons for designating any investigation as a more complicated investigation. For purposes of the one-year and 18-month periods prescribed by this subsection, there shall be excluded any period of time during which such investigation is suspended because of proceedings in a court or agency of the United States involving similar questions concerning the subject matter of such investigation.”
+    Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(1)(B), substituted third and fourth sentences for “The Commission shall conclude any such investigation, and make its determination under this section, at the earliest practicable time, but not later than one year (18 months in more complicated cases) after the date of publication of notice of such investigation. The Commission shall publish in the Federal Register its reasons for designating any investigation as a more complicated investigation. For purposes of the one-year and 18-month periods prescribed by this subsection, there shall be excluded any period of time during which such investigation is suspended because of proceedings in a court or agency of the United States involving similar questions concerning the subject matter of such investigation.”
 
-    Subsec. (b)(3). [Pub. L. 103–465, § 321(a)(1)(C)(ii)][/us/pl/103/465/s321/a/1/C/ii], struck out after fourth sentence “For purposes of computing the 1-year or 18-month periods prescribed by this subsection, there shall be excluded such period of suspension.”
+    Subsec. (b)(3). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(1)(C)(ii), struck out after fourth sentence “For purposes of computing the 1-year or 18-month periods prescribed by this subsection, there shall be excluded such period of suspension.”
 
-    [Pub. L. 103–465, § 321(a)(1)(C)(i)][/us/pl/103/465/s321/a/1/C/i], as amended by [Pub. L. 104–295, § 20(c)(2)][/us/pl/104/295/s20/c/2], in first sentence, made technical amendment to reference in original act which appears in text as reference to “such part II”.
+    [Pub. L. 103–465][/us/pl/103/465], § 321(a)(1)(C)(i), as amended by [Pub. L. 104–295][/us/pl/104/295], § 20(c)(2), in first sentence, made technical amendment to reference in original act which appears in text as reference to “such part II”.
 
-    [Pub. L. 103–465, § 261(d)(1)(B)(ii)(II)][/us/pl/103/465/s261/d/1/B/ii/II]–(V), in second sentence, struck out “1303,” after “purview of section” and comma after “1671” and made technical amendment to references to sections 1671 and 1673 of this title to correct references to corresponding sections of original act, in third sentence, substituted “1671” for “1303, 1671,”, and in last sentence, struck out “of the Secretary under [section 1303 of this title][/us/usc/t19/s1303] or” after “Any final decision” and substituted “1671 or” for “1303, 1671, or”.
+    [Pub. L. 103–465][/us/pl/103/465], § 261(d)(1)(B)(ii)(II)–(V), in second sentence, struck out “1303,” after “purview of section” and comma after “1671” and made technical amendment to references to sections 1671 and 1673 of this title to correct references to corresponding sections of original act, in third sentence, substituted “1671” for “1303, 1671,”, and in last sentence, struck out “of the Secretary under [section 1303 of this title][/us/usc/t19/s1303] or” after “Any final decision” and substituted “1671 or” for “1303, 1671, or”.
 
-    [Pub. L. 103–465, § 261(d)(1)(B)(ii)(I)][/us/pl/103/465/s261/d/1/B/ii/I], as amended by [Pub. L. 104–295, § 20(b)(11)][/us/pl/104/295/s20/b/11], in first sentence, struck out reference to [section 1303 of this title][/us/usc/t19/s1303] after “within the purview” and made technical amendment to reference to part II of subtitle IV of this chapter by substituting in the original “of subtitle B of title VII of this Act” for “of section 303 or of subtitle B of title VII of the Tariff Act of 1930”.
+    [Pub. L. 103–465][/us/pl/103/465], § 261(d)(1)(B)(ii)(I), as amended by [Pub. L. 104–295][/us/pl/104/295], § 20(b)(11), in first sentence, struck out reference to [section 1303 of this title][/us/usc/t19/s1303] after “within the purview” and made technical amendment to reference to part II of subtitle IV of this chapter by substituting in the original “of subtitle B of title VII of this Act” for “of section 303 or of subtitle B of title VII of the Tariff Act of 1930”.
 
-    Subsec. (c). [Pub. L. 103–465, § 321(a)(2)][/us/pl/103/465/s321/a/2], in first sentence, substituted “an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration” for “a settlement agreement”, inserted after third sentence “A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under [section 1391 of title 28][/us/usc/t28/s1391]. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection.”, and inserted at end “Determinations by the Commission under subsections (e), (f), and (j) with respect to forfeiture of bonds and under subsection (h) with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with [section 706 of title 5][/us/usc/t5/s706].”
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(2), in first sentence, substituted “an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration” for “a settlement agreement”, inserted after third sentence “A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under [section 1391 of title 28][/us/usc/t28/s1391]. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection.”, and inserted at end “Determinations by the Commission under subsections (e), (f), and (j) with respect to forfeiture of bonds and under subsection (h) with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with [section 706 of title 5][/us/usc/t5/s706].”
 
-    Subsec. (d). [Pub. L. 103–465, § 321(a)(5)(A)][/us/pl/103/465/s321/a/5/A], designated existing provisions as par. (1), substituted “there is a violation” for “there is violation” in first sentence, and added par. (2).
+    Subsec. (d). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(5)(A), designated existing provisions as par. (1), substituted “there is a violation” for “there is violation” in first sentence, and added par. (2).
 
-    Subsec. (e)(1). [Pub. L. 103–465, § 321(a)(3)(A)][/us/pl/103/465/s321/a/3/A], in last sentence, substituted “prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the Commission later determines that the respondent has violated the provisions of this section, the bond may be forfeited to the complainant.” for “determined by the Commission and prescribed by the Secretary.”
+    Subsec. (e)(1). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(3)(A), in last sentence, substituted “prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the Commission later determines that the respondent has violated the provisions of this section, the bond may be forfeited to the complainant.” for “determined by the Commission and prescribed by the Secretary.”
 
-    Subsec. (e)(2). [Pub. L. 103–465, § 321(a)(3)(B)][/us/pl/103/465/s321/a/3/B], inserted at end “If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent.”
+    Subsec. (e)(2). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(3)(B), inserted at end “If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent.”
 
-    Subsec. (e)(4). [Pub. L. 103–465, § 321(a)(3)(C)][/us/pl/103/465/s321/a/3/C], added par. (4).
+    Subsec. (e)(4). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(3)(C), added par. (4).
 
-    Subsec. (f)(1). [Pub. L. 103–465, § 321(a)(4)][/us/pl/103/465/s321/a/4], inserted at end “If a temporary cease and desist order is issued in addition to, or in lieu of, an exclusion order under subsection (e), the Commission may require the complainant to post a bond, in an amount determined by the Commission to be sufficient to protect the respondent from any injury, as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent. The Commission shall prescribe the terms and conditions under which the bonds may be forfeited under this paragraph.”
+    Subsec. (f)(1). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(4), inserted at end “If a temporary cease and desist order is issued in addition to, or in lieu of, an exclusion order under subsection (e), the Commission may require the complainant to post a bond, in an amount determined by the Commission to be sufficient to protect the respondent from any injury, as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent. The Commission shall prescribe the terms and conditions under which the bonds may be forfeited under this paragraph.”
 
-    Subsec. (g)(2)(C). [Pub. L. 103–465, § 321(a)(5)(B)][/us/pl/103/465/s321/a/5/B], added subpar. (C).
+    Subsec. (g)(2)(C). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(5)(B), added subpar. (C).
 
-    Subsec. (j)(3). [Pub. L. 103–465, § 321(a)(6)][/us/pl/103/465/s321/a/6], substituted “shall, until such determination becomes final, be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the determination becomes final, the bond may be forfeited to the complainant. The Commission shall prescribe the terms and conditions under which bonds may be forfeited under this paragraph.” for “shall be entitled to entry under bond determined by the Commission and prescribed by the Secretary until such determination becomes final.”
+    Subsec. (j)(3). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(6), substituted “shall, until such determination becomes final, be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the determination becomes final, the bond may be forfeited to the complainant. The Commission shall prescribe the terms and conditions under which bonds may be forfeited under this paragraph.” for “shall be entitled to entry under bond determined by the Commission and prescribed by the Secretary until such determination becomes final.”
 
-    Subsec. (l). [Pub. L. 103–465, § 321(a)(8)][/us/pl/103/465/s321/a/8], substituted “Court of Federal Claims” for “Claims Court”.
+    Subsec. (l). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(8), substituted “Court of Federal Claims” for “Claims Court”.
 
-    Subsec. (n)(2)(A). [Pub. L. 103–465, § 321(a)(7)(A)][/us/pl/103/465/s321/a/7/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an officer or employee of the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted,”.
+    Subsec. (n)(2)(A). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(7)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an officer or employee of the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted,”.
 
-    Subsec. (n)(2)(C). [Pub. L. 103–465, § 321(a)(7)(B)][/us/pl/103/465/s321/a/7/B], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under this section resulting from the investigation in connection with which the information is submitted.”
+    Subsec. (n)(2)(C). [Pub. L. 103–465][/us/pl/103/465], § 321(a)(7)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under this section resulting from the investigation in connection with which the information is submitted.”
 
     1992—Subsec. (b)(3). [Pub. L. 102–563][/us/pl/102/563] amended second sentence generally. Prior to amendment, second sentence read as follows: “If the Commission has reason to believe the matter before it is based solely on alleged acts and effects which are within the purview of section 1303, 1671, or 1673 of this title, it shall terminate, or not institute, any investigation into the matter.”
 
-    1988—Subsec. (a). [Pub. L. 100–418, § 1342(a)(1)][/us/pl/100/418/s1342/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unfair methods of competition and unfair acts in the importation of articles into the United States, or in their sale by the owner, importer, consignee, or agent of either, the effect or tendency of which is to destroy or substantially injure an industry, efficiently and economically operated, in the United States, or to prevent the establishment of such an industry, or to restrain or monopolize trade and commerce in the United States, are declared unlawful, and when found by the Commission to exist shall be dealt with, in addition to any other provisions of law, as provided in this section.”
+    1988—Subsec. (a). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unfair methods of competition and unfair acts in the importation of articles into the United States, or in their sale by the owner, importer, consignee, or agent of either, the effect or tendency of which is to destroy or substantially injure an industry, efficiently and economically operated, in the United States, or to prevent the establishment of such an industry, or to restrain or monopolize trade and commerce in the United States, are declared unlawful, and when found by the Commission to exist shall be dealt with, in addition to any other provisions of law, as provided in this section.”
 
-    Subsec. (b)(2). [Pub. L. 100–418, § 1342(b)(1)(A)][/us/pl/100/418/s1342/b/1/A], substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+    Subsec. (b)(2). [Pub. L. 100–418][/us/pl/100/418], § 1342(b)(1)(A), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
-    Subsec. (b)(3). [Pub. L. 100–418, § 1342(b)(1)(B)][/us/pl/100/418/s1342/b/1/B], substituted “Secretary of Commerce” for “Secretary of the Treasury”.
+    Subsec. (b)(3). [Pub. L. 100–418][/us/pl/100/418], § 1342(b)(1)(B), substituted “Secretary of Commerce” for “Secretary of the Treasury”.
 
-    Subsec. (c). [Pub. L. 100–418, § 1342(a)(2)][/us/pl/100/418/s1342/a/2], inserted before period at end of first sentence “, except that the Commission may, by issuing a consent order or on the basis of a settlement agreement, terminate any such investigation, in whole or in part, without making such a determination”.
+    Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(2), inserted before period at end of first sentence “, except that the Commission may, by issuing a consent order or on the basis of a settlement agreement, terminate any such investigation, in whole or in part, without making such a determination”.
 
-    [Pub. L. 100–418, § 1342(b)(2)][/us/pl/100/418/s1342/b/2], inserted reference to subsec. (g) in two places.
+    [Pub. L. 100–418][/us/pl/100/418], § 1342(b)(2), inserted reference to subsec. (g) in two places.
 
-    Subsec. (e). [Pub. L. 100–418, § 1342(a)(3)][/us/pl/100/418/s1342/a/3], designated existing provisions as par. (1) and added pars. (2) and (3).
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(3), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (f)(1). [Pub. L. 100–418, § 1342(a)(4)(A)][/us/pl/100/418/s1342/a/4/A], substituted “In addition to, or in lieu of,” for “In lieu of”.
+    Subsec. (f)(1). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(4)(A), substituted “In addition to, or in lieu of,” for “In lieu of”.
 
-    Subsec. (f)(2). [Pub. L. 100–418, § 1342(a)(4)(B)][/us/pl/100/418/s1342/a/4/B], substituted “$100,000 or twice” for “$10,000 or”.
+    Subsec. (f)(2). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(4)(B), substituted “$100,000 or twice” for “$10,000 or”.
 
-    Subsecs. (g) to (i). [Pub. L. 100–418, § 1342(a)(5)][/us/pl/100/418/s1342/a/5], added subsecs. (g) to (i). Former subsecs. (g) to (i) redesignated (j) to (l), respectively.
+    Subsecs. (g) to (i). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(5), added subsecs. (g) to (i). Former subsecs. (g) to (i) redesignated (j) to (l), respectively.
 
-    Subsec. (j). [Pub. L. 100–418, § 1342(a)(5)(A)][/us/pl/100/418/s1342/a/5/A], redesignated former subsec. (g) as (j). Former subsec. (j) redesignated (m).
+    Subsec. (j). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(5)(A), redesignated former subsec. (g) as (j). Former subsec. (j) redesignated (m).
 
-    Subsec. (j)(1)(B), (2), (3). [Pub. L. 100–418, § 1342(b)(3)][/us/pl/100/418/s1342/b/3], inserted reference to subsecs. (g) and (i).
+    Subsec. (j)(1)(B), (2), (3). [Pub. L. 100–418][/us/pl/100/418], § 1342(b)(3), inserted reference to subsecs. (g) and (i).
 
-    Subsec. (k). [Pub. L. 100–418, § 1342(b)(4)][/us/pl/100/418/s1342/b/4], which directed the substitution “(j)” for “(g)” was executed by making that substitution in par. (1) and not in par. (2), as added by [Pub. L. 100–418, § 1342(a)(6)][/us/pl/100/418/s1342/a/6], to reflect the probable intent of Congress.
+    Subsec. (k). [Pub. L. 100–418][/us/pl/100/418], § 1342(b)(4), which directed the substitution “(j)” for “(g)” was executed by making that substitution in par. (1) and not in par. (2), as added by [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(6), to reflect the probable intent of Congress.
 
-    [Pub. L. 100–418, § 1342(a)(6)][/us/pl/100/418/s1342/a/6], as amended by [Pub. L. 100–647, § 9001(a)(7)][/us/pl/100/647/s9001/a/7], designated existing provisions as par. (1) and added par. (2).
+    [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(6), as amended by [Pub. L. 100–647][/us/pl/100/647], § 9001(a)(7), designated existing provisions as par. (1) and added par. (2).
 
-    [Pub. L. 100–418, § 1342(a)(5)(A)][/us/pl/100/418/s1342/a/5/A], redesignated former subsec. (h) as (k).
+    [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(5)(A), redesignated former subsec. (h) as (k).
 
-    Subsec. (l). [Pub. L. 100–418, § 1342(b)(5)][/us/pl/100/418/s1342/b/5], inserted reference to subsecs. (g) and (i).
+    Subsec. (l). [Pub. L. 100–418][/us/pl/100/418], § 1342(b)(5), inserted reference to subsecs. (g) and (i).
 
-    [Pub. L. 100–418, § 1342(a)(7)][/us/pl/100/418/s1342/a/7], substituted “a proceeding involving a patent, copyright, or mask work under subsection (a)(1)” for “claims of United States letters patent” and “an owner of the patent, copyright, or mask work” for “a patent owner”.
+    [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(7), substituted “a proceeding involving a patent, copyright, or mask work under subsection (a)(1)” for “claims of United States letters patent” and “an owner of the patent, copyright, or mask work” for “a patent owner”.
 
-    [Pub. L. 100–418, § 1342(a)(5)(A)][/us/pl/100/418/s1342/a/5/A], redesignated former subsec. (i) as (l).
+    [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(5)(A), redesignated former subsec. (i) as (l).
 
-    Subsec. (m). [Pub. L. 100–418, § 1342(a)(5)(A)][/us/pl/100/418/s1342/a/5/A], redesignated former subsec. (j) as (m).
+    Subsec. (m). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(5)(A), redesignated former subsec. (j) as (m).
 
-    [Pub. L. 100–418, § 1214(h)(3)][/us/pl/100/418/s1214/h/3], substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
+    [Pub. L. 100–418][/us/pl/100/418], § 1214(h)(3), substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
 
-    Subsec. (n). [Pub. L. 100–418, § 1342(a)(8)][/us/pl/100/418/s1342/a/8], added subsec. (n).
+    Subsec. (n). [Pub. L. 100–418][/us/pl/100/418], § 1342(a)(8), added subsec. (n).
 
-    Subsec. (n)(2)(B). [Pub. L. 100–647, § 9001(a)(12)][/us/pl/100/647/s9001/a/12], substituted “subsection (j)” for “subsection (h)”.
+    Subsec. (n)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 9001(a)(12), substituted “subsection (j)” for “subsection (h)”.
 
     1984—Subsec. (c). [Pub. L. 98–620][/us/pl/98/620] inserted “, within 60 days after the determination becomes final,” after “appeal such determination”.
 
-    1982—Subsec. (c). [Pub. L. 97–164, § 163(a)(4)][/us/pl/97/164/s163/a/4], substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+    1982—Subsec. (c). [Pub. L. 97–164][/us/pl/97/164], § 163(a)(4), substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 
-    Subsec. (i). [Pub. L. 97–164, § 160(a)(5)][/us/pl/97/164/s160/a/5], substituted “United States Claims Court” for “Court of Claims”.
+    Subsec. (i). [Pub. L. 97–164][/us/pl/97/164], § 160(a)(5), substituted “United States Claims Court” for “Court of Claims”.
 
     1980—Subsec. (c). [Pub. L. 96–417][/us/pl/96/417] provided that the appeal of determinations to the United States Court of Customs and Patent Appeals be reviewed in accordance with chapter 7 of title 5 and substituted provision that review of findings concerning the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy, be in accordance with [section 706 of title 5][/us/usc/t5/s706] for provision giving such court jurisdiction to review determinations in same manner and subject to same limitations and conditions as in case of appeals from decisions of the United States Customs Court.
 
-    1979—Subsec. (b)(3). [Pub. L. 96–39, § 1105(a)][/us/pl/96/39/s1105/a], substituted “a matter, in whole or in part,” for “the matter” and inserted provisions relating to matters based solely or in part on alleged acts and effects within the purview of section 1303, 1671, or 1673 of this title.
+    1979—Subsec. (b)(3). [Pub. L. 96–39][/us/pl/96/39], § 1105(a), substituted “a matter, in whole or in part,” for “the matter” and inserted provisions relating to matters based solely or in part on alleged acts and effects within the purview of section 1303, 1671, or 1673 of this title.
 
-    [Pub. L. 96–39, § 106(b)(1)][/us/pl/96/39/s106/b/1], substituted “part II of subtitle IV of this chapter” for “the Antidumping Act, 1921”.
+    [Pub. L. 96–39][/us/pl/96/39], § 106(b)(1), substituted “part II of subtitle IV of this chapter” for “the Antidumping Act, 1921”.
 
-    Subsec. (c). [Pub. L. 96–39, § 1105(c)][/us/pl/96/39/s1105/c], substituted “Any person adversely affected by a final determination of the Commission under subsection (d), (e), or (f)” for “Any person adversely affected by a final determination of the Commission under subsection (d) or (e)”.
+    Subsec. (c). [Pub. L. 96–39][/us/pl/96/39], § 1105(c), substituted “Any person adversely affected by a final determination of the Commission under subsection (d), (e), or (f)” for “Any person adversely affected by a final determination of the Commission under subsection (d) or (e)”.
 
-    Subsec. (f). [Pub. L. 96–39, § 1105(b)][/us/pl/96/39/s1105/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (f). [Pub. L. 96–39][/us/pl/96/39], § 1105(b), designated existing provisions as par. (1) and added par. (2).
 
     1975—Subsec. (a) [Pub. L. 93–618][/us/pl/93/618] substituted “Commission” for “President” and “as provided in this section” for “as hereinafter provided”.
 
@@ -389,7 +389,7 @@
 
     Amendment by [section 261(d)(1)(B)(ii) of Pub. L. 103–465][/us/pl/103/465/s261/d/1/B/ii] effective on effective date of title II of [Pub. L. 103–465][/us/pl/103/465], Jan. 1, 1995, see [section 261(d)(2) of Pub. L. 103–465][/us/pl/103/465/s261/d/2], set out as a note under [section 1315 of this title][/us/usc/t19/s1315].
 
-[Pub. L. 103–465, title III, § 322][/us/pl/103/465/s322], Dec. 8, 1994, [108 Stat. 4947][/us/stat/108/4947], provided that: 
+[Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 322, Dec. 8, 1994, [108 Stat. 4947][/us/stat/108/4947], provided that: 
 
 > “The amendments made by this subtitle \[subtitle C (§§ 321, 322) of title III of [Pub. L. 103–465][/us/pl/103/465], enacting sections 1368 and 1659 of Title 28, Judiciary and Judicial Procedure, and amending this section and [section 1446 of Title 28][/us/usc/t28/s1446]\] apply—
 
@@ -403,7 +403,7 @@
 
     Amendment by [section 1214(h)(3) of Pub. L. 100–418][/us/pl/100/418/s1214/h/3] effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see [section 1217(b)(1) of Pub. L. 100–418][/us/pl/100/418/s1217/b/1], set out as an Effective Date note under [section 3001 of this title][/us/usc/t19/s3001].
 
-[Pub. L. 100–418, title I, § 1342(d)][/us/pl/100/418/s1342/d], Aug. 23, 1988, [102 Stat. 1216][/us/stat/102/1216], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1342(d), Aug. 23, 1988, [102 Stat. 1216][/us/stat/102/1216], provided that:
 
 >     “(1)
 
@@ -441,7 +441,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–618, title III, § 341(c)][/us/pl/93/618/s341/c], Jan. 3, 1975, [88 Stat. 2056][/us/stat/88/2056], provided that: 
+[Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 341(c), Jan. 3, 1975, [88 Stat. 2056][/us/stat/88/2056], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1337 of this title][/us/usc/t19/s1337]\] shall take effect on the 90th day after the date of the enactment of this Act \[Jan. 3, 1975\], except that, for purposes of issuing regulations under section 337 of the Tariff Act of 1930 \[this section\], such amendments shall take effect on the date of the enactment of this Act \[Jan. 3, 1975\]. For purposes of applying section 337(b) of the Tariff Act of 1930 \[subsec. (b) of this section\] (as amended by subsection (a) \[as amended by [section 341(a) of Pub. L. 93–618][/us/pl/93/618/s341/a]\]) with respect to investigations being conducted by the International Trade Commission under section 337 of the Tariff Act \[this section\] on the day prior to the 90th day after the date of the enactment of this Act \[Jan. 3, 1975\], such investigations shall be considered as having been commenced on such 90th day.”
 
@@ -451,7 +451,7 @@
 
  __Congressional Findings and Purposes Respecting Part 3 of__  __[__  __Pub. L. 100–418__  __][/us/pl/100/418]__ 
 
-[Pub. L. 100–418, title I, § 1341][/us/pl/100/418/s1341], Aug. 23, 1988, [102 Stat. 1211][/us/stat/102/1211], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1341, Aug. 23, 1988, [102 Stat. 1211][/us/stat/102/1211], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -494,31 +494,31 @@
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F703
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/pl/85/686/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs9%2Fc%2F1
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
 [/us/stat/72/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F679
-[/us/pl/93/618/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs341%2Fa
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
 [/us/stat/88/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2053
-[/us/pl/96/39/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fb%2F1
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
-[/us/pl/96/417/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs604
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1744
-[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F48
-[/us/pl/98/620/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs413
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3362
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1157
-[/us/pl/100/647/s9001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F7
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3807
-[/us/pl/102/563/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563%2Fs3%2Fd
+[/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
 [/us/stat/106/4248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4248
-[/us/pl/103/465/s261/d/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FB%2Fii
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4909
-[/us/pl/104/295/s20/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F11
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/429/s2004/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fd%2F5
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2592
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427
@@ -526,75 +526,75 @@
 [/us/usc/t19/s1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1340
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F943
-[/us/pl/108/429/s2004/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fd%2F5%2FA
-[/us/pl/108/429/s2004/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fd%2F5%2FB
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/104/295/s20/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F2
-[/us/pl/103/465/s321/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F1%2FC%2Fi
-[/us/pl/104/295/s20/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F12
-[/us/pl/104/295/s20/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F11
-[/us/pl/103/465/s261/d/1/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FB%2Fii%2FI
-[/us/pl/103/465/s321/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F1%2FA
-[/us/pl/103/465/s321/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F1%2FB
-[/us/pl/103/465/s321/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F1%2FC%2Fii
-[/us/pl/103/465/s321/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F1%2FC%2Fi
-[/us/pl/104/295/s20/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F2
-[/us/pl/103/465/s261/d/1/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FB%2Fii%2FII
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
-[/us/pl/103/465/s261/d/1/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FB%2Fii%2FI
-[/us/pl/104/295/s20/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F11
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
-[/us/pl/103/465/s321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F2
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/103/465/s321/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F5%2FA
-[/us/pl/103/465/s321/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F3%2FA
-[/us/pl/103/465/s321/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F3%2FB
-[/us/pl/103/465/s321/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F3%2FC
-[/us/pl/103/465/s321/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F4
-[/us/pl/103/465/s321/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F5%2FB
-[/us/pl/103/465/s321/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F6
-[/us/pl/103/465/s321/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F8
-[/us/pl/103/465/s321/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F7%2FA
-[/us/pl/103/465/s321/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fa%2F7%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/102/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F563
-[/us/pl/100/418/s1342/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F1
-[/us/pl/100/418/s1342/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fb%2F1%2FA
-[/us/pl/100/418/s1342/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fb%2F1%2FB
-[/us/pl/100/418/s1342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F2
-[/us/pl/100/418/s1342/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fb%2F2
-[/us/pl/100/418/s1342/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F3
-[/us/pl/100/418/s1342/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F4%2FA
-[/us/pl/100/418/s1342/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F4%2FB
-[/us/pl/100/418/s1342/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F5
-[/us/pl/100/418/s1342/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F5%2FA
-[/us/pl/100/418/s1342/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fb%2F3
-[/us/pl/100/418/s1342/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fb%2F4
-[/us/pl/100/418/s1342/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F6
-[/us/pl/100/418/s1342/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F6
-[/us/pl/100/647/s9001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F7
-[/us/pl/100/418/s1342/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F5%2FA
-[/us/pl/100/418/s1342/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fb%2F5
-[/us/pl/100/418/s1342/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F7
-[/us/pl/100/418/s1342/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F5%2FA
-[/us/pl/100/418/s1342/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F5%2FA
-[/us/pl/100/418/s1214/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fh%2F3
-[/us/pl/100/418/s1342/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fa%2F8
-[/us/pl/100/647/s9001/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F12
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
-[/us/pl/97/164/s163/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs163%2Fa%2F4
-[/us/pl/97/164/s160/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F5
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/96/39/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1105%2Fa
-[/us/pl/96/39/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fb%2F1
-[/us/pl/96/39/s1105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1105%2Fc
-[/us/pl/96/39/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1105%2Fb
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
@@ -611,7 +611,7 @@
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s261/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F2
 [/us/usc/t19/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1315
-[/us/pl/103/465/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs322
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4947
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
@@ -622,7 +622,7 @@
 [/us/pl/100/418/s1214/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fh%2F3
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
-[/us/pl/100/418/s1342/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fd
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1216
 [/us/usc/t19/s1337a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337a
 [/us/usc/t19/s1337/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337%2Fe%2F2
@@ -638,13 +638,13 @@
 [/us/pl/96/39/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1105
 [/us/pl/96/39/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1114
 [/us/usc/t19/s2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2581
-[/us/pl/93/618/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs341%2Fc
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
 [/us/stat/88/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2056
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/pl/93/618/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs341%2Fa
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/100/418/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1341
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1211
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s1337a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337a

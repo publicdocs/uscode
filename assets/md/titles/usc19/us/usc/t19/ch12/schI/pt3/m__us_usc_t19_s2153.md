@@ -23,7 +23,7 @@
 
         The organization holding such hearing shall furnish the President with a summary thereof.
 
-([Pub. L. 93–618, title I, § 133][/us/pl/93/618/s133], Jan. 3, 1975, [88 Stat. 1995][/us/stat/88/1995]; [Pub. L. 100–418, title I, § 1111(a)][/us/pl/100/418/s1111/a], Aug. 23, 1988, [102 Stat. 1137][/us/stat/102/1137]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(3)][/us/pl/107/210/s2110/a/3], Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020]; [Pub. L. 114–26, title I, § 110(a)(3)][/us/pl/114/26/s110/a/3], June 29, 2015, [129 Stat. 357][/us/stat/129/357].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 133, Jan. 3, 1975, [88 Stat. 1995][/us/stat/88/1995]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1111(a), Aug. 23, 1988, [102 Stat. 1137][/us/stat/102/1137]; [Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2110(a)(3), Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020]; [Pub. L. 114–26, title I][/us/pl/114/26/tI], § 110(a)(3), June 29, 2015, [129 Stat. 357][/us/stat/129/357].)
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2151
-[/us/pl/93/618/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs133
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1995
-[/us/pl/100/418/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1111%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1137
-[/us/pl/107/210/s2110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F3
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1020
-[/us/pl/114/26/s110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F3
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F357
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202

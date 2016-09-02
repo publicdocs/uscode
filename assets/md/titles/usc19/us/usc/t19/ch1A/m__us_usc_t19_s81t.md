@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application of such provision to certain circumstances be held invalid, the remainder of this chapter and the application of such provisions to circumstances other than those as to which it is held invalid shall not be affected thereby.
 
-([June 18, 1934, ch. 590, § 20][/us/act/1934-06-18/ch590/s20], [48 Stat. 1003][/us/stat/48/1003].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 20, [48 Stat. 1003][/us/stat/48/1003].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs20
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1003
 
 

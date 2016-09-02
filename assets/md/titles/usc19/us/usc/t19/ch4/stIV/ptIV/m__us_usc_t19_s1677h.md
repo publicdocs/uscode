@@ -17,7 +17,7 @@
 
     For purposes of any law relating to the drawback of customs duties, countervailing duties and antidumping duties imposed by this subtitle shall not be treated as being regular customs duties.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 779, as added [Pub. L. 98–573, title VI, § 622(a)(2)][/us/pl/98/573/s622/a/2], Oct. 30, 1984, [98 Stat. 3039][/us/stat/98/3039]; amended [Pub. L. 100–418, title I, § 1334(a)][/us/pl/100/418/s1334/a], (b)(1), Aug. 23, 1988, [102 Stat. 1209][/us/stat/102/1209], 1210.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 779, as added [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 622(a)(2), Oct. 30, 1984, [98 Stat. 3039][/us/stat/98/3039]; amended [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1334(a), (b)(1), Aug. 23, 1988, [102 Stat. 1209][/us/stat/102/1209], 1210.)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/98/573/s622/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs622%2Fa%2F2
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3039
-[/us/pl/100/418/s1334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1334%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1209
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

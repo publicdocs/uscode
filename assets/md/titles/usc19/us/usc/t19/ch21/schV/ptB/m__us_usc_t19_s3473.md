@@ -39,7 +39,7 @@
 
         (3) the term “United States” means the United States, its territories and possessions, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 103–182, title V, § 533][/us/pl/103/182/s533], Dec. 8, 1993, [107 Stat. 2164][/us/stat/107/2164].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 533, Dec. 8, 1993, [107 Stat. 2164][/us/stat/107/2164].)
 
  __Ex. Ord. No. 12916. Implementation of Border Environment Cooperation Commission and North American Development Bank__ 
 
@@ -79,6 +79,10 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
+ __Extension of Term of Good Neighbor Environmental Board__ 
+
+    Term of the Good Neighbor Environmental Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t19/ch21/schV/ptB/m__us_usc_t19_s3472.md) | [Next](./../../../../../..//us/usc/t19/ch22/m__us_usc_t19_ch22.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3473)
@@ -88,7 +92,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 [/us/usc/t28/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs460
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
-[/us/pl/103/182/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs533
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2164
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057

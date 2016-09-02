@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the President may not allocate any limitation imposed on the quantity of sugar to any country which has a Government involved in the trade of illicit narcotics or is failing to cooperate with the United States in narcotics enforcement activities as defined in [section 2492(b) of this title][/us/usc/t19/s2492/b] as determined by the President.
 
-([Pub. L. 93–618, title VIII, § 803][/us/pl/93/618/s803], as added [Pub. L. 99–570, title IX, § 9001][/us/pl/99/570/s9001], Oct. 27, 1986, [100 Stat. 3207–165][/us/stat/100/3207-165].)
+([Pub. L. 93–618, title VIII][/us/pl/93/618/tVIII], § 803, as added [Pub. L. 99–570, title IX][/us/pl/99/570/tIX], § 9001, Oct. 27, 1986, [100 Stat. 3207–165][/us/stat/100/3207-165].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t19/s2492/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2492%2Fb
-[/us/pl/93/618/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs803
-[/us/pl/99/570/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs9001
+[/us/pl/93/618/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVIII
+[/us/pl/99/570/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIX
 [/us/stat/100/3207-165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-165
 
 

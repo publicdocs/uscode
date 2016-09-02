@@ -93,7 +93,7 @@
 
         (2) upon request to the importer, manufacturer, or authorized official of such importer or manufacturer.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 802, as added [Pub. L. 106–476, title IV, § 4004(a)][/us/pl/106/476/s4004/a], Nov. 9, 2000, [114 Stat. 2178][/us/stat/114/2178]; amended [Pub. L. 109–432, div. C, title IV, § 401(b)][/us/pl/109/432/s401/b], (c), (e)(1), (2), (4)(B), Dec. 20, 2006, [120 Stat. 3048][/us/stat/120/3048], 3049.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 802, as added [Pub. L. 106–476, title IV][/us/pl/106/476/tIV], § 4004(a), Nov. 9, 2000, [114 Stat. 2178][/us/stat/114/2178]; amended [Pub. L. 109–432, div. C, title IV][/us/pl/109/432/dC/tIV], § 401(b), (c), (e)(1), (2), (4)(B), Dec. 20, 2006, [120 Stat. 3048][/us/stat/120/3048], 3049.)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
     The Trademark Act of 1946, referred to in subsec. (b), is [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], [60 Stat. 427][/us/stat/60/427], as amended, also popularly known as the Lanham Act. Title I of the Act is classified generally to subchapter I (§ 1051 et seq.) of chapter 22 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15][/us/usc/t15/s1051] and Tables.
 
-    Sections 1333 and 4402 of title 15, referred to in subsecs. (a)(3) and (c)(2)(B), were amended by [Pub. L. 111–31, div. A, title II][/us/pl/111/31], §§ 201(a), 202(b), 204(a), 205(a), 206, June 22, 2009, [123 Stat. 1842][/us/stat/123/1842], 1845, 1846, 1848, 1849, and, as so amended, sections 1333(c) and 4402(d) no longer relate to the Federal Trade Commission’s approval of a rotation plan.
+    Sections 1333 and 4402 of title 15, referred to in subsecs. (a)(3) and (c)(2)(B), were amended by [Pub. L. 111–31, div. A, title II][/us/pl/111/31/dA/tII], §§ 201(a), 202(b), 204(a), 205(a), 206, June 22, 2009, [123 Stat. 1842][/us/stat/123/1842], 1845, 1846, 1848, 1849, and, as so amended, sections 1333(c) and 4402(d) no longer relate to the Federal Trade Commission’s approval of a rotation plan.
 
  __Codification__ 
 
@@ -109,55 +109,55 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–432, § 401(e)(4)(B)][/us/pl/109/432/s401/e/4/B], inserted “and smokeless tobacco products” after “cigarettes” in section catchline.
+    2006—[Pub. L. 109–432][/us/pl/109/432], § 401(e)(4)(B), inserted “and smokeless tobacco products” after “cigarettes” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” in introductory provisions.
+    Subsec. (a). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 109–432, § 401(e)(2)(A)(i)][/us/pl/109/432/s401/e/2/A/i], inserted “or [section 4403 of title 15][/us/usc/t15/s4403], as the case may be” after “[section 1335a of title 15][/us/usc/t15/s1335a]”.
+    Subsec. (a)(1). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(A)(i), inserted “or [section 4403 of title 15][/us/usc/t15/s4403], as the case may be” after “[section 1335a of title 15][/us/usc/t15/s1335a]”.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” in two places.
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” in two places.
 
-    Subsec. (a)(2). [Pub. L. 109–432, § 401(e)(2)(A)(ii)][/us/pl/109/432/s401/e/2/A/ii], inserted “or [section 4402 of title 15][/us/usc/t15/s4402], as the case may be,” after “[section 1333 of title 15][/us/usc/t15/s1333]” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(A)(ii), inserted “or [section 4402 of title 15][/us/usc/t15/s4402], as the case may be,” after “[section 1333 of title 15][/us/usc/t15/s1333]” in introductory provisions.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” in subpars. (A) and (B).
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” in subpars. (A) and (B).
 
-    Subsec. (a)(3). [Pub. L. 109–432, § 401(e)(2)(A)(iii)][/us/pl/109/432/s401/e/2/A/iii], inserted “or [section 4402(d) of title 15][/us/usc/t15/s4402/d], as the case may be” after “[section 1333(c) of title 15][/us/usc/t15/s1333/c]”.
+    Subsec. (a)(3). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(A)(iii), inserted “or [section 4402(d) of title 15][/us/usc/t15/s4402/d], as the case may be” after “[section 1333(c) of title 15][/us/usc/t15/s1333/c]”.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” in two places.
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” in two places.
 
-    Subsec. (a)(4). [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” wherever appearing.
+    Subsec. (a)(4). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” wherever appearing.
 
-    Subsec. (b). [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], which directed insertion of “or smokeless tobacco products” after “cigarettes” wherever appearing, was executed by making the insertion after “Cigarettes” in introductory provisions, to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), which directed insertion of “or smokeless tobacco products” after “cigarettes” wherever appearing, was executed by making the insertion after “Cigarettes” in introductory provisions, to reflect the probable intent of Congress.
 
-    Subsec. (b)(1). [Pub. L. 109–432, § 401(e)(2)(B)(i)][/us/pl/109/432/s401/e/2/B/i], inserted “or smokeless tobacco products” after “cigarettes” in heading.
+    Subsec. (b)(1). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(B)(i), inserted “or smokeless tobacco products” after “cigarettes” in heading.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], which directed insertion of “or smokeless tobacco products” after “cigarettes” wherever appearing, was executed by making the insertion after “Cigarettes” in subsec. (b)(1), to reflect the probable intent of Congress.
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), which directed insertion of “or smokeless tobacco products” after “cigarettes” wherever appearing, was executed by making the insertion after “Cigarettes” in subsec. (b)(1), to reflect the probable intent of Congress.
 
-    [Pub. L. 109–432, § 401(b)][/us/pl/109/432/s401/b], inserted at end “The preceding sentence shall not apply to any cigarettes or smokeless tobacco products sold in connection with a delivery sale.”
+    [Pub. L. 109–432][/us/pl/109/432], § 401(b), inserted at end “The preceding sentence shall not apply to any cigarettes or smokeless tobacco products sold in connection with a delivery sale.”
 
-    Subsec. (b)(2), (3). [Pub. L. 109–432, § 401(e)(2)(B)(ii)][/us/pl/109/432/s401/e/2/B/ii], inserted “or smokeless tobacco products” after “Cigarettes” in heading.
+    Subsec. (b)(2), (3). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(B)(ii), inserted “or smokeless tobacco products” after “Cigarettes” in heading.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], which directed insertion of “or smokeless tobacco products” after “cigarettes” wherever appearing, was executed by making the insertion after “Cigarettes” and “cigarettes” wherever appearing, to reflect the probable intent of Congress.
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), which directed insertion of “or smokeless tobacco products” after “cigarettes” wherever appearing, was executed by making the insertion after “Cigarettes” and “cigarettes” wherever appearing, to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 109–432, § 401(e)(2)(C)(i)][/us/pl/109/432/s401/e/2/C/i], inserted “or smokeless tobacco product” after “cigarette” in heading.
+    Subsec. (c). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(C)(i), inserted “or smokeless tobacco product” after “cigarette” in heading.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” in introductory and concluding provisions.
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” in introductory and concluding provisions.
 
-    Subsec. (c)(1). [Pub. L. 109–432, § 401(e)(2)(C)(ii)][/us/pl/109/432/s401/e/2/C/ii], inserted “or [section 4403 of title 15][/us/usc/t15/s4403], as the case may be” after “[section 1335a of title 15][/us/usc/t15/s1335a]”.
+    Subsec. (c)(1). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(C)(ii), inserted “or [section 4403 of title 15][/us/usc/t15/s4403], as the case may be” after “[section 1335a of title 15][/us/usc/t15/s1335a]”.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” in two places.
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” in two places.
 
-    Subsec. (c)(2)(A). [Pub. L. 109–432, § 401(e)(2)(C)(iii)][/us/pl/109/432/s401/e/2/C/iii], inserted “or [section 4402 of title 15][/us/usc/t15/s4402], as the case may be,” after “[section 1333 of title 15][/us/usc/t15/s1333]” in introductory provisions.
+    Subsec. (c)(2)(A). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(C)(iii), inserted “or [section 4402 of title 15][/us/usc/t15/s4402], as the case may be,” after “[section 1333 of title 15][/us/usc/t15/s1333]” in introductory provisions.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” in cls. (i) and (ii).
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” in cls. (i) and (ii).
 
-    Subsec. (c)(2)(B). [Pub. L. 109–432, § 401(e)(2)(C)(iv)][/us/pl/109/432/s401/e/2/C/iv], inserted “or [section 4402(d) of title 15][/us/usc/t15/s4402/d], as the case may be” after “[section 1333(c) of title 15][/us/usc/t15/s1333/c]”.
+    Subsec. (c)(2)(B). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(2)(C)(iv), inserted “or [section 4402(d) of title 15][/us/usc/t15/s4402/d], as the case may be” after “[section 1333(c) of title 15][/us/usc/t15/s1333/c]”.
 
-    [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes”.
+    [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes”.
 
-    Subsec. (c)(3)(A). [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes” wherever appearing.
+    Subsec. (c)(3)(A). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes” wherever appearing.
 
-    Subsec. (d). [Pub. L. 109–432, § 401(c)][/us/pl/109/432/s401/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–432][/us/pl/109/432], § 401(c), added subsec. (d).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -180,54 +180,54 @@
 [/us/usc/t15/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333
 [/us/usc/t15/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/106/476/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4004%2Fa
+[/us/pl/106/476/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtIV
 [/us/stat/114/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2178
-[/us/pl/109/432/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fb
+[/us/pl/109/432/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtIV
 [/us/stat/120/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3048
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtII
 [/us/stat/123/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1842
 [/us/usc/t19/s1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683
-[/us/pl/109/432/s401/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F4%2FB
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FA%2Fi
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t15/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4403
 [/us/usc/t15/s1335a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1335a
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FA%2Fii
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t15/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402
 [/us/usc/t15/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FA%2Fiii
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t15/s4402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402%2Fd
 [/us/usc/t15/s1333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333%2Fc
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FB%2Fi
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fb
-[/us/pl/109/432/s401/e/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FB%2Fii
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FC%2Fi
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FC%2Fii
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t15/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4403
 [/us/usc/t15/s1335a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1335a
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FC%2Fiii
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t15/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402
 [/us/usc/t15/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/2/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F2%2FC%2Fiv
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t15/s4402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402%2Fd
 [/us/usc/t15/s1333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333%2Fc
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fc
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fg
 [/us/usc/t19/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1681

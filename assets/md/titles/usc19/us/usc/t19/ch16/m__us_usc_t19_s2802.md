@@ -39,7 +39,7 @@
 
         (C) is for nonindustrial use.
 
-([Pub. L. 98–573, title IX, § 903][/us/pl/98/573/s903], Oct. 30, 1984, [98 Stat. 3048][/us/stat/98/3048].)
+([Pub. L. 98–573, title IX][/us/pl/98/573/tIX], § 903, Oct. 30, 1984, [98 Stat. 3048][/us/stat/98/3048].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t19/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2803
-[/us/pl/98/573/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs903
+[/us/pl/98/573/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIX
 [/us/stat/98/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3048
 
 

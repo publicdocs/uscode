@@ -89,7 +89,7 @@
 
         (2) imports of a CAFTA–DR article of a CAFTA–DR country that is a de minimis supplying country with respect to that article.
 
-([Pub. L. 109–53, title III, § 313][/us/pl/109/53/s313], Aug. 2, 2005, [119 Stat. 490][/us/stat/119/490].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 313, Aug. 2, 2005, [119 Stat. 490][/us/stat/119/490].)
 
  __Termination of Section__ 
 
@@ -115,7 +115,7 @@
 [/us/usc/t19/s1330/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1330%2Fd
 [/us/usc/t19/s1330/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1330%2Fd
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/pl/109/53/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs313
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F490
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618

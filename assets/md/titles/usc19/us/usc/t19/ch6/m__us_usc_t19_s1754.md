@@ -29,7 +29,7 @@
 
         The application of the permit requirements of the Federal Alcohol Administration Act and the occupational taxes prescribed by chapter 51 of the Internal Revenue Code of 1986 shall be determined without regard to this chapter.
 
-([Pub. L. 86–14, § 5][/us/pl/86/14/s5], Apr. 22, 1959, [73 Stat. 19][/us/stat/73/19]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 86–14][/us/pl/86/14], § 5, Apr. 22, 1959, [73 Stat. 19][/us/stat/73/19]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t19/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1752
 [/us/usc/t27/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs201
 [/us/usc/t19/s1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1753
-[/us/pl/86/14/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14%2Fs5
+[/us/pl/86/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14
 [/us/stat/73/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F19
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
 [/us/stat/49/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F977

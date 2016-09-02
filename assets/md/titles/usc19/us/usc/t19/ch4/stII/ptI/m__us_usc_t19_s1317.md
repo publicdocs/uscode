@@ -23,7 +23,7 @@
 
         The shipment or delivery of any merchandise for use as supplies (including equipment) upon, or in the maintenance or repair of any vessel or aircraft described in subdivision (2) or (3) of [section 1309(a) of this title][/us/usc/t19/s1309/a], or for use as ground equipment for any such aircraft, shall be deemed an exportation within the meaning of the customs and internal-revenue laws applicable to the exportation of such merchandise without the payment of duty or internal-revenue tax. With respect to merchandise for use as ground equipment, such shipment or delivery shall not be deemed an exportation within the meaning of the internal-revenue laws relating to taxes other than those imposed upon or by reason of importation.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 317, [46 Stat. 696][/us/stat/46/696]; [June 25, 1938, ch. 679, § 5(b)][/us/act/1938-06-25/ch679/s5/b], [52 Stat. 1081][/us/stat/52/1081]; [Aug. 8, 1953, ch. 397, § 11(b)][/us/act/1953-08-08/ch397/s11/b], [67 Stat. 514][/us/stat/67/514].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 317, [46 Stat. 696][/us/stat/46/696]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 5(b), [52 Stat. 1081][/us/stat/52/1081]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 11(b), [67 Stat. 514][/us/stat/67/514].)
 
  __References in Text__ 
 
@@ -58,9 +58,9 @@
 [/us/usc/t19/s1309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1309%2Fa
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F696
-[/us/act/1938-06-25/ch679/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs5%2Fb
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1081
-[/us/act/1953-08-08/ch397/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs11%2Fb
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F514
 [/us/usc/t26/s2197/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2197%2Fa
 [/us/usc/t26/s7851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851

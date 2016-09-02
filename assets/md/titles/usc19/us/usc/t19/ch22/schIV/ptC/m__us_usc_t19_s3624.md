@@ -33,7 +33,7 @@
 
         This section shall take effect on December 8, 1994.
 
-([Pub. L. 103–465, title IV, § 426][/us/pl/103/465/s426], Dec. 8, 1994, [108 Stat. 4966][/us/stat/108/4966].)
+([Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 426, Dec. 8, 1994, [108 Stat. 4966][/us/stat/108/4966].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t2/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs902
-[/us/pl/103/465/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs426
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4966
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/108/3179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3179

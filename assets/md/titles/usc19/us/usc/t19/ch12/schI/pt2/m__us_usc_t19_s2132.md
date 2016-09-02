@@ -89,7 +89,7 @@
 
         No provision of law authorizing the termination of tariff concessions shall be used to impose a surcharge on imports into the United States.
 
-([Pub. L. 93–618, title I, § 122][/us/pl/93/618/s122], Jan. 3, 1975, [88 Stat. 1987][/us/stat/88/1987].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 122, Jan. 3, 1975, [88 Stat. 1987][/us/stat/88/1987].)
 
 ----------
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t19/s2211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2211%2Fa
-[/us/pl/93/618/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs122
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1987
 
 

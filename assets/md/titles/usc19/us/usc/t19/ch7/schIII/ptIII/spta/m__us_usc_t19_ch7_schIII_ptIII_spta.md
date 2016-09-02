@@ -11,45 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/m__us_usc_t19_s1931.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptb/m__us_usc_t19_ch7_schIII_ptIII_sptb.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fspta)
+[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/m__us_usc_t19_s1931.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/spta/m__us_usc_t19_s1941...1944.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fspta)
 
 ##### subpart a—trade readjustment allowances
 
-§§ 1941 to 1944. __Repealed.__  __[__  __Pub. L. 93–618, title VI, § 602(e)__  __][/us/pl/93/618/s602/e]__  __,__  __Jan. 3, 1975__  __,__  __[__  __88 Stat. 2072__  __][/us/stat/88/2072]__ 
-
-    Section 1941, [Pub. L. 87–794, title III, § 322][/us/pl/87/794/s322], Oct. 11, 1962, [76 Stat. 892][/us/stat/76/892], set out qualifying requirements for trade readjustment allowances. See [section 2291 of this title][/us/usc/t19/s2291].
-
-    Section 1942, [Pub. L. 87–794, title III, § 323][/us/pl/87/794/s323], Oct. 11, 1962, [76 Stat. 893][/us/stat/76/893], set out provisions covering weekly amount for trade readjustment allowances. See [section 2292 of this title][/us/usc/t19/s2292].
-
-    Section 1943, [Pub. L. 87–794, title III, § 324][/us/pl/87/794/s324], Oct. 11, 1962, [76 Stat. 894][/us/stat/76/894], set out time limitations for trade readjustment allowances. See [section 2293 of this title][/us/usc/t19/s2293].
-
-    Section 1944, [Pub. L. 87–794, title III, § 325][/us/pl/87/794/s325], Oct. 11, 1962, [76 Stat. 894][/us/stat/76/894], provided for application of State laws. See [section 2294 of this title][/us/usc/t19/s2294].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective on 90th day following Jan. 3, 1975, see note set out under [section 1901 of this title][/us/usc/t19/s1901].
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/m__us_usc_t19_s1931.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptb/m__us_usc_t19_ch7_schIII_ptIII_sptb.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fspta)
+[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/m__us_usc_t19_s1931.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/spta/m__us_usc_t19_s1941...1944.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fspta)
 
 ----------
 ----------
 
-[/us/pl/93/618/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fe
-[/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/87/794/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs322
-[/us/stat/76/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F892
-[/us/usc/t19/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2291
-[/us/pl/87/794/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs323
-[/us/stat/76/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F893
-[/us/usc/t19/s2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2292
-[/us/pl/87/794/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs324
-[/us/stat/76/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F894
-[/us/usc/t19/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2293
-[/us/pl/87/794/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs325
-[/us/stat/76/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F894
-[/us/usc/t19/s2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2294
-[/us/usc/t19/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901
 
 

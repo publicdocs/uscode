@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1366.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/m__us_usc_t19_ch4_stIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1367)
 
-## § 1367. Repealed. [Pub. L. 87–456, title III, § 303(c)][/us/pl/87/456/s303/c], May 24, 1962, [76 Stat. 78][/us/stat/76/78]
+## § 1367. Repealed. [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 303(c), May 24, 1962, [76 Stat. 78][/us/stat/76/78]
 
-    Section, [act June 16, 1951, ch. 141, § 11][/us/act/1951-06-16/ch141/s11], [65 Stat. 75][/us/stat/65/75], required the President to take such measures as may be necessary to prevent the importation of ermine, fox, kolinsky, marten, mink, muskrat, and weasel furs and skins which are the product of the Union of Soviet Socialist Republics or of Communist China.
+    Section, [act June 16, 1951, ch. 141][/us/act/1951-06-16/ch141], § 11, [65 Stat. 75][/us/stat/65/75], required the President to take such measures as may be necessary to prevent the importation of ermine, fox, kolinsky, marten, mink, muskrat, and weasel furs and skins which are the product of the Union of Soviet Socialist Republics or of Communist China.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/87/456/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs303%2Fc
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F78
-[/us/act/1951-06-16/ch141/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-16%2Fch141%2Fs11
+[/us/act/1951-06-16/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-16%2Fch141
 [/us/stat/65/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F75
 [/us/pl/87/456/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs501%2Fa
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202

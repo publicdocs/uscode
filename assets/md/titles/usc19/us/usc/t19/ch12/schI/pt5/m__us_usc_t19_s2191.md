@@ -87,25 +87,25 @@
 
         (4) A motion in the Senate to further limit debate is not debatable. A motion to recommit an implementing bill or approval resolution is not in order.
 
-([Pub. L. 93–618, title I, § 151][/us/pl/93/618/s151], Jan. 3, 1975, [88 Stat. 2001][/us/stat/88/2001]; [Pub. L. 100–418, title I, § 1107(b)(1)][/us/pl/100/418/s1107/b/1], Aug. 23, 1988, [102 Stat. 1135][/us/stat/102/1135]; [Pub. L. 101–382, title I, § 132(b)(2)][/us/pl/101/382/s132/b/2], Aug. 20, 1990, [104 Stat. 645][/us/stat/104/645]; [Pub. L. 103–465, title II, § 282(c)(4)][/us/pl/103/465/s282/c/4], Dec. 8, 1994, [108 Stat. 4929][/us/stat/108/4929]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(1)][/us/pl/107/210/s2110/a/1], Aug. 6, 2002, [116 Stat. 1019][/us/stat/116/1019]; [Pub. L. 114–26, title I, § 110(a)(6)][/us/pl/114/26/s110/a/6], June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 151, Jan. 3, 1975, [88 Stat. 2001][/us/stat/88/2001]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1107(b)(1), Aug. 23, 1988, [102 Stat. 1135][/us/stat/102/1135]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 132(b)(2), Aug. 20, 1990, [104 Stat. 645][/us/stat/104/645]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 282(c)(4), Dec. 8, 1994, [108 Stat. 4929][/us/stat/108/4929]; [Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2110(a)(1), Aug. 6, 2002, [116 Stat. 1019][/us/stat/116/1019]; [Pub. L. 114–26, title I][/us/pl/114/26/tI], § 110(a)(6), June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
 
  __Amendments__ 
 
-    2015—Subsecs. (b)(1), (c)(1). [Pub. L. 114–26, § 110(a)(6)][/us/pl/114/26/s110/a/6], substituted “[section 4205(a)(1) of this title][/us/usc/t19/s4205/a/1]” for “[section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1]”.
+    2015—Subsecs. (b)(1), (c)(1). [Pub. L. 114–26][/us/pl/114/26], § 110(a)(6), substituted “[section 4205(a)(1) of this title][/us/usc/t19/s4205/a/1]” for “[section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1]”.
 
-    2002—Subsec. (b)(1). [Pub. L. 107–210, § 2110(a)(1)(A)][/us/pl/107/210/s2110/a/1/A], substituted “[section 3572 of this title][/us/usc/t19/s3572], or [section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1]” for “[section 2903(a)(1) of this title][/us/usc/t19/s2903/a/1], or [section 3572 of this title][/us/usc/t19/s3572]” in introductory provisions.
+    2002—Subsec. (b)(1). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(1)(A), substituted “[section 3572 of this title][/us/usc/t19/s3572], or [section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1]” for “[section 2903(a)(1) of this title][/us/usc/t19/s2903/a/1], or [section 3572 of this title][/us/usc/t19/s3572]” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 107–210, § 2110(a)(1)(B)][/us/pl/107/210/s2110/a/1/B], substituted “, [section 3572 of this title][/us/usc/t19/s3572], or [section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1]” for “or [section 3572 of this title][/us/usc/t19/s3572]”.
+    Subsec. (c)(1). [Pub. L. 107–210][/us/pl/107/210], § 2110(a)(1)(B), substituted “, [section 3572 of this title][/us/usc/t19/s3572], or [section 3805(a)(1) of this title][/us/usc/t19/s3805/a/1]” for “or [section 3572 of this title][/us/usc/t19/s3572]”.
 
-    1994—Subsec. (b)(1). [Pub. L. 103–465, § 282(c)(4)(A)][/us/pl/103/465/s282/c/4/A], in introductory provisions, inserted “, or with respect to an extension described in [section 3572(c)(3) of this title][/us/usc/t19/s3572/c/3],” after “trade agreements” and substituted “, [section 2903(a)(1) of this title][/us/usc/t19/s2903/a/1], or [section 3572 of this title][/us/usc/t19/s3572]” for “or [section 2903(a)(1) of this title][/us/usc/t19/s2903/a/1]”, and in subpars. (A) and (C), inserted “or such extension” after “agreements” wherever appearing.
+    1994—Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 282(c)(4)(A), in introductory provisions, inserted “, or with respect to an extension described in [section 3572(c)(3) of this title][/us/usc/t19/s3572/c/3],” after “trade agreements” and substituted “, [section 2903(a)(1) of this title][/us/usc/t19/s2903/a/1], or [section 3572 of this title][/us/usc/t19/s3572]” for “or [section 2903(a)(1) of this title][/us/usc/t19/s2903/a/1]”, and in subpars. (A) and (C), inserted “or such extension” after “agreements” wherever appearing.
 
-    Subsec. (c)(1). [Pub. L. 103–465, § 282(c)(4)(B)][/us/pl/103/465/s282/c/4/B], inserted “or [section 3572 of this title][/us/usc/t19/s3572]” after “[section 2112 of this title][/us/usc/t19/s2112]” and “or extension” after “agreement” wherever appearing.
+    Subsec. (c)(1). [Pub. L. 103–465][/us/pl/103/465], § 282(c)(4)(B), inserted “or [section 3572 of this title][/us/usc/t19/s3572]” after “[section 2112 of this title][/us/usc/t19/s2112]” and “or extension” after “agreement” wherever appearing.
 
-    1990—Subsec. (b)(2). [Pub. L. 101–382, § 132(b)(2)(A)][/us/pl/101/382/s132/b/2/A], (B), inserted “or resolution” after “revenue bill” and “, or approval resolution,” after “implementing bill”.
+    1990—Subsec. (b)(2). [Pub. L. 101–382][/us/pl/101/382], § 132(b)(2)(A), (B), inserted “or resolution” after “revenue bill” and “, or approval resolution,” after “implementing bill”.
 
-    Subsec. (b)(3). [Pub. L. 101–382, § 132(b)(2)(C)][/us/pl/101/382/s132/b/2/C], substituted “joint” for “concurrent”.
+    Subsec. (b)(3). [Pub. L. 101–382][/us/pl/101/382], § 132(b)(2)(C), substituted “joint” for “concurrent”.
 
-    Subsec. (e)(2). [Pub. L. 101–382, § 132(b)(2)(D)][/us/pl/101/382/s132/b/2/D], (E), substituted “revenue bill or resolution” for “revenue bill” in three places and “such bill or resolution” for “such bill” in five places.
+    Subsec. (e)(2). [Pub. L. 101–382][/us/pl/101/382], § 132(b)(2)(D), (E), substituted “revenue bill or resolution” for “revenue bill” in three places and “such bill or resolution” for “such bill” in five places.
 
     1988—Subsec. (b)(1). [Pub. L. 100–418][/us/pl/100/418] inserted reference to [section 2903(a)(1) of this title][/us/usc/t19/s2903/a/1].
 
@@ -127,41 +127,41 @@
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
 [/us/usc/t19/s4205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4205%2Fa%2F1
-[/us/pl/93/618/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs151
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2001
-[/us/pl/100/418/s1107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1107%2Fb%2F1
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1135
-[/us/pl/101/382/s132/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fb%2F2
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F645
-[/us/pl/103/465/s282/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs282%2Fc%2F4
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4929
-[/us/pl/107/210/s2110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F1
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1019
-[/us/pl/114/26/s110/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F6
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F358
-[/us/pl/114/26/s110/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F6
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4205%2Fa%2F1
 [/us/usc/t19/s3805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1
-[/us/pl/107/210/s2110/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F1%2FA
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
 [/us/usc/t19/s3805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1
 [/us/usc/t19/s2903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903%2Fa%2F1
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
-[/us/pl/107/210/s2110/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F1%2FB
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
 [/us/usc/t19/s3805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
-[/us/pl/103/465/s282/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs282%2Fc%2F4%2FA
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3572/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572%2Fc%2F3
 [/us/usc/t19/s2903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903%2Fa%2F1
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
 [/us/usc/t19/s2903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903%2Fa%2F1
-[/us/pl/103/465/s282/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs282%2Fc%2F4%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3572
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/101/382/s132/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fb%2F2%2FA
-[/us/pl/101/382/s132/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fb%2F2%2FC
-[/us/pl/101/382/s132/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fb%2F2%2FD
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903%2Fa%2F1
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

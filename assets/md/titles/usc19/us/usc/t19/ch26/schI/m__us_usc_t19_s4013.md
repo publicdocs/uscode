@@ -39,7 +39,7 @@
 
         Initial regulations necessary or appropriate to carry out the actions required by or authorized under this chapter or proposed in the statement of administrative action submitted under [section 4011(a)(2) of this title][/us/usc/t19/s4011/a/2] to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
-([Pub. L. 109–53, title I, § 103][/us/pl/109/53/s103], Aug. 2, 2005, [119 Stat. 465][/us/stat/119/465].)
+([Pub. L. 109–53, title I][/us/pl/109/53/tI], § 103, Aug. 2, 2005, [119 Stat. 465][/us/stat/119/465].)
 
  __Termination of Section__ 
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t19/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4014
 [/us/usc/t19/s4011/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4011%2Fa%2F2
-[/us/pl/109/53/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs103
+[/us/pl/109/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtI
 [/us/stat/119/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F465
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

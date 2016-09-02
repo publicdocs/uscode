@@ -27,7 +27,7 @@
 
         The reports provided for in subsections (a) and (b) of this section shall include recommendations for such further steps, including legislative action, if any, as may be necessary for the achievement of the purposes of the Agreement and this chapter.
 
-([Pub. L. 89–283, title II, § 205][/us/pl/89/283/s205], Oct. 21, 1965, [79 Stat. 1018][/us/stat/79/1018].)
+([Pub. L. 89–283, title II][/us/pl/89/283/tII], § 205, Oct. 21, 1965, [79 Stat. 1018][/us/stat/79/1018].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/89/283/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs205
+[/us/pl/89/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2FtII
 [/us/stat/79/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1018
 [/us/usc/t19/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2011
 [/us/pl/89/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283

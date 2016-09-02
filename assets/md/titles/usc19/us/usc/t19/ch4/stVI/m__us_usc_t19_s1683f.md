@@ -45,7 +45,7 @@
 
         (3) there is not substantial evidence indicating that the importer knew that the fact to which the importer made the declaration was false.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 808, as added [Pub. L. 110–246, title III, § 3301(a)][/us/pl/110/246/s3301/a], June 18, 2008, [122 Stat. 1852][/us/stat/122/1852].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 808, as added [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3301(a), June 18, 2008, [122 Stat. 1852][/us/stat/122/1852].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t19/s1683a/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683a%2Fc%2F1
 [/us/usc/t19/s1683e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683e%2Fb
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1852
 [/us/usc/t19/s1683a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683a
 [/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa

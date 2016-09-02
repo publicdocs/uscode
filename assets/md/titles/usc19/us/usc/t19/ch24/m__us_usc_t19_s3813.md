@@ -97,7 +97,7 @@
 
         The term “WTO member” has the meaning given that term in [section 3501(10) of this title][/us/usc/t19/s3501/10].
 
-([Pub. L. 107–210, div. B, title XXI, § 2113][/us/pl/107/210/s2113], Aug. 6, 2002, [116 Stat. 1021][/us/stat/116/1021]; [Pub. L. 108–429, title II, § 2004(a)(19)][/us/pl/108/429/s2004/a/19], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2113, Aug. 6, 2002, [116 Stat. 1021][/us/stat/116/1021]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(a)(19), Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
 
  __Amendments__ 
 
@@ -118,9 +118,9 @@
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501
 [/us/usc/t19/s3501/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F7
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10
-[/us/pl/107/210/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2113
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1021
-[/us/pl/108/429/s2004/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F19
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2591
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 

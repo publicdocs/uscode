@@ -23,7 +23,7 @@
 
         The President shall take such reasonable measures as may be available to promote the observance by State agencies and private persons, in carrying out standards-related activities, of requirements equivalent to those imposed on Federal agencies under [section 2532 of this title][/us/usc/t19/s2532], and of procedures that provide for notification, participation, and publication with respect to such activities.
 
-([Pub. L. 96–39, title IV, § 403][/us/pl/96/39/s403], July 26, 1979, [93 Stat. 243][/us/stat/93/243].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 403, July 26, 1979, [93 Stat. 243][/us/stat/93/243].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t19/s2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2532
-[/us/pl/96/39/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs403
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F243
 
 

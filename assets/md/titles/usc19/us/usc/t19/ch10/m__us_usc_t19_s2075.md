@@ -27,7 +27,7 @@
 
             (B) the amount authorized for the fiscal year for the salaries and expenses of the Service for other than commercial operations.
 
-        (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of Customs shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the operations of the Customs Service as provided for in subsection (b).
+        (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of U.S. Customs and Border Protection shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the operations of the Customs Service as provided for in subsection (b).
 
     (b) __Authorization of appropriations__ 
 
@@ -65,7 +65,7 @@
 
     (d) __Overtime pay limitations; waiver__ 
 
-        No part of any sum that is appropriated under subsection (b) for fiscal years after September 30, 1984, may be used for administrative expenses to pay any employee of the United States Customs Service overtime pay in an amount exceeding $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Service.
+        No part of any sum that is appropriated under subsection (b) for fiscal years after September 30, 1984, may be used for administrative expenses to pay any employee of the United States Customs Service overtime pay in an amount exceeding $25,000; except that the Commissioner of U.S. Customs and Border Protection or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Service.
 
     (e) __Pay comparability authorization__ 
 
@@ -73,15 +73,15 @@
 
     (f) __Use of savings resulting from administrative consolidations__ 
 
-        If savings in salaries and expenses result from the consolidation of administrative functions within the Customs Service, the Commissioner of Customs shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
+        If savings in salaries and expenses result from the consolidation of administrative functions within the Customs Service, the Commissioner of U.S. Customs and Border Protection shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
 
     (g) __Allocation of resources; notice to Congressional committees__ 
 
-        (1) The Commissioner of Customs shall ensure that existing levels of commercial services, including inspection and control, classification, and value, shall continue to be provided by Customs personnel assigned to the headquarters office of any Customs district designated by statute before April 7, 1986. The number of such personnel assigned to any such district headquarters shall not be reduced through attrition or otherwise, and such personnel shall be afforded the opportunity to maintain their proficiency through training and workshops to the same extent provided to Customs personnel in any other district. Automation and other modernization equipment shall be made available, as needed on a timely basis, to such headquarters to the same extent as such equipment is made available to any other district headquarters.
+        (1) The Commissioner of U.S. Customs and Border Protection shall ensure that existing levels of commercial services, including inspection and control, classification, and value, shall continue to be provided by Customs personnel assigned to the headquarters office of any Customs district designated by statute before April 7, 1986. The number of such personnel assigned to any such district headquarters shall not be reduced through attrition or otherwise, and such personnel shall be afforded the opportunity to maintain their proficiency through training and workshops to the same extent provided to Customs personnel in any other district. Automation and other modernization equipment shall be made available, as needed on a timely basis, to such headquarters to the same extent as such equipment is made available to any other district headquarters.
 
         (2)
 
-         The Commissioner of Customs shall notify the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives at least 180 days prior to taking any action which would—
+         The Commissioner of U.S. Customs and Border Protection shall notify the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives at least 180 days prior to taking any action which would—
 
             (A) result in any significant reduction in force of employees other than by means of attrition;
 
@@ -163,7 +163,7 @@
 
             In this subsection, the term “Commissioner” means the Commissioner responsible for United States Customs and Border Protection in the Department of Homeland Security.
 
-([Pub. L. 95–410, title III, § 301][/us/pl/95/410/s301], Oct. 3, 1978, [92 Stat. 905][/us/stat/92/905]; [Pub. L. 97–456, § 2][/us/pl/97/456/s2], Jan. 12, 1983, [96 Stat. 2503][/us/stat/96/2503]; [Pub. L. 98–573, title VII, § 702][/us/pl/98/573/s702], Oct. 30, 1984, [98 Stat. 3043][/us/stat/98/3043]; [Pub. L. 99–272, title XIII, § 13022(a)][/us/pl/99/272/s13022/a], Apr. 7, 1986, [100 Stat. 305][/us/stat/100/305]; [Pub. L. 99–509, title VIII, § 8102][/us/pl/99/509/s8102], Oct. 21, 1986, [100 Stat. 1967][/us/stat/100/1967]; [Pub. L. 100–203, title IX, § 9503(a)][/us/pl/100/203/s9503/a], (b), Dec. 22, 1987, [101 Stat. 1330–380][/us/stat/101/1330-380], 1330–381; [Pub. L. 100–690, title VII, § 7361(a)][/us/pl/100/690/s7361/a], (b), Nov. 18, 1988, [102 Stat. 4474][/us/stat/102/4474]; [Pub. L. 101–207, § 3(a)][/us/pl/101/207/s3/a], Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 101–382, title I, § 102][/us/pl/101/382/s102], Aug. 20, 1990, [104 Stat. 634][/us/stat/104/634]; [Pub. L. 107–210, div. A, title III, § 311(a)][/us/pl/107/210/s311/a], (b)(1), (c), (d), Aug. 6, 2002, [116 Stat. 973][/us/stat/116/973]; [Pub. L. 109–347, title IV, § 403][/us/pl/109/347/s403], Oct. 13, 2006, [120 Stat. 1926][/us/stat/120/1926].)
+([Pub. L. 95–410, title III][/us/pl/95/410/tIII], § 301, Oct. 3, 1978, [92 Stat. 905][/us/stat/92/905]; [Pub. L. 97–456][/us/pl/97/456], § 2, Jan. 12, 1983, [96 Stat. 2503][/us/stat/96/2503]; [Pub. L. 98–573, title VII][/us/pl/98/573/tVII], § 702, Oct. 30, 1984, [98 Stat. 3043][/us/stat/98/3043]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13022(a), Apr. 7, 1986, [100 Stat. 305][/us/stat/100/305]; [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8102, Oct. 21, 1986, [100 Stat. 1967][/us/stat/100/1967]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9503(a), (b), Dec. 22, 1987, [101 Stat. 1330–380][/us/stat/101/1330-380], 1330–381; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7361(a), (b), Nov. 18, 1988, [102 Stat. 4474][/us/stat/102/4474]; [Pub. L. 101–207][/us/pl/101/207], § 3(a), Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 102, Aug. 20, 1990, [104 Stat. 634][/us/stat/104/634]; [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 311(a), (b)(1), (c), (d), Aug. 6, 2002, [116 Stat. 973][/us/stat/116/973]; [Pub. L. 109–347, title IV][/us/pl/109/347/tIV], § 403, Oct. 13, 2006, [120 Stat. 1926][/us/stat/120/1926]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
@@ -175,51 +175,51 @@
 
     2006—Subsec. (h). [Pub. L. 109–347][/us/pl/109/347] added subsec. (h).
 
-    2002—Subsec. (a)(3). [Pub. L. 107–210, § 311(d)][/us/pl/107/210/s311/d], added par. (3).
+    2002—Subsec. (a)(3). [Pub. L. 107–210][/us/pl/107/210], § 311(d), added par. (3).
 
-    Subsec. (b)(1)(A). [Pub. L. 107–210, § 311(a)(1)][/us/pl/107/210/s311/a/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “$516,217,000 for fiscal year 1991.”
+    Subsec. (b)(1)(A). [Pub. L. 107–210][/us/pl/107/210], § 311(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$516,217,000 for fiscal year 1991.”
 
-    Subsec. (b)(1)(B). [Pub. L. 107–210, § 311(a)(2)][/us/pl/107/210/s311/a/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “$542,091,000 for fiscal year 1992.”
+    Subsec. (b)(1)(B). [Pub. L. 107–210][/us/pl/107/210], § 311(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$542,091,000 for fiscal year 1992.”
 
-    Subsec. (b)(2)(A)(i). [Pub. L. 107–210, § 311(b)(1)(A)][/us/pl/107/210/s311/b/1/A], added cl. (i) and struck out former cl. (i) which read as follows: “$672,021,000 for fiscal year 1991.”
+    Subsec. (b)(2)(A)(i). [Pub. L. 107–210][/us/pl/107/210], § 311(b)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “$672,021,000 for fiscal year 1991.”
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 107–210, § 311(b)(1)(B)][/us/pl/107/210/s311/b/1/B], added cl. (ii) and struck out former cl. (ii) which read as follows: “$705,793,000 for fiscal year 1992.”
+    Subsec. (b)(2)(A)(ii). [Pub. L. 107–210][/us/pl/107/210], § 311(b)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “$705,793,000 for fiscal year 1992.”
 
-    Subsec. (b)(3)(A). [Pub. L. 107–210, § 311(c)(1)][/us/pl/107/210/s311/c/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “$143,047,000 for fiscal year 1991.”
+    Subsec. (b)(3)(A). [Pub. L. 107–210][/us/pl/107/210], § 311(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$143,047,000 for fiscal year 1991.”
 
-    Subsec. (b)(3)(B). [Pub. L. 107–210, § 311(c)(2)][/us/pl/107/210/s311/c/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “$150,199,000 for fiscal year 1992.”
+    Subsec. (b)(3)(B). [Pub. L. 107–210][/us/pl/107/210], § 311(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$150,199,000 for fiscal year 1992.”
 
     1990—Subsec. (b). [Pub. L. 101–382][/us/pl/101/382], amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
 
-    1989—Subsec. (b)(1). [Pub. L. 101–207, § 3(a)(1)][/us/pl/101/207/s3/a/1], (2), substituted “1990” for “1989” and “$418,822,000” for “$440,504,000”.
+    1989—Subsec. (b)(1). [Pub. L. 101–207][/us/pl/101/207], § 3(a)(1), (2), substituted “1990” for “1989” and “$418,822,000” for “$440,504,000”.
 
-    Subsec. (b)(2). [Pub. L. 101–207, § 3(a)(1)][/us/pl/101/207/s3/a/1], (3), substituted “1990” for “1989” and “$656,468,000” for “$615,247,000”.
+    Subsec. (b)(2). [Pub. L. 101–207][/us/pl/101/207], § 3(a)(1), (3), substituted “1990” for “1989” and “$656,468,000” for “$615,247,000”.
 
-    Subsec. (b)(3). [Pub. L. 101–207, § 3(a)(1)][/us/pl/101/207/s3/a/1], (4), substituted “1990” for “1989” and “$128,128,000” for “$142,262,000”.
+    Subsec. (b)(3). [Pub. L. 101–207][/us/pl/101/207], § 3(a)(1), (4), substituted “1990” for “1989” and “$128,128,000” for “$142,262,000”.
 
-    Subsec. (b)(4). [Pub. L. 101–207, § 3(a)(5)][/us/pl/101/207/s3/a/5], struck out par. (4) which read as follows: “There are authorized to be appropriated to the Secretary of the Treasury for fiscal year 1989, $1,600,000 for payment to the Customs Cooperation Council.”
+    Subsec. (b)(4). [Pub. L. 101–207][/us/pl/101/207], § 3(a)(5), struck out par. (4) which read as follows: “There are authorized to be appropriated to the Secretary of the Treasury for fiscal year 1989, $1,600,000 for payment to the Customs Cooperation Council.”
 
-    1988—Subsec. (b)(1). [Pub. L. 100–690, § 7361(a)(1)][/us/pl/100/690/s7361/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for fiscal year 1988 not to exceed $348,192,000 for the salaries and expenses of the United States Customs Service that are incurred in noncommercial operations, of which $171,857.06 shall be available only for concluding Contract TC–82–54 that was awarded for the development and testing of an automatic license plate reader.”
+    1988—Subsec. (b)(1). [Pub. L. 100–690][/us/pl/100/690], § 7361(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated for fiscal year 1988 not to exceed $348,192,000 for the salaries and expenses of the United States Customs Service that are incurred in noncommercial operations, of which $171,857.06 shall be available only for concluding Contract TC–82–54 that was awarded for the development and testing of an automatic license plate reader.”
 
-    Subsec. (b)(2). [Pub. L. 100–690, § 7361(a)(2)(A)][/us/pl/100/690/s7361/a/2/A], (B), substituted authorization of appropriation of $615,247,000 for fiscal year 1989 for authorization of appropriation of $615,000,000 for fiscal year 1988.
+    Subsec. (b)(2). [Pub. L. 100–690][/us/pl/100/690], § 7361(a)(2)(A), (B), substituted authorization of appropriation of $615,247,000 for fiscal year 1989 for authorization of appropriation of $615,000,000 for fiscal year 1988.
 
-    Subsec. (b)(3). [Pub. L. 100–690, § 7361(a)(2)(A)][/us/pl/100/690/s7361/a/2/A], (C), substituted authorization of appropriation of $142,262,000 for fiscal year 1989 for authorization of appropriation of $118,309,000 for fiscal year 1988.
+    Subsec. (b)(3). [Pub. L. 100–690][/us/pl/100/690], § 7361(a)(2)(A), (C), substituted authorization of appropriation of $142,262,000 for fiscal year 1989 for authorization of appropriation of $118,309,000 for fiscal year 1988.
 
-    Subsec. (b)(4). [Pub. L. 100–690, § 7361(a)(2)(D)][/us/pl/100/690/s7361/a/2/D], added par. (4).
+    Subsec. (b)(4). [Pub. L. 100–690][/us/pl/100/690], § 7361(a)(2)(D), added par. (4).
 
-    Subsec. (g)(3). [Pub. L. 100–690, § 7361(b)][/us/pl/100/690/s7361/b], added par. (3).
+    Subsec. (g)(3). [Pub. L. 100–690][/us/pl/100/690], § 7361(b), added par. (3).
 
-    1987—Subsec. (b). [Pub. L. 100–203, § 9503(a)][/us/pl/100/203/s9503/a], amended subsec. (b) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) and (2).
+    1987—Subsec. (b). [Pub. L. 100–203][/us/pl/100/203], § 9503(a), amended subsec. (b) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) and (2).
 
-    Subsec. (f). [Pub. L. 100–203, § 9503(b)(1)][/us/pl/100/203/s9503/b/1], struck out heading which is now editorially supplied.
+    Subsec. (f). [Pub. L. 100–203][/us/pl/100/203], § 9503(b)(1), struck out heading which is now editorially supplied.
 
-    Subsec. (g). [Pub. L. 100–203, § 9503(b)(2)][/us/pl/100/203/s9503/b/2], (3), struck out heading which is now editorially supplied, designated existing provisions as par. (1), and added par. (2).
+    Subsec. (g). [Pub. L. 100–203][/us/pl/100/203], § 9503(b)(2), (3), struck out heading which is now editorially supplied, designated existing provisions as par. (1), and added par. (2).
 
-    1986—Subsec. (a). [Pub. L. 99–509, § 8102(1)][/us/pl/99/509/s8102/1], designated existing provisions as par. (1) and added par. (2).
+    1986—Subsec. (a). [Pub. L. 99–509][/us/pl/99/509], § 8102(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 99–570, title III, § 3141(a)][/us/pl/99/570/s3141/a], Oct. 27, 1986, [100 Stat. 3207–92][/us/stat/100/3207-92], which directed an amendment to subsec. (b) of this section did not become effective pursuant to [Pub. L. 99–570, title III, § 3141(b)][/us/pl/99/570/s3141/b], which provided that the amendment made by section 3141(a) would not be effective if H.R. 5300 was enacted with an identical amendment. H.R. 5300 was enacted as [Pub. L. 99–509][/us/pl/99/509] with an identical amendment in section 8102(2). See below.
+    Subsec. (b). [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3141(a), Oct. 27, 1986, [100 Stat. 3207–92][/us/stat/100/3207-92], which directed an amendment to subsec. (b) of this section did not become effective pursuant to [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3141(b), which provided that the amendment made by section 3141(a) would not be effective if H.R. 5300 was enacted with an identical amendment. H.R. 5300 was enacted as [Pub. L. 99–509][/us/pl/99/509] with an identical amendment in section 8102(2). See below.
 
-    [Pub. L. 99–509, § 8102(2)][/us/pl/99/509/s8102/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    [Pub. L. 99–509][/us/pl/99/509], § 8102(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(1) There are authorized to be appropriated to the Department of the Treasury not to exceed $772,141,000 for the salaries and expenses of the United States Customs Service for fiscal year 1986; of which—
 
@@ -247,15 +247,19 @@
 
     “(7) As soon as possible after April 7, 1986, but not later than 12 months after April 7, 1986, the General Accounting Office shall complete, and submit to the Committee on Ways and Means and the Committee on Finance, a study that evaluates the air detection and interdiction capability of the Customs Service, including assets, geographic dispersal, costs of operation, procurement practices, and the services and equipment provided by other Federal agencies. Within 6 months after commencing the study, the General Accounting Office shall consult with the Committees on the progress of the study.”
 
-    [Pub. L. 99–272, § 13022(a)(1)][/us/pl/99/272/s13022/a/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $686,399,000 for the salaries and expenses of the United States Customs Service for fiscal year 1985; of which (A) $28,070,000 is for the operation and maintenance of the air interdiction program of the Service, and (B) not to exceed $15,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].”
+    [Pub. L. 99–272][/us/pl/99/272], § 13022(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $686,399,000 for the salaries and expenses of the United States Customs Service for fiscal year 1985; of which (A) $28,070,000 is for the operation and maintenance of the air interdiction program of the Service, and (B) not to exceed $15,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].”
 
-    Subsecs. (f), (g). [Pub. L. 99–272, § 13022(a)(2)][/us/pl/99/272/s13022/a/2], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 99–272][/us/pl/99/272], § 13022(a)(2), added subsecs. (f) and (g).
 
-    1984—Subsec. (b). [Pub. L. 98–573, § 702(1)][/us/pl/98/573/s702/1], amended subsec. (b) generally, which prior to amendment read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $564,224,000 for the salaries and expenses of the United States Customs Service for fiscal year 1983, of which not to exceed $31,464,000 is for salary and expenses for the enforcement of the alcohol and tobacco revenue laws.”
+    1984—Subsec. (b). [Pub. L. 98–573][/us/pl/98/573], § 702(1), amended subsec. (b) generally, which prior to amendment read as follows: “There are authorized to be appropriated to the Department of the Treasury not to exceed $564,224,000 for the salaries and expenses of the United States Customs Service for fiscal year 1983, of which not to exceed $31,464,000 is for salary and expenses for the enforcement of the alcohol and tobacco revenue laws.”
 
-    Subsecs. (d), (e). [Pub. L. 98–573, § 702(2)][/us/pl/98/573/s702/2], (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 98–573][/us/pl/98/573], § 702(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1983—[Pub. L. 97–456][/us/pl/97/456] designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsecs. (a)(3), (d), (f), and (g)(1), (2) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -265,15 +269,11 @@
 
     For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+    Office of International Trade abolished and assets, functions, personnel, and liabilities transferred to the Office of Trade, see [section 2084 of this title][/us/usc/t19/s2084].
+
  __Automated Commercial Environment Computer System__ 
 
-[Pub. L. 107–210, div. A, title III, § 311(b)(2)][/us/pl/107/210/s311/b/2], (3), Aug. 6, 2002, [116 Stat. 973][/us/stat/116/973], as amended by [Pub. L. 107–296, title IV, § 419(b)][/us/pl/107/296/s419/b], Nov. 25, 2002, [116 Stat. 2182][/us/stat/116/2182], provided that:
-
->     “\[(2) Repealed. [Pub. L. 107–296, title IV, § 419(b)][/us/pl/107/296/s419/b], Nov. 25, 2002, [116 Stat. 2182][/us/stat/116/2182].\]
-
->     “(3)  __Reports__  __.—__ 
-
->     Not later than 90 days after the date of the enactment of this Act \[Aug. 6, 2002\], and not later than the end of each subsequent 90-day period, the Commissioner of Customs shall prepare and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report demonstrating that the development and establishment of the Automated Commercial Environment computer system is being carried out in a cost-effective manner and meets the modernization requirements of title VI of the North American Free Trade Agreement Implementation Act \[[Pub. L. 103–182][/us/pl/103/182], see Tables for classification\].”
+    [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 311(b)(2), (3), Aug. 6, 2002, [116 Stat. 973][/us/stat/116/973], which related to the development, establishment, and implementation of the Automated Commercial Environment computer system and directed the Commissioner of Customs to prepare periodic reports, was repealed by [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 419(b), Nov. 25, 2002, [116 Stat. 2182][/us/stat/116/2182], and [Pub. L. 114–125, title I][/us/pl/114/125/tI], § 106(b)(3), Feb. 24, 2016, [130 Stat. 134][/us/stat/130/134].
 
 ----------
 
@@ -285,28 +285,30 @@
 [/us/usc/t6/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs212%2Fb%2F2
 [/us/usc/t6/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs212%2Fb
 [/us/usc/t19/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2072
-[/us/pl/95/410/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs301
+[/us/pl/95/410/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtIII
 [/us/stat/92/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F905
-[/us/pl/97/456/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs2
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
 [/us/stat/96/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2503
-[/us/pl/98/573/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs702
+[/us/pl/98/573/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVII
 [/us/stat/98/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3043
-[/us/pl/99/272/s13022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13022%2Fa
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F305
-[/us/pl/99/509/s8102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8102
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1967
-[/us/pl/100/203/s9503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fa
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-380
-[/us/pl/100/690/s7361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7361%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4474
-[/us/pl/101/207/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fa
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
 [/us/stat/103/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1833
-[/us/pl/101/382/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs102
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F634
-[/us/pl/107/210/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fa
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F973
-[/us/pl/109/347/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs403
+[/us/pl/109/347/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIV
 [/us/stat/120/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1926
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1946
 [/us/usc/t39/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410
@@ -316,48 +318,50 @@
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
-[/us/pl/107/210/s311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fd
-[/us/pl/107/210/s311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fa%2F1
-[/us/pl/107/210/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fa%2F2
-[/us/pl/107/210/s311/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fb%2F1%2FA
-[/us/pl/107/210/s311/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fb%2F1%2FB
-[/us/pl/107/210/s311/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fc%2F1
-[/us/pl/107/210/s311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fc%2F2
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
-[/us/pl/101/207/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fa%2F1
-[/us/pl/101/207/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fa%2F1
-[/us/pl/101/207/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fa%2F1
-[/us/pl/101/207/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs3%2Fa%2F5
-[/us/pl/100/690/s7361/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7361%2Fa%2F1
-[/us/pl/100/690/s7361/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7361%2Fa%2F2%2FA
-[/us/pl/100/690/s7361/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7361%2Fa%2F2%2FA
-[/us/pl/100/690/s7361/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7361%2Fa%2F2%2FD
-[/us/pl/100/690/s7361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7361%2Fb
-[/us/pl/100/203/s9503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fa
-[/us/pl/100/203/s9503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fb%2F1
-[/us/pl/100/203/s9503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9503%2Fb%2F2
-[/us/pl/99/509/s8102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8102%2F1
-[/us/pl/99/570/s3141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3141%2Fa
-[/us/stat/100/3207-92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-92
-[/us/pl/99/570/s3141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3141%2Fb
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
-[/us/pl/99/509/s8102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8102%2F2
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
+[/us/stat/100/3207-92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-92
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/usc/t19/s1613b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1613b
-[/us/pl/99/272/s13022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13022%2Fa%2F1
-[/us/pl/99/272/s13022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13022%2Fa%2F2
-[/us/pl/98/573/s702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs702%2F1
-[/us/pl/98/573/s702/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs702%2F2
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs151
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/210/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs311%2Fb%2F2
+[/us/usc/t19/s2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2084
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F973
-[/us/pl/107/296/s419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs419%2Fb
+[/us/pl/107/296/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtIV
 [/us/stat/116/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2182
-[/us/pl/107/296/s419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs419%2Fb
-[/us/stat/116/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2182
-[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/114/125/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtI
+[/us/stat/130/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F134
 
 

@@ -17,7 +17,7 @@
 
     The President may direct the appropriate agencies of the United States Government to make available technical assistance to countries seeking to implement the Kimberley Process Certification Scheme.
 
-([Pub. L. 108–19, § 9][/us/pl/108/19/s9], Apr. 25, 2003, [117 Stat. 635][/us/stat/117/635].)
+([Pub. L. 108–19][/us/pl/108/19], § 9, Apr. 25, 2003, [117 Stat. 635][/us/stat/117/635].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs9
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F635
 
 

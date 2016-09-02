@@ -119,7 +119,7 @@
 
                 (i) the range of proposals advanced in the negotiations with respect to that agreement, that may be in the final agreement, and that could require amendments to title VII of the Tariff Act of 1930 ([19 U.S.C. 1671][/us/usc/t19/s1671] et seq.) or to chapter 1 of title II of the Trade Act of 1974 ([19 U.S.C. 2251][/us/usc/t19/s2251] et seq.); and
 
-                (ii) how these proposals relate to the objectives described in [section 4201(b)(16) of this title][/us/usc/t19/s4201/b/16].
+                (ii) how these proposals relate to the objectives described in [section 4201(b)(17) of this title][/us/usc/t19/s4201/b/17].
 
             (B) __Resolutions__ 
 
@@ -131,7 +131,7 @@
 
                     (II) no procedural disapproval resolution under [section 4205(b) of this title][/us/usc/t19/s4205/b] introduced with respect to a trade agreement entered into pursuant to the negotiations to which the report under subparagraph (A) relates has previously been reported in that House of Congress by the Committee on Ways and Means or the Committee on Finance, as the case may be.
 
-                (ii) For purposes of this subparagraph, the term “resolution” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the \_\_\_\_ finds that the proposed changes to United States trade remedy laws contained in the report of the President transmitted to Congress on \_\_\_\_ under section 105(b)(3) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 with respect to \_\_\_\_, are inconsistent with the negotiating objectives described in section 102(b)(16) of that Act.”, with the first blank space being filled with the name of the resolving House of Congress, the second blank space being filled with the appropriate date of the report, and the third blank space being filled with the name of the country or countries involved.
+                (ii) For purposes of this subparagraph, the term “resolution” means only a resolution of either House of Congress, the matter after the resolving clause of which is as follows: “That the \_\_\_\_ finds that the proposed changes to United States trade remedy laws contained in the report of the President transmitted to Congress on \_\_\_\_ under section 105(b)(3) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 with respect to \_\_\_\_, are inconsistent with the negotiating objectives described in section 102(b)(17) of that Act.”, with the first blank space being filled with the name of the resolving House of Congress, the second blank space being filled with the appropriate date of the report, and the third blank space being filled with the name of the country or countries involved.
 
                 (iii)
 
@@ -269,7 +269,7 @@
 
         Any Member of the House of Representatives may submit to the Committee on Ways and Means of the House of Representatives and any Member of the Senate may submit to the Committee on Finance of the Senate the views of that Member on any matter relevant to a proposed trade agreement, and the relevant Committee shall receive those views for consideration.
 
-([Pub. L. 114–26, title I, § 105][/us/pl/114/26/s105], June 29, 2015, [129 Stat. 342][/us/stat/129/342].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 105, June 29, 2015, [129 Stat. 342][/us/stat/129/342]; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 914(f)(1), Feb. 24, 2016, [130 Stat. 275][/us/stat/130/275].)
 
  __References in Text__ 
 
@@ -279,9 +279,19 @@
 
     The Trade Act of 1974, referred to in subsec. (b)(3)(A)(i), is [Pub. L. 93–618][/us/pl/93/618], Jan. 3, 1975, [88 Stat. 1978][/us/stat/88/1978]. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title][/us/usc/t19/s2101] and Tables.
 
-    Sections 105(b)(3) and 102(b)(16) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec. (b)(3)(B)(ii), are classified to subsec. (b)(3) of this section and [section 4201(b)(16) of this title][/us/usc/t19/s4201/b/16], respectively.
+    Sections 105(b)(3) and 102(b)(17) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec. (b)(3)(B)(ii), are classified to subsec. (b)(3) of this section and [section 4201(b)(17) of this title][/us/usc/t19/s4201/b/17], respectively.
 
     Executive Order No. 13141, referred to in subsec. (d)(1)(A), (2)(A), is set out as a note under [section 2112 of this title][/us/usc/t19/s2112].
+
+ __Amendments__ 
+
+    2016—Subsec. (b)(3)(A)(ii). [Pub. L. 114–125][/us/pl/114/125], § 914(f)(1)(A), substituted “section 4201(b)(17)” for “section 4201(b)(16)”.
+
+    Subsec. (b)(3)(B)(ii). [Pub. L. 114–125][/us/pl/114/125], § 914(f)(1)(B), substituted “section 102(b)(17)” for “section 102(b)(16)”.
+
+ __Effective Date of 2016 Amendment__ 
+
+    Amendment by [Pub. L. 114–125][/us/pl/114/125] effective as if included in the enactment of title I of [Pub. L. 114–26][/us/pl/114/26], see [section 914(g) of Pub. L. 114–125][/us/pl/114/125/s914/g], set out as a note under [section 4201 of this title][/us/usc/t19/s4201].
 
  __Delegation of Functions__ 
 
@@ -305,7 +315,7 @@
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/usc/t19/s4201/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fb%2F16
+[/us/usc/t19/s4201/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fb%2F17
 [/us/usc/t19/s4205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4205%2Fb
 [/us/usc/t19/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192
 [/us/usc/t19/s2155/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155%2Fe%2F1
@@ -319,8 +329,10 @@
 [/us/usc/t19/s4205/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4205%2Fa%2F1%2FE
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t19/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213
-[/us/pl/114/26/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs105
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F342
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F275
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
@@ -330,8 +342,14 @@
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
-[/us/usc/t19/s4201/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fb%2F16
+[/us/usc/t19/s4201/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fb%2F17
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
+[/us/pl/114/125/s914/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs914%2Fg
+[/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 
 

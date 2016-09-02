@@ -11,20 +11,20 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s379.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs390)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s380...389.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs390)
 
-## § 390. Repealed. [Aug. 2, 1956, ch. 887, § 4(a)(26)][/us/act/1956-08-02/ch887/s4/a/26], [70 Stat. 948][/us/stat/70/948]
+## § 390. Repealed. [Aug. 2, 1956, ch. 887][/us/act/1956-08-02/ch887], § 4(a)(26), [70 Stat. 948][/us/stat/70/948]
 
     Section, R.S. § 2918, provided for adoption of a hydrometer for use in ascertaining proof of liquors. See [section 5204(b) of Title 26][/us/usc/t26/s5204/b], Internal Revenue Code.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s379.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs390)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s380...389.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt3/m__us_usc_t19_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs390)
 
 ----------
 ----------
 
-[/us/act/1956-08-02/ch887/s4/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs4%2Fa%2F26
+[/us/act/1956-08-02/ch887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887
 [/us/stat/70/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F948
 [/us/usc/t26/s5204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5204%2Fb
 

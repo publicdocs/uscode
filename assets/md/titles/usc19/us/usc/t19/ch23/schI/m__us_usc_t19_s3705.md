@@ -17,7 +17,7 @@
 
     The President shall submit to the Congress, not later than 1 year after May 18, 2000, and annually thereafter through 2008, a comprehensive report on the trade and investment policy of the United States for sub-Saharan Africa, and on the implementation of this chapter and the amendments made by this chapter.
 
-([Pub. L. 106–200, title I, § 106][/us/pl/106/200/s106], May 18, 2000, [114 Stat. 256][/us/stat/114/256].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 106, May 18, 2000, [114 Stat. 256][/us/stat/114/256].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Reports on Implementation and Potential Trade Agreements__ 
 
-[Pub. L. 114–27, title I, § 110][/us/pl/114/27/s110], June 29, 2015, [129 Stat. 370][/us/stat/129/370], provided that:
+[Pub. L. 114–27, title I][/us/pl/114/27/tI], § 110, June 29, 2015, [129 Stat. 370][/us/stat/129/370], provided that:
 
 >     “(a) __Implementation Report.—__ 
 
@@ -76,14 +76,14 @@
 ----------
 ----------
 
-[/us/pl/106/200/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs106
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F256
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
 [/us/usc/t19/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/114/27/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs110
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F370
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
 [/us/usc/t19/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3703

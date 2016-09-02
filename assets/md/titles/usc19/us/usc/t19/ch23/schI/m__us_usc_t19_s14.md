@@ -19,7 +19,7 @@
 
 >     “The President shall convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975 \[[19 U.S.C. 2111][/us/usc/t19/s2111] note\], under section 135(c) of the Trade Act of 1974 \[[19 U.S.C. 2155(c)][/us/usc/t19/s2155/c]\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[[19 U.S.C. 3701][/us/usc/t19/s3701] et seq.\] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues.”
 
-\[[Pub. L. 108–429, title II, § 2004(j)(2)][/us/pl/108/429/s2004/j/2], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595], provided that:
+\[[Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(j)(2), Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595], provided that:
 
     \[“(A) In general.—The amendment made by paragraph (1) \[amending [Pub. L. 108–274][/us/pl/108/274], set out above\] shall take effect as if included in the enactment of section 8 of the AGOA Acceleration Act of 2004 \[[Pub. L. 108–274][/us/pl/108/274]\].
 
@@ -27,7 +27,7 @@
 
  __Definitions__ 
 
-[Pub. L. 114–27, title I, § 112][/us/pl/114/27/s112], June 29, 2015, [129 Stat. 371][/us/stat/129/371], provided that: 
+[Pub. L. 114–27, title I][/us/pl/114/27/tI], § 112, June 29, 2015, [129 Stat. 371][/us/stat/129/371], provided that: 
 
 > “In this title \[see Short Title of 2015 Amendment note above\]:
 
@@ -49,11 +49,11 @@
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
 [/us/usc/t19/s2155/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155%2Fc
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
-[/us/pl/108/429/s2004/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fj%2F2
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2595
 [/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
 [/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
-[/us/pl/114/27/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs112
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F371
 [/us/usc/t19/s2466a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2466a%2Fe
 [/us/usc/t19/s3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3706

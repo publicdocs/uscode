@@ -17,7 +17,7 @@
 
     Each zone shall be operated as a public utility, and all rates and charges for all services or privileges within the zone shall be fair and reasonable, and the grantee shall afford to all who may apply for the use of the zone and its facilities and appurtenances uniform treatment under like conditions, subject to such treaties or commercial conventions as are now in force or may hereafter be made from time to time by the United States with foreign governments and the cost of maintaining the additional customs service required under this chapter shall be paid by the operator of the zone.
 
-([June 18, 1934, ch. 590, § 14][/us/act/1934-06-18/ch590/s14], [48 Stat. 1001][/us/stat/48/1001].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 14, [48 Stat. 1001][/us/stat/48/1001].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs14
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1001
 
 

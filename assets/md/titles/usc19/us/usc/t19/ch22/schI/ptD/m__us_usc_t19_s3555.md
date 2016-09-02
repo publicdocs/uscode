@@ -57,7 +57,7 @@
 
             (E) the term “US–EC bilateral agreement” means the Agreement Concerning the Application of the GATT Agreement on Trade in Civil Aircraft Between the European Economic Community and the Government of the United States of America on trade in large civil aircraft, entered into on July 17, 1992.
 
-([Pub. L. 103–465, title I, § 135][/us/pl/103/465/s135], Dec. 8, 1994, [108 Stat. 4840][/us/stat/108/4840]; [Pub. L. 105–206, title V, § 5003(b)(5)][/us/pl/105/206/s5003/b/5], July 22, 1998, [112 Stat. 790][/us/stat/112/790].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 135, Dec. 8, 1994, [108 Stat. 4840][/us/stat/108/4840]; [Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(b)(5), July 22, 1998, [112 Stat. 790][/us/stat/112/790].)
 
  __Amendments__ 
 
@@ -76,9 +76,9 @@
 
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
 [/us/usc/t19/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503
-[/us/pl/103/465/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs135
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4840
-[/us/pl/105/206/s5003/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fb%2F5
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F790
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/103/465/s138/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs138%2Fb

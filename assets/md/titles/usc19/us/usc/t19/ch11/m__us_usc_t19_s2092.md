@@ -31,7 +31,7 @@
 
         the customs officer concerned shall take the sculpture or mural into customs custody and send it to a bonded warehouse or public store to be held at the risk and expense of the consignee until such certificate or evidence is filed with such officer. If such certificate or evidence is not presented within the 90-day period after the date on which such sculpture or mural is taken into customs custody, or such longer period as may be allowed by the Secretary for good cause shown, the importation of such sculpture or mural into the United States is in violation of this chapter.
 
-([Pub. L. 92–587, title II, § 202][/us/pl/92/587/s202], Oct. 27, 1972, [86 Stat. 1297][/us/stat/86/1297].)
+([Pub. L. 92–587, title II][/us/pl/92/587/tII], § 202, Oct. 27, 1972, [86 Stat. 1297][/us/stat/86/1297].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t19/s2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2091
 [/us/usc/t19/s2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2091
 [/us/usc/t19/s2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2091
-[/us/pl/92/587/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2Fs202
+[/us/pl/92/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2FtII
 [/us/stat/86/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1297
 [/us/pl/92/587/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2Fs202
 [/us/usc/t19/s2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2091

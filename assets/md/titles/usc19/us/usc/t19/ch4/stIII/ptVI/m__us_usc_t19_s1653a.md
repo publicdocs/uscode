@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 25, 1938, ch. 679, § 37][/us/act/1938-06-25/ch679/s37], [52 Stat. 1094][/us/stat/52/1094], related to the effective date of the Customs Administrative Act of 1938, and is set out as a note under [section 1401 of this title][/us/usc/t19/s1401].
+    Section, [act June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 37, [52 Stat. 1094][/us/stat/52/1094], related to the effective date of the Customs Administrative Act of 1938, and is set out as a note under [section 1401 of this title][/us/usc/t19/s1401].
 
     Section was not part of Tariff Act of 1930 which constitutes this chapter.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch679/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs37
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1094
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
 

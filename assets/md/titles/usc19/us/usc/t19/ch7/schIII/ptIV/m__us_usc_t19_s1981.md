@@ -53,7 +53,7 @@
 
             (B) unless extended under [section 2253 of this title][/us/usc/t19/s2253], shall terminate not later than the close of the date which is 4 years (or, in the case of any such increase or imposition proclaimed pursuant to such section 7, 5 years) after the effective date of the initial proclamation or October 11, 1962, whichever date is the later.
 
-        (2) Repealed. [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
+        (2) Repealed. [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
 
     (d) __Review of developments with respect to industries concerned; annual report to President; advice of probable economic effect; considerations; investigations; hearings__ 
 
@@ -61,7 +61,7 @@
 
         (2) Upon request of the President or upon its own motion, the United States International Trade Commission shall advise the President of its judgment as to the probable economic effect on the industry concerned of the reduction or termination of the increase in, or imposition of, any duty or other import restriction pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951.
 
-        (3) Repealed. [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
+        (3) Repealed. [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
 
         (4) In advising the President under this subsection as to the probable economic effect on the industry concerned, the United States International Trade Commission shall take into account all economic factors which it considers relevant, including idling of productive facilities, inability to operate at a level of reasonable profit, and unemployment or underemployment.
 
@@ -71,33 +71,33 @@
 
         The President, as soon as practicable, shall take such action as he determines to be necessary to bring trade agreements entered into under [section 1351 of this title][/us/usc/t19/s1351] into conformity with the provisions of this section. No trade agreement shall be entered into under [section 1821(a) of this title][/us/usc/t19/s1821/a] unless such agreement permits action in conformity with the provisions of this section.
 
-([Pub. L. 87–794, title III, § 351][/us/pl/87/794/s351], Oct. 11, 1962, [76 Stat. 899][/us/stat/76/899]; [Pub. L. 93–618, title I, § 171(b)][/us/pl/93/618/s171/b], title VI, § 602(c), (d), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009], 2072.)
+([Pub. L. 87–794, title III][/us/pl/87/794/tIII], § 351, Oct. 11, 1962, [76 Stat. 899][/us/stat/76/899]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 171(b), title VI, § 602(c), (d), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009], 2072.)
 
  __References in Text__ 
 
-    [Section 1901 of this title][/us/usc/t19/s1901], referred to in subsec. (a), was repealed by [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], (e), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]. See section 2251 et seq. of this title.
+    [Section 1901 of this title][/us/usc/t19/s1901], referred to in subsec. (a), was repealed by [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), (e), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]. See section 2251 et seq. of this title.
 
-    [Section 1886 of this title][/us/usc/t19/s1886], referred to in subsec. (b), was repealed by [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]. See [section 2481 of this title][/us/usc/t19/s2481].
+    [Section 1886 of this title][/us/usc/t19/s1886], referred to in subsec. (b), was repealed by [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]. See [section 2481 of this title][/us/usc/t19/s2481].
 
     Section 7 of the Trade Agreements Extension Act of 1951, referred to in subsecs. (c)(1) and (d)(1), (2), was classified to [section 1364 of this title][/us/usc/t19/s1364], and was repealed by [section 257(e)(1) of Pub. L. 87–794][/us/pl/87/794/s257/e/1].
 
  __Amendments__ 
 
-    1975—[Pub. L. 93–618, § 171(b)][/us/pl/93/618/s171/b], substituted “United States International Trade Commission” for “United States Tariff Commission” wherever appearing.
+    1975—[Pub. L. 93–618][/us/pl/93/618], § 171(b), substituted “United States International Trade Commission” for “United States Tariff Commission” wherever appearing.
 
-    Subsec. (c)(1)(B). [Pub. L. 93–618, § 602(c)][/us/pl/93/618/s602/c], substituted “unless extended under [section 2253 of this title][/us/usc/t19/s2253].” for “unless extended under paragraph (2),”.
+    Subsec. (c)(1)(B). [Pub. L. 93–618][/us/pl/93/618], § 602(c), substituted “unless extended under [section 2253 of this title][/us/usc/t19/s2253].” for “unless extended under paragraph (2),”.
 
-    Subsec. (c)(2). [Pub. L. 93–618, § 602(d)][/us/pl/93/618/s602/d], struck out par. (2) which provided for the extension of increases in, or imposition of, duties or other import restrictions. See [section 2253 of this title][/us/usc/t19/s2253].
+    Subsec. (c)(2). [Pub. L. 93–618][/us/pl/93/618], § 602(d), struck out par. (2) which provided for the extension of increases in, or imposition of, duties or other import restrictions. See [section 2253 of this title][/us/usc/t19/s2253].
 
-    Subsec. (d)(3). [Pub. L. 93–618, § 602(d)][/us/pl/93/618/s602/d], struck out par. (3) which provided for notification to the President by the Tariff Commission of the probable impact of the termination of duties or other import restrictions.
+    Subsec. (d)(3). [Pub. L. 93–618][/us/pl/93/618], § 602(d), struck out par. (3) which provided for notification to the President by the Tariff Commission of the probable impact of the termination of duties or other import restrictions.
 
  __Status of Certain Changes in Tariff Schedules__ 
 
-[Pub. L. 90–638, § 1(d)][/us/pl/90/638/s1/d], Oct. 24, 1968, [82 Stat. 1360][/us/stat/82/1360], provided that: 
+[Pub. L. 90–638][/us/pl/90/638], § 1(d), Oct. 24, 1968, [82 Stat. 1360][/us/stat/82/1360], provided that: 
 
 > “The rates of duty in rate column numbered 1 \[of item 662.18\] of the Tariff Schedules of the United States (as amended by the subsections (a) and (c)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party. The rate of duty in rate column numbered 1 of item 662.20 of the Tariff Schedules of the United States (as amended by subsection (a)) shall not supersede the staged rates of duty provided for such item in Annex III to Proclamation 3822, dated December 16, 1967 (32 Fed. Reg., No. 244, part II).”
 
-[Pub. L. 90–638, § 2(d)][/us/pl/90/638/s2/d], Oct. 24, 1968, [82 Stat. 1360][/us/stat/82/1360], provided that:
+[Pub. L. 90–638][/us/pl/90/638], § 2(d), Oct. 24, 1968, [82 Stat. 1360][/us/stat/82/1360], provided that:
 
 >     “(1)
 
@@ -109,17 +109,17 @@
 
 >     “(2) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States (as amended by subsection (b)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party.”
 
-[Pub. L. 90–564, § 2(c)][/us/pl/90/564/s2/c], Oct. 12, 1968, [82 Stat. 1001][/us/stat/82/1001], provided that:
+[Pub. L. 90–564][/us/pl/90/564], § 2(c), Oct. 12, 1968, [82 Stat. 1001][/us/stat/82/1001], provided that:
 
 >     “(1) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States for item 149.48 (as added by the first section of this Act and amended by subsection (b) of this section) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party.
 
 >     “(2) For purposes of section 351(b) of the Trade Expansion Act of 1962 \[subsec. (b) of this section\], the rate of duty in rate column numbered 2 of the Tariff Schedules of the United States for item 149.48 (as added by the first section of this Act) shall be treated as the rate of duty existing on July 1, 1934.”
 
-[Pub. L. 89–651, § 9][/us/pl/89/651/s9], Oct. 14, 1966, [80 Stat. 902][/us/stat/80/902], provided that: 
+[Pub. L. 89–651][/us/pl/89/651], § 9, Oct. 14, 1966, [80 Stat. 902][/us/stat/80/902], provided that: 
 
 > “Any duty-free treatment provided for in this Act \[see Short Title note set out preceding [section 1202 of this title][/us/usc/t19/s1202]\] shall, for purposes of title III of the Trade Expansion Act of 1962 ([76 Stat. 883][/us/stat/76/883]; 19 U.S.C., secs. 1901 to 1991) \[this subchapter\], be treated as a concession granted under a trade agreement: Provided, That any action taken pursuant to section 351 of such Act \[this section\] as the result of this section shall be consistent with obligations of the United States under trade agreements.”
 
-[Pub. L. 89–388, § 4][/us/pl/89/388/s4], Apr. 13, 1966, [80 Stat. 110][/us/stat/80/110], provided that: 
+[Pub. L. 89–388][/us/pl/89/388], § 4, Apr. 13, 1966, [80 Stat. 110][/us/stat/80/110], provided that: 
 
 > “For purposes of applying paragraphs (4) and (5) of section 256 ([19 U.S.C. 1886][/us/usc/t19/s1886]) and section 351(b) ([19 U.S.C. 1981(b)][/us/usc/t19/s1981/b]) of the Trade Expansion Act of 1962 and section 350(c)(2)(A) of the Tariff Act of 1930 ([19 U.S.C. 1351(c)(2)(A)][/us/usc/t19/s1351/c/2/A])—
 
@@ -127,7 +127,7 @@
 
 >     “(2) The rates of duty in rate column numbered 2 of such Schedules as changed by this Act shall be treated as the rates of duty existing on July 1, 1934.”
 
-[Pub. L. 89–241, § 3][/us/pl/89/241/s3], Oct. 7, 1965, [79 Stat. 933][/us/stat/79/933], provided that:
+[Pub. L. 89–241][/us/pl/89/241], § 3, Oct. 7, 1965, [79 Stat. 933][/us/stat/79/933], provided that:
 
 >     “(a)
 
@@ -173,50 +173,50 @@
 [/us/usc/t19/s1901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901%2Fb
 [/us/usc/t19/s1901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901%2Fe
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
 [/us/usc/t19/s1821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1821%2Fa
-[/us/pl/87/794/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs351
+[/us/pl/87/794/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtIII
 [/us/stat/76/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F899
-[/us/pl/93/618/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fb
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
 [/us/usc/t19/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
 [/us/usc/t19/s1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1886
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
 [/us/usc/t19/s2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2481
 [/us/usc/t19/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1364
 [/us/pl/87/794/s257/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fe%2F1
-[/us/pl/93/618/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fb
-[/us/pl/93/618/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fc
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
-[/us/pl/90/638/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F638%2Fs1%2Fd
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/pl/90/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F638
 [/us/stat/82/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1360
-[/us/pl/90/638/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F638%2Fs2%2Fd
+[/us/pl/90/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F638
 [/us/stat/82/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1360
 [/us/usc/t19/s1886/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1886%2F4
 [/us/usc/t19/s1886/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1886%2F5
 [/us/usc/t19/s1351/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351%2Fc%2F2%2FA
-[/us/pl/90/564/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F564%2Fs2%2Fc
+[/us/pl/90/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F564
 [/us/stat/82/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1001
-[/us/pl/89/651/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F651%2Fs9
+[/us/pl/89/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F651
 [/us/stat/80/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F902
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/stat/76/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F883
-[/us/pl/89/388/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F388%2Fs4
+[/us/pl/89/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F388
 [/us/stat/80/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F110
 [/us/usc/t19/s1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1886
 [/us/usc/t19/s1981/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1981%2Fb
 [/us/usc/t19/s1351/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351%2Fc%2F2%2FA
-[/us/pl/89/241/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F241%2Fs3
+[/us/pl/89/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F241
 [/us/stat/79/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F933
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 

@@ -17,13 +17,13 @@
 
     Whenever a customs officer shall be notified in writing of the existence of a lien for freight, charges, or contribution in general average upon any imported merchandise sent to the appraiser’s store for examination, entered for warehousing or taken possession of by him, he shall refuse to permit delivery thereof from public store or bonded warehouse until proof shall be produced that the said lien has been satisfied or discharged. The rights of the United States shall not be prejudiced or affected by the filing of such lien, nor shall the United States or its officers be liable for losses or damages consequent upon such refusal to permit delivery. If merchandise, regarding which such notice of lien has been filed, shall be forfeited or abandoned and sold, the freight, charges, or contribution in general average due thereon shall be paid from the proceeds of such sale in the same manner as other lawful charges and expenses are paid therefrom. The provisions of this section shall apply to licensed customs brokers who otherwise possess a lien for the purposes stated above upon the merchandise under the statutes or common law, or by order of any court of competent jurisdiction, of any State.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 564, [46 Stat. 747][/us/stat/46/747]; [Pub. L. 91–271, title III, § 301(w)][/us/pl/91/271/s301/w], June 2, 1970, [84 Stat. 290][/us/stat/84/290]; [Pub. L. 98–573, title II, § 212(c)(A)][/us/pl/98/573/s212/c/A], formerly § 212(b)(7)(A), Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984], renumbered [Pub. L. 99–514, title XVIII, § 1889(3)][/us/pl/99/514/s1889/3], Oct. 22, 1986, [100 Stat. 2925][/us/stat/100/2925].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 564, [46 Stat. 747][/us/stat/46/747]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(w), June 2, 1970, [84 Stat. 290][/us/stat/84/290]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 212(c)(A), formerly § 212(b)(7)(A), Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984], renumbered [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1889(3), Oct. 22, 1986, [100 Stat. 2925][/us/stat/100/2925].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 564, [42 Stat. 978][/us/stat/42/978]. That section was superseded by section 564 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 564, [42 Stat. 978][/us/stat/42/978]. That section was superseded by section 564 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions somewhat similar to those in this section were contained in R.S. § 2981, as amended by [act June 10, 1880, ch. 190, § 10][/us/act/1880-06-10/ch190/s10], [21 Stat. 175][/us/stat/21/175], and [act May 21, 1896, ch. 217][/us/act/1896-05-21/ch217], [29 Stat. 129][/us/stat/29/129], which also required notice to be given the party claiming the lien before delivery of the goods, and provided that possession by officers of the customs should not affect the discharge of the lien. That section was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions somewhat similar to those in this section were contained in R.S. § 2981, as amended by [act June 10, 1880, ch. 190][/us/act/1880-06-10/ch190], § 10, [21 Stat. 175][/us/stat/21/175], and [act May 21, 1896, ch. 217][/us/act/1896-05-21/ch217], [29 Stat. 129][/us/stat/29/129], which also required notice to be given the party claiming the lien before delivery of the goods, and provided that possession by officers of the customs should not affect the discharge of the lien. That section was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -52,19 +52,19 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F747
-[/us/pl/91/271/s301/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fw
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F290
-[/us/pl/98/573/s212/c/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fc%2FA
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2984
-[/us/pl/99/514/s1889/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1889%2F3
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2925
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F978
-[/us/act/1880-06-10/ch190/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1880-06-10%2Fch190%2Fs10
+[/us/act/1880-06-10/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1880-06-10%2Fch190
 [/us/stat/21/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F175
 [/us/act/1896-05-21/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-21%2Fch217
 [/us/stat/29/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F129
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

@@ -59,7 +59,7 @@
 
         The terms “Antidumping Agreement”, “Agreement on Subsidies and Countervailing Measures”, and “Safeguards Agreement” mean the agreements referred to in section 3511(d)(7), (12), and (13) of this title, respectively.
 
-([Pub. L. 103–465, title I, § 121][/us/pl/103/465/s121], Dec. 8, 1994, [108 Stat. 4828][/us/stat/108/4828].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 121, Dec. 8, 1994, [108 Stat. 4828][/us/stat/108/4828].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–465, title I, § 130][/us/pl/103/465/s130], Dec. 8, 1994, [108 Stat. 4839][/us/stat/108/4839], provided that: 
+[Pub. L. 103–465, title I][/us/pl/103/465/tI], § 130, Dec. 8, 1994, [108 Stat. 4839][/us/stat/108/4839], provided that: 
 
 > “This subtitle \[subtitle C (§§ 121–130) of title I of [Pub. L. 103–465][/us/pl/103/465], enacting this part and amending sections 1516a, 2155, and 2254 of this title\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 
@@ -80,10 +80,10 @@
 
 [/us/usc/t19/s1677/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F1
 [/us/usc/t19/s3511/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F16
-[/us/pl/103/465/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs121
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4828
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs130
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4839
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 

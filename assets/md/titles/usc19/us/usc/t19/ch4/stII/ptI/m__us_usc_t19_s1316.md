@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 316, [46 Stat. 695][/us/stat/46/695], prohibiting the construction of this chapter so as to abrogate or affect the treaty between the United States and Cuba concluded on Dec. 11, 1902, was omitted in view of the termination of such treaty on Aug. 21, 1963 (see note below), and [section 401 of Pub. L. 87–456][/us/pl/87/456/s401], title IV, May 24, 1962, [76 Stat. 78][/us/stat/76/78], set out as a note under [section 1351 of this title][/us/usc/t19/s1351]. [Section 401(d) of Pub. L. 87–456][/us/pl/87/456/s401/d] declares sections 124 and 125 of this title as inapplicable so long as [section 401(a) of Pub. L. 87–456][/us/pl/87/456/s401/a], declaring Cuba as a nation dominated or controlled by the foreign government or foreign organization controlling the world communist movement, applies.
+    Section, [act June 17, 1930, ch. 497, title III][/us/act/1930-06-17/ch497/tIII], § 316, [46 Stat. 695][/us/stat/46/695], prohibiting the construction of this chapter so as to abrogate or affect the treaty between the United States and Cuba concluded on Dec. 11, 1902, was omitted in view of the termination of such treaty on Aug. 21, 1963 (see note below), and [section 401 of Pub. L. 87–456][/us/pl/87/456/s401], title IV, May 24, 1962, [76 Stat. 78][/us/stat/76/78], set out as a note under [section 1351 of this title][/us/usc/t19/s1351]. [Section 401(d) of Pub. L. 87–456][/us/pl/87/456/s401/d] declares sections 124 and 125 of this title as inapplicable so long as [section 401(a) of Pub. L. 87–456][/us/pl/87/456/s401/a], declaring Cuba as a nation dominated or controlled by the foreign government or foreign organization controlling the world communist movement, applies.
 
  __Treaty Between United States and Cuba__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIII
 [/us/stat/46/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F695
 [/us/pl/87/456/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs401
 [/us/stat/76/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F78

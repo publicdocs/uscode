@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that, to the extent appropriate, the United States Government should make every effort to donate to governments of sub-Saharan African countries determined to be eligible under [section 3703 of this title][/us/usc/t19/s3703] air traffic control equipment that is no longer in use, including appropriate related reimbursable technical assistance.
 
-([Pub. L. 106–200, title I, § 126][/us/pl/106/200/s126], May 18, 2000, [114 Stat. 271][/us/stat/114/271].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 126, May 18, 2000, [114 Stat. 271][/us/stat/114/271].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t19/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3703
-[/us/pl/106/200/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs126
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F271
 
 

@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    R.S. § 963 derived from [act Mar. 2, 1799, ch. 22, § 65][/us/act/1799-03-02/ch22/s65], [1 Stat. 676][/us/stat/1/676].
+    R.S. § 963 derived from [act Mar. 2, 1799, ch. 22][/us/act/1799-03-02/ch22], § 65, [1 Stat. 676][/us/stat/1/676].
 
-    Section was formerly classified to [section 787 of Title 28][/us/usc/t28/s787] prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 869][/us/stat/62/869].
+    Section was formerly classified to [section 787 of Title 28][/us/usc/t28/s787] prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 869][/us/stat/62/869].
 
 ----------
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/act/1799-03-02/ch22/s65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1799-03-02%2Fch22%2Fs65
+[/us/act/1799-03-02/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1799-03-02%2Fch22
 [/us/stat/1/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F676
 [/us/usc/t28/s787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs787
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 
 

@@ -17,7 +17,7 @@
 
     A United States negotiating objective under sections 2111 and 2112 of this title shall be to enter into trade agreements which promote the economic growth of both developing countries and the United States and the mutual expansion of market opportunities.
 
-([Pub. L. 93–618, title I, § 106][/us/pl/93/618/s106], Jan. 3, 1975, [88 Stat. 1985][/us/stat/88/1985].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 106, Jan. 3, 1975, [88 Stat. 1985][/us/stat/88/1985].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/618/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs106
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1985
 
 

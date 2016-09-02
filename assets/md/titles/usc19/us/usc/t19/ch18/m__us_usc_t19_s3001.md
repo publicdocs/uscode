@@ -23,7 +23,7 @@
 
     (3) to provide that the Convention shall be treated as a trade agreement obligation of the United States.
 
-([Pub. L. 100–418, title I, § 1201][/us/pl/100/418/s1201], Aug. 23, 1988, [102 Stat. 1147][/us/stat/102/1147].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1201, Aug. 23, 1988, [102 Stat. 1147][/us/stat/102/1147].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–418, title I, § 1217][/us/pl/100/418/s1217], Aug. 23, 1988, [102 Stat. 1163][/us/stat/102/1163], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1217, Aug. 23, 1988, [102 Stat. 1163][/us/stat/102/1163], provided that:
 
 >     “(a)  __Accession to Convention and Provisions Other Than the Implementation of the Harmonized Tariff Schedule__  __.—__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1201
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1147
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t10/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs374
@@ -61,7 +61,7 @@
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295
 [/us/usc/t50/s98h–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%934
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/100/418/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1163
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t10/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs374

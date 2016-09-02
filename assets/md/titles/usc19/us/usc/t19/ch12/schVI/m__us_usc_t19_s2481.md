@@ -37,11 +37,11 @@
 
     (10) The term “commerce” includes services associated with international trade.
 
-([Pub. L. 93–618, title VI, § 601][/us/pl/93/618/s601], Jan. 3, 1975, [88 Stat. 2071][/us/stat/88/2071]; [Pub. L. 96–39, title II, § 202(c)(1)][/us/pl/96/39/s202/c/1], title XI, § 1106(h)(1), July 26, 1979, [93 Stat. 202][/us/stat/93/202], 313; [Pub. L. 100–418, title I, § 1214(j)(5)][/us/pl/100/418/s1214/j/5], Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158]; [Pub. L. 105–206, title V, § 5003(b)(2)(B)][/us/pl/105/206/s5003/b/2/B], July 22, 1998, [112 Stat. 789][/us/stat/112/789].)
+([Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 601, Jan. 3, 1975, [88 Stat. 2071][/us/stat/88/2071]; [Pub. L. 96–39, title II][/us/pl/96/39/tII], § 202(c)(1), title XI, § 1106(h)(1), July 26, 1979, [93 Stat. 202][/us/stat/93/202], 313; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(j)(5), Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158]; [Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(b)(2)(B), July 22, 1998, [112 Stat. 789][/us/stat/112/789].)
 
  __References in Text__ 
 
-    [Section 1402 of this title][/us/usc/t19/s1402], referred to in par. (4), was repealed by [Pub. L. 96–39, title II, § 201(b)][/us/pl/96/39/s201/b], July 26, 1979, [93 Stat. 201][/us/stat/93/201].
+    [Section 1402 of this title][/us/usc/t19/s1402], referred to in par. (4), was repealed by [Pub. L. 96–39, title II][/us/pl/96/39/tII], § 201(b), July 26, 1979, [93 Stat. 201][/us/stat/93/201].
 
     The effective date of the amendments made by title II of the Trade Agreements Act of 1979, referred to in par. (4), is July 1, 1980. See [section 204(a) of Pub. L. 96–39][/us/pl/96/39/s204/a], set out as an Effective Date of 1979 Amendment note under [section 1401a of this title][/us/usc/t19/s1401a].
 
@@ -53,9 +53,9 @@
 
     1988—Par. (7). [Pub. L. 100–418][/us/pl/100/418] substituted “chapters 1 through 97 of the Harmonized Tariff Schedule of the United States” for “schedules 1 through 7 of the Tariff Schedules of the United States”.
 
-    1979—Par. (2). [Pub. L. 96–39, § 1106(h)(1)][/us/pl/96/39/s1106/h/1], substituted “or exaction” for “and exaction”.
+    1979—Par. (2). [Pub. L. 96–39][/us/pl/96/39], § 1106(h)(1), substituted “or exaction” for “and exaction”.
 
-    Par. (4). [Pub. L. 96–39, § 202(c)(1)][/us/pl/96/39/s202/c/1], substituted “section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable” for “section 1401a or 1402 of this title applicable”.
+    Par. (4). [Pub. L. 96–39][/us/pl/96/39], § 202(c)(1), substituted “section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable” for “section 1401a or 1402 of this title applicable”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -69,13 +69,13 @@
 
  __Savings Provision__ 
 
-[Pub. L. 105–206, title V, § 5003(c)][/us/pl/105/206/s5003/c], July 22, 1998, [112 Stat. 790][/us/stat/112/790], provided that: 
+[Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(c), July 22, 1998, [112 Stat. 790][/us/stat/112/790], provided that: 
 
 > “Nothing in this section \[amending this section, sections 1881, 2432, 3332 and 3555 of this title, and sections 5401 and 5713 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under [section 2112 of this title][/us/usc/t19/s2112]\] shall affect the meaning of any provision of law, Executive order, Presidential proclamation, rule, regulation, delegation of authority, other document, or treaty or other international agreement of the United States relating to the principle of ‘most-favored-nation’ (or ‘most favored nation’) treatment. Any Executive order, Presidential proclamation, rule, regulation, delegation of authority, other document, or treaty or other international agreement of the United States that has been issued, made, granted, or allowed to become effective and that is in effect on the effective date of this Act \[July 22, 1998\], or was to become effective on or after the effective date of this Act, shall continue in effect according to its terms until modified, terminated, superseded, set aside, or revoked in accordance with law.”
 
  __Clarification of Designation of Normal Trade Relations__ 
 
-[Pub. L. 105–206, title V, § 5003(a)][/us/pl/105/206/s5003/a], July 22, 1998, [112 Stat. 789][/us/stat/112/789], provided that:
+[Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(a), July 22, 1998, [112 Stat. 789][/us/stat/112/789], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -105,24 +105,24 @@
 ----------
 
 [/us/usc/t19/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a
-[/us/pl/93/618/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs601
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2071
-[/us/pl/96/39/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fc%2F1
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F202
-[/us/pl/100/418/s1214/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fj%2F5
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1158
-[/us/pl/105/206/s5003/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fb%2F2%2FB
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F789
 [/us/usc/t19/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1402
-[/us/pl/96/39/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs201%2Fb
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F201
 [/us/pl/96/39/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs204%2Fa
 [/us/usc/t19/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/96/39/s1106/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fh%2F1
-[/us/pl/96/39/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fc%2F1
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
@@ -132,10 +132,10 @@
 [/us/pl/96/39/s1106/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fh%2F1
 [/us/pl/96/39/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1114
 [/us/usc/t19/s2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2581
-[/us/pl/105/206/s5003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fc
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F790
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/105/206/s5003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fa
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F789
 
 

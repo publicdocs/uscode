@@ -301,41 +301,41 @@
 
             If, in the case of a transaction between affiliated persons involving the production by one of such persons of a major input to the merchandise, the administering authority has reasonable grounds to believe or suspect that an amount represented as the value of such input is less than the cost of production of such input, then the administering authority may determine the value of the major input on the basis of the information available regarding such cost of production, if such cost is greater than the amount that would be determined for such input under paragraph (2).
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 773, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 182][/us/stat/93/182]; amended [Pub. L. 98–573, title VI][/us/pl/98/573], §§ 615, 620(b), Oct. 30, 1984, [98 Stat. 3036][/us/stat/98/3036], 3039; [Pub. L. 99–514, title XVIII, § 1886(a)(11)][/us/pl/99/514/s1886/a/11], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1316(a), 1318, 1319, Aug. 23, 1988, [102 Stat. 1186][/us/stat/102/1186], 1189; [Pub. L. 103–465, title II, § 224][/us/pl/103/465/s224], Dec. 8, 1994, [108 Stat. 4878][/us/stat/108/4878]; [Pub. L. 114–27, title V][/us/pl/114/27], §§ 504(b), (c), 505, June 29, 2015, [129 Stat. 385][/us/stat/129/385].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 773, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 182][/us/stat/93/182]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], §§ 615, 620(b), Oct. 30, 1984, [98 Stat. 3036][/us/stat/98/3036], 3039; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(11), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1316(a), 1318, 1319, Aug. 23, 1988, [102 Stat. 1186][/us/stat/102/1186], 1189; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 224, Dec. 8, 1994, [108 Stat. 4878][/us/stat/108/4878]; [Pub. L. 114–27, title V][/us/pl/114/27/tV], §§ 504(b), (c), 505, June 29, 2015, [129 Stat. 385][/us/stat/129/385].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1)(B)(ii)(III). [Pub. L. 114–27, § 504(b)][/us/pl/114/27/s504/b], which directed amendment of subcl. (III) by striking out “in such other country.”, was executed by striking out “in such other country” after “particular market situation” to reflect the probable intent of Congress.
+    2015—Subsec. (a)(1)(B)(ii)(III). [Pub. L. 114–27][/us/pl/114/27], § 504(b), which directed amendment of subcl. (III) by striking out “in such other country.”, was executed by striking out “in such other country” after “particular market situation” to reflect the probable intent of Congress.
 
-    Subsec. (b)(2)(A). [Pub. L. 114–27, § 505(a)][/us/pl/114/27/s505/a], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
+    Subsec. (b)(2)(A). [Pub. L. 114–27][/us/pl/114/27], § 505(a), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
 
     “(i) in an investigation initiated under [section 1673a of this title][/us/usc/t19/s1673a] or a review conducted under [section 1675 of this title][/us/usc/t19/s1675], an interested party described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title][/us/usc/t19/s1677/9] provides information, based upon observed prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
 
     “(ii) in a review conducted under [section 1675 of this title][/us/usc/t19/s1675] involving a specific exporter, the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or if a review has been completed, in the most recently completed review.”
 
-    Subsec. (c)(5). [Pub. L. 114–27, § 505(b)][/us/pl/114/27/s505/b], added par. (5).
+    Subsec. (c)(5). [Pub. L. 114–27][/us/pl/114/27], § 505(b), added par. (5).
 
-    Subsec. (e). [Pub. L. 114–27, § 504(c)(2)][/us/pl/114/27/s504/c/2], in concluding provisions, substituted “For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials.” for “For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.”
+    Subsec. (e). [Pub. L. 114–27][/us/pl/114/27], § 504(c)(2), in concluding provisions, substituted “For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials.” for “For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.”
 
-    Subsec. (e)(1). [Pub. L. 114–27, § 504(c)(1)][/us/pl/114/27/s504/c/1], substituted “trade” for “business”.
+    Subsec. (e)(1). [Pub. L. 114–27][/us/pl/114/27], § 504(c)(1), substituted “trade” for “business”.
 
     1994—[Pub. L. 103–465][/us/pl/103/465] amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost of production in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
 
-    1988—Subsec. (a)(5). [Pub. L. 100–418, § 1319][/us/pl/100/418/s1319], added par. (5).
+    1988—Subsec. (a)(5). [Pub. L. 100–418][/us/pl/100/418], § 1319, added par. (5).
 
-    Subsec. (c). [Pub. L. 100–418, § 1316(a)][/us/pl/100/418/s1316/a], amended subsec. (c) generally, substituting provisions relating to nonmarket economy countries, for provisions relating to State-controlled economies.
+    Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1316(a), amended subsec. (c) generally, substituting provisions relating to nonmarket economy countries, for provisions relating to State-controlled economies.
 
-    Subsec. (e)(2) to (4). [Pub. L. 100–418, § 1318][/us/pl/100/418/s1318], substituted “(4)” for “(3)” wherever appearing in par. (2), added par. (3), and redesignated former par. (3) as (4) and in introductory provisions substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+    Subsec. (e)(2) to (4). [Pub. L. 100–418][/us/pl/100/418], § 1318, substituted “(4)” for “(3)” wherever appearing in par. (2), added par. (3), and redesignated former par. (3) as (4) and in introductory provisions substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
     1986—Subsecs. (f), (g). [Pub. L. 99–514][/us/pl/99/514] redesignated subsec. (g) as (f).
 
-    1984—Subsec. (a)(1). [Pub. L. 98–573, § 615(1)][/us/pl/98/573/s615/1], substituted “time such merchandise is first sold within the United States by the person for whom (or for whose account) the merchandise is imported to any other person who is not described in subsection (e)(3) of this section with respect to such person” for “time of exportation of such merchandise to the United States” in provisions before subpar. (A).
+    1984—Subsec. (a)(1). [Pub. L. 98–573][/us/pl/98/573], § 615(1), substituted “time such merchandise is first sold within the United States by the person for whom (or for whose account) the merchandise is imported to any other person who is not described in subsection (e)(3) of this section with respect to such person” for “time of exportation of such merchandise to the United States” in provisions before subpar. (A).
 
-    Subsecs. (a)(1)(A), (4)(A), (e)(1)(B). [Pub. L. 98–573, § 615(2)][/us/pl/98/573/s615/2], substituted “commercial quantities” for “wholesale quantities” wherever appearing.
+    Subsecs. (a)(1)(A), (4)(A), (e)(1)(B). [Pub. L. 98–573][/us/pl/98/573], § 615(2), substituted “commercial quantities” for “wholesale quantities” wherever appearing.
 
-    Subsec. (f). [Pub. L. 98–573, § 620(b)][/us/pl/98/573/s620/b], struck out subsec. (f) which related to the authority to use sampling techniques and to disregard insignificant adjustments.
+    Subsec. (f). [Pub. L. 98–573][/us/pl/98/573], § 620(b), struck out subsec. (f) which related to the authority to use sampling techniques and to disregard insignificant adjustments.
 
-    Subsec. (g). [Pub. L. 98–573, § 615(3)][/us/pl/98/573/s615/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 98–573][/us/pl/98/573], § 615(3), added subsec. (g).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -366,36 +366,36 @@
 [/us/usc/t19/s1673a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F182
-[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3036
-[/us/pl/99/514/s1886/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F11
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1186
-[/us/pl/103/465/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs224
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4878
-[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtV
 [/us/stat/129/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F385
-[/us/pl/114/27/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs504%2Fb
-[/us/pl/114/27/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs505%2Fa
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/usc/t19/s1673a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673a
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
 [/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
-[/us/pl/114/27/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs505%2Fb
-[/us/pl/114/27/s504/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs504%2Fc%2F2
-[/us/pl/114/27/s504/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs504%2Fc%2F1
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/100/418/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1319
-[/us/pl/100/418/s1316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1316%2Fa
-[/us/pl/100/418/s1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1318
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/573/s615/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs615%2F1
-[/us/pl/98/573/s615/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs615%2F2
-[/us/pl/98/573/s620/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs620%2Fb
-[/us/pl/98/573/s615/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs615%2F3
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

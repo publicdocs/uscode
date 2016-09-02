@@ -181,7 +181,7 @@
 
         (2) any Saturday and Sunday, not excluded under paragraph (1), when either House of the Congress is not in session.
 
-([Pub. L. 100–418, title I, § 1103][/us/pl/100/418/s1103], Aug. 23, 1988, [102 Stat. 1128][/us/stat/102/1128].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1103, Aug. 23, 1988, [102 Stat. 1128][/us/stat/102/1128].)
 
  __References in Text__ 
 
@@ -203,7 +203,7 @@
 [/us/usc/t19/s2902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902%2Fc
 [/us/usc/t19/s2902/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902%2Fc%2F3
 [/us/usc/t19/s2902/c/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902%2Fc%2F3%2FC%2Fi
-[/us/pl/100/418/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1103
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1128
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

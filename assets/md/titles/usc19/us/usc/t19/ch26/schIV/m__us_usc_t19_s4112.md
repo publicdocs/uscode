@@ -111,7 +111,7 @@
 
             The program under this section shall apply with respect to qualifying fabric exported to an eligible country on or after August 1, 2007.
 
-([Pub. L. 109–53, title IV, § 404][/us/pl/109/53/s404], as added [Pub. L. 110–436, § 2(a)][/us/pl/110/436/s2/a], Oct. 16, 2008, [122 Stat. 4977][/us/stat/122/4977].)
+([Pub. L. 109–53, title IV][/us/pl/109/53/tIV], § 404, as added [Pub. L. 110–436][/us/pl/110/436], § 2(a), Oct. 16, 2008, [122 Stat. 4977][/us/stat/122/4977].)
 
  __Termination of Section__ 
 
@@ -134,8 +134,8 @@
 
 [/us/usc/t19/s2703/b/2/A/vii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fb%2F2%2FA%2Fvii%2FIV
 [/us/usc/t19/s3721/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721%2Fb%2F5
-[/us/pl/109/53/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs404
-[/us/pl/110/436/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs2%2Fa
+[/us/pl/109/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIV
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
 [/us/stat/122/4977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4977
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

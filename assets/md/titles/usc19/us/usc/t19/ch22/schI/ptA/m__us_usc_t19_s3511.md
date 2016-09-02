@@ -71,7 +71,7 @@
 
         (18) The International Bovine Meat Agreement.
 
-([Pub. L. 103–465, title I, § 101][/us/pl/103/465/s101], Dec. 8, 1994, [108 Stat. 4814][/us/stat/108/4814].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 101, Dec. 8, 1994, [108 Stat. 4814][/us/stat/108/4814].)
 
  __References in Text__ 
 
@@ -264,7 +264,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 
 [/us/usc/t19/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903
 [/us/usc/t19/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191
-[/us/pl/103/465/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs101
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4814
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/stat/108/4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4809

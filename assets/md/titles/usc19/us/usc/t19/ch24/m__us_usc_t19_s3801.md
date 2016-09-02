@@ -35,15 +35,15 @@
 
             (B) the Congress is concerned that dispute settlement panels of the WTO and the Appellate Body appropriately apply the standard of review contained in Article 17.6 of the Antidumping Agreement, to provide deference to a permissible interpretation by a WTO member of provisions of that Agreement, and to the evaluation by a WTO member of the facts where that evaluation is unbiased and objective and the establishment of the facts is proper.
 
-([Pub. L. 107–210, div. B, title XXI, § 2101][/us/pl/107/210/s2101], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2101, Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “This title”, meaning title XXI of [Pub. L. 107–210, div. B][/us/pl/107/210], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993], which enacted this chapter and amended sections 2151 to 2155, 2191, and 2212 of this title. For complete classification of title XXI to the Code, see Tables.
+    This chapter, referred to in subsec. (a), was in the original “This title”, meaning title XXI of [Pub. L. 107–210, div. B][/us/pl/107/210/dB], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993], which enacted this chapter and amended sections 2151 to 2155, 2191, and 2212 of this title. For complete classification of title XXI to the Code, see Tables.
 
  __Short Title__ 
 
-[Pub. L. 107–210, § 1][/us/pl/107/210/s1], Aug. 6, 2002, [116 Stat. 933][/us/stat/116/933], provided that: 
+[Pub. L. 107–210][/us/pl/107/210], § 1, Aug. 6, 2002, [116 Stat. 933][/us/stat/116/933], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Trade Act of 2002’.”
 
@@ -110,11 +110,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/107/210/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2101
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
+[/us/stat/116/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F993
+[/us/pl/107/210/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB
 [/us/stat/116/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F993
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
-[/us/stat/116/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F993
-[/us/pl/107/210/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs1
 [/us/stat/116/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F933
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

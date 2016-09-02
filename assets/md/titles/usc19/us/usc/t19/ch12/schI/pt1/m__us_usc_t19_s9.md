@@ -163,7 +163,7 @@
 
  __Trade Agreements With Israel__ 
 
-[Pub. L. 98–573, title IV][/us/pl/98/573], §§ 402–405, formerly §§ 402–404, 406, Oct. 30, 1984, [98 Stat. 3015–3017][/us/stat/98/3015-3017], as renumbered and amended by [Pub. L. 99–47, § 8(a)][/us/pl/99/47/s8/a], June 11, 1985, [99 Stat. 84][/us/stat/99/84]; [Pub. L. 99–514, title XVIII, § 1889(6)][/us/pl/99/514/s1889/6], Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1214(s)(4), 1401(b)(3), Aug. 23, 1988, [102 Stat. 1160][/us/stat/102/1160], 1240, provided that:
+[Pub. L. 98–573, title IV][/us/pl/98/573/tIV], §§ 402–405, formerly §§ 402–404, 406, Oct. 30, 1984, [98 Stat. 3015–3017][/us/stat/98/3015-3017], as renumbered and amended by [Pub. L. 99–47][/us/pl/99/47], § 8(a), June 11, 1985, [99 Stat. 84][/us/stat/99/84]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1889(6), Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1214(s)(4), 1401(b)(3), Aug. 23, 1988, [102 Stat. 1160][/us/stat/102/1160], 1240, provided that:
 
 > “SEC. 402. __CRITERIA FOR DUTY-FREE TREATMENT OF ARTICLES.__ 
 
@@ -381,13 +381,13 @@ By virtue of the authority vested in me as President by the Constitution and law
 ----------
 
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIV
 [/us/stat/98/3015-3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3015-3017
-[/us/pl/99/47/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47%2Fs8%2Fa
+[/us/pl/99/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47
 [/us/stat/99/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F84
-[/us/pl/99/514/s1889/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1889%2F6
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2926
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1160
 [/us/usc/t19/s2112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112%2Fb%2F1
 [/us/usc/t19/s2112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112%2Fb%2F1

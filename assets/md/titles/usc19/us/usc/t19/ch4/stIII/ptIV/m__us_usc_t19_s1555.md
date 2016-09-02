@@ -139,7 +139,7 @@
 
             (D) The Secretary is authorized to promulgate regulations to require the proprietor and the international carrier to keep records of the disposition of any cart brought into the United States and all merchandise on such cart.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 555, [46 Stat. 743][/us/stat/46/743]; [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 98–573, title II, § 211][/us/pl/98/573/s211], Oct. 30, 1984, [98 Stat. 2977][/us/stat/98/2977]; [Pub. L. 100–418, title I, § 1908(b)][/us/pl/100/418/s1908/b], Aug. 23, 1988, [102 Stat. 1315][/us/stat/102/1315]; [Pub. L. 101–382, title I, § 139(a)(1)][/us/pl/101/382/s139/a/1], Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653]; [Pub. L. 104–295, § 29][/us/pl/104/295/s29], Oct. 11, 1996, [110 Stat. 3535][/us/stat/110/3535]; [Pub. L. 106–36, title II, § 2417][/us/pl/106/36/s2417], June 25, 1999, [113 Stat. 176][/us/stat/113/176]; [Pub. L. 106–476, title I, § 1454][/us/pl/106/476/s1454], Nov. 9, 2000, [114 Stat. 2168][/us/stat/114/2168].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 555, [46 Stat. 743][/us/stat/46/743]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(b), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 211, Oct. 30, 1984, [98 Stat. 2977][/us/stat/98/2977]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1908(b), Aug. 23, 1988, [102 Stat. 1315][/us/stat/102/1315]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 139(a)(1), Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653]; [Pub. L. 104–295][/us/pl/104/295], § 29, Oct. 11, 1996, [110 Stat. 3535][/us/stat/110/3535]; [Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2417, June 25, 1999, [113 Stat. 176][/us/stat/113/176]; [Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1454, Nov. 9, 2000, [114 Stat. 2168][/us/stat/114/2168].)
 
  __References in Text__ 
 
@@ -151,9 +151,9 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 555, [42 Stat. 976][/us/stat/42/976]. That section was superseded by section 555 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 555, [42 Stat. 976][/us/stat/42/976]. That section was superseded by section 555 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Prior provisions dealing with the subject matter of this section were contained in R.S. § 2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by [act Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 247][/us/stat/19/247], requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Prior provisions dealing with the subject matter of this section were contained in R.S. § 2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by [act Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 247][/us/stat/19/247], requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -177,7 +177,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–418, title I, § 1908(c)][/us/pl/100/418/s1908/c], Aug. 23, 1988, [102 Stat. 1317][/us/stat/102/1317], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1908(c), Aug. 23, 1988, [102 Stat. 1317][/us/stat/102/1317], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date that is 15 days after the date of enactment of this Act \[Aug. 23, 1988\].”
 
@@ -191,7 +191,7 @@
 
  __Duty-Free Sales Enterprises; Findings__ 
 
-[Pub. L. 100–418, title I, § 1908(a)][/us/pl/100/418/s1908/a], Aug. 23, 1988, [102 Stat. 1315][/us/stat/102/1315], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1908(a), Aug. 23, 1988, [102 Stat. 1315][/us/stat/102/1315], provided that: 
 
 > “The Congress finds that—
 
@@ -216,30 +216,30 @@
 [/us/stat/37/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F434
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F743
-[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/98/573/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs211
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2977
-[/us/pl/100/418/s1908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1908%2Fb
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1315
-[/us/pl/101/382/s139/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs139%2Fa%2F1
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F653
-[/us/pl/104/295/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs29
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3535
-[/us/pl/106/36/s2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2417
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F176
-[/us/pl/106/476/s1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1454
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2168
 [/us/act/1912-08-24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fs1
 [/us/stat/37/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F434
 [/us/usc/t19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F976
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F247
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
@@ -251,7 +251,7 @@
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
 [/us/pl/106/476/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1471
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
-[/us/pl/100/418/s1908/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1908%2Fc
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1317
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
@@ -259,7 +259,7 @@
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500
-[/us/pl/100/418/s1908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1908%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1315
 
 

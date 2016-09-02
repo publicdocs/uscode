@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall conduct a study to determine the effects of the Uruguay Round Agreements on the Federal milk marketing order system. Not later than 6 months after the date of entry into force of the WTO Agreement with respect to the United States, the Secretary of Agriculture shall report to the Congress on the results of the study.
 
-([Pub. L. 103–465, title IV, § 425][/us/pl/103/465/s425], Dec. 8, 1994, [108 Stat. 4965][/us/stat/108/4965].)
+([Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 425, Dec. 8, 1994, [108 Stat. 4965][/us/stat/108/4965].)
 
  __Uruguay Round Agreements: Entry Into Force__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/465/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs425
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4965
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd
 [/us/usc/t19/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511

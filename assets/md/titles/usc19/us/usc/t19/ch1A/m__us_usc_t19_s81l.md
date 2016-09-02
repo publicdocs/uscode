@@ -31,7 +31,7 @@
 
     (g) Such other facilities as may be required by the Board.
 
-([June 18, 1934, ch. 590, § 12][/us/act/1934-06-18/ch590/s12], [48 Stat. 1001][/us/stat/48/1001].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 12, [48 Stat. 1001][/us/stat/48/1001].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs12
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1001
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s196.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s197.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs196a)
 
-## § 196a. Repealed. [Pub. L. 87–456, title III, § 303(c)][/us/pl/87/456/s303/c], May 24, 1962, [76 Stat. 78][/us/stat/76/78]
+## § 196a. Repealed. [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 303(c), May 24, 1962, [76 Stat. 78][/us/stat/76/78]
 
-    Section, [act Aug. 27, 1949, ch. 517, § 1][/us/act/1949-08-27/ch517/s1], 63 Stat, 666, provided for free importation of articles for members of armed forces of foreign countries.
+    Section, [act Aug. 27, 1949, ch. 517][/us/act/1949-08-27/ch517], § 1, 63 Stat, 666, provided for free importation of articles for members of armed forces of foreign countries.
 
  __Effective Date of Repeal__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/87/456/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs303%2Fc
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F78
-[/us/act/1949-08-27/ch517/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-27%2Fch517%2Fs1
+[/us/act/1949-08-27/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-27%2Fch517
 [/us/pl/87/456/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs501%2Fa
 
 

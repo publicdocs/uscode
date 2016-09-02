@@ -27,7 +27,7 @@
 
         Any agreement under this subpart may require any officer or employee of the State certifying payments or disbursing funds under the agreement or otherwise participating in the performance of the agreement, to give a surety bond to the United States in such amount as the Secretary may deem necessary, and may provide for the payment of the cost of such bond from funds for carrying out the purposes of this part.
 
-([Pub. L. 93–618, title II, § 241][/us/pl/93/618/s241], Jan. 3, 1975, [88 Stat. 2025][/us/stat/88/2025]; [Pub. L. 97–35, title XXV, § 2513(b)][/us/pl/97/35/s2513/b], Aug. 13, 1981, [95 Stat. 889][/us/stat/95/889].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 241, Jan. 3, 1975, [88 Stat. 2025][/us/stat/88/2025]; [Pub. L. 97–35, title XXV][/us/pl/97/35/tXXV], § 2513(b), Aug. 13, 1981, [95 Stat. 889][/us/stat/95/889].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/93/618/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs241
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2025
-[/us/pl/97/35/s2513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2513%2Fb
+[/us/pl/97/35/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXV
 [/us/stat/95/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F889
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

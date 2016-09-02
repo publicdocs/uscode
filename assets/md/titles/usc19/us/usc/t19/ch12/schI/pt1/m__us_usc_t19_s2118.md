@@ -27,7 +27,7 @@
 
         (2) provide reciprocal concessions or comparable trade obligations, or both, by the United States.
 
-([Pub. L. 93–618, title I, § 108][/us/pl/93/618/s108], Jan. 3, 1975, [88 Stat. 1985][/us/stat/88/1985].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 108, Jan. 3, 1975, [88 Stat. 1985][/us/stat/88/1985].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/93/618/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs108
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1985
 
 

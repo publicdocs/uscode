@@ -83,7 +83,7 @@
 
         Prior to issuing a determination under this section, the administering authority or the Commission, as the case may be, shall provide interested parties with an opportunity to submit written comments and, in appropriate cases, may hold a hearing, with respect to the determination.
 
-([Pub. L. 103–465, title I, § 129][/us/pl/103/465/s129], Dec. 8, 1994, [108 Stat. 4836][/us/stat/108/4836].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 129, Dec. 8, 1994, [108 Stat. 4836][/us/stat/108/4836].)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 [/us/usc/t19/s1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/pl/103/465/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs129
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4836
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590

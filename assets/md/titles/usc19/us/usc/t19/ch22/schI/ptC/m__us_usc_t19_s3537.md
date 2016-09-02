@@ -55,7 +55,7 @@
 
         The Trade Representative shall maintain a file accessible to the public on each dispute settlement proceeding to which the United States is a party that is conducted pursuant to the Dispute Settlement Understanding. The file shall include all United States submissions in the proceeding and a listing of any submissions to the Trade Representative from the public with respect to the proceeding, as well as the report of the dispute settlement panel and the report of the Appellate Body.
 
-([Pub. L. 103–465, title I, § 127][/us/pl/103/465/s127], Dec. 8, 1994, [108 Stat. 4835][/us/stat/108/4835].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 127, Dec. 8, 1994, [108 Stat. 4835][/us/stat/108/4835].)
 
  __Codification__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t19/s2412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fa
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/103/465/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs127
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4835
 [/us/pl/103/465/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs127
 [/us/pl/103/465/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs127

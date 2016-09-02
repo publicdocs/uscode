@@ -473,6 +473,14 @@ Part 1—Positive Adjustment by Industries Injured by Imports  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2255" data-uslm-ref="/us/usc/t19/s2255">2255.</a>  </td>
+
+    <td> Trade monitoring.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part 2—Adjustment Assistance for Workers  </td>
@@ -1155,7 +1163,7 @@ SUBCHAPTER III—ENFORCEMENT OF UNITED STATES RIGHTS UNDER TRADE AGREEMENTS AND 
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2420" data-uslm-ref="/us/usc/t19/s2420">2420.</a>  </td>
 
-    <td> Identification of trade expansion priorities.  </td>
+    <td> Trade enforcement priorities.  </td>
 
   </tr>
 

@@ -79,7 +79,7 @@
 
         (5) __Monitoring and reports to Congress__ 
 
-            The Customs Service shall monitor and the Commissioner of Customs shall submit to Congress, not later than March 31 of each year, a report on the effectiveness of the visa systems and the implementation of legislation and regulations described in subsection (a) and on measures taken by countries in sub-Saharan Africa which export textiles or apparel to the United States to prevent circumvention as described in Article 5 of the Agreement on Textiles and Clothing.
+            The Customs Service shall monitor and the Commissioner of U.S. Customs and Border Protection shall submit to Congress, not later than March 31 of each year, a report on the effectiveness of the visa systems and the implementation of legislation and regulations described in subsection (a) and on measures taken by countries in sub-Saharan Africa which export textiles or apparel to the United States to prevent circumvention as described in Article 5 of the Agreement on Textiles and Clothing.
 
     (c) __Customs Service enforcement__ 
 
@@ -101,11 +101,15 @@
 
         There is authorized to be appropriated to carry out subsection (c) the sum of $5,894,913.
 
-([Pub. L. 106–200, title I, § 113][/us/pl/106/200/s113], May 18, 2000, [114 Stat. 263][/us/stat/114/263].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 113, May 18, 2000, [114 Stat. 263][/us/stat/114/263]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (b)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of [Pub. L. 106–200][/us/pl/106/200], May 18, 2000, [114 Stat. 252][/us/stat/114/252], which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under [section 3701 of this title][/us/usc/t19/s3701] and Tables.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (b)(5) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -132,11 +136,15 @@
 [/us/usc/t19/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721
 [/us/usc/t19/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721
 [/us/usc/t19/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721
-[/us/pl/106/200/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs113
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F263
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t19/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703
 [/us/usc/t19/s3722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3722%2Fa

@@ -77,7 +77,7 @@
 
         Necessary amounts may be appropriated to allow the head of a department, agency, or instrumentality of the Government to acquire space at a public airport (as defined in [section 47102 of title 49][/us/usc/t49/s47102]) when the head decides the space is necessary to carry out inspections, clearance, collection of taxes or duties, or a similar responsibility of the head, related to transporting passengers or property in air commerce. The head must consult with the Secretary of Transportation before making a decision on space.
 
-([Pub. L. 103–272, § 2][/us/pl/103/272/s2], July 5, 1994, [108 Stat. 1358][/us/stat/108/1358].)
+([Pub. L. 103–272][/us/pl/103/272], § 2, July 5, 1994, [108 Stat. 1358][/us/stat/108/1358].)
 
  __Codification__ 
 
@@ -100,7 +100,7 @@
 [/us/usc/t19/s1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1584
 [/us/usc/t19/s1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1584
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
-[/us/pl/103/272/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs2
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1358
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1358

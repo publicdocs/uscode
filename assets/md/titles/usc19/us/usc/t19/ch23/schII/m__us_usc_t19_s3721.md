@@ -281,11 +281,11 @@
 
         This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2025.
 
-([Pub. L. 106–200, title I, § 112][/us/pl/106/200/s112], May 18, 2000, [114 Stat. 258][/us/stat/114/258]; [Pub. L. 107–210, div. C, title XXXI, § 3108(a)][/us/pl/107/210/s3108/a], Aug. 6, 2002, [116 Stat. 1038][/us/stat/116/1038]; [Pub. L. 108–274, § 7(b)][/us/pl/108/274/s7/b]–(f), July 13, 2004, [118 Stat. 824–826][/us/stat/118/824-826]; [Pub. L. 108–429, title II, § 2004(k)(1)][/us/pl/108/429/s2004/k/1], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595]; [Pub. L. 109–432, div. D, title VI][/us/pl/109/432], §§ 6002–6004, Dec. 20, 2006, [120 Stat. 3190–3194][/us/stat/120/3190-3194]; [Pub. L. 110–436, § 3(a)][/us/pl/110/436/s3/a], (d), Oct. 16, 2008, [122 Stat. 4980][/us/stat/122/4980], 4981; [Pub. L. 112–163, § 1(a)][/us/pl/112/163/s1/a], Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274]; [Pub. L. 114–27, title I, § 103(b)][/us/pl/114/27/s103/b], June 29, 2015, [129 Stat. 364][/us/stat/129/364].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 112, May 18, 2000, [114 Stat. 258][/us/stat/114/258]; [Pub. L. 107–210, div. C, title XXXI][/us/pl/107/210/dC/tXXXI], § 3108(a), Aug. 6, 2002, [116 Stat. 1038][/us/stat/116/1038]; [Pub. L. 108–274][/us/pl/108/274], § 7(b)–(f), July 13, 2004, [118 Stat. 824–826][/us/stat/118/824-826]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(k)(1), Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595]; [Pub. L. 109–432, div. D, title VI][/us/pl/109/432/dD/tVI], §§ 6002–6004, Dec. 20, 2006, [120 Stat. 3190–3194][/us/stat/120/3190-3194]; [Pub. L. 110–436][/us/pl/110/436], § 3(a), (d), Oct. 16, 2008, [122 Stat. 4980][/us/stat/122/4980], 4981; [Pub. L. 112–163][/us/pl/112/163], § 1(a), Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274]; [Pub. L. 114–27, title I][/us/pl/114/27/tI], § 103(b), June 29, 2015, [129 Stat. 364][/us/stat/129/364].)
 
  __References in Text__ 
 
-    [Section 2466a(c) of this title][/us/usc/t19/s2466a/c], referred to in subsec. (a), was redesignated [section 2466a(e) of this title][/us/usc/t19/s2466a/e] by [Pub. L. 114–27, title I, § 105(b)][/us/pl/114/27/s105/b], (c), June 29, 2015, [129 Stat. 366][/us/stat/129/366].
+    [Section 2466a(c) of this title][/us/usc/t19/s2466a/c], referred to in subsec. (a), was redesignated [section 2466a(e) of this title][/us/usc/t19/s2466a/e] by [Pub. L. 114–27, title I][/us/pl/114/27/tI], § 105(b), (c), June 29, 2015, [129 Stat. 366][/us/stat/129/366].
 
     The Harmonized Tariff Schedule of the United States, referred to in subsec. (b), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
@@ -293,105 +293,105 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(3)(A)(i). [Pub. L. 114–27, § 103(b)(2)(A)][/us/pl/114/27/s103/b/2/A], substituted “21 succeeding” for “11 succeeding”.
+    2015—Subsec. (b)(3)(A)(i). [Pub. L. 114–27][/us/pl/114/27], § 103(b)(2)(A), substituted “21 succeeding” for “11 succeeding”.
 
-    Subsec. (b)(3)(A)(ii)(II). [Pub. L. 114–27, § 103(b)(2)(B)][/us/pl/114/27/s103/b/2/B], substituted “September 30, 2025” for “September 30, 2015”.
+    Subsec. (b)(3)(A)(ii)(II). [Pub. L. 114–27][/us/pl/114/27], § 103(b)(2)(B), substituted “September 30, 2025” for “September 30, 2015”.
 
-    Subsec. (c)(1). [Pub. L. 114–27, § 103(b)(3)(A)][/us/pl/114/27/s103/b/3/A], substituted “September 30, 2025” for “September 30, 2015” in heading.
+    Subsec. (c)(1). [Pub. L. 114–27][/us/pl/114/27], § 103(b)(3)(A), substituted “September 30, 2025” for “September 30, 2015” in heading.
 
-    Subsec. (c)(1)(A). [Pub. L. 114–27, § 103(b)(3)(B)][/us/pl/114/27/s103/b/3/B], substituted “September 30, 2025” for “September 30, 2015”.
+    Subsec. (c)(1)(A). [Pub. L. 114–27][/us/pl/114/27], § 103(b)(3)(B), substituted “September 30, 2025” for “September 30, 2015”.
 
-    Subsec. (c)(1)(B)(ii). [Pub. L. 114–27, § 103(b)(3)(C)][/us/pl/114/27/s103/b/3/C], substituted “September 30, 2025” for “September 30, 2015”.
+    Subsec. (c)(1)(B)(ii). [Pub. L. 114–27][/us/pl/114/27], § 103(b)(3)(C), substituted “September 30, 2025” for “September 30, 2015”.
 
-    Subsec. (g). [Pub. L. 114–27, § 103(b)(1)][/us/pl/114/27/s103/b/1], substituted “September 30, 2025” for “September 30, 2015”.
+    Subsec. (g). [Pub. L. 114–27][/us/pl/114/27], § 103(b)(1), substituted “September 30, 2025” for “September 30, 2015”.
 
-    2012—Subsec. (c)(1). [Pub. L. 112–163, § 1(a)(1)][/us/pl/112/163/s1/a/1], substituted “2015” for “2012” in heading.
+    2012—Subsec. (c)(1). [Pub. L. 112–163][/us/pl/112/163], § 1(a)(1), substituted “2015” for “2012” in heading.
 
-    Subsec. (c)(1)(A). [Pub. L. 112–163, § 1(a)(2)][/us/pl/112/163/s1/a/2], substituted “2015” for “2012”.
+    Subsec. (c)(1)(A). [Pub. L. 112–163][/us/pl/112/163], § 1(a)(2), substituted “2015” for “2012”.
 
-    Subsec. (c)(1)(B)(ii). [Pub. L. 112–163, § 1(a)(3)][/us/pl/112/163/s1/a/3], substituted “2015” for “2012”.
+    Subsec. (c)(1)(B)(ii). [Pub. L. 112–163][/us/pl/112/163], § 1(a)(3), substituted “2015” for “2012”.
 
-    2008—Subsec. (b)(3)(B), (C). [Pub. L. 110–436, § 3(d)][/us/pl/110/436/s3/d], made technical correction to directory language of [Pub. L. 109–432, § 6002(a)(2)(B)][/us/pl/109/432/s6002/a/2/B]. See 2006 Amendment note below.
+    2008—Subsec. (b)(3)(B), (C). [Pub. L. 110–436][/us/pl/110/436], § 3(d), made technical correction to directory language of [Pub. L. 109–432][/us/pl/109/432], § 6002(a)(2)(B). See 2006 Amendment note below.
 
-    Subsec. (b)(6)(A). [Pub. L. 110–436, § 3(a)(1)][/us/pl/110/436/s3/a/1], substituted “ethnic” for “ethic” in second sentence.
+    Subsec. (b)(6)(A). [Pub. L. 110–436][/us/pl/110/436], § 3(a)(1), substituted “ethnic” for “ethic” in second sentence.
 
-    Subsec. (c)(1)(A). [Pub. L. 110–436, § 3(a)(2)(A)][/us/pl/110/436/s3/a/2/A], struck out “, and subject to paragraph (2),” after “described in subsection (b)”.
+    Subsec. (c)(1)(A). [Pub. L. 110–436][/us/pl/110/436], § 3(a)(2)(A), struck out “, and subject to paragraph (2),” after “described in subsection (b)”.
 
-    Subsec. (c)(2). [Pub. L. 110–436, § 3(a)(2)(B)][/us/pl/110/436/s3/a/2/B], (C)(ii), redesignated par. (4) as (2) and struck out former par. (2) which provided special rules for products in commercial quantities in Africa.
+    Subsec. (c)(2). [Pub. L. 110–436][/us/pl/110/436], § 3(a)(2)(B), (C)(ii), redesignated par. (4) as (2) and struck out former par. (2) which provided special rules for products in commercial quantities in Africa.
 
-    Subsec. (c)(3). [Pub. L. 110–436, § 3(a)(2)(B)][/us/pl/110/436/s3/a/2/B], (D), added par. (3) and struck out former par. (3) which provided for removal of designation of fabrics or yarns not available in commercial quantities.
+    Subsec. (c)(3). [Pub. L. 110–436][/us/pl/110/436], § 3(a)(2)(B), (D), added par. (3) and struck out former par. (3) which provided for removal of designation of fabrics or yarns not available in commercial quantities.
 
-    Subsec. (c)(4). [Pub. L. 110–436, § 3(a)(2)(C)][/us/pl/110/436/s3/a/2/C], substituted “Subsection (b)(3)(B)” for “Subsection (b)(3)(C)” and redesignated par. (4) as (2).
+    Subsec. (c)(4). [Pub. L. 110–436][/us/pl/110/436], § 3(a)(2)(C), substituted “Subsection (b)(3)(B)” for “Subsection (b)(3)(C)” and redesignated par. (4) as (2).
 
-    Subsec. (c)(5). [Pub. L. 110–436, § 3(a)(2)(D)][/us/pl/110/436/s3/a/2/D], struck out par. (5) which defined “applicable 1-year period”, “Commission”, “enter” and “entry”, and “lesser developed beneficiary sub-Saharan African country”.
+    Subsec. (c)(5). [Pub. L. 110–436][/us/pl/110/436], § 3(a)(2)(D), struck out par. (5) which defined “applicable 1-year period”, “Commission”, “enter” and “entry”, and “lesser developed beneficiary sub-Saharan African country”.
 
-    2006—Subsec. (b). [Pub. L. 109–432, § 6002(a)(2)(A)][/us/pl/109/432/s6002/a/2/A], substituted “Subject to subsection (c), the” for “The” in introductory provisions.
+    2006—Subsec. (b). [Pub. L. 109–432][/us/pl/109/432], § 6002(a)(2)(A), substituted “Subject to subsection (c), the” for “The” in introductory provisions.
 
-    Subsec. (b)(3)(B), (C). [Pub. L. 109–432, § 6002(a)(2)(B)][/us/pl/109/432/s6002/a/2/B], as amended by [Pub. L. 110–436, § 3(d)][/us/pl/110/436/s3/d], redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to extension of preferential treatment though Sept. 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries.
+    Subsec. (b)(3)(B), (C). [Pub. L. 109–432][/us/pl/109/432], § 6002(a)(2)(B), as amended by [Pub. L. 110–436][/us/pl/110/436], § 3(d), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to extension of preferential treatment though Sept. 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries.
 
-    Subsec. (b)(5)(C). [Pub. L. 109–432, § 6003(1)][/us/pl/109/432/s6003/1], added subpar. (C).
+    Subsec. (b)(5)(C). [Pub. L. 109–432][/us/pl/109/432], § 6003(1), added subpar. (C).
 
-    Subsec. (b)(8). [Pub. L. 109–432, § 6002(b)][/us/pl/109/432/s6002/b], added par. (8).
+    Subsec. (b)(8). [Pub. L. 109–432][/us/pl/109/432], § 6002(b), added par. (8).
 
-    Subsecs. (c), (d). [Pub. L. 109–432, § 6002(a)(1)][/us/pl/109/432/s6002/a/1], (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsecs. (c), (d). [Pub. L. 109–432][/us/pl/109/432], § 6002(a)(1), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 109–432, § 6002(a)(1)][/us/pl/109/432/s6002/a/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 109–432][/us/pl/109/432], § 6002(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(3). [Pub. L. 109–432, § 6002(c)][/us/pl/109/432/s6002/c], substituted “subsections (b) and (c)” for “subsection (b)” in concluding provisions.
+    Subsec. (e)(3). [Pub. L. 109–432][/us/pl/109/432], § 6002(c), substituted “subsections (b) and (c)” for “subsection (b)” in concluding provisions.
 
-    Subsec. (f). [Pub. L. 109–432, § 6002(a)(1)][/us/pl/109/432/s6002/a/1], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 109–432][/us/pl/109/432], § 6002(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(5). [Pub. L. 109–432, § 6003(2)][/us/pl/109/432/s6003/2], added par. (5).
+    Subsec. (f)(5). [Pub. L. 109–432][/us/pl/109/432], § 6003(2), added par. (5).
 
-    Subsec. (g). [Pub. L. 109–432, § 6004][/us/pl/109/432/s6004], substituted “2015” for “2008”.
+    Subsec. (g). [Pub. L. 109–432][/us/pl/109/432], § 6004, substituted “2015” for “2008”.
 
-    [Pub. L. 109–432, § 6002(a)(1)][/us/pl/109/432/s6002/a/1], redesignated subsec. (f) as (g).
+    [Pub. L. 109–432][/us/pl/109/432], § 6002(a)(1), redesignated subsec. (f) as (g).
 
-    2004—Subsec. (b)(1). [Pub. L. 108–274, § 7(b)(1)][/us/pl/108/274/s7/b/1], substituted “or both (including” for “(including”.
+    2004—Subsec. (b)(1). [Pub. L. 108–274][/us/pl/108/274], § 7(b)(1), substituted “or both (including” for “(including”.
 
-    Subsec. (b)(3). [Pub. L. 108–274, § 7(b)(2)(A)][/us/pl/108/274/s7/b/2/A], in introductory provisions, substituted “in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both” for “either in the United States or one or more beneficiary sub-Saharan African countries” wherever appearing and “whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:” for “subject to the following:”.
+    Subsec. (b)(3). [Pub. L. 108–274][/us/pl/108/274], § 7(b)(2)(A), in introductory provisions, substituted “in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both” for “either in the United States or one or more beneficiary sub-Saharan African countries” wherever appearing and “whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:” for “subject to the following:”.
 
-    Subsec. (b)(3)(A), (B). [Pub. L. 108–274, § 7(b)(2)(B)][/us/pl/108/274/s7/b/2/B], added subpars. (A) and (B) and struck out headings and text of former subpars. (A) and (B) which set forth differing percentages and time periods applicable to the preferential treatment of imports of apparel articles from beneficiary countries and to special rules for lesser developed countries.
+    Subsec. (b)(3)(A), (B). [Pub. L. 108–274][/us/pl/108/274], § 7(b)(2)(B), added subpars. (A) and (B) and struck out headings and text of former subpars. (A) and (B) which set forth differing percentages and time periods applicable to the preferential treatment of imports of apparel articles from beneficiary countries and to special rules for lesser developed countries.
 
     Subsec. (b)(3)(B)(iv). [Pub. L. 108–429][/us/pl/108/429] added cl. (iv).
 
-    Subsec. (b)(5)(A). [Pub. L. 108–274, § 7(b)(3)][/us/pl/108/274/s7/b/3], amended heading and text generally. Prior to amendment, text read as follows: “Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, from fabric or yarn that is not formed in the United States or a beneficiary sub-Saharan African country, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabric or yarn, under Annex 401 to the NAFTA.”
+    Subsec. (b)(5)(A). [Pub. L. 108–274][/us/pl/108/274], § 7(b)(3), amended heading and text generally. Prior to amendment, text read as follows: “Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, from fabric or yarn that is not formed in the United States or a beneficiary sub-Saharan African country, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabric or yarn, under Annex 401 to the NAFTA.”
 
-    Subsec. (b)(6). [Pub. L. 108–274, § 7(c)][/us/pl/108/274/s7/c], amended heading and text generally. Prior to amendment, text read as follows: “A handloomed, handmade, or folklore article of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this paragraph, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles.”
+    Subsec. (b)(6). [Pub. L. 108–274][/us/pl/108/274], § 7(c), amended heading and text generally. Prior to amendment, text read as follows: “A handloomed, handmade, or folklore article of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this paragraph, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles.”
 
-    Subsec. (b)(7). [Pub. L. 108–274, § 7(d)][/us/pl/108/274/s7/d], inserted “or former beneficiary sub-Saharan African countries” after “and one or more beneficiary sub-Saharan African countries” in two places.
+    Subsec. (b)(7). [Pub. L. 108–274][/us/pl/108/274], § 7(d), inserted “or former beneficiary sub-Saharan African countries” after “and one or more beneficiary sub-Saharan African countries” in two places.
 
-    Subsec. (d)(2). [Pub. L. 108–274, § 7(e)(2)][/us/pl/108/274/s7/e/2], inserted “or former beneficiary sub-Saharan African countries” after “countries” and substituted “10 percent” for “7 percent”.
+    Subsec. (d)(2). [Pub. L. 108–274][/us/pl/108/274], § 7(e)(2), inserted “or former beneficiary sub-Saharan African countries” after “countries” and substituted “10 percent” for “7 percent”.
 
-    Subsec. (d)(3). [Pub. L. 108–274, § 7(e)(1)][/us/pl/108/274/s7/e/1], added par. (3).
+    Subsec. (d)(3). [Pub. L. 108–274][/us/pl/108/274], § 7(e)(1), added par. (3).
 
-    Subsec. (e)(4). [Pub. L. 108–274, § 7(f)][/us/pl/108/274/s7/f], added par. (4).
+    Subsec. (e)(4). [Pub. L. 108–274][/us/pl/108/274], § 7(f), added par. (4).
 
-    2002—Subsec. (b)(1). [Pub. L. 107–210, § 3108(a)(1)][/us/pl/107/210/s3108/a/1], substituted “Apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles assembled in beneficiary sub-Saharan African countries” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—”.
+    2002—Subsec. (b)(1). [Pub. L. 107–210][/us/pl/107/210], § 3108(a)(1), substituted “Apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles assembled in beneficiary sub-Saharan African countries” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—”.
 
-    Subsec. (b)(2). [Pub. L. 107–210, § 3108(a)(2)][/us/pl/107/210/s3108/a/2], substituted “Other apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles cut and assembled in beneficiary sub-Saharan African countries” in heading and amended text generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in the United States) if such articles are assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States.”
+    Subsec. (b)(2). [Pub. L. 107–210][/us/pl/107/210], § 3108(a)(2), substituted “Other apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles cut and assembled in beneficiary sub-Saharan African countries” in heading and amended text generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in the United States) if such articles are assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States.”
 
-    Subsec. (b)(3). [Pub. L. 107–210, § 3108(a)(3)(A)][/us/pl/107/210/s3108/a/3/A], substituted “Apparel articles from regional fabric or yarns” for “Apparel articles assembled from regional and other fabric” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarn originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in one or more beneficiary sub-Saharan African countries), subject to the following:”.
+    Subsec. (b)(3). [Pub. L. 107–210][/us/pl/107/210], § 3108(a)(3)(A), substituted “Apparel articles from regional fabric or yarns” for “Apparel articles assembled from regional and other fabric” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarn originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in one or more beneficiary sub-Saharan African countries), subject to the following:”.
 
-    Subsec. (b)(3)(B). [Pub. L. 107–210, § 3108(a)(3)(B)][/us/pl/107/210/s3108/a/3/B], amended heading and text generally. Prior to amendment, text read as follows:
+    Subsec. (b)(3)(B). [Pub. L. 107–210][/us/pl/107/210], § 3108(a)(3)(B), amended heading and text generally. Prior to amendment, text read as follows:
 
     “(i) In general.—Subject to subparagraph (A), preferential treatment shall be extended through September 30, 2004, for apparel articles wholly assembled in one or more lesser developed beneficiary sub-Saharan African countries regardless of the country of origin of the fabric used to make such articles.
 
     “(ii) Lesser developed beneficiary sub-saharan african country.—For purposes of this subparagraph the term ‘lesser developed beneficiary sub-Saharan African country’ means a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 a year in 1998, as measured by the World Bank.”
 
-    Subsec. (b)(4)(B). [Pub. L. 107–210, § 3108(a)(4)][/us/pl/107/210/s3108/a/4], substituted “21.5 microns” for “18.5 microns”.
+    Subsec. (b)(4)(B). [Pub. L. 107–210][/us/pl/107/210], § 3108(a)(4), substituted “21.5 microns” for “18.5 microns”.
 
-    Subsec. (b)(7). [Pub. L. 107–210, § 3108(a)(5)][/us/pl/107/210/s3108/a/5], added par. (7).
+    Subsec. (b)(7). [Pub. L. 107–210][/us/pl/107/210], § 3108(a)(5), added par. (7).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–436, § 3(b)][/us/pl/110/436/s3/b], Oct. 16, 2008, [122 Stat. 4980][/us/stat/122/4980], provided that: 
+[Pub. L. 110–436][/us/pl/110/436], § 3(b), Oct. 16, 2008, [122 Stat. 4980][/us/stat/122/4980], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Oct. 16, 2008\].”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–429, title II, § 2004(k)(2)][/us/pl/108/429/s2004/k/2], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595], provided that: 
+[Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(k)(2), Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595], provided that: 
 
 > “Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514][/us/usc/t19/s1514]) or any other provision of law, upon proper request filed with the Bureau of Customs and Border Protection before the 90th day after the date of the enactment of this Act \[Dec. 3, 2004\], any entry, or withdrawal from warehouse for consumption, of any good—
 
@@ -411,7 +411,7 @@
 
  __Increase in Limitation on Certain Benefits__ 
 
-[Pub. L. 107–210, div. C, title XXXI, § 3108(b)][/us/pl/107/210/s3108/b], Aug. 6, 2002, [116 Stat. 1039][/us/stat/116/1039], provided that: 
+[Pub. L. 107–210, div. C, title XXXI][/us/pl/107/210/dC/tXXXI], § 3108(b), Aug. 6, 2002, [116 Stat. 1039][/us/stat/116/1039], provided that: 
 
 > “The applicable percentage under clause (ii) of section 112(b)(3)(A) of the African Growth and Opportunity Act ([19 U.S.C. 3721(b)(3)(A)][/us/usc/t19/s3721/b/3/A]) shall be increased—
 
@@ -437,83 +437,83 @@
 [/us/usc/t19/s3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3722
 [/us/usc/t19/s3511/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F4
 [/us/usc/t19/s2466a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2466a%2Fc
-[/us/pl/106/200/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs112
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F258
-[/us/pl/107/210/s3108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3108%2Fa
+[/us/pl/107/210/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdC%2FtXXXI
 [/us/stat/116/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1038
-[/us/pl/108/274/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fb
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
 [/us/stat/118/824-826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F824-826
-[/us/pl/108/429/s2004/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fk%2F1
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2595
-[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtVI
 [/us/stat/120/3190-3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3190-3194
-[/us/pl/110/436/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fa
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
 [/us/stat/122/4980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4980
-[/us/pl/112/163/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fa
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
 [/us/stat/126/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1274
-[/us/pl/114/27/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F364
 [/us/usc/t19/s2466a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2466a%2Fc
 [/us/usc/t19/s2466a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2466a%2Fe
-[/us/pl/114/27/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs105%2Fb
+[/us/pl/114/27/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtI
 [/us/stat/129/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F366
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/stat/114/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F252
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
-[/us/pl/114/27/s103/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F2%2FA
-[/us/pl/114/27/s103/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F2%2FB
-[/us/pl/114/27/s103/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F3%2FA
-[/us/pl/114/27/s103/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F3%2FB
-[/us/pl/114/27/s103/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F3%2FC
-[/us/pl/114/27/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs103%2Fb%2F1
-[/us/pl/112/163/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fa%2F1
-[/us/pl/112/163/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fa%2F2
-[/us/pl/112/163/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fa%2F3
-[/us/pl/110/436/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fd
-[/us/pl/109/432/s6002/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fa%2F2%2FB
-[/us/pl/110/436/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fa%2F1
-[/us/pl/110/436/s3/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fa%2F2%2FA
-[/us/pl/110/436/s3/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fa%2F2%2FB
-[/us/pl/110/436/s3/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fa%2F2%2FB
-[/us/pl/110/436/s3/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fa%2F2%2FC
-[/us/pl/110/436/s3/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fa%2F2%2FD
-[/us/pl/109/432/s6002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fa%2F2%2FA
-[/us/pl/109/432/s6002/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fa%2F2%2FB
-[/us/pl/110/436/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fd
-[/us/pl/109/432/s6003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6003%2F1
-[/us/pl/109/432/s6002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fb
-[/us/pl/109/432/s6002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fa%2F1
-[/us/pl/109/432/s6002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fa%2F1
-[/us/pl/109/432/s6002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fc
-[/us/pl/109/432/s6002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fa%2F1
-[/us/pl/109/432/s6003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6003%2F2
-[/us/pl/109/432/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6004
-[/us/pl/109/432/s6002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs6002%2Fa%2F1
-[/us/pl/108/274/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fb%2F1
-[/us/pl/108/274/s7/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fb%2F2%2FA
-[/us/pl/108/274/s7/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fb%2F2%2FB
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
-[/us/pl/108/274/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fb%2F3
-[/us/pl/108/274/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fc
-[/us/pl/108/274/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fd
-[/us/pl/108/274/s7/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fe%2F2
-[/us/pl/108/274/s7/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Fe%2F1
-[/us/pl/108/274/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274%2Fs7%2Ff
-[/us/pl/107/210/s3108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3108%2Fa%2F1
-[/us/pl/107/210/s3108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3108%2Fa%2F2
-[/us/pl/107/210/s3108/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3108%2Fa%2F3%2FA
-[/us/pl/107/210/s3108/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3108%2Fa%2F3%2FB
-[/us/pl/107/210/s3108/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3108%2Fa%2F4
-[/us/pl/107/210/s3108/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3108%2Fa%2F5
-[/us/pl/110/436/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436%2Fs3%2Fb
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/110/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F436
 [/us/stat/122/4980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4980
-[/us/pl/108/429/s2004/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fk%2F2
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2595
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t19/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703
-[/us/pl/107/210/s3108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3108%2Fb
+[/us/pl/107/210/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdC%2FtXXXI
 [/us/stat/116/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1039
 [/us/usc/t19/s3721/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721%2Fb%2F3%2FA
 [/us/usc/t19/s2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2483

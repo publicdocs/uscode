@@ -83,7 +83,7 @@
 
         The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) or of the modification or termination of any such action under subsection (d).
 
-([Pub. L. 100–418, title I, § 1376][/us/pl/100/418/s1376], Aug. 23, 1988, [102 Stat. 1220][/us/stat/102/1220].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1376, Aug. 23, 1988, [102 Stat. 1220][/us/stat/102/1220].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(1)(D), (E), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a][/us/usc/t41/s10a], et seq.)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1)(D), (E), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a][/us/usc/t41/s10a], et seq.)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Delegation of Functions__ 
 
@@ -118,7 +118,7 @@
 [/us/usc/t19/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2135
 [/us/usc/t19/s3103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3103%2Fa
 [/us/usc/t19/s3103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3103%2Fb
-[/us/pl/100/418/s1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1376
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1220
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1121
@@ -129,7 +129,7 @@
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t19/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2901
 

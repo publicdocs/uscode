@@ -47,7 +47,7 @@
 
             (B) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force.
 
-([Pub. L. 109–53, title III, § 322][/us/pl/109/53/s322], Aug. 2, 2005, [119 Stat. 493][/us/stat/119/493].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 322, Aug. 2, 2005, [119 Stat. 493][/us/stat/119/493].)
 
  __Termination of Section__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t19/s4081/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4081%2Fb
-[/us/pl/109/53/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs322
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F493
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

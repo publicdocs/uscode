@@ -67,7 +67,7 @@
 
         Promptly after the submission of a report under subsection (c), the Trade Representative shall consult with the appropriate congressional committees with respect to the report.
 
-([Pub. L. 103–465, title I, § 122][/us/pl/103/465/s122], Dec. 8, 1994, [108 Stat. 4829][/us/stat/108/4829].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 122, Dec. 8, 1994, [108 Stat. 4829][/us/stat/108/4829].)
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/103/465/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs122
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4829
 
 

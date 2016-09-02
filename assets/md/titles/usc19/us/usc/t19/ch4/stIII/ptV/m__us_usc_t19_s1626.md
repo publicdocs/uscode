@@ -23,7 +23,7 @@
 
         This section applies only to requests received by the Secretary of the Treasury prior to January 1, 1983, and for the duration of the arrangements.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 626, as added [Pub. L. 96–276, § 153][/us/pl/96/276/s153], Oct. 2, 1982, [96 Stat. 1202][/us/stat/96/1202].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 626, as added [Pub. L. 96–276][/us/pl/96/276], § 153, Oct. 2, 1982, [96 Stat. 1202][/us/stat/96/1202].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/276/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276%2Fs153
+[/us/pl/96/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F276
 [/us/stat/96/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1202
 
 

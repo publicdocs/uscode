@@ -85,7 +85,7 @@
 
         during the period between August 23, 1988, and January 1, 1989, shall, if the proclamation, notice, or decision contains a reference to the tariff classification of any article, include, for informational purposes, a reference to the classification of that article under the Harmonized Tariff Schedule.
 
-([Pub. L. 100–418, title I, § 1204][/us/pl/100/418/s1204], Aug. 23, 1988, [102 Stat. 1148][/us/stat/102/1148].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1204, Aug. 23, 1988, [102 Stat. 1148][/us/stat/102/1148].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 1204 of Pub. L. 100–418][/us/pl/100/418/s1204]. Subsec. (a) of [section 1204 of Pub. L. 100–418][/us/pl/100/418/s1204] amended title I of the Tariff Act of 1930, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title I, [46 Stat. 590][/us/stat/46/590]. See note set out preceding [section 1202 of this title][/us/usc/t19/s1202].
+    Section is comprised of [section 1204 of Pub. L. 100–418][/us/pl/100/418/s1204]. Subsec. (a) of [section 1204 of Pub. L. 100–418][/us/pl/100/418/s1204] amended title I of the Tariff Act of 1930, [act June 17, 1930, ch. 497, title I][/us/act/1930-06-17/ch497/tI], [46 Stat. 590][/us/stat/46/590]. See note set out preceding [section 1202 of this title][/us/usc/t19/s1202].
 
  __Effective Date__ 
 
@@ -118,7 +118,7 @@
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2483
-[/us/pl/100/418/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1204
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1148
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
@@ -135,7 +135,7 @@
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
 [/us/pl/100/418/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1204
 [/us/pl/100/418/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1204
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtI
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

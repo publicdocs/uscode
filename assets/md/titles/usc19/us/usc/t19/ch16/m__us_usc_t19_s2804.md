@@ -53,7 +53,7 @@
 
         the President, shall take all appropriate and feasible action under the Trade Act of 1974 \[[19 U.S.C. 2101][/us/usc/t19/s2101] et seq.\] to enforce the rights of the United States under any such trade agreement or to obtain the elimination of such act, policy, or practice.
 
-([Pub. L. 98–573, title IX, § 905][/us/pl/98/573/s905], Oct. 30, 1984, [98 Stat. 3049][/us/stat/98/3049].)
+([Pub. L. 98–573, title IX][/us/pl/98/573/tIX], § 905, Oct. 30, 1984, [98 Stat. 3049][/us/stat/98/3049].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Reports on Negotiations To Eliminate Wine Trade Barriers__ 
 
-[Pub. L. 100–418, title I, § 1125][/us/pl/100/418/s1125], Aug. 23, 1988, [102 Stat. 1147][/us/stat/102/1147], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1125, Aug. 23, 1988, [102 Stat. 1147][/us/stat/102/1147], provided that: 
 
 > “Before the close of the 13-month period beginning on the date of the enactment of this Act \[Aug. 23, 1988\], the President shall update each report that the President submitted to the Committee on Ways and Means and the Committee on Finance under section 905(b) of the Wine Equity and Export Expansion Act of 1984 ([19 U.S.C. 2804][/us/usc/t19/s2804] \[(b)\]) and submit the updated report to both of such committees. Each updated report shall contain, with respect to the major wine trading country concerned—
 
@@ -87,7 +87,7 @@
 [/us/usc/t19/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1872%2Fa
 [/us/usc/t19/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2805
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
-[/us/pl/98/573/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs905
+[/us/pl/98/573/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIX
 [/us/stat/98/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3049
 [/us/pl/96/39/s854/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs854%2Fa
 [/us/stat/93/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F294
@@ -95,7 +95,7 @@
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
-[/us/pl/100/418/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1125
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1147
 [/us/usc/t19/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2804
 [/us/pl/100/418/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1125

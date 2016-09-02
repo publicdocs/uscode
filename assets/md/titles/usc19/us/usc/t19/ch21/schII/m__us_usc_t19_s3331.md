@@ -57,7 +57,7 @@
 
         For purposes of subsections (a) and (b), with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
 
-([Pub. L. 103–182, title II, § 201][/us/pl/103/182/s201], Dec. 8, 1993, [107 Stat. 2068][/us/stat/107/2068]; [Pub. L. 104–188, title I, § 1954(a)(5)][/us/pl/104/188/s1954/a/5], Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927].)
+([Pub. L. 103–182, title II][/us/pl/103/182/tII], § 201, Dec. 8, 1993, [107 Stat. 2068][/us/stat/107/2068]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1954(a)(5), Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–182, title II, § 213][/us/pl/103/182/s213], Dec. 8, 1993, [107 Stat. 2099][/us/stat/107/2099], provided that:
+[Pub. L. 103–182, title II][/us/pl/103/182/tII], § 213, Dec. 8, 1993, [107 Stat. 2099][/us/stat/107/2099], provided that:
 
 >     “(a)  __Provisions Effective on Date of Enactment__  __.—__ 
 
@@ -121,9 +121,9 @@
 [/us/usc/t19/s2462/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2462%2Ff%2F2
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
 [/us/usc/t19/s3313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3313%2Fa
-[/us/pl/103/182/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs201
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2068
-[/us/pl/104/188/s1954/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fa%2F5
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1927
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
@@ -133,7 +133,7 @@
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1953
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/103/182/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs213
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2099
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
 [/us/usc/t19/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311

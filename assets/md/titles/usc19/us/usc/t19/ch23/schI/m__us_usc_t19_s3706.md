@@ -115,7 +115,7 @@
 
     Republic of Zimbabwe (Zimbabwe).
 
-([Pub. L. 106–200, title I, § 107][/us/pl/106/200/s107], May 18, 2000, [114 Stat. 256][/us/stat/114/256]; [Pub. L. 112–163, § 1(b)][/us/pl/112/163/s1/b], Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 107, May 18, 2000, [114 Stat. 256][/us/stat/114/256]; [Pub. L. 112–163][/us/pl/112/163], § 1(b), Aug. 10, 2012, [126 Stat. 1274][/us/stat/126/1274].)
 
  __Amendments__ 
 
@@ -128,9 +128,9 @@
 ----------
 ----------
 
-[/us/pl/106/200/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs107
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F256
-[/us/pl/112/163/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs1%2Fb
+[/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
 [/us/stat/126/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1274
 [/us/pl/112/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163
 

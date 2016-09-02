@@ -23,7 +23,7 @@
 
         In an investigation under part II of this subtitle, if there is a sustained movement in the value of the foreign currency relative to the United States dollar, the administering authority shall allow exporters at least 60 days to adjust their export prices to reflect such sustained movement.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 773A, as added [Pub. L. 103–465, title II, § 225(a)][/us/pl/103/465/s225/a], Dec. 8, 1994, [108 Stat. 4886][/us/stat/108/4886].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 773A, as added [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 225(a), Dec. 8, 1994, [108 Stat. 4886][/us/stat/108/4886].)
 
  __Effective Date__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/465/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs225%2Fa
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4886
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

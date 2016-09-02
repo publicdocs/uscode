@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in R.S. § 3100, as amended by [act Feb. 18, 1875, ch. 80, § 1][/us/act/1875-02-18/ch80/s1], [18 Stat. 319][/us/stat/18/319], and [act Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 248][/us/stat/19/248], which was superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 461, [42 Stat. 956][/us/stat/42/956], and was repealed by section 642 thereof. Section 461 of the 1922 act was superseded by section 461 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in R.S. § 3100, as amended by [act Feb. 18, 1875, ch. 80][/us/act/1875-02-18/ch80], § 1, [18 Stat. 319][/us/stat/18/319], and [act Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 248][/us/stat/19/248], which was superseded by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 461, [42 Stat. 956][/us/stat/42/956], and was repealed by section 642 thereof. Section 461 of the 1922 act was superseded by section 461 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 ----------
 
@@ -32,11 +32,11 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F717
-[/us/act/1875-02-18/ch80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80%2Fs1
+[/us/act/1875-02-18/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80
 [/us/stat/18/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F319
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F248
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F956
 
 

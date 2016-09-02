@@ -25,7 +25,7 @@
 
     countervailing duties shall be assessed at rates equal to the amount of the cash deposit of the estimated countervailing duties required on such footwear at the time of entry or withdrawal from warehouse for consumption. Interest on underpayments of amounts required to be deposited as countervailing duties shall be paid in accordance with [section 1677g of this title][/us/usc/t19/s1677g].
 
-([Pub. L. 103–465, title I, § 137][/us/pl/103/465/s137], Dec. 8, 1994, [108 Stat. 4842][/us/stat/108/4842].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 137, Dec. 8, 1994, [108 Stat. 4842][/us/stat/108/4842].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t19/s1677g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677g
-[/us/pl/103/465/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs137
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4842
 
 

@@ -17,7 +17,7 @@
 
     The United States Trade Representative is responsible for coordination of United States trade policy in relation to the Convention. Before formulating any United States position with respect to the Convention, including any proposed amendments thereto, the United States Trade Representative shall seek, and consider, information and advice from interested parties in the private sector (including a functional advisory committee) and from interested Federal agencies.
 
-([Pub. L. 100–418, title I, § 1209][/us/pl/100/418/s1209], Aug. 23, 1988, [102 Stat. 1152][/us/stat/102/1152].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1209, Aug. 23, 1988, [102 Stat. 1152][/us/stat/102/1152].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1209
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1152
 
 

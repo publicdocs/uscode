@@ -27,7 +27,7 @@
 
         Reports, including findings and recommendations, issued by dispute settlement panels convened pursuant to any trade agreement entered into under [section 4202(b) of this title][/us/usc/t19/s4202/b] shall have no binding effect on the law of the United States, the Government of the United States, or the law or government of any State or locality of the United States.
 
-([Pub. L. 114–26, title I, § 108][/us/pl/114/26/s108], June 29, 2015, [129 Stat. 356][/us/stat/129/356].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 108, June 29, 2015, [129 Stat. 356][/us/stat/129/356].)
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
-[/us/pl/114/26/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs108
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F356
 
 

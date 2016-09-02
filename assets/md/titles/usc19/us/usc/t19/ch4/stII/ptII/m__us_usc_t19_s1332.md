@@ -57,7 +57,7 @@
 
         The commission shall put at the disposal of the President of the United States, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, whenever requested, all information at its command, and shall make such investigations and reports as may be requested by the President or by either of said committees or by either branch of the Congress. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress on the first Monday of December of each year after June 17, 1930, a statement of the methods adopted and all expenses incurred, a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting. Each such annual report shall include a list of all complaints filed under [section 1337 of this title][/us/usc/t19/s1337] during the year for which such report is being made, the date on which each such complaint was filed, and the action taken thereon, and the status of all investigations conducted by the commission under such section during such year and the date on which each such investigation was commenced.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 332, [46 Stat. 698][/us/stat/46/698]; [Pub. L. 93–618, title I, § 173][/us/pl/93/618/s173], title III, § 341(b), Jan. 3, 1975, [88 Stat. 2010][/us/stat/88/2010], 2056; [Pub. L. 96–39, title II, § 202(a)(1)][/us/pl/96/39/s202/a/1], July 26, 1979, [93 Stat. 201][/us/stat/93/201]; [Pub. L. 100–418, title I, § 1613][/us/pl/100/418/s1613], Aug. 23, 1988, [102 Stat. 1262][/us/stat/102/1262]; [Pub. L. 100–647, title IX, § 9001(a)(16)][/us/pl/100/647/s9001/a/16], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 332, [46 Stat. 698][/us/stat/46/698]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 173, title III, § 341(b), Jan. 3, 1975, [88 Stat. 2010][/us/stat/88/2010], 2056; [Pub. L. 96–39, title II][/us/pl/96/39/tII], § 202(a)(1), July 26, 1979, [93 Stat. 201][/us/stat/93/201]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1613, Aug. 23, 1988, [102 Stat. 1262][/us/stat/102/1262]; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(16), Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808].)
 
  __Codification__ 
 
@@ -67,11 +67,11 @@
 
     Provisions similar to subsecs. (a), (b), and (g) were contained in [act Sept. 8, 1916, ch. 463][/us/act/1916-09-08/ch463], §§ 702 to 704, [39 Stat. 796][/us/stat/39/796]. Those sections were superseded by section 332 of act June 17, 1930, comprising this section.
 
-    Provisions similar to those in subdiv. (c) were contained in [act Sept. 8, 1916, ch. 463, § 708][/us/act/1916-09-08/ch463/s708], [39 Stat. 798][/us/stat/39/798]. That section was superseded by section 332 of act June 17, 1930, comprising this section.
+    Provisions similar to those in subdiv. (c) were contained in [act Sept. 8, 1916, ch. 463][/us/act/1916-09-08/ch463], § 708, [39 Stat. 798][/us/stat/39/798]. That section was superseded by section 332 of act June 17, 1930, comprising this section.
 
-    Provisions similar to subdivs. (d) and (e) were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 318, [42 Stat. 947][/us/stat/42/947]. Section 318 of act 1922 was superseded by section 332 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 act.
+    Provisions similar to subdivs. (d) and (e) were contained in [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 318, [42 Stat. 947][/us/stat/42/947]. Section 318 of act 1922 was superseded by section 332 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 act.
 
-    [Act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, R, [38 Stat. 201][/us/stat/38/201], directed President to ascertain certain facts and report to Congress when imports amounted to less than 5 per centum of domestic consumption, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 321, [42 Stat. 947][/us/stat/42/947].
+    [Act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, R, [38 Stat. 201][/us/stat/38/201], directed President to ascertain certain facts and report to Congress when imports amounted to less than 5 per centum of domestic consumption, prior to repeal by [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 321, [42 Stat. 947][/us/stat/42/947].
 
  __Amendments__ 
 
@@ -105,11 +105,11 @@
 
  __Continuation of Reports With Respect to Synthetic Organic Chemicals__ 
 
-    [Pub. L. 95–106, § 5][/us/pl/95/106/s5], Aug. 17, 1977, [91 Stat. 869][/us/stat/91/869], directed International Trade Commission to make, for each calendar year ending before Jan. 1, 1981, reports with respect to synthetic organic chemicals similar in scope to reports made with respect to such chemicals for calendar year 1976.
+    [Pub. L. 95–106][/us/pl/95/106], § 5, Aug. 17, 1977, [91 Stat. 869][/us/stat/91/869], directed International Trade Commission to make, for each calendar year ending before Jan. 1, 1981, reports with respect to synthetic organic chemicals similar in scope to reports made with respect to such chemicals for calendar year 1976.
 
  __Review of Customs Tariff Schedules__ 
 
-    [Act Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title I, § 101, [68 Stat. 1136][/us/stat/68/1136], as amended [Aug. 2, 1956, ch. 894][/us/act/1956-08-02/ch894], [70 Stat. 955][/us/stat/70/955]; May 19, 1958, [Pub. L. 85–418, § 3][/us/pl/85/418/s3], [72 Stat. 120][/us/stat/72/120], provided for a complete study by the Tariff Commission for the purpose of clarifying and simplifying the tariff classification, with a report to go to the President and to the chairmen of the appropriate committees of Congress no later than Jan. 1, 1959. See [section 1332 of this title][/us/usc/t19/s1332].
+    [Act Sept. 1, 1954, ch. 1213, title I][/us/act/1954-09-01/ch1213/tI], § 101, [68 Stat. 1136][/us/stat/68/1136], as amended [Aug. 2, 1956, ch. 894][/us/act/1956-08-02/ch894], [70 Stat. 955][/us/stat/70/955]; May 19, 1958, [Pub. L. 85–418][/us/pl/85/418], § 3, [72 Stat. 120][/us/stat/72/120], provided for a complete study by the Tariff Commission for the purpose of clarifying and simplifying the tariff classification, with a report to go to the President and to the chairmen of the appropriate committees of Congress no later than Jan. 1, 1959. See [section 1332 of this title][/us/usc/t19/s1332].
 
 ----------
 
@@ -122,23 +122,23 @@
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F698
-[/us/pl/93/618/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs173
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2010
-[/us/pl/96/39/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F1
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F201
-[/us/pl/100/418/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1613
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1262
-[/us/pl/100/647/s9001/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F16
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3808
 [/us/act/1916-09-08/ch463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463
 [/us/stat/39/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F796
-[/us/act/1916-09-08/ch463/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463%2Fs708
+[/us/act/1916-09-08/ch463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463
 [/us/stat/39/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F798
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F947
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F201
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F947
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
@@ -157,13 +157,13 @@
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t19/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2901
-[/us/pl/95/106/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F106%2Fs5
+[/us/pl/95/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F106
 [/us/stat/91/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F869
-[/us/act/1954-09-01/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213
+[/us/act/1954-09-01/ch1213/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213%2FtI
 [/us/stat/68/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1136
 [/us/act/1956-08-02/ch894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch894
 [/us/stat/70/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F955
-[/us/pl/85/418/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F418%2Fs3
+[/us/pl/85/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F418
 [/us/stat/72/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F120
 [/us/usc/t19/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1332
 

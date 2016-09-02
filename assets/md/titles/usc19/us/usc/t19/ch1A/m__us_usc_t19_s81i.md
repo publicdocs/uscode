@@ -17,7 +17,7 @@
 
     The Board shall cooperate with the State, subdivision, and municipality in which the zone is located in the exercise of their police, sanitary, and other powers in and in connection with the free zone. It shall also cooperate with the United States Customs Service, the United States Postal Service, the Public Health Service, the Immigration and Naturalization Service, and such other Federal agencies as have jurisdiction in ports of entry described in [section 81b of this title][/us/usc/t19/s81b].
 
-([June 18, 1934, ch. 590, § 9][/us/act/1934-06-18/ch590/s9], [48 Stat. 1000][/us/stat/48/1000]; [Pub. L. 106–36, title I, § 1001(b)(3)][/us/pl/106/36/s1001/b/3], June 25, 1999, [113 Stat. 131][/us/stat/113/131].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 9, [48 Stat. 1000][/us/stat/48/1000]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(b)(3), June 25, 1999, [113 Stat. 131][/us/stat/113/131].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t19/s81b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs81b
-[/us/act/1934-06-18/ch590/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs9
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1000
-[/us/pl/106/36/s1001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fb%2F3
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F131
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

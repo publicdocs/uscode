@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s134.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s144a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs144)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s135...143.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s144a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs144)
 
 ## § 144. Repealed. [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 651(a)(1), [46 Stat. 762][/us/stat/46/762], eff. June 18, 1930
 
-    Section, [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 308, [42 Stat. 938][/us/stat/42/938], related to admission without payment of duty under bond for exportation.
+    Section, [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 308, [42 Stat. 938][/us/stat/42/938], related to admission without payment of duty under bond for exportation.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s134.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s144a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs144)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s135...143.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s144a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs144)
 
 ----------
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F938
 
 

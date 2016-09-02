@@ -125,7 +125,7 @@
 
             The Secretary shall prepare and submit the report required under this subsection to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-([Pub. L. 103–182, title III, § 361][/us/pl/103/182/s361], Dec. 8, 1993, [107 Stat. 2122][/us/stat/107/2122].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 361, Dec. 8, 1993, [107 Stat. 2122][/us/stat/107/2122].)
 
  __Codification__ 
 
@@ -146,7 +146,7 @@ Section is comprised of [section 361 of Pub. L. 103–182][/us/pl/103/182/s361].
 ----------
 ----------
 
-[/us/pl/103/182/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2122
 [/us/pl/103/182/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361
 [/us/pl/103/182/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs361

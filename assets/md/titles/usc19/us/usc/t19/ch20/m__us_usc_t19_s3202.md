@@ -175,13 +175,13 @@
 
             Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in [section 3203(b)(6)(B) of this title][/us/usc/t19/s3203/b/6/B].
 
-([Pub. L. 102–182, title II, § 203][/us/pl/102/182/s203], Dec. 4, 1991, [105 Stat. 1236][/us/stat/105/1236]; [Pub. L. 103–465, title VI, § 621(a)(3)][/us/pl/103/465/s621/a/3], Dec. 8, 1994, [108 Stat. 4992][/us/stat/108/4992]; [Pub. L. 104–188, title I, § 1954(a)(2)][/us/pl/104/188/s1954/a/2], Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927]; [Pub. L. 106–200, title II, § 211(c)(2)][/us/pl/106/200/s211/c/2], May 18, 2000, [114 Stat. 287][/us/stat/114/287]; [Pub. L. 107–210, div. C, title XXXI, § 3103(b)][/us/pl/107/210/s3103/b], (e), Aug. 6, 2002, [116 Stat. 1033][/us/stat/116/1033]; [Pub. L. 111–124, § 2(c)][/us/pl/111/124/s2/c], Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 111–344, title II, § 201(d)][/us/pl/111/344/s201/d], Dec. 29, 2010, [124 Stat. 3616][/us/stat/124/3616].)
+([Pub. L. 102–182, title II][/us/pl/102/182/tII], § 203, Dec. 4, 1991, [105 Stat. 1236][/us/stat/105/1236]; [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 621(a)(3), Dec. 8, 1994, [108 Stat. 4992][/us/stat/108/4992]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1954(a)(2), Aug. 20, 1996, [110 Stat. 1927][/us/stat/110/1927]; [Pub. L. 106–200, title II][/us/pl/106/200/tII], § 211(c)(2), May 18, 2000, [114 Stat. 287][/us/stat/114/287]; [Pub. L. 107–210, div. C, title XXXI][/us/pl/107/210/dC/tXXXI], § 3103(b), (e), Aug. 6, 2002, [116 Stat. 1033][/us/stat/116/1033]; [Pub. L. 111–124][/us/pl/111/124], § 2(c), Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 111–344, title II][/us/pl/111/344/tII], § 201(d), Dec. 29, 2010, [124 Stat. 3616][/us/stat/124/3616].)
 
  __References in Text__ 
 
     The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
-    Subsec. (h) of [section 2291 of title 22][/us/usc/t22/s2291], referred to in subsec. (d)(11), was repealed by [Pub. L. 102–583, § 6(b)(2)][/us/pl/102/583/s6/b/2], Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. For successor provisions to former subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
+    Subsec. (h) of [section 2291 of title 22][/us/usc/t22/s2291], referred to in subsec. (d)(11), was repealed by [Pub. L. 102–583][/us/pl/102/583], § 6(b)(2), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. For successor provisions to former subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
 
     This chapter, referred to in subsec. (d)(12), was in the original “this Act” and was translated as reading “this title”, meaning title II of [Pub. L. 102–182][/us/pl/102/182] which enacted this chapter, to reflect the probable intent of Congress.
 
@@ -191,9 +191,9 @@
 
     2009—Subsec. (f)(1). [Pub. L. 111–124][/us/pl/111/124] substituted “June 30, 2010” for “April 30, 2003”.
 
-    2002—Subsec. (e)(1). [Pub. L. 107–210, § 3103(b)][/us/pl/107/210/s3103/b], designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+    2002—Subsec. (e)(1). [Pub. L. 107–210][/us/pl/107/210], § 3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-    Subsec. (f). [Pub. L. 107–210, § 3103(e)][/us/pl/107/210/s3103/e], substituted “Reporting requirements” for “Report” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.”
+    Subsec. (f). [Pub. L. 107–210][/us/pl/107/210], § 3103(e), substituted “Reporting requirements” for “Report” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.”
 
     2000—Subsec. (f). [Pub. L. 106–200][/us/pl/106/200] substituted “Report” for “Triennial report” in heading and “Not later than January 31, 2001” for “On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991” in text.
 
@@ -219,7 +219,7 @@
 
  __Petitions for Review__ 
 
-[Pub. L. 107–210, div. C, title XXXI, § 3103(d)][/us/pl/107/210/s3103/d], Aug. 6, 2002, [116 Stat. 1033][/us/stat/116/1033], provided that:
+[Pub. L. 107–210, div. C, title XXXI][/us/pl/107/210/dC/tXXXI], § 3103(d), Aug. 6, 2002, [116 Stat. 1033][/us/stat/116/1033], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -253,29 +253,29 @@
 [/us/usc/t19/s3203/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203%2Fb%2F6%2FB
 [/us/usc/t19/s3203/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203%2Fb%2F6%2FB
 [/us/usc/t19/s3203/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203%2Fb%2F6%2FB
-[/us/pl/102/182/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs203
+[/us/pl/102/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtII
 [/us/stat/105/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1236
-[/us/pl/103/465/s621/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F3
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4992
-[/us/pl/104/188/s1954/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fa%2F2
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1927
-[/us/pl/106/200/s211/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs211%2Fc%2F2
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
 [/us/stat/114/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F287
-[/us/pl/107/210/s3103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3103%2Fb
+[/us/pl/107/210/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdC%2FtXXXI
 [/us/stat/116/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1033
-[/us/pl/111/124/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F124%2Fs2%2Fc
+[/us/pl/111/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F124
 [/us/stat/123/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3484
-[/us/pl/111/344/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs201%2Fd
+[/us/pl/111/344/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2FtII
 [/us/stat/124/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3616
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
-[/us/pl/102/583/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F2
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4932
 [/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
 [/us/pl/111/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344
 [/us/pl/111/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F124
-[/us/pl/107/210/s3103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3103%2Fb
-[/us/pl/107/210/s3103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3103%2Fe
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
@@ -290,7 +290,7 @@
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/usc/t19/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801
 [/us/usc/t19/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3203
-[/us/pl/107/210/s3103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3103%2Fd
+[/us/pl/107/210/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdC%2FtXXXI
 [/us/stat/116/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1033
 [/us/usc/t19/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3201
 [/us/usc/t19/s3202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3202%2Fe

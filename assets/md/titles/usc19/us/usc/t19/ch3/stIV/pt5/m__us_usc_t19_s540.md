@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s537.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt6/m__us_usc_t19_ch3_stIV_pt6.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs540)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s538 _us_usc_t19_s539.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s541 _us_usc_t19_s542.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs540)
 
 ## § 540. President may use suitable vessels for enforcing customs laws
 
     In the execution of laws providing for the collection of duties on imports and tonnage, the President, in addition to the Coast Guard vessels in service, may employ in aid thereof such other suitable vessels as may, in his judgment, be required.
 
-(R.S. § 5318; [Jan. 28, 1915, ch. 20, § 1][/us/act/1915-01-28/ch20/s1], [38 Stat. 800][/us/stat/38/800]; [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], §§ 1, 20, [63 Stat. 496][/us/stat/63/496], 561.)
+(R.S. § 5318; [Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 1, [38 Stat. 800][/us/stat/38/800]; [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], §§ 1, 20, [63 Stat. 496][/us/stat/63/496], 561.)
 
  __Codification__ 
 
-    R.S. § 5318 derived from [act July 13, 1861, ch. 3, § 7][/us/act/1861-07-13/ch3/s7], [12 Stat. 257][/us/stat/12/257].
+    R.S. § 5318 derived from [act July 13, 1861, ch. 3][/us/act/1861-07-13/ch3], § 7, [12 Stat. 257][/us/stat/12/257].
 
  __Transfer of Functions__ 
 
@@ -33,30 +33,20 @@
 
     For delegation to Secretary of the Treasury of authority vested in President by this section, see section 1(i) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President.
 
-§§ 541, 542. __Repealed.__  __[__  __Aug. 2, 1956, ch. 887, § 4(a)(29)__  __][/us/act/1956-08-02/ch887/s4/a/29]__  __, (30),__  __[__  __70 Stat. 948__  __][/us/stat/70/948]__ 
-
-    Section 541, R.S. § 2763, authorized use of small boats for use of customs officials.
-
-    Section 542, [act Feb. 10, 1913, ch. 35][/us/act/1913-02-10/ch35], [37 Stat. 665][/us/stat/37/665], authorized Secretary of the Treasury to use the motorboat provided for Corpus Christi, Texas.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s537.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt6/m__us_usc_t19_ch3_stIV_pt6.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs540)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s538 _us_usc_t19_s539.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s541 _us_usc_t19_s542.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs540)
 
 ----------
 ----------
 
-[/us/act/1915-01-28/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs1
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F496
-[/us/act/1861-07-13/ch3/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-13%2Fch3%2Fs7
+[/us/act/1861-07-13/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-13%2Fch3
 [/us/stat/12/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F257
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/act/1956-08-02/ch887/s4/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs4%2Fa%2F29
-[/us/stat/70/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F948
-[/us/act/1913-02-10/ch35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-10%2Fch35
-[/us/stat/37/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F665
 
 

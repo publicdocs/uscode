@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    The Commissioner of Customs shall—
+    The Commissioner of U.S. Customs and Border Protection shall—
 
         (1) develop and implement accounting systems that accurately determine and report the allocations made of Customs Service personnel and other resources among the various operational functions of the Service, such as passenger processing, merchandise processing and drug enforcement; and
 
@@ -25,13 +25,13 @@
 
     (b) __Survey reports__ 
 
-        The Commissioner of Customs shall no later than January 31, 1991, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2).
+        The Commissioner of U.S. Customs and Border Protection shall no later than January 31, 1991, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of the first survey implemented under subsection (a)(2).
 
-([Pub. L. 101–382, title I, § 113][/us/pl/101/382/s113], Aug. 20, 1990, [104 Stat. 639][/us/stat/104/639]; [Pub. L. 101–508, title X, § 10001(d)][/us/pl/101/508/s10001/d], Nov. 5, 1990, [104 Stat. 1388–386][/us/stat/104/1388-386].)
+([Pub. L. 101–382, title I][/us/pl/101/382/tI], § 113, Aug. 20, 1990, [104 Stat. 639][/us/stat/104/639]; [Pub. L. 101–508, title X][/us/pl/101/508/tX], § 10001(d), Nov. 5, 1990, [104 Stat. 1388–386][/us/stat/104/1388-386]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 10001(d)(1)][/us/pl/101/508/s10001/d/1]–(3), inserted “and” after semicolon at end of par. (1), substituted a period for semicolon at end of par. (2), and struck out pars. (3) to (5) which read as follows:
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 10001(d)(1)–(3), inserted “and” after semicolon at end of par. (1), substituted a period for semicolon at end of par. (2), and struck out pars. (3) to (5) which read as follows:
 
     “(3) as soon as practicable after the enactment of appropriations for the Customs Service for each fiscal year, but not later than the 15th day after the beginning of such year, estimate, based on the amounts appropriated, the amount of the fee that would, if imposed on the processing of merchandise, offset the salaries and expenses subject to reimbursement from the fee that will likely be incurred by the Service in conducting commercial operations during that year;
 
@@ -39,7 +39,11 @@
 
     “(5) report within 45 days of the beginning of any fiscal year to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the results of each fee estimate made under paragraph (3) and each cost base and user fee methodology derivation made under paragraph (4).”
 
-    Subsec. (b). [Pub. L. 101–508, § 10001(d)(4)][/us/pl/101/508/s10001/d/4], substituted “Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate” for “Committees referred to in subsection (a)(5) of this section”.
+    Subsec. (b). [Pub. L. 101–508][/us/pl/101/508], § 10001(d)(4), substituted “Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate” for “Committees referred to in subsection (a)(5) of this section”.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsecs. (a) and (b) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -55,7 +59,7 @@
 
  __Establishment and Implementation of Cost Accounting System; Reports__ 
 
-[Pub. L. 107–210, div. A, title III, § 334][/us/pl/107/210/s334], Aug. 6, 2002, [116 Stat. 977][/us/stat/116/977], provided that:
+[Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 334, Aug. 6, 2002, [116 Stat. 977][/us/stat/116/977], provided that:
 
 >     “(a) __Establishment and Implementation.—__ 
 
@@ -78,19 +82,23 @@
 ----------
 ----------
 
-[/us/pl/101/382/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs113
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F639
-[/us/pl/101/508/s10001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10001%2Fd
+[/us/pl/101/508/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtX
 [/us/stat/104/1388-386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-386
-[/us/pl/101/508/s10001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10001%2Fd%2F1
-[/us/pl/101/508/s10001/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10001%2Fd%2F4
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s10001/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10001%2Fg%2F1
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
 [/us/pl/101/382/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs115%2Fa
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/210/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs334
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F977
 
 

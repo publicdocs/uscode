@@ -29,7 +29,7 @@
 
         Initial regulations necessary or appropriate to carry out the actions proposed in the statement of administrative action submitted under [section 3311(a)(2) of this title][/us/usc/t19/s3311/a/2] to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date of entry into force of the Agreement; except that interim or initial regulations to implement those Uniform Regulations regarding rules of origin provided for under article 511 of the Agreement shall be issued no later than the date of entry into force of the Agreement. In the case of any implementing action that takes effect on a date after the date of entry into force of the Agreement, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
-([Pub. L. 103–182, title I, § 104][/us/pl/103/182/s104], Dec. 8, 1993, [107 Stat. 2064][/us/stat/107/2064].)
+([Pub. L. 103–182, title I][/us/pl/103/182/tI], § 104, Dec. 8, 1993, [107 Stat. 2064][/us/stat/107/2064].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t19/s3313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3313%2Fb
 [/us/usc/t19/s3311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311%2Fa%2F2
-[/us/pl/103/182/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs104
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2064
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/stat/107/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2057

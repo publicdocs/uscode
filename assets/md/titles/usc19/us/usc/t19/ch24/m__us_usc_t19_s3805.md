@@ -145,11 +145,11 @@
 
         (2) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
-([Pub. L. 107–210, div. B, title XXI, § 2105][/us/pl/107/210/s2105], Aug. 6, 2002, [116 Stat. 1013][/us/stat/116/1013]; [Pub. L. 108–429, title II, § 2004(a)(18)][/us/pl/108/429/s2004/a/18], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2105, Aug. 6, 2002, [116 Stat. 1013][/us/stat/116/1013]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(a)(18), Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
 
  __References in Text__ 
 
-    The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (b)(1)(B), is title XXI of [Pub. L. 107–210, div. B][/us/pl/107/210], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993], which is classified principally to this chapter. For complete classification of title XXI to the Code, see [section 3801(a) of this title][/us/usc/t19/s3801/a] and Tables.
+    The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (b)(1)(B), is title XXI of [Pub. L. 107–210, div. B][/us/pl/107/210/dB], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993], which is classified principally to this chapter. For complete classification of title XXI to the Code, see [section 3801(a) of this title][/us/usc/t19/s3801/a] and Tables.
 
  __Amendments__ 
 
@@ -3529,7 +3529,7 @@
 
  __United States–Korea Free Trade Agreement Implementation Act__ 
 
-[Pub. L. 112–41][/us/pl/112/41], Oct. 21, 2011, [125 Stat. 428][/us/stat/125/428], as amended by [Pub. L. 114–27, title VIII][/us/pl/114/27], §§ 801(b), 802(b), June 29, 2015, [129 Stat. 414][/us/stat/129/414], 415, provided that:
+[Pub. L. 112–41][/us/pl/112/41], Oct. 21, 2011, [125 Stat. 428][/us/stat/125/428], as amended by [Pub. L. 114–27, title VIII][/us/pl/114/27/tVIII], §§ 801(b), 802(b), June 29, 2015, [129 Stat. 414][/us/stat/129/414], 415; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 920(b), Feb. 24, 2016, [130 Stat. 281][/us/stat/130/281], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -5165,19 +5165,11 @@
 
 > “SEC. 503. __RATE FOR MERCHANDISE PROCESSING FEES.__ 
 
-> “For the period beginning on December 1, 2015, and ending on June 30, 2025, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)][/us/usc/t19/s58c/a/9]) shall be applied and administered—
+> “For the period beginning on December 1, 2015, and ending on September 30, 2025, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)][/us/usc/t19/s58c/a/9]) shall be applied and administered—
 
 >     “(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and
 
 >     “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’.
-
->     “(c) __\[sic\]__  __Further Additional Period__  __.—__ 
-
->     For the period beginning on July 15, 2025, and ending on September 30, 2025, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)][/us/usc/t19/s58c/a/9]) shall be applied and administered—
-
->         “(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and
-
->         “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’.
 
 > “SEC. 504. __EXTENSION OF CUSTOMS USER FEES.__ 
 
@@ -12591,7 +12583,7 @@
 
  __United States-Chile Free Trade Agreement Implementation Act__ 
 
-[Pub. L. 108–77][/us/pl/108/77], Sept. 3, 2003, [117 Stat. 909][/us/stat/117/909], as amended by [Pub. L. 108–429, title II, § 2004(d)(7)][/us/pl/108/429/s2004/d/7], Dec. 3, 2004, [118 Stat. 2593][/us/stat/118/2593], provided that:
+[Pub. L. 108–77][/us/pl/108/77], Sept. 3, 2003, [117 Stat. 909][/us/stat/117/909], as amended by [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(d)(7), Dec. 3, 2004, [118 Stat. 2593][/us/stat/118/2593], provided that:
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
@@ -13910,11 +13902,11 @@
 [/us/usc/t19/s3801/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801%2Fb%2F3
 [/us/usc/t19/s3803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fc
 [/us/usc/t19/s3804/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3804%2Fd%2F3%2FC
-[/us/pl/107/210/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2105
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1013
-[/us/pl/108/429/s2004/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F18
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2591
-[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB
 [/us/stat/116/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F993
 [/us/usc/t19/s3801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801%2Fa
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
@@ -14016,8 +14008,10 @@
 [/us/pl/112/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
 [/us/stat/125/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F428
-[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtVIII
 [/us/stat/129/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F414
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F281
 [/us/usc/t19/s3803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fb
 [/us/usc/t19/s3511/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F4
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
@@ -14051,7 +14045,6 @@
 [/us/usc/t19/s2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2518
 [/us/usc/t26/s6695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6695
 [/us/usc/t26/s6116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6116
-[/us/usc/t19/s58c/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fa%2F9
 [/us/usc/t19/s58c/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fa%2F9
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
 [/us/usc/t26/s6655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6655
@@ -14264,7 +14257,7 @@
 [/us/pl/108/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F78
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/stat/117/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F909
-[/us/pl/108/429/s2004/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fd%2F7
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2593
 [/us/usc/t19/s3803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fb
 [/us/usc/t19/s3511/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F4

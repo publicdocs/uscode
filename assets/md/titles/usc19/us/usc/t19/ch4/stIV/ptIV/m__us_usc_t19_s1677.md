@@ -575,7 +575,7 @@
 
         For purposes of part I of this subtitle, merchandise shall be treated as the product of the country in which it was manufactured or produced without regard to whether it is imported directly from that country and without regard to whether it is imported in the same condition as when exported from that country or in a changed condition by reason of remanufacture or otherwise.
 
-    (13) __Repealed.__  __[__  __Pub. L. 103–465, title II, § 222(i)(2)__  __][/us/pl/103/465/s222/i/2]__  __,__  __Dec. 8, 1994__  __,__  __[__  __108 Stat. 4876__  __][/us/stat/108/4876]__ 
+    (13) __Repealed.__  __[__  __Pub. L. 103–465, title II__  __][/us/pl/103/465/tII]__  __, § 222(i)(2),__  __Dec. 8, 1994__  __,__  __[__  __108 Stat. 4876__  __][/us/stat/108/4876]__ 
 
     (14) __Sold or, in the absence of sales, offered for sale__ 
 
@@ -661,7 +661,7 @@
 
         (E) __Collection of information__ 
 
-            Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with [section 1677f of this title][/us/usc/t19/s1677f].
+            Upon request by the administering authority, the Commissioner of U.S. Customs and Border Protection shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of U.S. Customs and Border Protection that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with [section 1677f of this title][/us/usc/t19/s1677f].
 
     (19) __Equivalency of leases to sales__ 
 
@@ -855,7 +855,7 @@
 
             A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country’s status as a developing or least developed country with respect to any other law.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 176][/us/stat/93/176]; amended [Pub. L. 98–573, title VI, § 612(a)][/us/pl/98/573/s612/a], Oct. 30, 1984, [98 Stat. 3033][/us/stat/98/3033]; [Pub. L. 99–514, title XVIII, § 1886(a)(9)][/us/pl/99/514/s1886/a/9], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, [102 Stat. 1184][/us/stat/102/1184], 1187, 1203–1206, 1210; [Pub. L. 100–449, title IV, § 403(d)][/us/pl/100/449/s403/d], Sept. 28, 1988, [102 Stat. 1887][/us/stat/102/1887]; [Pub. L. 100–647, title IX, § 9001(a)(5)][/us/pl/100/647/s9001/a/5], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 101–382, title I, § 139(a)(3)][/us/pl/101/382/s139/a/3], title II, § 224(a), (b), Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653], 659, 660; [Pub. L. 103–182, title IV, § 412(b)][/us/pl/103/182/s412/b], title VI, § 637(b), Dec. 8, 1993, [107 Stat. 2146][/us/stat/107/2146], 2203; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, [108 Stat. 4869][/us/stat/108/4869], 4890, 4898–4902, 4915, 4917, 4918; [Pub. L. 104–295, § 20(b)(7)][/us/pl/104/295/s20/b/7], (14), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527]; [Pub. L. 114–27, title V][/us/pl/114/27], §§ 503, 504(a), June 29, 2015, [129 Stat. 384][/us/stat/129/384], 385.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 176][/us/stat/93/176]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 612(a), Oct. 30, 1984, [98 Stat. 3033][/us/stat/98/3033]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(9), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, [102 Stat. 1184][/us/stat/102/1184], 1187, 1203–1206, 1210; [Pub. L. 100–449, title IV][/us/pl/100/449/tIV], § 403(d), Sept. 28, 1988, [102 Stat. 1887][/us/stat/102/1887]; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(5), Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 139(a)(3), title II, § 224(a), (b), Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653], 659, 660; [Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 412(b), title VI, § 637(b), Dec. 8, 1993, [107 Stat. 2146][/us/stat/107/2146], 2203; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, [108 Stat. 4869][/us/stat/108/4869], 4890, 4898–4902, 4915, 4917, 4918; [Pub. L. 104–295][/us/pl/104/295], § 20(b)(7), (14), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527]; [Pub. L. 114–27, title V][/us/pl/114/27/tV], §§ 503, 504(a), June 29, 2015, [129 Stat. 384][/us/stat/129/384], 385; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Amendment of Section__ 
 
@@ -867,55 +867,55 @@
 
     The Harmonized Tariff Schedule of the United States, referred to in par. (20)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
-    [Section 1303 of this title][/us/usc/t19/s1303], referred to in pars. (20)(A), (25), and (26), was repealed, effective Jan. 1, 1995, by [Pub. L. 103–465, title II, § 261(a)][/us/pl/103/465/s261/a], Dec. 8, 1994, [108 Stat. 4908][/us/stat/108/4908]. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of [Pub. L. 103–465][/us/pl/103/465], set out as notes under [section 1303 of this title][/us/usc/t19/s1303].
+    [Section 1303 of this title][/us/usc/t19/s1303], referred to in pars. (20)(A), (25), and (26), was repealed, effective Jan. 1, 1995, by [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 261(a), Dec. 8, 1994, [108 Stat. 4908][/us/stat/108/4908]. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of [Pub. L. 103–465][/us/pl/103/465], set out as notes under [section 1303 of this title][/us/usc/t19/s1303].
 
-    The Antidumping Act, 1921, referred to in par. (25), is [act May 27, 1921, ch. 14][/us/act/1921-05-27/ch14], title II, [42 Stat. 11][/us/stat/42/11], as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by [Pub. L. 96–39, title I, § 106(a)][/us/pl/96/39/s106/a], July 26, 1979, [93 Stat. 193][/us/stat/93/193].
+    The Antidumping Act, 1921, referred to in par. (25), is [act May 27, 1921, ch. 14, title II][/us/act/1921-05-27/ch14/tII], [42 Stat. 11][/us/stat/42/11], as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 106(a), July 26, 1979, [93 Stat. 193][/us/stat/93/193].
 
     For the effective date of title II of the Uruguay Round Agreements Act, referred to in par. (26), as Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under [section 1671 of this title][/us/usc/t19/s1671].
 
  __Amendments__ 
 
-    2015—Par. (7)(C)(iii)(I). [Pub. L. 114–27, § 503(b)][/us/pl/114/27/s503/b], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,”.
+    2015—Par. (7)(C)(iii)(I). [Pub. L. 114–27][/us/pl/114/27], § 503(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,”.
 
-    Par. (7)(C)(iv)(I) to (III). [Pub. L. 114–27, § 503(c)][/us/pl/114/27/s503/c], inserted “and” at end of subcl. (I), struck out “and” after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: “the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,”.
+    Par. (7)(C)(iv)(I) to (III). [Pub. L. 114–27][/us/pl/114/27], § 503(c), inserted “and” at end of subcl. (I), struck out “and” after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: “the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,”.
 
-    Par. (7)(J). [Pub. L. 114–27, § 503(a)][/us/pl/114/27/s503/a], added subpar. (J).
+    Par. (7)(J). [Pub. L. 114–27][/us/pl/114/27], § 503(a), added subpar. (J).
 
-    Par. (15)(C). [Pub. L. 114–27, § 504(a)][/us/pl/114/27/s504/a], added subpar. (C).
+    Par. (15)(C). [Pub. L. 114–27][/us/pl/114/27], § 504(a), added subpar. (C).
 
-    1996—Par. (16)(C)(i). [Pub. L. 104–295, § 20(b)(7)][/us/pl/104/295/s20/b/7], which directed substitution of “subject merchandise” for “merchandise which is the subject of the investigation” in subpar. (B)(i), was executed by making the substitution in subpar. (C)(i) to reflect the probable intent of Congress.
+    1996—Par. (16)(C)(i). [Pub. L. 104–295][/us/pl/104/295], § 20(b)(7), which directed substitution of “subject merchandise” for “merchandise which is the subject of the investigation” in subpar. (B)(i), was executed by making the substitution in subpar. (C)(i) to reflect the probable intent of Congress.
 
-    Par. (30). [Pub. L. 104–295, § 20(b)(14)][/us/pl/104/295/s20/b/14], substituted “Agreement” for “agreement” after “applies the WTO”.
+    Par. (30). [Pub. L. 104–295][/us/pl/104/295], § 20(b)(14), substituted “Agreement” for “agreement” after “applies the WTO”.
 
-    1994—Par. (1). [Pub. L. 103–465, § 233(b)(2)][/us/pl/103/465/s233/b/2], substituted “Secretary of Commerce” for “Secretary of the Treasury”.
+    1994—Par. (1). [Pub. L. 103–465][/us/pl/103/465], § 233(b)(2), substituted “Secretary of Commerce” for “Secretary of the Treasury”.
 
-    Par. (4)(A). [Pub. L. 103–465, § 222(a)(1)][/us/pl/103/465/s222/a/1], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘industry’ means the domestic producers as a whole of a like product, or those producers whose collective output of the like product constitutes a major proportion of the total domestic production of that product; except that in the case of wine and grape products subject to investigation under this subtitle, the term also means the domestic producers of the principal raw agricultural product (determined on either a volume or value basis) which is included in the like domestic product, if those producers allege material injury, or threat of material injury, as a result of imports of such wine and grape products.”
+    Par. (4)(A). [Pub. L. 103–465][/us/pl/103/465], § 222(a)(1), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘industry’ means the domestic producers as a whole of a like product, or those producers whose collective output of the like product constitutes a major proportion of the total domestic production of that product; except that in the case of wine and grape products subject to investigation under this subtitle, the term also means the domestic producers of the principal raw agricultural product (determined on either a volume or value basis) which is included in the like domestic product, if those producers allege material injury, or threat of material injury, as a result of imports of such wine and grape products.”
 
-    Par. (4)(B). [Pub. L. 103–465, § 222(a)(1)][/us/pl/103/465/s222/a/1], amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “When some producers are related to the exporters or importers, or are themselves importers of the allegedly subsidized or dumped merchandise, the term ‘industry’ may be applied in appropriate circumstances by excluding such producers from those included in that industry.”
+    Par. (4)(B). [Pub. L. 103–465][/us/pl/103/465], § 222(a)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “When some producers are related to the exporters or importers, or are themselves importers of the allegedly subsidized or dumped merchandise, the term ‘industry’ may be applied in appropriate circumstances by excluding such producers from those included in that industry.”
 
-    Par. (4)(C). [Pub. L. 103–465, § 270(c)(2)][/us/pl/103/465/s270/c/2], in concluding provisions, substituted “dumped imports or imports of merchandise benefiting from a countervailable subsidy” for “subsidized or dumped imports” in two places.
+    Par. (4)(C). [Pub. L. 103–465][/us/pl/103/465], § 270(c)(2), in concluding provisions, substituted “dumped imports or imports of merchandise benefiting from a countervailable subsidy” for “subsidized or dumped imports” in two places.
 
     [Pub. L. 103–465][/us/pl/103/465], §§ 222(a)(2), 233(a)(3)(A)(i), substituted “domestic like product” for “like product” in cl. (i) and concluding provisions, and inserted at end of concluding provisions “The term ‘regional industry’ means the domestic producers within a region who are treated as a separate industry under this subparagraph.”
 
     Par. (4)(D). [Pub. L. 103–465][/us/pl/103/465], §§ 233(a)(3)(A)(i), 270(c)(2), substituted “domestic like product” for “like product” wherever appearing and “dumped imports or imports of merchandise benefiting from a countervailable subsidy” for “subsidized or dumped imports” in two places.
 
-    Pars. (5) to (5B). [Pub. L. 103–465, § 251(a)][/us/pl/103/465/s251/a], added pars. (5) to (5B), and struck out former par. (5) which defined “subsidy”.
+    Pars. (5) to (5B). [Pub. L. 103–465][/us/pl/103/465], § 251(a), added pars. (5) to (5B), and struck out former par. (5) which defined “subsidy”.
 
-    Par. (6). [Pub. L. 103–465, § 251(b)][/us/pl/103/465/s251/b], inserted “countervailable” before “subsidy” wherever appearing in heading and text.
+    Par. (6). [Pub. L. 103–465][/us/pl/103/465], § 251(b), inserted “countervailable” before “subsidy” wherever appearing in heading and text.
 
-    Par. (7)(B)(i)(I). [Pub. L. 103–465, § 233(a)(5)(BB)][/us/pl/103/465/s233/a/5/BB], substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
+    Par. (7)(B)(i)(I). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(BB), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 
-    Par. (7)(B)(i)(II), (III), (C)(ii)(I). [Pub. L. 103–465, § 233(a)(3)(B)][/us/pl/103/465/s233/a/3/B], substituted “domestic like products” for “like products”.
+    Par. (7)(B)(i)(II), (III), (C)(ii)(I). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(3)(B), substituted “domestic like products” for “like products”.
 
-    Par. (7)(C)(iii). [Pub. L. 103–465, § 222(b)(3)][/us/pl/103/465/s222/b/3], substituted “subparagraph (B)(i)(III)” for “subparagraph (B)(iii)” in introductory provisions.
+    Par. (7)(C)(iii). [Pub. L. 103–465][/us/pl/103/465], § 222(b)(3), substituted “subparagraph (B)(i)(III)” for “subparagraph (B)(iii)” in introductory provisions.
 
-    Par. (7)(C)(iii)(IV). [Pub. L. 103–465, § 233(a)(3)(A)(ii)][/us/pl/103/465/s233/a/3/A/ii], substituted “domestic like product” for “like product”.
+    Par. (7)(C)(iii)(IV). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(3)(A)(ii), substituted “domestic like product” for “like product”.
 
-    Par. (7)(C)(iii)(V). [Pub. L. 103–465, § 222(b)(1)][/us/pl/103/465/s222/b/1], added subcl. (V).
+    Par. (7)(C)(iii)(V). [Pub. L. 103–465][/us/pl/103/465], § 222(b)(1), added subcl. (V).
 
-    Par. (7)(C)(iv). [Pub. L. 103–465, § 222(b)(2)][/us/pl/103/465/s222/b/2], added cl. (iv) and struck out former cl. (iv) which directed that Commission cumulatively assess volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of domestic industry in United States market, with an exception for imports which are products of country designated as beneficiary country under Caribbean Basin Economic Recovery Act.
+    Par. (7)(C)(iv). [Pub. L. 103–465][/us/pl/103/465], § 222(b)(2), added cl. (iv) and struck out former cl. (iv) which directed that Commission cumulatively assess volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of domestic industry in United States market, with an exception for imports which are products of country designated as beneficiary country under Caribbean Basin Economic Recovery Act.
 
-    Par. (7)(C)(v). [Pub. L. 103–465, § 222(d)(1)][/us/pl/103/465/s222/d/1], struck out heading and text of cl. (v). Prior to amendment, text read as follows: “The Commission is not required to apply clause (iv) or subparagraph (F)(iv) in any case in which the Commission determines that imports of the merchandise subject to investigation are negligible and have no discernable adverse impact on the domestic industry. For purposes of making such determination, the Commission shall evaluate all relevant economic factors regarding the imports, including, but not limited to, whether—
+    Par. (7)(C)(v). [Pub. L. 103–465][/us/pl/103/465], § 222(d)(1), struck out heading and text of cl. (v). Prior to amendment, text read as follows: “The Commission is not required to apply clause (iv) or subparagraph (F)(iv) in any case in which the Commission determines that imports of the merchandise subject to investigation are negligible and have no discernable adverse impact on the domestic industry. For purposes of making such determination, the Commission shall evaluate all relevant economic factors regarding the imports, including, but not limited to, whether—
 
     “(I) the volume and market share of the imports are negligible,
 
@@ -925,35 +925,35 @@
 
     For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the product of any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
 
-    Par. (7)(E)(i). [Pub. L. 103–465, § 266][/us/pl/103/465/s266], amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “In determining whether there is a threat of material injury, the Commission shall consider such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the subsidy is an export subsidy inconsistent with the Agreement) provided by a foreign country and the effects likely to be caused by the subsidy.”
+    Par. (7)(E)(i). [Pub. L. 103–465][/us/pl/103/465], § 266, amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “In determining whether there is a threat of material injury, the Commission shall consider such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the subsidy is an export subsidy inconsistent with the Agreement) provided by a foreign country and the effects likely to be caused by the subsidy.”
 
-    Par. (7)(F)(i), (ii). [Pub. L. 103–465, § 222(c)][/us/pl/103/465/s222/c], amended cls. (i) and (ii) generally, substituting present provisions for provisions which listed factors in determining as well as basis for determining that an industry is threatened with material injury by reason of imports (or sales for importation) of the subject merchandise.
+    Par. (7)(F)(i), (ii). [Pub. L. 103–465][/us/pl/103/465], § 222(c), amended cls. (i) and (ii) generally, substituting present provisions for provisions which listed factors in determining as well as basis for determining that an industry is threatened with material injury by reason of imports (or sales for importation) of the subject merchandise.
 
-    Par. (7)(F)(iii)(I), (II). [Pub. L. 103–465, § 233(b)(1)(A)][/us/pl/103/465/s233/b/1/A], in subcl. (I), substituted “WTO member” for “GATT member”, and in subcl. (II), substituted “WTO member” for “GATT member” in heading and text before “market”, and “WTO member.” for “signatory to The Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade (relating to antidumping measures).”
+    Par. (7)(F)(iii)(I), (II). [Pub. L. 103–465][/us/pl/103/465], § 233(b)(1)(A), in subcl. (I), substituted “WTO member” for “GATT member”, and in subcl. (II), substituted “WTO member” for “GATT member” in heading and text before “market”, and “WTO member.” for “signatory to The Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade (relating to antidumping measures).”
 
-    Par. (7)(F)(iv). [Pub. L. 103–465, § 222(e)(1)][/us/pl/103/465/s222/e/1], struck out heading and text of cl. (iv). Prior to amendment, text read as follows: “To the extent practicable and subject to subparagraph (C)(iv)(II) and (v), for purposes of clause (i)(III) and (IV) the Commission may cumulatively assess the volume and price effects of imports from two or more countries if such imports—
+    Par. (7)(F)(iv). [Pub. L. 103–465][/us/pl/103/465], § 222(e)(1), struck out heading and text of cl. (iv). Prior to amendment, text read as follows: “To the extent practicable and subject to subparagraph (C)(iv)(II) and (v), for purposes of clause (i)(III) and (IV) the Commission may cumulatively assess the volume and price effects of imports from two or more countries if such imports—
 
     “(I) compete with each other, and with like products of the domestic industry, in the United States market, and
 
     “(II) are subject to any investigation under section 1303, 1671, or 1673 of this title.”
 
-    Par. (7)(G), (H). [Pub. L. 103–465, § 222(e)(2)][/us/pl/103/465/s222/e/2], added subpars. (G) and (H).
+    Par. (7)(G), (H). [Pub. L. 103–465][/us/pl/103/465], § 222(e)(2), added subpars. (G) and (H).
 
-    Par. (7)(I). [Pub. L. 103–465, § 222(f)][/us/pl/103/465/s222/f], added subpar. (I).
+    Par. (7)(I). [Pub. L. 103–465][/us/pl/103/465], § 222(f), added subpar. (I).
 
-    Par. (8). [Pub. L. 103–465, § 270(e)][/us/pl/103/465/s270/e], amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “The terms ‘Agreement on Subsidies and Countervailing Measures’ and ‘Agreement’ mean the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade (relating to subsidies and countervailing measures) approved under [section 2503(a) of this title][/us/usc/t19/s2503/a].”
+    Par. (8). [Pub. L. 103–465][/us/pl/103/465], § 270(e), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “The terms ‘Agreement on Subsidies and Countervailing Measures’ and ‘Agreement’ mean the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade (relating to subsidies and countervailing measures) approved under [section 2503(a) of this title][/us/usc/t19/s2503/a].”
 
     Par. (9)(A). [Pub. L. 103–465][/us/pl/103/465], §§ 222(g)(1), 233(a)(5)(CC), substituted “subject merchandise” for “merchandise which is the subject of an investigation under this subtitle” and inserted “producers, exporters, or” before “importers”.
 
-    Par. (9)(B). [Pub. L. 103–465, § 222(g)(2)][/us/pl/103/465/s222/g/2], inserted “or from which such merchandise is exported” after “manufactured”.
+    Par. (9)(B). [Pub. L. 103–465][/us/pl/103/465], § 222(g)(2), inserted “or from which such merchandise is exported” after “manufactured”.
 
-    Par. (9)(C) to (F). [Pub. L. 103–465, § 233(a)(3)(A)(iii)][/us/pl/103/465/s233/a/3/A/iii], substituted “domestic like product” for “like product”.
+    Par. (9)(C) to (F). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(3)(A)(iii), substituted “domestic like product” for “like product”.
 
-    Par. (10). [Pub. L. 103–465, § 233(a)(3)(A)(iii)][/us/pl/103/465/s233/a/3/A/iii], substituted “domestic like product” for “like product” in heading and text.
+    Par. (10). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(3)(A)(iii), substituted “domestic like product” for “like product” in heading and text.
 
-    Par. (11). [Pub. L. 103–465, § 221(b)][/us/pl/103/465/s221/b], inserted “, including a determination under [section 1675 of this title][/us/usc/t19/s1675],” after “determination by the Commission” in introductory provisions.
+    Par. (11). [Pub. L. 103–465][/us/pl/103/465], § 221(b), inserted “, including a determination under [section 1675 of this title][/us/usc/t19/s1675],” after “determination by the Commission” in introductory provisions.
 
-    Par. (13). [Pub. L. 103–465, § 222(i)(2)][/us/pl/103/465/s222/i/2], struck out heading and text of par. (13). Text read as follows: “For the purpose of determining United States price, the term ‘exporter’ includes the person by whom or for whose account the merchandise is imported into the United States if—
+    Par. (13). [Pub. L. 103–465][/us/pl/103/465], § 222(i)(2), struck out heading and text of par. (13). Text read as follows: “For the purpose of determining United States price, the term ‘exporter’ includes the person by whom or for whose account the merchandise is imported into the United States if—
 
     “(A) such person is the agent or principal of the exporter, manufacturer, or producer;
 
@@ -963,43 +963,43 @@
 
     “(D) any person or persons, jointly or severally, directly or indirectly, through stock ownership or control or otherwise, own or control in the aggregate 20 percent or more of the voting power or control in the business carried on by the person by whom or for whose account the merchandise is imported into the United States, and also 20 percent or more of such power or control in the business of the exporter, manufacturer, or producer.”
 
-    Par. (15). [Pub. L. 103–465, § 222(h)][/us/pl/103/465/s222/h], substituted “subject merchandise” for “merchandise which is the subject of an investigation” and inserted at end “The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
+    Par. (15). [Pub. L. 103–465][/us/pl/103/465], § 222(h), substituted “subject merchandise” for “merchandise which is the subject of an investigation” and inserted at end “The administering authority shall consider the following sales and transactions, among others, to be outside the ordinary course of trade:
 
     “(A) Sales disregarded under [section 1677b(b)(1) of this title][/us/usc/t19/s1677b/b/1].
 
     “(B) Transactions disregarded under [section 1677b(f)(2) of this title][/us/usc/t19/s1677b/f/2].”
 
-    Par. (16). [Pub. L. 103–465, § 233(a)(4)][/us/pl/103/465/s233/a/4], substituted “Foreign like product” for “Such or similar merchandise” as heading and “foreign like product” for “such or similar merchandise” in introductory provisions.
+    Par. (16). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(4), substituted “Foreign like product” for “Such or similar merchandise” as heading and “foreign like product” for “such or similar merchandise” in introductory provisions.
 
-    Par. (16)(A). [Pub. L. 103–465, § 233(a)(5)(DD)][/us/pl/103/465/s233/a/5/DD], substituted “subject merchandise” for “merchandise which is the subject of an investigation”.
+    Par. (16)(A). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(DD), substituted “subject merchandise” for “merchandise which is the subject of an investigation”.
 
-    Par. (16)(B)(i). [Pub. L. 103–465, § 233(a)(5)(EE)][/us/pl/103/465/s233/a/5/EE], which directed the substitution of “subject merchandise” for “merchandise which is the subject of an investigation”, was executed by making the substitution for text which contained the words “the investigation” rather than “an investigation”, to reflect the probable intent of Congress.
+    Par. (16)(B)(i). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(EE), which directed the substitution of “subject merchandise” for “merchandise which is the subject of an investigation”, was executed by making the substitution for text which contained the words “the investigation” rather than “an investigation”, to reflect the probable intent of Congress.
 
-    Par. (17). [Pub. L. 103–465, § 233(a)(5)(FF)][/us/pl/103/465/s233/a/5/FF], substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
+    Par. (17). [Pub. L. 103–465][/us/pl/103/465], § 233(a)(5)(FF), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 
-    Par. (24). [Pub. L. 103–465, § 222(d)(2)][/us/pl/103/465/s222/d/2], added par. (24).
+    Par. (24). [Pub. L. 103–465][/us/pl/103/465], § 222(d)(2), added par. (24).
 
-    Pars. (25) to (34). [Pub. L. 103–465, § 222(i)(1)][/us/pl/103/465/s222/i/1], added pars. (25) to (34).
+    Pars. (25) to (34). [Pub. L. 103–465][/us/pl/103/465], § 222(i)(1), added pars. (25) to (34).
 
-    Par. (35). [Pub. L. 103–465, § 229(b)][/us/pl/103/465/s229/b], added par. (35).
+    Par. (35). [Pub. L. 103–465][/us/pl/103/465], § 229(b), added par. (35).
 
-    Par. (36). [Pub. L. 103–465, § 267][/us/pl/103/465/s267], added par. (36).
+    Par. (36). [Pub. L. 103–465][/us/pl/103/465], § 267, added par. (36).
 
-    1993—Pars. (18), (21). [Pub. L. 103–182, § 412(b)(1)][/us/pl/103/182/s412/b/1], redesignated par. (18), relating to United States-Canada Agreement, as (21).
+    1993—Pars. (18), (21). [Pub. L. 103–182][/us/pl/103/182], § 412(b)(1), redesignated par. (18), relating to United States-Canada Agreement, as (21).
 
-    Par. (22). [Pub. L. 103–182, § 412(b)(2)][/us/pl/103/182/s412/b/2], added (22).
+    Par. (22). [Pub. L. 103–182][/us/pl/103/182], § 412(b)(2), added (22).
 
-    Par. (23). [Pub. L. 103–182, § 637(b)][/us/pl/103/182/s637/b], added par. (23).
+    Par. (23). [Pub. L. 103–182][/us/pl/103/182], § 637(b), added par. (23).
 
-    1990—Par. (7)(C)(iv). [Pub. L. 101–382, § 224(a)][/us/pl/101/382/s224/a], amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “For purposes of clauses (i) and (ii), the Commission shall cumulatively assess the volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of the domestic industry in the United States market.”
+    1990—Par. (7)(C)(iv). [Pub. L. 101–382][/us/pl/101/382], § 224(a), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “For purposes of clauses (i) and (ii), the Commission shall cumulatively assess the volume and effect of imports from two or more countries of like products subject to investigation if such imports compete with each other and with like products of the domestic industry in the United States market.”
 
-    Par. (7)(F)(iv). [Pub. L. 101–382, § 224(b)][/us/pl/101/382/s224/b], substituted “(C)(iv)(II) and (v)” for “(C)(v)”.
+    Par. (7)(F)(iv). [Pub. L. 101–382][/us/pl/101/382], § 224(b), substituted “(C)(iv)(II) and (v)” for “(C)(v)”.
 
-    Par. (20)(A). [Pub. L. 101–382, § 139(a)(3)][/us/pl/101/382/s139/a/3], substituted “chapter 98 of the Harmonized Tariff Schedule” for “schedule 8 of the Tariff Schedules”.
+    Par. (20)(A). [Pub. L. 101–382][/us/pl/101/382], § 139(a)(3), substituted “chapter 98 of the Harmonized Tariff Schedule” for “schedule 8 of the Tariff Schedules”.
 
-    1988—Par. (4)(E). [Pub. L. 100–418, § 1326(a)][/us/pl/100/418/s1326/a], added subpar. (E).
+    1988—Par. (4)(E). [Pub. L. 100–418][/us/pl/100/418], § 1326(a), added subpar. (E).
 
-    Par. (5). [Pub. L. 100–418, § 1312][/us/pl/100/418/s1312], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘subsidy’ has the same meaning as the term ‘bounty or grant’ as that term is used in [section 1303 of this title][/us/usc/t19/s1303], and includes, but is not limited to, the following:
+    Par. (5). [Pub. L. 100–418][/us/pl/100/418], § 1312, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘subsidy’ has the same meaning as the term ‘bounty or grant’ as that term is used in [section 1303 of this title][/us/usc/t19/s1303], and includes, but is not limited to, the following:
 
     “(A) Any export subsidy described in Annex A to the Agreement (relating to illustrative list of export subsidies).
 
@@ -1013,7 +1013,7 @@
 
     “(iv) The assumption of any costs or expenses of manufacture, production, or distribution.”
 
-    Par. (7)(B). [Pub. L. 100–418, § 1328(1)][/us/pl/100/418/s1328/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In making its determinations under sections 1671b(a), 1671d(b), 1673b(a), and 1673d(b) of this title, the Commission shall consider, among other factors—
+    Par. (7)(B). [Pub. L. 100–418][/us/pl/100/418], § 1328(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In making its determinations under sections 1671b(a), 1671d(b), 1673b(a), and 1673d(b) of this title, the Commission shall consider, among other factors—
 
     “(i) the volume of imports of the merchandise which is the subject of the investigation,
 
@@ -1021,7 +1021,7 @@
 
     “(iii) the impact of imports of such merchandise on domestic producers of like products.”
 
-    Par. (7)(C). [Pub. L. 100–418, § 1328(2)][/us/pl/100/418/s1328/2], in heading substituted “relevant factors” for “volume and of price effects”, in cl. (ii)(I) substituted “underselling” for “undercutting”, and in cl. (iii) inserted “domestic” in heading and amended text generally. Prior to amendment, text of cl. (iii) read as follows: “In examining the impact on the affected industry, the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry, including, but not limited to—
+    Par. (7)(C). [Pub. L. 100–418][/us/pl/100/418], § 1328(2), in heading substituted “relevant factors” for “volume and of price effects”, in cl. (ii)(I) substituted “underselling” for “undercutting”, and in cl. (iii) inserted “domestic” in heading and amended text generally. Prior to amendment, text of cl. (iii) read as follows: “In examining the impact on the affected industry, the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry, including, but not limited to—
 
     “(I) actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,
 
@@ -1029,43 +1029,47 @@
 
     “(III) actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment.”
 
-    Par. (7)(C)(v). [Pub. L. 100–418, § 1330(b)][/us/pl/100/418/s1330/b], added cl. (v).
+    Par. (7)(C)(v). [Pub. L. 100–418][/us/pl/100/418], § 1330(b), added cl. (v).
 
-    Par. (7)(F)(i)(IX). [Pub. L. 100–418, § 1326(b)][/us/pl/100/418/s1326/b], which directed that par. (7)(F) be amended by adding subcl. (IX), was executed by adding subcl. (IX) to par. (7)(F)(i) to reflect the probable intent of Congress.
+    Par. (7)(F)(i)(IX). [Pub. L. 100–418][/us/pl/100/418], § 1326(b), which directed that par. (7)(F) be amended by adding subcl. (IX), was executed by adding subcl. (IX) to par. (7)(F)(i) to reflect the probable intent of Congress.
 
-    Par. (7)(F)(i)(X). [Pub. L. 100–418, § 1329(1)][/us/pl/100/418/s1329/1]–(3), added subcl. (X).
+    Par. (7)(F)(i)(X). [Pub. L. 100–418][/us/pl/100/418], § 1329(1)–(3), added subcl. (X).
 
-    Par. (7)(F)(iii). [Pub. L. 100–418, § 1329(4)][/us/pl/100/418/s1329/4], added cl. (iii).
+    Par. (7)(F)(iii). [Pub. L. 100–418][/us/pl/100/418], § 1329(4), added cl. (iii).
 
-    Par. (7)(F)(iv). [Pub. L. 100–418, § 1330(a)][/us/pl/100/418/s1330/a], added cl. (iv).
+    Par. (7)(F)(iv). [Pub. L. 100–418][/us/pl/100/418], § 1330(a), added cl. (iv).
 
-    Par. (9)(G). [Pub. L. 100–418, § 1326(c)][/us/pl/100/418/s1326/c], added subpar. (G).
+    Par. (9)(G). [Pub. L. 100–418][/us/pl/100/418], § 1326(c), added subpar. (G).
 
     Par. (18). [Pub. L. 100–449][/us/pl/100/449] temporarily added par. (18) relating to United States-Canada Agreement. See Effective and Termination Dates of 1988 Amendment note below.
 
-    [Pub. L. 100–418, § 1316(b)][/us/pl/100/418/s1316/b], added par. (18) relating to nonmarket economy country.
+    [Pub. L. 100–418][/us/pl/100/418], § 1316(b), added par. (18) relating to nonmarket economy country.
 
     Par. (19). [Pub. L. 100–647][/us/pl/100/647] redesignated par. (19), relating to application to governmental importations, as (20).
 
-    [Pub. L. 100–418, § 1335][/us/pl/100/418/s1335], added par. (19) relating to application to governmental importations.
+    [Pub. L. 100–418][/us/pl/100/418], § 1335, added par. (19) relating to application to governmental importations.
 
-    [Pub. L. 100–418, § 1327][/us/pl/100/418/s1327], added par. (19) relating to equivalency of leases to sales.
+    [Pub. L. 100–418][/us/pl/100/418], § 1327, added par. (19) relating to equivalency of leases to sales.
 
     Par. (20). [Pub. L. 100–647][/us/pl/100/647] redesignated par. (19), relating to application to governmental importations, as (20).
 
     1986—Par. (7)(F)(i). [Pub. L. 99–514][/us/pl/99/514] substituted “the merchandise” for “any merchandise” in introductory provisions and “final orders” for “find orders” in subcl. (VIII).
 
-    1984—Par. (4)(A). [Pub. L. 98–573, § 612(a)(1)][/us/pl/98/573/s612/a/1], inserted provision that in the case of wine and grape products subject to investigation under this subtitle, the term also means the domestic producers of the principal raw agricultural product (determined on either a volume or value basis) which is included in the like domestic product, if those producers allege material injury, or threat of material injury, as a result of imports of such wine and grape products.
+    1984—Par. (4)(A). [Pub. L. 98–573][/us/pl/98/573], § 612(a)(1), inserted provision that in the case of wine and grape products subject to investigation under this subtitle, the term also means the domestic producers of the principal raw agricultural product (determined on either a volume or value basis) which is included in the like domestic product, if those producers allege material injury, or threat of material injury, as a result of imports of such wine and grape products.
 
-    Par. (7)(C)(iv). [Pub. L. 98–623, § 612(a)(2)(A)][/us/pl/98/623/s612/a/2/A], added cl. (iv).
+    Par. (7)(C)(iv). [Pub. L. 98–623][/us/pl/98/623], § 612(a)(2)(A), added cl. (iv).
 
-    Par. (7)(F). [Pub. L. 98–573, § 612(a)(2)(B)][/us/pl/98/573/s612/a/2/B], added subpar. (F).
+    Par. (7)(F). [Pub. L. 98–573][/us/pl/98/573], § 612(a)(2)(B), added subpar. (F).
 
-    Par. (9)(F). [Pub. L. 98–573, § 612(a)(3)][/us/pl/98/573/s612/a/3], added subpar. (F).
+    Par. (9)(F). [Pub. L. 98–573][/us/pl/98/573], § 612(a)(3), added subpar. (F).
 
-    Par. (14)(A), (B). [Pub. L. 98–573, § 612(a)(4)][/us/pl/98/573/s612/a/4], substituted “in commercial quantities” for “at wholesale”.
+    Par. (14)(A), (B). [Pub. L. 98–573][/us/pl/98/573], § 612(a)(4), substituted “in commercial quantities” for “at wholesale”.
 
-    Par. (17). [Pub. L. 98–573, § 612(a)(5)][/us/pl/98/573/s612/a/5], substituted “commercial quantities” for “wholesale quantities”.
+    Par. (17). [Pub. L. 98–573][/us/pl/98/573], § 612(a)(5), substituted “commercial quantities” for “wholesale quantities”.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in par. (18)(E) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -1077,7 +1081,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–382, title II, § 224(c)][/us/pl/101/382/s224/c], Aug. 20, 1990, [104 Stat. 660][/us/stat/104/660], provided that: 
+[Pub. L. 101–382, title II][/us/pl/101/382/tII], § 224(c), Aug. 20, 1990, [104 Stat. 660][/us/stat/104/660], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] apply with respect to investigations (including investigations regarding products of Canadian origin) initiated under section 702 or 732 of the Tariff Act of 1930 \[[19 U.S.C. 1671a][/us/usc/t19/s1671a], 1673a\] on or after the date of the enactment of this Act \[Aug. 20, 1990\].”
 
@@ -1131,7 +1135,7 @@
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
 [/us/usc/t19/s3511/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F2
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
-[/us/pl/103/465/s222/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fi%2F2
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4876
 [/us/usc/t19/s1677b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677b%2Fb%2F1
 [/us/usc/t19/s1677b/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677b%2Ff%2F2
@@ -1150,120 +1154,124 @@
 [/us/usc/t19/s1675/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fc
 [/us/usc/t19/s1675a/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675a%2Fc%2F3
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F176
-[/us/pl/98/573/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs612%2Fa
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3033
-[/us/pl/99/514/s1886/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F9
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1184
-[/us/pl/100/449/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs403%2Fd
+[/us/pl/100/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIV
 [/us/stat/102/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1887
-[/us/pl/100/647/s9001/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F5
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3807
-[/us/pl/101/382/s139/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs139%2Fa%2F3
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F653
-[/us/pl/103/182/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fb
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2146
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4869
-[/us/pl/104/295/s20/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F7
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
-[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtV
 [/us/stat/129/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F384
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
-[/us/pl/103/465/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fa
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4908
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
-[/us/act/1921-05-27/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch14
+[/us/act/1921-05-27/ch14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch14%2FtII
 [/us/stat/42/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F11
-[/us/pl/96/39/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fa
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
-[/us/pl/114/27/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs503%2Fb
-[/us/pl/114/27/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs503%2Fc
-[/us/pl/114/27/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs503%2Fa
-[/us/pl/114/27/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs504%2Fa
-[/us/pl/104/295/s20/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F7
-[/us/pl/104/295/s20/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F14
-[/us/pl/103/465/s233/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fb%2F2
-[/us/pl/103/465/s222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fa%2F1
-[/us/pl/103/465/s222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fa%2F1
-[/us/pl/103/465/s270/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fc%2F2
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs251%2Fa
-[/us/pl/103/465/s251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs251%2Fb
-[/us/pl/103/465/s233/a/5/BB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FBB
-[/us/pl/103/465/s233/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F3%2FB
-[/us/pl/103/465/s222/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fb%2F3
-[/us/pl/103/465/s233/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F3%2FA%2Fii
-[/us/pl/103/465/s222/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fb%2F1
-[/us/pl/103/465/s222/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fb%2F2
-[/us/pl/103/465/s222/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fd%2F1
-[/us/pl/103/465/s266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs266
-[/us/pl/103/465/s222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fc
-[/us/pl/103/465/s233/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fb%2F1%2FA
-[/us/pl/103/465/s222/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fe%2F1
-[/us/pl/103/465/s222/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fe%2F2
-[/us/pl/103/465/s222/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Ff
-[/us/pl/103/465/s270/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fe
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fa
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s222/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fg%2F2
-[/us/pl/103/465/s233/a/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F3%2FA%2Fiii
-[/us/pl/103/465/s233/a/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F3%2FA%2Fiii
-[/us/pl/103/465/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs221%2Fb
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
-[/us/pl/103/465/s222/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fi%2F2
-[/us/pl/103/465/s222/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fh
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1677b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677b%2Fb%2F1
 [/us/usc/t19/s1677b/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677b%2Ff%2F2
-[/us/pl/103/465/s233/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F4
-[/us/pl/103/465/s233/a/5/DD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FDD
-[/us/pl/103/465/s233/a/5/EE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FEE
-[/us/pl/103/465/s233/a/5/FF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs233%2Fa%2F5%2FFF
-[/us/pl/103/465/s222/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fd%2F2
-[/us/pl/103/465/s222/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs222%2Fi%2F1
-[/us/pl/103/465/s229/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs229%2Fb
-[/us/pl/103/465/s267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs267
-[/us/pl/103/182/s412/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fb%2F1
-[/us/pl/103/182/s412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fb%2F2
-[/us/pl/103/182/s637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs637%2Fb
-[/us/pl/101/382/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs224%2Fa
-[/us/pl/101/382/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs224%2Fb
-[/us/pl/101/382/s139/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs139%2Fa%2F3
-[/us/pl/100/418/s1326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1326%2Fa
-[/us/pl/100/418/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1312
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
-[/us/pl/100/418/s1328/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1328%2F1
-[/us/pl/100/418/s1328/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1328%2F2
-[/us/pl/100/418/s1330/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1330%2Fb
-[/us/pl/100/418/s1326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1326%2Fb
-[/us/pl/100/418/s1329/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1329%2F1
-[/us/pl/100/418/s1329/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1329%2F4
-[/us/pl/100/418/s1330/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1330%2Fa
-[/us/pl/100/418/s1326/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1326%2Fc
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
-[/us/pl/100/418/s1316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1316%2Fb
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/418/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1335
-[/us/pl/100/418/s1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1327
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/573/s612/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs612%2Fa%2F1
-[/us/pl/98/623/s612/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs612%2Fa%2F2%2FA
-[/us/pl/98/573/s612/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs612%2Fa%2F2%2FB
-[/us/pl/98/573/s612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs612%2Fa%2F3
-[/us/pl/98/573/s612/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs612%2Fa%2F4
-[/us/pl/98/573/s612/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs612%2Fa%2F5
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
@@ -1271,7 +1279,7 @@
 [/us/usc/t19/s1516a/a/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a%2Fa%2F2%2FB%2Fvi
 [/us/pl/103/182/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs416
 [/us/usc/t19/s3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3431
-[/us/pl/101/382/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs224%2Fc
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F660
 [/us/usc/t19/s1671a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671a
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

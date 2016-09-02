@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 650, [46 Stat. 762][/us/stat/46/762], is set out as a part of [section 2072 of this title][/us/usc/t19/s2072].
+    Section, [act June 17, 1930, ch. 497, title IV][/us/act/1930-06-17/ch497/tIV], § 650, [46 Stat. 762][/us/stat/46/762], is set out as a part of [section 2072 of this title][/us/usc/t19/s2072].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIV
 [/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
 [/us/usc/t19/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2072
 

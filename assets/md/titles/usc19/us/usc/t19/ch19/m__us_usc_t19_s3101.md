@@ -59,11 +59,11 @@
 
         (5) to achieve a more open world trading system for telecommunications products and services through negotiation and provision of mutually advantageous market opportunities for United States telecommunications exporters and their subsidiaries in those markets in which barriers exist to free international trade.
 
-([Pub. L. 100–418, title I, § 1372][/us/pl/100/418/s1372], Aug. 23, 1988, [102 Stat. 1216][/us/stat/102/1216].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1372, Aug. 23, 1988, [102 Stat. 1216][/us/stat/102/1216].)
 
  __Short Title__ 
 
-[Pub. L. 100–418, title I, § 1371][/us/pl/100/418/s1371], Aug. 23, 1988, [102 Stat. 1216][/us/stat/102/1216], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1371, Aug. 23, 1988, [102 Stat. 1216][/us/stat/102/1216], provided that: 
 
 > “This part \[part 4 (§§ 1371–1382) of subtitle C of title I of [Pub. L. 100–418][/us/pl/100/418], enacting this chapter\] may be cited as the ‘Telecommunications Trade Act of 1988’.”
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1372
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1216
-[/us/pl/100/418/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1371
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1216
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 

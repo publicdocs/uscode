@@ -27,7 +27,7 @@
 
         (2) the President determines that the waiver is in the national interests of the United States, and reports such determination to the appropriate congressional committees, together with the reasons therefor.
 
-([Pub. L. 108–19, § 4][/us/pl/108/19/s4], Apr. 25, 2003, [117 Stat. 633][/us/stat/117/633].)
+([Pub. L. 108–19][/us/pl/108/19], § 4, Apr. 25, 2003, [117 Stat. 633][/us/stat/117/633].)
 
  __Delegation of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs4
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F633
 [/us/usc/t19/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3901
 

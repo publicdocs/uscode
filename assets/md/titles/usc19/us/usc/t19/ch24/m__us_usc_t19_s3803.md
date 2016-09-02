@@ -205,23 +205,23 @@
 
         In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the principal negotiating objectives set forth in [section 3802(b) of this title][/us/usc/t19/s3802/b].
 
-([Pub. L. 107–210, div. B, title XXI, § 2103][/us/pl/107/210/s2103], Aug. 6, 2002, [116 Stat. 1004][/us/stat/116/1004]; [Pub. L. 108–429, title II, § 2004(a)(17)][/us/pl/108/429/s2004/a/17], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2103, Aug. 6, 2002, [116 Stat. 1004][/us/stat/116/1004]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(a)(17), Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
 
  __References in Text__ 
 
-    The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (c)(5)(A), is title XXI of [Pub. L. 107–210, div. B][/us/pl/107/210], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993], which is classified principally to this chapter. Section 2103 of the Act is classified to this section. For complete classification of title XXI to the Code, see [section 3801(a) of this title][/us/usc/t19/s3801/a] and Tables.
+    The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (c)(5)(A), is title XXI of [Pub. L. 107–210, div. B][/us/pl/107/210/dB], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993], which is classified principally to this chapter. Section 2103 of the Act is classified to this section. For complete classification of title XXI to the Code, see [section 3801(a) of this title][/us/usc/t19/s3801/a] and Tables.
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1)(A). [Pub. L. 108–429, § 2004(a)(17)(A)][/us/pl/108/429/s2004/a/17/A], substituted “July 1” for “June 1” in two places.
+    2004—Subsec. (a)(1)(A). [Pub. L. 108–429][/us/pl/108/429], § 2004(a)(17)(A), substituted “July 1” for “June 1” in two places.
 
-    Subsec. (b)(1)(C). [Pub. L. 108–429, § 2004(a)(17)(B)][/us/pl/108/429/s2004/a/17/B], substituted “July 1” for “June 1” in two places.
+    Subsec. (b)(1)(C). [Pub. L. 108–429][/us/pl/108/429], § 2004(a)(17)(B), substituted “July 1” for “June 1” in two places.
 
-    Subsec. (c)(1)(B)(ii). [Pub. L. 108–429, § 2004(a)(17)(C)(i)][/us/pl/108/429/s2004/a/17/C/i], substituted “July 1” for “June 1”.
+    Subsec. (c)(1)(B)(ii). [Pub. L. 108–429][/us/pl/108/429], § 2004(a)(17)(C)(i), substituted “July 1” for “June 1”.
 
-    Subsec. (c)(2). [Pub. L. 108–429, § 2004(a)(17)(C)(ii)][/us/pl/108/429/s2004/a/17/C/ii], substituted “April 1” for “March 1” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 108–429][/us/pl/108/429], § 2004(a)(17)(C)(ii), substituted “April 1” for “March 1” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 108–429, § 2004(a)(17)(C)(iii)][/us/pl/108/429/s2004/a/17/C/iii], substituted “June 1” for “May 1” in two places.
+    Subsec. (c)(3). [Pub. L. 108–429][/us/pl/108/429], § 2004(a)(17)(C)(iii), substituted “June 1” for “May 1” in two places.
 
  __Delegation of Functions__ 
 
@@ -244,18 +244,18 @@
 [/us/usc/t19/s3805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fb
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s3802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3802%2Fb
-[/us/pl/107/210/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2103
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1004
-[/us/pl/108/429/s2004/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F17
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2591
-[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB
 [/us/stat/116/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F993
 [/us/usc/t19/s3801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801%2Fa
-[/us/pl/108/429/s2004/a/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F17%2FA
-[/us/pl/108/429/s2004/a/17/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F17%2FB
-[/us/pl/108/429/s2004/a/17/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F17%2FC%2Fi
-[/us/pl/108/429/s2004/a/17/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F17%2FC%2Fii
-[/us/pl/108/429/s2004/a/17/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F17%2FC%2Fiii
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/usc/t19/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801
 
 

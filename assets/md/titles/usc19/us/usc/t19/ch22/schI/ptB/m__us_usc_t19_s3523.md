@@ -21,7 +21,7 @@
 
     (2) shall take such actions as are necessary to reflect such tariff treatment in Schedule XX.
 
-([Pub. L. 103–465, title I, § 114(b)][/us/pl/103/465/s114/b], Dec. 8, 1994, [108 Stat. 4827][/us/stat/108/4827].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 114(b), Dec. 8, 1994, [108 Stat. 4827][/us/stat/108/4827].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t19/s3513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3513%2Fa
-[/us/pl/103/465/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs114%2Fb
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4827
 
 

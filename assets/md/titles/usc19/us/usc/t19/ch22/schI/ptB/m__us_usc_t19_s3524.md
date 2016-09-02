@@ -37,7 +37,7 @@
 
     (4) the President has consulted with such committees regarding the proposed action during the period referred to in paragraph (3).
 
-([Pub. L. 103–465, title I, § 115][/us/pl/103/465/s115], Dec. 8, 1994, [108 Stat. 4828][/us/stat/108/4828].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 115, Dec. 8, 1994, [108 Stat. 4828][/us/stat/108/4828].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/103/465/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs115
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4828
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/stat/108/4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4809

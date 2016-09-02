@@ -17,19 +17,19 @@
 
     Advances pursuant to this Act, in connection with the enforcement of the customs laws may be made, notwithstanding the provisions of section 3324(a) and (b) of title 31, from the appropriations available for the enforcement of such laws. The Secretary of the Treasury is authorized to prescribe such rules and regulations concerning advances made pursuant to this Act as are necessary or appropriate for the protection of the interests of the United States.
 
-([Mar. 28, 1928, ch. 266, § 5][/us/act/1928-03-28/ch266/s5], as added [Aug. 7, 1939, ch. 566, § 1][/us/act/1939-08-07/ch566/s1], [53 Stat. 1263][/us/stat/53/1263]; amended [Pub. L. 91–513, title III, § 1102(n)(4)][/us/pl/91/513/s1102/n/4], Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293].)
+([Mar. 28, 1928, ch. 266][/us/act/1928-03-28/ch266], § 5, as added [Aug. 7, 1939, ch. 566][/us/act/1939-08-07/ch566], § 1, [53 Stat. 1263][/us/stat/53/1263]; amended [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(n)(4), Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293].)
 
  __References in Text__ 
 
     This Act, referred to in text, is [act Mar. 28, 1928, ch. 266][/us/act/1928-03-28/ch266], [45 Stat. 374][/us/stat/45/374], which enacted sections 2077 to 2080 of this title and sections 529a and 529g of former Title 31, Money and Finance.
 
-    Sections 529a and 529g of former Title 31 were repealed by sections 1101(a)(3) and 1101(a)(6), respectively, of [Pub. L. 91–513, title III][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1291][/us/stat/84/1291], 1292.
+    Sections 529a and 529g of former Title 31 were repealed by sections 1101(a)(3) and 1101(a)(6), respectively, of [Pub. L. 91–513, title III][/us/pl/91/513/tIII], Oct. 27, 1970, [84 Stat. 1291][/us/stat/84/1291], 1292.
 
  __Codification__ 
 
-    “Section 3324(a) and (b) of title 31” substituted in text for “section 3648 of the Revised Statutes of the United States (U.S.C., title 31, sec. 529)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “Section 3324(a) and (b) of title 31” substituted in text for “section 3648 of the Revised Statutes of the United States (U.S.C., title 31, sec. 529)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    Section was formerly classified to [section 529f of Title 31][/us/usc/t31/s529f] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 529f of Title 31][/us/usc/t31/s529f] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
@@ -50,19 +50,19 @@
 ----------
 ----------
 
-[/us/act/1928-03-28/ch266/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-28%2Fch266%2Fs5
-[/us/act/1939-08-07/ch566/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch566%2Fs1
+[/us/act/1928-03-28/ch266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-28%2Fch266
+[/us/act/1939-08-07/ch566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch566
 [/us/stat/53/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1263
-[/us/pl/91/513/s1102/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fn%2F4
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1293
 [/us/act/1928-03-28/ch266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-28%2Fch266
 [/us/stat/45/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F374
-[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1291
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t31/s529f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529f
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513

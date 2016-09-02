@@ -27,7 +27,7 @@
 
         The authority of the President to enter into foreign trade agreements under [section 1351 of this title][/us/usc/t19/s1351] shall terminate on June 30, 1958.
 
-([June 12, 1934, ch. 474, § 2][/us/act/1934-06-12/ch474/s2], [48 Stat. 944][/us/stat/48/944]; [Mar. 1, 1937, ch. 22][/us/act/1937-03-01/ch22], [50 Stat. 24][/us/stat/50/24]; [Apr. 12, 1940, ch. 96][/us/act/1940-04-12/ch96], [54 Stat. 107][/us/stat/54/107]; [June 7, 1943, ch. 118, § 1][/us/act/1943-06-07/ch118/s1], [57 Stat. 125][/us/stat/57/125]; [July 5, 1945, ch. 269, § 1][/us/act/1945-07-05/ch269/s1], [59 Stat. 410][/us/stat/59/410]; [Sept. 26, 1949, ch. 585, § 3][/us/act/1949-09-26/ch585/s3], [63 Stat. 698][/us/stat/63/698]; [June 16, 1951, ch. 141][/us/act/1951-06-16/ch141], §§ 2, 9(a), [65 Stat. 72][/us/stat/65/72], 75; [Aug. 7, 1953, ch. 348][/us/act/1953-08-07/ch348], title I, § 101, [67 Stat. 472][/us/stat/67/472]; [July 1, 1954, ch. 445, § 1][/us/act/1954-07-01/ch445/s1], [68 Stat. 360][/us/stat/68/360]; [June 21, 1955, ch. 169, § 2][/us/act/1955-06-21/ch169/s2], [69 Stat. 162][/us/stat/69/162]; [Pub. L. 87–794, title II, § 257(d)][/us/pl/87/794/s257/d], Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882]; [Pub. L. 93–618, title VI, § 602(a)][/us/pl/93/618/s602/a], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]; [Pub. L. 96–39, title XI, § 1106(h)(2)][/us/pl/96/39/s1106/h/2], July 26, 1979, [93 Stat. 313][/us/stat/93/313].)
+([June 12, 1934, ch. 474][/us/act/1934-06-12/ch474], § 2, [48 Stat. 944][/us/stat/48/944]; [Mar. 1, 1937, ch. 22][/us/act/1937-03-01/ch22], [50 Stat. 24][/us/stat/50/24]; [Apr. 12, 1940, ch. 96][/us/act/1940-04-12/ch96], [54 Stat. 107][/us/stat/54/107]; [June 7, 1943, ch. 118][/us/act/1943-06-07/ch118], § 1, [57 Stat. 125][/us/stat/57/125]; [July 5, 1945, ch. 269][/us/act/1945-07-05/ch269], § 1, [59 Stat. 410][/us/stat/59/410]; [Sept. 26, 1949, ch. 585][/us/act/1949-09-26/ch585], § 3, [63 Stat. 698][/us/stat/63/698]; [June 16, 1951, ch. 141][/us/act/1951-06-16/ch141], §§ 2, 9(a), [65 Stat. 72][/us/stat/65/72], 75; [Aug. 7, 1953, ch. 348][/us/act/1953-08-07/ch348], title I, § 101, [67 Stat. 472][/us/stat/67/472]; [July 1, 1954, ch. 445][/us/act/1954-07-01/ch445], § 1, [68 Stat. 360][/us/stat/68/360]; [June 21, 1955, ch. 169][/us/act/1955-06-21/ch169], § 2, [69 Stat. 162][/us/stat/69/162]; [Pub. L. 87–794, title II][/us/pl/87/794/tII], § 257(d), Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882]; [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(a), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(h)(2), July 26, 1979, [93 Stat. 313][/us/stat/93/313].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39] amended directory language of [Pub. L. 93–618, § 602(a)][/us/pl/93/618/s602/a], to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
+    1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39] amended directory language of [Pub. L. 93–618][/us/pl/93/618], § 602(a), to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
 
     1975—Subsec. (a). [Pub. L. 93–618][/us/pl/93/618], as amended by [Pub. L. 96–39][/us/pl/96/39], inserted reference to the Trade Act of 1974.
 
@@ -65,13 +65,13 @@
 
  __Repeals__ 
 
-    Act Sept. 26, 1949, § 2, repealed [act June 26, 1948, ch. 678, § 2][/us/act/1948-06-26/ch678/s2], [62 Stat. 1053][/us/stat/62/1053], which had extended the President’s authority from June 12, 1948, until the close of June 30, 1949.
+    Act Sept. 26, 1949, § 2, repealed [act June 26, 1948, ch. 678][/us/act/1948-06-26/ch678], § 2, [62 Stat. 1053][/us/stat/62/1053], which had extended the President’s authority from June 12, 1948, until the close of June 30, 1949.
 
  __Extension of Presidential Authority__ 
 
-    [Pub. L. 87–794, title II, § 257(c)][/us/pl/87/794/s257/c], Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882], extended authority of President to enter into foreign trade agreements under section 350 of the Tariff Act of 1930 ([section 1351 of this title][/us/usc/t19/s1351]) from close of June 30, 1962, until close of Dec. 31, 1962.
+    [Pub. L. 87–794, title II][/us/pl/87/794/tII], § 257(c), Oct. 11, 1962, [76 Stat. 882][/us/stat/76/882], extended authority of President to enter into foreign trade agreements under section 350 of the Tariff Act of 1930 ([section 1351 of this title][/us/usc/t19/s1351]) from close of June 30, 1962, until close of Dec. 31, 1962.
 
-    [Pub. L. 85–686, § 2][/us/pl/85/686/s2], Aug. 20, 1958, [72 Stat. 673][/us/stat/72/673], extended authority of President to enter into foreign trade agreements under section 350 of the Tariff Act of 1930 ([section 1351 of this title][/us/usc/t19/s1351]) from close of June 30, 1958, until close of June 30, 1962.
+    [Pub. L. 85–686][/us/pl/85/686], § 2, Aug. 20, 1958, [72 Stat. 673][/us/stat/72/673], extended authority of President to enter into foreign trade agreements under section 350 of the Tariff Act of 1930 ([section 1351 of this title][/us/usc/t19/s1351]) from close of June 30, 1958, until close of June 30, 1962.
 
 ----------
 
@@ -85,31 +85,31 @@
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 [/us/usc/t19/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1311
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
-[/us/act/1934-06-12/ch474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-12%2Fch474%2Fs2
+[/us/act/1934-06-12/ch474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-12%2Fch474
 [/us/stat/48/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F944
 [/us/act/1937-03-01/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-01%2Fch22
 [/us/stat/50/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F24
 [/us/act/1940-04-12/ch96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-04-12%2Fch96
 [/us/stat/54/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F107
-[/us/act/1943-06-07/ch118/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-07%2Fch118%2Fs1
+[/us/act/1943-06-07/ch118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-07%2Fch118
 [/us/stat/57/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F125
-[/us/act/1945-07-05/ch269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-05%2Fch269%2Fs1
+[/us/act/1945-07-05/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-05%2Fch269
 [/us/stat/59/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F410
-[/us/act/1949-09-26/ch585/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-26%2Fch585%2Fs3
+[/us/act/1949-09-26/ch585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-26%2Fch585
 [/us/stat/63/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F698
 [/us/act/1951-06-16/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-16%2Fch141
 [/us/stat/65/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F72
 [/us/act/1953-08-07/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch348
 [/us/stat/67/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F472
-[/us/act/1954-07-01/ch445/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-01%2Fch445%2Fs1
+[/us/act/1954-07-01/ch445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-01%2Fch445
 [/us/stat/68/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F360
-[/us/act/1955-06-21/ch169/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch169%2Fs2
+[/us/act/1955-06-21/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-21%2Fch169
 [/us/stat/69/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F162
-[/us/pl/87/794/s257/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fd
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F882
-[/us/pl/93/618/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fa
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/96/39/s1106/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fh%2F2
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F313
 [/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
 [/us/stat/76/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F872
@@ -118,17 +118,17 @@
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
-[/us/pl/93/618/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fa
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/87/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794
 [/us/usc/t19/s1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1336
-[/us/act/1948-06-26/ch678/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-26%2Fch678%2Fs2
+[/us/act/1948-06-26/ch678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-26%2Fch678
 [/us/stat/62/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1053
-[/us/pl/87/794/s257/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs257%2Fc
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F882
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
-[/us/pl/85/686/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs2
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
 [/us/stat/72/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F673
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
 

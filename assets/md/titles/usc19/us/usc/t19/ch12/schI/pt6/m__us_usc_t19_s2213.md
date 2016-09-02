@@ -47,9 +47,19 @@
 
             (I) each of the referrals made under [section 2171(d)(1)(B) of this title][/us/usc/t19/s2171/d/1/B] and any action taken with respect to such referral;
 
-            (J) other information relating to the trade agreements program and to the agreements entered into thereunder; and
+            (J) other information relating to the trade agreements program and to the agreements entered into thereunder;
 
-            (K) the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications.
+            (K) the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications; and
+
+            (L)
+
+             the operation of the Interagency Center on Trade Implementation, Monitoring, and Enforcement established under [section 2171(h) of this title][/us/usc/t19/s2171/h], including—
+
+                (i) information relating to the personnel of the Center, including a description of any employees detailed or assigned to the Center by a Federal agency under paragraph (3)(B) of such section;
+
+                (ii) information relating to the functions of the Center; and
+
+                (iii) an assessment of the operating costs of the Center.
 
         (3)
 
@@ -121,7 +131,41 @@
 
         The United States International Trade Commission shall submit to the Congress, at least once a year, a factual report on the operation of the trade agreements program.
 
-([Pub. L. 93–618, title I, § 163][/us/pl/93/618/s163], Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009]; [Pub. L. 100–418, title I, § 1641][/us/pl/100/418/s1641], Aug. 23, 1988, [102 Stat. 1271][/us/stat/102/1271].)
+    (d) __Quadrennial plan and report__ 
+
+        (1) __Quadrennial plan__ 
+
+        Pursuant to the goals and objectives of the strategic plan of the Office of the United States Trade Representative as required under [section 306 of title 5][/us/usc/t5/s306], the Trade Representative shall, every 4 years, develop a plan—
+
+            (A) to analyze internal quality controls and record management of the Office;
+
+            (B) to identify existing staff of the Office and new staff that will be necessary to support the trade negotiation and enforcement functions and powers of the Office (including those functions and powers of the Trade Policy Staff Committee) as described in [section 2171 of this title][/us/usc/t19/s2171] and [section 2411 of this title][/us/usc/t19/s2411];
+
+            (C) to identify existing staff of the Office and staff in other Federal agencies who will be required to be detailed or assigned to support interagency programs led by the Trade Representative, including any associated expenses;
+
+            (D) to provide an outline of budget justifications, including salaries and expenses as well as nonpersonnel administrative expenses, for the fiscal years required under the strategic plan; and
+
+            (E) to provide an outline of budget justifications, including salaries and expenses as well as nonpersonnel administrative expenses, for interagency programs led by the Trade Representative for the fiscal years required under the strategic plan.
+
+        (2) __Report__ 
+
+            (A) __In general__ 
+
+                The Trade Representative shall submit to the appropriate congressional committees a report that contains the plan required under paragraph (1). Except as provided in subparagraph (B), the report required under this subparagraph shall be submitted in conjunction with the strategic plan of the Office as required under [section 306 of title 5][/us/usc/t5/s306].
+
+            (B) __Exception__ 
+
+                The Trade Representative shall submit to the appropriate congressional committees an initial report that contains the plan required under paragraph (1) not later than June 1, 2016.
+
+            (C) __Appropriate congressional committees defined__ 
+
+            In this paragraph, the term “appropriate congressional committees” means—
+
+                (i) the Committee on Finance and the Committee on Appropriations of the Senate; and
+
+                (ii) the Committee on Ways and Means and the Committee on Appropriations of the House of Representatives.
+
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 163, Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1641, Aug. 23, 1988, [102 Stat. 1271][/us/stat/102/1271]; [Pub. L. 114–125, title VI][/us/pl/114/125/tVI], § 604(c), Feb. 24, 2016, [130 Stat. 186][/us/stat/130/186].)
 
  __References in Text__ 
 
@@ -129,11 +173,15 @@
 
  __Amendments__ 
 
+    2016—Subsec. (a)(2)(L). [Pub. L. 114–125][/us/pl/114/125], § 604(c)(1), added subpar. (L).
+
+    Subsec. (d). [Pub. L. 114–125][/us/pl/114/125], § 604(c)(2), added subsec. (d).
+
     1988—[Pub. L. 100–418][/us/pl/100/418] amended section generally, completely revising and expanding provisions covering reports, changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
 
  __Trade Deficit Review Commission__ 
 
-[Pub. L. 105–277, div. A, § 127][/us/pl/105/277/s127], Oct. 21, 1998, [112 Stat. 2681–547][/us/stat/112/2681-547], as amended by [Pub. L. 106–57, title III, § 311][/us/pl/106/57/s311], Sept. 29, 1999, [113 Stat. 427][/us/stat/113/427]; [Pub. L. 106–246, div. B, title II, § 2501][/us/pl/106/246/s2501], July 13, 2000, [114 Stat. 556][/us/stat/114/556]; [Pub. L. 107–107, div. A, title X, § 1048(i)(10)][/us/pl/107/107/s1048/i/10], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 127, Oct. 21, 1998, [112 Stat. 2681–547][/us/stat/112/2681-547], as amended by [Pub. L. 106–57, title III][/us/pl/106/57/tIII], § 311, Sept. 29, 1999, [113 Stat. 427][/us/stat/113/427]; [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2501, July 13, 2000, [114 Stat. 556][/us/stat/114/556]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(i)(10), Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -389,22 +437,31 @@
 ----------
 
 [/us/usc/t19/s2171/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171%2Fd%2F1%2FB
+[/us/usc/t19/s2171/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171%2Fh
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/93/618/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs163
+[/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
+[/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
+[/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
+[/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
-[/us/pl/100/418/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1641
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1271
+[/us/pl/114/125/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVI
+[/us/stat/130/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F186
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/105/277/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs127
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-547
-[/us/pl/106/57/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs311
+[/us/pl/106/57/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtIII
 [/us/stat/113/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F427
-[/us/pl/106/246/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2501
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F556
-[/us/pl/107/107/s1048/i/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fi%2F10
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1229
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb

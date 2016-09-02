@@ -41,9 +41,13 @@
 
         (11) to recognize the growing significance of the Internet as a trading platform in international commerce;
 
-        (12) to take into account other legitimate United States domestic objectives, including, but not limited to, the protection of legitimate health or safety, essential security, and consumer interests and the law and regulations related thereto; and
+        (12) to take into account other legitimate United States domestic objectives, including, but not limited to, the protection of legitimate health or safety, essential security, and consumer interests and the law and regulations related thereto;
 
-        (13) to take into account conditions relating to religious freedom of any party to negotiations for a trade agreement with the United States.
+        (13) to take into account conditions relating to religious freedom of any party to negotiations for a trade agreement with the United States;
+
+        (14) to ensure that trade agreements do not require changes to the immigration laws of the United States or obligate the United States to grant access or expand access to visas issued under [section 1101(a)(15) of title 8][/us/usc/t8/s1101/a/15]; and
+
+        (15) to ensure that trade agreements do not establish obligations for the United States regarding greenhouse gas emissions measures, including obligations that require changes to United States laws or regulations or that would affect the implementation of such laws or regulations, other than those fulfilling the other negotiating objectives in this section.
 
     (b) __Principal trade negotiating objectives__ 
 
@@ -447,6 +451,18 @@
 
             The principal negotiating objectives of the United States with respect to ensuring implementation of trade commitments and obligations by strengthening good governance, transparency, the effective operation of legal regimes and the rule of law of trading partners of the United States is through capacity building and other appropriate means, which are important parts of the broader effort to create more open democratic societies and to promote respect for internationally recognized human rights.
 
+        (22) __Fisheries negotiations__ 
+
+        The principal negotiating objectives of the United States with respect to trade in fish, seafood, and shellfish products are—
+
+            (A) to obtain competitive opportunities for United States exports of fish, seafood, and shellfish products in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports of fish, seafood, and shellfish products in United States markets and to achieve fairer and more open conditions of trade in fish, seafood, and shellfish products, including by reducing or eliminating tariff and nontariff barriers;
+
+            (B) to eliminate fisheries subsidies that distort trade, including subsidies of the type referred to in paragraph 9 of Annex D to the Ministerial Declaration adopted by the World Trade Organization at the Sixth Ministerial Conference at Hong Kong, China on December 18, 2005;
+
+            (C) to pursue transparency in fisheries subsidies programs; and
+
+            (D) to address illegal, unreported, and unregulated fishing.
+
     (c) __Capacity building and other priorities__ 
 
     In order to address and maintain United States competitiveness in the global economy, the President shall—
@@ -465,15 +481,29 @@
 
         (4) submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on capacity-building activities undertaken in connection with trade agreements negotiated or being negotiated pursuant to this chapter.
 
-([Pub. L. 114–26, title I, § 102][/us/pl/114/26/s102], June 29, 2015, [129 Stat. 320][/us/stat/129/320].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 102, June 29, 2015, [129 Stat. 320][/us/stat/129/320]; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 914(a)–(c), Feb. 24, 2016, [130 Stat. 273][/us/stat/130/273].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (c)(4), was in the original “this title”, meaning title I of [Pub. L. 114–26][/us/pl/114/26], June 29, 2015, [129 Stat. 320][/us/stat/129/320], which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
+ __Amendments__ 
+
+    2016—Subsec. (a)(14). [Pub. L. 114–125][/us/pl/114/125], § 914(a), added par. (14).
+
+    Subsec. (a)(15). [Pub. L. 114–125][/us/pl/114/125], § 914(b), added par. (15).
+
+    Subsec. (b)(22). [Pub. L. 114–125][/us/pl/114/125], § 914(c), added par. (22).
+
+ __Effective Date of 2016 Amendment__ 
+
+[Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 914(g), Feb. 24, 2016, [130 Stat. 276][/us/stat/130/276], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 4203 to 4205 of this title\] shall take effect as if included in the enactment of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (\[title I of\] [Public Law 114–26][/us/pl/114/26]; [129 Stat. 320][/us/stat/129/320]; [19 U.S.C. 4201][/us/usc/t19/s4201] et seq.).”
+
  __Short Title__ 
 
-[Pub. L. 114–26, title I, § 101][/us/pl/114/26/s101], June 29, 2015, [129 Stat. 320][/us/stat/129/320], provided that: 
+[Pub. L. 114–26, title I][/us/pl/114/26/tI], § 101, June 29, 2015, [129 Stat. 320][/us/stat/129/320], provided that: 
 
 > “This title \[enacting this chapter and amending sections 2151 to 2155, 2171, 2191, and 2212 of this title\] may be cited as the ‘Bipartisan Congressional Trade Priorities and Accountability Act of 2015’.”
 
@@ -530,6 +560,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s4210/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4210%2F7
+[/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t19/s3521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3521%2Fb
 [/us/usc/t19/s3511/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F3
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
@@ -539,11 +570,21 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t19/s4210/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4210%2F6
 [/us/usc/t19/s4210/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4210%2F7
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
-[/us/pl/114/26/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs102
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F273
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320
-[/us/pl/114/26/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs101
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F276
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
+[/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320
+[/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

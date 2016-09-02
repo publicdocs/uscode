@@ -27,7 +27,7 @@
 
         (B) was stolen from such institution after the effective date of this chapter, or after the date of entry into force of the Convention for the State Party concerned, whichever date is later.
 
-([Pub. L. 97–446, title III, § 311][/us/pl/97/446/s311], Jan. 12, 1983, [96 Stat. 2361][/us/stat/96/2361].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 311, Jan. 12, 1983, [96 Stat. 2361][/us/stat/96/2361].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t19/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2606
 [/us/usc/t19/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2604
 [/us/usc/t19/s2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2607
-[/us/pl/97/446/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs311
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2361
 [/us/pl/97/446/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs315
 [/us/usc/t19/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2601

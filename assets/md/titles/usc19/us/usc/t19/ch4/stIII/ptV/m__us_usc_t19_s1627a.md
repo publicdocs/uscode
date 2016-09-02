@@ -49,13 +49,13 @@
 
         Customs officers may cooperate and exchange information concerning motor vehicles, off-highway mobile equipment, vessels, or aircraft, either before exportation or after exportation or importation, with such Federal, State, local, and foreign law enforcement or governmental authorities, and with such organizations engaged in theft prevention activities, as may be designated by the Secretary.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 627, as added [Pub. L. 98–573, title II, § 205][/us/pl/98/573/s205], Oct. 30, 1984, [98 Stat. 2974][/us/stat/98/2974].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 627, as added [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 205, Oct. 30, 1984, [98 Stat. 2974][/us/stat/98/2974].)
 
  __Codification__ 
 
-    In subsec. (c)(2), “[section 40102(a)(6) of title 49][/us/usc/t49/s40102/a/6]” substituted for “section 101(5) of the Federal Aviation Act of 1958 ([49 U.S.C. 1301(5)][/us/usc/t49/s1301/5])” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (c)(2), “[section 40102(a)(6) of title 49][/us/usc/t49/s40102/a/6]” substituted for “section 101(5) of the Federal Aviation Act of 1958 ([49 U.S.C. 1301(5)][/us/usc/t49/s1301/5])” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-    Another section 627 of act June 17, 1930, as added by [Pub. L. 98–547, title III, § 302][/us/pl/98/547/s302], Oct. 25, 1984, [98 Stat. 2771][/us/stat/98/2771], was classified to [section 1627 of this title][/us/usc/t19/s1627] and subsequently repealed.
+    Another section 627 of act June 17, 1930, as added by [Pub. L. 98–547, title III][/us/pl/98/547/tIII], § 302, Oct. 25, 1984, [98 Stat. 2771][/us/stat/98/2771], was classified to [section 1627 of this title][/us/usc/t19/s1627] and subsequently repealed.
 
  __Effective Date__ 
 
@@ -70,13 +70,13 @@
 
 [/us/usc/t49/s40102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa%2F6
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/98/573/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs205
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2974
 [/us/usc/t49/s40102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa%2F6
 [/us/usc/t49/s1301/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301%2F5
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
-[/us/pl/98/547/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2Fs302
+[/us/pl/98/547/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2FtIII
 [/us/stat/98/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2771
 [/us/usc/t19/s1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1627
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573

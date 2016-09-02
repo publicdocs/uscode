@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe such rules and regulations as are necessary and appropriate to carry out the provisions of this chapter.
 
-([Pub. L. 92–587, title II, § 204][/us/pl/92/587/s204], Oct. 27, 1972, [86 Stat. 1297][/us/stat/86/1297].)
+([Pub. L. 92–587, title II][/us/pl/92/587/tII], § 204, Oct. 27, 1972, [86 Stat. 1297][/us/stat/86/1297].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/587/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2Fs204
+[/us/pl/92/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F587%2FtII
 [/us/stat/86/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1297
 
 

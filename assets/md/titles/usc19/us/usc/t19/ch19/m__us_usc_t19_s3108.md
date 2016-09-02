@@ -45,7 +45,7 @@
 
         Before the President takes any action under [section 3104(b)(2)(A) of this title][/us/usc/t19/s3104/b/2/A] to refine or modify specific negotiating objectives, the President shall consult with the Congress and with members of the industry, and representatives of labor, affected by the proposed refinement or modification.
 
-([Pub. L. 100–418, title I, § 1379][/us/pl/100/418/s1379], Aug. 23, 1988, [102 Stat. 1223][/us/stat/102/1223].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1379, Aug. 23, 1988, [102 Stat. 1223][/us/stat/102/1223].)
 
 ----------
 
@@ -64,7 +64,7 @@
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3104
 [/us/usc/t19/s3104/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3104%2Fb%2F2%2FA
-[/us/pl/100/418/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1379
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1223
 
 

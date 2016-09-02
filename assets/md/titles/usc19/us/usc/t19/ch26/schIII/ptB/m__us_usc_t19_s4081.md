@@ -23,7 +23,7 @@
 
         If the President determines that the request under subsection (a) provides the information necessary for the request to be considered, the President shall cause to be published in the Federal Register a notice of commencement of consideration of the request, and notice seeking public comments regarding the request. The notice shall include a summary of the request and the dates by which comments and rebuttals must be received.
 
-([Pub. L. 109–53, title III, § 321][/us/pl/109/53/s321], Aug. 2, 2005, [119 Stat. 492][/us/stat/119/492].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 321, Aug. 2, 2005, [119 Stat. 492][/us/stat/119/492].)
 
  __Termination of Section__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/53/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs321
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F492
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

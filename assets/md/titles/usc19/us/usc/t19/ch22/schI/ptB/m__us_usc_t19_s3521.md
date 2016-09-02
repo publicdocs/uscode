@@ -3009,11 +3009,11 @@
 
             (B) after December 8, 1994, as a result of a staged reduction in such column 1 rates of duty.
 
-([Pub. L. 103–465, title I, § 111][/us/pl/103/465/s111], Dec. 8, 1994, [108 Stat. 4819][/us/stat/108/4819].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 111, Dec. 8, 1994, [108 Stat. 4819][/us/stat/108/4819].)
 
  __Effective Date__ 
 
-[Pub. L. 103–465, title I, § 116][/us/pl/103/465/s116], Dec. 8, 1994, [108 Stat. 4828][/us/stat/108/4828], provided that:
+[Pub. L. 103–465, title I][/us/pl/103/465/tI], § 116, Dec. 8, 1994, [108 Stat. 4828][/us/stat/108/4828], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -3038,9 +3038,9 @@
 [/us/usc/t19/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3524
 [/us/usc/t19/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1881
 [/us/usc/t19/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3524
-[/us/pl/103/465/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs111
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4819
-[/us/pl/103/465/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs116
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4828
 [/us/stat/108/4827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4827
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

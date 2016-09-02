@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1983—[Pub. L. 97–456, § 3(d)(3)][/us/pl/97/456/s3/d/3], Jan. 12, 1983, [96 Stat. 2505][/us/stat/96/2505], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in part 4 heading.
+    1983—[Pub. L. 97–456][/us/pl/97/456], § 3(d)(3), Jan. 12, 1983, [96 Stat. 2505][/us/stat/96/2505], substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in part 4 heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/456/s3/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456%2Fs3%2Fd%2F3
+[/us/pl/97/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F456
 [/us/stat/96/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2505
 
 

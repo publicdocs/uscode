@@ -53,15 +53,15 @@
 
             The definitions in [section 2575b of this title][/us/usc/t19/s2575b] apply for purposes of this subsection.
 
-([Pub. L. 96–39, title IV, § 414][/us/pl/96/39/s414], July 26, 1979, [93 Stat. 245][/us/stat/93/245]; [Pub. L. 103–465, title III, § 351(d)][/us/pl/103/465/s351/d], title IV, § 431(a), Dec. 8, 1994, [108 Stat. 4956][/us/stat/108/4956], 4966; [Pub. L. 104–295, § 20(c)(15)][/us/pl/104/295/s20/c/15], Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 414, July 26, 1979, [93 Stat. 245][/us/stat/93/245]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 351(d), title IV, § 431(a), Dec. 8, 1994, [108 Stat. 4956][/us/stat/108/4956], 4966; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(15), Oct. 11, 1996, [110 Stat. 3529][/us/stat/110/3529].)
 
  __Amendments__ 
 
     1996—Subsec. (b)(1). [Pub. L. 104–295][/us/pl/104/295] struck out comma after “procedures,” in two places.
 
-    1994—Subsec. (b)(1). [Pub. L. 103–465, § 351(d)][/us/pl/103/465/s351/d], inserted “(A)” after “relating to”, substituted “technical regulations, conformity assessment procedures,” for “certification systems” and “such standards, technical regulations, conformity assessment procedures,” for “such standards, systems”, and inserted “and” and cl. (B) before semicolon at end.
+    1994—Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 351(d), inserted “(A)” after “relating to”, substituted “technical regulations, conformity assessment procedures,” for “certification systems” and “such standards, technical regulations, conformity assessment procedures,” for “such standards, systems”, and inserted “and” and cl. (B) before semicolon at end.
 
-    Subsec. (c). [Pub. L. 103–465, § 431(a)][/us/pl/103/465/s431/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 431(a), added subsec. (c).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -79,15 +79,15 @@
 [/us/usc/t19/s2542/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2542%2Fa%2F2
 [/us/usc/t19/s2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2542
 [/us/usc/t19/s2575b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2575b
-[/us/pl/96/39/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs414
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F245
-[/us/pl/103/465/s351/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fd
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4956
-[/us/pl/104/295/s20/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F15
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3529
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/465/s351/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fd
-[/us/pl/103/465/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs431%2Fa
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s351/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs351%2Fd
 [/us/pl/103/465/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs352
 [/us/usc/t19/s2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2531

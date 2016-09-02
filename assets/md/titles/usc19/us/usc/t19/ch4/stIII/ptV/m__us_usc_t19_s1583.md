@@ -81,7 +81,7 @@
 
         Notwithstanding any other provision of this section, subsection (a)(1) shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 583, as added [Pub. L. 107–210, div. A, title III, § 344(a)][/us/pl/107/210/s344/a], Aug. 6, 2002, [116 Stat. 986][/us/stat/116/986]; amended [Pub. L. 108–429, title II, § 2004(a)(12)][/us/pl/108/429/s2004/a/12], Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 583, as added [Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 344(a), Aug. 6, 2002, [116 Stat. 986][/us/stat/116/986]; amended [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(a)(12), Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1583, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 583, [46 Stat. 748][/us/stat/46/748]; [Aug. 2, 1956, ch. 887, § 4(c)][/us/act/1956-08-02/ch887/s4/c], [70 Stat. 948][/us/stat/70/948], related to delivery and certification of manifest, prior to repeal by [Pub. L. 103–182, title VI, § 690(b)(9)][/us/pl/103/182/s690/b/9], Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
+    A prior section 1583, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 583, [46 Stat. 748][/us/stat/46/748]; [Aug. 2, 1956, ch. 887][/us/act/1956-08-02/ch887], § 4(c), [70 Stat. 948][/us/stat/70/948], related to delivery and certification of manifest, prior to repeal by [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 690(b)(9), Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
 
  __Amendments__ 
 
@@ -105,7 +105,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–210, div. A, title III, § 344(c)][/us/pl/107/210/s344/c], Aug. 6, 2002, [116 Stat. 987][/us/stat/116/987], provided that:
+[Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 344(c), Aug. 6, 2002, [116 Stat. 987][/us/stat/116/987], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -121,7 +121,7 @@
 
  __Certification by Secretary__ 
 
-[Pub. L. 107–210, div. A, title III, § 344(b)][/us/pl/107/210/s344/b], Aug. 6, 2002, [116 Stat. 987][/us/stat/116/987], provided that: 
+[Pub. L. 107–210, div. A, title III][/us/pl/107/210/dA/tIII], § 344(b), Aug. 6, 2002, [116 Stat. 987][/us/stat/116/987], provided that: 
 
 > “Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States.”
 
@@ -144,9 +144,9 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/107/210/s344/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs344%2Fa
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F986
-[/us/pl/108/429/s2004/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F12
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2590
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
@@ -158,15 +158,15 @@
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F748
-[/us/act/1956-08-02/ch887/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs4%2Fc
+[/us/act/1956-08-02/ch887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887
 [/us/stat/70/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F948
-[/us/pl/103/182/s690/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fb%2F9
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
-[/us/pl/107/210/s344/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs344%2Fc
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F987
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/210/s344/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs344%2Fb
+[/us/pl/107/210/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtIII
 [/us/stat/116/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F987
 
 

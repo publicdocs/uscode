@@ -17,7 +17,7 @@
 
     The President is authorized from time to time, as the exigencies of the service may require, to rearrange, by consolidation or otherwise, the several customs-collection districts and to discontinue ports of entry by abolishing the same or establishing others in their stead. The President is authorized from time to time to change the location of the headquarters in any customs-collection district as the needs of the service may require.
 
-([Aug. 1, 1914, ch. 223][/us/act/1914-08-01/ch223], [38 Stat. 623][/us/stat/38/623]; [May 29, 1928, ch. 901, § 1(19)][/us/act/1928-05-29/ch901/s1/19], [45 Stat. 987][/us/stat/45/987]; [Pub. L. 91–271, title III, § 302][/us/pl/91/271/s302], June 2, 1970, [84 Stat. 291][/us/stat/84/291].)
+([Aug. 1, 1914, ch. 223][/us/act/1914-08-01/ch223], [38 Stat. 623][/us/stat/38/623]; [May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(19), [45 Stat. 987][/us/stat/45/987]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 302, June 2, 1970, [84 Stat. 291][/us/stat/84/291].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Virginia Inland Port; Withdrawal of Designation as Customs Service Port of Entry Prohibited__ 
 
-[Pub. L. 104–52, title V, § 512][/us/pl/104/52/s512], Nov. 19, 1995, [109 Stat. 492][/us/stat/109/492], provided that: 
+[Pub. L. 104–52, title V][/us/pl/104/52/tV], § 512, Nov. 19, 1995, [109 Stat. 492][/us/stat/109/492], provided that: 
 
 > “Notwithstanding any provision of this or any other Act, during the fiscal year ending September 30, 1996, and thereafter, no funds may be obligated or expended in any way to withdraw the designation of the Virginia Inland Port at Front Royal, Virginia, as a United States Customs Service port of entry.”
 
@@ -55,7 +55,7 @@
 
  __Columbia-Snake Customs District__ 
 
-    [Pub. L. 98–573, title II, § 238][/us/pl/98/573/s238], Oct. 30, 1984, [98 Stat. 2993][/us/stat/98/2993], directed Commissioner of United States Customs Service to establish a customs district known as Columbia-Snake Customs District.
+    [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 238, Oct. 30, 1984, [98 Stat. 2993][/us/stat/98/2993], directed Commissioner of United States Customs Service to establish a customs district known as Columbia-Snake Customs District.
 
  __Pembina, North Dakota, Customs District; Change in Boundaries Prohibited Without Congressional Consent__ 
 
@@ -70,9 +70,9 @@
 
 [/us/act/1914-08-01/ch223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch223
 [/us/stat/38/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F623
-[/us/act/1928-05-29/ch901/s1/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F19
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F987
-[/us/pl/91/271/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs302
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F291
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
@@ -83,10 +83,10 @@
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/104/52/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs512
+[/us/pl/104/52/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtV
 [/us/stat/109/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F492
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/98/573/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs238
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2993
 [/us/pl/93/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F245
 [/us/stat/87/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1083

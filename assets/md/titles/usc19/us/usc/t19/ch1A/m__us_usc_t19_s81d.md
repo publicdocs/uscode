@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall assign to the zone the necessary customs officers and guards to protect the revenue and to provide for the admission of foreign merchandise into customs territory.
 
-([June 18, 1934, ch. 590, § 4][/us/act/1934-06-18/ch590/s4], [48 Stat. 1000][/us/stat/48/1000].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 4, [48 Stat. 1000][/us/stat/48/1000].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs4
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1000
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 

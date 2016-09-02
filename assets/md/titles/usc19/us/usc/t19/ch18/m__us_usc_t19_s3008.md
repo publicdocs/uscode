@@ -17,7 +17,7 @@
 
     The Secretary of Commerce shall compile, and make publicly available, the import and export trade statistics of the United States. Such statistics shall be conformed to the nomenclature of the Convention.
 
-([Pub. L. 100–418, title I, § 1208][/us/pl/100/418/s1208], Aug. 23, 1988, [102 Stat. 1152][/us/stat/102/1152].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1208, Aug. 23, 1988, [102 Stat. 1152][/us/stat/102/1152].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1208
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1152
 
 

@@ -29,7 +29,7 @@
 
         The President shall prescribe for each technical office established under subsection (a) such functions as the President deems necessary or appropriate to implement this subchapter.
 
-([Pub. L. 96–39, title IV, § 412][/us/pl/96/39/s412], July 26, 1979, [93 Stat. 244][/us/stat/93/244].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 412, July 26, 1979, [93 Stat. 244][/us/stat/93/244].)
 
  __Delegation of Functions__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/96/39/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs412
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F244
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 

@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in R.S. § 3064, which was superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 582, [42 Stat. 979][/us/stat/42/979], and was repealed by section 642 thereof. Section 582 of the 1922 act was superseded by section 582 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in R.S. § 3064, which was superseded by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 582, [42 Stat. 979][/us/stat/42/979], and was repealed by section 642 thereof. Section 582 of the 1922 act was superseded by section 582 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F748
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F979
 
 

@@ -29,7 +29,7 @@
 
         Import relief may be provided under this subpart in the case of a Canadian article or Mexican article after the date on which such relief would, but for this subsection, terminate under subsection (a), but only if the Government of Canada or Mexico, as the case may be, consents to such provision.
 
-([Pub. L. 103–182, title III, § 305][/us/pl/103/182/s305], Dec. 8, 1993, [107 Stat. 2103][/us/stat/107/2103].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 305, Dec. 8, 1993, [107 Stat. 2103][/us/stat/107/2103].)
 
  __North American Free Trade Agreement: Entry Into Force__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs305
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2103
 [/us/usc/t19/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311
 

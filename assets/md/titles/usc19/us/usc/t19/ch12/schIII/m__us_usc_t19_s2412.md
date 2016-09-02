@@ -65,11 +65,11 @@
 
         In determining whether to initiate an investigation under subsection (a) or (b) of any act, policy, or practice that is enumerated in any provision of [section 2411(d) of this title][/us/usc/t19/s2411/d], the Trade Representative shall have discretion to determine whether action under [section 2411 of this title][/us/usc/t19/s2411] would be effective in addressing such act, policy, or practice.
 
-([Pub. L. 93–618, title III, § 302][/us/pl/93/618/s302], as added [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 296][/us/stat/93/296]; amended [Pub. L. 98–573, title III, § 304(d)(1)][/us/pl/98/573/s304/d/1], Oct. 30, 1984, [98 Stat. 3003][/us/stat/98/3003]; [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1168][/us/stat/102/1168]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(9)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584.)
+([Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 302, as added [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 901, July 26, 1979, [93 Stat. 296][/us/stat/93/296]; amended [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 304(d)(1), Oct. 30, 1984, [98 Stat. 3003][/us/stat/98/3003]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(a), Aug. 23, 1988, [102 Stat. 1168][/us/stat/102/1168]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(9)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584.)
 
  __Prior Provisions__ 
 
-    A prior [section 302 of Pub. L. 93–618][/us/pl/93/618/s302], title III, Jan. 3, 1975, [88 Stat. 2043][/us/stat/88/2043], which related to the procedure for Congressional disapproval of certain actions taken by the President to eliminate foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of [Pub. L. 93–618][/us/pl/93/618] by [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 295][/us/stat/93/295].
+    A prior [section 302 of Pub. L. 93–618][/us/pl/93/618/s302], title III, Jan. 3, 1975, [88 Stat. 2043][/us/stat/88/2043], which related to the procedure for Congressional disapproval of certain actions taken by the President to eliminate foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of [Pub. L. 93–618][/us/pl/93/618] by [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 901, July 26, 1979, [93 Stat. 295][/us/stat/93/295].
 
  __Amendments__ 
 
@@ -100,19 +100,19 @@
 [/us/usc/t19/s2242/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2242%2Fa%2F2
 [/us/usc/t19/s2411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411%2Fd
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
-[/us/pl/93/618/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs302
-[/us/pl/96/39/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs901
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F296
-[/us/pl/98/573/s304/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fd%2F1
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3003
-[/us/pl/100/418/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1168
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/93/618/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs302
 [/us/stat/88/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2043
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
-[/us/pl/96/39/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs901
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F295
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

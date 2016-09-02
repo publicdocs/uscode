@@ -23,7 +23,7 @@
 
     may, without payment of any duty or internal-revenue tax, be entered under bond under this section for the purpose of exhibition at a fair, or for use in constructing, installing, or maintaining foreign exhibits at a fair.
 
-([Pub. L. 86–14, § 3][/us/pl/86/14/s3], Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18].)
+([Pub. L. 86–14][/us/pl/86/14], § 3, Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18].)
 
  __Immunity From Seizure Under Judicial Process of Cultural Objects Imported for Temporary Exhibition or Display__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/86/14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14%2Fs3
+[/us/pl/86/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14
 [/us/stat/73/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F18
 [/us/usc/t22/s2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2459
 

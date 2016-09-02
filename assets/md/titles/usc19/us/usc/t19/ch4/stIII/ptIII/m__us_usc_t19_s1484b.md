@@ -59,7 +59,7 @@
 
         The Secretary of the Treasury is authorized to make such rules and regulations as may be necessary to carry out the provisions of this section.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 484b, as added [Pub. L. 106–36, title II, § 2406(a)][/us/pl/106/36/s2406/a], June 25, 1999, [113 Stat. 170][/us/stat/113/170].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 484b, as added [Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2406(a), June 25, 1999, [113 Stat. 170][/us/stat/113/170].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–36, title II, § 2406(b)][/us/pl/106/36/s2406/b], June 25, 1999, [113 Stat. 171][/us/stat/113/171], provided that: 
+[Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2406(b), June 25, 1999, [113 Stat. 171][/us/stat/113/171], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply with respect to any large yacht imported into the United States after the date that is 15 days after the date of the enactment of this Act \[June 25, 1999\].”
 
@@ -83,10 +83,10 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/106/36/s2406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2406%2Fa
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F170
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/106/36/s2406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2406%2Fb
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F171
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

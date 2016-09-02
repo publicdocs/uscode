@@ -61,13 +61,27 @@
 
                  if the request for the review is made during that 6-month period.
 
-                (iii) __Posting bond or security__ 
-
-                    The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise.
-
-                (iv) __Time limits__ 
+                (iii) __Time limits__ 
 
                     The administering authority shall make a preliminary determination in a review conducted under this subparagraph within 180 days after the date on which the review is initiated, and a final determination within 90 days after the date the preliminary determination is issued, except that if the administering authority concludes that the case is extraordinarily complicated, it may extend the 180-day period to 300 days and may extend the 90-day period to 150 days.
+
+                (iv) __Determinations based on bona fide sales__ 
+
+                Any weighted average dumping margin or individual countervailing duty rate determined for an exporter or producer in a review conducted under clause (i) shall be based solely on the bona fide United States sales of an exporter or producer, as the case may be, made during the period covered by the review. In determining whether the United States sales of an exporter or producer made during the period covered by the review were bona fide, the administering authority shall consider, depending on the circumstances surrounding such sales—
+
+                    (I) the prices of such sales;
+
+                    (II) whether such sales were made in commercial quantities;
+
+                    (III) the timing of such sales;
+
+                    (IV) the expenses arising from such sales;
+
+                    (V) whether the subject merchandise involved in such sales was resold in the United States at a profit;
+
+                    (VI) whether such sales were made on an arms-length basis; and
+
+                    (VII) any other factor the administering authority determines to be relevant as to whether such sales are, or are not, likely to be typical of those the exporter or producer will make after completion of the review.
 
             (C) __Results of determinations__ 
 
@@ -317,33 +331,35 @@
 
         The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 751, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 175][/us/stat/93/175]; amended [Pub. L. 98–573, title VI, § 611(a)(2)][/us/pl/98/573/s611/a/2], (3), Oct. 30, 1984, [98 Stat. 3031][/us/stat/98/3031]; [Pub. L. 99–514, title XVIII, § 1886(a)(8)][/us/pl/99/514/s1886/a/8], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I, § 1333(b)][/us/pl/100/418/s1333/b], Aug. 23, 1988, [102 Stat. 1209][/us/stat/102/1209]; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 220(a), 283(c), Dec. 8, 1994, [108 Stat. 4857][/us/stat/108/4857], 4930; [Pub. L. 106–36, title II, § 2410][/us/pl/106/36/s2410], June 25, 1999, [113 Stat. 171][/us/stat/113/171].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 751, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 175][/us/stat/93/175]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 611(a)(2), (3), Oct. 30, 1984, [98 Stat. 3031][/us/stat/98/3031]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(8), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1333(b), Aug. 23, 1988, [102 Stat. 1209][/us/stat/102/1209]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 220(a), 283(c), Dec. 8, 1994, [108 Stat. 4857][/us/stat/108/4857], 4930; [Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2410, June 25, 1999, [113 Stat. 171][/us/stat/113/171]; [Pub. L. 114–125, title IV][/us/pl/114/125/tIV], § 433, Feb. 24, 2016, [130 Stat. 171][/us/stat/130/171].)
 
  __References in Text__ 
 
     [Section 1303 of this title][/us/usc/t19/s1303], referred to in subsecs. (a)(1), (b)(1)(A), and (c)(1)(A), (6)(C)(i), is defined in [section 1677(26) of this title][/us/usc/t19/s1677/26] to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
-    The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)(C)(ii), is [act May 27, 1921, ch. 14][/us/act/1921-05-27/ch14], title II, [42 Stat. 11][/us/stat/42/11], as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by [Pub. L. 96–39, title I, § 106(a)][/us/pl/96/39/s106/a], July 26, 1979, [93 Stat. 193][/us/stat/93/193].
+    The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)(C)(ii), is [act May 27, 1921, ch. 14, title II][/us/act/1921-05-27/ch14/tII], [42 Stat. 11][/us/stat/42/11], as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 106(a), July 26, 1979, [93 Stat. 193][/us/stat/93/193].
 
     The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
  __Amendments__ 
 
+    2016—Subsec. (a)(2)(B)(iii), (iv). [Pub. L. 114–125][/us/pl/114/125] added cl. (iv), redesignated former cl. (iv) as (iii), and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: “The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise.”
+
     1999—Subsec. (c)(7). [Pub. L. 106–36][/us/pl/106/36] added par. (7).
 
-    1994—[Pub. L. 103–465, § 283(c)][/us/pl/103/465/s283/c], added subsec. (g) and redesignated former subsec. (g) as (h).
+    1994—[Pub. L. 103–465][/us/pl/103/465], § 283(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-    [Pub. L. 103–465, § 220(a)][/us/pl/103/465/s220/a], amended section generally, substituting present provisions for provisions relating to administrative review of determinations, which provided for periodic review of amount of duty in subsec. (a), review upon information or request in subsec. (b), revocation of countervailing duty order or antidumping duty order in subsec. (c), hearings in subsec. (d), determination that basis for suspension no longer existed in subsec. (e), and correction of ministerial errors in subsec. (f).
+    [Pub. L. 103–465][/us/pl/103/465], § 220(a), amended section generally, substituting present provisions for provisions relating to administrative review of determinations, which provided for periodic review of amount of duty in subsec. (a), review upon information or request in subsec. (b), revocation of countervailing duty order or antidumping duty order in subsec. (c), hearings in subsec. (d), determination that basis for suspension no longer existed in subsec. (e), and correction of ministerial errors in subsec. (f).
 
     1988—Subsec. (f). [Pub. L. 100–418][/us/pl/100/418] added subsec. (f).
 
     1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514] inserted “or countervailing duty” after “antidumping” in two places in last sentence.
 
-    1984—Subsec. (a)(1). [Pub. L. 98–573, § 611(a)(2)(A)][/us/pl/98/573/s611/a/2/A], inserted “if a request for such a review has been received and” in provisions preceding subpar. (A).
+    1984—Subsec. (a)(1). [Pub. L. 98–573][/us/pl/98/573], § 611(a)(2)(A), inserted “if a request for such a review has been received and” in provisions preceding subpar. (A).
 
-    Subsec. (b)(1). [Pub. L. 98–573, § 611(a)(2)(B)][/us/pl/98/573/s611/a/2/B], substituted “1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3)) or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))” for “1671c or 1673c of this title”, inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumping order shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
+    Subsec. (b)(1). [Pub. L. 98–573][/us/pl/98/573], § 611(a)(2)(B), substituted “1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3)) or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))” for “1671c or 1673c of this title”, inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumping order shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
 
-    Subsec. (c). [Pub. L. 98–573, § 611(a)(3)][/us/pl/98/573/s611/a/3], inserted provision that the administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of merchandise to the United States specifically intended to offset the subsidy received.
+    Subsec. (c). [Pub. L. 98–573][/us/pl/98/573], § 611(a)(3), inserted provision that the administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of merchandise to the United States specifically intended to offset the subsidy received.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -363,7 +379,7 @@
 
  __Suspension of the Availability of Bonds to New Shippers__ 
 
-[Pub. L. 109–280, title XIV, § 1632(a)][/us/pl/109/280/s1632/a], Aug. 17, 2006, [120 Stat. 1165][/us/stat/120/1165], provided that: 
+[Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1632(a), Aug. 17, 2006, [120 Stat. 1165][/us/stat/120/1165], provided that: 
 
 > “Clause (iii) of section 751(a)(2)(B) of the Tariff Act of 1930 ([19 U.S.C. 1675(a)(2)(B)(iii)][/us/usc/t19/s1675/a/2/B/iii]) shall not be effective during the period beginning on April 1, 2006, and ending on June 30, 2009.”
 
@@ -396,35 +412,38 @@
 [/us/usc/t19/s1675a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675a%2Fa
 [/us/usc/t19/s1677c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677c%2Fb
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F175
-[/us/pl/98/573/s611/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs611%2Fa%2F2
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3031
-[/us/pl/99/514/s1886/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F8
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/100/418/s1333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1333%2Fb
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1209
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4857
-[/us/pl/106/36/s2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2410
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F171
+[/us/pl/114/125/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIV
+[/us/stat/130/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F171
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/usc/t19/s1677/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F26
-[/us/act/1921-05-27/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch14
+[/us/act/1921-05-27/ch14/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch14%2FtII
 [/us/stat/42/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F11
-[/us/pl/96/39/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fa
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
-[/us/pl/103/465/s283/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs283%2Fc
-[/us/pl/103/465/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs220%2Fa
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/573/s611/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs611%2Fa%2F2%2FA
-[/us/pl/98/573/s611/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs611%2Fa%2F2%2FB
-[/us/pl/98/573/s611/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs611%2Fa%2F3
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
@@ -435,7 +454,7 @@
 [/us/pl/96/39/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs107
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/109/280/s1632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1632%2Fa
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1165
 [/us/usc/t19/s1675/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fa%2F2%2FB%2Fiii
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd

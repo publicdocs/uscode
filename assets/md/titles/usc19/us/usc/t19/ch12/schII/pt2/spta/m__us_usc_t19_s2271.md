@@ -41,7 +41,7 @@
 
         If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary’s publication under subsection (a) a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
-([Pub. L. 93–618, title II, § 221][/us/pl/93/618/s221], Jan. 3, 1975, [88 Stat. 2019][/us/stat/88/2019]; [Pub. L. 99–272, title XIII, § 13002(a)][/us/pl/99/272/s13002/a], Apr. 7, 1986, [100 Stat. 300][/us/stat/100/300]; [Pub. L. 103–182, title V, § 503(a)][/us/pl/103/182/s503/a], Dec. 8, 1993, [107 Stat. 2151][/us/stat/107/2151]; [Pub. L. 107–210, div. A, title I, § 112(a)][/us/pl/107/210/s112/a], Aug. 6, 2002, [116 Stat. 937][/us/stat/116/937]; [Pub. L. 108–429, title II, § 2004(a)(4)][/us/pl/108/429/s2004/a/4], Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590]; [Pub. L. 111–5, div. B, title I, § 1801(e)(1)][/us/pl/111/5/s1801/e/1], Feb. 17, 2009, [123 Stat. 370][/us/stat/123/370]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]; [Pub. L. 113–128, title V, § 512(hh)(1)][/us/pl/113/128/s512/hh/1], July 22, 2014, [128 Stat. 1720][/us/stat/128/1720]; [Pub. L. 114–27, title IV, § 402(b)][/us/pl/114/27/s402/b], (c), June 29, 2015, [129 Stat. 374][/us/stat/129/374].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 221, Jan. 3, 1975, [88 Stat. 2019][/us/stat/88/2019]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13002(a), Apr. 7, 1986, [100 Stat. 300][/us/stat/100/300]; [Pub. L. 103–182, title V][/us/pl/103/182/tV], § 503(a), Dec. 8, 1993, [107 Stat. 2151][/us/stat/107/2151]; [Pub. L. 107–210, div. A, title I][/us/pl/107/210/dA/tI], § 112(a), Aug. 6, 2002, [116 Stat. 937][/us/stat/116/937]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(a)(4), Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1801(e)(1), Feb. 17, 2009, [123 Stat. 370][/us/stat/123/370]; [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 201(b), (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(hh)(1), July 22, 2014, [128 Stat. 1720][/us/stat/128/1720]; [Pub. L. 114–27, title IV][/us/pl/114/27/tIV], § 402(b), (c), June 29, 2015, [129 Stat. 374][/us/stat/129/374].)
 
  __Reversion to Provisions in Effect on__  __January 1, 2014__ 
 
@@ -49,21 +49,21 @@
 
  __Codification__ 
 
-    [Section 233 of Pub. L. 112–40][/us/pl/112/40/s233], which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by [Pub. L. 114–27, title IV, § 402(a)][/us/pl/114/27/s402/a], June 29, 2015, [129 Stat. 374][/us/stat/129/374], and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by [Pub. L. 114–27][/us/pl/114/27], §§ 402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+    [Section 233 of Pub. L. 112–40][/us/pl/112/40/s233], which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by [Pub. L. 114–27, title IV][/us/pl/114/27/tIV], § 402(a), June 29, 2015, [129 Stat. 374][/us/stat/129/374], and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by [Pub. L. 114–27][/us/pl/114/27], §§ 402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
     Amendments made by [Pub. L. 113–128][/us/pl/113/128] were effective July 1, 2015, and were executed to this section as it existed on Dec. 31, 2013, pursuant to [section 402(b) of Pub. L. 114–27][/us/pl/114/27/s402/b], which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment notes below.
 
-    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of amendment by [Pub. L. 111–5][/us/pl/111/5], was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and the provisions of this section, as amended by [Pub. L. 111–5][/us/pl/111/5] and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by [Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
+    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of amendment by [Pub. L. 111–5][/us/pl/111/5], was repealed by [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 201(a), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and the provisions of this section, as amended by [Pub. L. 111–5][/us/pl/111/5] and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by [Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
  __Amendments__ 
 
     2015—[Pub. L. 114–27][/us/pl/114/27], §§ 402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
-    2014—Subsec. (a)(1)(C). [Pub. L. 113–128, § 512(hh)(1)(A)(ii)][/us/pl/113/128/s512/hh/1/A/ii], substituted “or a State dislocated worker unit,” for “or the State dislocated worker unit established under title I of such Act,”. See Codification note above.
+    2014—Subsec. (a)(1)(C). [Pub. L. 113–128][/us/pl/113/128], § 512(hh)(1)(A)(ii), substituted “or a State dislocated worker unit,” for “or the State dislocated worker unit established under title I of such Act,”. See Codification note above.
 
-    [Pub. L. 113–128, § 512(hh)(1)(A)(i)][/us/pl/113/128/s512/hh/1/A/i], which directed substitution of “, one-stop operators or one-stop partners (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) including State employment security agencies,” for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])) including State employment security agencies,”, was executed by making the substitution for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])), including State employment security agencies,” to reflect the probable intent of Congress. See Codification note above.
+    [Pub. L. 113–128][/us/pl/113/128], § 512(hh)(1)(A)(i), which directed substitution of “, one-stop operators or one-stop partners (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) including State employment security agencies,” for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])) including State employment security agencies,”, was executed by making the substitution for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])), including State employment security agencies,” to reflect the probable intent of Congress. See Codification note above.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–128, § 512(hh)(1)(B)][/us/pl/113/128/s512/hh/1/B], substituted “rapid response activities and appropriate career services (as described in [section 3174 of title 29][/us/usc/t29/s3174]) authorized under other Federal laws” for “rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 ([29 U.S.C. 2864][/us/usc/t29/s2864])) authorized under other Federal laws”. See Codification note above.
+    Subsec. (a)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 512(hh)(1)(B), substituted “rapid response activities and appropriate career services (as described in [section 3174 of title 29][/us/usc/t29/s3174]) authorized under other Federal laws” for “rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 ([29 U.S.C. 2864][/us/usc/t29/s2864])) authorized under other Federal laws”. See Codification note above.
 
     2011—[Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -97,11 +97,11 @@
 
     For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of [Pub. L. 112–40][/us/pl/112/40], set out as a note preceding this section.
 
-    [Section 233 of Pub. L. 112–40][/us/pl/112/40/s233], formerly set out as a note preceding this section, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by [Pub. L. 114–27, title IV, § 402(a)][/us/pl/114/27/s402/a], June 29, 2015, [129 Stat. 374][/us/stat/129/374], effective June 29, 2015. See Codification note above.
+    [Section 233 of Pub. L. 112–40][/us/pl/112/40/s233], formerly set out as a note preceding this section, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by [Pub. L. 114–27, title IV][/us/pl/114/27/tIV], § 402(a), June 29, 2015, [129 Stat. 374][/us/stat/129/374], effective June 29, 2015. See Codification note above.
 
  __Effective and Termination Dates of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1891][/us/pl/111/5/s1891], Feb. 17, 2009, [123 Stat. 420][/us/stat/123/420], provided that:
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1891, Feb. 17, 2009, [123 Stat. 420][/us/stat/123/420], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -145,7 +145,7 @@
 
 >             “(B) would otherwise be eligible to receive benefits under such chapter 3 as in effect on the day before such effective date.”
 
-    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], formerly set out as a Termination Date of 2009 Amendment note preceding this section, which provided that, except as otherwise provided, amendment by [Pub. L. 111–5][/us/pl/111/5] not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by [Pub. L. 111–5][/us/pl/111/5] had never been enacted, was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], effective Oct. 21, 2011. See Codification note above.
+    [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], formerly set out as a Termination Date of 2009 Amendment note preceding this section, which provided that, except as otherwise provided, amendment by [Pub. L. 111–5][/us/pl/111/5] not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by [Pub. L. 111–5][/us/pl/111/5] had never been enacted, was repealed by [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 201(a), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], effective Oct. 21, 2011. See Codification note above.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -153,7 +153,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–182, title V, § 506][/us/pl/103/182/s506], Dec. 8, 1993, [107 Stat. 2152][/us/stat/107/2152], provided that:
+[Pub. L. 103–182, title V][/us/pl/103/182/tV], § 506, Dec. 8, 1993, [107 Stat. 2152][/us/stat/107/2152], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -187,7 +187,7 @@
 
  __Applicability of Trade Adjustment Assistance Provisions__ 
 
-[Pub. L. 114–27, title IV, § 405][/us/pl/114/27/s405], June 29, 2015, [129 Stat. 377][/us/stat/129/377], provided that:
+[Pub. L. 114–27, title IV][/us/pl/114/27/tIV], § 405, June 29, 2015, [129 Stat. 377][/us/stat/129/377], provided that:
 
 >     “(a) __Trade Adjustment Assistance for Workers.—__ 
 
@@ -263,7 +263,7 @@
 
 >                 “(ii) the provisions of chapter 3 of title II of the Trade Act of 1974 \[part 3 of this subchapter\], as in effect on such date of enactment, had been in effect on that date during the period described in clause (i).”
 
-[Pub. L. 112–40, title II, § 231][/us/pl/112/40/s231], Oct. 21, 2011, [125 Stat. 413][/us/stat/125/413], provided that:
+[Pub. L. 112–40, title II][/us/pl/112/40/tII], § 231, Oct. 21, 2011, [125 Stat. 413][/us/stat/125/413], provided that:
 
 >     “(a) __Trade Adjustment Assistance for Workers.—__ 
 
@@ -359,7 +359,7 @@
 
  __Determination of Increases of Imports for Certain Fishermen__ 
 
-[Pub. L. 111–5, div. B, title I, § 1886][/us/pl/111/5/s1886], Feb. 17, 2009, [123 Stat. 419][/us/stat/123/419], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1886, Feb. 17, 2009, [123 Stat. 419][/us/stat/123/419], provided that: 
 
 > “For purposes of chapters 2 and 6 \[this part and part 6 of this subchapter\] of title II of the Trade Act of 1974 ([19 U.S.C. 2251][/us/usc/t19/s2251] et seq.), in the case of an agricultural commodity producer that—
 
@@ -371,7 +371,7 @@
 
  __Declaration of Policy; Sense of Congress__ 
 
-[Pub. L. 107–210, div. A, title I, § 125][/us/pl/107/210/s125], Aug. 6, 2002, [116 Stat. 946][/us/stat/116/946], provided that:
+[Pub. L. 107–210, div. A, title I][/us/pl/107/210/dA/tI], § 125, Aug. 6, 2002, [116 Stat. 946][/us/stat/116/946], provided that:
 
 >     “(a)  __Declaration of Policy__  __.—__ 
 
@@ -391,44 +391,44 @@
 [/us/usc/t19/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2319
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t29/s3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174
-[/us/pl/93/618/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs221
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2019
-[/us/pl/99/272/s13002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13002%2Fa
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F300
-[/us/pl/103/182/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs503%2Fa
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2151
-[/us/pl/107/210/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs112%2Fa
+[/us/pl/107/210/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtI
 [/us/stat/116/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F937
-[/us/pl/108/429/s2004/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F4
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2590
-[/us/pl/111/5/s1801/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1801%2Fe%2F1
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F370
-[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
-[/us/pl/113/128/s512/hh/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1720
-[/us/pl/114/27/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fb
+[/us/pl/114/27/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtIV
 [/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/pl/114/27/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs406%2Fb
 [/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233
-[/us/pl/114/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fa
+[/us/pl/114/27/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtIV
 [/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/114/27/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fb
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/112/40/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fa
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
-[/us/pl/113/128/s512/hh/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1%2FA%2Fii
-[/us/pl/113/128/s512/hh/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1%2FA%2Fi
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/113/128/s512/hh/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174
 [/us/usc/t29/s2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
@@ -449,9 +449,9 @@
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233
-[/us/pl/114/27/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs402%2Fa
+[/us/pl/114/27/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtIV
 [/us/stat/129/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F374
-[/us/pl/111/5/s1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1891
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F420
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t28/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1581
@@ -462,15 +462,15 @@
 [/us/pl/111/5/s1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1893
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/112/40/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fa
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs151
-[/us/pl/103/182/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs506
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2152
 [/us/usc/t19/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2331
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
-[/us/pl/114/27/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs405
+[/us/pl/114/27/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtIV
 [/us/stat/129/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F377
 [/us/usc/t19/s2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2272
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
@@ -480,7 +480,7 @@
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
-[/us/pl/112/40/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs231
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F413
 [/us/usc/t19/s2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2272
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
@@ -492,10 +492,10 @@
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
-[/us/pl/111/5/s1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1886
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F419
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/pl/107/210/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs125
+[/us/pl/107/210/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtI
 [/us/stat/116/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F946
 [/us/usc/t19/s2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2275
 

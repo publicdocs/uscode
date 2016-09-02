@@ -17,7 +17,7 @@
 
     Nothing in this part shall be construed to give any authority to cancel or reduce, in any manner, any of the indebtedness of any foreign country to the United States.
 
-([June 12, 1934, ch. 474, § 3][/us/act/1934-06-12/ch474/s3], [48 Stat. 944][/us/stat/48/944].)
+([June 12, 1934, ch. 474][/us/act/1934-06-12/ch474], § 3, [48 Stat. 944][/us/stat/48/944].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-12/ch474/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-12%2Fch474%2Fs3
+[/us/act/1934-06-12/ch474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-12%2Fch474
 [/us/stat/48/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F944
 
 

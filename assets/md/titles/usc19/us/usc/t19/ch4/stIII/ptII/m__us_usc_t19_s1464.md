@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    Provisions somewhat similar to those in this section, with a further provision for seizure of the vessel, car, or vehicle with its contents, and a provision that nothing therein should prevent sales of cargo prior to arrival, to be delivered per manifest and after due inspection, were contained in R.S. § 3104, which was superseded in part by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 464, [42 Stat. 957][/us/stat/42/957], and was repealed by section 642 thereof. Section 464 of the 1922 act was superseded by section 464 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions somewhat similar to those in this section, with a further provision for seizure of the vessel, car, or vehicle with its contents, and a provision that nothing therein should prevent sales of cargo prior to arrival, to be delivered per manifest and after due inspection, were contained in R.S. § 3104, which was superseded in part by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 464, [42 Stat. 957][/us/stat/42/957], and was repealed by section 642 thereof. Section 464 of the 1922 act was superseded by section 464 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F718
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F957
 
 

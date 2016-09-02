@@ -97,7 +97,7 @@
 
             Notwithstanding paragraph (1)(A), the President may designate as an eligible article or articles under subsection (a) carpets or rugs which are hand-loomed, hand-woven, hand-hooked, hand-tufted, or hand-knotted, and classifiable under subheading 5701.10.16, 5701.10.40, 5701.90.10, 5701.90.20, 5702.10.90, 5702.42.20, 5702.49.10, 5702.51.20, 5702.91.30, 5702.92.00, 5702.99.10, 5703.10.00, 5703.20.10, or 5703.30.00 of the Harmonized Tariff Schedule of the United States.
 
-        (5)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Two pars. (5) have been enacted.__  __ </sup></sup> __  __Certain cotton articles__ 
+        (5)  __2__  __Certain cotton articles__ 
 
             Notwithstanding paragraph (3), the President may designate as an eligible article or articles under subsection (a)(1)(B) only for countries designated as least-developed beneficiary developing countries under [section 2462(a)(2) of this title][/us/usc/t19/s2462/a/2] cotton articles classifiable under subheading 5201.00.18, 5201.00.28, 5201.00.38, 5202.99.30, or 5203.00.30 of the Harmonized Tariff Schedule of the United States.
 
@@ -243,7 +243,7 @@
 
         No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to [section 1319 of this title][/us/usc/t19/s1319] on coffee imported into Puerto Rico.
 
-([Pub. L. 93–618, title V, § 503][/us/pl/93/618/s503], as added [Pub. L. 104–188, title I, § 1952(a)][/us/pl/104/188/s1952/a], Aug. 20, 1996, [110 Stat. 1921][/us/stat/110/1921]; amended [Pub. L. 106–36, title I, § 1001(a)(7)][/us/pl/106/36/s1001/a/7], June 25, 1999, [113 Stat. 130][/us/stat/113/130]; [Pub. L. 106–200, title I, § 111(b)][/us/pl/106/200/s111/b], May 18, 2000, [114 Stat. 258][/us/stat/114/258]; [Pub. L. 108–429, title I, § 1555(a)][/us/pl/108/429/s1555/a], (b), Dec. 3, 2004, [118 Stat. 2578][/us/stat/118/2578], 2579; [Pub. L. 109–432, div. D, title VIII, § 8001][/us/pl/109/432/s8001], Dec. 20, 2006, [120 Stat. 3195][/us/stat/120/3195]; [Pub. L. 114–27, title II][/us/pl/114/27], §§ 202, 204, June 29, 2015, [129 Stat. 372][/us/stat/129/372].)
+([Pub. L. 93–618, title V][/us/pl/93/618/tV], § 503, as added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1952(a), Aug. 20, 1996, [110 Stat. 1921][/us/stat/110/1921]; amended [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(a)(7), June 25, 1999, [113 Stat. 130][/us/stat/113/130]; [Pub. L. 106–200, title I][/us/pl/106/200/tI], § 111(b), May 18, 2000, [114 Stat. 258][/us/stat/114/258]; [Pub. L. 108–429, title I][/us/pl/108/429/tI], § 1555(a), (b), Dec. 3, 2004, [118 Stat. 2578][/us/stat/118/2578], 2579; [Pub. L. 109–432, div. D, title VIII][/us/pl/109/432/dD/tVIII], § 8001, Dec. 20, 2006, [120 Stat. 3195][/us/stat/120/3195]; [Pub. L. 114–27, title II][/us/pl/114/27/tII], §§ 202, 204, June 29, 2015, [129 Stat. 372][/us/stat/129/372].)
 
  __References in Text__ 
 
@@ -253,23 +253,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 2463, [Pub. L. 93–618, title V, § 503][/us/pl/93/618/s503], Jan. 3, 1975, [88 Stat. 2069][/us/stat/88/2069]; [Pub. L. 96–39, title XI, § 1111(a)(3)][/us/pl/96/39/s1111/a/3], July 26, 1979, [93 Stat. 315][/us/stat/93/315]; [Pub. L. 98–573, title V, § 504][/us/pl/98/573/s504], Oct. 30, 1984, [98 Stat. 3020][/us/stat/98/3020]; [Pub. L. 99–47, § 8(b)(2)][/us/pl/99/47/s8/b/2], June 11, 1985, [99 Stat. 85][/us/stat/99/85]; [Pub. L. 99–514, title XVIII, § 1889(7)][/us/pl/99/514/s1889/7], Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926]; [Pub. L. 100–418, title I, § 1903][/us/pl/100/418/s1903], Aug. 23, 1988, [102 Stat. 1313][/us/stat/102/1313]; [Pub. L. 101–382, title II, § 226][/us/pl/101/382/s226], Aug. 20, 1990, [104 Stat. 660][/us/stat/104/660]; [Pub. L. 103–465, title IV, § 404(e)(3)][/us/pl/103/465/s404/e/3], Dec. 8, 1994, [108 Stat. 4961][/us/stat/108/4961], related to eligible articles, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
+    A prior section 2463, [Pub. L. 93–618, title V][/us/pl/93/618/tV], § 503, Jan. 3, 1975, [88 Stat. 2069][/us/stat/88/2069]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1111(a)(3), July 26, 1979, [93 Stat. 315][/us/stat/93/315]; [Pub. L. 98–573, title V][/us/pl/98/573/tV], § 504, Oct. 30, 1984, [98 Stat. 3020][/us/stat/98/3020]; [Pub. L. 99–47][/us/pl/99/47], § 8(b)(2), June 11, 1985, [99 Stat. 85][/us/stat/99/85]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1889(7), Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1903, Aug. 23, 1988, [102 Stat. 1313][/us/stat/102/1313]; [Pub. L. 101–382, title II][/us/pl/101/382/tII], § 226, Aug. 20, 1990, [104 Stat. 660][/us/stat/104/660]; [Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 404(e)(3), Dec. 8, 1994, [108 Stat. 4961][/us/stat/108/4961], related to eligible articles, prior to the general amendment of this subchapter by [Pub. L. 104–188][/us/pl/104/188].
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(A). [Pub. L. 114–27, § 204(1)][/us/pl/114/27/s204/1], substituted “paragraphs (4) and (5)” for “paragraph (4)”.
+    2015—Subsec. (b)(1)(A). [Pub. L. 114–27][/us/pl/114/27], § 204(1), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
 
-    Subsec. (b)(1)(E). [Pub. L. 114–27, § 204(2)][/us/pl/114/27/s204/2], substituted “Except as provided in paragraph (5), footwear” for “Footwear”.
+    Subsec. (b)(1)(E). [Pub. L. 114–27][/us/pl/114/27], § 204(2), substituted “Except as provided in paragraph (5), footwear” for “Footwear”.
 
-    Subsec. (b)(5). [Pub. L. 114–27, § 204(3)][/us/pl/114/27/s204/3], which directed amendment of subsec. (b)(1) by adding par. (5), relating to certain luggage and travel articles, at the end, was executed by adding such par. (5) at the end of subsec. (b), to reflect the probable intent of Congress.
+    Subsec. (b)(5). [Pub. L. 114–27][/us/pl/114/27], § 204(3), which directed amendment of subsec. (b)(1) by adding par. (5), relating to certain luggage and travel articles, at the end, was executed by adding such par. (5) at the end of subsec. (b), to reflect the probable intent of Congress.
 
-    [Pub. L. 114–27, § 202][/us/pl/114/27/s202], added par. (5) relating to certain cotton articles.
+    [Pub. L. 114–27][/us/pl/114/27], § 202, added par. (5) relating to certain cotton articles.
 
     2006—Subsec. (d)(4)(B). [Pub. L. 109–432][/us/pl/109/432] designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
-    2004—Subsec. (b)(1)(A). [Pub. L. 108–429, § 1555(b)][/us/pl/108/429/s1555/b], substituted “Except as provided in paragraph (4), textile” for “Textile”.
+    2004—Subsec. (b)(1)(A). [Pub. L. 108–429][/us/pl/108/429], § 1555(b), substituted “Except as provided in paragraph (4), textile” for “Textile”.
 
-    Subsec. (b)(4). [Pub. L. 108–429, § 1555(a)][/us/pl/108/429/s1555/a], added par. (4).
+    Subsec. (b)(4). [Pub. L. 108–429][/us/pl/108/429], § 1555(a), added par. (4).
 
     2000—Subsec. (c)(2)(D). [Pub. L. 106–200][/us/pl/106/200] amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Subparagraph (A) shall not apply to any least-developed beneficiary developing country.”
 
@@ -277,13 +277,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–429, title I, § 1555(c)][/us/pl/108/429/s1555/c], Dec. 3, 2004, [118 Stat. 2579][/us/stat/118/2579], provided that: 
+[Pub. L. 108–429, title I][/us/pl/108/429/tI], § 1555(c), Dec. 3, 2004, [118 Stat. 2579][/us/stat/118/2579], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to any article entered, or withdrawn from warehouse for consumption, on or after the date on which the President makes a designation with respect to the article under section 503(b)(4) of the Trade Act of 1974 \[subsec. (b)(4) of this section\], as added by subsection (a).”
 
  __Application of Competitive Need Limitation and Waiver Under Generalized System of Preferences With Respect to Articles of Beneficiary Developing Countries Exported to the United States During Calendar Year 2014__ 
 
-[Pub. L. 114–27, title II, § 203][/us/pl/114/27/s203], June 29, 2015, [129 Stat. 372][/us/stat/129/372], provided that:
+[Pub. L. 114–27, title II][/us/pl/114/27/tII], § 203, June 29, 2015, [129 Stat. 372][/us/stat/129/372], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -311,50 +311,50 @@
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
 [/us/usc/t19/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1319
-[/us/pl/93/618/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs503
-[/us/pl/104/188/s1952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1952%2Fa
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1921
-[/us/pl/106/36/s1001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fa%2F7
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F130
-[/us/pl/106/200/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs111%2Fb
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F258
-[/us/pl/108/429/s1555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1555%2Fa
+[/us/pl/108/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtI
 [/us/stat/118/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2578
-[/us/pl/109/432/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs8001
+[/us/pl/109/432/dD/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtVIII
 [/us/stat/120/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3195
-[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtII
 [/us/stat/129/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F372
 [/us/pl/114/27/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs204
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/93/618/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs503
+[/us/pl/93/618/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtV
 [/us/stat/88/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2069
-[/us/pl/96/39/s1111/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1111%2Fa%2F3
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F315
-[/us/pl/98/573/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs504
+[/us/pl/98/573/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtV
 [/us/stat/98/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3020
-[/us/pl/99/47/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47%2Fs8%2Fb%2F2
+[/us/pl/99/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47
 [/us/stat/99/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F85
-[/us/pl/99/514/s1889/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1889%2F7
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2926
-[/us/pl/100/418/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1903
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1313
-[/us/pl/101/382/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs226
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F660
-[/us/pl/103/465/s404/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs404%2Fe%2F3
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4961
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/114/27/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs204%2F1
-[/us/pl/114/27/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs204%2F2
-[/us/pl/114/27/s204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs204%2F3
-[/us/pl/114/27/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs202
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/108/429/s1555/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1555%2Fb
-[/us/pl/108/429/s1555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1555%2Fa
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
-[/us/pl/108/429/s1555/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1555%2Fc
+[/us/pl/108/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtI
 [/us/stat/118/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2579
-[/us/pl/114/27/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs203
+[/us/pl/114/27/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2FtII
 [/us/stat/129/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F372
 [/us/usc/t19/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463
 [/us/usc/t19/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2463

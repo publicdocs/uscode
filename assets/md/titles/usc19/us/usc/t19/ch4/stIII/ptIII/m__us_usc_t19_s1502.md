@@ -23,7 +23,7 @@
 
         It shall be the duty of all officers of the customs to execute and carry into effect all instructions of the Secretary of the Treasury relative to the execution of the revenue laws; and in case any difficulty arises as to the true construction or meaning of any part of the revenue laws, the decision of the Secretary shall be binding upon all officers of the customs.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 502, [46 Stat. 731][/us/stat/46/731]; [Pub. L. 91–271, title III, § 301][/us/pl/91/271/s301](l), June 2, 1970, [84 Stat. 289][/us/stat/84/289]; [Pub. L. 96–417, title VI, § 601(3)][/us/pl/96/417/s601/3], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 100–449, title IV, § 403(a)][/us/pl/100/449/s403/a], Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 103–182, title IV, § 412(a)][/us/pl/103/182/s412/a], title VI, § 640, Dec. 8, 1993, [107 Stat. 2146][/us/stat/107/2146], 2203.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 502, [46 Stat. 731][/us/stat/46/731]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(l), June 2, 1970, [84 Stat. 289][/us/stat/84/289]; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 601(3), Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 100–449, title IV][/us/pl/100/449/tIV], § 403(a), Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 412(a), title VI, § 640, Dec. 8, 1993, [107 Stat. 2146][/us/stat/107/2146], 2203.)
 
  __Amendment of Section__ 
 
@@ -31,23 +31,23 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 502, [42 Stat. 967][/us/stat/42/967]. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 502, [42 Stat. 967][/us/stat/42/967]. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    A prior provision, authorizing the Secretary of the Treasury to direct appraisers for any collection district, to attend in any other collection district, was contained in R.S. § 2947. Prior provisions requiring the Secretary to establish rules and regulations to secure a just, faithful, and impartial appraisal, just and proper entries, and to report such rules and regulations to the next session of Congress, were contained in R.S. § 2949. Both of these sections were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    A prior provision, authorizing the Secretary of the Treasury to direct appraisers for any collection district, to attend in any other collection district, was contained in R.S. § 2947. Prior provisions requiring the Secretary to establish rules and regulations to secure a just, faithful, and impartial appraisal, just and proper entries, and to report such rules and regulations to the next session of Congress, were contained in R.S. § 2949. Both of these sections were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
-    Provisions similar to those in subsec. (b) of this section, except that reversal or modification was permitted in concurrence with a judicial decision of a circuit or district court, instead of a final decision of the Board of General Appraisers, were contained in [act Mar. 3, 1875, ch. 136, § 2][/us/act/1875-03-03/ch136/s2], [18 Stat. 469][/us/stat/18/469], prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989].
+    Provisions similar to those in subsec. (b) of this section, except that reversal or modification was permitted in concurrence with a judicial decision of a circuit or district court, instead of a final decision of the Board of General Appraisers, were contained in [act Mar. 3, 1875, ch. 136][/us/act/1875-03-03/ch136], § 2, [18 Stat. 469][/us/stat/18/469], prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989].
 
-    Provisions almost identical with those in subsec. (c) of this section were contained in R.S. § 2652, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions almost identical with those in subsec. (c) of this section were contained in R.S. § 2652, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–182, § 640(1)][/us/pl/103/182/s640/1], inserted “(including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned)” after “law”, substituted “ports of entry. The Secretary” for “ports of entry, and”, inserted “or classifying” after “appraising” in two places, and substituted “any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port” for “such port”.
+    1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 640(1), inserted “(including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned)” after “law”, substituted “ports of entry. The Secretary” for “ports of entry, and”, inserted “or classifying” after “appraising” in two places, and substituted “any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port” for “such port”.
 
-    Subsec. (b). [Pub. L. 103–182, § 640(2)][/us/pl/103/182/s640/2], redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement.”
+    Subsec. (b). [Pub. L. 103–182][/us/pl/103/182], § 640(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement.”
 
-    [Pub. L. 103–182, § 412(a)][/us/pl/103/182/s412/a], which directed the insertion of “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement”, could not be executed because the words “the United States-Canada Free-Trade Agreement” did not appear in subsec. (b) subsequent to amendment by [Pub. L. 103–182, § 640(2)][/us/pl/103/182/s640/2], effective Dec. 8, 1993. See above.
+    [Pub. L. 103–182][/us/pl/103/182], § 412(a), which directed the insertion of “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement”, could not be executed because the words “the United States-Canada Free-Trade Agreement” did not appear in subsec. (b) subsequent to amendment by [Pub. L. 103–182][/us/pl/103/182], § 640(2), effective Dec. 8, 1993. See above.
 
-    Subsec. (c). [Pub. L. 103–182, § 640(2)][/us/pl/103/182/s640/2], redesignated subsec. (c) as (b).
+    Subsec. (c). [Pub. L. 103–182][/us/pl/103/182], § 640(2), redesignated subsec. (c) as (b).
 
     1988—Subsec. (b). [Pub. L. 100–449][/us/pl/100/449] temporarily substituted “a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement” for “or a final decision of the United States Court of International Trade”. See Effective and Termination Dates of 1988 Amendment note below.
 
@@ -94,30 +94,30 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F731
-[/us/pl/91/271/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F289
-[/us/pl/96/417/s601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs601%2F3
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1744
-[/us/pl/100/449/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs403%2Fa
+[/us/pl/100/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIV
 [/us/stat/102/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1884
-[/us/pl/103/182/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fa
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2146
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F967
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1875-03-03/ch136/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch136%2Fs2
+[/us/act/1875-03-03/ch136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch136
 [/us/stat/18/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F469
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/pl/103/182/s640/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs640%2F1
-[/us/pl/103/182/s640/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs640%2F2
-[/us/pl/103/182/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs412%2Fa
-[/us/pl/103/182/s640/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs640%2F2
-[/us/pl/103/182/s640/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs640%2F2
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

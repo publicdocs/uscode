@@ -85,7 +85,7 @@
 
         (1)
 
-         For purposes of carrying out the provisions of subsection (a) or (b), the Trade Representative is authorized to—
+         For purposes of carrying out the provisions of subsection (a) or (b) or [section 2416(c) of this title][/us/usc/t19/s2416/c], the Trade Representative is authorized to—
 
             (A) suspend, withdraw, or prevent the application of, benefits of trade agreement concessions to carry out a trade agreement with the foreign country referred to in such subsection;
 
@@ -189,7 +189,7 @@
 
                     (IV) market opportunities, including the toleration by a foreign government of systematic anticompetitive activities by enterprises or among enterprises in the foreign country that have the effect of restricting, on a basis that is inconsistent with commercial considerations, access of United States goods or services to a foreign market,
 
-                (ii) constitutes export targeting, or
+                (ii) constitutes export targeting,
 
                 (iii)
 
@@ -203,7 +203,9 @@
 
                     (IV) fails to provide a minimum age for the employment of children, or
 
-                    (V) fails to provide standards for minimum wages, hours of work, and occupational safety and health of workers.
+                    (V) fails to provide standards for minimum wages, hours of work, and occupational safety and health of workers, or
+
+                (iv) constitutes a persistent pattern of conduct by the government of a foreign country under which that government fails to effectively enforce commitments under agreements to which the foreign country and the United States are parties, including with respect to trade in goods, trade in services, trade in agriculture, foreign investment, intellectual property, digital trade in goods and services and cross-border data flows, regulatory practices, state-owned and state-controlled enterprises, localization barriers to trade, labor and the environment, anticorruption, trade remedy laws, textiles, and commercial partnerships.
 
             (C)
 
@@ -241,47 +243,55 @@
 
         (8) The term “Trade Representative” means the United States Trade Representative.
 
-        (9) The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).
+        (9) The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).
 
-([Pub. L. 93–618, title III, § 301][/us/pl/93/618/s301], as added [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 295][/us/stat/93/295]; amended [Pub. L. 98–573, title III, § 304(a)][/us/pl/98/573/s304/a]–(c), (f), Oct. 30, 1984, [98 Stat. 3002][/us/stat/98/3002], 3005; [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1164][/us/stat/102/1164]; [Pub. L. 103–465, title III, § 314(a)][/us/pl/103/465/s314/a]–(c), title VI, § 621(a)(9), Dec. 8, 1994, [108 Stat. 4939][/us/stat/108/4939], 4940, 4993; [Pub. L. 104–295, § 20(c)(4)][/us/pl/104/295/s20/c/4], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528].)
+([Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 301, as added [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 901, July 26, 1979, [93 Stat. 295][/us/stat/93/295]; amended [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 304(a)–(c), (f), Oct. 30, 1984, [98 Stat. 3002][/us/stat/98/3002], 3005; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(a), Aug. 23, 1988, [102 Stat. 1164][/us/stat/102/1164]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 314(a)–(c), title VI, § 621(a)(9), Dec. 8, 1994, [108 Stat. 4939][/us/stat/108/4939], 4940, 4993; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(4), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 114–125, title VI][/us/pl/114/125/tVI], §§ 602(b)(1), 607, Feb. 24, 2016, [130 Stat. 184][/us/stat/130/184], 189.)
+
+ __References in Text__ 
+
+    [Section 2416(c)(2) of this title][/us/usc/t19/s2416/c/2], referred to in subsec. (d)(9), was redesignated [section 2416(d)(2) of this title][/us/usc/t19/s2416/d/2] by [Pub. L. 114–125, title VI][/us/pl/114/125/tVI], § 602(a)(1), Feb. 24, 2016, [130 Stat. 184][/us/stat/130/184].
 
  __Prior Provisions__ 
 
-    A prior [section 301 of Pub. L. 93–618][/us/pl/93/618/s301], title III, Jan. 3, 1975, [88 Stat. 2041][/us/stat/88/2041], which related to Presidential responses to foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of [Pub. L. 93–618][/us/pl/93/618] by [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 295][/us/stat/93/295].
+    A prior [section 301 of Pub. L. 93–618][/us/pl/93/618/s301], title III, Jan. 3, 1975, [88 Stat. 2041][/us/stat/88/2041], which related to Presidential responses to foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of [Pub. L. 93–618][/us/pl/93/618] by [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 901, July 26, 1979, [93 Stat. 295][/us/stat/93/295].
 
  __Amendments__ 
 
+    2016—Subsec. (c)(1). [Pub. L. 114–125][/us/pl/114/125], § 602(b)(1), inserted “or [section 2416(c) of this title][/us/usc/t19/s2416/c]” after “subsection (a) or (b)” in introductory provisions.
+
+    Subsec. (d)(3)(B)(iv). [Pub. L. 114–125][/us/pl/114/125], § 607, added cl. (iv).
+
     1996—Subsec. (c)(4). [Pub. L. 104–295][/us/pl/104/295] substituted “paragraph (1)(D)(iii)” for “paragraph (1)(C)(iii)”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–465, § 314(a)(1)][/us/pl/103/465/s314/a/1], inserted at end of concluding provisions “Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.”
+    1994—Subsec. (a)(1). [Pub. L. 103–465][/us/pl/103/465], § 314(a)(1), inserted at end of concluding provisions “Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.”
 
-    Subsec. (a)(2)(A). [Pub. L. 103–465, § 621(a)(9)][/us/pl/103/465/s621/a/9], substituted “the Dispute Settlement Body (as defined in [section 3531(5) of this title][/us/usc/t19/s3531/5]) has adopted a report,” for “the Contracting Parties to the General Agreement on Tariffs and Trade have determined, a panel of experts has reported to the Contracting Parties,”.
+    Subsec. (a)(2)(A). [Pub. L. 103–465][/us/pl/103/465], § 621(a)(9), substituted “the Dispute Settlement Body (as defined in [section 3531(5) of this title][/us/usc/t19/s3531/5]) has adopted a report,” for “the Contracting Parties to the General Agreement on Tariffs and Trade have determined, a panel of experts has reported to the Contracting Parties,”.
 
-    Subsec. (b)(2). [Pub. L. 103–465, § 314(a)(1)][/us/pl/103/465/s314/a/1], inserted at end “Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.”
+    Subsec. (b)(2). [Pub. L. 103–465][/us/pl/103/465], § 314(a)(1), inserted at end “Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.”
 
-    Subsec. (c)(1)(B) to (D). [Pub. L. 103–465, § 314(b)(1)][/us/pl/103/465/s314/b/1], struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+    Subsec. (c)(1)(B) to (D). [Pub. L. 103–465][/us/pl/103/465], § 314(b)(1), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-    Subsec. (c)(5). [Pub. L. 103–465, § 314(a)(2)][/us/pl/103/465/s314/a/2], added introductory provisions, reenacted subpar. (A) without change, and struck out former introductory provisions which read as follows: “In taking actions under subsection (a) or (b) of this section, the Trade Representative shall—”.
+    Subsec. (c)(5). [Pub. L. 103–465][/us/pl/103/465], § 314(a)(2), added introductory provisions, reenacted subpar. (A) without change, and struck out former introductory provisions which read as follows: “In taking actions under subsection (a) or (b) of this section, the Trade Representative shall—”.
 
-    Subsec. (d)(3)(B)(i)(II) to (IV). [Pub. L. 103–465, § 314(c)(1)][/us/pl/103/465/s314/c/1], added subcls. (II) to (IV) and struck out former subcls. (II) and (III) which read as follows:
+    Subsec. (d)(3)(B)(i)(II) to (IV). [Pub. L. 103–465][/us/pl/103/465], § 314(c)(1), added subcls. (II) to (IV) and struck out former subcls. (II) and (III) which read as follows:
 
     “(II) provision of adequate and effective protection of intellectual property rights, or
 
     “(III) market opportunities, including the toleration by a foreign government of systematic anticompetitive activities by private firms or among private firms in the foreign country that have the effect of restricting, on a basis that is inconsistent with commercial considerations, access of United States goods to purchasing by such firms,”.
 
-    Subsec. (d)(3)(F). [Pub. L. 103–465, § 314(c)(2)][/us/pl/103/465/s314/c/2], added subpar. (F).
+    Subsec. (d)(3)(F). [Pub. L. 103–465][/us/pl/103/465], § 314(c)(2), added subpar. (F).
 
     1988—[Pub. L. 100–418][/us/pl/100/418] amended section generally, substituting provisions relating to actions by United States Trade Representative for provisions relating to determinations and action by President.
 
-    1984—Subsec. (a). [Pub. L. 98–573, § 304(a)][/us/pl/98/573/s304/a], amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
+    1984—Subsec. (a). [Pub. L. 98–573][/us/pl/98/573], § 304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
 
-    Subsec. (b)(1). [Pub. L. 98–573, § 304(b)(1)][/us/pl/98/573/s304/b/1], struck out “and” at end.
+    Subsec. (b)(1). [Pub. L. 98–573][/us/pl/98/573], § 304(b)(1), struck out “and” at end.
 
-    Subsec. (b)(2). [Pub. L. 98–573, § 304(b)(2)][/us/pl/98/573/s304/b/2], (3), inserted “, notwithstanding any other provision of law,” and substituted “goods” for “products”.
+    Subsec. (b)(2). [Pub. L. 98–573][/us/pl/98/573], § 304(b)(2), (3), inserted “, notwithstanding any other provision of law,” and substituted “goods” for “products”.
 
-    Subsecs. (c), (d). [Pub. L. 98–573, § 304(c)][/us/pl/98/573/s304/c], added subsec. (c) and redesignated existing subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (c), (d). [Pub. L. 98–573][/us/pl/98/573], § 304(c), added subsec. (c) and redesignated existing subsecs. (c) and (d) as (d) and (e), respectively.
 
-    Subsec. (e). [Pub. L. 98–573, § 304(c)][/us/pl/98/573/s304/c], (f), redesignated subsec. (d) as (e), inserted “For purposes of this section—” before par. (1), in par. (1) substituted provisions defining “commerce” as including, but not limited to services (including transfers of information) associated with international trade, whether or not such services are related to specific goods, and foreign direct investment by United States persons with implications for trade in goods or services for provision defining “commerce” as including, but not limited to, services associated with international trade, whether or not such services are related to specific products, and added pars. (3) to (6).
+    Subsec. (e). [Pub. L. 98–573][/us/pl/98/573], § 304(c), (f), redesignated subsec. (d) as (e), inserted “For purposes of this section—” before par. (1), in par. (1) substituted provisions defining “commerce” as including, but not limited to services (including transfers of information) associated with international trade, whether or not such services are related to specific goods, and foreign direct investment by United States persons with implications for trade in goods or services for provision defining “commerce” as including, but not limited to, services associated with international trade, whether or not such services are related to specific products, and added pars. (3) to (6).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -291,7 +301,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–418, title I, § 1301(c)][/us/pl/100/418/s1301/c], Aug. 23, 1988, [102 Stat. 1176][/us/stat/102/1176], provided that: 
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(c), Aug. 23, 1988, [102 Stat. 1176][/us/stat/102/1176], provided that: 
 
 > “The amendments made by this section \[enacting sections 2417 to 2419 of this title and amending this section and sections 2412 to 2416 of this title\] shall apply to—
 
@@ -301,7 +311,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–39, title IX, § 903][/us/pl/96/39/s903], July 26, 1979, [93 Stat. 300][/us/stat/93/300], provided that: 
+[Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 903, July 26, 1979, [93 Stat. 300][/us/stat/93/300], provided that: 
 
 > “The amendments made by sections 901 and 902 \[enacting this subchapter and amending sections 1872, 2192, and 2194 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1979\]. Any petition for review filed with the Special Representative for Trade Negotiations under section 301 of the Trade Act of 1974 (as in effect on the day before such date of enactment) \[former [section 2411 of this title][/us/usc/t19/s2411]\] and pending on such date of enactment shall be treated as an investigation initiated on such date of enactment under section 302(b)(2) of the Trade Act of 1974 (as added by section 901 of this Act) \[[section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2]\] and any information developed by, or submitted to, the Special Representative before such date of enactment under the review shall be treated as part of the information developed during such investigation.”
 
@@ -367,54 +377,64 @@
 [/us/usc/t19/s2414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414%2Fa%2F1
 [/us/usc/t19/s3531/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3531%2F5
 [/us/usc/t19/s2414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414%2Fa%2F1
+[/us/usc/t19/s2416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2416%2Fc
 [/us/usc/t19/s2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2462
 [/us/usc/t19/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2702
 [/us/usc/t19/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3202
 [/us/usc/t19/s2412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fa
 [/us/usc/t19/s2412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
-[/us/pl/93/618/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs301
-[/us/pl/96/39/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs901
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F295
-[/us/pl/98/573/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fa
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3002
-[/us/pl/100/418/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1164
-[/us/pl/103/465/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fa
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4939
-[/us/pl/104/295/s20/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F4
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
+[/us/pl/114/125/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVI
+[/us/stat/130/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F184
+[/us/usc/t19/s2416/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2416%2Fc%2F2
+[/us/usc/t19/s2416/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2416%2Fd%2F2
+[/us/pl/114/125/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVI
+[/us/stat/130/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F184
 [/us/pl/93/618/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs301
 [/us/stat/88/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2041
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
-[/us/pl/96/39/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs901
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F295
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/usc/t19/s2416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2416%2Fc
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/465/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fa%2F1
-[/us/pl/103/465/s621/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F9
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3531/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3531%2F5
-[/us/pl/103/465/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fa%2F1
-[/us/pl/103/465/s314/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fb%2F1
-[/us/pl/103/465/s314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fa%2F2
-[/us/pl/103/465/s314/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fc%2F1
-[/us/pl/103/465/s314/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fc%2F2
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/98/573/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fa
-[/us/pl/98/573/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fb%2F1
-[/us/pl/98/573/s304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fb%2F2
-[/us/pl/98/573/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fc
-[/us/pl/98/573/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fc
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs316%2Fa
 [/us/usc/t19/s3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3581
 [/us/pl/103/465/s621/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F9
 [/us/pl/103/465/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fb
 [/us/usc/t19/s1677k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677k
-[/us/pl/100/418/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fc
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1176
 [/us/usc/t19/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412
 [/us/usc/t19/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414
-[/us/pl/96/39/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs903
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F300
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
 [/us/usc/t19/s2412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2

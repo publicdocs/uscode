@@ -25,7 +25,7 @@
 
     (4) to improve the rules of international trade and to provide for the enforcement of such rules, and for other purposes.
 
-([Pub. L. 96–39, § 1(c)][/us/pl/96/39/s1/c], July 26, 1979, [93 Stat. 146][/us/stat/93/146].)
+([Pub. L. 96–39][/us/pl/96/39], § 1(c), July 26, 1979, [93 Stat. 146][/us/stat/93/146].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
-[/us/pl/96/39/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1%2Fc
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F146
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144

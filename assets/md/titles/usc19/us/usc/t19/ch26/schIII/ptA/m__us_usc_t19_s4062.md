@@ -41,7 +41,7 @@
 
         Upon submitting a report to the President under subsection (d), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
 
-([Pub. L. 109–53, title III, § 312][/us/pl/109/53/s312], Aug. 2, 2005, [119 Stat. 489][/us/stat/119/489].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 312, Aug. 2, 2005, [119 Stat. 489][/us/stat/119/489].)
 
  __Termination of Section__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
 [/us/usc/t19/s1330/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1330%2Fd
 [/us/usc/t19/s4063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4063%2Fc
-[/us/pl/109/53/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs312
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F489
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

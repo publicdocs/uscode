@@ -23,7 +23,7 @@
 
     countervailable subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771B, as added [Pub. L. 100–418, title I, § 1313(a)][/us/pl/100/418/s1313/a], Aug. 23, 1988, [102 Stat. 1185][/us/stat/102/1185]; amended [Pub. L. 100–647, title IX, § 9001(a)(4)][/us/pl/100/647/s9001/a/4], Nov. 10, 1988, [102 Stat. 3806][/us/stat/102/3806]; [Pub. L. 103–465, title II, § 270(b)(1)(D)][/us/pl/103/465/s270/b/1/D], (2), Dec. 8, 1994, [108 Stat. 4917][/us/stat/108/4917].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771B, as added [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1313(a), Aug. 23, 1988, [102 Stat. 1185][/us/stat/102/1185]; amended [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(4), Nov. 10, 1988, [102 Stat. 3806][/us/stat/102/3806]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 270(b)(1)(D), (2), Dec. 8, 1994, [108 Stat. 4917][/us/stat/108/4917].)
 
  __Amendments__ 
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/100/418/s1313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1313%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1185
-[/us/pl/100/647/s9001/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F4
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3806
-[/us/pl/103/465/s270/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs270%2Fb%2F1%2FD
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4917
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

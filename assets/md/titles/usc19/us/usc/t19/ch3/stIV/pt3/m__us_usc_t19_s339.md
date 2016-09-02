@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2861 derived from [act Feb. 22, 1873, ch. 184, § 3][/us/act/1873-02-22/ch184/s3], [17 Stat. 474][/us/stat/17/474].
+    R.S. § 2861 derived from [act Feb. 22, 1873, ch. 184][/us/act/1873-02-22/ch184], § 3, [17 Stat. 474][/us/stat/17/474].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1873-02-22/ch184/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-02-22%2Fch184%2Fs3
+[/us/act/1873-02-22/ch184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-02-22%2Fch184
 [/us/stat/17/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F474
 
 

@@ -33,15 +33,15 @@
 
         together with interest as provided by [section 1677g of this title][/us/usc/t19/s1677g].
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 737, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 173][/us/stat/93/173]; amended [Pub. L. 103–465, title II, § 219(c)(10)][/us/pl/103/465/s219/c/10], Dec. 8, 1994, [108 Stat. 4857][/us/stat/108/4857]; [Pub. L. 104–295, § 40][/us/pl/104/295/s40], Oct. 11, 1996, [110 Stat. 3541][/us/stat/110/3541].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 737, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 173][/us/stat/93/173]; amended [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 219(c)(10), Dec. 8, 1994, [108 Stat. 4857][/us/stat/108/4857]; [Pub. L. 104–295][/us/pl/104/295], § 40, Oct. 11, 1996, [110 Stat. 3541][/us/stat/110/3541].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–295, § 40(1)][/us/pl/104/295/s40/1], substituted “deposit, or the amount of any bond or other security, required” for “deposit collected” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–295][/us/pl/104/295], § 40(1), substituted “deposit, or the amount of any bond or other security, required” for “deposit collected” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 104–295, § 40(2)][/us/pl/104/295/s40/2], substituted “that the cash deposit, bond, or other security” for “the cash deposit collected”.
+    Subsec. (a)(1). [Pub. L. 104–295][/us/pl/104/295], § 40(2), substituted “that the cash deposit, bond, or other security” for “the cash deposit collected”.
 
-    Subsec. (a)(2). [Pub. L. 104–295, § 40(3)][/us/pl/104/295/s40/3], substituted “refunded or released, to the extent that the cash deposit, bond, or other security” for “refunded, to the extent the cash deposit”.
+    Subsec. (a)(2). [Pub. L. 104–295][/us/pl/104/295], § 40(3), substituted “refunded or released, to the extent that the cash deposit, bond, or other security” for “refunded, to the extent the cash deposit”.
 
     1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465] substituted “1673b(d)(1)(B)” for “1673b(d)(2)” in heading and text.
 
@@ -68,15 +68,15 @@
 [/us/usc/t19/s1673e/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673e%2Fa%2F3
 [/us/usc/t19/s1677g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677g
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F173
-[/us/pl/103/465/s219/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs219%2Fc%2F10
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4857
-[/us/pl/104/295/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs40
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3541
-[/us/pl/104/295/s40/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs40%2F1
-[/us/pl/104/295/s40/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs40%2F2
-[/us/pl/104/295/s40/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs40%2F3
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291

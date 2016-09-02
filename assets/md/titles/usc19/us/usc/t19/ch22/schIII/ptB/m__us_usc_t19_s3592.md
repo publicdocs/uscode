@@ -99,7 +99,7 @@
 
         The origin of goods to which this section does not apply shall be determined in accordance with the applicable rules in effect on July 20, 1994.
 
-([Pub. L. 103–465, title III, § 334][/us/pl/103/465/s334], Dec. 8, 1994, [108 Stat. 4949][/us/stat/108/4949]; [Pub. L. 104–295, § 20(c)(9)][/us/pl/104/295/s20/c/9], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 106–200, title IV, § 405(a)][/us/pl/106/200/s405/a], May 18, 2000, [114 Stat. 292][/us/stat/114/292].)
+([Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 334, Dec. 8, 1994, [108 Stat. 4949][/us/stat/108/4949]; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(9), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 405(a), May 18, 2000, [114 Stat. 292][/us/stat/114/292].)
 
  __Amendments__ 
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–200, title IV, § 405(b)][/us/pl/106/200/s405/b], May 18, 2000, [114 Stat. 293][/us/stat/114/293], provided that: 
+[Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 405(b), May 18, 2000, [114 Stat. 293][/us/stat/114/293], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[May 18, 2000\].”
 
@@ -124,15 +124,15 @@
 ----------
 ----------
 
-[/us/pl/103/465/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs334
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4949
-[/us/pl/104/295/s20/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F9
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
-[/us/pl/106/200/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs405%2Fa
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F292
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/106/200/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs405%2Fb
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F293
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

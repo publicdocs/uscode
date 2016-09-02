@@ -41,7 +41,7 @@
 
         (5) If the anticipated levels of new United States export opportunities are not reached, what actions the Trade Representative is prepared to take to realize the benefits anticipated under the Agreement, including possible initiation of additional negotiations with Mexico for the purpose of seeking modifications of the Agreement.
 
-([Pub. L. 103–182, title V, § 514][/us/pl/103/182/s514], Dec. 8, 1993, [107 Stat. 2157][/us/stat/107/2157].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 514, Dec. 8, 1993, [107 Stat. 2157][/us/stat/107/2157].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs514
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2157
 
 

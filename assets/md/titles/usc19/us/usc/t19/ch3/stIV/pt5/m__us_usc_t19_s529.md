@@ -15,7 +15,7 @@
 
 ## § 529. Repealed. [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 651(a)(1), [46 Stat. 762][/us/stat/46/762], eff. June 18, 1930
 
-    Section, [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 616, [42 Stat. 987][/us/stat/42/987], related to compromise of claims. See [section 1915 of Title 18][/us/usc/t18/s1915], Crimes and Criminal Procedure.
+    Section, [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 616, [42 Stat. 987][/us/stat/42/987], related to compromise of claims. See [section 1915 of Title 18][/us/usc/t18/s1915], Crimes and Criminal Procedure.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F987
 [/us/usc/t18/s1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1915
 

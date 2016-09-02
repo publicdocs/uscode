@@ -35,11 +35,11 @@
 
     (9) The Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002, states that Participants will ensure that measures taken to implement the Kimberley Process Certification Scheme for Rough Diamonds will be consistent with international trade rules.
 
-([Pub. L. 108–19, § 2][/us/pl/108/19/s2], Apr. 25, 2003, [117 Stat. 631][/us/stat/117/631].)
+([Pub. L. 108–19][/us/pl/108/19], § 2, Apr. 25, 2003, [117 Stat. 631][/us/stat/117/631].)
 
  __Effective Date__ 
 
-[Pub. L. 108–19, § 15][/us/pl/108/19/s15], Apr. 25, 2003, [117 Stat. 637][/us/stat/117/637], provided that: 
+[Pub. L. 108–19][/us/pl/108/19], § 15, Apr. 25, 2003, [117 Stat. 637][/us/stat/117/637], provided that: 
 
 > “This Act \[enacting this chapter\] shall take effect on the date on which the President certifies to the Congress that—
 
@@ -53,7 +53,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–19, § 1][/us/pl/108/19/s1], Apr. 25, 2003, [117 Stat. 631][/us/stat/117/631], provided that: 
+[Pub. L. 108–19][/us/pl/108/19], § 1, Apr. 25, 2003, [117 Stat. 631][/us/stat/117/631], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Clean Diamond Trade Act’.”
 
@@ -108,11 +108,11 @@ Sec. 2. Assignment of Functions. (a) The functions of the President under the Ac
 ----------
 ----------
 
-[/us/pl/108/19/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs2
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F631
-[/us/pl/108/19/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs15
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F637
-[/us/pl/108/19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs1
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F631
 [/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/usc/t19/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3901

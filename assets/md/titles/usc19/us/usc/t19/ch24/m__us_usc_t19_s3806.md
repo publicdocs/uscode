@@ -43,7 +43,7 @@
 
             (B) before and after submission of the notice, consult regarding the negotiations with the committees referred to in [section 3804(a)(2) of this title][/us/usc/t19/s3804/a/2] and the Congressional Oversight Group convened under [section 3807 of this title][/us/usc/t19/s3807].
 
-([Pub. L. 107–210, div. B, title XXI, § 2106][/us/pl/107/210/s2106], Aug. 6, 2002, [116 Stat. 1016][/us/stat/116/1016].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2106, Aug. 6, 2002, [116 Stat. 1016][/us/stat/116/1016].)
 
  __Delegation of Functions__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t19/s3804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3804%2Fa
 [/us/usc/t19/s3804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3804%2Fa%2F2
 [/us/usc/t19/s3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3807
-[/us/pl/107/210/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2106
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1016
 [/us/usc/t19/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801
 

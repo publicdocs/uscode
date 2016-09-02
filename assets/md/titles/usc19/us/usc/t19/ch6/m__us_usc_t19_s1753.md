@@ -43,7 +43,7 @@
 
         Whenever any article entered under [section 1752 of this title][/us/usc/t19/s1752] is transferred pursuant to subsection (b)(2) or entered under subsection (a), the period prescribed for the performance of any act required by the provision governing the status to which the article is transferred, or under which the article is entered, shall run from the date of such transfer or entry.
 
-([Pub. L. 86–14, § 4][/us/pl/86/14/s4], Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18].)
+([Pub. L. 86–14][/us/pl/86/14], § 4, Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18].)
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/usc/t19/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1752
 [/us/usc/t19/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1752
 [/us/usc/t19/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1752
-[/us/pl/86/14/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14%2Fs4
+[/us/pl/86/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F14
 [/us/stat/73/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F18
 
 

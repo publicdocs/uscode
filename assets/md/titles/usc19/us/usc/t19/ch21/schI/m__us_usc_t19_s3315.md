@@ -33,7 +33,7 @@
 
         If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a).
 
-([Pub. L. 103–182, title I, § 105][/us/pl/103/182/s105], Dec. 8, 1993, [107 Stat. 2064][/us/stat/107/2064]; [Pub. L. 110–161, div. B, title I, § 107][/us/pl/110/161/s107], Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893].)
+([Pub. L. 103–182, title I][/us/pl/103/182/tI], § 105, Dec. 8, 1993, [107 Stat. 2064][/us/stat/107/2064]; [Pub. L. 110–161, div. B, title I][/us/pl/110/161/dB/tI], § 107, Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t19/s3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3432
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/103/182/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs105
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2064
-[/us/pl/110/161/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs107
+[/us/pl/110/161/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtI
 [/us/stat/121/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1893
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t19/s3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3315

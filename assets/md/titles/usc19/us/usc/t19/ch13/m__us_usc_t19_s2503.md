@@ -89,11 +89,11 @@
 
         (14) The Agreement with the Hungarian People’s Republic.
 
-([Pub. L. 96–39, § 2][/us/pl/96/39/s2], July 26, 1979, [93 Stat. 147][/us/stat/93/147].)
+([Pub. L. 96–39][/us/pl/96/39], § 2, July 26, 1979, [93 Stat. 147][/us/stat/93/147].)
 
  __References in Text__ 
 
-    [Section 2136(c) of this title][/us/usc/t19/s2136/c], referred to in subsec. (b)(2)(B), was repealed, and [section 2136(d) of this title][/us/usc/t19/s2136/d], referred to in subsec. (b)(3), which defined the term “major industrial country” was redesignated section 2136(c), by [Pub. L. 105–362, title XIV, § 1401(b)(1)][/us/pl/105/362/s1401/b/1], Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].
+    [Section 2136(c) of this title][/us/usc/t19/s2136/c], referred to in subsec. (b)(2)(B), was repealed, and [section 2136(d) of this title][/us/usc/t19/s2136/d], referred to in subsec. (b)(3), which defined the term “major industrial country” was redesignated section 2136(c), by [Pub. L. 105–362, title XIV][/us/pl/105/362/tXIV], § 1401(b)(1), Nov. 10, 1998, [112 Stat. 3294][/us/stat/112/3294].
 
     This Act, referred to in subsec. (c), is [Pub. L. 96–39][/us/pl/96/39], July 26, 1979, [93 Stat. 144][/us/stat/93/144], known as the Trade Agreements Act of 1979. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of this title][/us/usc/t19/s2501] and Tables.
 
@@ -103,7 +103,7 @@
 
  __Approval and Implementation of Protocol to the Trade Agreement Relating to Customs Valuation__ 
 
-[Pub. L. 96–490, § 1][/us/pl/96/490/s1], Dec. 2, 1980, [94 Stat. 2556][/us/stat/94/2556], provided that:
+[Pub. L. 96–490][/us/pl/96/490], § 1, Dec. 2, 1980, [94 Stat. 2556][/us/stat/94/2556], provided that:
 
 >     “(a) __Approval of Protocol.—__ 
 
@@ -238,17 +238,17 @@
 ----------
 ----------
 
-[/us/pl/96/39/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs2
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F147
 [/us/usc/t19/s2136/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2136%2Fc
 [/us/usc/t19/s2136/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2136%2Fd
-[/us/pl/105/362/s1401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1401%2Fb%2F1
+[/us/pl/105/362/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIV
 [/us/stat/112/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3294
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
-[/us/pl/96/490/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F490%2Fs1
+[/us/pl/96/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F490
 [/us/stat/94/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2556
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a

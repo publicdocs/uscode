@@ -201,17 +201,65 @@
 
         (5) __For failure to meet other requirements__ 
 
-            Not later than December 15, 2015, the Secretary of Commerce, in consultation with the Secretary of State, the Secretary of the Treasury, the Attorney General, and the United States Trade Representative, shall transmit to Congress a report setting forth the strategy of the executive branch to address concerns of Congress regarding whether dispute settlement panels and the Appellate Body of the World Trade Organization have added to obligations, or diminished rights, of the United States, as described in [section 4201(b)(15)(C) of this title][/us/usc/t19/s4201/b/15/C].  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  Trade authorities procedures shall not apply to any implementing bill with respect to an agreement negotiated under the auspices of the World Trade Organization unless the Secretary of Commerce has issued such report by the deadline specified in this paragraph.
+            Not later than December 15, 2015, the Secretary of Commerce, in consultation with the Secretary of State, the Secretary of the Treasury, the Attorney General, and the United States Trade Representative, shall transmit to Congress a report setting forth the strategy of the executive branch to address concerns of Congress regarding whether dispute settlement panels and the Appellate Body of the World Trade Organization have added to obligations, or diminished rights, of the United States, as described in [section 4201(b)(16)(C) of this title][/us/usc/t19/s4201/b/16/C]. Trade authorities procedures shall not apply to any implementing bill with respect to an agreement negotiated under the auspices of the World Trade Organization unless the Secretary of Commerce has issued such report by the deadline specified in this paragraph.
 
         (6) __Limitations on procedures with respect to agreements with countries not in compliance with Trafficking Victims Protection Act of 2000__ 
 
             (A) __In general__ 
 
-                The trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement or trade agreements entered into under [section 4202(b) of this title][/us/usc/t19/s4202/b] with a country to which the minimum standards for the elimination of trafficking are applicable and the government of which does not fully comply with such standards and is not making significant efforts to bring the country into compliance (commonly referred to as a “tier 3” country), as determined in the most recent annual report on trafficking in persons submitted under section 110(b)(1) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107(b)(1)][/us/usc/t22/s7107/b/1]).
+                The trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement or trade agreements entered into under [section 4202(b) of this title][/us/usc/t19/s4202/b] with a country listed as a tier 3 country in the most recent annual report on trafficking in persons.
 
-            (B) __Minimum standards for the elimination of trafficking defined__ 
+            (B) __Exception__ 
 
-                In this paragraph, the term “minimum standards for the elimination of trafficking” means the standards set forth in section 108 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7106][/us/usc/t22/s7106]).
+                (i) __Invoking exception__ 
+
+                    If the President submits to the appropriate congressional committees a letter stating that a country to which subparagraph (A) applies has taken concrete actions to implement the principal recommendations with respect to that country in the most recent annual report on trafficking in persons, the prohibition under subparagraph (A) shall not apply with respect to a trade agreement or trade agreements with that country.
+
+                (ii) __Content of letter; public availability__ 
+
+                A letter submitted under clause (i) with respect to a country shall—
+
+                    (I) include a description of the concrete actions that the country has taken to implement the principal recommendations described in clause (i);
+
+                    (II) be accompanied by supporting documentation providing credible evidence of each such concrete action, including copies of relevant laws or regulations adopted or modified, and any enforcement actions taken, by that country, where appropriate; and
+
+                    (III) be made available to the public.
+
+            (C) __Special rule for changes in certain determinations__ 
+
+            If a country is listed as a tier 3 country in an annual report on trafficking in persons submitted in calendar year 2014 or any calendar year thereafter and, in the annual report on trafficking in persons submitted in the next calendar year, is listed on the tier 2 watch list, the President shall submit a detailed description of the credible evidence supporting the change in listing of the country, accompanied by copies of documents providing such evidence, where appropriate, to the appropriate congressional committees—
+
+                (i) in the case of a change in listing reflected in the annual report on trafficking in persons submitted in calendar year 2015, not later than 90 days after February 24, 2016; and
+
+                (ii) in the case of a change in listing reflected in an annual report on trafficking in persons submitted in calendar year 2016 or any calendar year thereafter, not later than 90 days after the submission of that report.
+
+            (D) __Sense of Congress__ 
+
+                It is the sense of Congress that the integrity of the process for making the determinations in the annual report on trafficking in persons, including determinations with respect to country rankings and the substance of the assessments in the report, should be respected and not affected by unrelated considerations.
+
+            (E) __Definitions__ 
+
+            In this paragraph:
+
+                (i) __Annual report on trafficking in persons__ 
+
+                    The term “annual report on trafficking in persons” means the annual report on trafficking in persons required under section 110(b)(1) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107(b)(1)][/us/usc/t22/s7107/b/1]).
+
+                (ii) __Appropriate congressional committees__ 
+
+                The term “appropriate congressional committees” means—
+
+                    (I) the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives; and
+
+                    (II) the Committee on Finance and the Committee on Foreign Relations of the Senate.
+
+                (iii) __Tier 2 watch list__ 
+
+                    The term “tier 2 watch list” means the list of countries required under section 110(b)(2)(A)(iii) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107(b)(2)(A)(iii)][/us/usc/t22/s7107/b/2/A/iii]).
+
+                (iv) __Tier 3 country__ 
+
+                    The term “tier 3 country” means a country on the list of countries required under section 110(b)(1)(C) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107(b)(1)(C)][/us/usc/t22/s7107/b/1/C]).
 
     (c) __Rules of House of Representatives and Senate__ 
 
@@ -221,7 +269,7 @@
 
         (2) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
-([Pub. L. 114–26, title I, § 106][/us/pl/114/26/s106], June 29, 2015, [129 Stat. 350][/us/stat/129/350].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 106, June 29, 2015, [129 Stat. 350][/us/stat/129/350]; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 914(e), (f)(2), Feb. 24, 2016, [130 Stat. 274][/us/stat/130/274], 276.)
 
  __References in Text__ 
 
@@ -229,7 +277,17 @@
 
     The Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec. (b)(1)(B), (3)(C), and (4)(C)(i), is title I of [Pub. L. 114–26][/us/pl/114/26], June 29, 2015, [129 Stat. 320][/us/stat/129/320], which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 4201 of this title][/us/usc/t19/s4201] and Tables.
 
-    [Section 4201(b)(15)(C) of this title][/us/usc/t19/s4201/b/15/C], referred to in subsec. (b)(5), probably should be a reference to [section 4201(b)(16)(C) of this title][/us/usc/t19/s4201/b/16/C], which relates to mandate and standard of review of panels convened under the Dispute Settlement Understanding and by the Appellate Body. Section 4201(b)(15)(C) relates to commitments to encourage and support anti-corruption and anti-bribery initiatives.
+ __Amendments__ 
+
+    2016—Subsec. (b)(5). [Pub. L. 114–125][/us/pl/114/125], § 914(f)(2), substituted “section 4201(b)(16)(C)” for “section 4201(b)(15)(C)”.
+
+    Subsec. (b)(6)(A). [Pub. L. 114–125][/us/pl/114/125], § 914(e)(2), substituted “listed as a tier 3 country in the most recent annual report on trafficking in persons” for “to which the minimum standards for the elimination of trafficking are applicable and the government of which does not fully comply with such standards and is not making significant efforts to bring the country into compliance (commonly referred to as a “tier 3” country), as determined in the most recent annual report on trafficking in persons submitted under section 110(b)(1) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7107(b)(1)][/us/usc/t22/s7107/b/1])”.
+
+    Subsec. (b)(6)(B) to (E). [Pub. L. 114–125][/us/pl/114/125], § 914(e)(1), added subpars. (B) to (E) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In this paragraph, the term ‘minimum standards for the elimination of trafficking’ means the standards set forth in section 108 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7106][/us/usc/t22/s7106]).”
+
+ __Effective Date of 2016 Amendment__ 
+
+    Amendment by [Pub. L. 114–125][/us/pl/114/125] effective as if included in the enactment of title I of [Pub. L. 114–26][/us/pl/114/26], see [section 914(g) of Pub. L. 114–125][/us/pl/114/125/s914/g], set out as a note under [section 4201 of this title][/us/usc/t19/s4201].
 
  __Delegation of Functions__ 
 
@@ -253,22 +311,32 @@
 [/us/usc/t19/s4204/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4204%2Fb%2F3%2FB
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
-[/us/usc/t19/s4201/b/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fb%2F15%2FC
+[/us/usc/t19/s4201/b/16/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fb%2F16%2FC
 [/us/usc/t19/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fb
 [/us/usc/t22/s7107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb%2F1
-[/us/usc/t22/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7106
+[/us/usc/t22/s7107/b/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb%2F2%2FA%2Fiii
+[/us/usc/t22/s7107/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb%2F1%2FC
 [/us/usc/t19/s4202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fc
 [/us/usc/t19/s4204/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4204%2Fb%2F3
-[/us/pl/114/26/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs106
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F350
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F274
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
-[/us/usc/t19/s4201/b/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fb%2F15%2FC
-[/us/usc/t19/s4201/b/16/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201%2Fb%2F16%2FC
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/usc/t22/s7107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb%2F1
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/usc/t22/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7106
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
+[/us/pl/114/125/s914/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs914%2Fg
+[/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 
 

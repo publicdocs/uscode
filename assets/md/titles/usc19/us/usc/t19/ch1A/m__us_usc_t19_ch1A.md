@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs81" data-uslm-ref="/us/usc/t19/s81">81</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs81l" data-uslm-ref="/us/usc/t19/s81l">81l.</a>  </td>
 
     <td> Facilities to be provided and maintained.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs81" data-uslm-ref="/us/usc/t19/s81">81</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs81o" data-uslm-ref="/us/usc/t19/s81o">81o.</a>  </td>
 
     <td> Residents of zone.  </td>
 

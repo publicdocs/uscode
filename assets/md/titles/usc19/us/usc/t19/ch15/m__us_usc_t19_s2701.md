@@ -17,7 +17,7 @@
 
     The President may proclaim duty-free treatment (or other preferential treatment) for all eligible articles from any beneficiary country in accordance with the provisions of this chapter.
 
-([Pub. L. 98–67, title II, § 211][/us/pl/98/67/s211], Aug. 5, 1983, [97 Stat. 384][/us/stat/97/384]; [Pub. L. 106–200, title II, § 211(e)(1)(A)][/us/pl/106/200/s211/e/1/A], May 18, 2000, [114 Stat. 287][/us/stat/114/287].)
+([Pub. L. 98–67, title II][/us/pl/98/67/tII], § 211, Aug. 5, 1983, [97 Stat. 384][/us/stat/97/384]; [Pub. L. 106–200, title II][/us/pl/106/200/tII], § 211(e)(1)(A), May 18, 2000, [114 Stat. 287][/us/stat/114/287].)
 
  __References in Text__ 
 
@@ -29,13 +29,13 @@
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–171, § 1][/us/pl/111/171/s1], May 24, 2010, [124 Stat. 1194][/us/stat/124/1194], provided that: 
+[Pub. L. 111–171][/us/pl/111/171], § 1, May 24, 2010, [124 Stat. 1194][/us/stat/124/1194], provided that: 
 
 > “This Act \[amending sections 58c, 2703, and 2703a of this title and enacting provisions set out as notes under [section 2703a of this title][/us/usc/t19/s2703a] and [section 6655 of Title 26][/us/usc/t26/s6655], Internal Revenue Code\] may be cited as the ‘Haiti Economic Lift Program Act of 2010’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–234, title XV, § 15401][/us/pl/110/234/s15401], May 22, 2008, [122 Stat. 1527][/us/stat/122/1527], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289, provided that: 
+[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15401, May 22, 2008, [122 Stat. 1527][/us/stat/122/1527], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289, provided that: 
 
 > “This part \[part I (§§ 15401–15412) of subtitle D of title XV of [Pub. L. 110–246][/us/pl/110/246], amending sections 2703 and 2703a of this title and enacting provisions set out as notes under [section 2703a of this title][/us/usc/t19/s2703a]\] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008’ or the ‘HOPE II Act’.”
 
@@ -43,31 +43,31 @@
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. D, title V, § 5001][/us/pl/109/432/s5001], Dec. 20, 2006, [120 Stat. 3181][/us/stat/120/3181], provided that: 
+[Pub. L. 109–432, div. D, title V][/us/pl/109/432/dD/tV], § 5001, Dec. 20, 2006, [120 Stat. 3181][/us/stat/120/3181], provided that: 
 
 > “This title \[enacting [section 2703a of this title][/us/usc/t19/s2703a], amending sections 2703 and 3203 of this title, and enacting provisions set out as a note under [section 2703 of this title][/us/usc/t19/s2703]\] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–200, title II, § 201][/us/pl/106/200/s201], May 18, 2000, [114 Stat. 275][/us/stat/114/275], provided that: 
+[Pub. L. 106–200, title II][/us/pl/106/200/tII], § 201, May 18, 2000, [114 Stat. 275][/us/stat/114/275], provided that: 
 
 > “This title \[amending this section and sections 2702 to 2704, 3202, and 3204 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘United States-Caribbean Basin Trade Partnership Act’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–382, title II, § 201][/us/pl/101/382/s201], Aug. 20, 1990, [104 Stat. 655][/us/stat/104/655], provided that: 
+[Pub. L. 101–382, title II][/us/pl/101/382/tII], § 201, Aug. 20, 1990, [104 Stat. 655][/us/stat/104/655], provided that: 
 
 > “This title \[enacting [section 226 of Title 20][/us/usc/t20/s226], Education, amending sections 1677, 2463, 2702, 2703, and 2706 of this title and [section 936 of Title 26][/us/usc/t26/s936], Internal Revenue Code, enacting provisions set out as notes under this section and sections 1677, 2071, and 2703 of this title and [section 936 of Title 26][/us/usc/t26/s936], and amending provisions set out as notes under [section 2703 of this title][/us/usc/t19/s2703]\] may be cited as the ‘Caribbean Basin Economic Recovery Expansion Act of 1990’.”
 
  __Short Title__ 
 
-[Pub. L. 98–67, title II, § 201][/us/pl/98/67/s201], Aug. 5, 1983, [97 Stat. 384][/us/stat/97/384], provided that: 
+[Pub. L. 98–67, title II][/us/pl/98/67/tII], § 201, Aug. 5, 1983, [97 Stat. 384][/us/stat/97/384], provided that: 
 
 > “This title \[enacting this chapter, amending [section 1202 of this title][/us/usc/t19/s1202] and sections 274 and 7652 of Title 26, Internal Revenue Code, repealing [section 2582 of this title][/us/usc/t19/s2582], and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and [section 1311 of Title 33][/us/usc/t33/s1311], Navigation and Navigable Waters\] may be cited as the ‘Caribbean Basin Economic Recovery Act’.”
 
  __Findings and Policy__ 
 
-[Pub. L. 106–200, title II, § 202][/us/pl/106/200/s202], May 18, 2000, [114 Stat. 275][/us/stat/114/275], provided that:
+[Pub. L. 106–200, title II][/us/pl/106/200/tII], § 202, May 18, 2000, [114 Stat. 275][/us/stat/114/275], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -99,7 +99,7 @@
 
  __Meetings of Trade Ministers and USTR__ 
 
-[Pub. L. 106–200, title II, § 213][/us/pl/106/200/s213], May 18, 2000, [114 Stat. 288][/us/stat/114/288], provided that:
+[Pub. L. 106–200, title II][/us/pl/106/200/tII], § 213, May 18, 2000, [114 Stat. 288][/us/stat/114/288], provided that:
 
 >     “(a)  __Schedule of Meetings__  __.—__ 
 
@@ -115,7 +115,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 101–382, title II, § 202][/us/pl/101/382/s202], Aug. 20, 1990, [104 Stat. 655][/us/stat/104/655], provided that: 
+[Pub. L. 101–382, title II][/us/pl/101/382/tII], § 202, Aug. 20, 1990, [104 Stat. 655][/us/stat/104/655], provided that: 
 
 > “The Congress finds that—
 
@@ -127,7 +127,7 @@
 
  __Definitions__ 
 
-[Pub. L. 106–200, title II, § 203][/us/pl/106/200/s203], May 18, 2000, [114 Stat. 276][/us/stat/114/276], provided that: 
+[Pub. L. 106–200, title II][/us/pl/106/200/tII], § 203, May 18, 2000, [114 Stat. 276][/us/stat/114/276], provided that: 
 
 > “In this title \[see Short Title of 2000 Amendment note above\]:
 
@@ -150,20 +150,20 @@
 ----------
 ----------
 
-[/us/pl/98/67/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs211
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
-[/us/pl/106/200/s211/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs211%2Fe%2F1%2FA
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
 [/us/stat/114/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F287
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
-[/us/pl/111/171/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171%2Fs1
+[/us/pl/111/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F171
 [/us/stat/124/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1194
 [/us/usc/t19/s2703a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703a
 [/us/usc/t26/s6655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6655
-[/us/pl/110/234/s15401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15401
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1527
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t19/s2703a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703a
@@ -172,34 +172,34 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/109/432/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs5001
+[/us/pl/109/432/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtV
 [/us/stat/120/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3181
 [/us/usc/t19/s2703a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703a
 [/us/usc/t19/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703
-[/us/pl/106/200/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs201
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
 [/us/stat/114/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F275
-[/us/pl/101/382/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs201
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F655
 [/us/usc/t20/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs226
 [/us/usc/t26/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs936
 [/us/usc/t26/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs936
 [/us/usc/t19/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703
-[/us/pl/98/67/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs201
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2582
 [/us/usc/t33/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1311
-[/us/pl/106/200/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs202
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
 [/us/stat/114/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F275
 [/us/usc/t19/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2701
-[/us/pl/106/200/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs213
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
 [/us/stat/114/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F288
 [/us/pl/103/182/s108/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs108%2Fb%2F5
 [/us/usc/t19/s3317/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3317%2Fb%2F5
 [/us/usc/t19/s2703/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703%2Fb%2F5%2FB
-[/us/pl/101/382/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs202
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F655
-[/us/pl/106/200/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs203
+[/us/pl/106/200/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtII
 [/us/stat/114/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F276
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501
 

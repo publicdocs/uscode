@@ -23,7 +23,7 @@
 
         Any reference in any law of the United States, or in any order, rule, regulation, or other document, to the United States Tariff Commission (or the Tariff Commission) shall be considered to refer to the United States International Trade Commission.
 
-([Pub. L. 93–618, title I, § 171][/us/pl/93/618/s171], Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 171, Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t19/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1330
-[/us/pl/93/618/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
 
 

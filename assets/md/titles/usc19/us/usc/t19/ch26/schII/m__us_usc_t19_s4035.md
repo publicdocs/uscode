@@ -87,7 +87,7 @@
 
         (2) has failed to demonstrate that it produces, or is capable of producing, textile or apparel goods.
 
-([Pub. L. 109–53, title II, § 209][/us/pl/109/53/s209], Aug. 2, 2005, [119 Stat. 486][/us/stat/119/486].)
+([Pub. L. 109–53, title II][/us/pl/109/53/tII], § 209, Aug. 2, 2005, [119 Stat. 486][/us/stat/119/486].)
 
  __Termination of Section__ 
 
@@ -109,7 +109,7 @@
 ----------
 
 [/us/usc/t19/s4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4033
-[/us/pl/109/53/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs209
+[/us/pl/109/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtII
 [/us/stat/119/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F486
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

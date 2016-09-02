@@ -17,7 +17,7 @@
 
     The President shall include as a part of the annual report required under [section 2291h of title 22][/us/usc/t22/s2291h] an evaluation of progress that each major drug producing country and each major drug-transit country has made during the reporting period in achieving the objectives set forth in [section 2492(b) of this title][/us/usc/t19/s2492/b].
 
-([Pub. L. 93–618, title VIII, § 804][/us/pl/93/618/s804], as added [Pub. L. 99–570, title IX, § 9001][/us/pl/99/570/s9001], Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166]; amended [Pub. L. 106–36, title I, § 1001(a)(9)][/us/pl/106/36/s1001/a/9], June 25, 1999, [113 Stat. 131][/us/stat/113/131].)
+([Pub. L. 93–618, title VIII][/us/pl/93/618/tVIII], § 804, as added [Pub. L. 99–570, title IX][/us/pl/99/570/tIX], § 9001, Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166]; amended [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(a)(9), June 25, 1999, [113 Stat. 131][/us/stat/113/131].)
 
  __Amendments__ 
 
@@ -32,10 +32,10 @@
 
 [/us/usc/t22/s2291h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h
 [/us/usc/t19/s2492/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2492%2Fb
-[/us/pl/93/618/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs804
-[/us/pl/99/570/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs9001
+[/us/pl/93/618/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVIII
+[/us/pl/99/570/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIX
 [/us/stat/100/3207-166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-166
-[/us/pl/106/36/s1001/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fa%2F9
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F131
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t22/s2291h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h

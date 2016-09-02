@@ -17,7 +17,7 @@
 
     Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, or whoever willfully overvalues any security, for the purpose of influencing in any way the action of the Secretary of Commerce under this part, or for the purpose of obtaining money, property, or anything of value under this part, shall be fined not more than $5,000 or imprisoned for not more than two years, or both.
 
-([Pub. L. 87–794, title III, § 319][/us/pl/87/794/s319], Oct. 11, 1962, [76 Stat. 892][/us/stat/76/892].)
+([Pub. L. 87–794, title III][/us/pl/87/794/tIII], § 319, Oct. 11, 1962, [76 Stat. 892][/us/stat/76/892].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/794/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs319
+[/us/pl/87/794/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtIII
 [/us/stat/76/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F892
 
 

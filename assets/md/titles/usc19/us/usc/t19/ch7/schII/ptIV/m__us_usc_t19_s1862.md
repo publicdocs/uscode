@@ -125,7 +125,7 @@
 
                 (ii) No amendment to a disapproval resolution shall be in order in either the House of Representatives or the Senate, and no motion to suspend the application of this clause shall be in order in either House nor shall it be in order in either House for the Presiding Officer to entertain a request to suspend the application of this clause by unanimous consent.
 
-([Pub. L. 87–794, title II, § 232][/us/pl/87/794/s232], Oct. 11, 1962, [76 Stat. 877][/us/stat/76/877]; [Pub. L. 93–618, title I, § 127(d)][/us/pl/93/618/s127/d], Jan. 3, 1975, [88 Stat. 1993][/us/stat/88/1993]; [Pub. L. 96–223, title IV, § 402][/us/pl/96/223/s402], Apr. 2, 1980, [94 Stat. 301][/us/stat/94/301]; [Pub. L. 100–418, title I, § 1501(a)][/us/pl/100/418/s1501/a], (b)(1), Aug. 23, 1988, [102 Stat. 1257][/us/stat/102/1257], 1259.)
+([Pub. L. 87–794, title II][/us/pl/87/794/tII], § 232, Oct. 11, 1962, [76 Stat. 877][/us/stat/76/877]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 127(d), Jan. 3, 1975, [88 Stat. 1993][/us/stat/88/1993]; [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 402, Apr. 2, 1980, [94 Stat. 301][/us/stat/94/301]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1501(a), (b)(1), Aug. 23, 1988, [102 Stat. 1257][/us/stat/102/1257], 1259.)
 
  __References in Text__ 
 
@@ -137,29 +137,29 @@
 
  __Amendments__ 
 
-    1988—Subsec. (b). [Pub. L. 100–418, § 1501(a)(3)][/us/pl/100/418/s1501/a/3], in adding subsec. (b) and striking out former subsec. (b) relating to similar subject matter, changed structure of subsec. (b) from a single unnumbered par. to one consisting of pars. (1) to (4).
+    1988—Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 1501(a)(3), in adding subsec. (b) and striking out former subsec. (b) relating to similar subject matter, changed structure of subsec. (b) from a single unnumbered par. to one consisting of pars. (1) to (4).
 
-    Subsec. (c). [Pub. L. 100–418, § 1501(a)(2)][/us/pl/100/418/s1501/a/2], (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1501(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-    Subsec. (d). [Pub. L. 100–418, § 1501(b)(1)][/us/pl/100/418/s1501/b/1], redesignated subsec. (e), as redesignated by [section 1501(a)(2) of Pub. L. 100–418][/us/pl/100/418/s1501/a/2], as subsec. (d) and amended it generally. Prior to amendment, subsec. (d) read as follows: “A report shall be made and published upon the disposition of each request, application, or motion under subsection (b) of this section. The Secretary shall publish procedural regulations to give effect to the authority conferred on him by subsection (b) of this section.”
+    Subsec. (d). [Pub. L. 100–418][/us/pl/100/418], § 1501(b)(1), redesignated subsec. (e), as redesignated by [section 1501(a)(2) of Pub. L. 100–418][/us/pl/100/418/s1501/a/2], as subsec. (d) and amended it generally. Prior to amendment, subsec. (d) read as follows: “A report shall be made and published upon the disposition of each request, application, or motion under subsection (b) of this section. The Secretary shall publish procedural regulations to give effect to the authority conferred on him by subsection (b) of this section.”
 
-    [Pub. L. 100–418, § 1501(a)(2)][/us/pl/100/418/s1501/a/2], redesignated subsec. (c), relating to domestic production for national defense and the impact of foreign competition on economic welfare of domestic industries, as (d). Former subsec. (d), relating to reports on investigations by Secretary of Commerce, redesignated (e).
+    [Pub. L. 100–418][/us/pl/100/418], § 1501(a)(2), redesignated subsec. (c), relating to domestic production for national defense and the impact of foreign competition on economic welfare of domestic industries, as (d). Former subsec. (d), relating to reports on investigations by Secretary of Commerce, redesignated (e).
 
-    Subsec. (e). [Pub. L. 100–418, § 1501(b)(1)][/us/pl/100/418/s1501/b/1], redesignated subsec. (e), as redesignated by [section 1501(a)(2) of Pub. L. 100–418][/us/pl/100/418/s1501/a/2], as subsec. (d) and amended it generally.
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1501(b)(1), redesignated subsec. (e), as redesignated by [section 1501(a)(2) of Pub. L. 100–418][/us/pl/100/418/s1501/a/2], as subsec. (d) and amended it generally.
 
-    [Pub. L. 100–418, § 1501(a)(2)][/us/pl/100/418/s1501/a/2], redesignated subsec. (d), relating to reports on investigations by Secretary of Commerce, as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 100–418][/us/pl/100/418], § 1501(a)(2), redesignated subsec. (d), relating to reports on investigations by Secretary of Commerce, as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 100–418, § 1501(a)(1)][/us/pl/100/418/s1501/a/1], (2), redesignated subsec. (e) as (f), and substituted reference to subsec. (c) of this section for reference to subsec. (b) of this section in pars. (1) and (2)(B).
+    Subsec. (f). [Pub. L. 100–418][/us/pl/100/418], § 1501(a)(1), (2), redesignated subsec. (e) as (f), and substituted reference to subsec. (c) of this section for reference to subsec. (b) of this section in pars. (1) and (2)(B).
 
     1980—Subsec. (e). [Pub. L. 96–223][/us/pl/96/223] added subsec. (e).
 
-    1975—Subsec. (b). [Pub. L. 93–618, § 127(d)(1)][/us/pl/93/618/s127/d/1]–(3), substituted “Secretary of the Treasury (hereinafter referred to as the ‘Secretary’)” for “Director of the Office of Emergency Planning (hereinafter in this section referred to as the ‘Director’)”, substituted “advice from, and shall consult with, the Secretary of Defense, the Secretary of Commerce, and other appropriate officers of the United States” for “advice from other appropriate departments and agencies”, inserted provision for public hearings by the Secretary as part of his investigation, inserted requirement that the Secretary report to the President when he recommends inaction in the same way that a report to the President is required when he recommends action under this section, and placed a 1-year time limit on the Secretary’s investigation before making his recommendation to the President.
+    1975—Subsec. (b). [Pub. L. 93–618][/us/pl/93/618], § 127(d)(1)–(3), substituted “Secretary of the Treasury (hereinafter referred to as the ‘Secretary’)” for “Director of the Office of Emergency Planning (hereinafter in this section referred to as the ‘Director’)”, substituted “advice from, and shall consult with, the Secretary of Defense, the Secretary of Commerce, and other appropriate officers of the United States” for “advice from other appropriate departments and agencies”, inserted provision for public hearings by the Secretary as part of his investigation, inserted requirement that the Secretary report to the President when he recommends inaction in the same way that a report to the President is required when he recommends action under this section, and placed a 1-year time limit on the Secretary’s investigation before making his recommendation to the President.
 
-    Subsecs. (c), (d). [Pub. L. 93–618, § 127(d)(4)][/us/pl/93/618/s127/d/4], substituted “Secretary” for “Director”.
+    Subsecs. (c), (d). [Pub. L. 93–618][/us/pl/93/618], § 127(d)(4), substituted “Secretary” for “Director”.
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–418, title I, § 1501(d)][/us/pl/100/418/s1501/d], Aug. 23, 1988, [102 Stat. 1259][/us/stat/102/1259], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1501(d), Aug. 23, 1988, [102 Stat. 1259][/us/stat/102/1259], provided that:
 
 >     “(1) Except as otherwise provided under this subsection, the amendments made by this section \[amending this section and repealing [section 1863 of this title][/us/usc/t19/s1863]\] shall apply with respect to investigations initiated under section 232(b) of the Trade Expansion Act of 1962 \[[19 U.S.C. 1862(b)][/us/usc/t19/s1862/b]\] on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
@@ -175,7 +175,7 @@
 
  __Petroleum Import Adjustment Program; Oil Import Fee of__  __April 2, 1980__  __;__  __Cessation of Force and Effect of Presidential Action__ 
 
-[Pub. L. 96–264, § 2][/us/pl/96/264/s2], June 6, 1980, [94 Stat. 439][/us/stat/94/439], provided that: 
+[Pub. L. 96–264][/us/pl/96/264], § 2, June 6, 1980, [94 Stat. 439][/us/stat/94/439], provided that: 
 
 > “Notwithstanding any other provision of law, the action taken by the President under section 232(b) of the Trade Expansion Act of 1962 ([19 U.S.C. 1862(b)][/us/usc/t19/s1862/b]) with respect to petroleum imports under Proclamation 4744, dated April 2, 1980, as amended \[formerly set out below\], shall cease to have force and effect upon the date of the enactment of this Act \[June 6, 1980\].”
 
@@ -260,33 +260,33 @@ NOW, THEREFORE, I, RONALD REAGAN, President of the United States of America, by 
 
 [/us/usc/t19/s1821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1821%2Fa
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
-[/us/pl/87/794/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs232
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F877
-[/us/pl/93/618/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs127%2Fd
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1993
-[/us/pl/96/223/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs402
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F301
-[/us/pl/100/418/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1257
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/100/418/s1501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fa%2F3
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fa%2F2
-[/us/pl/100/418/s1501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fb%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fa%2F2
-[/us/pl/100/418/s1501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fa%2F2
-[/us/pl/100/418/s1501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fb%2F1
-[/us/pl/100/418/s1501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fa%2F2
-[/us/pl/100/418/s1501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fa%2F2
-[/us/pl/100/418/s1501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fa%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
-[/us/pl/93/618/s127/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs127%2Fd%2F1
-[/us/pl/93/618/s127/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs127%2Fd%2F4
-[/us/pl/100/418/s1501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1501%2Fd
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1259
 [/us/usc/t19/s1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1863
 [/us/usc/t19/s1862/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862%2Fb
-[/us/pl/96/264/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F264%2Fs2
+[/us/pl/96/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F264
 [/us/stat/94/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F439
 [/us/usc/t19/s1862/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862%2Fb
 [/us/usc/t19/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1862

@@ -23,7 +23,7 @@
 
         The President shall transmit to each Member of the Congress a summary of the information required to be transmitted to each House under subsection (a). For purposes of this subsection, the term “Member” includes any Delegate or Resident Commissioner.
 
-([Pub. L. 93–618, title I, § 162][/us/pl/93/618/s162], Jan. 3, 1975, [88 Stat. 2008][/us/stat/88/2008]; [Pub. L. 100–647, title IX, § 9001(a)(10)][/us/pl/100/647/s9001/a/10], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 107–210, div. B, title XXI, § 2110(a)(6)][/us/pl/107/210/s2110/a/6], Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020]; [Pub. L. 114–26, title I, § 110(a)(7)][/us/pl/114/26/s110/a/7], June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 162, Jan. 3, 1975, [88 Stat. 2008][/us/stat/88/2008]; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(10), Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2110(a)(6), Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020]; [Pub. L. 114–26, title I][/us/pl/114/26/tI], § 110(a)(7), June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
 
  __Amendments__ 
 
@@ -50,13 +50,13 @@
 
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s2151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2151%2Fb
-[/us/pl/93/618/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs162
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2008
-[/us/pl/100/647/s9001/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F10
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3807
-[/us/pl/107/210/s2110/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fa%2F6
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1020
-[/us/pl/114/26/s110/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fa%2F7
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F358
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202

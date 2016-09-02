@@ -115,7 +115,7 @@
 
         the Customs Service may, upon application by an importer in advance, treat such separate shipments for entry purposes as a single transaction.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 484, [46 Stat. 722][/us/stat/46/722]; [June 25, 1938, ch. 679, § 12][/us/act/1938-06-25/ch679/s12], [52 Stat. 1083][/us/stat/52/1083]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], §§ 3(b), 16(b), (c), [67 Stat. 509][/us/stat/67/509], 517; [Pub. L. 91–271, title III, § 301(i)][/us/pl/91/271/s301/i], June 2, 1970, [84 Stat. 288][/us/stat/84/288]; [Pub. L. 93–618, title VI, § 608(a)][/us/pl/93/618/s608/a], Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073]; [Pub. L. 95–106, § 4][/us/pl/95/106/s4], Aug. 17, 1977, [91 Stat. 869][/us/stat/91/869]; [Pub. L. 95–410, title I, § 102(a)][/us/pl/95/410/s102/a], Oct. 3, 1978, [92 Stat. 888][/us/stat/92/888]; [Pub. L. 97–446, title II, § 201(d)][/us/pl/97/446/s201/d], Jan. 12, 1983, [96 Stat. 2349][/us/stat/96/2349]; [Pub. L. 103–182, title VI, § 637(a)][/us/pl/103/182/s637/a], Dec. 8, 1993, [107 Stat. 2200][/us/stat/107/2200]; [Pub. L. 104–153, § 12][/us/pl/104/153/s12], July 2, 1996, [110 Stat. 1389][/us/stat/110/1389]; [Pub. L. 104–295][/us/pl/104/295], §§ 18(b), 21(e)(6), Oct. 11, 1996, [110 Stat. 3524][/us/stat/110/3524], 3531; [Pub. L. 106–200, title IV, § 410(a)][/us/pl/106/200/s410/a], May 18, 2000, [114 Stat. 297][/us/stat/114/297]; [Pub. L. 106–476, title I, § 1460(a)][/us/pl/106/476/s1460/a], Nov. 9, 2000, [114 Stat. 2171][/us/stat/114/2171]; [Pub. L. 108–429, title II, § 2101][/us/pl/108/429/s2101], Dec. 3, 2004, [118 Stat. 2597][/us/stat/118/2597]; [Pub. L. 109–280, title XIV, § 1635(a)][/us/pl/109/280/s1635/a], Aug. 17, 2006, [120 Stat. 1170][/us/stat/120/1170].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 484, [46 Stat. 722][/us/stat/46/722]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 12, [52 Stat. 1083][/us/stat/52/1083]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], §§ 3(b), 16(b), (c), [67 Stat. 509][/us/stat/67/509], 517; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(i), June 2, 1970, [84 Stat. 288][/us/stat/84/288]; [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 608(a), Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073]; [Pub. L. 95–106][/us/pl/95/106], § 4, Aug. 17, 1977, [91 Stat. 869][/us/stat/91/869]; [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 102(a), Oct. 3, 1978, [92 Stat. 888][/us/stat/92/888]; [Pub. L. 97–446, title II][/us/pl/97/446/tII], § 201(d), Jan. 12, 1983, [96 Stat. 2349][/us/stat/96/2349]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 637(a), Dec. 8, 1993, [107 Stat. 2200][/us/stat/107/2200]; [Pub. L. 104–153][/us/pl/104/153], § 12, July 2, 1996, [110 Stat. 1389][/us/stat/110/1389]; [Pub. L. 104–295][/us/pl/104/295], §§ 18(b), 21(e)(6), Oct. 11, 1996, [110 Stat. 3524][/us/stat/110/3524], 3531; [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 410(a), May 18, 2000, [114 Stat. 297][/us/stat/114/297]; [Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1460(a), Nov. 9, 2000, [114 Stat. 2171][/us/stat/114/2171]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2101, Dec. 3, 2004, [118 Stat. 2597][/us/stat/118/2597]; [Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1635(a), Aug. 17, 2006, [120 Stat. 1170][/us/stat/120/1170].)
 
  __References in Text__ 
 
@@ -123,79 +123,79 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 484, [42 Stat. 960][/us/stat/42/960]. That section was superseded by section 484 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 484, [42 Stat. 960][/us/stat/42/960]. That section was superseded by section 484 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions requiring entry of goods, and prescribing the manner of making it, the documents to be produced, etc., were contained in R.S. § 2785. Provision for entry when the particulars of the merchandise were unknown was made by R.S. § 2788. A special provision regarding entry of distilled spirits and wines was contained in R.S. § 2794. All of these sections were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions requiring entry of goods, and prescribing the manner of making it, the documents to be produced, etc., were contained in R.S. § 2785. Provision for entry when the particulars of the merchandise were unknown was made by R.S. § 2788. A special provision regarding entry of distilled spirits and wines was contained in R.S. § 2794. All of these sections were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
-    Provisions relating to the production of certified invoices were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, E, [38 Stat. 182][/us/stat/38/182], which reenacted the provisions of the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 92][/us/stat/36/92], which amended Customs Administrative [Act of June 10, 1890, ch. 407, § 4][/us/act/1890-06-10/ch407/s4], [26 Stat. 131][/us/stat/26/131]. Said section III, E, was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989]. Earlier provisions were contained in R.S. § 2860, and [act June 22, 1874, ch. 391][/us/act/1874-06-22/ch391], §§ 9, 10, and 11, all repealed by [act June 10, 1890, ch. 407, § 29][/us/act/1890-06-10/ch407/s29], [26 Stat. 141][/us/stat/26/141].
+    Provisions relating to the production of certified invoices were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, E, [38 Stat. 182][/us/stat/38/182], which reenacted the provisions of the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 92][/us/stat/36/92], which amended Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 4, [26 Stat. 131][/us/stat/26/131]. Said section III, E, was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989]. Earlier provisions were contained in R.S. § 2860, and [act June 22, 1874, ch. 391][/us/act/1874-06-22/ch391], §§ 9, 10, and 11, all repealed by [act June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 29, [26 Stat. 141][/us/stat/26/141].
 
-    R.S. § 2842 required bond for the production of an invoice duly certified by the oath of the owner or one of them, in the case of merchandise belonging to a resident of the United States absent from the place of entry. R.S. § 2852, provided that when merchandise was admitted to entry on invoice, the collector should certify the same, and no other evidence of value should be admitted on the part of the owner, except in corroboration of the entry. R.S. § 2859, made special provision for entry of merchandise from countries where there was no United States consul, etc. These sections were all repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    R.S. § 2842 required bond for the production of an invoice duly certified by the oath of the owner or one of them, in the case of merchandise belonging to a resident of the United States absent from the place of entry. R.S. § 2852, provided that when merchandise was admitted to entry on invoice, the collector should certify the same, and no other evidence of value should be admitted on the part of the owner, except in corroboration of the entry. R.S. § 2859, made special provision for entry of merchandise from countries where there was no United States consul, etc. These sections were all repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
-    R.S. §§ 2847 and 2848 authorized the Secretary of the Treasury to admit to entry in certain cases merchandise subject to ad valorem duty, belonging to a person not residing in the United States, not accompanied with an invoice verified and authenticated as required by preceding section. They became inoperative by the repeal of R.S. §§ 2843, 2845, by the Customs Administrative [Act of June 10, 1890, ch. 407, § 29][/us/act/1890-06-10/ch407/s29], [26 Stat. 141][/us/stat/26/141], reenacted by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 104][/us/stat/36/104], and the enactment of provisions for entry of goods without invoice by section 4 of said Customs Administrative Act amended by the Payne-Aldrich Tariff Act, and further amended by the Underwood Tariff [Act of Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, E, and were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    R.S. §§ 2847 and 2848 authorized the Secretary of the Treasury to admit to entry in certain cases merchandise subject to ad valorem duty, belonging to a person not residing in the United States, not accompanied with an invoice verified and authenticated as required by preceding section. They became inoperative by the repeal of R.S. §§ 2843, 2845, by the Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 29, [26 Stat. 141][/us/stat/26/141], reenacted by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 104][/us/stat/36/104], and the enactment of provisions for entry of goods without invoice by section 4 of said Customs Administrative Act amended by the Payne-Aldrich Tariff Act, and further amended by the Underwood Tariff [Act of Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, E, and were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
-    R.S. § 2858, provided that the Secretary of the Treasury, whenever it had become impracticable for the person desiring to make entry of merchandise to produce any invoice thereof, might authorize the entry thereof, and remit forfeitures in such cases, as in other cases under the revenue laws. It was repealed by the Customs Administrative [Act of June 10, 1890, ch. 407, § 29][/us/act/1890-06-10/ch407/s29], [26 Stat. 141][/us/stat/26/141], reenacted by the Payne-Aldrich [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 104][/us/stat/36/104].
+    R.S. § 2858, provided that the Secretary of the Treasury, whenever it had become impracticable for the person desiring to make entry of merchandise to produce any invoice thereof, might authorize the entry thereof, and remit forfeitures in such cases, as in other cases under the revenue laws. It was repealed by the Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 29, [26 Stat. 141][/us/stat/26/141], reenacted by the Payne-Aldrich [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 104][/us/stat/36/104].
 
-    A provision relating to statistical enumeration of merchandise, except that the “accurate statement” was to be a part of the declaration therein provided for, and a further provision making it the duty of the consular officer to whom the invoice should be produced to require the information to be given, were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, F, [38 Stat. 182][/us/stat/38/182], amending the Customs Administrative [Act of June 10, 1890, ch. 407, § 5][/us/act/1890-06-10/ch407/s5], [26 Stat. 132][/us/stat/26/132], as previously amended by Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 95][/us/stat/36/95]. Said section III, F, was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989].
+    A provision relating to statistical enumeration of merchandise, except that the “accurate statement” was to be a part of the declaration therein provided for, and a further provision making it the duty of the consular officer to whom the invoice should be produced to require the information to be given, were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, F, [38 Stat. 182][/us/stat/38/182], amending the Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 5, [26 Stat. 132][/us/stat/26/132], as previously amended by Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 95][/us/stat/36/95]. Said section III, F, was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989].
 
-    Prior provisions on the subject of subsequent entry of part of merchandise and separate entry of packages contained in packages for delivery to others were contained in [act May 1, 1876, ch. 89, § 1][/us/act/1876-05-01/ch89/s1], [19 Stat. 49][/us/stat/19/49], which was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989]; and in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, F, [38 Stat. 182][/us/stat/38/182], amending Customs Administrative [Act of June 10, 1890, ch. 407, § 5][/us/act/1890-06-10/ch407/s5], [26 Stat. 132][/us/stat/26/132], as previously amended by Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 95][/us/stat/36/95]. Said section III, F, was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989].
+    Prior provisions on the subject of subsequent entry of part of merchandise and separate entry of packages contained in packages for delivery to others were contained in [act May 1, 1876, ch. 89][/us/act/1876-05-01/ch89], § 1, [19 Stat. 49][/us/stat/19/49], which was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989]; and in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, F, [38 Stat. 182][/us/stat/38/182], amending Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 5, [26 Stat. 132][/us/stat/26/132], as previously amended by Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 28, [36 Stat. 95][/us/stat/36/95]. Said section III, F, was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1)(A). [Pub. L. 109–280, § 1635(a)(1)][/us/pl/109/280/s1635/a/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “make entry therefor by filing with the Customs Service—
+    2006—Subsec. (a)(1)(A). [Pub. L. 109–280][/us/pl/109/280], § 1635(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “make entry therefor by filing with the Customs Service—
 
     “(i) such documentation or, pursuant to an electronic data interchange system, such information as is necessary to enable the Customs Service to determine whether the merchandise may be released from customs custody, and
 
     “(ii) notification whether an import activity summary statement will be filed; and”.
 
-    Subsec. (a)(2)(A). [Pub. L. 109–280, § 1635(a)(2)][/us/pl/109/280/s1635/a/2], inserted “merchandise released under a special delivery permit pursuant to [section 1448(b) of this title][/us/usc/t19/s1448/b] and” after “covering” in second sentence.
+    Subsec. (a)(2)(A). [Pub. L. 109–280][/us/pl/109/280], § 1635(a)(2), inserted “merchandise released under a special delivery permit pursuant to [section 1448(b) of this title][/us/usc/t19/s1448/b] and” after “covering” in second sentence.
 
-    2004—Subsec. (a)(1)(B). [Pub. L. 108–429, § 2101(a)(1)][/us/pl/108/429/s2101/a/1], inserted “, or substitute 1 or more reconfigured entries on an import activity summary statement,” after “entry” in introductory provisions.
+    2004—Subsec. (a)(1)(B). [Pub. L. 108–429][/us/pl/108/429], § 2101(a)(1), inserted “, or substitute 1 or more reconfigured entries on an import activity summary statement,” after “entry” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 108–429, § 2101(a)(2)][/us/pl/108/429/s2101/a/2], in second sentence, inserted “and permit the filing of reconfigured entries,” after “statements,” and, at end, inserted “Entries filed under paragraph (1)(A) shall not be liquidated if covered by an import activity summary statement, but instead each reconfigured entry in the import activity summary statement shall be subject to liquidation or reliquidation pursuant to section 1500, 1501, or 1504 of this title.”
+    Subsec. (a)(2)(A). [Pub. L. 108–429][/us/pl/108/429], § 2101(a)(2), in second sentence, inserted “and permit the filing of reconfigured entries,” after “statements,” and, at end, inserted “Entries filed under paragraph (1)(A) shall not be liquidated if covered by an import activity summary statement, but instead each reconfigured entry in the import activity summary statement shall be subject to liquidation or reliquidation pursuant to section 1500, 1501, or 1504 of this title.”
 
-    Subsec. (b)(1). [Pub. L. 108–429, § 2101(b)][/us/pl/108/429/s2101/b], substituted “21 months” for “15 months” in fourth sentence.
+    Subsec. (b)(1). [Pub. L. 108–429][/us/pl/108/429], § 2101(b), substituted “21 months” for “15 months” in fourth sentence.
 
     2000—Subsec. (i). [Pub. L. 106–200][/us/pl/106/200] added subsec. (i).
 
     Subsec. (j). [Pub. L. 106–476][/us/pl/106/476] added subsec. (j).
 
-    1996—Subsec. (a)(1). [Pub. L. 104–295, § 21(e)(6)][/us/pl/104/295/s21/e/6], substituted “and 1553” for “1553, and 1336(j)”.
+    1996—Subsec. (a)(1). [Pub. L. 104–295][/us/pl/104/295], § 21(e)(6), substituted “and 1553” for “1553, and 1336(j)”.
 
-    Subsec. (b)(1). [Pub. L. 104–295, § 18(b)][/us/pl/104/295/s18/b], substituted “A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 15 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed.” for “A party that electronically transmits an entry summary or import activity summary statement may at the time of filing such summary or statement notify the Customs Service of his intention to file a reconciliation pursuant to such regulations as the Secretary may prescribe. Such reconciliation must be filed by the importer of record within such time period as is prescribed by regulation but no later than 15 months following the filing of the entry summary or import activity summary statement; except that the prescribed time period for reconciliation issues relating to the assessment of antidumping and countervailing duties shall require filing no later than 90 days after the Customs Service advises the importer that a period of review for antidumping or countervailing duty purposes has been completed.”
+    Subsec. (b)(1). [Pub. L. 104–295][/us/pl/104/295], § 18(b), substituted “A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 15 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed.” for “A party that electronically transmits an entry summary or import activity summary statement may at the time of filing such summary or statement notify the Customs Service of his intention to file a reconciliation pursuant to such regulations as the Secretary may prescribe. Such reconciliation must be filed by the importer of record within such time period as is prescribed by regulation but no later than 15 months following the filing of the entry summary or import activity summary statement; except that the prescribed time period for reconciliation issues relating to the assessment of antidumping and countervailing duties shall require filing no later than 90 days after the Customs Service advises the importer that a period of review for antidumping or countervailing duty purposes has been completed.”
 
     Subsec. (d). [Pub. L. 104–153][/us/pl/104/153] designated existing provisions as par. (1) and added par. (2).
 
     1993—[Pub. L. 103–182][/us/pl/103/182] amended section generally, substituting present provisions for provisions relating to entry of merchandise and providing specifically for requirement and time, production of certified invoice, production of bill of lading, signing and contents of entry, statistical enumeration, packages included, statement of cost of production, certification of owner by carrier, acceptance of duplicate bill of lading, and release of merchandise from customs custody.
 
-    1983—Subsec. (a)(1). [Pub. L. 97–446, § 201(d)(1)(A)][/us/pl/97/446/s201/d/1/A], substituted “one of the parties qualifying as ‘importer of record’ under paragraph (2)(C) of this subsection” for “the consignee of imported merchandise”, and “authorized by him” for “authorized by the consignee”.
+    1983—Subsec. (a)(1). [Pub. L. 97–446][/us/pl/97/446], § 201(d)(1)(A), substituted “one of the parties qualifying as ‘importer of record’ under paragraph (2)(C) of this subsection” for “the consignee of imported merchandise”, and “authorized by him” for “authorized by the consignee”.
 
-    Subsec. (a)(2)(C), (D). [Pub. L. 97–446, § 201(d)(1)(B)][/us/pl/97/446/s201/d/1/B], (C), added subpar. (C), redesignated former subpar. (C) as (D), and in subpar. (D) as so redesignated substituted “importers of record” for “consignees” after “treatment of all”.
+    Subsec. (a)(2)(C), (D). [Pub. L. 97–446][/us/pl/97/446], § 201(d)(1)(B), (C), added subpar. (C), redesignated former subpar. (C) as (D), and in subpar. (D) as so redesignated substituted “importers of record” for “consignees” after “treatment of all”.
 
-    Subsec. (c). [Pub. L. 97–446, § 201(d)(2)][/us/pl/97/446/s201/d/2], substituted “importer of record” for “consignee” before “shall produce”.
+    Subsec. (c). [Pub. L. 97–446][/us/pl/97/446], § 201(d)(2), substituted “importer of record” for “consignee” before “shall produce”.
 
-    Subsec. (d). [Pub. L. 97–446, § 201(d)(2)][/us/pl/97/446/s201/d/2], substituted “importer of record” for “consignee” after “signed by the”.
+    Subsec. (d). [Pub. L. 97–446][/us/pl/97/446], § 201(d)(2), substituted “importer of record” for “consignee” after “signed by the”.
 
-    Subsec. (h). [Pub. L. 97–446, § 201(d)(3)][/us/pl/97/446/s201/d/3], substituted provision relating to authority of carrier of merchandise bringing it into the port to certify any person to receive the merchandise if the carrier has actual knowledge of the accuracy of the certification, for provision that any person certified by the carrier bringing the merchandise to the port at which entry was to be made to be the owner or consignee of the merchandise, or an agent of such owner or consignee, might make entry thereof, either in person or by an authorized agent, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of [section 1483 of this title][/us/usc/t19/s1483].
+    Subsec. (h). [Pub. L. 97–446][/us/pl/97/446], § 201(d)(3), substituted provision relating to authority of carrier of merchandise bringing it into the port to certify any person to receive the merchandise if the carrier has actual knowledge of the accuracy of the certification, for provision that any person certified by the carrier bringing the merchandise to the port at which entry was to be made to be the owner or consignee of the merchandise, or an agent of such owner or consignee, might make entry thereof, either in person or by an authorized agent, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of [section 1483 of this title][/us/usc/t19/s1483].
 
-    Subsec. (i). [Pub. L. 97–446, § 201(d)(3)][/us/pl/97/446/s201/d/3], substituted provision authorizing appropriate customs officer to accept a duplicate bill of lading, for provision that any person might, upon the production of a duplicate bill of lading signed or certified to be genuine by the carrier bringing the merchandise to the port at which entry was to be made, make entry for the merchandise in respect to which such bill of lading was issued, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of [section 1483 of this title][/us/usc/t19/s1483], except that such person was to make such entry in his own name.
+    Subsec. (i). [Pub. L. 97–446][/us/pl/97/446], § 201(d)(3), substituted provision authorizing appropriate customs officer to accept a duplicate bill of lading, for provision that any person might, upon the production of a duplicate bill of lading signed or certified to be genuine by the carrier bringing the merchandise to the port at which entry was to be made, make entry for the merchandise in respect to which such bill of lading was issued, in the manner and subject to the requirements prescribed in this section (or in regulations promulgated hereunder) in the case of a consignee within the meaning of paragraph (1) of [section 1483 of this title][/us/usc/t19/s1483], except that such person was to make such entry in his own name.
 
-    1978—Subsec. (a). [Pub. L. 95–410, § 102(a)(1)][/us/pl/95/410/s102/a/1], incorporated first sentence in introductory text of par. designated (1), added subpars. (A) and (B) and par. (2), and struck out second sentence which required the entry to be made at the customhouse within five days, exclusive of Sundays and holidays, after the entry of the importing vessel or report of the vehicle, or after the arrival at the port of destination in the case of merchandise transported in bond, unless the appropriate customs officer authorized in writing a longer time.
+    1978—Subsec. (a). [Pub. L. 95–410][/us/pl/95/410], § 102(a)(1), incorporated first sentence in introductory text of par. designated (1), added subpars. (A) and (B) and par. (2), and struck out second sentence which required the entry to be made at the customhouse within five days, exclusive of Sundays and holidays, after the entry of the importing vessel or report of the vehicle, or after the arrival at the port of destination in the case of merchandise transported in bond, unless the appropriate customs officer authorized in writing a longer time.
 
-    Subsec. (c)(3). [Pub. L. 95–410, § 102(a)(2)][/us/pl/95/410/s102/a/2], substituted “subsection” for “subdivision”.
+    Subsec. (c)(3). [Pub. L. 95–410][/us/pl/95/410], § 102(a)(2), substituted “subsection” for “subdivision”.
 
-    Subsec. (j). [Pub. L. 95–410, § 102(a)(3)][/us/pl/95/410/s102/a/3], struck out “The custom officer shall return to the person making entry the bill of lading (if any is produced) with a notation thereon to the effect that entry for such merchandise has been made.”
+    Subsec. (j). [Pub. L. 95–410][/us/pl/95/410], § 102(a)(3), struck out “The custom officer shall return to the person making entry the bill of lading (if any is produced) with a notation thereon to the effect that entry for such merchandise has been made.”
 
     1977—Subsec. (e). [Pub. L. 95–106][/us/pl/95/106] substituted “production and programs for achieving international harmonization of trade statistics,” for “production,”.
 
     1975—Subsec. (e). [Pub. L. 93–618][/us/pl/93/618] substituted “United States International Trade Commission” for “United States Tariff Commission” and inserted references to an enumeration of articles exported from the United States and, in conjunction with statistical programs for domestic production, to the establishment of the comparability thereof with the enumeration of articles.
 
-    1970—Subsec. (a). [Pub. L. 91–271, § 301(i)(1)][/us/pl/91/271/s301/i/1], substituted reference to appropriate customs officer for reference to collector.
+    1970—Subsec. (a). [Pub. L. 91–271][/us/pl/91/271], § 301(i)(1), substituted reference to appropriate customs officer for reference to collector.
 
-    Subsec. (c). [Pub. L. 91–271, § 301(i)(2)][/us/pl/91/271/s301/i/2], (3), substituted references to appropriate customs officer or such customs officer for references to collector wherever appearing.
+    Subsec. (c). [Pub. L. 91–271][/us/pl/91/271], § 301(i)(2), (3), substituted references to appropriate customs officer or such customs officer for references to collector wherever appearing.
 
-    Subsec. (g). [Pub. L. 91–271, § 301(i)(4)][/us/pl/91/271/s301/i/4], substituted reference to appropriate customs officer for reference to collector or appraiser.
+    Subsec. (g). [Pub. L. 91–271][/us/pl/91/271], § 301(i)(4), substituted reference to appropriate customs officer for reference to collector or appraiser.
 
-    Subsec. (j). [Pub. L. 91–271, § 301(i)(5)][/us/pl/91/271/s301/i/5], (6), substituted references to customs officer or such customs officer for references to collector wherever appearing.
+    Subsec. (j). [Pub. L. 91–271][/us/pl/91/271], § 301(i)(5), (6), substituted references to customs officer or such customs officer for references to collector wherever appearing.
 
     1953—Subsec. (a). Act Aug. 8, 1953, § 16(b), substituted “five days” for “forty-eight hours”.
 
@@ -217,25 +217,25 @@
 
     Amendment by [Pub. L. 106–476][/us/pl/106/476], except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see [section 1471 of Pub. L. 106–476][/us/pl/106/476/s1471], set out as a note under [section 58c of this title][/us/usc/t19/s58c].
 
-[Pub. L. 106–200, title IV, § 410(b)][/us/pl/106/200/s410/b], May 18, 2000, [114 Stat. 298][/us/stat/114/298], provided that: 
+[Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 410(b), May 18, 2000, [114 Stat. 298][/us/stat/114/298], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[May 18, 2000\].”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–446, title II, § 201(g)][/us/pl/97/446/s201/g], Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350], provided that: 
+[Pub. L. 97–446, title II][/us/pl/97/446/tII], § 201(g), Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350], provided that: 
 
 > “The amendments made by this section \[amending the General headnotes of the Tariff Schedules, this section, and sections 1485, 1487, 1494, 1505, and 1557 of this title, and repealing [section 1483 of this title][/us/usc/t19/s1483]\] shall apply with respect to merchandise entered on and after the 30th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–410, title I, § 102(b)][/us/pl/95/410/s102/b], Oct. 3, 1978, [92 Stat. 889][/us/stat/92/889], provided that: 
+[Pub. L. 95–410, title I][/us/pl/95/410/tI], § 102(b), Oct. 3, 1978, [92 Stat. 889][/us/stat/92/889], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect 60 days after the date of enactment of this Act \[Oct. 3, 1978\].”
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–618, title VI, § 608(e)][/us/pl/93/618/s608/e], Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074], provided that: 
+[Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 608(e), Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] insofar as it related to export declarations shall take effect on January 1, 1976.”
 
@@ -253,7 +253,7 @@
 
  __Regulations__ 
 
-[Pub. L. 106–476, title I, § 1460(b)][/us/pl/106/476/s1460/b], Nov. 9, 2000, [114 Stat. 2171][/us/stat/114/2171], provided that: 
+[Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1460(b), Nov. 9, 2000, [114 Stat. 2171][/us/stat/114/2171], provided that: 
 
 > “Not later than 6 months after the date of the enactment of this Act \[Nov. 9, 2000\], the Secretary of the Treasury shall issue regulations to carry out section 484(j) of the Tariff Act of 1930 \[[19 U.S.C. 1484(j)][/us/usc/t19/s1484/j]\], as added by subsection (a).”
 
@@ -263,7 +263,7 @@
 
  __Requirements Relating to Determination of Transaction Value of Imported Merchandise__ 
 
-[Pub. L. 110–234, title XV, § 15422][/us/pl/110/234/s15422], May 22, 2008, [122 Stat. 1547][/us/stat/122/1547], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15422, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2309, provided that:
+[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15422, May 22, 2008, [122 Stat. 1547][/us/stat/122/1547], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15422, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2309, provided that:
 
 >     “(a) __Requirement on Importers.—__ 
 
@@ -369,7 +369,7 @@
 
  __Drug Paraphernalia__ 
 
-[Pub. L. 101–382, title I, § 137][/us/pl/101/382/s137], Aug. 20, 1990, [104 Stat. 652][/us/stat/104/652], provided that:
+[Pub. L. 101–382, title I][/us/pl/101/382/tI], § 137, Aug. 20, 1990, [104 Stat. 652][/us/stat/104/652], provided that:
 
 >     “(a)  __Statistical Annotations__  __.—__ 
 
@@ -381,15 +381,15 @@
 
  __Study of Commodity Classification Systems__ 
 
-    [Pub. L. 93–618, title VI, § 608(b)][/us/pl/93/618/s608/b], Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074], mandated a joint study by the Secretary of Commerce and the United States International Trade Commission with a view toward development of an enumeration of articles resulting in comparability of import, production, and export data, with the submission of a report to both Houses of Congress and to the President no later than Aug. 1, 1975.
+    [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 608(b), Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074], mandated a joint study by the Secretary of Commerce and the United States International Trade Commission with a view toward development of an enumeration of articles resulting in comparability of import, production, and export data, with the submission of a report to both Houses of Congress and to the President no later than Aug. 1, 1975.
 
  __Investigation by United States International Trade Commission; Formulation of International Commodity Code__ 
 
-    [Pub. L. 93–618, title VI, § 608(c)][/us/pl/93/618/s608/c], Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074], authorized an investigation by the United States International Trade Commission to provide the basis for the formulation of an international commodity code (with a report to be submitted to both Houses of Congress and to the President no later than June 1, 1975) and to provide the basis for full and immediate participation by the Trade Commission in the United States contribution to technical work of the Harmonized Systems Committee to assure recognition of the needs of the business community in the development of a harmonized code.
+    [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 608(c), Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074], authorized an investigation by the United States International Trade Commission to provide the basis for the formulation of an international commodity code (with a report to be submitted to both Houses of Congress and to the President no later than June 1, 1975) and to provide the basis for full and immediate participation by the Trade Commission in the United States contribution to technical work of the Harmonized Systems Committee to assure recognition of the needs of the business community in the development of a harmonized code.
 
  __Cooperation of Governmental Agencies With Secretary of Commerce and United States International Trade Commission in Studies and Investigations__ 
 
-[Pub. L. 93–618, title VI, § 608(d)][/us/pl/93/618/s608/d], Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074], provided that: 
+[Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 608(d), Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074], provided that: 
 
 > “The President is requested to direct the appropriate agencies to cooperate fully with the Secretary of Commerce and the United States International Trade Commission in carrying out their responsibilities under subsections (a) \[amending this section\], (b), and (c) \[see notes set out above\].”
 
@@ -408,113 +408,113 @@
 [/us/usc/t19/s81a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs81a
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F722
-[/us/act/1938-06-25/ch679/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs12
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1083
 [/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F509
-[/us/pl/91/271/s301/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fi
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F288
-[/us/pl/93/618/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs608%2Fa
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2073
-[/us/pl/95/106/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F106%2Fs4
+[/us/pl/95/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F106
 [/us/stat/91/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F869
-[/us/pl/95/410/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs102%2Fa
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F888
-[/us/pl/97/446/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fd
+[/us/pl/97/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtII
 [/us/stat/96/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2349
-[/us/pl/103/182/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs637%2Fa
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2200
-[/us/pl/104/153/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs12
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 [/us/stat/110/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1389
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3524
-[/us/pl/106/200/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs410%2Fa
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F297
-[/us/pl/106/476/s1460/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1460%2Fa
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2171
-[/us/pl/108/429/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2101
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2597
-[/us/pl/109/280/s1635/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1635%2Fa
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1170
 [/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F998
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F960
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F182
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F92
-[/us/act/1890-06-10/ch407/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs4
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F131
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/act/1874-06-22/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch391
-[/us/act/1890-06-10/ch407/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs29
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F141
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1890-06-10/ch407/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs29
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F141
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F104
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1890-06-10/ch407/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs29
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F141
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F104
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F182
-[/us/act/1890-06-10/ch407/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs5
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F132
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F95
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1876-05-01/ch89/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-05-01%2Fch89%2Fs1
+[/us/act/1876-05-01/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-05-01%2Fch89
 [/us/stat/19/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F49
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F182
-[/us/act/1890-06-10/ch407/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs5
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F132
-[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F95
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/pl/109/280/s1635/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1635%2Fa%2F1
-[/us/pl/109/280/s1635/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1635%2Fa%2F2
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t19/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1448%2Fb
-[/us/pl/108/429/s2101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2101%2Fa%2F1
-[/us/pl/108/429/s2101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2101%2Fa%2F2
-[/us/pl/108/429/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2101%2Fb
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
-[/us/pl/104/295/s21/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F6
-[/us/pl/104/295/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs18%2Fb
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
-[/us/pl/97/446/s201/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fd%2F1%2FA
-[/us/pl/97/446/s201/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fd%2F1%2FB
-[/us/pl/97/446/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fd%2F2
-[/us/pl/97/446/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fd%2F2
-[/us/pl/97/446/s201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fd%2F3
+[/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
+[/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
+[/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
+[/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
+[/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
 [/us/usc/t19/s1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1483
-[/us/pl/97/446/s201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fd%2F3
+[/us/pl/97/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446
 [/us/usc/t19/s1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1483
-[/us/pl/95/410/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs102%2Fa%2F1
-[/us/pl/95/410/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs102%2Fa%2F2
-[/us/pl/95/410/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs102%2Fa%2F3
+[/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
+[/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
+[/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
 [/us/pl/95/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F106
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
-[/us/pl/91/271/s301/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fi%2F1
-[/us/pl/91/271/s301/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fi%2F2
-[/us/pl/91/271/s301/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fi%2F4
-[/us/pl/91/271/s301/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fi%2F5
+[/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
+[/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
+[/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
+[/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1641
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
@@ -524,27 +524,27 @@
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
 [/us/pl/106/476/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1471
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
-[/us/pl/106/200/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs410%2Fb
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F298
-[/us/pl/97/446/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs201%2Fg
+[/us/pl/97/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtII
 [/us/stat/96/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2350
 [/us/usc/t19/s1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1483
-[/us/pl/95/410/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs102%2Fb
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F889
-[/us/pl/93/618/s608/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs608%2Fe
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2074
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
-[/us/pl/106/476/s1460/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1460%2Fb
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2171
 [/us/usc/t19/s1484/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484%2Fj
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/110/234/s15422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15422
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1547
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t19/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484
 [/us/usc/t19/s1401a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a%2Fb
@@ -558,14 +558,14 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/101/382/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs137
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F652
 [/us/usc/t19/s1484/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484%2Fe
-[/us/pl/93/618/s608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs608%2Fb
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2074
-[/us/pl/93/618/s608/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs608%2Fc
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2074
-[/us/pl/93/618/s608/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs608%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2074
 
 

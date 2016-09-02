@@ -27,7 +27,7 @@
 
         The Commission shall at all times keep informed concerning the operation and effect of provisions relating to duties or other import restrictions of the United States contained in trade agreements entered into under the trade agreements program.
 
-([Pub. L. 93–618, title VI, § 603][/us/pl/93/618/s603], Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073].)
+([Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 603, Jan. 3, 1975, [88 Stat. 2073][/us/stat/88/2073].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/93/618/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs603
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2073
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

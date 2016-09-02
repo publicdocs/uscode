@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated for each fiscal year after fiscal year 2005 to the Department of Commerce such sums as may be necessary for the establishment and operations of the office established or designated under subsection (a) and for the payment of the United States share of the expenses of panels established under chapter 20 of the Agreement.
 
-([Pub. L. 109–53, title I, § 105][/us/pl/109/53/s105], Aug. 2, 2005, [119 Stat. 466][/us/stat/119/466].)
+([Pub. L. 109–53, title I][/us/pl/109/53/tI], § 105, Aug. 2, 2005, [119 Stat. 466][/us/stat/119/466].)
 
  __Termination of Section__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/109/53/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs105
+[/us/pl/109/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtI
 [/us/stat/119/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F466
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

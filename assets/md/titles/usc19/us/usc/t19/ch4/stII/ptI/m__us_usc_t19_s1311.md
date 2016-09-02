@@ -53,7 +53,7 @@
 
     (4) 25 percent during the 1-year period beginning on January 1, 2014.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 311, [46 Stat. 691][/us/stat/46/691]; [June 26, 1936, ch. 830][/us/act/1936-06-26/ch830], title IV, § 404, [49 Stat. 1960][/us/stat/49/1960]; [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 96–39, title VIII, § 856(b)][/us/pl/96/39/s856/b], July 26, 1979, [93 Stat. 295][/us/stat/93/295]; [Pub. L. 97–446, title II, § 202][/us/pl/97/446/s202], Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350]; [Pub. L. 100–449, title II, § 204(c)(1)][/us/pl/100/449/s204/c/1], Sept. 28, 1988, [102 Stat. 1862][/us/stat/102/1862]; [Pub. L. 103–182, title II, § 203(b)(1)][/us/pl/103/182/s203/b/1], Dec. 8, 1993, [107 Stat. 2088][/us/stat/107/2088]; [Pub. L. 108–77, title II, § 203(b)(1)][/us/pl/108/77/s203/b/1], Sept. 3, 2003, [117 Stat. 925][/us/stat/117/925].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 311, [46 Stat. 691][/us/stat/46/691]; [June 26, 1936, ch. 830][/us/act/1936-06-26/ch830], title IV, § 404, [49 Stat. 1960][/us/stat/49/1960]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(b), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 856(b), July 26, 1979, [93 Stat. 295][/us/stat/93/295]; [Pub. L. 97–446, title II][/us/pl/97/446/tII], § 202, Jan. 12, 1983, [96 Stat. 2350][/us/stat/96/2350]; [Pub. L. 100–449, title II][/us/pl/100/449/tII], § 204(c)(1), Sept. 28, 1988, [102 Stat. 1862][/us/stat/102/1862]; [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 203(b)(1), Dec. 8, 1993, [107 Stat. 2088][/us/stat/107/2088]; [Pub. L. 108–77, title II][/us/pl/108/77/tII], § 203(b)(1), Sept. 3, 2003, [117 Stat. 925][/us/stat/117/925].)
 
  __Amendment of Section__ 
 
@@ -63,7 +63,7 @@
 
  __References in Text__ 
 
-    Act March 24, 1874, referred to in text, which provided that “importers’ bonded warehouses, to be used for the storage and cleansing of imported rice intended for exportation to foreign countries, may be established at any port of entry in the United States, under such rules and regulations as the Secretary of the Treasury may prescribe”, was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989].
+    Act March 24, 1874, referred to in text, which provided that “importers’ bonded warehouses, to be used for the storage and cleansing of imported rice intended for exportation to foreign countries, may be established at any port of entry in the United States, under such rules and regulations as the Secretary of the Treasury may prescribe”, was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989].
 
     R.S. § 3433, referred to in text, was amended by [act Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], [19 Stat. 248][/us/stat/19/248]. The provisions of R.S. § 3433 as they existed prior to the amendment by act Feb. 27, 1877, were reenacted as section 10 of [act Oct. 1, 1890, ch. 1244][/us/act/1890-10-01/ch1244], [26 Stat. 614][/us/stat/26/614]. Section 55 of said act Oct. 1, 1890, repealed all laws and parts of laws inconsistent therewith. The provisions of said section 10 of act Oct. 1, 1890, were incorporated into the Internal Revenue Code of 1939, as subsections (a), (b), (c), and (d)(1) of section 3177. See [section 5521 of Title 26][/us/usc/t26/s5521], Internal Revenue Code.
 
@@ -73,9 +73,9 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, M, [38 Stat. 197][/us/stat/38/197], which was superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 311, [42 Stat. 938][/us/stat/42/938], and repealed by section 321 thereof. Section 311 of the 1922 act was superseded by section 311 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, M, [38 Stat. 197][/us/stat/38/197], which was superseded by [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 311, [42 Stat. 938][/us/stat/42/938], and repealed by section 321 thereof. Section 311 of the 1922 act was superseded by section 311 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Section IV, M, of the act of 1913 superseded previous similar provisions of the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 23][/us/act/1909-08-05/ch6/s23], [36 Stat. 88][/us/stat/36/88], which superseded those of the Dingley Tariff [Act of July 24, 1897, ch. 11, § 15][/us/act/1897-07-24/ch11/s15], [30 Stat. 207][/us/stat/30/207]. Similar provisions were contained in the Wilson Tariff [Act of Aug. 27, 1894, ch. 349, § 9][/us/act/1894-08-27/ch349/s9], [28 Stat. 548][/us/stat/28/548].
+    Section IV, M, of the act of 1913 superseded previous similar provisions of the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 23, [36 Stat. 88][/us/stat/36/88], which superseded those of the Dingley Tariff [Act of July 24, 1897, ch. 11][/us/act/1897-07-24/ch11], § 15, [30 Stat. 207][/us/stat/30/207]. Similar provisions were contained in the Wilson Tariff [Act of Aug. 27, 1894, ch. 349][/us/act/1894-08-27/ch349], § 9, [28 Stat. 548][/us/stat/28/548].
 
  __Amendments__ 
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–39, title VIII, § 856(b)][/us/pl/96/39/s856/b], July 26, 1979, [93 Stat. 295][/us/stat/93/295], provided that: 
+[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 856(b), July 26, 1979, [93 Stat. 295][/us/stat/93/295], provided that: 
 
 > “Effective January 1, 1980, the second proviso to the last paragraph of section 311 of the Tariff Act of 1930 \[this section\] is hereby repealed.”
 
@@ -121,7 +121,7 @@
 
  __Withdrawal of Distilled Spirits to Manufacturing Bonded Warehouses; Transfers to Warehouses Pending Exportation__ 
 
-[Pub. L. 96–39, title VIII, § 856(a)][/us/pl/96/39/s856/a], July 26, 1979, [93 Stat. 295][/us/stat/93/295], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 856(a), July 26, 1979, [93 Stat. 295][/us/stat/93/295], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “In the case of articles described in section 5522(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, [26 U.S.C. 5522(a)][/us/usc/t26/s5522/a]\] (as in effect before its repeal by section 807(a)(50) of the Distilled Spirits Tax Revision Act of 1979 \[[section 807(50) of Pub. L. 96–39][/us/pl/96/39/s807/50]\]) the first sentence of the eighth paragraph of section 311 of the Tariff Act of 1930 ([19 U.S.C. 1311][/us/usc/t19/s1311]) shall be applied as if such first sentence did not include the phrase ‘at an exterior port’.”
 
@@ -141,21 +141,21 @@
 [/us/stat/46/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F691
 [/us/act/1936-06-26/ch830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch830
 [/us/stat/49/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1960
-[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/96/39/s856/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs856%2Fb
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F295
-[/us/pl/97/446/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs202
+[/us/pl/97/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtII
 [/us/stat/96/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2350
-[/us/pl/100/449/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs204%2Fc%2F1
+[/us/pl/100/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtII
 [/us/stat/102/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1862
-[/us/pl/103/182/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203%2Fb%2F1
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2088
-[/us/pl/108/77/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs203%2Fb%2F1
+[/us/pl/108/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2FtII
 [/us/stat/117/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F925
 [/us/pl/108/77/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs107%2Fc
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F248
@@ -168,13 +168,13 @@
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F197
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F938
-[/us/act/1909-08-05/ch6/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs23
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F88
-[/us/act/1897-07-24/ch11/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-07-24%2Fch11%2Fs15
+[/us/act/1897-07-24/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-07-24%2Fch11
 [/us/stat/30/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F207
-[/us/act/1894-08-27/ch349/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349%2Fs9
+[/us/act/1894-08-27/ch349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349
 [/us/stat/28/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F548
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
@@ -191,15 +191,15 @@
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/96/39/s856/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs856%2Fb
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F295
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
-[/us/pl/96/39/s856/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs856%2Fa
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F295
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s5522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5522%2Fa
 [/us/pl/96/39/s807/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2F50

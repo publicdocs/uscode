@@ -39,7 +39,7 @@
 
         During any period that a waiver is in effect with respect to any nonmarket economy country under [section 2432(c) of this title][/us/usc/t19/s2432/c], the provisions of subsections (a) and (b) shall not apply with respect to such country.
 
-([Pub. L. 93–618, title IV, § 409][/us/pl/93/618/s409], Jan. 3, 1975, [88 Stat. 2064][/us/stat/88/2064].)
+([Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 409, Jan. 3, 1975, [88 Stat. 2064][/us/stat/88/2064].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t19/s2432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2432%2Fc
-[/us/pl/93/618/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs409
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2064
 [/us/usc/t19/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3012
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202

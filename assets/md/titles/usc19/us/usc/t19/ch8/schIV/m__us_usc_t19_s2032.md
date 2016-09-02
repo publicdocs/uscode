@@ -25,7 +25,7 @@
 
     (4) United States and Canadian trade in motor vehicles and motor vehicle parts, particularly trade between the United States and Canada.
 
-([Pub. L. 89–283, title V, § 502][/us/pl/89/283/s502], Oct. 21, 1965, [79 Stat. 1025][/us/stat/79/1025].)
+([Pub. L. 89–283, title V][/us/pl/89/283/tV], § 502, Oct. 21, 1965, [79 Stat. 1025][/us/stat/79/1025].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/89/283/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs502
+[/us/pl/89/283/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2FtV
 [/us/stat/79/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1025
 [/us/pl/89/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283
 [/us/stat/79/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1016

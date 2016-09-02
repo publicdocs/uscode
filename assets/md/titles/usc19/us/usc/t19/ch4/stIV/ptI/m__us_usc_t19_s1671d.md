@@ -157,7 +157,7 @@
 
         The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 705, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 159][/us/stat/93/159]; amended [Pub. L. 98–573, title VI][/us/pl/98/573], §§ 602(a)(2), 605(a), 606, Oct. 30, 1984, [98 Stat. 3024][/us/stat/98/3024], 3028, 3029; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1324(a)(3), 1333(a), Aug. 23, 1988, [102 Stat. 1200][/us/stat/102/1200], 1209; [Pub. L. 103–465, title II][/us/pl/103/465], §§ 212(b)(1)(B), 214(a)(2), 233(a)(5)(N), 263(b), 264(b), (c)(7), (8), 270(a)(1)(F), (G), Dec. 8, 1994, [108 Stat. 4848][/us/stat/108/4848], 4850, 4899, 4912–4914, 4917; [Pub. L. 104–295, § 20(b)(15)][/us/pl/104/295/s20/b/15], Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 705, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 159][/us/stat/93/159]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], §§ 602(a)(2), 605(a), 606, Oct. 30, 1984, [98 Stat. 3024][/us/stat/98/3024], 3028, 3029; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1324(a)(3), 1333(a), Aug. 23, 1988, [102 Stat. 1200][/us/stat/102/1200], 1209; [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 212(b)(1)(B), 214(a)(2), 233(a)(5)(N), 263(b), 264(b), (c)(7), (8), 270(a)(1)(F), (G), Dec. 8, 1994, [108 Stat. 4848][/us/stat/108/4848], 4850, 4899, 4912–4914, 4917; [Pub. L. 104–295][/us/pl/104/295], § 20(b)(15), Oct. 11, 1996, [110 Stat. 3527][/us/stat/110/3527].)
 
  __Amendments__ 
 
@@ -167,39 +167,39 @@
 
     Subsec. (a)(2)(A). [Pub. L. 103–465][/us/pl/103/465], §§ 214(a)(2)(A)(i), 270(a)(1)(G), substituted “countervailable subsidy” for “subsidy” and “Subsidies Agreement” for “Agreement”.
 
-    Subsec. (a)(2)(B). [Pub. L. 103–465, § 214(a)(2)(A)(ii)][/us/pl/103/465/s214/a/2/A/ii], substituted “subject merchandise” for “class or kind of merchandise involved”.
+    Subsec. (a)(2)(B). [Pub. L. 103–465][/us/pl/103/465], § 214(a)(2)(A)(ii), substituted “subject merchandise” for “class or kind of merchandise involved”.
 
-    Subsec. (a)(3). [Pub. L. 103–465, § 263(b)][/us/pl/103/465/s263/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 103–465][/us/pl/103/465], § 263(b), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 103–465, § 212(b)(1)(B)][/us/pl/103/465/s212/b/1/B], inserted at end of concluding provisions “If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.”
+    Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 212(b)(1)(B), inserted at end of concluding provisions “If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.”
 
-    Subsec. (b)(4)(A). [Pub. L. 103–465, § 214(a)(2)(B)][/us/pl/103/465/s214/a/2/B], amended subpar. (A) generally, substituting present provisions for provisions requiring, in the case of an affirmative critical circumstances determination, an additional finding as to whether retroactive imposition of a countervailing duty would be necessary to prevent recurrence of material injury caused by massive imports of subject merchandise over a relatively short period of time.
+    Subsec. (b)(4)(A). [Pub. L. 103–465][/us/pl/103/465], § 214(a)(2)(B), amended subpar. (A) generally, substituting present provisions for provisions requiring, in the case of an affirmative critical circumstances determination, an additional finding as to whether retroactive imposition of a countervailing duty would be necessary to prevent recurrence of material injury caused by massive imports of subject merchandise over a relatively short period of time.
 
-    Subsec. (c)(1). [Pub. L. 103–465, § 264(b)(1)][/us/pl/103/465/s264/b/1], struck out “and” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted “the suspension of liquidation under paragraph (2) of [section 1671b(d) of this title][/us/usc/t19/s1671b/d]” for “under paragraphs (1) and (2) of [section 1671b(d) of this title][/us/usc/t19/s1671b/d] the suspension of liquidation and the posting of a cash deposit, bond, or other security”.
+    Subsec. (c)(1). [Pub. L. 103–465][/us/pl/103/465], § 264(b)(1), struck out “and” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted “the suspension of liquidation under paragraph (2) of [section 1671b(d) of this title][/us/usc/t19/s1671b/d]” for “under paragraphs (1) and (2) of [section 1671b(d) of this title][/us/usc/t19/s1671b/d] the suspension of liquidation and the posting of a cash deposit, bond, or other security”.
 
-    Subsec. (c)(2). [Pub. L. 103–465, § 264(c)(7)][/us/pl/103/465/s264/c/7], in subpar. (A), substituted “1671b(d)(2)” for “1671b(d)(1)” and in subpar. (B), substituted “1671b(d)(1)(B)” for “1671b(d)(2)”.
+    Subsec. (c)(2). [Pub. L. 103–465][/us/pl/103/465], § 264(c)(7), in subpar. (A), substituted “1671b(d)(2)” for “1671b(d)(1)” and in subpar. (B), substituted “1671b(d)(1)(B)” for “1671b(d)(2)”.
 
-    Subsec. (c)(3)(B). [Pub. L. 103–465, § 264(c)(8)][/us/pl/103/465/s264/c/8], substituted “1671b(d)(1)(B)” for “1671b(d)(2)”.
+    Subsec. (c)(3)(B). [Pub. L. 103–465][/us/pl/103/465], § 264(c)(8), substituted “1671b(d)(1)(B)” for “1671b(d)(2)”.
 
-    Subsec. (c)(5). [Pub. L. 103–465, § 264(b)(2)][/us/pl/103/465/s264/b/2], added par. (5).
+    Subsec. (c)(5). [Pub. L. 103–465][/us/pl/103/465], § 264(b)(2), added par. (5).
 
-    1988—Subsec. (b)(4)(A). [Pub. L. 100–418, § 1324(a)(3)][/us/pl/100/418/s1324/a/3], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include findings as to whether—
+    1988—Subsec. (b)(4)(A). [Pub. L. 100–418][/us/pl/100/418], § 1324(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include findings as to whether—
 
     “(i) there is material injury which will be difficult to repair, and
 
     “(ii) the material injury was by reason of such massive imports of the subsidized merchandise over a relatively short period.”
 
-    Subsec. (e). [Pub. L. 100–418, § 1333(a)][/us/pl/100/418/s1333/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1333(a), added subsec. (e).
 
-    1984—Subsec. (a)(1). [Pub. L. 98–573, § 606][/us/pl/98/573/s606], inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+    1984—Subsec. (a)(1). [Pub. L. 98–573][/us/pl/98/573], § 606, inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
-    Subsec. (a)(2). [Pub. L. 98–573, § 605(a)(1)][/us/pl/98/573/s605/a/1], inserted provision after subpar. (B) that such findings may be affirmative even though the preliminary determination under [section 1671b(e)(1) of this title][/us/usc/t19/s1671b/e/1] was negative.
+    Subsec. (a)(2). [Pub. L. 98–573][/us/pl/98/573], § 605(a)(1), inserted provision after subpar. (B) that such findings may be affirmative even though the preliminary determination under [section 1671b(e)(1) of this title][/us/usc/t19/s1671b/e/1] was negative.
 
-    Subsec. (b)(1). [Pub. L. 98–573, § 602(a)(2)][/us/pl/98/573/s602/a/2], inserted “, or sales (or the likelihood of sales for importation,” in provision after subpar. (B).
+    Subsec. (b)(1). [Pub. L. 98–573][/us/pl/98/573], § 602(a)(2), inserted “, or sales (or the likelihood of sales for importation,” in provision after subpar. (B).
 
-    Subsec. (c)(3)(A). [Pub. L. 98–573, § 605(a)(3)][/us/pl/98/573/s605/a/3], inserted reference to par. (4).
+    Subsec. (c)(3)(A). [Pub. L. 98–573][/us/pl/98/573], § 605(a)(3), inserted reference to par. (4).
 
-    Subsec. (c)(4). [Pub. L. 98–573, § 605(a)(2)][/us/pl/98/573/s605/a/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 98–573][/us/pl/98/573], § 605(a)(2), added par. (4).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -249,37 +249,37 @@
 [/us/usc/t19/s1677f–1/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f%E2%80%931%2Fe%2F2%2FB
 [/us/usc/t19/s1671b/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671b%2Fd%2F1%2FA%2Fii
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F159
-[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3024
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1200
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4848
-[/us/pl/104/295/s20/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fb%2F15
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3527
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/465/s214/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs214%2Fa%2F2%2FA%2Fii
-[/us/pl/103/465/s263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs263%2Fb
-[/us/pl/103/465/s212/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs212%2Fb%2F1%2FB
-[/us/pl/103/465/s214/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs214%2Fa%2F2%2FB
-[/us/pl/103/465/s264/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs264%2Fb%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1671b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671b%2Fd
 [/us/usc/t19/s1671b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671b%2Fd
-[/us/pl/103/465/s264/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs264%2Fc%2F7
-[/us/pl/103/465/s264/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs264%2Fc%2F8
-[/us/pl/103/465/s264/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs264%2Fb%2F2
-[/us/pl/100/418/s1324/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1324%2Fa%2F3
-[/us/pl/100/418/s1333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1333%2Fa
-[/us/pl/98/573/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs606
-[/us/pl/98/573/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs605%2Fa%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/usc/t19/s1671b/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671b%2Fe%2F1
-[/us/pl/98/573/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs602%2Fa%2F2
-[/us/pl/98/573/s605/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs605%2Fa%2F3
-[/us/pl/98/573/s605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs605%2Fa%2F2
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

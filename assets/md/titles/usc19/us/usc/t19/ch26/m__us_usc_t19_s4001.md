@@ -25,7 +25,7 @@
 
     (4) to lay the foundation for further cooperation to expand and enhance the benefits of the Agreement.
 
-([Pub. L. 109–53, § 2][/us/pl/109/53/s2], Aug. 2, 2005, [119 Stat. 463][/us/stat/119/463].)
+([Pub. L. 109–53][/us/pl/109/53], § 2, Aug. 2, 2005, [119 Stat. 463][/us/stat/119/463].)
 
  __Termination of Section__ 
 
@@ -37,7 +37,7 @@
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 109–53, title I, § 107][/us/pl/109/53/s107], Aug. 2, 2005, [119 Stat. 466][/us/stat/119/466], provided that:
+[Pub. L. 109–53, title I][/us/pl/109/53/tI], § 107, Aug. 2, 2005, [119 Stat. 466][/us/stat/119/466], provided that:
 
 >     “(a)  __Effective Dates__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __Short Title__ 
 
-[Pub. L. 109–53, § 1(a)][/us/pl/109/53/s1/a], Aug. 2, 2005, [119 Stat. 462][/us/stat/119/462], provided that: 
+[Pub. L. 109–53][/us/pl/109/53], § 1(a), Aug. 2, 2005, [119 Stat. 462][/us/stat/119/462], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 58c, 1508, 1514, 1520, 1592, 2252, 2518, 2702, and 2703 of this title, and enacting provisions set out as notes under this section and [section 2702 of this title][/us/usc/t19/s2702]\] may be cited as the ‘Dominican Republic-Central America-United States Free Trade Agreement Implementation Act’.”
 
@@ -71,17 +71,17 @@
 ----------
 
 [/us/usc/t19/s3803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803%2Fb
-[/us/pl/109/53/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs2
+[/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
 [/us/stat/119/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F463
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
 [/us/stat/119/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F462
-[/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107
+[/us/pl/109/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtI
 [/us/stat/119/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F466
 [/us/usc/t19/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4002
 [/us/pl/109/53/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fc
 [/us/usc/t19/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4002
-[/us/pl/109/53/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs1%2Fa
+[/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
 [/us/stat/119/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F462
 [/us/usc/t19/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2702
 

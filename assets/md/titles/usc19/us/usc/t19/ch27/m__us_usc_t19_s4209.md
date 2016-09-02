@@ -21,7 +21,7 @@
 
     (2) any proclamation or Executive order issued pursuant to a trade agreement entered into under [section 4202 of this title][/us/usc/t19/s4202] shall be treated as a proclamation or Executive order issued pursuant to a trade agreement entered into under [section 2112 of this title][/us/usc/t19/s2112].
 
-([Pub. L. 114–26, title I, § 110(b)][/us/pl/114/26/s110/b], June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 110(b), June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/114/26/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs110%2Fb
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F358
 
 

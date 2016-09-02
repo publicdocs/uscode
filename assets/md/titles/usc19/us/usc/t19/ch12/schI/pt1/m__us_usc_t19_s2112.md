@@ -127,7 +127,7 @@
 
             (B) foreign direct investment by United States persons, especially if such investment has implications for trade in goods and services.
 
-([Pub. L. 93–618, title I, § 102][/us/pl/93/618/s102], Jan. 3, 1975, [88 Stat. 1982][/us/stat/88/1982]; [Pub. L. 96–39, title XI][/us/pl/96/39], §§ 1101, 1106(c)(1), July 26, 1979, [93 Stat. 307][/us/stat/93/307], 311; [Pub. L. 98–573, title III, § 307(a)][/us/pl/98/573/s307/a], title IV, § 401(a)–(c)(1), Oct. 30, 1984, [98 Stat. 3012][/us/stat/98/3012], 3013–3015; [Pub. L. 99–47, § 8(b)(1)][/us/pl/99/47/s8/b/1], June 11, 1985, [99 Stat. 84][/us/stat/99/84]; [Pub. L. 99–514, title XVIII, § 1887(a)(1)][/us/pl/99/514/s1887/a/1], Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 102, Jan. 3, 1975, [88 Stat. 1982][/us/stat/88/1982]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], §§ 1101, 1106(c)(1), July 26, 1979, [93 Stat. 307][/us/stat/93/307], 311; [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 307(a), title IV, § 401(a)–(c)(1), Oct. 30, 1984, [98 Stat. 3012][/us/stat/98/3012], 3013–3015; [Pub. L. 99–47][/us/pl/99/47], § 8(b)(1), June 11, 1985, [99 Stat. 84][/us/stat/99/84]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1887(a)(1), Oct. 22, 1986, [100 Stat. 2923][/us/stat/100/2923].)
 
  __References in Text__ 
 
@@ -141,25 +141,25 @@
 
     1985—Subsec. (b)(3). [Pub. L. 99–47][/us/pl/99/47] inserted “that provides for the elimination or reduction of any duty imposed by the United States” after “such other country”.
 
-    1984—Subsec. (b). [Pub. L. 98–573, § 401(a)][/us/pl/98/573/s401/a], designated existing provisions as par. (1) and added pars. (2) to (4).
+    1984—Subsec. (b). [Pub. L. 98–573][/us/pl/98/573], § 401(a), designated existing provisions as par. (1) and added pars. (2) to (4).
 
-    Subsec. (g)(1). [Pub. L. 98–573, § 401(b)][/us/pl/98/573/s401/b], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (g)(1). [Pub. L. 98–573][/us/pl/98/573], § 401(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (g)(3). [Pub. L. 98–573, § 307(a)][/us/pl/98/573/s307/a], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (g)(3). [Pub. L. 98–573][/us/pl/98/573], § 307(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    1979—Subsec. (b). [Pub. L. 96–39, § 1101][/us/pl/96/39/s1101], substituted “13-year period” for “5-year period”.
+    1979—Subsec. (b). [Pub. L. 96–39][/us/pl/96/39], § 1101, substituted “13-year period” for “5-year period”.
 
-    Subsec. (e)(2). [Pub. L. 96–39, § 1106(c)(1)][/us/pl/96/39/s1106/c/1], substituted “copy of the final legal text of such agreement” for “copy of such agreement”.
+    Subsec. (e)(2). [Pub. L. 96–39][/us/pl/96/39], § 1106(c)(1), substituted “copy of the final legal text of such agreement” for “copy of such agreement”.
 
  __Effective Date of 1979 Amendment__ 
 
     Amendment of subsec. (b) of this section by [section 1101 of Pub. L. 96–39][/us/pl/96/39/s1101] effective July 26, 1979, see [section 1114 of Pub. L. 96–39][/us/pl/96/39/s1114], set out as an Effective Date note under [section 2581 of this title][/us/usc/t19/s2581].
 
-    [Pub. L. 96–39, title XI, § 1106(c)(1)][/us/pl/96/39/s1106/c/1], July 26, 1979, [93 Stat. 311][/us/stat/93/311], provided in part that the amendment of subsec. (e)(2) of this section by [section 1106(c)(1) of Pub. L. 96–39][/us/pl/96/39/s1106/c/1] shall apply with respect to trade agreements submitted to the Congress under this section after July 26, 1979.
+    [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(c)(1), July 26, 1979, [93 Stat. 311][/us/stat/93/311], provided in part that the amendment of subsec. (e)(2) of this section by [section 1106(c)(1) of Pub. L. 96–39][/us/pl/96/39/s1106/c/1] shall apply with respect to trade agreements submitted to the Congress under this section after July 26, 1979.
 
  __Protective Order Provisions Applicable With Respect to Countervailing and Antidumping Duty Investigations Involving Products of Canadian Origin__ 
 
-[Pub. L. 101–382, title I, § 135(c)][/us/pl/101/382/s135/c], Aug. 20, 1990, [104 Stat. 652][/us/stat/104/652], provided that: 
+[Pub. L. 101–382, title I][/us/pl/101/382/tI], § 135(c), Aug. 20, 1990, [104 Stat. 652][/us/stat/104/652], provided that: 
 
 > “For purposes of section 404 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 \[[Pub. L. 100–449][/us/pl/100/449], set out in a note below\], the amendments made by subsection (b) \[amending [section 1677f of this title][/us/usc/t19/s1677f]\] also apply with respect to investigations under title VII of the Tariff Act of 1930 \[[19 U.S.C. 1671][/us/usc/t19/s1671] et seq.\] involving products of Canadian origin.”
 
@@ -595,7 +595,7 @@
 
  __United States-Canada Free-Trade Agreement Implementation__ 
 
-[Pub. L. 100–449][/us/pl/100/449], Sept. 28, 1988, [102 Stat. 1851][/us/stat/102/1851], as amended by [Pub. L. 101–207, § 1(b)][/us/pl/101/207/s1/b], Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 101–382, title I][/us/pl/101/382], §§ 103(b), 134(b), Aug. 20, 1990, [104 Stat. 635][/us/stat/104/635], 651; [Pub. L. 103–182, title I, § 107][/us/pl/103/182/s107], title III, § 308(a), title IV, § 413, Dec. 8, 1993, [107 Stat. 2065][/us/stat/107/2065], 2104, 2147; [Pub. L. 104–66, title I, § 1021(d)][/us/pl/104/66/s1021/d], Dec. 21, 1995, [109 Stat. 712][/us/stat/109/712]; [Pub. L. 105–206, title V, § 5003(b)(3)][/us/pl/105/206/s5003/b/3], July 22, 1998, [112 Stat. 789][/us/stat/112/789], provided that:
+[Pub. L. 100–449][/us/pl/100/449], Sept. 28, 1988, [102 Stat. 1851][/us/stat/102/1851], as amended by [Pub. L. 101–207][/us/pl/101/207], § 1(b), Dec. 7, 1989, [103 Stat. 1833][/us/stat/103/1833]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], §§ 103(b), 134(b), Aug. 20, 1990, [104 Stat. 635][/us/stat/104/635], 651; [Pub. L. 103–182, title I][/us/pl/103/182/tI], § 107, title III, § 308(a), title IV, § 413, Dec. 8, 1993, [107 Stat. 2065][/us/stat/107/2065], 2104, 2147; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1021(d), Dec. 21, 1995, [109 Stat. 712][/us/stat/109/712]; [Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(b)(3), July 22, 1998, [112 Stat. 789][/us/stat/112/789]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210], provided that:
 
 > “SECTION 1. __SHORT TITLE AND TABLE OF CONTENTS.__ 
 
@@ -1221,9 +1221,9 @@
 
 >          For purposes of assisting the Secretary in carrying out this subsection—
 
->             “(A) the Commissioner of Customs and the Director of the Bureau of Census shall cooperate in providing the Secretary with timely information and data relating to the importation of Canadian fresh fruits and vegetables, and
+>             “(A) the Commissioner of U.S. Customs and Border Protection and the Director of the Bureau of Census shall cooperate in providing the Secretary with timely information and data relating to the importation of Canadian fresh fruits and vegetables, and
 
->             “(B) importers shall report such information relating to Canadian fresh fruits and vegetables to the Commissioner of Customs at such time and in such manner as the Commissioner requires.
+>             “(B) importers shall report such information relating to Canadian fresh fruits and vegetables to the Commissioner of U.S. Customs and Border Protection at such time and in such manner as the Commissioner requires.
 
 >         “(10) The authority to impose temporary duties under this subsection expires on the 20th anniversary of the date on which the Agreement enters into force.
 
@@ -1975,7 +1975,7 @@
 
  __United States-Israel Free Trade Area Implementation__ 
 
-[Pub. L. 99–47][/us/pl/99/47], June 11, 1985, [99 Stat. 82][/us/stat/99/82], as amended by [Pub. L. 104–234, § 1][/us/pl/104/234/s1], Oct. 2, 1996, [110 Stat. 3058][/us/stat/110/3058], provided that:
+[Pub. L. 99–47][/us/pl/99/47], June 11, 1985, [99 Stat. 82][/us/stat/99/82], as amended by [Pub. L. 104–234][/us/pl/104/234], § 1, Oct. 2, 1996, [110 Stat. 3058][/us/stat/110/3058], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -2096,15 +2096,15 @@
 [/us/usc/t19/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191
 [/us/usc/t19/s2191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191%2Fb
 [/us/usc/t19/s2191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191%2Fb
-[/us/pl/93/618/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs102
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1982
-[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F307
-[/us/pl/98/573/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs307%2Fa
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3012
-[/us/pl/99/47/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47%2Fs8%2Fb%2F1
+[/us/pl/99/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47
 [/us/stat/99/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F84
-[/us/pl/99/514/s1887/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1887%2Fa%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2923
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
@@ -2113,18 +2113,18 @@
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47
-[/us/pl/98/573/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs401%2Fa
-[/us/pl/98/573/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs401%2Fb
-[/us/pl/98/573/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs307%2Fa
-[/us/pl/96/39/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1101
-[/us/pl/96/39/s1106/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fc%2F1
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1101
 [/us/pl/96/39/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1114
 [/us/usc/t19/s2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2581
-[/us/pl/96/39/s1106/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fc%2F1
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F311
 [/us/pl/96/39/s1106/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fc%2F1
-[/us/pl/101/382/s135/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs135%2Fc
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F652
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/usc/t19/s1677f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f
@@ -2146,16 +2146,18 @@
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/stat/102/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1851
-[/us/pl/101/207/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207%2Fs1%2Fb
+[/us/pl/101/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F207
 [/us/stat/103/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1833
-[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F635
-[/us/pl/103/182/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs107
+[/us/pl/103/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtI
 [/us/stat/107/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2065
-[/us/pl/104/66/s1021/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1021%2Fd
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F712
-[/us/pl/105/206/s5003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fb%2F3
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F789
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/usc/t28/s1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1584
 [/us/usc/t8/s1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
@@ -2264,7 +2266,7 @@
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/99/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47
 [/us/stat/99/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F82
-[/us/pl/104/234/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F234%2Fs1
+[/us/pl/104/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F234
 [/us/stat/110/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3058
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112

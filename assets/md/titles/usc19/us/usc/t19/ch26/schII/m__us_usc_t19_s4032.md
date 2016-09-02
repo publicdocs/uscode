@@ -89,7 +89,7 @@
 
                 (iii) in years 18 and 19, an amount equal to 50 percent of the excess of the applicable NTR (MFN) rate of duty over the schedule rate of duty.
 
-([Pub. L. 109–53, title II, § 202][/us/pl/109/53/s202], Aug. 2, 2005, [119 Stat. 468][/us/stat/119/468].)
+([Pub. L. 109–53, title II][/us/pl/109/53/tII], § 202, Aug. 2, 2005, [119 Stat. 468][/us/stat/119/468].)
 
  __Termination of Section__ 
 
@@ -115,7 +115,7 @@
 [/us/usc/t19/s4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4033
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
 [/us/usc/t19/s4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4031
-[/us/pl/109/53/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs202
+[/us/pl/109/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtII
 [/us/stat/119/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F468
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

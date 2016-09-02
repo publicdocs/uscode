@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 93–618, title II, § 287][/us/pl/93/618/s287], as added [Pub. L. 100–418, title I, § 1428(b)][/us/pl/100/418/s1428/b], Aug. 23, 1988, [102 Stat. 1255][/us/stat/102/1255], which imposed an additional fee, did not become effective pursuant to [section 1430(b) of Pub. L. 100–418][/us/pl/100/418/s1430/b], set out below.
+    Section, [Pub. L. 93–618, title II][/us/pl/93/618/tII], § 287, as added [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1428(b), Aug. 23, 1988, [102 Stat. 1255][/us/stat/102/1255], which imposed an additional fee, did not become effective pursuant to [section 1430(b) of Pub. L. 100–418][/us/pl/100/418/s1430/b], set out below.
 
  __Effective Date__ 
 
-[Pub. L. 100–418, title I, § 1430][/us/pl/100/418/s1430], Aug. 23, 1988, [102 Stat. 1256][/us/stat/102/1256], as amended by [Pub. L. 100–647, title IX, § 9001(a)(21)][/us/pl/100/647/s9001/a/21], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1430, Aug. 23, 1988, [102 Stat. 1256][/us/stat/102/1256], as amended by [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(21), Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -71,7 +71,7 @@
 
  __Imposition of Small Uniform Fee on All Imports__ 
 
-[Pub. L. 100–418, title I, § 1428(a)][/us/pl/100/418/s1428/a], Aug. 23, 1988, [102 Stat. 1254][/us/stat/102/1254], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1428(a), Aug. 23, 1988, [102 Stat. 1254][/us/stat/102/1254], provided that:
 
 >     “(1)
 
@@ -122,13 +122,13 @@
 ----------
 ----------
 
-[/us/pl/93/618/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs287
-[/us/pl/100/418/s1428/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1428%2Fb
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1255
 [/us/pl/100/418/s1430/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1430%2Fb
-[/us/pl/100/418/s1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1430
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1256
-[/us/pl/100/647/s9001/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F21
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3808
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
@@ -137,7 +137,7 @@
 [/us/usc/t19/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2293
 [/us/usc/t19/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2319
 [/us/usc/t19/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2291
-[/us/pl/100/418/s1428/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1428%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1254
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112

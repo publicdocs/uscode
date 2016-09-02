@@ -39,27 +39,27 @@
 
         Whenever any part of the cargo or stores of a vessel has been unladen or transshipped because of accident, stress of weather, or other necessity, the master of such vessel and the master of any vessel to which such cargo or stores has been transshipped shall, as soon as possible thereafter, notify the Customs Service at the district within which such unlading or transshipment has occurred, or the Customs Service at the district at which such vessel shall first arrive thereafter, and shall furnish proof that such unlading or transshipment was made necessary by accident, stress of weather, or other unavoidable cause, and if the Customs Service is satisfied that the unlading or transshipment was in fact due to accident, stress of weather, or other necessity, the penalties described in this section shall not be incurred.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 586, [46 Stat. 749][/us/stat/46/749]; [Aug. 5, 1935, ch. 438][/us/act/1935-08-05/ch438], title II, § 205, [49 Stat. 524][/us/stat/49/524]; [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 99–570, title III, § 3119][/us/pl/99/570/s3119], Oct. 27, 1986, [100 Stat. 3207–84][/us/stat/100/3207-84]; [Pub. L. 103–182, title VI, § 620][/us/pl/103/182/s620], Dec. 8, 1993, [107 Stat. 2180][/us/stat/107/2180].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 586, [46 Stat. 749][/us/stat/46/749]; [Aug. 5, 1935, ch. 438][/us/act/1935-08-05/ch438], title II, § 205, [49 Stat. 524][/us/stat/49/524]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(b), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3119, Oct. 27, 1986, [100 Stat. 3207–84][/us/stat/100/3207-84]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 620, Dec. 8, 1993, [107 Stat. 2180][/us/stat/107/2180].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, §§ 586, 587, [42 Stat. 980][/us/stat/42/980], 981. These sections were superseded by section 586 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], §§ 586, 587, [42 Stat. 980][/us/stat/42/980], 981. These sections were superseded by section 586 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provisions somewhat similar to those in this section, but applicable only to vessels “bound to the United States” were contained in R.S. § 2867, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions somewhat similar to those in this section, but applicable only to vessels “bound to the United States” were contained in R.S. § 2867, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
-    Provisions substantially the same in effect as those contained in the act of 1922, § 587, except that the penalty was treble the value of the merchandise, and the provision for forfeiture applied only to the vessel was contained in R.S. § 2868, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provisions substantially the same in effect as those contained in the act of 1922, § 587, except that the penalty was treble the value of the merchandise, and the provision for forfeiture applied only to the vessel was contained in R.S. § 2868, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
-    1993—Subsecs. (a) to (c). [Pub. L. 103–182, § 620(1)][/us/pl/103/182/s620/1], inserted “, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea,” after “from a foreign port or place”.
+    1993—Subsecs. (a) to (c). [Pub. L. 103–182][/us/pl/103/182], § 620(1), inserted “, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea,” after “from a foreign port or place”.
 
-    Subsec. (f). [Pub. L. 103–182, § 620(2)][/us/pl/103/182/s620/2], substituted “the Customs Service at the district” for “the appropriate customs officer of the district” and “the appropriate customs officer within the district” and “the Customs Service is satisfied” for “the appropriate customs officer is satisfied”.
+    Subsec. (f). [Pub. L. 103–182][/us/pl/103/182], § 620(2), substituted “the Customs Service at the district” for “the appropriate customs officer of the district” and “the appropriate customs officer within the district” and “the Customs Service is satisfied” for “the appropriate customs officer is satisfied”.
 
-    1986—Subsecs. (a) to (d). [Pub. L. 99–570, § 3119(1)][/us/pl/99/570/s3119/1], substituted “$10,000” for “$1,000” wherever appearing.
+    1986—Subsecs. (a) to (d). [Pub. L. 99–570][/us/pl/99/570], § 3119(1), substituted “$10,000” for “$1,000” wherever appearing.
 
-    Subsec. (e). [Pub. L. 99–570, § 3119(2)(A)][/us/pl/99/570/s3119/2/A], substituted “customs waters” for “one league of the coast of the United States”.
+    Subsec. (e). [Pub. L. 99–570][/us/pl/99/570], § 3119(2)(A), substituted “customs waters” for “one league of the coast of the United States”.
 
-    [Pub. L. 99–570, § 3119(2)(B)][/us/pl/99/570/s3119/2/B], which directed that “15 years” be substituted for “2 years” was executed by making the substitution for “two years” as the probable intent of Congress.
+    [Pub. L. 99–570][/us/pl/99/570], § 3119(2)(B), which directed that “15 years” be substituted for “2 years” was executed by making the substitution for “two years” as the probable intent of Congress.
 
     1970—Subsec. (f). [Pub. L. 91–271][/us/pl/91/271] substituted references to appropriate customs officer for references to collector wherever appearing.
 
@@ -84,23 +84,23 @@
 [/us/stat/46/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F749
 [/us/act/1935-08-05/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-05%2Fch438
 [/us/stat/49/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F524
-[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/99/570/s3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3119
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-84
-[/us/pl/103/182/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs620
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2180
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F980
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/pl/103/182/s620/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs620%2F1
-[/us/pl/103/182/s620/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs620%2F2
-[/us/pl/99/570/s3119/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3119%2F1
-[/us/pl/99/570/s3119/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3119%2F2%2FA
-[/us/pl/99/570/s3119/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3119%2F2%2FB
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203

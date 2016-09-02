@@ -17,7 +17,7 @@
 
     Beginning in fiscal year 1998 and thereafter, such sums as may be necessary for expenses for the provision of Customs services at certain small airports or other facilities when authorized by law and designated by the Secretary of the Treasury, including expenditures for the salary and expenses of individuals employed to provide such services, to be derived from fees collected by the Secretary pursuant to [section 58b of this title][/us/usc/t19/s58b] for each of these airports or other facilities when authorized by law and designated by the Secretary, and to remain available until expended.
 
-([Pub. L. 105–61, title I][/us/pl/105/61], Oct. 10, 1997, [111 Stat. 1279][/us/stat/111/1279].)
+([Pub. L. 105–61, title I][/us/pl/105/61/tI], Oct. 10, 1997, [111 Stat. 1279][/us/stat/111/1279].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t19/s58b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58b
-[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/105/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtI
 [/us/stat/111/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1279
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

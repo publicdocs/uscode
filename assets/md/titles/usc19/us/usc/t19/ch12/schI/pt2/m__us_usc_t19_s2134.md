@@ -47,7 +47,7 @@
 
         Agreements may be entered into under this section only during the 2-year period which immediately follows the close of the period during which agreements may be entered into under [section 2111 of this title][/us/usc/t19/s2111].
 
-([Pub. L. 93–618, title I, § 124][/us/pl/93/618/s124], Jan. 3, 1975, [88 Stat. 1990][/us/stat/88/1990].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 124, Jan. 3, 1975, [88 Stat. 1990][/us/stat/88/1990].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
-[/us/pl/93/618/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs124
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1990
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

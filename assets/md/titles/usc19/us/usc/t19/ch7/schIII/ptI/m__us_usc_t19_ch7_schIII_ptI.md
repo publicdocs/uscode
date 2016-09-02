@@ -11,39 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schIII/m__us_usc_t19_ch7_schIII.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_ch7_schIII_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptI)
+[Previous](./../../../../../..//us/usc/t19/ch7/schIII/m__us_usc_t19_ch7_schIII.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptI/m__us_usc_t19_s1901 _us_usc_t19_s1902.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptI)
 
 #### Part I—Eligibility for Assistance
 
-§§ 1901, 1902. __Repealed.__  __[__  __Pub. L. 93–618, title VI, § 602(d)__  __][/us/pl/93/618/s602/d]__  __, (e),__  __Jan. 3, 1975__  __,__  __[__  __88 Stat. 2072__  __][/us/stat/88/2072]__ 
-
-    Section 1901, [Pub. L. 87–794, title III, § 301][/us/pl/87/794/s301], Oct. 11, 1962, [76 Stat. 883][/us/stat/76/883], provided for Tariff Commission \[now United States International Trade Commission\] investigations and reports. See section 2251 et seq. of this title.
-
-    Section 1902, [Pub. L. 87–794, title III, § 302][/us/pl/87/794/s302], Oct. 11, 1962, [76 Stat. 885][/us/stat/76/885], covered Presidential action after Tariff Commission \[now United States International Trade Commission\] determination. See section 2252 et seq. of this title.
-
- __Effective Date of Repeal__ 
-
-    [Pub. L. 93–618, title VI, § 602(e)][/us/pl/93/618/s602/e], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072], provided in part that the repeals called for in [section 602(e) of Pub. L. 93–618][/us/pl/93/618/s602/e] \[repealing sections 1901(a)(2), (3), (c), (d)(2), (f)(1), (3), 1902(b)(1), (2), (c) to (e), 1911 to 1915, 1917, 1931, 1941 to 1944, 1951, 1952, 1961 to 1963, and 1971 to 1978 of this title\] are effective on the 90th day following Jan. 3, 1975.
-
-    The remaining parts of section 1901 \[subsecs. (a)(1), (b), (d)(1), (e), (f)(2), and (g) of section 1901\] and of section 1902 \[subsec. (a) of section 1902\] are repealed by [section 602(d) of Pub. L. 93–618][/us/pl/93/618/s602/d] without an effective date of repeal other than that of [Pub. L. 93–618][/us/pl/93/618], which was approved on Jan. 3, 1975.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schIII/m__us_usc_t19_ch7_schIII.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_ch7_schIII_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptI)
+[Previous](./../../../../../..//us/usc/t19/ch7/schIII/m__us_usc_t19_ch7_schIII.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptI/m__us_usc_t19_s1901 _us_usc_t19_s1902.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptI)
 
 ----------
 ----------
 
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
-[/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/87/794/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs301
-[/us/stat/76/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F883
-[/us/pl/87/794/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs302
-[/us/stat/76/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F885
-[/us/pl/93/618/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fe
-[/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/93/618/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fe
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
-[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 
 

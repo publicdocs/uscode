@@ -25,7 +25,7 @@
 
     (d) The term “hovering vessel” means any vessel which is found or kept off the coast of the United States within or without the customs waters, if, from the history, conduct, character, or location of the vessel, it is reasonable to believe that such vessel is being used or may be used to introduce or promote or facilitate the introduction or attempted introduction of merchandise into the United States in violation of the laws respecting the revenue.
 
-([Aug. 5, 1935, ch. 438][/us/act/1935-08-05/ch438], title IV, § 401, [49 Stat. 529][/us/stat/49/529]; [June 25, 1938, ch. 679, § 2][/us/act/1938-06-25/ch679/s2], [52 Stat. 1077][/us/stat/52/1077]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [June 30, 1955, ch. 258, § 2(b)][/us/act/1955-06-30/ch258/s2/b], [69 Stat. 242][/us/stat/69/242].)
+([Aug. 5, 1935, ch. 438][/us/act/1935-08-05/ch438], title IV, § 401, [49 Stat. 529][/us/stat/49/529]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 2, [52 Stat. 1077][/us/stat/52/1077]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [June 30, 1955, ch. 258][/us/act/1955-06-30/ch258], § 2(b), [69 Stat. 242][/us/stat/69/242].)
 
  __References in Text__ 
 
@@ -72,10 +72,10 @@
 
 [/us/act/1935-08-05/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-05%2Fch438
 [/us/stat/49/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F529
-[/us/act/1938-06-25/ch679/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs2
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1077
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/act/1955-06-30/ch258/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch258%2Fs2%2Fb
+[/us/act/1955-06-30/ch258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch258
 [/us/stat/69/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F242
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394

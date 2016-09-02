@@ -17,7 +17,7 @@
 
     The grant shall not be sold, conveyed, transferred, set over, or assigned.
 
-([June 18, 1934, ch. 590, § 17][/us/act/1934-06-18/ch590/s17], [48 Stat. 1002][/us/stat/48/1002].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 17, [48 Stat. 1002][/us/stat/48/1002].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs17
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1002
 
 

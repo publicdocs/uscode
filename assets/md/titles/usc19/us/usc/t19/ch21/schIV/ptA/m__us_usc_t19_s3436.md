@@ -33,7 +33,7 @@
 
     (3) maintenance of effective remedies against subsidized imports, including, where appropriate, countervailing duties.
 
-([Pub. L. 103–182, title IV, § 406][/us/pl/103/182/s406], Dec. 8, 1993, [107 Stat. 2138][/us/stat/107/2138].)
+([Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 406, Dec. 8, 1993, [107 Stat. 2138][/us/stat/107/2138].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs406
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2138
 
 

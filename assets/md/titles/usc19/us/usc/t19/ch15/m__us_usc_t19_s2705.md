@@ -17,7 +17,7 @@
 
     The Secretary of Labor, in consulation  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “consultation”. </sup></sup>  with other appropriate Federal agencies, shall undertake a continuing review and analysis of the impact which the implementation of the provisions of this chapter have with respect to United States labor; and shall make an annual written report to Congress on the results of such review and analysis.
 
-([Pub. L. 98–67, title II, § 216][/us/pl/98/67/s216], Aug. 5, 1983, [97 Stat. 394][/us/stat/97/394].)
+([Pub. L. 98–67, title II][/us/pl/98/67/tII], § 216, Aug. 5, 1983, [97 Stat. 394][/us/stat/97/394].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/67/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs216
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
 [/us/stat/97/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F394
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384

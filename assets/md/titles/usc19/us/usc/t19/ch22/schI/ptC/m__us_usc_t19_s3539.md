@@ -41,7 +41,7 @@
 
         Sections 9601 and 9602(b) of title 26 shall apply to the fund established under subsection (a) to the same extent as such provisions apply to trust funds established under subchapter A of chapter 98 of such title.
 
-([Pub. L. 107–210, div. E, title L, § 5201][/us/pl/107/210/s5201], Aug. 6, 2002, [116 Stat. 1047][/us/stat/116/1047].)
+([Pub. L. 107–210, div. E, title L][/us/pl/107/210/dE/tL], § 5201, Aug. 6, 2002, [116 Stat. 1047][/us/stat/116/1047].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/107/210/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs5201
+[/us/pl/107/210/dE/tL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdE%2FtL
 [/us/stat/116/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1047
 
 

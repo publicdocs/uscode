@@ -33,7 +33,7 @@
 
         (5) The Tokyo Round of Multilateral Trade Negotiations.
 
-([Pub. L. 107–210, div. B, title XXI, § 2111][/us/pl/107/210/s2111], Aug. 6, 2002, [116 Stat. 1021][/us/stat/116/1021].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2111, Aug. 6, 2002, [116 Stat. 1021][/us/stat/116/1021].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/210/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2111
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1021
 
 

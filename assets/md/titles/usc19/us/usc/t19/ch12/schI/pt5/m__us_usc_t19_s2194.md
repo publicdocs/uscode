@@ -27,7 +27,7 @@
 
         (2) any Saturday and Sunday, not excluded under paragraph (1), when either House is not in session.
 
-([Pub. L. 93–618, title I, § 154][/us/pl/93/618/s154], Jan. 3, 1975, [88 Stat. 2008][/us/stat/88/2008]; [Pub. L. 96–39, title IX, § 902(a)(2)][/us/pl/96/39/s902/a/2], July 26, 1979, [93 Stat. 300][/us/stat/93/300]; [Pub. L. 101–382, title I, § 132(c)(6)][/us/pl/101/382/s132/c/6], Aug. 20, 1990, [104 Stat. 647][/us/stat/104/647]; [Pub. L. 103–465, title II, § 261(d)(1)(A)(iii)][/us/pl/103/465/s261/d/1/A/iii], Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909]; [Pub. L. 106–36, title I, § 1001(a)(5)][/us/pl/106/36/s1001/a/5], June 25, 1999, [113 Stat. 130][/us/stat/113/130].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 154, Jan. 3, 1975, [88 Stat. 2008][/us/stat/88/2008]; [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 902(a)(2), July 26, 1979, [93 Stat. 300][/us/stat/93/300]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 132(c)(6), Aug. 20, 1990, [104 Stat. 647][/us/stat/104/647]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 261(d)(1)(A)(iii), Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1001(a)(5), June 25, 1999, [113 Stat. 130][/us/stat/113/130].)
 
  __Amendments__ 
 
@@ -56,15 +56,15 @@
 ----------
 ----------
 
-[/us/pl/93/618/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs154
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2008
-[/us/pl/96/39/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs902%2Fa%2F2
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F300
-[/us/pl/101/382/s132/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fc%2F6
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F647
-[/us/pl/103/465/s261/d/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FA%2Fiii
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4909
-[/us/pl/106/36/s1001/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1001%2Fa%2F5
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F130
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

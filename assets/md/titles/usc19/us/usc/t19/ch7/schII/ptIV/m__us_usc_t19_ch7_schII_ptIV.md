@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptIII/m__us_usc_t19_ch7_schII_ptIII.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptIV/m__us_usc_t19_s1861.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschII%2FptIV)
+[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptIII/m__us_usc_t19_s1841...1846.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptIV/m__us_usc_t19_s1861.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschII%2FptIV)
 
 #### Part IV—National Security
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptIII/m__us_usc_t19_ch7_schII_ptIII.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptIV/m__us_usc_t19_s1861.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschII%2FptIV)
+[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptIII/m__us_usc_t19_s1841...1846.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptIV/m__us_usc_t19_s1861.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschII%2FptIV)
 
 ----------
 ----------

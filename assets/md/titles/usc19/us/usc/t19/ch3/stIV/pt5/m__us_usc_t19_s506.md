@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s494.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs506)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s495...505.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs506)
 
 ## § 506. Repealed. [Aug. 5, 1935, ch. 438][/us/act/1935-08-05/ch438], title II, § 203(b), [49 Stat. 523][/us/stat/49/523]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s494.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs506)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s495...505.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt5/m__us_usc_t19_s507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs506)
 
 ----------
 ----------

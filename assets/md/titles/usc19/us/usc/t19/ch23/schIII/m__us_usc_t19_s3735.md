@@ -53,7 +53,7 @@
 
         (5) make available to the public, through printed and electronic means of communication, the information derived pursuant to paragraphs (1) through (4) for each of the 4 years after May 18, 2000.
 
-([Pub. L. 106–200, title I, § 125][/us/pl/106/200/s125], May 18, 2000, [114 Stat. 270][/us/stat/114/270].)
+([Pub. L. 106–200, title I][/us/pl/106/200/tI], § 125, May 18, 2000, [114 Stat. 270][/us/stat/114/270].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/106/200/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs125
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F270
 
 

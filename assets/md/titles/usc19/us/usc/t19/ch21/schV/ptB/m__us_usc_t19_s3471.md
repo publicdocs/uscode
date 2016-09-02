@@ -33,7 +33,7 @@
 
         (2) the term “North American Agreement on Labor Cooperation” means the North American Agreement on Labor Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
-([Pub. L. 103–182, title V, § 531][/us/pl/103/182/s531], Dec. 8, 1993, [107 Stat. 2163][/us/stat/107/2163].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 531, Dec. 8, 1993, [107 Stat. 2163][/us/stat/107/2163].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs531
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2163
 
 

@@ -59,23 +59,23 @@
 
         The Secretary of the Treasury is authorized to include in such rules and regulations any of the provisions of section 1484 or 1485 of this title (relating, respectively, to entry and to declaration of merchandise generally).
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 498, [46 Stat. 728][/us/stat/46/728]; [Aug. 8, 1953, ch. 397, § 16(d)][/us/act/1953-08-08/ch397/s16/d], (e), [67 Stat. 517][/us/stat/67/517]; [Pub. L. 96–609, title II, § 202][/us/pl/96/609/s202], Dec. 28, 1980, [94 Stat. 3561][/us/stat/94/3561]; [Pub. L. 98–573, title II, § 206][/us/pl/98/573/s206], Oct. 30, 1984, [98 Stat. 2975][/us/stat/98/2975]; [Pub. L. 100–418, title I, § 1214(h)(5)][/us/pl/100/418/s1214/h/5], Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157]; [Pub. L. 103–182, title VI, § 662][/us/pl/103/182/s662], Dec. 8, 1993, [107 Stat. 2214][/us/stat/107/2214].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 498, [46 Stat. 728][/us/stat/46/728]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 16(d), (e), [67 Stat. 517][/us/stat/67/517]; [Pub. L. 96–609, title II][/us/pl/96/609/tII], § 202, Dec. 28, 1980, [94 Stat. 3561][/us/stat/94/3561]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 206, Oct. 30, 1984, [98 Stat. 2975][/us/stat/98/2975]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(h)(5), Aug. 23, 1988, [102 Stat. 1157][/us/stat/102/1157]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 662, Dec. 8, 1993, [107 Stat. 2214][/us/stat/107/2214].)
 
  __References in Text__ 
 
-    [Section 1465 of this title][/us/usc/t19/s1465], referred to in subsec. (a)(10), was repealed by [Pub. L. 103–182, title VI, § 690(b)(7)][/us/pl/103/182/s690/b/7], Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
+    [Section 1465 of this title][/us/usc/t19/s1465], referred to in subsec. (a)(10), was repealed by [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 690(b)(7), Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
 
-    [Section 1201 of this title][/us/usc/t19/s1201], referred to in subsec. (a)(12), which comprised the free list for articles imported into the United States, was repealed by [Pub. L. 87–456, title I, § 101(a)][/us/pl/87/456/s101/a], May 24, 1962, [76 Stat. 72][/us/stat/76/72], which act also revised the Tariff Schedules of the United States. See notes under [section 1202 of this title][/us/usc/t19/s1202].
+    [Section 1201 of this title][/us/usc/t19/s1201], referred to in subsec. (a)(12), which comprised the free list for articles imported into the United States, was repealed by [Pub. L. 87–456, title I][/us/pl/87/456/tI], § 101(a), May 24, 1962, [76 Stat. 72][/us/stat/76/72], which act also revised the Tariff Schedules of the United States. See notes under [section 1202 of this title][/us/usc/t19/s1202].
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 498, [42 Stat. 964][/us/stat/42/964]. That section was superseded by section 498 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 498, [42 Stat. 964][/us/stat/42/964]. That section was superseded by section 498 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Provision for an entry, separate from that of other merchandise, of wearing apparel, personal baggage, and tools and implements of a mechanical trade, was made by R.S. § 2799, which also prescribed the contents of such entry, and of the accompanying oath. R.S. § 2800 provided for a bond when the person making entry was not the owner. R.S. § 2801 provided for a landing permit, and for an examination of baggage when deemed proper by the collector and naval officer, and for entry of articles not exempt from duty. All of these sections were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Provision for an entry, separate from that of other merchandise, of wearing apparel, personal baggage, and tools and implements of a mechanical trade, was made by R.S. § 2799, which also prescribed the contents of such entry, and of the accompanying oath. R.S. § 2800 provided for a bond when the person making entry was not the owner. R.S. § 2801 provided for a landing permit, and for an examination of baggage when deemed proper by the collector and naval officer, and for entry of articles not exempt from duty. All of these sections were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
-    1993—Subsec. (a)(1). [Pub. L. 103–182, § 662(1)][/us/pl/103/182/s662/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Merchandise, imported in the mails or otherwise, when the aggregate value of the shipment does not exceed such amount, not greater than $1,250 as the Secretary of the Treasury shall specify in the regulations, and the specified amount may vary for different classes or kinds of merchandise or different classes of transactions, except that this paragraph does not apply to articles valued in excess of $250 classified in—
+    1993—Subsec. (a)(1). [Pub. L. 103–182][/us/pl/103/182], § 662(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Merchandise, imported in the mails or otherwise, when the aggregate value of the shipment does not exceed such amount, not greater than $1,250 as the Secretary of the Treasury shall specify in the regulations, and the specified amount may vary for different classes or kinds of merchandise or different classes of transactions, except that this paragraph does not apply to articles valued in excess of $250 classified in—
 
     “(A) chapters 50 through 63;
 
@@ -85,7 +85,7 @@
 
     of the Harmonized Tariff Schedule of the United States, or to any other article for which formal entry is required without regard to value.;”.
 
-    Subsec. (a)(2). [Pub. L. 103–182, § 662(2)][/us/pl/103/182/s662/2], substituted “such amounts as the Secretary may prescribe” for “$10,000” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 103–182][/us/pl/103/182], § 662(2), substituted “such amounts as the Secretary may prescribe” for “$10,000” in introductory provisions.
 
     1988—Subsec. (a)(1). [Pub. L. 100–418][/us/pl/100/418], substituted “the Harmonized Tariff Schedule of the United States” for “the Tariff Schedules of the United States” in closing provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
@@ -117,7 +117,7 @@
 
  __Customs Declarations; Proximity of Livestock__ 
 
-[Pub. L. 108–90, title V, § 513][/us/pl/108/90/s513], Oct. 1, 2003, [117 Stat. 1154][/us/stat/117/1154], provided that: 
+[Pub. L. 108–90, title V][/us/pl/108/90/tV], § 513, Oct. 1, 2003, [117 Stat. 1154][/us/stat/117/1154], provided that: 
 
 > “For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used for the production of customs declarations that do not inquire whether the passenger had been in the proximity of livestock.”
 
@@ -131,29 +131,29 @@
 [/us/usc/t19/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1201
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F728
-[/us/act/1953-08-08/ch397/s16/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs16%2Fd
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F517
-[/us/pl/96/609/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F609%2Fs202
+[/us/pl/96/609/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F609%2FtII
 [/us/stat/94/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3561
-[/us/pl/98/573/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs206
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2975
-[/us/pl/100/418/s1214/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fh%2F5
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1157
-[/us/pl/103/182/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs662
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2214
 [/us/usc/t19/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1465
-[/us/pl/103/182/s690/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fb%2F7
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
 [/us/usc/t19/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1201
-[/us/pl/87/456/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs101%2Fa
+[/us/pl/87/456/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtI
 [/us/stat/76/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F72
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F964
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/pl/103/182/s662/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs662%2F1
-[/us/pl/103/182/s662/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs662%2F2
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/96/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F609
@@ -165,7 +165,7 @@
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304
-[/us/pl/108/90/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90%2Fs513
+[/us/pl/108/90/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F90%2FtV
 [/us/stat/117/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1154
 
 

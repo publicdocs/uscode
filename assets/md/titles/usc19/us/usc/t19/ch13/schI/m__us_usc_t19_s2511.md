@@ -49,37 +49,37 @@
 
         The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.
 
-([Pub. L. 96–39, title III, § 301][/us/pl/96/39/s301], July 26, 1979, [93 Stat. 236][/us/stat/93/236]; [Pub. L. 100–418, title VII, § 7005(e)][/us/pl/100/418/s7005/e], Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553]; [Pub. L. 103–182, title III, § 381(a)][/us/pl/103/182/s381/a], Dec. 8, 1993, [107 Stat. 2128][/us/stat/107/2128].)
+([Pub. L. 96–39, title III][/us/pl/96/39/tIII], § 301, July 26, 1979, [93 Stat. 236][/us/stat/93/236]; [Pub. L. 100–418, title VII][/us/pl/100/418/tVII], § 7005(e), Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 381(a), Dec. 8, 1993, [107 Stat. 2128][/us/stat/107/2128].)
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–182, § 381(a)(1)][/us/pl/103/182/s381/a/1], substituted “Subject to subsection (f) of this section, the President” for “The President”.
+    1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 381(a)(1), substituted “Subject to subsection (f) of this section, the President” for “The President”.
 
-    Subsec. (b)(1). [Pub. L. 103–182, § 381(a)(2)][/us/pl/103/182/s381/a/2], inserted “or the North American Free Trade Agreement” after “the Agreement”.
+    Subsec. (b)(1). [Pub. L. 103–182][/us/pl/103/182], § 381(a)(2), inserted “or the North American Free Trade Agreement” after “the Agreement”.
 
-    Subsecs. (e), (f). [Pub. L. 103–182, § 381(a)(3)][/us/pl/103/182/s381/a/3], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 103–182][/us/pl/103/182], § 381(a)(3), added subsecs. (e) and (f).
 
     1988—Subsec. (d). [Pub. L. 100–418][/us/pl/100/418], §§ 7004, 7005(e), temporarily added subsec. (d) which read as follows: “The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.” See Effective and Termination Dates of 1988 Amendment note below.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–182, title III, § 381(e)][/us/pl/103/182/s381/e], Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129], provided that: 
+[Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 381(e), Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129], provided that: 
 
 > “The provisions of this subtitle \[subtitle G (§ 381) of title III of [Pub. L. 103–182][/us/pl/103/182], amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under [section 903 of Title 7][/us/usc/t7/s903], Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
 
  __Effective and Termination Dates of 1988 Amendment__ 
 
-[Pub. L. 100–418, title VII, § 7004][/us/pl/100/418/s7004], Aug. 23, 1988, [102 Stat. 1552][/us/stat/102/1552], provided that: 
+[Pub. L. 100–418, title VII][/us/pl/100/418/tVII], § 7004, Aug. 23, 1988, [102 Stat. 1552][/us/stat/102/1552], provided that: 
 
 > “The amendments made by this title \[see Tables for classification\] shall cease to be effective on April 30, 1996, unless the Congress, after reviewing the report required by section 305(k) of the Trade Agreements Act of 1979 \[former [19 U.S.C. 2515(k)][/us/usc/t19/s2515/k]\], and other relevant information, extends such date. After such date, the President may modify or terminate any or all actions taken pursuant to such amendments.”
 
-[Pub. L. 100–418, title VII, § 7005(f)][/us/pl/100/418/s7005/f], Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553], provided that: 
+[Pub. L. 100–418, title VII][/us/pl/100/418/tVII], § 7005(f), Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 10a, 10b, 10c, and 10d of Title 41, Public Contracts\] shall take effect upon enactment \[Aug. 23, 1988\].”
 
  __Effective Date__ 
 
-[Pub. L. 96–39, title III, § 309][/us/pl/96/39/s309], July 26, 1979, [93 Stat. 241][/us/stat/93/241], provided that: 
+[Pub. L. 96–39, title III][/us/pl/96/39/tIII], § 309, July 26, 1979, [93 Stat. 241][/us/stat/93/241], provided that: 
 
 > “The provisions of this title \[this subchapter\] shall be effective on the date of enactment of this Act \[July 26, 1979\], except that—
 
@@ -406,26 +406,26 @@ NOW, THEREFORE, by virtue of the authority vested in me as President by the Cons
 ----------
 ----------
 
-[/us/pl/96/39/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs301
+[/us/pl/96/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIII
 [/us/stat/93/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F236
-[/us/pl/100/418/s7005/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs7005%2Fe
+[/us/pl/100/418/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVII
 [/us/stat/102/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1553
-[/us/pl/103/182/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs381%2Fa
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2128
-[/us/pl/103/182/s381/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs381%2Fa%2F1
-[/us/pl/103/182/s381/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs381%2Fa%2F2
-[/us/pl/103/182/s381/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs381%2Fa%2F3
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/103/182/s381/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs381%2Fe
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2129
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t7/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs903
-[/us/pl/100/418/s7004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs7004
+[/us/pl/100/418/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVII
 [/us/stat/102/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1552
 [/us/usc/t19/s2515/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2515%2Fk
-[/us/pl/100/418/s7005/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs7005%2Ff
+[/us/pl/100/418/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVII
 [/us/stat/102/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1553
-[/us/pl/96/39/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs309
+[/us/pl/96/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIII
 [/us/stat/93/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F241
 [/us/usc/t19/s2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2513
 [/us/usc/t19/s2511–251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%E2%80%93251

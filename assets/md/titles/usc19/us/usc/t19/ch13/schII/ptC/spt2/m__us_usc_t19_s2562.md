@@ -17,7 +17,7 @@
 
     No standards-related activity being engaged in within the United States may be stayed in any judicial or administrative proceeding on the basis that such activity is currently being considered, pursuant to the Agreement, by an international forum.
 
-([Pub. L. 96–39, title IV, § 442][/us/pl/96/39/s442], July 26, 1979, [93 Stat. 248][/us/stat/93/248].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 442, July 26, 1979, [93 Stat. 248][/us/stat/93/248].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/39/s442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs442
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F248
 
 

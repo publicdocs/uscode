@@ -105,21 +105,21 @@
 
             The administering authority may not reduce the antidumping duty applicable to a class or kind of merchandise from a nonmarket economy country under this subsection by more than the portion of the countervailing duty rate attributable to a countervailable subsidy that is provided with respect to the class or kind of merchandise and that meets the conditions described in subparagraphs (A), (B), and (C) of paragraph (1).
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 777A, as added [Pub. L. 98–573, title VI, § 620(a)][/us/pl/98/573/s620/a], Oct. 30, 1984, [98 Stat. 3039][/us/stat/98/3039]; amended [Pub. L. 103–465, title II][/us/pl/103/465], §§ 229(a), 269(a), (b)(1), Dec. 8, 1994, [108 Stat. 4889][/us/stat/108/4889], 4916; [Pub. L. 112–99, § 2(a)][/us/pl/112/99/s2/a], Mar. 13, 2012, [126 Stat. 265][/us/stat/126/265].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 777A, as added [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 620(a), Oct. 30, 1984, [98 Stat. 3039][/us/stat/98/3039]; amended [Pub. L. 103–465, title II][/us/pl/103/465/tII], §§ 229(a), 269(a), (b)(1), Dec. 8, 1994, [108 Stat. 4889][/us/stat/108/4889], 4916; [Pub. L. 112–99][/us/pl/112/99], § 2(a), Mar. 13, 2012, [126 Stat. 265][/us/stat/126/265].)
 
  __Amendments__ 
 
     2012—Subsec. (f). [Pub. L. 112–99][/us/pl/112/99] added subsec. (f).
 
-    1994—[Pub. L. 103–465, § 269(b)(1)][/us/pl/103/465/s269/b/1], inserted “and countervailable subsidy rate” after “margin” in section catchline.
+    1994—[Pub. L. 103–465][/us/pl/103/465], § 269(b)(1), inserted “and countervailable subsidy rate” after “margin” in section catchline.
 
-    [Pub. L. 103–465, § 269(a)][/us/pl/103/465/s269/a], added subsec. (e).
+    [Pub. L. 103–465][/us/pl/103/465], § 269(a), added subsec. (e).
 
-    [Pub. L. 103–465, § 229(a)][/us/pl/103/465/s229/a], amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized sampling techniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under [section 1675 of this title][/us/usc/t19/s1675], and providing for selection of samples and averages by administering authority.
+    [Pub. L. 103–465][/us/pl/103/465], § 229(a), amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized sampling techniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under [section 1675 of this title][/us/usc/t19/s1675], and providing for selection of samples and averages by administering authority.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–99, § 2(b)][/us/pl/112/99/s2/b], Mar. 13, 2012, [126 Stat. 266][/us/stat/126/266], provided that: 
+[Pub. L. 112–99][/us/pl/112/99], § 2(b), Mar. 13, 2012, [126 Stat. 266][/us/stat/126/266], provided that: 
 
 > “Subsection (f) of section 777A of the Tariff Act of 1930 \[[19 U.S.C. 1677f–1(f)][/us/usc/t19/s1677f–1/f]\], as added by subsection (a) of this section, applies to—
 
@@ -152,18 +152,18 @@
 [/us/usc/t19/s1677a/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677a%2Fc%2F1%2FC
 [/us/usc/t19/s1677b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677b%2Fc
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/98/573/s620/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs620%2Fa
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3039
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4889
-[/us/pl/112/99/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99%2Fs2%2Fa
+[/us/pl/112/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99
 [/us/stat/126/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F265
 [/us/pl/112/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99
-[/us/pl/103/465/s269/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs269%2Fb%2F1
-[/us/pl/103/465/s269/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs269%2Fa
-[/us/pl/103/465/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs229%2Fa
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
-[/us/pl/112/99/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99%2Fs2%2Fb
+[/us/pl/112/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F99
 [/us/stat/126/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F266
 [/us/usc/t19/s1677f–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f%E2%80%931%2Ff
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

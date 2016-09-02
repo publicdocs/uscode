@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt1/m__us_usc_t19_s2253.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt2/m__us_usc_t19_ch12_schII_pt2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2254)
+[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt1/m__us_usc_t19_s2253.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt1/m__us_usc_t19_s2255.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2254)
 
 ## § 2254. Monitoring, modification, and termination of action
 
@@ -69,21 +69,21 @@
 
         (2) If the Commission treats as the domestic industry production located in a major geographic area of the United States under [section 2252(c)(4)(C) of this title][/us/usc/t19/s2252/c/4/C], then the President shall take into account the geographic concentration of domestic production and of imports in that area in taking any action authorized under paragraph (1).
 
-([Pub. L. 93–618, title II, § 204][/us/pl/93/618/s204], as added [Pub. L. 100–418, title I, § 1401(a)][/us/pl/100/418/s1401/a], Aug. 23, 1988, [102 Stat. 1238][/us/stat/102/1238]; amended [Pub. L. 100–647, title IX, § 9001(a)(8)][/us/pl/100/647/s9001/a/8], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 103–465, title I, § 129(a)(7)][/us/pl/103/465/s129/a/7], title III, § 302(c), (d), Dec. 8, 1994, [108 Stat. 4837][/us/stat/108/4837], 4936.)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 204, as added [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1401(a), Aug. 23, 1988, [102 Stat. 1238][/us/stat/102/1238]; amended [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9001(a)(8), Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 103–465, title I][/us/pl/103/465/tI], § 129(a)(7), title III, § 302(c), (d), Dec. 8, 1994, [108 Stat. 4837][/us/stat/108/4837], 4936.)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(2). [Pub. L. 103–465, § 302(c)(1)][/us/pl/103/465/s302/c/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than—
+    1994—Subsec. (a)(2). [Pub. L. 103–465][/us/pl/103/465], § 302(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than—
 
     “(A) the 2nd-anniversary of the day on which the action under [section 2253 of this title][/us/usc/t19/s2253] first took effect; and
 
     “(B) the last day of each 2-year period occurring after the 2-year period referred to in subparagraph (A).”
 
-    Subsec. (a)(4). [Pub. L. 103–465, § 302(c)(2)][/us/pl/103/465/s302/c/2], struck out “extension,” before “reduction,”.
+    Subsec. (a)(4). [Pub. L. 103–465][/us/pl/103/465], § 302(c)(2), struck out “extension,” before “reduction,”.
 
-    Subsec. (b)(3). [Pub. L. 103–465, § 129(a)(7)][/us/pl/103/465/s129/a/7], added par. (3).
+    Subsec. (b)(3). [Pub. L. 103–465][/us/pl/103/465], § 129(a)(7), added par. (3).
 
-    Subsecs. (c) to (e). [Pub. L. 103–465, § 302(d)][/us/pl/103/465/s302/d], added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectivley.
+    Subsecs. (c) to (e). [Pub. L. 103–465][/us/pl/103/465], § 302(d), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectivley.
 
     1988—Subsecs. (c) to (e). [Pub. L. 100–647][/us/pl/100/647] redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
@@ -103,7 +103,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt1/m__us_usc_t19_s2253.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt2/m__us_usc_t19_ch12_schII_pt2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2254)
+[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt1/m__us_usc_t19_s2253.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt1/m__us_usc_t19_s2255.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2254)
 
 ----------
 ----------
@@ -124,18 +124,18 @@
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
 [/us/usc/t19/s2136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2136%2Fa
 [/us/usc/t19/s2252/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fc%2F4%2FC
-[/us/pl/93/618/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs204
-[/us/pl/100/418/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1401%2Fa
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1238
-[/us/pl/100/647/s9001/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9001%2Fa%2F8
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3807
-[/us/pl/103/465/s129/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs129%2Fa%2F7
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4837
-[/us/pl/103/465/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fc%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
-[/us/pl/103/465/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fc%2F2
-[/us/pl/103/465/s129/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs129%2Fa%2F7
-[/us/pl/103/465/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs302%2Fd
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/103/465/s129/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs129%2Fa%2F7
 [/us/pl/103/465/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs130

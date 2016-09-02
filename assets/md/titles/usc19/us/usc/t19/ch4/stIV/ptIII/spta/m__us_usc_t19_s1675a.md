@@ -143,7 +143,7 @@
 
                 For purposes of this paragraph, the administering authority shall apply the de minimis standards applicable to reviews conducted under subsections (a) and (b) of [section 1675 of this title][/us/usc/t19/s1675].
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 752, as added [Pub. L. 103–465, title II, § 221(a)][/us/pl/103/465/s221/a], Dec. 8, 1994, [108 Stat. 4865][/us/stat/108/4865].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 752, as added [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 221(a), Dec. 8, 1994, [108 Stat. 4865][/us/stat/108/4865].)
 
  __Effective Date__ 
 
@@ -172,7 +172,7 @@
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
 [/us/usc/t19/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/465/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs221%2Fa
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4865
 [/us/pl/103/465/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs291
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671

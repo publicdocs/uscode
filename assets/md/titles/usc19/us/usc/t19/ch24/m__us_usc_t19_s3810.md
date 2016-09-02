@@ -21,7 +21,7 @@
 
     (2) any proclamation or Executive order issued pursuant to a trade agreement entered into under [section 3803 of this title][/us/usc/t19/s3803] shall be treated as a proclamation or Executive order issued pursuant to a trade agreement entered into under [section 2112 of this title][/us/usc/t19/s2112].
 
-([Pub. L. 107–210, div. B, title XXI, § 2110(b)][/us/pl/107/210/s2110/b], Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2110(b), Aug. 6, 2002, [116 Stat. 1020][/us/stat/116/1020].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/usc/t19/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3803
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/107/210/s2110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2110%2Fb
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1020
 [/us/usc/t19/s2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2137
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618

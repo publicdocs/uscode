@@ -17,7 +17,7 @@
 
     The Customs Service shall be reimbursed from the fees collected for the cost and expense, administrative and otherwise, incurred in collecting any fees on behalf of any government  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  agency for any reason.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 529, as added [Pub. L. 103–182, title VI, § 669][/us/pl/103/182/s669], Dec. 8, 1993, [107 Stat. 2216][/us/stat/107/2216].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 529, as added [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 669, Dec. 8, 1993, [107 Stat. 2216][/us/stat/107/2216].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/182/s669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs669
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2216
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

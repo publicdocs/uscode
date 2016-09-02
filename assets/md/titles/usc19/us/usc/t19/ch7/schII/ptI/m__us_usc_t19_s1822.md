@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch7/schII/ptI/m__us_usc_t19_s1821.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptI/m__us_usc_t19_s1823.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1822)
 
-## § 1822. Repealed. [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]
+## § 1822. Repealed. [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 602(d), Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072]
 
-    Section, [Pub. L. 87–794, title II, § 202][/us/pl/87/794/s202], Oct. 11, 1962, [76 Stat. 872][/us/stat/76/872], made special provision for low-rate articles.
+    Section, [Pub. L. 87–794, title II][/us/pl/87/794/tII], § 202, Oct. 11, 1962, [76 Stat. 872][/us/stat/76/872], made special provision for low-rate articles.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
-[/us/pl/87/794/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs202
+[/us/pl/87/794/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2FtII
 [/us/stat/76/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F872
 
 

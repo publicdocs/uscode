@@ -19,7 +19,7 @@
 
         In order to put into force and effect the policy of Congress by this chapter intended, the commission (1) upon request of the President, or (2) upon resolution of either or both Houses of Congress, or (3) upon its own motion, or (4) when in the judgment of the commission there is good and sufficient reason therefor, upon application of any interested party, shall investigate the differences in the costs of production of any domestic article and of any like or similar foreign article. In the course of the investigation the commission shall hold hearings and give reasonable public notice thereof, and shall afford reasonable opportunity for parties interested to be present, to produce evidence, and to be heard at such hearings. The commission shall report to the President the results of the investigation and its findings with respect to such differences in costs of production. If the commission finds it shown by the investigation that the duties expressly fixed by statute do not equalize the differences in the costs of production of the domestic article and the like or similar foreign article when produced in the principal competing country, the commission shall specify in its report such increases or decreases in rates of duty expressly fixed by statute (including any necessary change in classification) as it finds shown by the investigation to be necessary to equalize such differences. In no case shall the total increase or decrease of such rates of duty exceed 50 per centum of the rates expressly fixed by statute.
 
-    (b) __Repealed.__  __[__  __Pub. L. 96–39, title II, § 202(a)(2)(A)__  __][/us/pl/96/39/s202/a/2/A]__  __,__  __July 26, 1979__  __,__  __[__  __93 Stat. 202__  __][/us/stat/93/202]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 96–39, title II__  __][/us/pl/96/39/tII]__  __, § 202(a)(2)(A),__  __July 26, 1979__  __,__  __[__  __93 Stat. 202__  __][/us/stat/93/202]__ 
 
     (c) __Proclamation by the President__ 
 
@@ -65,13 +65,13 @@
 
         The President is authorized to make all needful rules and regulations for carrying out his functions under the provisions of this section.
 
-    (j) __Repealed.__  __[__  __Pub. L. 96–39, title II, § 202(a)(2)(D)__  __][/us/pl/96/39/s202/a/2/D]__  __,__  __July 26, 1979__  __,__  __[__  __93 Stat. 202__  __][/us/stat/93/202]__ 
+    (j) __Repealed.__  __[__  __Pub. L. 96–39, title II__  __][/us/pl/96/39/tII]__  __, § 202(a)(2)(D),__  __July 26, 1979__  __,__  __[__  __93 Stat. 202__  __][/us/stat/93/202]__ 
 
     (k) __Investigations prior to__  __June 17, 1930__ 
 
         All uncompleted investigations instituted prior to June 17, 1930, under the provisions of sections 154 to 159  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, including investigations in which the President has not proclaimed changes in classification or increases or decreases in rates of duty, shall be dismissed without prejudice; but the information and evidence secured by the commission in any such investigation may be given due consideration in any investigation instituted under the provisions of this section.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 336, [46 Stat. 701][/us/stat/46/701]; [Aug. 2, 1956, ch. 887, § 2(d)][/us/act/1956-08-02/ch887/s2/d], [70 Stat. 946][/us/stat/70/946]; [Pub. L. 85–686, § 9(c)(1)][/us/pl/85/686/s9/c/1], Aug. 20, 1958, [72 Stat. 679][/us/stat/72/679]; [Pub. L. 96–39, title II, § 202(a)(2)][/us/pl/96/39/s202/a/2], July 26, 1979, [93 Stat. 202][/us/stat/93/202].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 336, [46 Stat. 701][/us/stat/46/701]; [Aug. 2, 1956, ch. 887][/us/act/1956-08-02/ch887], § 2(d), [70 Stat. 946][/us/stat/70/946]; [Pub. L. 85–686][/us/pl/85/686], § 9(c)(1), Aug. 20, 1958, [72 Stat. 679][/us/stat/72/679]; [Pub. L. 96–39, title II][/us/pl/96/39/tII], § 202(a)(2), July 26, 1979, [93 Stat. 202][/us/stat/93/202].)
 
  __References in Text__ 
 
@@ -79,21 +79,21 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 315, [42 Stat. 941][/us/stat/42/941]. That section was superseded by section 336 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 315, [42 Stat. 941][/us/stat/42/941]. That section was superseded by section 336 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
-    1979—Subsec. (b). [Pub. L. 96–39, § 202(a)(2)(A)][/us/pl/96/39/s202/a/2/A], struck out subsec. (b) which related to the setting of ad valorem rates based upon the American selling price of domestic articles as would be necessary to equalize differences in the costs of production.
+    1979—Subsec. (b). [Pub. L. 96–39][/us/pl/96/39], § 202(a)(2)(A), struck out subsec. (b) which related to the setting of ad valorem rates based upon the American selling price of domestic articles as would be necessary to equalize differences in the costs of production.
 
-    Subsec. (c). [Pub. L. 96–39, § 202(a)(2)(B)][/us/pl/96/39/s202/a/2/B], substituted “changes in classification specified in any report” for “changes in classification and in basis of value specified in any report”.
+    Subsec. (c). [Pub. L. 96–39][/us/pl/96/39], § 202(a)(2)(B), substituted “changes in classification specified in any report” for “changes in classification and in basis of value specified in any report”.
 
-    Subsec. (d). [Pub. L. 96–39, § 202(a)(2)(C)][/us/pl/96/39/s202/a/2/C], substituted “changes in classification specified in the report” for “changes in classification or in basis of value specified in the report”.
+    Subsec. (d). [Pub. L. 96–39][/us/pl/96/39], § 202(a)(2)(C), substituted “changes in classification specified in the report” for “changes in classification or in basis of value specified in the report”.
 
-    Subsec. (f). [Pub. L. 96–39, § 202(a)(2)(C)][/us/pl/96/39/s202/a/2/C], substituted “change in classification which has taken effect” for “change in classification or in basis of value which has taken effect”.
+    Subsec. (f). [Pub. L. 96–39][/us/pl/96/39], § 202(a)(2)(C), substituted “change in classification which has taken effect” for “change in classification or in basis of value which has taken effect”.
 
-    Subsec. (j). [Pub. L. 96–39, § 202(a)(2)(D)][/us/pl/96/39/s202/a/2/D], struck out subsec. (j) which authorized the Secretary of the Treasury to make necessary rules and regulations for the entry and declaration of foreign articles with respect to which a change in the basis of value had been made.
+    Subsec. (j). [Pub. L. 96–39][/us/pl/96/39], § 202(a)(2)(D), struck out subsec. (j) which authorized the Secretary of the Treasury to make necessary rules and regulations for the entry and declaration of foreign articles with respect to which a change in the basis of value had been made.
 
-    Subsec. (k). [Pub. L. 96–39, § 202(a)(2)(C)][/us/pl/96/39/s202/a/2/C], substituted “changes in classification or increases or decreases” for “changes in classification or in basis of value or increases or decreases”.
+    Subsec. (k). [Pub. L. 96–39][/us/pl/96/39], § 202(a)(2)(C), substituted “changes in classification or increases or decreases” for “changes in classification or in basis of value or increases or decreases”.
 
     1958—Subsec. (a). [Pub. L. 85–686][/us/pl/85/686] struck out provisions which authorized the commission to adopt such reasonable procedure and rules and regulations as it deemed necessary to execute its functions under this section. See [section 1335 of this title][/us/usc/t19/s1335].
 
@@ -114,26 +114,26 @@
 ----------
 ----------
 
-[/us/pl/96/39/s202/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2%2FA
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F202
-[/us/pl/96/39/s202/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2%2FD
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F202
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F701
-[/us/act/1956-08-02/ch887/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs2%2Fd
+[/us/act/1956-08-02/ch887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887
 [/us/stat/70/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F946
-[/us/pl/85/686/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686%2Fs9%2Fc%2F1
+[/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
 [/us/stat/72/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F679
-[/us/pl/96/39/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2
+[/us/pl/96/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtII
 [/us/stat/93/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F202
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F941
-[/us/pl/96/39/s202/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2%2FA
-[/us/pl/96/39/s202/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2%2FB
-[/us/pl/96/39/s202/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2%2FC
-[/us/pl/96/39/s202/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2%2FC
-[/us/pl/96/39/s202/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2%2FD
-[/us/pl/96/39/s202/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs202%2Fa%2F2%2FC
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/85/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F686
 [/us/usc/t19/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1335
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39

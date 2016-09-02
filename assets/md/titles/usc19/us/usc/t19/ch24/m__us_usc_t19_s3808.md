@@ -43,7 +43,7 @@
 
         The President shall include a request for the resources necessary to support the plan described in subsection (a) in the first budget that the President submits to the Congress after the submission of the plan.
 
-([Pub. L. 107–210, div. B, title XXI, § 2108][/us/pl/107/210/s2108], Aug. 6, 2002, [116 Stat. 1018][/us/stat/116/1018].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2108, Aug. 6, 2002, [116 Stat. 1018][/us/stat/116/1018].)
 
  __Transfer of Functions__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t19/s3805/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805%2Fa%2F1%2FC
-[/us/pl/107/210/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2108
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1018
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t19/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801

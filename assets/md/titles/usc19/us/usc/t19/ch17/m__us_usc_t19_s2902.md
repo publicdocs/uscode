@@ -149,7 +149,7 @@
 
             The report required under [section 2155(e)(1) of this title][/us/usc/t19/s2155/e/1] regarding any trade agreement provided for under paragraph (1) shall be provided to the President, the Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies the Congress under [section 2903(a)(1)(A) of this title][/us/usc/t19/s2903/a/1/A] of his intention to enter into the agreement (but before January 15, 1994).
 
-([Pub. L. 100–418, title I, § 1102][/us/pl/100/418/s1102], Aug. 23, 1988, [102 Stat. 1126][/us/stat/102/1126]; [Pub. L. 101–382, title I, § 139(b)][/us/pl/101/382/s139/b], Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653]; [Pub. L. 103–49, § 1][/us/pl/103/49/s1], July 2, 1993, [107 Stat. 239][/us/stat/107/239].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1102, Aug. 23, 1988, [102 Stat. 1126][/us/stat/102/1126]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 139(b), Aug. 20, 1990, [104 Stat. 653][/us/stat/104/653]; [Pub. L. 103–49][/us/pl/103/49], § 1, July 2, 1993, [107 Stat. 239][/us/stat/107/239].)
 
  __References in Text__ 
 
@@ -182,11 +182,11 @@
 [/us/usc/t19/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903
 [/us/usc/t19/s2155/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155%2Fe%2F1
 [/us/usc/t19/s2903/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2903%2Fa%2F1%2FA
-[/us/pl/100/418/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1102
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1126
-[/us/pl/101/382/s139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs139%2Fb
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F653
-[/us/pl/103/49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F49%2Fs1
+[/us/pl/103/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F49
 [/us/stat/107/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F239
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

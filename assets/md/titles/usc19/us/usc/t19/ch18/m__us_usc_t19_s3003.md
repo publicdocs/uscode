@@ -31,7 +31,7 @@
 
         The provisions of [section 2135(a) of this title][/us/usc/t19/s2135/a] do not apply to the Convention.
 
-([Pub. L. 100–418, title I, § 1203][/us/pl/100/418/s1203], Aug. 23, 1988, [102 Stat. 1148][/us/stat/102/1148].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1203, Aug. 23, 1988, [102 Stat. 1148][/us/stat/102/1148].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t19/s2135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2135%2Fa
-[/us/pl/100/418/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1203
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1148
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001

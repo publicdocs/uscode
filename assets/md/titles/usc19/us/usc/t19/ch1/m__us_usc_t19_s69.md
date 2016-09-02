@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury is authorized to expend, from the funds appropriated for the general maintenance and operation of the Customs Service, such amounts as may be necessary for the erection of protective gates across international highways and roads crossing the Canadian and Mexican borders and for the erection of such fences in the immediate vicinity of such highways and roads as may be necessary to prevent unlawful entry or smuggling.
 
-([June 26, 1930, ch. 617, § 2][/us/act/1930-06-26/ch617/s2], as added [Oct. 10, 1940, ch. 837][/us/act/1940-10-10/ch837], [54 Stat. 1092][/us/stat/54/1092].)
+([June 26, 1930, ch. 617][/us/act/1930-06-26/ch617], § 2, as added [Oct. 10, 1940, ch. 837][/us/act/1940-10-10/ch837], [54 Stat. 1092][/us/stat/54/1092].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-26/ch617/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-26%2Fch617%2Fs2
+[/us/act/1930-06-26/ch617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-26%2Fch617
 [/us/act/1940-10-10/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch837
 [/us/stat/54/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1092
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

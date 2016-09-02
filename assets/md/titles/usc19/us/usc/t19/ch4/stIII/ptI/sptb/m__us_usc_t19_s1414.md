@@ -107,7 +107,7 @@
 
         (2) The term “Program participant” means, with respect to an entry of merchandise, any party entitled to make the entry under [section 1484(a)(2)(B) of this title][/us/usc/t19/s1484/a/2/B].
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 414, as added [Pub. L. 103–182, title VI, § 631(2)][/us/pl/103/182/s631/2], Dec. 8, 1993, [107 Stat. 2191][/us/stat/107/2191].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 414, as added [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 631(2), Dec. 8, 1993, [107 Stat. 2191][/us/stat/107/2191].)
 
  __Transfer of Functions__ 
 
@@ -122,7 +122,7 @@
 
 [/us/usc/t19/s1484/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484%2Fa%2F2%2FB
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/182/s631/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs631%2F2
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2191
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

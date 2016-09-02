@@ -57,25 +57,25 @@
 
         The provisions of this section shall apply by reason of action taken under subchapter III only if the President determines that action authorized under this section is necessary or appropriate to meet the international obligations of the United States.
 
-([Pub. L. 93–618, title I, § 123][/us/pl/93/618/s123], Jan. 3, 1975, [88 Stat. 1989][/us/stat/88/1989]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1104, 1401(b)(1)(A), Aug. 23, 1988, [102 Stat. 1132][/us/stat/102/1132], 1239; [Pub. L. 106–286, div. A, title I, § 104][/us/pl/106/286/s104], Oct. 10, 2000, [114 Stat. 891][/us/stat/114/891].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 123, Jan. 3, 1975, [88 Stat. 1989][/us/stat/88/1989]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1104, 1401(b)(1)(A), Aug. 23, 1988, [102 Stat. 1132][/us/stat/102/1132], 1239; [Pub. L. 106–286, div. A, title I][/us/pl/106/286/dA/tI], § 104, Oct. 10, 2000, [114 Stat. 891][/us/stat/114/891].)
 
  __Amendments__ 
 
     2000—Subsec. (a)(1). [Pub. L. 106–286][/us/pl/106/286] inserted “, or under part 2 of subchapter IV of this chapter” after “subchapter III of this chapter”.
 
-    1988—Subsec. (a). [Pub. L. 100–418, § 1104(1)][/us/pl/100/418/s1104/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever any action has been taken under [section 2253 of this title][/us/usc/t19/s2253] to increase or impose any duty or other import restriction, the President—
+    1988—Subsec. (a). [Pub. L. 100–418][/us/pl/100/418], § 1104(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever any action has been taken under [section 2253 of this title][/us/usc/t19/s2253] to increase or impose any duty or other import restriction, the President—
 
     “(1) may enter into trade agreements with foreign countries or instrumentalities for the purpose of granting new concessions as compensation in order to maintain the general level of reciprocal and mutually advantageous concessions; and
 
     “(2) may proclaim such modification or continuance of any existing duty, or such continuance of existing duty-free or excise treatment, as he determines to be required or appropriate to carry out any such agreement.”
 
-    Subsec. (b)(2). [Pub. L. 100–418, § 1104(2)][/us/pl/100/418/s1104/2], substituted “section 2902(a)” for “section 2119” and “such section 2902(a)” for “section 2111” in two places.
+    Subsec. (b)(2). [Pub. L. 100–418][/us/pl/100/418], § 1104(2), substituted “section 2902(a)” for “section 2119” and “such section 2902(a)” for “section 2111” in two places.
 
-    Subsec. (b)(4). [Pub. L. 100–418, § 1401(b)(1)(A)][/us/pl/100/418/s1401/b/1/A], substituted “action under sections 2253(e) and 2254 of this title” for “import relief under [section 2253(h) of this title][/us/usc/t19/s2253/h]”.
+    Subsec. (b)(4). [Pub. L. 100–418][/us/pl/100/418], § 1401(b)(1)(A), substituted “action under sections 2253(e) and 2254 of this title” for “import relief under [section 2253(h) of this title][/us/usc/t19/s2253/h]”.
 
-    Subsec. (d). [Pub. L. 100–418, § 1104(3)][/us/pl/100/418/s1104/3], substituted “section 2902” for “section 2111”.
+    Subsec. (d). [Pub. L. 100–418][/us/pl/100/418], § 1104(3), substituted “section 2902” for “section 2111”.
 
-    Subsec. (e). [Pub. L. 100–418, § 1104(4)][/us/pl/100/418/s1104/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1104(4), added subsec. (e).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -92,20 +92,20 @@
 [/us/usc/t19/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902%2Fa
 [/us/usc/t19/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902%2Fa
 [/us/usc/t19/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2902
-[/us/pl/93/618/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs123
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1989
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1132
-[/us/pl/106/286/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs104
+[/us/pl/106/286/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdA%2FtI
 [/us/stat/114/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F891
 [/us/pl/106/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286
-[/us/pl/100/418/s1104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1104%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
-[/us/pl/100/418/s1104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1104%2F2
-[/us/pl/100/418/s1401/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1401%2Fb%2F1%2FA
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s2253/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253%2Fh
-[/us/pl/100/418/s1104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1104%2F3
-[/us/pl/100/418/s1104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1104%2F4
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1401/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1401%2Fb%2F1%2FA
 [/us/pl/100/418/s1401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1401%2Fc
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251

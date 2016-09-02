@@ -17,7 +17,7 @@
 
     Except as otherwise provided by law, all sums received from fines, penalties, and forfeitures, connected with the customs, and from fees paid into the Treasury by customs officers, and from storage, cartage, drayage, labor, and services, shall be covered into the Treasury as are other miscellaneous receipts.
 
-([Mar. 4, 1907, ch. 2918, § 1][/us/act/1907-03-04/ch2918/s1], [34 Stat. 1315][/us/stat/34/1315].)
+([Mar. 4, 1907, ch. 2918][/us/act/1907-03-04/ch2918], § 1, [34 Stat. 1315][/us/stat/34/1315].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1907-03-04/ch2918/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2918%2Fs1
+[/us/act/1907-03-04/ch2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2918
 [/us/stat/34/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1315
 
 

@@ -17,7 +17,7 @@
 
     The President may enter into such bilateral or multilateral agreements as may be necessary or appropriate to achieve the objectives of this section and the negotiating objectives under [section 2114a(c) of this title][/us/usc/t19/s2114a/c].
 
-([Pub. L. 98–573, title III, § 308(a)][/us/pl/98/573/s308/a], Oct. 30, 1984, [98 Stat. 3013][/us/stat/98/3013].)
+([Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 308(a), Oct. 30, 1984, [98 Stat. 3013][/us/stat/98/3013].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t19/s2114a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2114a%2Fc
-[/us/pl/98/573/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs308%2Fa
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3013
 [/us/pl/98/573/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs308
 [/us/pl/98/573/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs308

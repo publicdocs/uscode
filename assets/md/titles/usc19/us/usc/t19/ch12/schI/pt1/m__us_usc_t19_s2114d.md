@@ -29,7 +29,7 @@
 
     (4) Whenever the international obligations of the United States and actions taken under paragraph (2) make compensation necessary or appropriate, compensation may be provided by the United States Trade Representative subject to the limitations and conditions contained in [section 2133 of this title][/us/usc/t19/s2133] for providing compensation for actions taken under [section 2253 of this title][/us/usc/t19/s2253].
 
-([Pub. L. 98–573, title III, § 307(b)][/us/pl/98/573/s307/b], Oct. 30, 1984, [98 Stat. 3012][/us/stat/98/3012]; [Pub. L. 99–514, title XVIII, § 1889(5)][/us/pl/99/514/s1889/5], Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926].)
+([Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 307(b), Oct. 30, 1984, [98 Stat. 3012][/us/stat/98/3012]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1889(5), Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926].)
 
  __Codification__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t19/s1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1872
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
 [/us/usc/t19/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2253
-[/us/pl/98/573/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs307%2Fb
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3012
-[/us/pl/99/514/s1889/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1889%2F5
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2926
 [/us/pl/98/573/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs307
 [/us/usc/t19/s2112/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112%2Fg%2F3

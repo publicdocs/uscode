@@ -211,7 +211,7 @@
 
         In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the negotiating objectives set forth in [section 4201 of this title][/us/usc/t19/s4201].
 
-([Pub. L. 114–26, title I, § 103][/us/pl/114/26/s103], June 29, 2015, [129 Stat. 333][/us/stat/129/333].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 103, June 29, 2015, [129 Stat. 333][/us/stat/129/333].)
 
  __References in Text__ 
 
@@ -240,7 +240,7 @@
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2192
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
-[/us/pl/114/26/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs103
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F333
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320

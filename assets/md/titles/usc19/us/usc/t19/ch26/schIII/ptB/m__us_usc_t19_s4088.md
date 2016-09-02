@@ -17,7 +17,7 @@
 
     The President may not release information received in connection with a review under this part which the President considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the President, or such party subsequently consents to the release of the information. To the extent a party submits confidential business information, it shall also provide a nonconfidential version of the information in which the confidential business information is summarized or, if necessary, deleted.
 
-([Pub. L. 109–53, title III, § 328][/us/pl/109/53/s328], Aug. 2, 2005, [119 Stat. 494][/us/stat/119/494].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 328, Aug. 2, 2005, [119 Stat. 494][/us/stat/119/494].)
 
  __Termination of Section__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/109/53/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs328
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F494
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

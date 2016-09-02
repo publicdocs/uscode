@@ -21,7 +21,7 @@
 
     (2) sufficient bond is posted by the institution to ensure its return to the Secretary.
 
-([Pub. L. 97–446, title III, § 309][/us/pl/97/446/s309], Jan. 12, 1983, [96 Stat. 2360][/us/stat/96/2360].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 309, Jan. 12, 1983, [96 Stat. 2360][/us/stat/96/2360].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t19/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2606
 [/us/usc/t19/s2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2607
-[/us/pl/97/446/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs309
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2360
 
 

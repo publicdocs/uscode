@@ -131,7 +131,7 @@
 
             If any Committee report required to be considered by the President recommends that an agreement be entered into, but no such agreement is entered into, the President shall submit to the Congress a report which contains the reasons why such agreement was not entered into.
 
-([Pub. L. 97–446, title III, § 303][/us/pl/97/446/s303], Jan. 12, 1983, [96 Stat. 2352][/us/stat/96/2352].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 303, Jan. 12, 1983, [96 Stat. 2352][/us/stat/96/2352].)
 
  __Codification__ 
 
@@ -202,7 +202,7 @@ Sec. 3. Department of the Treasury \[The Department of Homeland Security\]. The 
 [/us/usc/t19/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2603
 [/us/usc/t19/s2605/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2605%2Ff
 [/us/usc/t19/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2603
-[/us/pl/97/446/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs303
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2352
 [/us/usc/t19/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2603
 [/us/usc/t19/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2603

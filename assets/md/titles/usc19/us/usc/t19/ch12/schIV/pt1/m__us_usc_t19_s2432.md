@@ -83,17 +83,17 @@
 
         This section shall not apply to any country the products of which are eligible for the rates set forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975.
 
-([Pub. L. 93–618, title IV, § 402][/us/pl/93/618/s402], Jan. 3, 1975, [88 Stat. 2056][/us/stat/88/2056]; [Pub. L. 96–39, title XI, § 1106(f)(1)][/us/pl/96/39/s1106/f/1], July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 101–382, title I, § 132(a)(1)][/us/pl/101/382/s132/a/1], (2), Aug. 20, 1990, [104 Stat. 643][/us/stat/104/643], 644; [Pub. L. 105–206, title V, § 5003(b)(2)(A)][/us/pl/105/206/s5003/b/2/A], July 22, 1998, [112 Stat. 789][/us/stat/112/789].)
+([Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 402, Jan. 3, 1975, [88 Stat. 2056][/us/stat/88/2056]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(f)(1), July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 132(a)(1), (2), Aug. 20, 1990, [104 Stat. 643][/us/stat/104/643], 644; [Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(b)(2)(A), July 22, 1998, [112 Stat. 789][/us/stat/112/789].)
 
  __References in Text__ 
 
-    The Tariff Schedules of the United States, referred to in subsec. (e), to be treated as a reference to the Harmonized Tariff Schedule, see [Pub. L. 100–418, title I, § 1212][/us/pl/100/418/s1212], Aug. 23, 1988, [102 Stat. 1155][/us/stat/102/1155], classified to [section 3012 of this title][/us/usc/t19/s3012]. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
+    The Tariff Schedules of the United States, referred to in subsec. (e), to be treated as a reference to the Harmonized Tariff Schedule, see [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1212, Aug. 23, 1988, [102 Stat. 1155][/us/stat/102/1155], classified to [section 3012 of this title][/us/usc/t19/s3012]. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
  __Amendments__ 
 
     1998—Subsecs. (a), (b). [Pub. L. 105–206][/us/pl/105/206] substituted “(normal trade relations)” for “(most-favored-nation treatment)”.
 
-    1990—Subsec. (d)(1). [Pub. L. 101–382, § 132(a)(1)][/us/pl/101/382/s132/a/1], (2)(A), (B), redesignated par. (5) as (1), and substituted “If the President determines that the further extension of the waiver authority granted under subsection (c) will” for “If the waiver authority granted by subsection (c) has been extended under paragraph (3) or (4) for any country for the 12-month period referred to in such paragraphs, and the President determines that the further extension of such authority will” in introductory provisions, substituted “, unless a joint resolution described in [section 2193(a) of this title][/us/usc/t19/s2193/a] is enacted into law pursuant to the provisions of paragraph (2).” for “, unless before the end of the 60-day period following such previous 12-month extension, either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of the Members present and voting in that House and under the procedures set forth in [section 2193 of this title][/us/usc/t19/s2193], a resolution disapproving the extension of such authority generally or with respect to such country specifically. Such authority shall cease to be effective with respect to all countries on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority, and shall cease to be effective with respect to any country on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority with respect to such country.” in concluding provisions, and struck out former par. (1) which read as follows: “If the President determines that the extension of the waiver authority granted by subsection (c)(1) will substantially promote the objectives of this section, he may recommend to the Congress that such authority be extended for a period of 12 months. Any such recommendation shall—
+    1990—Subsec. (d)(1). [Pub. L. 101–382][/us/pl/101/382], § 132(a)(1), (2)(A), (B), redesignated par. (5) as (1), and substituted “If the President determines that the further extension of the waiver authority granted under subsection (c) will” for “If the waiver authority granted by subsection (c) has been extended under paragraph (3) or (4) for any country for the 12-month period referred to in such paragraphs, and the President determines that the further extension of such authority will” in introductory provisions, substituted “, unless a joint resolution described in [section 2193(a) of this title][/us/usc/t19/s2193/a] is enacted into law pursuant to the provisions of paragraph (2).” for “, unless before the end of the 60-day period following such previous 12-month extension, either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of the Members present and voting in that House and under the procedures set forth in [section 2193 of this title][/us/usc/t19/s2193], a resolution disapproving the extension of such authority generally or with respect to such country specifically. Such authority shall cease to be effective with respect to all countries on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority, and shall cease to be effective with respect to any country on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority with respect to such country.” in concluding provisions, and struck out former par. (1) which read as follows: “If the President determines that the extension of the waiver authority granted by subsection (c)(1) will substantially promote the objectives of this section, he may recommend to the Congress that such authority be extended for a period of 12 months. Any such recommendation shall—
 
     “(A) be made not later than 30 days before the expiration of such authority;
 
@@ -101,17 +101,17 @@
 
     “(C) include, for each country with respect to which a waiver granted under subsection (c)(1) is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.”
 
-    Subsec. (d)(2). [Pub. L. 101–382, § 132(a)(2)(A)][/us/pl/101/382/s132/a/2/A], (C), added par. (2) and struck out former par. (2) which authorized extension of waiver authority for 12-month period upon recommendation of President and adoption of concurrent resolution approving extension of authority and not excluding country, and provided procedures if such resolution was not adopted.
+    Subsec. (d)(2). [Pub. L. 101–382][/us/pl/101/382], § 132(a)(2)(A), (C), added par. (2) and struck out former par. (2) which authorized extension of waiver authority for 12-month period upon recommendation of President and adoption of concurrent resolution approving extension of authority and not excluding country, and provided procedures if such resolution was not adopted.
 
-    Subsec. (d)(3), (4). [Pub. L. 101–382, § 132(a)(2)(A)][/us/pl/101/382/s132/a/2/A], struck out par. (3) which authorized extension of waiver authority upon recommendation of President for 60 days, and for 12 months if before end of 60-day period concurrent resolution was adopted approving extension of authority and failing to exclude particular country, and provided procedures if such resolution was not adopted, and struck out par. (4) which authorized extension of waiver authority for 12 months upon recommendation of President if Congress failed to adopt concurrent resolution approving extension under par. (3) and also failed to adopt, in 45-day period following 60-day period, concurrent resolution disapproving extension generally or with respect to particular country.
+    Subsec. (d)(3), (4). [Pub. L. 101–382][/us/pl/101/382], § 132(a)(2)(A), struck out par. (3) which authorized extension of waiver authority upon recommendation of President for 60 days, and for 12 months if before end of 60-day period concurrent resolution was adopted approving extension of authority and failing to exclude particular country, and provided procedures if such resolution was not adopted, and struck out par. (4) which authorized extension of waiver authority for 12 months upon recommendation of President if Congress failed to adopt concurrent resolution approving extension under par. (3) and also failed to adopt, in 45-day period following 60-day period, concurrent resolution disapproving extension generally or with respect to particular country.
 
-    Subsec. (d)(5). [Pub. L. 101–382, § 132(a)(2)(B)][/us/pl/101/382/s132/a/2/B], redesignated par. (5) as (1).
+    Subsec. (d)(5). [Pub. L. 101–382][/us/pl/101/382], § 132(a)(2)(B), redesignated par. (5) as (1).
 
     1979—Subsec. (c)(1). [Pub. L. 96–39][/us/pl/96/39] substituted “subsections (a) and (b)” for “subsection (a) and (b)” in provisions preceding subpar. (A).
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–382, title I, § 132(d)][/us/pl/101/382/s132/d], Aug. 20, 1990, [104 Stat. 647][/us/stat/104/647], provided that:
+[Pub. L. 101–382, title I][/us/pl/101/382/tI], § 132(d), Aug. 20, 1990, [104 Stat. 647][/us/stat/104/647], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -312,27 +312,27 @@
 [/us/usc/t19/s2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2193
 [/us/usc/t19/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2194%2Fb
 [/us/usc/t19/s2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2193
-[/us/pl/93/618/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs402
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2056
-[/us/pl/96/39/s1106/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Ff%2F1
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F312
-[/us/pl/101/382/s132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F1
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F643
-[/us/pl/105/206/s5003/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fb%2F2%2FA
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F789
-[/us/pl/100/418/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1212
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1155
 [/us/usc/t19/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3012
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/101/382/s132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F1
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t19/s2193/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2193%2Fa
 [/us/usc/t19/s2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2193
-[/us/pl/101/382/s132/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F2%2FA
-[/us/pl/101/382/s132/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F2%2FA
-[/us/pl/101/382/s132/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fa%2F2%2FB
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
-[/us/pl/101/382/s132/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs132%2Fd
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F647
 [/us/usc/t19/s2193/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2193%2Fa
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39

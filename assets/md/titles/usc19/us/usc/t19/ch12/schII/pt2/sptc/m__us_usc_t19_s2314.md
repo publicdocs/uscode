@@ -23,7 +23,7 @@
 
         No disbursing officer shall, in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment by him under this part if it was based upon a voucher signed by a certifying officer designated as provided in subsection (a).
 
-([Pub. L. 93–618, title II, § 242][/us/pl/93/618/s242], Jan. 3, 1975, [88 Stat. 2026][/us/stat/88/2026].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 242, Jan. 3, 1975, [88 Stat. 2026][/us/stat/88/2026].)
 
  __Termination Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/618/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs242
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2026
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271

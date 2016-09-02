@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2021.md) | [Next](./../../../../..//us/usc/t19/ch8/schIV/m__us_usc_t19_ch8_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2024)
+[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2022 _us_usc_t19_s2023.md) | [Next](./../../../../..//us/usc/t19/ch8/schIV/m__us_usc_t19_ch8_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2024)
 
 ## § 2024. Authorization of appropriations
 
     There are hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the provisions of this subchapter, which sums are authorized to be appropriated to remain available until expended.
 
-([Pub. L. 89–283, title III, § 304][/us/pl/89/283/s304], Oct. 21, 1965, [79 Stat. 1021][/us/stat/79/1021].)
+([Pub. L. 89–283, title III][/us/pl/89/283/tIII], § 304, Oct. 21, 1965, [79 Stat. 1021][/us/stat/79/1021].)
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2021.md) | [Next](./../../../../..//us/usc/t19/ch8/schIV/m__us_usc_t19_ch8_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2024)
+[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2022 _us_usc_t19_s2023.md) | [Next](./../../../../..//us/usc/t19/ch8/schIV/m__us_usc_t19_ch8_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2024)
 
 ----------
 ----------
 
-[/us/pl/89/283/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs304
+[/us/pl/89/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2FtIII
 [/us/stat/79/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1021
 
 

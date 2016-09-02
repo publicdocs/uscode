@@ -31,7 +31,7 @@
 
         (2) sanitary or phytosanitary measures under subpart 1.
 
-([Pub. L. 96–39, title IV, § 471][/us/pl/96/39/s471], as added [Pub. L. 103–182, title III, § 351(a)][/us/pl/103/182/s351/a], Dec. 8, 1993, [107 Stat. 2120][/us/stat/107/2120].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 471, as added [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 351(a), Dec. 8, 1993, [107 Stat. 2120][/us/stat/107/2120].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/96/39/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs471
-[/us/pl/103/182/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs351%2Fa
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2120
 
 

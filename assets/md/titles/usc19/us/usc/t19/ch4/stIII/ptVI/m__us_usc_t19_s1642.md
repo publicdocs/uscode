@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    In compliance with a request from the President on July 2, 1932, the survey authorized by this section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 642, [46 Stat. 760][/us/stat/46/760], was made and submitted to the President on February 28, 1933. See Tariff Commission Reports, No. 70, Second Series.
+    In compliance with a request from the President on July 2, 1932, the survey authorized by this section, [act June 17, 1930, ch. 497, title IV][/us/act/1930-06-17/ch497/tIV], § 642, [46 Stat. 760][/us/stat/46/760], was made and submitted to the President on February 28, 1933. See Tariff Commission Reports, No. 70, Second Series.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIV
 [/us/stat/46/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F760
 
 

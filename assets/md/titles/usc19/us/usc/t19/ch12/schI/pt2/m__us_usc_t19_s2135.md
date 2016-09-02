@@ -43,7 +43,7 @@
 
         Before taking any action pursuant to subsection (b), (c), or (d), the President shall provide for a public hearing during the course of which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard, unless he determines that such prior hearings will be contrary to the national interest because of the need for expeditious action, in which case he shall provide for a public hearing promptly after such action.
 
-([Pub. L. 93–618, title I, § 125][/us/pl/93/618/s125], Jan. 3, 1975, [88 Stat. 1991][/us/stat/88/1991].)
+([Pub. L. 93–618, title I][/us/pl/93/618/tI], § 125, Jan. 3, 1975, [88 Stat. 1991][/us/stat/88/1991].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Authority To Increase Duties on Imports of Certain Tobacco and Tobacco Products__ 
 
-[Pub. L. 103–465, title IV, § 421][/us/pl/103/465/s421], Dec. 8, 1994, [108 Stat. 4964][/us/stat/108/4964], provided that:
+[Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 421, Dec. 8, 1994, [108 Stat. 4964][/us/stat/108/4964], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -65,11 +65,11 @@
 
  __Tariff Reductions Under Trade Agreements Act of 1979__ 
 
-[Pub. L. 96–39, title V, § 502(b)][/us/pl/96/39/s502/b], July 26, 1979, [93 Stat. 251][/us/stat/93/251], provided that: 
+[Pub. L. 96–39, title V][/us/pl/96/39/tV], § 502(b), July 26, 1979, [93 Stat. 251][/us/stat/93/251], provided that: 
 
 > “For purposes of section 125 ([19 U.S.C. 2135][/us/usc/t19/s2135]) of the Trade Act of 1974 the amendments made under sections 508, 511, 512, and 513 \[amending items 135.41, 135.42, 750.26, 750.27, 750.28, 870.45, 905.10, and 905.11 of the Tariff Schedules of the United States. See Publication of Tariff Schedules note under [section 1202 of this title][/us/usc/t19/s1202]\] not including the rates of duty appearing in rate column numbered 2, if any, shall be considered to be trade agreement obligations entered into under the Trade Act of 1974 \[this chapter\], of benefit to foreign countries or instrumentalities.”
 
-[Pub. L. 96–39, title VI, § 601(b)][/us/pl/96/39/s601/b], July 26, 1979, [93 Stat. 268][/us/stat/93/268], provided that: 
+[Pub. L. 96–39, title VI][/us/pl/96/39/tVI], § 601(b), July 26, 1979, [93 Stat. 268][/us/stat/93/268], provided that: 
 
 > “For purposes of section 125 of the Trade Act of 1974 \[this section\], the amendments made under subsection (a), if any \[amending the Tariff Schedules of the United States with regard to civil aircraft (see Publication of Tariff Schedules note under section 1202), and, amending [section 1466 of this title][/us/usc/t19/s1466]\], shall be considered to be trade agreement obligations entered into under the Trade Act of 1974 \[this chapter\] of benefit to foreign countries or instrumentalities.”
 
@@ -77,7 +77,7 @@
 
  __Review of International Trade in Alcoholic Beverages__ 
 
-[Pub. L. 96–39, title VIII, § 854][/us/pl/96/39/s854], July 26, 1979, [93 Stat. 294][/us/stat/93/294], provided that:
+[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 854, July 26, 1979, [93 Stat. 294][/us/stat/93/294], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -102,28 +102,28 @@
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
 [/us/usc/t19/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1821
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
-[/us/pl/93/618/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs125
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1991
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 [/us/usc/t19/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3012
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/103/465/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs421
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4964
 [/us/usc/t19/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2135
-[/us/pl/96/39/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs502%2Fb
+[/us/pl/96/39/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtV
 [/us/stat/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F251
 [/us/usc/t19/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2135
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/96/39/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs601%2Fb
+[/us/pl/96/39/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVI
 [/us/stat/93/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F268
 [/us/usc/t19/s1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1466
 [/us/pl/96/39/s855/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs855%2Fa
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/96/39/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs852
 [/us/pl/96/39/s855/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs855%2Fb
-[/us/pl/96/39/s854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs854
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F294
 [/us/usc/t19/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2135
 

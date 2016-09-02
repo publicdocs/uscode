@@ -33,7 +33,7 @@
 
             The Secretary shall also provide information concerning procedures for applying for and receiving all other Federal assistance and services available to workers facing economic distress.
 
-([Pub. L. 93–618, title II, § 295][/us/pl/93/618/s295], as added [Pub. L. 107–210, div. A, title I, § 141(a)][/us/pl/107/210/s141/a], Aug. 6, 2002, [116 Stat. 949][/us/stat/116/949].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 295, as added [Pub. L. 107–210, div. A, title I][/us/pl/107/210/dA/tI], § 141(a), Aug. 6, 2002, [116 Stat. 949][/us/stat/116/949].)
 
  __Termination Date__ 
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/93/618/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs295
-[/us/pl/107/210/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs141%2Fa
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
+[/us/pl/107/210/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtI
 [/us/stat/116/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F949
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271

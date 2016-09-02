@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 340, [46 Stat. 706][/us/stat/46/706], related to preparation of a certain report by commission to Congress. See Tariff Commission Reports, No. 46, Parts 1 to 8.
+    Section, [act June 17, 1930, ch. 497, title III][/us/act/1930-06-17/ch497/tIII], § 340, [46 Stat. 706][/us/stat/46/706], related to preparation of a certain report by commission to Congress. See Tariff Commission Reports, No. 46, Parts 1 to 8.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIII
 [/us/stat/46/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F706
 
 

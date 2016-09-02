@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1628.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1630.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1628a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1630.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629)
 
 ## § 1629. Inspections and preclearance in foreign countries
 
@@ -99,7 +99,7 @@
 
             In this subsection, the term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 629, as added [Pub. L. 99–570, title III, § 3128][/us/pl/99/570/s3128], Oct. 27, 1986, [100 Stat. 3207–89][/us/stat/100/3207-89]; amended [Pub. L. 108–7, div. J, title I, § 127(c)][/us/pl/108/7/s127/c], Feb. 20, 2003, [117 Stat. 441][/us/stat/117/441]; [Pub. L. 108–429, title I, § 1561(b)][/us/pl/108/429/s1561/b], (c), Dec. 3, 2004, [118 Stat. 2581][/us/stat/118/2581], 2582; [Pub. L. 109–280, title XIV, § 1635(f)(1)][/us/pl/109/280/s1635/f/1], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 109–347, title IV, § 404][/us/pl/109/347/s404], Oct. 13, 2006, [120 Stat. 1928][/us/stat/120/1928].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 629, as added [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3128, Oct. 27, 1986, [100 Stat. 3207–89][/us/stat/100/3207-89]; amended [Pub. L. 108–7, div. J, title I][/us/pl/108/7/dJ/tI], § 127(c), Feb. 20, 2003, [117 Stat. 441][/us/stat/117/441]; [Pub. L. 108–429, title I][/us/pl/108/429/tI], § 1561(b), (c), Dec. 3, 2004, [118 Stat. 2581][/us/stat/118/2581], 2582; [Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1635(f)(1), Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 109–347, title IV][/us/pl/109/347/tIV], § 404, Oct. 13, 2006, [120 Stat. 1928][/us/stat/120/1928].)
 
  __Amendments__ 
 
@@ -107,23 +107,23 @@
 
     Subsec. (h). [Pub. L. 109–347][/us/pl/109/347] added subsec. (h).
 
-    2004—[Pub. L. 108–429, § 1561(c)][/us/pl/108/429/s1561/c], repealed [Pub. L. 108–7, § 127(c)][/us/pl/108/7/s127/c]. See 2003 Amendment notes below.
+    2004—[Pub. L. 108–429][/us/pl/108/429], § 1561(c), repealed [Pub. L. 108–7][/us/pl/108/7], § 127(c). See 2003 Amendment notes below.
 
-    Subsec. (a). [Pub. L. 108–429, § 1561(b)(1)][/us/pl/108/429/s1561/b/1], inserted “, or subsequent to their exit from,” after “prior to their arrival in”.
+    Subsec. (a). [Pub. L. 108–429][/us/pl/108/429], § 1561(b)(1), inserted “, or subsequent to their exit from,” after “prior to their arrival in”.
 
-    Subsec. (c). [Pub. L. 108–429, § 1561(b)(2)][/us/pl/108/429/s1561/b/2], inserted “or exportation” after “relating to the importation” and “or exit” after “port of entry”.
+    Subsec. (c). [Pub. L. 108–429][/us/pl/108/429], § 1561(b)(2), inserted “or exportation” after “relating to the importation” and “or exit” after “port of entry”.
 
-    Subsec. (e). [Pub. L. 108–429, § 1561(b)(3)][/us/pl/108/429/s1561/b/3], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary of State, in coordination with the Secretary, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of insuring that persons and merchandise going directly to that country from the United States comply with the customs and other laws of that country governing the importation of merchandise. Any foreign customs official stationed in the United States under this subsection may exercise such functions, and perform such duties, as United States officials may be authorized to perform in that foreign country under reciprocal agreement.”
+    Subsec. (e). [Pub. L. 108–429][/us/pl/108/429], § 1561(b)(3), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary of State, in coordination with the Secretary, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of insuring that persons and merchandise going directly to that country from the United States comply with the customs and other laws of that country governing the importation of merchandise. Any foreign customs official stationed in the United States under this subsection may exercise such functions, and perform such duties, as United States officials may be authorized to perform in that foreign country under reciprocal agreement.”
 
-    Subsec. (g). [Pub. L. 108–429, § 1561(b)(4)][/us/pl/108/429/s1561/b/4], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–429][/us/pl/108/429], § 1561(b)(4), added subsec. (g).
 
-    2003—Subsec. (a). [Pub. L. 108–7, § 127(c)(1)][/us/pl/108/7/s127/c/1], which directed insertion of “, or subsequent to their exit from,” after “prior to their arrival in” in [section 1629 of title 19][/us/usc/t19/s1629], was repealed by [Pub. L. 108–429, § 1561(c)][/us/pl/108/429/s1561/c].
+    2003—Subsec. (a). [Pub. L. 108–7][/us/pl/108/7], § 127(c)(1), which directed insertion of “, or subsequent to their exit from,” after “prior to their arrival in” in [section 1629 of title 19][/us/usc/t19/s1629], was repealed by [Pub. L. 108–429][/us/pl/108/429], § 1561(c).
 
-    Subsec. (c). [Pub. L. 108–7, § 127(c)(2)][/us/pl/108/7/s127/c/2], which directed insertion of “or exportation” after “relating to the importation” and “or exit” after “port of entry” in [section 1629 of title 19][/us/usc/t19/s1629], was repealed by [Pub. L. 108–429, § 1561(c)][/us/pl/108/429/s1561/c].
+    Subsec. (c). [Pub. L. 108–7][/us/pl/108/7], § 127(c)(2), which directed insertion of “or exportation” after “relating to the importation” and “or exit” after “port of entry” in [section 1629 of title 19][/us/usc/t19/s1629], was repealed by [Pub. L. 108–429][/us/pl/108/429], § 1561(c).
 
-    Subsec. (e). [Pub. L. 108–7, § 127(c)(3)][/us/pl/108/7/s127/c/3], which directed substitution of “such functions,” for “such functions and” and “by treaty, agreement or law” for “under reciprocal agreement”, and insertion of “and agriculture inspection” after “States of customs” and “foreign customs”, “and the Secretary of Agriculture” after “in coordination with the Secretary”, “or that have gone directly from that country to the United States” after “to that country from the United States”, “or exportation” after “governing the importation”, “, and enjoy such privileges and immunities” after “such duties”, and “or are afforded” after “authorized to perform”, in [section 1629 of title 19][/us/usc/t19/s1629], was repealed by [Pub. L. 108–429, § 1561(c)][/us/pl/108/429/s1561/c].
+    Subsec. (e). [Pub. L. 108–7][/us/pl/108/7], § 127(c)(3), which directed substitution of “such functions,” for “such functions and” and “by treaty, agreement or law” for “under reciprocal agreement”, and insertion of “and agriculture inspection” after “States of customs” and “foreign customs”, “and the Secretary of Agriculture” after “in coordination with the Secretary”, “or that have gone directly from that country to the United States” after “to that country from the United States”, “or exportation” after “governing the importation”, “, and enjoy such privileges and immunities” after “such duties”, and “or are afforded” after “authorized to perform”, in [section 1629 of title 19][/us/usc/t19/s1629], was repealed by [Pub. L. 108–429][/us/pl/108/429], § 1561(c).
 
-    Subsec. (g). [Pub. L. 108–7, § 127(c)(4)][/us/pl/108/7/s127/c/4], which directed addition of subsec. (g) to [section 1629 of title 19][/us/usc/t19/s1629], was repealed by [Pub. L. 108–429, § 1561(c)][/us/pl/108/429/s1561/c].
+    Subsec. (g). [Pub. L. 108–7][/us/pl/108/7], § 127(c)(4), which directed addition of subsec. (g) to [section 1629 of title 19][/us/usc/t19/s1629], was repealed by [Pub. L. 108–429][/us/pl/108/429], § 1561(c).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -131,7 +131,7 @@
 
  __Authority for the Establishment of Integrated Border Inspection Areas at the United States-Canada Border__ 
 
-[Pub. L. 108–429, title I, § 1560][/us/pl/108/429/s1560], Dec. 3, 2004, [118 Stat. 2580][/us/stat/118/2580], provided that:
+[Pub. L. 108–429, title I][/us/pl/108/429/tI], § 1560, Dec. 3, 2004, [118 Stat. 2580][/us/stat/118/2580], as amended by [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -149,15 +149,15 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         The Commissioner of the Customs Service \[Bureau of Customs and Border Protection\], in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), such as areas on either side of the United States-Canada border, in which United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian Customs officers can inspect vehicles entering Canada from the United States before they enter Canada. Such inspections may include, where appropriate, employment of reverse inspection techniques.
+>         The Commissioner of U.S. Customs and Border Protection, in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), such as areas on either side of the United States-Canada border, in which United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian Customs officers can inspect vehicles entering Canada from the United States before they enter Canada. Such inspections may include, where appropriate, employment of reverse inspection techniques.
 
 >         “(2)  __Additional requirement__  __.—__ 
 
->         The Commissioner of Customs, in consultation with the Administrator of the General Services Administration when appropriate, shall seek to carry out paragraph (1) in a manner that minimizes adverse impacts on the surrounding community.
+>         The Commissioner of U.S. Customs and Border Protection, in consultation with the Administrator of the General Services Administration when appropriate, shall seek to carry out paragraph (1) in a manner that minimizes adverse impacts on the surrounding community.
 
 >         “(3)  __Elements of the program__  __.—__ 
 
->         Using the authority granted by this section and under section 629 of the Tariff Act of 1930 \[[19 U.S.C. 1629][/us/usc/t19/s1629]\], the Commissioner of Customs, in consultation with the Canadian Customs and Revenue Agency, shall seek to—
+>         Using the authority granted by this section and under section 629 of the Tariff Act of 1930 \[[19 U.S.C. 1629][/us/usc/t19/s1629]\], the Commissioner of U.S. Customs and Border Protection, in consultation with the Canadian Customs and Revenue Agency, shall seek to—
 
 >             “(A) locate Integrated Border Inspection Areas in areas with bridges or tunnels with high traffic volume, significant commercial activity, and that have experienced backups and delays since September 11, 2001;
 
@@ -169,56 +169,58 @@
 
  __Creation of Integrated Border Inspection Areas__ 
 
-    [Pub. L. 108–7, div. J, title I, § 127(a)][/us/pl/108/7/s127/a], Feb. 20, 2003, [117 Stat. 440][/us/stat/117/440], which related to the creation of integrated border inspection areas on either side of the United States–Canada border, was repealed by [Pub. L. 108–429, title I, § 1561(c)][/us/pl/108/429/s1561/c], Dec. 3, 2004, [118 Stat. 2582][/us/stat/118/2582].
+    [Pub. L. 108–7, div. J, title I][/us/pl/108/7/dJ/tI], § 127(a), Feb. 20, 2003, [117 Stat. 440][/us/stat/117/440], which related to the creation of integrated border inspection areas on either side of the United States–Canada border, was repealed by [Pub. L. 108–429, title I][/us/pl/108/429/tI], § 1561(c), Dec. 3, 2004, [118 Stat. 2582][/us/stat/118/2582].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1628.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1630.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1628a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1630.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629)
 
 ----------
 ----------
 
 [/us/usc/t19/s1401/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401%2Fi
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/99/570/s3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3128
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-89
-[/us/pl/108/7/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs127%2Fc
+[/us/pl/108/7/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtI
 [/us/stat/117/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F441
-[/us/pl/108/429/s1561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fb
+[/us/pl/108/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtI
 [/us/stat/118/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2581
-[/us/pl/109/280/s1635/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1635%2Ff%2F1
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1171
-[/us/pl/109/347/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs404
+[/us/pl/109/347/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtIV
 [/us/stat/120/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1928
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
-[/us/pl/108/429/s1561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fc
-[/us/pl/108/7/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs127%2Fc
-[/us/pl/108/429/s1561/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fb%2F1
-[/us/pl/108/429/s1561/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fb%2F2
-[/us/pl/108/429/s1561/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fb%2F3
-[/us/pl/108/429/s1561/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fb%2F4
-[/us/pl/108/7/s127/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs127%2Fc%2F1
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t19/s1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629
-[/us/pl/108/429/s1561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fc
-[/us/pl/108/7/s127/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs127%2Fc%2F2
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t19/s1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629
-[/us/pl/108/429/s1561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fc
-[/us/pl/108/7/s127/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs127%2Fc%2F3
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t19/s1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629
-[/us/pl/108/429/s1561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fc
-[/us/pl/108/7/s127/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs127%2Fc%2F4
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t19/s1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629
-[/us/pl/108/429/s1561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fc
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1641
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
-[/us/pl/108/429/s1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1560
+[/us/pl/108/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtI
 [/us/stat/118/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2580
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/usc/t19/s1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1629
-[/us/pl/108/7/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs127%2Fa
+[/us/pl/108/7/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtI
 [/us/stat/117/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F440
-[/us/pl/108/429/s1561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1561%2Fc
+[/us/pl/108/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtI
 [/us/stat/118/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2582
 
 

@@ -41,7 +41,7 @@
 
         (2) Not later than 12 months after June 18, 2008, a report on whether countries that export softwood lumber or softwood lumber products to the United States are complying with any international agreements entered into by those countries and the United States.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 809, as added [Pub. L. 110–246, title III, § 3301(a)][/us/pl/110/246/s3301/a], June 18, 2008, [122 Stat. 1852][/us/stat/122/1852].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 809, as added [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3301(a), June 18, 2008, [122 Stat. 1852][/us/stat/122/1852].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t19/s1683d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683d
 [/us/usc/t19/s1683e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683e
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1852
 [/us/pl/110/246/s3301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fb
 [/us/usc/t19/s1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683

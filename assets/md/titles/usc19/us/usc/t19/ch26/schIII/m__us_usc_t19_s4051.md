@@ -35,7 +35,7 @@
 
         The term “relevant CAFTA–DR article” means the CAFTA–DR article with respect to which a petition has been filed under [section 4061(a) of this title][/us/usc/t19/s4061/a].
 
-([Pub. L. 109–53, title III, § 301][/us/pl/109/53/s301], Aug. 2, 2005, [119 Stat. 488][/us/stat/119/488].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 301, Aug. 2, 2005, [119 Stat. 488][/us/stat/119/488].)
 
  __Termination of Section__ 
 
@@ -60,7 +60,7 @@
 [/us/usc/t19/s4002/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4002%2F5
 [/us/usc/t19/s4061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4061%2Fa
 [/us/usc/t19/s4061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4061%2Fa
-[/us/pl/109/53/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs301
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F488
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

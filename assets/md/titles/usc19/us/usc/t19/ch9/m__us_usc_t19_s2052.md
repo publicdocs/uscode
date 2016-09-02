@@ -17,7 +17,7 @@
 
     Agencies of the Federal Government are authorized to furnish facilities and personnel for the purpose of assisting the agency or agencies designated by the President in carrying out the provisions of the Agreement.
 
-([Pub. L. 89–634, § 2][/us/pl/89/634/s2], Oct. 8, 1966, [80 Stat. 879][/us/stat/80/879].)
+([Pub. L. 89–634][/us/pl/89/634], § 2, Oct. 8, 1966, [80 Stat. 879][/us/stat/80/879].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/634/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F634%2Fs2
+[/us/pl/89/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F634
 [/us/stat/80/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F879
 
 

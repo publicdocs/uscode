@@ -85,15 +85,15 @@
 
         Each subsequent report shall include information with respect to the operations of the Center, the collaboration of the Center with, and dissemination of information to, Government policymakers and the business community with respect to the study of Western Hemispheric trade by the Center, and the plan and efforts of the Center to continue operations after grants under this section have expired.
 
-([Pub. L. 98–67, title II, § 219][/us/pl/98/67/s219], as added [Pub. L. 103–182, title V, § 515(a)][/us/pl/103/182/s515/a], Dec. 8, 1993, [107 Stat. 2158][/us/stat/107/2158]; amended [Pub. L. 104–295, § 21(d)][/us/pl/104/295/s21/d], Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530]; [Pub. L. 106–29, § 2(a)][/us/pl/106/29/s2/a], May 21, 1999, [113 Stat. 54][/us/stat/113/54].)
+([Pub. L. 98–67, title II][/us/pl/98/67/tII], § 219, as added [Pub. L. 103–182, title V][/us/pl/103/182/tV], § 515(a), Dec. 8, 1993, [107 Stat. 2158][/us/stat/107/2158]; amended [Pub. L. 104–295][/us/pl/104/295], § 21(d), Oct. 11, 1996, [110 Stat. 3530][/us/stat/110/3530]; [Pub. L. 106–29][/us/pl/106/29], § 2(a), May 21, 1999, [113 Stat. 54][/us/stat/113/54].)
 
  __Amendments__ 
 
     1999—Subsec. (d)(6). [Pub. L. 106–29][/us/pl/106/29] substituted “Dante B. Fascell North-South Center” for “North/South Center”.
 
-    1996—Subsec. (b)(1). [Pub. L. 104–295, § 21(d)(1)][/us/pl/104/295/s21/d/1], substituted semicolon for comma at end.
+    1996—Subsec. (b)(1). [Pub. L. 104–295][/us/pl/104/295], § 21(d)(1), substituted semicolon for comma at end.
 
-    Subsec. (h)(1), (2). [Pub. L. 104–295, § 21(d)(2)][/us/pl/104/295/s21/d/2], substituted semicolon for comma after “Center”.
+    Subsec. (h)(1), (2). [Pub. L. 104–295][/us/pl/104/295], § 21(d)(2), substituted semicolon for comma after “Center”.
 
  __Transfer of Functions__ 
 
@@ -101,7 +101,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 103–182, title V, § 515(b)][/us/pl/103/182/s515/b], Dec. 8, 1993, [107 Stat. 2159][/us/stat/107/2159], provided that: 
+[Pub. L. 103–182, title V][/us/pl/103/182/tV], § 515(b), Dec. 8, 1993, [107 Stat. 2159][/us/stat/107/2159], provided that: 
 
 > “There are authorized to be appropriated $10,000,000 for fiscal year 1994, and such sums as may be necessary in the 3 succeeding fiscal years to carry out the purposes of section 219 of the Caribbean Basin Economic Recovery Act \[[19 U.S.C. 2707][/us/usc/t19/s2707]\] (as added by subsection (a)).”
 
@@ -113,18 +113,18 @@
 ----------
 
 [/us/usc/t19/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2702
-[/us/pl/98/67/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs219
-[/us/pl/103/182/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs515%2Fa
+[/us/pl/98/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtII
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2158
-[/us/pl/104/295/s21/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fd
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3530
-[/us/pl/106/29/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F29%2Fs2%2Fa
+[/us/pl/106/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F29
 [/us/stat/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F54
 [/us/pl/106/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F29
-[/us/pl/104/295/s21/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fd%2F1
-[/us/pl/104/295/s21/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fd%2F2
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/103/182/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs515%2Fb
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2159
 [/us/usc/t19/s2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2707
 

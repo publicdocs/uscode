@@ -23,7 +23,7 @@
 
         If an article for which relief is provided under this part is an article for which the period for tariff elimination, set out in the Schedule of the United States to Annex 3.3 of the Agreement, is greater than 10 years, no relief under this part may be provided for that article after the date on which that period ends.
 
-([Pub. L. 109–53, title III, § 314][/us/pl/109/53/s314], Aug. 2, 2005, [119 Stat. 492][/us/stat/119/492].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 314, Aug. 2, 2005, [119 Stat. 492][/us/stat/119/492].)
 
  __Termination of Section__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/53/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs314
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F492
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

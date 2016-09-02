@@ -55,13 +55,13 @@
 
         shall be stored and disposed of in accordance with such rules and procedures as the Secretary shall by regulation prescribe.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 490, [46 Stat. 726][/us/stat/46/726]; [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 103–182, title VI, § 658][/us/pl/103/182/s658], Dec. 8, 1993, [107 Stat. 2212][/us/stat/107/2212]; [Pub. L. 104–295, § 21(e)(9)][/us/pl/104/295/s21/e/9], Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 490, [46 Stat. 726][/us/stat/46/726]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(b), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 658, Dec. 8, 1993, [107 Stat. 2212][/us/stat/107/2212]; [Pub. L. 104–295][/us/pl/104/295], § 21(e)(9), Oct. 11, 1996, [110 Stat. 3531][/us/stat/110/3531].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 490, [42 Stat. 963][/us/stat/42/963]. That section was superseded by section 490 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 490, [42 Stat. 963][/us/stat/42/963]. That section was superseded by section 490 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions authorizing the collector to take possession of, or store merchandise were contained in the following sections, all of which were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989]:
+Prior provisions authorizing the collector to take possession of, or store merchandise were contained in the following sections, all of which were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989]:
 
     R.S. § 2789, authorizing the collector, when an entry was imperfect, to take the merchandise into his custody until the quantity, quality, or value could be ascertained;
 
@@ -75,19 +75,19 @@ Prior provisions authorizing the collector to take possession of, or store merch
 
     R.S. § 2965, providing for the storage in a public warehouse, or private bonded warehouse, of unclaimed merchandise required to be taken possession of by collectors, and making provision for payment of charges and expenses;
 
-    R.S. § 2966, as amended by [act June 26, 1884, ch. 121, § 24][/us/act/1884-06-26/ch121/s24], [23 Stat. 58][/us/stat/23/58], providing for the deposit in a bonded warehouse of merchandise imported in vessels, when it should appear by the bills of lading that it was to be delivered immediately after entry of the vessel, or on request, when it did not so appear.
+    R.S. § 2966, as amended by [act June 26, 1884, ch. 121][/us/act/1884-06-26/ch121], § 24, [23 Stat. 58][/us/stat/23/58], providing for the deposit in a bonded warehouse of merchandise imported in vessels, when it should appear by the bills of lading that it was to be delivered immediately after entry of the vessel, or on request, when it did not so appear.
 
-    A prior provision authorizing the collector to require a bond for the production of proof to enable the collector to ascertain the class or description of manufacture, or rate of duty to which merchandise was liable, was contained in R.S. § 2925, which was also repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    A prior provision authorizing the collector to require a bond for the production of proof to enable the collector to ascertain the class or description of manufacture, or rate of duty to which merchandise was liable, was contained in R.S. § 2925, which was also repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
     1996—Subsec. (c)(1). [Pub. L. 104–295][/us/pl/104/295] substituted “subparagraphs (A) through (D) of subsection (a)(1)” for “paragraphs (1) through (4) of subsection (a)”.
 
-    1993—Subsec. (a). [Pub. L. 103–182, § 658(1)][/us/pl/103/182/s658/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever entry of any imported merchandise is not made within the time provided by law or the regulations prescribed by the Secretary of the Treasury, or whenever entry of such merchandise is incomplete because of failure to pay the estimated duties, or whenever, in the opinion of the appropriate customs officer, entry of such merchandise can not be made for want of proper documents or other cause, or whenever the appropriate customs officer believes that any merchandise is not correctly and legally invoiced, he shall take the merchandise into his custody and send it to a bonded warehouse or public store, to be held at the risk and expense of the consignee until entry is made or completed and the proper documents are produced, or a bond given for their production.”
+    1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 658(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever entry of any imported merchandise is not made within the time provided by law or the regulations prescribed by the Secretary of the Treasury, or whenever entry of such merchandise is incomplete because of failure to pay the estimated duties, or whenever, in the opinion of the appropriate customs officer, entry of such merchandise can not be made for want of proper documents or other cause, or whenever the appropriate customs officer believes that any merchandise is not correctly and legally invoiced, he shall take the merchandise into his custody and send it to a bonded warehouse or public store, to be held at the risk and expense of the consignee until entry is made or completed and the proper documents are produced, or a bond given for their production.”
 
-    Subsec. (b). [Pub. L. 103–182, § 658(2)][/us/pl/103/182/s658/2], substituted heading for one which read “At request of consignee” and in text substituted “Customs Service” for “appropriate customs officer”.
+    Subsec. (b). [Pub. L. 103–182][/us/pl/103/182], § 658(2), substituted heading for one which read “At request of consignee” and in text substituted “Customs Service” for “appropriate customs officer”.
 
-    Subsec. (c). [Pub. L. 103–182, § 658(3)][/us/pl/103/182/s658/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–182][/us/pl/103/182], § 658(3), added subsec. (c).
 
     1970—[Pub. L. 91–271][/us/pl/91/271] substituted references to appropriate customs officer for references to collector wherever appearing.
 
@@ -108,24 +108,24 @@ Prior provisions authorizing the collector to take possession of, or store merch
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F726
-[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/103/182/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs658
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2212
-[/us/pl/104/295/s21/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs21%2Fe%2F9
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3531
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F963
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
-[/us/act/1884-06-26/ch121/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fch121%2Fs24
+[/us/act/1884-06-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fch121
 [/us/stat/23/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F58
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/182/s658/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs658%2F1
-[/us/pl/103/182/s658/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs658%2F2
-[/us/pl/103/182/s658/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs658%2F3
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203

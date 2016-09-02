@@ -77,7 +77,7 @@ This was a provision of the sundry civil appropriation act for the fiscal year 1
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–227, § 1(a)][/us/pl/111/227/s1/a], Aug. 11, 2010, [124 Stat. 2409][/us/stat/124/2409], provided that: 
+[Pub. L. 111–227][/us/pl/111/227], § 1(a), Aug. 11, 2010, [124 Stat. 2409][/us/stat/124/2409], provided that: 
 
 > “This Act \[amending [section 58c of this title][/us/usc/t19/s58c] and enacting provisions set out as notes under [section 58c of this title][/us/usc/t19/s58c] and [section 6655 of Title 26][/us/usc/t26/s6655], Internal Revenue Code\] may be cited as the ‘United States Manufacturing Enhancement Act of 2010’.”
 
@@ -162,7 +162,7 @@ This was a provision of the sundry civil appropriation act for the fiscal year 1
 [/us/stat/37/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F434
 [/us/usc/t19/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2
 [/us/usc/t19/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs6
-[/us/pl/111/227/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F227%2Fs1%2Fa
+[/us/pl/111/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F227
 [/us/stat/124/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2409
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
 [/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c

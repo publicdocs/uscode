@@ -145,7 +145,7 @@
 
             The Commission shall render its determination in the investigation conducted under this section at the same time as the Commission’s determination is made in the review under [section 1675(c) of this title][/us/usc/t19/s1675/c] that is initiated pursuant to this subsection. The Commission shall in all other respects apply the procedures and standards set forth in [section 1675(c) of this title][/us/usc/t19/s1675/c] to such [section 1675(c) of this title][/us/usc/t19/s1675/c] reviews.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 753, as added [Pub. L. 103–465, title II, § 271(a)][/us/pl/103/465/s271/a], Dec. 8, 1994, [108 Stat. 4918][/us/stat/108/4918]; amended [Pub. L. 104–295, § 39][/us/pl/104/295/s39], Oct. 11, 1996, [110 Stat. 3540][/us/stat/110/3540].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 753, as added [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 271(a), Dec. 8, 1994, [108 Stat. 4918][/us/stat/108/4918]; amended [Pub. L. 104–295][/us/pl/104/295], § 39, Oct. 11, 1996, [110 Stat. 3540][/us/stat/110/3540].)
 
  __References in Text__ 
 
@@ -153,7 +153,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–295, § 39(1)][/us/pl/104/295/s39/1], inserted “or section 1671(c)” after “section 1303” in section catchline.
+    1996—[Pub. L. 104–295][/us/pl/104/295], § 39(1), inserted “or section 1671(c)” after “section 1303” in section catchline.
 
     Subsecs. (a)(2), (c). [Pub. L. 104–295][/us/pl/104/295] inserted “or [section 1671(c) of this title][/us/usc/t19/s1671/c]” after “[section 1303 of this title][/us/usc/t19/s1303]” and struck out “under [section 1303(a)(2) of this title][/us/usc/t19/s1303/a/2]” after “material injury”.
 
@@ -195,13 +195,13 @@
 [/us/usc/t19/s1675/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fc
 [/us/usc/t19/s1675/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1675%2Fc
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/465/s271/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs271%2Fa
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4918
-[/us/pl/104/295/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs39
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3540
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/usc/t19/s1677/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F26
-[/us/pl/104/295/s39/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs39%2F1
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/usc/t19/s1671/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671%2Fc
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303

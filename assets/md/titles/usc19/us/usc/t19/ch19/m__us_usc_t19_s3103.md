@@ -51,7 +51,7 @@
 
         By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
 
-([Pub. L. 100–418, title I, § 1374][/us/pl/100/418/s1374], Aug. 23, 1988, [102 Stat. 1217][/us/stat/102/1217].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1374, Aug. 23, 1988, [102 Stat. 1217][/us/stat/102/1217].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t19/s2419/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2419%2F3
-[/us/pl/100/418/s1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1374
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1217
 
 

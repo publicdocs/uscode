@@ -55,7 +55,7 @@
 
             (iii) purchases goods or services in international trade for any purpose other than the use of such goods or services by such foreign country, agency, instrumentality, or administrative unit, or which sells goods or services in international trade.
 
-([Pub. L. 100–418, title I, § 1107][/us/pl/100/418/s1107], Aug. 23, 1988, [102 Stat. 1134][/us/stat/102/1134]; [Pub. L. 103–465, title VI, § 621(a)(5)][/us/pl/103/465/s621/a/5], Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1107, Aug. 23, 1988, [102 Stat. 1134][/us/stat/102/1134]; [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 621(a)(5), Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993].)
 
  __References in Text__ 
 
@@ -82,9 +82,9 @@
 
 [/us/usc/t19/s3501/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F1%2FA
 [/us/usc/t19/s2191/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2191%2Fb%2F1
-[/us/pl/100/418/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1107
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1134
-[/us/pl/103/465/s621/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F5
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4993
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1107

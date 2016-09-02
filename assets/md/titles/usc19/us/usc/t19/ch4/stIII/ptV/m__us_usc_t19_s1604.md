@@ -17,13 +17,13 @@
 
     It shall be the duty of the Attorney General of the United States immediately to inquire into the facts of cases reported to him by customs officers and the laws applicable thereto, and if it appears probable that any fine, penalty, or forfeiture has been incurred by reason of such violation, for the recovery of which the institution of proceedings in the United States district court or the Court of International Trade is necessary, forthwith to cause the proper proceedings to be commenced and prosecuted, without delay, for the recovery of such fine, penalty, or forfeiture in such case provided, unless, upon inquiry and examination, the Attorney General decides that such proceedings can not probably be sustained or that the ends of public justice do not require that they should be instituted or prosecuted, in which case he shall report the facts to the Secretary of the Treasury for his direction in the premises.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 604, [46 Stat. 754][/us/stat/46/754]; [Pub. L. 91–271, title III, § 301(bb)][/us/pl/91/271/s301/bb], June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 96–417, title VI, § 610][/us/pl/96/417/s610], Oct. 10, 1980, [94 Stat. 1746][/us/stat/94/1746].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 604, [46 Stat. 754][/us/stat/46/754]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(bb), June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 610, Oct. 10, 1980, [94 Stat. 1746][/us/stat/94/1746].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 604, [42 Stat. 984][/us/stat/42/984]. That section was superseded by section 604 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 604, [42 Stat. 984][/us/stat/42/984]. That section was superseded by section 604 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Prior provisions substantially similar in effect, with a further provision for an allowance for expenses and services, were contained in R.S. § 3085. Provisions requiring district attorneys to cause investigations to be made before a United States commissioner and to initiate and prosecute proper proceedings to recover fines and penalties were contained in [act June 22, 1874, ch. 391, § 15][/us/act/1874-06-22/ch391/s15], [18 Stat. 189][/us/stat/18/189]. Both of these sections were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, §§ 642, 643, [42 Stat. 989][/us/stat/42/989].
+    Prior provisions substantially similar in effect, with a further provision for an allowance for expenses and services, were contained in R.S. § 3085. Provisions requiring district attorneys to cause investigations to be made before a United States commissioner and to initiate and prosecute proper proceedings to recover fines and penalties were contained in [act June 22, 1874, ch. 391][/us/act/1874-06-22/ch391], § 15, [18 Stat. 189][/us/stat/18/189]. Both of these sections were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], §§ 642, 643, [42 Stat. 989][/us/stat/42/989].
 
     The 1922 act also superseded a provision contained in R.S. § 3087, requiring collectors to cause suits to be commenced without delay and prosecuted to effect.
 
@@ -50,15 +50,15 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F754
-[/us/pl/91/271/s301/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fbb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F291
-[/us/pl/96/417/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs610
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1746
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F984
-[/us/act/1874-06-22/ch391/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch391%2Fs15
+[/us/act/1874-06-22/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-22%2Fch391
 [/us/stat/18/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F189
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

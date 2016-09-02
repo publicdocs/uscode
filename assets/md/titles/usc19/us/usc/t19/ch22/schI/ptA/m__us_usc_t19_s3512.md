@@ -147,7 +147,7 @@
 
         The statement of administrative action approved by the Congress under [section 3511(a) of this title][/us/usc/t19/s3511/a] shall be regarded as an authoritative expression by the United States concerning the interpretation and application of the Uruguay Round Agreements and this Act in any judicial proceeding in which a question arises concerning such interpretation or application.
 
-([Pub. L. 103–465, title I, § 102][/us/pl/103/465/s102], Dec. 8, 1994, [108 Stat. 4815][/us/stat/108/4815].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 102, Dec. 8, 1994, [108 Stat. 4815][/us/stat/108/4815].)
 
  __References in Text__ 
 
@@ -167,7 +167,7 @@
 [/us/usc/t19/s3511/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F16
 [/us/usc/t19/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3531
 [/us/usc/t19/s3511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fa
-[/us/pl/103/465/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs102
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4815
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/stat/108/4809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4809

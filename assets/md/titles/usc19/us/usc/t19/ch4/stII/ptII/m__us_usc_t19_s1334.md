@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 8, 1916, ch. 463, § 707][/us/act/1916-09-08/ch463/s707], [39 Stat. 797][/us/stat/39/797]. That section was superseded by section 334 of act June 17, 1930, comprising this section.
+    Provisions similar to those in this section were contained in [act Sept. 8, 1916, ch. 463][/us/act/1916-09-08/ch463], § 707, [39 Stat. 797][/us/stat/39/797]. That section was superseded by section 334 of act June 17, 1930, comprising this section.
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F700
-[/us/act/1916-09-08/ch463/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463%2Fs707
+[/us/act/1916-09-08/ch463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463
 [/us/stat/39/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F797
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 

@@ -17,11 +17,11 @@
 
     If any vessel, vehicle, aircraft, merchandise, or baggage is not subject to [section 1607 of this title][/us/usc/t19/s1607], the appropriate customs officer shall transmit a report of the case, with the names of available witnesses, to the United States attorney for the district in which the seizure was made for the institution of the proper proceedings for the condemnation of such property.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 610, [46 Stat. 755][/us/stat/46/755]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title V, § 506, [68 Stat. 1141][/us/stat/68/1141]; [Pub. L. 91–271, title III, § 301(ee)][/us/pl/91/271/s301/ee], June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 95–410, title I, § 111(b)][/us/pl/95/410/s111/b], Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; [Pub. L. 98–473, title II, § 314][/us/pl/98/473/s314], Oct. 12, 1984, [98 Stat. 2054][/us/stat/98/2054]; [Pub. L. 98–573, title II, § 213(a)(7)][/us/pl/98/573/s213/a/7], Oct. 30, 1984, [98 Stat. 2985][/us/stat/98/2985]; [Pub. L. 100–690, title VII, § 7367(c)(3)][/us/pl/100/690/s7367/c/3], Nov. 18, 1988, [102 Stat. 4480][/us/stat/102/4480].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 610, [46 Stat. 755][/us/stat/46/755]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title V, § 506, [68 Stat. 1141][/us/stat/68/1141]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(ee), June 2, 1970, [84 Stat. 291][/us/stat/84/291]; [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 111(b), Oct. 3, 1978, [92 Stat. 898][/us/stat/92/898]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 314, Oct. 12, 1984, [98 Stat. 2054][/us/stat/98/2054]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 213(a)(7), Oct. 30, 1984, [98 Stat. 2985][/us/stat/98/2985]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7367(c)(3), Nov. 18, 1988, [102 Stat. 4480][/us/stat/102/4480].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 610, [42 Stat. 985][/us/stat/42/985]. That section was superseded by section 610 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 610, [42 Stat. 985][/us/stat/42/985]. That section was superseded by section 610 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
  __Amendments__ 
 
@@ -57,17 +57,17 @@
 [/us/stat/46/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F755
 [/us/act/1954-09-01/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213
 [/us/stat/68/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1141
-[/us/pl/91/271/s301/ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fee
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F291
-[/us/pl/95/410/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs111%2Fb
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F898
-[/us/pl/98/473/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs314
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2054
-[/us/pl/98/573/s213/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs213%2Fa%2F7
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2985
-[/us/pl/100/690/s7367/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7367%2Fc%2F3
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4480
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F985
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573

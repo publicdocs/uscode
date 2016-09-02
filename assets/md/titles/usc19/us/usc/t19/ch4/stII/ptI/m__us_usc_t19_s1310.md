@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, L, [38 Stat. 197][/us/stat/38/197], superseding similar provisions of previous tariff acts. That section was superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 310, [42 Stat. 938][/us/stat/42/938], and repealed by section 321 of that act. Section 310 of act Sept. 21, 1922, was superseded by section 310 of act June 17, 1930, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § IV, L, [38 Stat. 197][/us/stat/38/197], superseding similar provisions of previous tariff acts. That section was superseded by [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 310, [42 Stat. 938][/us/stat/42/938], and repealed by section 321 of that act. Section 310 of act Sept. 21, 1922, was superseded by section 310 of act June 17, 1930, and repealed by section 651(a)(1) of the 1930 act.
 
 ----------
 
@@ -34,7 +34,7 @@
 [/us/stat/46/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F691
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F197
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F938
 
 

@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Narcotics Control Trade Act”.
 
-([Pub. L. 93–618, title VIII, § 801][/us/pl/93/618/s801], as added [Pub. L. 99–570, title IX, § 9001][/us/pl/99/570/s9001], Oct. 27, 1986, [100 Stat. 3207–164][/us/stat/100/3207-164].)
+([Pub. L. 93–618, title VIII][/us/pl/93/618/tVIII], § 801, as added [Pub. L. 99–570, title IX][/us/pl/99/570/tIX], § 9001, Oct. 27, 1986, [100 Stat. 3207–164][/us/stat/100/3207-164].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/618/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs801
-[/us/pl/99/570/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs9001
+[/us/pl/93/618/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVIII
+[/us/pl/99/570/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIX
 [/us/stat/100/3207-164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-164
 
 

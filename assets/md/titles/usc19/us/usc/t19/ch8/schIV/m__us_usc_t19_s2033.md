@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be construed to affect or modify the provisions of subtitle B of title VII of the Tariff Act of 1930 \[[19 U.S.C. 1673][/us/usc/t19/s1673] et seq.\] or of any of the antitrust laws as designated in [section 12 of title 15][/us/usc/t15/s12].
 
-([Pub. L. 89–283, title V, § 503][/us/pl/89/283/s503], Oct. 21, 1965, [79 Stat. 1026][/us/stat/79/1026]; [Pub. L. 96–39, title I, § 106(b)(2)][/us/pl/96/39/s106/b/2], July 26, 1979, [93 Stat. 193][/us/stat/93/193].)
+([Pub. L. 89–283, title V][/us/pl/89/283/tV], § 503, Oct. 21, 1965, [79 Stat. 1026][/us/stat/79/1026]; [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 106(b)(2), July 26, 1979, [93 Stat. 193][/us/stat/93/193].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t19/s1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1673
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/89/283/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs503
+[/us/pl/89/283/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2FtV
 [/us/stat/79/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1026
-[/us/pl/96/39/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fb%2F2
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
 [/us/pl/89/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283
 [/us/stat/79/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1016

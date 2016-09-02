@@ -17,7 +17,7 @@
 
     No regulation issued by the Secretary of Transportation implementing a recommendation of the Land Transportation Standards Subcommittee established under article 913(5)(a)(i) of the Agreement may take effect before the date 90 days after the date of issuance.
 
-([Pub. L. 103–182, title III, § 352][/us/pl/103/182/s352], Dec. 8, 1993, [107 Stat. 2122][/us/stat/107/2122].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 352, Dec. 8, 1993, [107 Stat. 2122][/us/stat/107/2122].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs352
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2122
 
 

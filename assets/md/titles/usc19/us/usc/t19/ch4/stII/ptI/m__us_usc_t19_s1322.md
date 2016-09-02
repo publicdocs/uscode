@@ -33,21 +33,21 @@
 
         Any articles admitted under the authority of this subsection and used otherwise than for a purpose herein expressed, or not exported in such time and manner as may be prescribed in the regulations or instructions herein authorized, shall be forfeited to the United States.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 322, as added [Aug. 8, 1953, ch. 397, § 14][/us/act/1953-08-08/ch397/s14], [67 Stat. 516][/us/stat/67/516]; amended [Pub. L. 92–549, title I, § 107][/us/pl/92/549/s107], Oct. 25, 1972, [86 Stat. 1162][/us/stat/86/1162]; [Pub. L. 98–573, title I][/us/pl/98/573], §§ 124(c), 127(b), Oct. 30, 1984, [98 Stat. 2959][/us/stat/98/2959].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 322, as added [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 14, [67 Stat. 516][/us/stat/67/516]; amended [Pub. L. 92–549, title I][/us/pl/92/549/tI], § 107, Oct. 25, 1972, [86 Stat. 1162][/us/stat/86/1162]; [Pub. L. 98–573, title I][/us/pl/98/573/tI], §§ 124(c), 127(b), Oct. 30, 1984, [98 Stat. 2959][/us/stat/98/2959].)
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–573, § 127(b)][/us/pl/98/573/s127/b], substituted “excepted” for “granted the customary exceptions”.
+    1984—Subsec. (a). [Pub. L. 98–573][/us/pl/98/573], § 127(b), substituted “excepted” for “granted the customary exceptions”.
 
-    [Pub. L. 98–573, § 124(c)][/us/pl/98/573/s124/c], inserted “The authority delegated to the Secretary by this subsection shall not extend to communications satellites and components and parts thereof.”
+    [Pub. L. 98–573][/us/pl/98/573], § 124(c), inserted “The authority delegated to the Secretary by this subsection shall not extend to communications satellites and components and parts thereof.”
 
-    1972—[Pub. L. 92–549, § 107(a)][/us/pl/92/549/s107/a], inserted “United States-Mexico Boundary Treaty of 1970” in section catchline.
+    1972—[Pub. L. 92–549][/us/pl/92/549], § 107(a), inserted “United States-Mexico Boundary Treaty of 1970” in section catchline.
 
-    Subsec. (b)(4). [Pub. L. 92–549, § 107(b)][/us/pl/92/549/s107/b], added cl. (4).
+    Subsec. (b)(4). [Pub. L. 92–549][/us/pl/92/549], § 107(b), added cl. (4).
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–573, title I, § 195(a)][/us/pl/98/573/s195/a], (b), (d), Oct. 30, 1984, [98 Stat. 2972][/us/stat/98/2972], provided that:
+[Pub. L. 98–573, title I][/us/pl/98/573/tI], § 195(a), (b), (d), Oct. 30, 1984, [98 Stat. 2972][/us/stat/98/2972], provided that:
 
 >     “(a) Except as provided in section 126 and in subsections (b) and (c), the amendments made by subtitles B, C, and D \[amending this section and sections 1202 and 1504 of this title\] shall apply with respect to articles entered on or after the 15th day after the date of the enactment of this Act \[Oct. 30, 1984\].
 
@@ -77,17 +77,17 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/act/1953-08-08/ch397/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs14
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F516
-[/us/pl/92/549/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs107
+[/us/pl/92/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2FtI
 [/us/stat/86/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1162
-[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtI
 [/us/stat/98/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2959
-[/us/pl/98/573/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs127%2Fb
-[/us/pl/98/573/s124/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs124%2Fc
-[/us/pl/92/549/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs107%2Fa
-[/us/pl/92/549/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs107%2Fb
-[/us/pl/98/573/s195/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs195%2Fa
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/92/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549
+[/us/pl/92/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549
+[/us/pl/98/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtI
 [/us/stat/98/2972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2972
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304
 

@@ -27,7 +27,7 @@
 
         The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) and thereby cause all products of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
 
-([Pub. L. 93–618, title IV, § 404][/us/pl/93/618/s404], Jan. 3, 1975, [88 Stat. 2060][/us/stat/88/2060]; [Pub. L. 96–39, title XI, § 1106(f)(2)][/us/pl/96/39/s1106/f/2], July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 100–418, title I, § 1214(j)(3)][/us/pl/100/418/s1214/j/3], Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158].)
+([Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 404, Jan. 3, 1975, [88 Stat. 2060][/us/stat/88/2060]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(f)(2), July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(j)(3), Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158].)
 
  __References in Text__ 
 
@@ -201,7 +201,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of Moldova__ 
 
-[Pub. L. 112–208, title III][/us/pl/112/208], Dec. 14, 2012, [126 Stat. 1501][/us/stat/126/1501], provided that:
+[Pub. L. 112–208, title III][/us/pl/112/208/tIII], Dec. 14, 2012, [126 Stat. 1501][/us/stat/126/1501], provided that:
 
 > “SEC. 301. __FINDINGS.__ 
 
@@ -269,7 +269,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of Armenia__ 
 
-[Pub. L. 108–429, title II, § 2001][/us/pl/108/429/s2001], Dec. 3, 2004, [118 Stat. 2587][/us/stat/118/2587], provided that:
+[Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2001, Dec. 3, 2004, [118 Stat. 2587][/us/stat/118/2587], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -299,7 +299,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of Vietnam__ 
 
-[Pub. L. 109–432, div. D, title IV][/us/pl/109/432], §§ 4001, 4002, Dec. 20, 2006, [120 Stat. 3177][/us/stat/120/3177], 3178, provided that:
+[Pub. L. 109–432, div. D, title IV][/us/pl/109/432/dD/tIV], §§ 4001, 4002, Dec. 20, 2006, [120 Stat. 3177][/us/stat/120/3177], 3178, provided that:
 
 > “SEC. 4001. __FINDINGS.__ 
 
@@ -339,7 +339,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of Georgia__ 
 
-[Pub. L. 106–476, title III][/us/pl/106/476], Nov. 9, 2000, [114 Stat. 2175][/us/stat/114/2175], provided that:
+[Pub. L. 106–476, title III][/us/pl/106/476/tIII], Nov. 9, 2000, [114 Stat. 2175][/us/stat/114/2175], provided that:
 
 > “SEC. 3001. __FINDINGS.__ 
 
@@ -385,7 +385,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of People’s Republic of China__ 
 
-[Pub. L. 106–286, div. A, title I][/us/pl/106/286], §§ 101, 102, Oct. 10, 2000, [114 Stat. 881][/us/stat/114/881], 882, provided that:
+[Pub. L. 106–286, div. A, title I][/us/pl/106/286/dA/tI], §§ 101, 102, Oct. 10, 2000, [114 Stat. 881][/us/stat/114/881], 882, provided that:
 
 > “SEC. 101. __TERMINATION OF APPLICATION OF CHAPTER 1 OF TITLE IV OF THE TRADE ACT OF 1974 TO THE PEOPLE’S REPUBLIC OF CHINA.__ 
 
@@ -413,7 +413,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of Albania__ 
 
-[Pub. L. 106–200, title III, § 301][/us/pl/106/200/s301], May 18, 2000, [114 Stat. 288][/us/stat/114/288], provided that:
+[Pub. L. 106–200, title III][/us/pl/106/200/tIII], § 301, May 18, 2000, [114 Stat. 288][/us/stat/114/288], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -445,7 +445,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of Kyrgyzstan__ 
 
-[Pub. L. 106–200, title III, § 302][/us/pl/106/200/s302], May 18, 2000, [114 Stat. 289][/us/stat/114/289], provided that:
+[Pub. L. 106–200, title III][/us/pl/106/200/tIII], § 302, May 18, 2000, [114 Stat. 289][/us/stat/114/289], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -477,7 +477,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of Mongolia__ 
 
-[Pub. L. 106–36, title II, § 2424][/us/pl/106/36/s2424], June 25, 1999, [113 Stat. 180][/us/stat/113/180], provided that:
+[Pub. L. 106–36, title II][/us/pl/106/36/tII], § 2424, June 25, 1999, [113 Stat. 180][/us/stat/113/180], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -633,7 +633,7 @@
 
  __Extension of Nondiscriminatory Treatment to Products of Estonia, Latvia, and Lithuania__ 
 
-[Pub. L. 102–182, title I][/us/pl/102/182], Dec. 4, 1991, [105 Stat. 1235][/us/stat/105/1235], provided that:
+[Pub. L. 102–182, title I][/us/pl/102/182/tI], Dec. 4, 1991, [105 Stat. 1235][/us/stat/105/1235], provided that:
 
 > “SEC. 101. __CONGRESSIONAL FINDINGS.__ 
 
@@ -733,7 +733,7 @@
 
  __Authority of President To Deny and To Restore Nondiscriminatory Trade Treatment to Products of Afghanistan or To Deny or To Restore Credits, etc., to Afghanistan__ 
 
-    [Pub. L. 99–190, § 118][/us/pl/99/190/s118], Dec. 19, 1985, [99 Stat. 1319][/us/stat/99/1319], authorized President to deny nondiscriminatory (most-favored-nation) trade treatment to the products of Afghanistan and to deny credit, credit guarantees, and investment guarantees to, or for the benefit of, Afghanistan under any Federal program, directed President, if such treatment was not denied, to submit to Congress, 45 days after Dec. 19, 1985, a report with the reasons for not denying such treatment, and authorized President, if such treatment was denied to restore nondiscriminatory trade treatment, and to extend credit, credit guarantees, and investment guarantees. Similar provisions were contained in [Pub. L. 99–190, § 101(i)][/us/pl/99/190/s101/i] \[title V, § 552\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1314.
+    [Pub. L. 99–190][/us/pl/99/190], § 118, Dec. 19, 1985, [99 Stat. 1319][/us/stat/99/1319], authorized President to deny nondiscriminatory (most-favored-nation) trade treatment to the products of Afghanistan and to deny credit, credit guarantees, and investment guarantees to, or for the benefit of, Afghanistan under any Federal program, directed President, if such treatment was not denied, to submit to Congress, 45 days after Dec. 19, 1985, a report with the reasons for not denying such treatment, and authorized President, if such treatment was denied to restore nondiscriminatory trade treatment, and to extend credit, credit guarantees, and investment guarantees. Similar provisions were contained in [Pub. L. 99–190][/us/pl/99/190], § 101(i) \[title V, § 552\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1314.
 
  __Extension of Nondiscriminatory Treatment to Products of Socialist Republic of Romania__ 
 
@@ -880,11 +880,11 @@
 
 [/us/usc/t19/s2435/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2435%2Fc
 [/us/usc/t19/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2435
-[/us/pl/93/618/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs404
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2060
-[/us/pl/96/39/s1106/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Ff%2F2
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F312
-[/us/pl/100/418/s1214/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fj%2F3
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1158
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
@@ -907,7 +907,7 @@
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t19/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
-[/us/pl/112/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F208
+[/us/pl/112/208/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F208%2FtIII
 [/us/stat/126/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1501
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
@@ -916,11 +916,11 @@
 [/us/stat/120/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F313
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
-[/us/pl/108/429/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2001
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2587
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
-[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432/dD/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtIV
 [/us/stat/120/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3177
 [/us/usc/t19/s2435/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2435%2Fc
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
@@ -928,23 +928,23 @@
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/pl/107/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F52
 [/us/stat/115/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F268
-[/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
+[/us/pl/106/476/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtIII
 [/us/stat/114/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2175
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
-[/us/pl/106/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286
+[/us/pl/106/286/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdA%2FtI
 [/us/stat/114/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F881
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/usc/t19/s3532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3532
-[/us/pl/106/200/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs301
+[/us/pl/106/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIII
 [/us/stat/114/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F288
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
-[/us/pl/106/200/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs302
+[/us/pl/106/200/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIII
 [/us/stat/114/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F289
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
-[/us/pl/106/36/s2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs2424
+[/us/pl/106/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtII
 [/us/stat/113/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F180
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
@@ -964,7 +964,7 @@
 [/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
 [/us/stat/105/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1233
 [/us/usc/t19/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2431
-[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
+[/us/pl/102/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtI
 [/us/stat/105/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1235
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
@@ -981,9 +981,9 @@
 [/us/stat/105/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1040
 [/us/pl/101/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F541
 [/us/stat/104/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2380
-[/us/pl/99/190/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs118
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1319
-[/us/pl/99/190/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fi
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1291
 [/us/stat/89/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1202
 

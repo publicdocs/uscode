@@ -27,7 +27,7 @@
 
     (5) A representative of any other agency the President deems appropriate.
 
-([Pub. L. 108–19, § 11][/us/pl/108/19/s11], Apr. 25, 2003, [117 Stat. 635][/us/stat/117/635].)
+([Pub. L. 108–19][/us/pl/108/19], § 11, Apr. 25, 2003, [117 Stat. 635][/us/stat/117/635].)
 
  __Delegation of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs11
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F635
 [/us/usc/t19/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3901
 

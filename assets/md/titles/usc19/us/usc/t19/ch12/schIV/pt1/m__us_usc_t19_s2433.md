@@ -37,7 +37,7 @@
 
         This section shall not apply to any country the products of which are eligible for the rates set forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975.
 
-([Pub. L. 93–618, title IV, § 403][/us/pl/93/618/s403], Jan. 3, 1975, [88 Stat. 2060][/us/stat/88/2060].)
+([Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 403, Jan. 3, 1975, [88 Stat. 2060][/us/stat/88/2060].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/93/618/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs403
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2060
 [/us/usc/t19/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3012
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202

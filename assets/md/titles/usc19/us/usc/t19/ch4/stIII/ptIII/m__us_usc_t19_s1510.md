@@ -33,11 +33,11 @@
 
         (3) The sanctions which may be imposed under paragraphs (1) and (2) are in addition to any punishment which may be imposed by the court for contempt.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 510, [46 Stat. 733][/us/stat/46/733]; [Pub. L. 91–271, title III, § 301][/us/pl/91/271/s301](o), June 2, 1970, [84 Stat. 290][/us/stat/84/290]; [Pub. L. 95–410, title I, § 106][/us/pl/95/410/s106], Oct. 3, 1978, [92 Stat. 891][/us/stat/92/891]; [Pub. L. 103–182, title VI, § 616][/us/pl/103/182/s616], Dec. 8, 1993, [107 Stat. 2179][/us/stat/107/2179].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 510, [46 Stat. 733][/us/stat/46/733]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(o), June 2, 1970, [84 Stat. 290][/us/stat/84/290]; [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 106, Oct. 3, 1978, [92 Stat. 891][/us/stat/92/891]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 616, Dec. 8, 1993, [107 Stat. 2179][/us/stat/107/2179].)
 
  __Prior Provisions__ 
 
-    Provisions substantially the same as those in this section were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, P, [38 Stat. 188][/us/stat/38/188], which substantially reenacted the provisions of the Customs Administrative [Act of June 10, 1890, ch. 407, § 17][/us/act/1890-06-10/ch407/s17], [26 Stat. 139][/us/stat/26/139], as renumbered and reenacted without other change by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6, § 23][/us/act/1909-08-05/ch6/s23], [36 Stat. 100][/us/stat/36/100]. Section III, P, of the 1913 act was superseded by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 509, [42 Stat. 968][/us/stat/42/968], and repealed by section 643 thereof. Section 509 of the 1922 act was superseded by section 510 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions substantially the same as those in this section were contained in [act Oct. 3, 1913, ch. 16][/us/act/1913-10-03/ch16], § III, P, [38 Stat. 188][/us/stat/38/188], which substantially reenacted the provisions of the Customs Administrative [Act of June 10, 1890, ch. 407][/us/act/1890-06-10/ch407], § 17, [26 Stat. 139][/us/stat/26/139], as renumbered and reenacted without other change by the Payne-Aldrich Tariff [Act of Aug. 5, 1909, ch. 6][/us/act/1909-08-05/ch6], § 23, [36 Stat. 100][/us/stat/36/100]. Section III, P, of the 1913 act was superseded by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 509, [42 Stat. 968][/us/stat/42/968], and repealed by section 643 thereof. Section 509 of the 1922 act was superseded by section 510 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
     Prior provisions similar to those in this section were contained in R.S. §§ 2923, 2924, prior to repeal by section 29 of the Customs Administrative Act of June 10, 1890, [26 Stat. 141][/us/stat/26/141].
 
@@ -64,19 +64,19 @@
 [/us/usc/t19/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1509
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F733
-[/us/pl/91/271/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F290
-[/us/pl/95/410/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs106
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F891
-[/us/pl/103/182/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs616
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2179
 [/us/act/1913-10-03/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch16
 [/us/stat/38/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F188
-[/us/act/1890-06-10/ch407/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs17
+[/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
 [/us/stat/26/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F139
-[/us/act/1909-08-05/ch6/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs23
+[/us/act/1909-08-05/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6
 [/us/stat/36/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F100
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F968
 [/us/stat/26/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F141
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

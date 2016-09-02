@@ -23,7 +23,7 @@
 
     (C) substituted for by goods of the same kind and quality used as a material in the production of other goods that are exported to a NAFTA country.
 
-([Pub. L. 103–182, title II, § 210][/us/pl/103/182/s210], Dec. 8, 1993, [107 Stat. 2099][/us/stat/107/2099].)
+([Pub. L. 103–182, title II][/us/pl/103/182/tII], § 210, Dec. 8, 1993, [107 Stat. 2099][/us/stat/107/2099].)
 
  __Effective Date__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t19/s3332/p/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3332%2Fp%2F19
-[/us/pl/103/182/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs210
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2099
 [/us/pl/103/182/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs213%2Fb
 [/us/usc/t19/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3331

@@ -17,7 +17,7 @@
 
     The International Trade Commission shall adopt such procedures and rules and regulations as are necessary to bring its procedures into conformity with chapter 8 of the Agreement.
 
-([Pub. L. 103–182, title III, § 317(a)][/us/pl/103/182/s317/a], Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 317(a), Dec. 8, 1993, [107 Stat. 2108][/us/stat/107/2108].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs317%2Fa
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2108
 
 

@@ -17,7 +17,7 @@
 
     The United States is authorized to resolve any claim against the United States covered by article 10.16.1(a)(i)(C) or article 10.16.1(b)(i)(C) of the Agreement, pursuant to the Investor-State Dispute Settlement procedures set forth in section B of chapter 10 of the Agreement.
 
-([Pub. L. 109–53, title I, § 106][/us/pl/109/53/s106], Aug. 2, 2005, [119 Stat. 466][/us/stat/119/466].)
+([Pub. L. 109–53, title I][/us/pl/109/53/tI], § 106, Aug. 2, 2005, [119 Stat. 466][/us/stat/119/466].)
 
  __Termination of Section__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/109/53/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs106
+[/us/pl/109/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtI
 [/us/stat/119/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F466
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

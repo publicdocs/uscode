@@ -17,7 +17,7 @@
 
     Nothing in this chapter may be construed to require actions inconsistent with the international obligations of the United States, including the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of this title][/us/usc/t19/s3501]).
 
-([Pub. L. 100–418, title I, § 1382][/us/pl/100/418/s1382], Aug. 23, 1988, [102 Stat. 1224][/us/stat/102/1224]; [Pub. L. 103–465, title VI, § 621(a)(7)][/us/pl/103/465/s621/a/7], Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1382, Aug. 23, 1988, [102 Stat. 1224][/us/stat/102/1224]; [Pub. L. 103–465, title VI][/us/pl/103/465/tVI], § 621(a)(7), Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501
-[/us/pl/100/418/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1382
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1224
-[/us/pl/103/465/s621/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs621%2Fa%2F7
+[/us/pl/103/465/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVI
 [/us/stat/108/4993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4993
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501

@@ -21,7 +21,7 @@
 
     (2) shall transfer the information (other than confidential information) concerning the practice, subsidy, or subsidy program to the library maintained under [section 1677f(a)(1) of this title][/us/usc/t19/s1677f/a/1], if the practice, subsidy, or subsidy program appears to be a countervailable subsidy with respect to any other merchandise.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 775, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 186][/us/stat/93/186]; amended [Pub. L. 98–573, title VI, § 617][/us/pl/98/573/s617], Oct. 30, 1984, [98 Stat. 3037][/us/stat/98/3037]; [Pub. L. 99–514, title XVIII, § 1886(a)(12)][/us/pl/99/514/s1886/a/12], Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 103–465, title II, § 283(b)][/us/pl/103/465/s283/b], Dec. 8, 1994, [108 Stat. 4930][/us/stat/108/4930].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 775, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 186][/us/stat/93/186]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 617, Oct. 30, 1984, [98 Stat. 3037][/us/stat/98/3037]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1886(a)(12), Oct. 22, 1986, [100 Stat. 2922][/us/stat/100/2922]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 283(b), Dec. 8, 1994, [108 Stat. 4930][/us/stat/108/4930].)
 
  __Amendments__ 
 
@@ -56,13 +56,13 @@
 
 [/us/usc/t19/s1677f/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f%2Fa%2F1
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F186
-[/us/pl/98/573/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs617
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3037
-[/us/pl/99/514/s1886/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1886%2Fa%2F12
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2922
-[/us/pl/103/465/s283/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs283%2Fb
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4930
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1677f/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677f%2Fa%2F1

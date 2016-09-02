@@ -43,7 +43,7 @@
 
         As used in this section, the term “administering authority” has the meaning given such term in [section 1677(1) of this title][/us/usc/t19/s1677/1].
 
-([Pub. L. 103–182, title IV, § 405][/us/pl/103/182/s405], Dec. 8, 1993, [107 Stat. 2137][/us/stat/107/2137].)
+([Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 405, Dec. 8, 1993, [107 Stat. 2137][/us/stat/107/2137].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t19/s1677/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F1
-[/us/pl/103/182/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs405
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2137
 
 

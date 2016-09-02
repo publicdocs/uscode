@@ -23,7 +23,7 @@
 
     (3) the Federal agency procedures for assessment of risk, and factors the agency considers in conducting the assessment and establishing the levels of protection that the agency considers appropriate.
 
-([Pub. L. 96–39, title IV, § 472][/us/pl/96/39/s472], as added [Pub. L. 103–182, title III, § 351(a)][/us/pl/103/182/s351/a], Dec. 8, 1993, [107 Stat. 2120][/us/stat/107/2120].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 472, as added [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 351(a), Dec. 8, 1993, [107 Stat. 2120][/us/stat/107/2120].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t19/s2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2544
-[/us/pl/96/39/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs472
-[/us/pl/103/182/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs351%2Fa
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2120
 
 

@@ -33,7 +33,7 @@
 
     (8) any progress achieved in increasing the transparency of proceedings of the Ministerial Conference and the General Council, and of dispute settlement proceedings conducted pursuant to the Dispute Settlement Understanding.
 
-([Pub. L. 103–465, title I, § 124][/us/pl/103/465/s124], Dec. 8, 1994, [108 Stat. 4832][/us/stat/108/4832].)
+([Pub. L. 103–465, title I][/us/pl/103/465/tI], § 124, Dec. 8, 1994, [108 Stat. 4832][/us/stat/108/4832].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/465/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs124
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4832
 
 

@@ -87,29 +87,29 @@
 
         The Trade Representative shall publish in the Federal Register any determination made under subsection (a)(1), together with a description of the facts on which such determination is based.
 
-([Pub. L. 93–618, title III, § 304][/us/pl/93/618/s304], as added [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 297][/us/stat/93/297]; amended [Pub. L. 98–573, title III][/us/pl/98/573], §§ 304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, [98 Stat. 3005][/us/stat/98/3005], 3012; [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1170][/us/stat/102/1170]; [Pub. L. 103–465, title III, § 314(d)][/us/pl/103/465/s314/d], Dec. 8, 1994, [108 Stat. 4940][/us/stat/108/4940]; [Pub. L. 104–295, § 20(c)(6)][/us/pl/104/295/s20/c/6], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 108–429, title II, § 2201(a)][/us/pl/108/429/s2201/a], (b), Dec. 3, 2004, [118 Stat. 2598][/us/stat/118/2598], 2599.)
+([Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 304, as added [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 901, July 26, 1979, [93 Stat. 297][/us/stat/93/297]; amended [Pub. L. 98–573, title III][/us/pl/98/573/tIII], §§ 304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, [98 Stat. 3005][/us/stat/98/3005], 3012; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(a), Aug. 23, 1988, [102 Stat. 1170][/us/stat/102/1170]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 314(d), Dec. 8, 1994, [108 Stat. 4940][/us/stat/108/4940]; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(6), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2201(a), (b), Dec. 3, 2004, [118 Stat. 2598][/us/stat/118/2598], 2599.)
 
  __Amendments__ 
 
-    2004—Subsec. (a)(2)(A). [Pub. L. 108–429, § 2201(a)][/us/pl/108/429/s2201/a], in introductory provisions, inserted “except an investigation initiated pursuant to [section 2412(b)(2)(A) of this title][/us/usc/t19/s2412/b/2/A] involving rights under the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in [section 3511(d)(15) of this title][/us/usc/t19/s3511/d/15]) or the GATT 1994 (as defined in [section 3501(1)(B) of this title][/us/usc/t19/s3501/1/B]) relating to products subject to intellectual property protection,” after “agreement,”.
+    2004—Subsec. (a)(2)(A). [Pub. L. 108–429][/us/pl/108/429], § 2201(a), in introductory provisions, inserted “except an investigation initiated pursuant to [section 2412(b)(2)(A) of this title][/us/usc/t19/s2412/b/2/A] involving rights under the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in [section 3511(d)(15) of this title][/us/usc/t19/s3511/d/15]) or the GATT 1994 (as defined in [section 3501(1)(B) of this title][/us/usc/t19/s3501/1/B]) relating to products subject to intellectual property protection,” after “agreement,”.
 
-    Subsec. (a)(3)(A). [Pub. L. 108–429, § 2201(b)][/us/pl/108/429/s2201/b], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If an investigation is initiated under this subchapter by reason of [section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2] and the Trade Representative does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in [section 3511(d)(15) of this title][/us/usc/t19/s3511/d/15]), is involved or does not make a determination described in subparagraph (B) with respect to such investigation, the Trade Representative shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 6 months after the date on which such investigation is initiated.”
+    Subsec. (a)(3)(A). [Pub. L. 108–429][/us/pl/108/429], § 2201(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If an investigation is initiated under this subchapter by reason of [section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2] and the Trade Representative does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in [section 3511(d)(15) of this title][/us/usc/t19/s3511/d/15]), is involved or does not make a determination described in subparagraph (B) with respect to such investigation, the Trade Representative shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 6 months after the date on which such investigation is initiated.”
 
     1996—Subsec. (a)(3)(A). [Pub. L. 104–295][/us/pl/104/295] inserted “Rights” after “Intellectual Property”.
 
-    1994—Subsec. (a)(2)(A). [Pub. L. 103–465, § 314(d)(1)][/us/pl/103/465/s314/d/1], struck out “(other than the agreement on subsidies and countervailing measures described in [section 2503(c)(5) of this title][/us/usc/t19/s2503/c/5])” after “trade agreement”.
+    1994—Subsec. (a)(2)(A). [Pub. L. 103–465][/us/pl/103/465], § 314(d)(1), struck out “(other than the agreement on subsidies and countervailing measures described in [section 2503(c)(5) of this title][/us/usc/t19/s2503/c/5])” after “trade agreement”.
 
-    Subsec. (a)(3)(A). [Pub. L. 103–465, § 314(d)(2)(A)][/us/pl/103/465/s314/d/2/A], inserted “does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property (referred to in [section 3511(d)(15) of this title][/us/usc/t19/s3511/d/15]), is involved or” after “Trade Representative” the first place appearing.
+    Subsec. (a)(3)(A). [Pub. L. 103–465][/us/pl/103/465], § 314(d)(2)(A), inserted “does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property (referred to in [section 3511(d)(15) of this title][/us/usc/t19/s3511/d/15]), is involved or” after “Trade Representative” the first place appearing.
 
-    Subsec. (a)(3)(B). [Pub. L. 103–465, § 314(d)(2)(B)][/us/pl/103/465/s314/d/2/B], in introductory provisions, substituted “an investigation initiated by reason of [section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2] (other than an investigation involving a trade agreement)” for “any investigation initiated by reason of [section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2]”.
+    Subsec. (a)(3)(B). [Pub. L. 103–465][/us/pl/103/465], § 314(d)(2)(B), in introductory provisions, substituted “an investigation initiated by reason of [section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2] (other than an investigation involving a trade agreement)” for “any investigation initiated by reason of [section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2]”.
 
-    Subsec. (a)(4). [Pub. L. 103–465, § 314(d)(3)][/us/pl/103/465/s314/d/3], struck out “(other than the agreement on subsidies and countervailing measures described in [section 2503(c)(5) of this title][/us/usc/t19/s2503/c/5])” after “in a trade agreement”.
+    Subsec. (a)(4). [Pub. L. 103–465][/us/pl/103/465], § 314(d)(3), struck out “(other than the agreement on subsidies and countervailing measures described in [section 2503(c)(5) of this title][/us/usc/t19/s2503/c/5])” after “in a trade agreement”.
 
     1988—[Pub. L. 100–418][/us/pl/100/418] amended section generally, substituting provisions relating to determinations by Trade Representative for provisions relating to recommendations by Trade Representative.
 
-    1984—Subsec. (a)(1). [Pub. L. 98–573, § 304(d)(2)(C)][/us/pl/98/573/s304/d/2/C], substituted “matters under investigation” for “issues raised in the petition” in first sentence.
+    1984—Subsec. (a)(1). [Pub. L. 98–573][/us/pl/98/573], § 304(d)(2)(C), substituted “matters under investigation” for “issues raised in the petition” in first sentence.
 
-    Subsec. (b)(2). [Pub. L. 98–573, § 306(c)(2)(C)(ii)][/us/pl/98/573/s306/c/2/C/ii], struck out “private sector” after “appropriate”.
+    Subsec. (b)(2). [Pub. L. 98–573][/us/pl/98/573], § 306(c)(2)(C)(ii), struck out “private sector” after “appropriate”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -136,39 +136,39 @@
 [/us/usc/t19/s2412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2
 [/us/usc/t19/s2412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/93/618/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs304
-[/us/pl/96/39/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs901
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F297
-[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3005
-[/us/pl/100/418/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1170
-[/us/pl/103/465/s314/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fd
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4940
-[/us/pl/104/295/s20/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F6
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
-[/us/pl/108/429/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2201%2Fa
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2598
-[/us/pl/108/429/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2201%2Fa
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/usc/t19/s2412/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2%2FA
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
 [/us/usc/t19/s3501/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F1%2FB
-[/us/pl/108/429/s2201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2201%2Fb
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/usc/t19/s2412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/465/s314/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fd%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2503/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fc%2F5
-[/us/pl/103/465/s314/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fd%2F2%2FA
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3511/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F15
-[/us/pl/103/465/s314/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fd%2F2%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2
 [/us/usc/t19/s2412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2412%2Fb%2F2
-[/us/pl/103/465/s314/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fd%2F3
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2503/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fc%2F5
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/98/573/s304/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fd%2F2%2FC
-[/us/pl/98/573/s306/c/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fc%2F2%2FC%2Fii
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs316%2Fa
 [/us/usc/t19/s3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3581

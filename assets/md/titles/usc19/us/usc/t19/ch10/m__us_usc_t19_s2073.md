@@ -15,15 +15,15 @@
 
 ## § 2073. Transfer of personnel, etc., to Service
 
-    (a) Repealed. [Sept. 3, 1954, ch. 1263, § 10][/us/act/1954-09-03/ch1263/s10], [68 Stat. 1229][/us/stat/68/1229].
+    (a) Repealed. [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 10, [68 Stat. 1229][/us/stat/68/1229].
 
     (b) The records, property (including office equipment), and personnel of the Division of Customs are transferred to the United States Customs Service.
 
-([Mar. 3, 1927, ch. 348, § 3][/us/act/1927-03-03/ch348/s3], [44 Stat. 1382][/us/stat/44/1382]; [Sept. 3, 1954, ch. 1263, § 10][/us/act/1954-09-03/ch1263/s10], [68 Stat. 1229][/us/stat/68/1229].)
+([Mar. 3, 1927, ch. 348][/us/act/1927-03-03/ch348], § 3, [44 Stat. 1382][/us/stat/44/1382]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 10, [68 Stat. 1229][/us/stat/68/1229].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 281b of Title 5][/us/usc/t5/s281b] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 281b of Title 5][/us/usc/t5/s281b] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
     Subsection (c) of section 3 of act March 3, 1927, abolished the Division of Customs and offices of directors and assistant directors of customs and Special Agency Service of the Customs.
 
@@ -48,14 +48,14 @@
 ----------
 ----------
 
-[/us/act/1954-09-03/ch1263/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs10
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1229
-[/us/act/1927-03-03/ch348/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch348%2Fs3
+[/us/act/1927-03-03/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch348
 [/us/stat/44/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1382
-[/us/act/1954-09-03/ch1263/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs10
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1229
 [/us/usc/t5/s281b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs281b
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t31/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs308
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

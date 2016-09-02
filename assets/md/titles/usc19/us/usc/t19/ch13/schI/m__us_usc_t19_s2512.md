@@ -87,23 +87,23 @@
 
                 The appropriate committee of each House of the Congress shall give a bill submitted pursuant to subparagraph (A) prompt consideration and shall make its best efforts to take final committee action on such bill in an expeditious manner.
 
-([Pub. L. 96–39, title III, § 302][/us/pl/96/39/s302], July 26, 1979, [93 Stat. 236][/us/stat/93/236]; [Pub. L. 103–182, title III, § 381(b)][/us/pl/103/182/s381/b], Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 103–465, title III, § 343(a)][/us/pl/103/465/s343/a], (b), Dec. 8, 1994, [108 Stat. 4954][/us/stat/108/4954], 4955.)
+([Pub. L. 96–39, title III][/us/pl/96/39/tIII], § 302, July 26, 1979, [93 Stat. 236][/us/stat/93/236]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 381(b), Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 343(a), (b), Dec. 8, 1994, [108 Stat. 4954][/us/stat/108/4954], 4955.)
 
  __Codification__ 
 
-    In subsec. (c)(2)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a][/us/usc/t41/s10a] et seq.), commonly referred to as the Buy American Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(2)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a][/us/usc/t41/s10a] et seq.), commonly referred to as the Buy American Act” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 343(a)][/us/pl/103/465/s343/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 343(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
 
     “(1) shall prohibit the procurement, after the date on which any waiver under [section 2511(a) of this title][/us/usc/t19/s2511/a] first takes effect, of products (A) which are products of a foreign country or instrumentality which is not designated pursuant to [section 2511(b) of this title][/us/usc/t19/s2511/b], and (B) which are products covered under the Agreement for procurement by the United States; and
 
     “(2) may take such other actions within his authority as he deems necessary.”
 
-    Subsec. (b). [Pub. L. 103–465, § 343(b)(2)][/us/pl/103/465/s343/b/2], inserted concluding provisions.
+    Subsec. (b). [Pub. L. 103–465][/us/pl/103/465], § 343(b)(2), inserted concluding provisions.
 
-    Subsec. (b)(1). [Pub. L. 103–465, § 343(b)(1)][/us/pl/103/465/s343/b/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “delay, for a period not to exceed two years, the prohibition of procurement, required pursuant to subsection (a)(1) of this section, of products of a foreign country or instrumentality which is not designated pursuant to [section 2511(b) of this title][/us/usc/t19/s2511/b], except that no such delay shall be granted with respect to the procurement of products of any major industrial country;”.
+    Subsec. (b)(1). [Pub. L. 103–465][/us/pl/103/465], § 343(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “delay, for a period not to exceed two years, the prohibition of procurement, required pursuant to subsection (a)(1) of this section, of products of a foreign country or instrumentality which is not designated pursuant to [section 2511(b) of this title][/us/usc/t19/s2511/b], except that no such delay shall be granted with respect to the procurement of products of any major industrial country;”.
 
     1993—Subsec. (a)(1). [Pub. L. 103–182][/us/pl/103/182] substituted “are products covered under the Agreement for procurement by the United States” for “would otherwise be eligible products”.
 
@@ -115,11 +115,11 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title III, § 344][/us/pl/103/465/s344], Dec. 8, 1994, [108 Stat. 4955][/us/stat/108/4955], provided that:
+[Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 344, Dec. 8, 1994, [108 Stat. 4955][/us/stat/108/4955], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
->     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle E (§[§ 341–344 of title III of Pub. L. 103–465][/us/pl/103/465/s341–344], amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing [section 2516 of this title][/us/usc/t19/s2516], and amending provisions set out as a note under [section 903 of Title 7][/us/usc/t7/s903], Agriculture\] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) \[[19 U.S.C. 3511(d)(17)][/us/usc/t19/s3511/d/17]\] enters into force with respect to the United States \[Jan. 1, 1995\].
+>     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle E (§§ 341–344 of title III of [Pub. L. 103–465][/us/pl/103/465], amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing [section 2516 of this title][/us/usc/t19/s2516], and amending provisions set out as a note under [section 903 of Title 7][/us/usc/t7/s903], Agriculture\] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) \[[19 U.S.C. 3511(d)(17)][/us/usc/t19/s3511/d/17]\] enters into force with respect to the United States \[Jan. 1, 1995\].
 
 >     “(b)  __Section__  __342(g).—__ 
 
@@ -146,27 +146,27 @@
 [/us/usc/t19/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1872%2Fa
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
 [/us/usc/t19/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155
-[/us/pl/96/39/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs302
+[/us/pl/96/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIII
 [/us/stat/93/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F236
-[/us/pl/103/182/s381/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs381%2Fb
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2129
-[/us/pl/103/465/s343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs343%2Fa
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4954
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/103/465/s343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs343%2Fa
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fa
 [/us/usc/t19/s2511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fb
-[/us/pl/103/465/s343/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs343%2Fb%2F2
-[/us/pl/103/465/s343/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs343%2Fb%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fb
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/103/465/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs344
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4955
-[/us/pl/103/465/s341–344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs341%E2%80%93344
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2516
 [/us/usc/t7/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs903
 [/us/usc/t19/s3511/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F17

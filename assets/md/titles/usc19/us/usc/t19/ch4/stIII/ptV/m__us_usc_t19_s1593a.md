@@ -203,7 +203,7 @@
 
         (3) if the monetary penalty is based on negligence, the United States shall have the burden of proof to establish the act or omission constituting the violation, and the alleged violator shall have the burden of providing evidence that the act or omission did not occur as a result of negligence.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 593A, as added [Pub. L. 103–182, title VI, § 622(a)][/us/pl/103/182/s622/a], Dec. 8, 1993, [107 Stat. 2181][/us/stat/107/2181]; amended [Pub. L. 108–429, title I, § 1563(f)][/us/pl/108/429/s1563/f], Dec. 3, 2004, [118 Stat. 2587][/us/stat/118/2587].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 593A, as added [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 622(a), Dec. 8, 1993, [107 Stat. 2181][/us/stat/107/2181]; amended [Pub. L. 108–429, title I][/us/pl/108/429/tI], § 1563(f), Dec. 3, 2004, [118 Stat. 2587][/us/stat/118/2587].)
 
  __Amendments__ 
 
@@ -215,7 +215,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–182, title VI, § 622(b)][/us/pl/103/182/s622/b], Dec. 8, 1993, [107 Stat. 2186][/us/stat/107/2186], provided that: 
+[Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 622(b), Dec. 8, 1993, [107 Stat. 2186][/us/stat/107/2186], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] applies to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin.”
 
@@ -235,15 +235,15 @@
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/103/182/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs622%2Fa
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2181
-[/us/pl/108/429/s1563/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1563%2Ff
+[/us/pl/108/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtI
 [/us/stat/118/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2587
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/108/429/s1563/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs1563%2Fg%2F1
 [/us/usc/t19/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1313
-[/us/pl/103/182/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs622%2Fb
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2186
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

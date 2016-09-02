@@ -23,7 +23,7 @@
 
         The Under Secretary for International Trade shall immediately publish any determination made under subsection (a) on the website of the International Trade Administration of the Department of Commerce, and in any other manner the Under Secretary considers appropriate.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 805, as added [Pub. L. 110–246, title III, § 3301(a)][/us/pl/110/246/s3301/a], June 18, 2008, [122 Stat. 1851][/us/stat/122/1851].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 805, as added [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3301(a), June 18, 2008, [122 Stat. 1851][/us/stat/122/1851].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t19/s1683b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683b%2Fa
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/110/246/s3301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3301%2Fa
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1851
 
 

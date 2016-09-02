@@ -71,7 +71,7 @@
 
         (3) is a corporation or other legal entity in which the importer or person of account directly or indirectly owns, controls, or holds power to vote 20 percent or more of the outstanding voting stock or shares in the entity.
 
-([Pub. L. 97–446, title III, § 307][/us/pl/97/446/s307], Jan. 12, 1983, [96 Stat. 2358][/us/stat/96/2358].)
+([Pub. L. 97–446, title III][/us/pl/97/446/tIII], § 307, Jan. 12, 1983, [96 Stat. 2358][/us/stat/96/2358].)
 
  __Delegation of Functions__ 
 
@@ -89,7 +89,7 @@
 [/us/usc/t19/s2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2609
 [/us/usc/t19/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2604
 [/us/usc/t19/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2604
-[/us/pl/97/446/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2Fs307
+[/us/pl/97/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F446%2FtIII
 [/us/stat/96/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2358
 [/us/usc/t19/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2602
 

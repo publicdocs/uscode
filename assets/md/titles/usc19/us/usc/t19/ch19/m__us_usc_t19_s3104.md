@@ -91,7 +91,7 @@
 
         (12) monitoring and effective dispute settlement mechanisms to facilitate compliance with matters referred to in the preceding paragraphs of this subsection.
 
-([Pub. L. 100–418, title I, § 1375][/us/pl/100/418/s1375], Aug. 23, 1988, [102 Stat. 1218][/us/stat/102/1218].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1375, Aug. 23, 1988, [102 Stat. 1218][/us/stat/102/1218].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 
 [/us/usc/t19/s3103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3103%2Fa
 [/us/usc/t19/s3103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3103%2Fc%2F1%2FB
-[/us/pl/100/418/s1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1375
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1218
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1121

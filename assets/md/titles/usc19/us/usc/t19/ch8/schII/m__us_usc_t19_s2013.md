@@ -23,7 +23,7 @@
 
         In the case of liquidated customs entries, the retroactive effect pursuant to subsection (a) of any proclamation shall apply only upon request therefor filed with the customs officer concerned on or before the 90th day after the date of such proclamation and subject to such other conditions as the President may specify.
 
-([Pub. L. 89–283, title II, § 203][/us/pl/89/283/s203], Oct. 21, 1965, [79 Stat. 1018][/us/stat/79/1018].)
+([Pub. L. 89–283, title II][/us/pl/89/283/tII], § 203, Oct. 21, 1965, [79 Stat. 1018][/us/stat/79/1018].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t19/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2011
-[/us/pl/89/283/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs203
+[/us/pl/89/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2FtII
 [/us/stat/79/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1018
 
 

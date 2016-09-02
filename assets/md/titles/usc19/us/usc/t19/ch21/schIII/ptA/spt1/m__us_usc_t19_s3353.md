@@ -45,7 +45,7 @@
 
         For purposes of this subpart, the provisions of paragraphs (1), (2), and (3) of [section 1330(d) of this title][/us/usc/t19/s1330/d] shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under [section 2252 of this title][/us/usc/t19/s2252].
 
-([Pub. L. 103–182, title III, § 303][/us/pl/103/182/s303], Dec. 8, 1993, [107 Stat. 2101][/us/stat/107/2101].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 303, Dec. 8, 1993, [107 Stat. 2101][/us/stat/107/2101].)
 
 ----------
 
@@ -59,7 +59,7 @@
 [/us/usc/t19/s3354/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3354%2Fc
 [/us/usc/t19/s1330/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1330%2Fd
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
-[/us/pl/103/182/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs303
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2101
 
 

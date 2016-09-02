@@ -29,7 +29,7 @@
 
         (3) take a leadership role in negotiating a standardized methodology among Participants for reporting statistics on imports and exports of rough diamonds.
 
-([Pub. L. 108–19, § 10][/us/pl/108/19/s10], Apr. 25, 2003, [117 Stat. 635][/us/stat/117/635].)
+([Pub. L. 108–19][/us/pl/108/19], § 10, Apr. 25, 2003, [117 Stat. 635][/us/stat/117/635].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs10
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F635
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 

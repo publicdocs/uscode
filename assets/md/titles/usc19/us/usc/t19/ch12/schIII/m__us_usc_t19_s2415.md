@@ -63,7 +63,7 @@
 
             (B) By no later than the date that is 6 months after the date on which an advisory panel is established under paragraph (1)(A), the advisory panel shall submit to the Trade Representative and to the Congress a report on measures that the advisory panel recommends be taken by the United States to promote the competitiveness of the domestic industry affected by the export targeting that is the subject of the affirmative determination made under [section 2414(a)(1)(A) of this title][/us/usc/t19/s2414/a/1/A].
 
-([Pub. L. 93–618, title III, § 305][/us/pl/93/618/s305], as added [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 299][/us/stat/93/299]; amended [Pub. L. 98–573, title III, § 304(g)][/us/pl/98/573/s304/g], Oct. 30, 1984, [98 Stat. 3006][/us/stat/98/3006]; [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1172][/us/stat/102/1172]; [Pub. L. 108–429, title II, § 2201(c)][/us/pl/108/429/s2201/c], Dec. 3, 2004, [118 Stat. 2599][/us/stat/118/2599].)
+([Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 305, as added [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 901, July 26, 1979, [93 Stat. 299][/us/stat/93/299]; amended [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 304(g), Oct. 30, 1984, [98 Stat. 3006][/us/stat/98/3006]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(a), Aug. 23, 1988, [102 Stat. 1172][/us/stat/102/1172]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2201(c), Dec. 3, 2004, [118 Stat. 2599][/us/stat/118/2599].)
 
  __Amendments__ 
 
@@ -98,14 +98,14 @@
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
 [/us/usc/t19/s2414/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414%2Fa%2F1%2FA
 [/us/usc/t19/s2414/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414%2Fa%2F1%2FA
-[/us/pl/93/618/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs305
-[/us/pl/96/39/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs901
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F299
-[/us/pl/98/573/s304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs304%2Fg
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3006
-[/us/pl/100/418/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1172
-[/us/pl/108/429/s2201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2201%2Fc
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2599
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

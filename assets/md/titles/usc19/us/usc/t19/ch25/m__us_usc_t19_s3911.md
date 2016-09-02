@@ -31,7 +31,7 @@
 
         For each country identified in subsection (a)(3), the President, during such period as this chapter is in effect, shall, every 6 months after the initial report in which the country was identified, transmit to the Congress a report that explains what actions have been taken by the United States or such country since the previous report to ensure that diamonds the exportation of which was not controlled through the Kimberley Process Certification Scheme are not being imported from that country into the United States. The requirement to issue a semiannual report with respect to a country under this subsection shall remain in effect until such time as the country is controlling the importation and exportation of rough diamonds through the Kimberley Process Certification Scheme.
 
-([Pub. L. 108–19, § 12][/us/pl/108/19/s12], Apr. 25, 2003, [117 Stat. 636][/us/stat/117/636].)
+([Pub. L. 108–19][/us/pl/108/19], § 12, Apr. 25, 2003, [117 Stat. 636][/us/stat/117/636].)
 
  __Delegation of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/108/19/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19%2Fs12
+[/us/pl/108/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F19
 [/us/stat/117/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F636
 [/us/usc/t19/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3901
 

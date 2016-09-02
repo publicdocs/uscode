@@ -17,7 +17,7 @@
 
     Wherever in this chapter any action or thing is required to be done or maintained under the supervision of customs officers, such supervision may be directed and continuous or by occasional verification as may be required by regulations of the Secretary of the Treasury, or, in the absence of such regulations for a particular case, as the principal customs officer concerned shall direct.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 646, as added [Aug. 8, 1953, ch. 397, § 22][/us/act/1953-08-08/ch397/s22], [67 Stat. 520][/us/stat/67/520].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 646, as added [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 22, [67 Stat. 520][/us/stat/67/520].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/act/1953-08-08/ch397/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs22
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F520
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304
 

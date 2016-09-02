@@ -19,7 +19,7 @@
 
         The Trade Representative shall monitor the implementation of each measure undertaken, or agreement that is entered into, by a foreign country to provide a satisfactory resolution of a matter subject to investigation under this subchapter or subject to dispute settlement proceedings to enforce the rights of the United States under a trade agreement providing for such proceedings.
 
-    (b) __Further action__ 
+    (b) __Action on the basis of monitoring__ 
 
         (1) __In general__ 
 
@@ -61,21 +61,39 @@
 
                 The Trade Representative shall include on the retaliation list, and on any revised lists, reciprocal goods of the industries affected by the failure of the foreign country or countries to implement the recommendation made pursuant to a dispute settlement proceeding under the World Trade Organization, except in cases where existing retaliation and its corresponding preliminary retaliation list do not already meet this requirement.
 
-    (c) __Consultations__ 
+    (c) __Exercise of WTO authorization to suspend concessions or other obligations__ 
 
-    Before making any determination under subsection (b), the Trade Representative shall—
+    If—
+
+        (1) action has terminated pursuant to [section 2417(c) of this title][/us/usc/t19/s2417/c],
+
+        (2) the petitioner or any representative of the domestic industry that would benefit from reinstatement of action has submitted to the Trade Representative a written request for reinstatement of action, and
+
+        (3) the Trade Representatives  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Representative”. </sup></sup>  has completed the requirements of subsection (d) and [section 2417(c)(3) of this title][/us/usc/t19/s2417/c/3],
+
+        the Trade Representative may at any time determine to take action under [section 2411(c) of this title][/us/usc/t19/s2411/c] to exercise an authorization to suspend concessions or other obligations under Article 22 of the Understanding on Rules and Procedures Governing the Settlement of Disputes (referred to in [section 3511(d)(16) of this title][/us/usc/t19/s3511/d/16]).
+
+    (d) __Consultations__ 
+
+    Before making any determination under subsection (b) or (c), the Trade Representative shall—
 
         (1) consult with the petitioner, if any, involved in the initial investigation under this subchapter and with representatives of the domestic industry concerned; and
 
         (2) provide an opportunity for the presentation of views by interested persons.
 
-([Pub. L. 93–618, title III, § 306][/us/pl/93/618/s306], as added [Pub. L. 96–39, title IX, § 901][/us/pl/96/39/s901], July 26, 1979, [93 Stat. 299][/us/stat/93/299]; amended [Pub. L. 100–418, title I, § 1301(a)][/us/pl/100/418/s1301/a], Aug. 23, 1988, [102 Stat. 1173][/us/stat/102/1173]; [Pub. L. 103–465, title III, § 314(e)][/us/pl/103/465/s314/e], Dec. 8, 1994, [108 Stat. 4941][/us/stat/108/4941]; [Pub. L. 104–295, § 20(c)(1)][/us/pl/104/295/s20/c/1], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 106–200, title IV, § 407][/us/pl/106/200/s407], May 18, 2000, [114 Stat. 293][/us/stat/114/293].)
+([Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 306, as added [Pub. L. 96–39, title IX][/us/pl/96/39/tIX], § 901, July 26, 1979, [93 Stat. 299][/us/stat/93/299]; amended [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1301(a), Aug. 23, 1988, [102 Stat. 1173][/us/stat/102/1173]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 314(e), Dec. 8, 1994, [108 Stat. 4941][/us/stat/108/4941]; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(1), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 407, May 18, 2000, [114 Stat. 293][/us/stat/114/293]; [Pub. L. 114–125, title VI][/us/pl/114/125/tVI], § 602(a), (b)(2), (3), Feb. 24, 2016, [130 Stat. 184][/us/stat/130/184].)
 
  __References in Text__ 
 
     The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(2)(E), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
  __Amendments__ 
+
+    2016—Subsec. (b). [Pub. L. 114–125][/us/pl/114/125], § 602(b)(2), substituted “Action on the basis of monitoring” for “Further action” in heading.
+
+    Subsec. (c). [Pub. L. 114–125][/us/pl/114/125], § 602(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+    Subsec. (d). [Pub. L. 114–125][/us/pl/114/125], § 602(a)(1), (b)(3), redesignated subsec. (c) as (d) and inserted “or (c)” after “subsection (b)” in introductory provisions.
 
     2000—Subsec. (b)(2). [Pub. L. 106–200][/us/pl/106/200] designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (F).
 
@@ -112,18 +130,27 @@
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
 [/us/usc/t19/s2414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2414%2Fa%2F1
 [/us/usc/t19/s3511/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F16
-[/us/pl/93/618/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs306
-[/us/pl/96/39/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs901
+[/us/usc/t19/s2417/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2417%2Fc
+[/us/usc/t19/s2417/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2417%2Fc%2F3
+[/us/usc/t19/s2411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411%2Fc
+[/us/usc/t19/s3511/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F16
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
+[/us/pl/96/39/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIX
 [/us/stat/93/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F299
-[/us/pl/100/418/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1301%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1173
-[/us/pl/103/465/s314/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs314%2Fe
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4941
-[/us/pl/104/295/s20/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F1
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
-[/us/pl/106/200/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs407
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F293
+[/us/pl/114/125/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVI
+[/us/stat/130/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F184
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

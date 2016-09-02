@@ -27,7 +27,7 @@
 
         An order under the provisions of this section revoking the grant issued by the Board shall be final and conclusive, unless within ninety days after its service the grantee appeals to the court of appeals for the circuit in which the zone is located by filing with the clerk of said court a written petition praying that the order of the Board be set aside. Such order shall be stayed pending the disposition of appellate proceedings by the court. The clerk of the court in which such a petition is filed shall immediately cause a copy thereof to be delivered to the Board and it shall thereupon file in the court the record in the proceedings held before it under this section, as provided in [section 2112 of title 28][/us/usc/t28/s2112]. The testimony and evidence taken or submitted before the Board, duly certified and filed as a part of the record, shall be considered by the court as the evidence in the case.
 
-([June 18, 1934, ch. 590, § 18][/us/act/1934-06-18/ch590/s18], [48 Stat. 1002][/us/stat/48/1002]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 11][/us/pl/85/791/s11], Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 18, [48 Stat. 1002][/us/stat/48/1002]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 11, Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945].)
 
  __Amendments__ 
 
@@ -45,13 +45,13 @@
 ----------
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/act/1934-06-18/ch590/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs18
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1002
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs11
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F945
 [/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112

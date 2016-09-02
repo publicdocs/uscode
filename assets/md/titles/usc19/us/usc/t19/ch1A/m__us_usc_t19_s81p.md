@@ -27,13 +27,13 @@
 
         The Board shall make a report to Congress annually containing a summary of zone operations.
 
-([June 18, 1934, ch. 590, § 16][/us/act/1934-06-18/ch590/s16], [48 Stat. 1002][/us/stat/48/1002]; [Pub. L. 96–609, title II, § 204][/us/pl/96/609/s204], Dec. 28, 1980, [94 Stat. 3561][/us/stat/94/3561]; [Pub. L. 99–386, title II, § 203(b)][/us/pl/99/386/s203/b], Aug. 22, 1986, [100 Stat. 823][/us/stat/100/823].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 16, [48 Stat. 1002][/us/stat/48/1002]; [Pub. L. 96–609, title II][/us/pl/96/609/tII], § 204, Dec. 28, 1980, [94 Stat. 3561][/us/stat/94/3561]; [Pub. L. 99–386, title II][/us/pl/99/386/tII], § 203(b), Aug. 22, 1986, [100 Stat. 823][/us/stat/100/823].)
 
  __Amendments__ 
 
-    1986—Subsec. (b). [Pub. L. 99–386, § 203(b)(1)][/us/pl/99/386/s203/b/1], substituted “reports on zone operations” for “reports containing a full statement of all the operations, receipts, and expenditures, and such other information as the Board may require”.
+    1986—Subsec. (b). [Pub. L. 99–386][/us/pl/99/386], § 203(b)(1), substituted “reports on zone operations” for “reports containing a full statement of all the operations, receipts, and expenditures, and such other information as the Board may require”.
 
-    Subsec. (c). [Pub. L. 99–386, § 203(b)(2)][/us/pl/99/386/s203/b/2], added subsec. (c) and struck out former subsec. (c) which required the Board to make an annual report to Congress containing a summary of the operation and fiscal condition of each zone, and transmit copies of the annual report of each grantee.
+    Subsec. (c). [Pub. L. 99–386][/us/pl/99/386], § 203(b)(2), added subsec. (c) and struck out former subsec. (c) which required the Board to make an annual report to Congress containing a summary of the operation and fiscal condition of each zone, and transmit copies of the annual report of each grantee.
 
     1980—Subsec. (c). [Pub. L. 96–609][/us/pl/96/609] substituted “by April 1 of each year” for “on the first day of each regular session”.
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs16
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1002
-[/us/pl/96/609/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F609%2Fs204
+[/us/pl/96/609/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F609%2FtII
 [/us/stat/94/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3561
-[/us/pl/99/386/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs203%2Fb
+[/us/pl/99/386/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtII
 [/us/stat/100/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F823
-[/us/pl/99/386/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs203%2Fb%2F1
-[/us/pl/99/386/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs203%2Fb%2F2
+[/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
+[/us/pl/99/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386
 [/us/pl/96/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F609
 
 

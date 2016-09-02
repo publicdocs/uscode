@@ -35,7 +35,7 @@
 
         Tangible personal property imported from outside the United States and held in a zone for the purpose of storage, sale, exhibition, repackaging, assembly, distribution, sorting, grading, cleaning, mixing, display, manufacturing, or processing, and tangible personal property produced in the United States and held in a zone for exportation, either in its original form or as altered by any of the above processes, shall be exempt from State and local ad valorem taxation.
 
-([June 18, 1934, ch. 590, § 15][/us/act/1934-06-18/ch590/s15], [48 Stat. 1002][/us/stat/48/1002]; [Pub. L. 98–573, title II, § 231(b)(1)][/us/pl/98/573/s231/b/1], Oct. 30, 1984, [98 Stat. 2991][/us/stat/98/2991].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 15, [48 Stat. 1002][/us/stat/48/1002]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 231(b)(1), Oct. 30, 1984, [98 Stat. 2991][/us/stat/98/2991].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–573, title II, § 231(b)(2)][/us/pl/98/573/s231/b/2], Oct. 30, 1984, [98 Stat. 2991][/us/stat/98/2991], provided that: 
+[Pub. L. 98–573, title II][/us/pl/98/573/tII], § 231(b)(2), Oct. 30, 1984, [98 Stat. 2991][/us/stat/98/2991], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1983.”
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs15
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1002
-[/us/pl/98/573/s231/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs231%2Fb%2F1
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2991
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
-[/us/pl/98/573/s231/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs231%2Fb%2F2
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2991
 
 

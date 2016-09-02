@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t19/ch4/stII/ptII/m__us_usc_t19_s1337.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptII/m__us_usc_t19_s1338.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337a)
 
-## § 1337a. Repealed. [Pub. L. 100–418, title I, § 1342(c)][/us/pl/100/418/s1342/c], Aug. 23, 1988, [102 Stat. 1215][/us/stat/102/1215]
+## § 1337a. Repealed. [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1342(c), Aug. 23, 1988, [102 Stat. 1215][/us/stat/102/1215]
 
     Section, [act July 2, 1940, ch. 515][/us/act/1940-07-02/ch515], [54 Stat. 724][/us/stat/54/724], related to importation of products produced under process covered by claims of unexpired patent.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1342/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1342%2Fc
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1215
 [/us/act/1940-07-02/ch515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch515
 [/us/stat/54/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F724

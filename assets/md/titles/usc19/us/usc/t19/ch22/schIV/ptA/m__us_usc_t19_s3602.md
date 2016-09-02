@@ -71,13 +71,13 @@
 
         (3) the term “special safeguard agricultural good” means an agricultural good on which an additional duty may be imposed pursuant to the special safeguard provisions of Article 5.
 
-([Pub. L. 103–465, title IV, § 405][/us/pl/103/465/s405], Dec. 8, 1994, [108 Stat. 4961][/us/stat/108/4961]; [Pub. L. 104–295, § 11][/us/pl/104/295/s11], Oct. 11, 1996, [110 Stat. 3520][/us/stat/110/3520].)
+([Pub. L. 103–465, title IV][/us/pl/103/465/tIV], § 405, Dec. 8, 1994, [108 Stat. 4961][/us/stat/108/4961]; [Pub. L. 104–295][/us/pl/104/295], § 11, Oct. 11, 1996, [110 Stat. 3520][/us/stat/110/3520].)
 
  __Amendments__ 
 
-    1996—Subsec. (b)(1). [Pub. L. 104–295, § 11(1)][/us/pl/104/295/s11/1], substituted “1(b)” for “1(a)”.
+    1996—Subsec. (b)(1). [Pub. L. 104–295][/us/pl/104/295], § 11(1), substituted “1(b)” for “1(a)”.
 
-    Subsec. (b)(2). [Pub. L. 104–295, § 11(2)][/us/pl/104/295/s11/2], substituted “1(a)” for “1(b)”.
+    Subsec. (b)(2). [Pub. L. 104–295][/us/pl/104/295], § 11(2), substituted “1(a)” for “1(b)”.
 
  __Uruguay Round Agreements: Entry Into Force__ 
 
@@ -96,12 +96,12 @@
 
 [/us/usc/t19/s3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3332
 [/us/usc/t19/s3511/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F2
-[/us/pl/103/465/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs405
+[/us/pl/103/465/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIV
 [/us/stat/108/4961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4961
-[/us/pl/104/295/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs11
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3520
-[/us/pl/104/295/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs11%2F1
-[/us/pl/104/295/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs11%2F2
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd
 [/us/usc/t19/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511
 [/us/usc/t19/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511

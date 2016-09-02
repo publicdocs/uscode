@@ -53,7 +53,7 @@
 
         As used in this section, the term “entry” includes a withdrawal from warehouse for consumption.
 
-([Pub. L. 109–53, title II, § 205][/us/pl/109/53/s205], Aug. 2, 2005, [119 Stat. 483][/us/stat/119/483]; [Pub. L. 109–280, title XIV, § 1634(d)][/us/pl/109/280/s1634/d], Aug. 17, 2006, [120 Stat. 1168][/us/stat/120/1168].)
+([Pub. L. 109–53, title II][/us/pl/109/53/tII], § 205, Aug. 2, 2005, [119 Stat. 483][/us/stat/119/483]; [Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1634(d), Aug. 17, 2006, [120 Stat. 1168][/us/stat/120/1168].)
 
  __Termination of Section__ 
 
@@ -80,9 +80,9 @@
 
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/usc/t19/s4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4033
-[/us/pl/109/53/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs205
+[/us/pl/109/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtII
 [/us/stat/119/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F483
-[/us/pl/109/280/s1634/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1634%2Fd
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1168
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280

@@ -23,7 +23,7 @@
 
         For provisions of law regarding remedies available to domestic persons alleging that standards activities engaged in by Parties to the Agreement (other than the United States) violate the obligations of the Agreement, see [section 2411 of this title][/us/usc/t19/s2411].
 
-([Pub. L. 96–39, title IV, § 424][/us/pl/96/39/s424], July 26, 1979, [93 Stat. 248][/us/stat/93/248].)
+([Pub. L. 96–39, title IV][/us/pl/96/39/tIV], § 424, July 26, 1979, [93 Stat. 248][/us/stat/93/248].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t19/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1872%2Fa
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
-[/us/pl/96/39/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs424
+[/us/pl/96/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIV
 [/us/stat/93/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F248
 
 

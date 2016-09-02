@@ -23,7 +23,7 @@
 
         The President shall study the desirability of entering into trade agreements with countries in the northern portion of the western hemisphere to promote the economic growth of the United States and such countries and the mutual expansion of market opportunities and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate his findings and conclusions within 2 years after July 26, 1979. The study shall include an examination of competitive opportunities and conditions of competition between such countries and the United States in the agricultural, energy, and other appropriate sectors.
 
-([Pub. L. 93–618, title VI, § 612][/us/pl/93/618/s612], Jan. 3, 1975, [88 Stat. 2076][/us/stat/88/2076]; [Pub. L. 96–39, title XI, § 1104(a)][/us/pl/96/39/s1104/a], (b)(1), July 26, 1979, [93 Stat. 310][/us/stat/93/310].)
+([Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 612, Jan. 3, 1975, [88 Stat. 2076][/us/stat/88/2076]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1104(a), (b)(1), July 26, 1979, [93 Stat. 310][/us/stat/93/310].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/93/618/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs612
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2076
-[/us/pl/96/39/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1104%2Fa
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F310
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39

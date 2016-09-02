@@ -17,7 +17,7 @@
 
     No import relief may be provided under this part with respect to any article after the date that is 5 years after the date on which the Agreement enters into force.
 
-([Pub. L. 109–53, title III, § 326][/us/pl/109/53/s326], Aug. 2, 2005, [119 Stat. 494][/us/stat/119/494].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 326, Aug. 2, 2005, [119 Stat. 494][/us/stat/119/494].)
 
  __Termination of Section__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/109/53/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs326
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F494
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107

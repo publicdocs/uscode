@@ -33,7 +33,7 @@
 
         together with interest as provided by [section 1677g of this title][/us/usc/t19/s1677g].
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 707, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 161][/us/stat/93/161]; amended [Pub. L. 103–465, title II, § 264(c)(10)][/us/pl/103/465/s264/c/10], Dec. 8, 1994, [108 Stat. 4914][/us/stat/108/4914].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 707, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 161][/us/stat/93/161]; amended [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 264(c)(10), Dec. 8, 1994, [108 Stat. 4914][/us/stat/108/4914].)
 
  __Amendments__ 
 
@@ -62,9 +62,9 @@
 [/us/usc/t19/s1671e/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671e%2Fa%2F3
 [/us/usc/t19/s1677g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677g
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F161
-[/us/pl/103/465/s264/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs264%2Fc%2F10
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4914
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465

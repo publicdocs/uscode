@@ -59,7 +59,7 @@
 
         (3) The modification must not alter existing conditions of competition for the affected United States industry, labor, or trade.
 
-([Pub. L. 100–418, title I, § 1205][/us/pl/100/418/s1205], Aug. 23, 1988, [102 Stat. 1150][/us/stat/102/1150].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1205, Aug. 23, 1988, [102 Stat. 1150][/us/stat/102/1150].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1205
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1150
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/100/418/s1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1216

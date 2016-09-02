@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s101.md) | [Next](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s106.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs105)
+[Previous](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s102...104.md) | [Next](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s106.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs105)
 
-## § 105. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 643][/us/stat/80/643]
+## § 105. Repealed. [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 643][/us/stat/80/643]
 
-    Section, [act Sept. 8, 1916, ch. 463, § 708][/us/act/1916-09-08/ch463/s708], [39 Stat. 798][/us/stat/39/798], related to unauthorized divulging of information and punishment for offenses.
-
-----------
-
-[Previous](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s101.md) | [Next](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s106.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs105)
+    Section, [act Sept. 8, 1916, ch. 463][/us/act/1916-09-08/ch463], § 708, [39 Stat. 798][/us/stat/39/798], related to unauthorized divulging of information and punishment for offenses.
 
 ----------
+
+[Previous](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s102...104.md) | [Next](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s106.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs105)
+
+----------
 ----------
 
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F643
-[/us/act/1916-09-08/ch463/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463%2Fs708
+[/us/act/1916-09-08/ch463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch463
 [/us/stat/39/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F798
 
 

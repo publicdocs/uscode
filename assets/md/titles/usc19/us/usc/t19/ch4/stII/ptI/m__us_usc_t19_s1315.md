@@ -37,7 +37,7 @@
 
         No administrative ruling resulting in the imposition of a higher rate of duty or charge than the Secretary of the Treasury shall find to have been applicable to imported merchandise under an established and uniform practice shall be effective with respect to articles entered for consumption or withdrawn from warehouse for consumption prior to the expiration of thirty days after the date of publication in the Federal Register of notice of such ruling; but this provision shall not apply with respect to the imposition of antidumping duties, or the imposition of countervailing duties under [section 1303 of this title][/us/usc/t19/s1303] (as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or [section 1671 of this title][/us/usc/t19/s1671]. This subsection shall not apply with respect to increases in rates of duty resulting from the enactment of the Harmonized Tariff Schedule of the United States to replace the Tariff Schedules of the United States.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 315, [46 Stat. 695][/us/stat/46/695]; [June 25, 1938, ch. 679, § 6][/us/act/1938-06-25/ch679/s6], [52 Stat. 1081][/us/stat/52/1081]; [Aug. 8, 1953, ch. 397, § 3(a)][/us/act/1953-08-08/ch397/s3/a], [67 Stat. 508][/us/stat/67/508]; [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 93–618, title III, § 331(c)][/us/pl/93/618/s331/c], Jan. 3, 1975, [88 Stat. 2053][/us/stat/88/2053]; [Pub. L. 95–410, title I, § 101][/us/pl/95/410/s101], title II, § 204, Oct. 3, 1978, [92 Stat. 888][/us/stat/92/888], 900; [Pub. L. 96–39, title XI, § 1106(e)][/us/pl/96/39/s1106/e], July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 100–418, title I, § 1213(c)][/us/pl/100/418/s1213/c], Aug. 23, 1988, [102 Stat. 1155][/us/stat/102/1155]; [Pub. L. 103–182, title VI, § 633][/us/pl/103/182/s633], Dec. 8, 1993, [107 Stat. 2198][/us/stat/107/2198]; [Pub. L. 103–465, title II, § 261(d)(1)(B)(i)][/us/pl/103/465/s261/d/1/B/i], Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title III, § 315, [46 Stat. 695][/us/stat/46/695]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], § 6, [52 Stat. 1081][/us/stat/52/1081]; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 3(a), [67 Stat. 508][/us/stat/67/508]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(b), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 331(c), Jan. 3, 1975, [88 Stat. 2053][/us/stat/88/2053]; [Pub. L. 95–410, title I][/us/pl/95/410/tI], § 101, title II, § 204, Oct. 3, 1978, [92 Stat. 888][/us/stat/92/888], 900; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1106(e), July 26, 1979, [93 Stat. 312][/us/stat/93/312]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1213(c), Aug. 23, 1988, [102 Stat. 1155][/us/stat/102/1155]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 633, Dec. 8, 1993, [107 Stat. 2198][/us/stat/107/2198]; [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 261(d)(1)(B)(i), Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909].)
 
  __References in Text__ 
 
@@ -49,19 +49,19 @@
 
     1994—Subsec. (d). [Pub. L. 103–465][/us/pl/103/465] inserted “(as in effect on the day before the effective date of title II of the Uruguay Round Agreements Act) or [section 1671 of this title][/us/usc/t19/s1671]” after “[section 1303 of this title][/us/usc/t19/s1303]”.
 
-    1993—Subsec. (a). [Pub. L. 103–182, § 633(1)][/us/pl/103/182/s633/1], substituted “Customs Service by written, electronic or such other means as the Secretary by regulation shall prescribe,” for “appropriate customs officer in the form and manner prescribed by regulations of the Secretary of the Treasury,” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182], § 633(1), substituted “Customs Service by written, electronic or such other means as the Secretary by regulation shall prescribe,” for “appropriate customs officer in the form and manner prescribed by regulations of the Secretary of the Treasury,” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 103–182, § 633(2)][/us/pl/103/182/s633/2], substituted “custody of the Customs Service” for “customs custody”.
+    Subsec. (b). [Pub. L. 103–182][/us/pl/103/182], § 633(2), substituted “custody of the Customs Service” for “customs custody”.
 
-    Subsec. (c). [Pub. L. 103–182, § 633(3)][/us/pl/103/182/s633/3], substituted “chapter 98 of the Harmonized Tariff Schedule of the United States” for “paragraph 813”.
+    Subsec. (c). [Pub. L. 103–182][/us/pl/103/182], § 633(3), substituted “chapter 98 of the Harmonized Tariff Schedule of the United States” for “paragraph 813”.
 
     1988—Subsec. (d). [Pub. L. 100–418][/us/pl/100/418] inserted at end “This subsection shall not apply with respect to increases in rates of duty resulting from the enactment of the Harmonized Tariff Schedule of the United States to replace the Tariff Schedules of the United States.”
 
-    1979—Subsec. (d). [Pub. L. 96–39][/us/pl/96/39] amended directory language of [Pub. L. 93–618, § 331(c)][/us/pl/93/618/s331/c], to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
+    1979—Subsec. (d). [Pub. L. 96–39][/us/pl/96/39] amended directory language of [Pub. L. 93–618][/us/pl/93/618], § 331(c), to correct a typographical error, and did not involve any change in text. See 1975 Amendment note below.
 
-    1978—Subsec. (a)(3). [Pub. L. 95–410, § 101][/us/pl/95/410/s101], added par. (3).
+    1978—Subsec. (a)(3). [Pub. L. 95–410][/us/pl/95/410], § 101, added par. (3).
 
-    Subsec. (d). [Pub. L. 95–410, § 204][/us/pl/95/410/s204], substituted “publication in the Federal Register” for “publication in the weekly Treasury Decisions”.
+    Subsec. (d). [Pub. L. 95–410][/us/pl/95/410], § 204, substituted “publication in the Federal Register” for “publication in the weekly Treasury Decisions”.
 
     1975—Subsec. (d). [Pub. L. 93–618][/us/pl/93/618], as amended by [Pub. L. 96–39][/us/pl/96/39], inserted “or the imposition of countervailing duties under [section 1303 of this title][/us/usc/t19/s1303]” after “antidumping duties”.
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title II, § 261(d)(2)][/us/pl/103/465/s261/d/2], Dec. 8, 1994, [108 Stat. 4910][/us/stat/108/4910], provided that: 
+[Pub. L. 103–465, title II][/us/pl/103/465/tII], § 261(d)(2), Dec. 8, 1994, [108 Stat. 4910][/us/stat/108/4910], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 1337, 1671, 1677i, 2192, and 2194 of this title and provisions set out as a note under [section 1303 of this title][/us/usc/t19/s1303]\] shall take effect on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under [section 1671 of this title][/us/usc/t19/s1671]\].
 
@@ -83,7 +83,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–618, title III, § 331(d)][/us/pl/93/618/s331/d], Jan. 3, 1975, [88 Stat. 2053][/us/stat/88/2053], as amended by [Pub. L. 103–465, title II, § 261(d)(1)(A)(i)][/us/pl/103/465/s261/d/1/A/i], Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909], provided that:
+[Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 331(d), Jan. 3, 1975, [88 Stat. 2053][/us/stat/88/2053], as amended by [Pub. L. 103–465, title II][/us/pl/103/465/tII], § 261(d)(1)(A)(i), Dec. 8, 1994, [108 Stat. 4909][/us/stat/108/4909], provided that:
 
 >     “(1) The amendments made by this section \[amending this section and sections 1303 and 1516 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 3, 1975.\]
 
@@ -122,23 +122,23 @@
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F695
-[/us/act/1938-06-25/ch679/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs6
+[/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1081
-[/us/act/1953-08-08/ch397/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs3%2Fa
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F508
-[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/93/618/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs331%2Fc
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
 [/us/stat/88/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2053
-[/us/pl/95/410/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs101
+[/us/pl/95/410/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2FtI
 [/us/stat/92/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F888
-[/us/pl/96/39/s1106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1106%2Fe
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F312
-[/us/pl/100/418/s1213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1213%2Fc
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1155
-[/us/pl/103/182/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs633
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2198
-[/us/pl/103/465/s261/d/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FB%2Fi
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4909
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
@@ -147,28 +147,28 @@
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
-[/us/pl/103/182/s633/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs633%2F1
-[/us/pl/103/182/s633/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs633%2F2
-[/us/pl/103/182/s633/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs633%2F3
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
-[/us/pl/93/618/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs331%2Fc
-[/us/pl/95/410/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs101
-[/us/pl/95/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410%2Fs204
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
+[/us/pl/95/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F410
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
-[/us/pl/103/465/s261/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F2
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4910
 [/us/usc/t19/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303
 [/us/usc/t19/s1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1671
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
-[/us/pl/93/618/s331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs331%2Fd
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
 [/us/stat/88/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2053
-[/us/pl/103/465/s261/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs261%2Fd%2F1%2FA%2Fi
+[/us/pl/103/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtII
 [/us/stat/108/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4909
 [/us/usc/t19/s1303/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1303%2Fa%2F4
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271

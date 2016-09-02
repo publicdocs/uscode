@@ -37,7 +37,7 @@
 
         No investigation may be initiated under this section with respect to any CAFTA–DR article if, after the date that the Agreement enters into force, import relief has been provided with respect to that CAFTA–DR article under this part.
 
-([Pub. L. 109–53, title III, § 311][/us/pl/109/53/s311], Aug. 2, 2005, [119 Stat. 488][/us/stat/119/488].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 311, Aug. 2, 2005, [119 Stat. 488][/us/stat/119/488].)
 
  __Termination of Section__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
-[/us/pl/109/53/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs311
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F488
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s283.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs288)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s286 _us_usc_t19_s287.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s289...292.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs288)
 
 ## § 288. Documented vessels
 
     Documented vessels with a registry endorsement, engaged in foreign trade on the Great Lakes or their tributary or connecting waters in trade with Canada, shall not thereby become liable to the payment of entry and clearance fees.
 
-(R.S. § 2793; [Sept. 25, 1941, ch. 423][/us/act/1941-09-25/ch423], [55 Stat. 733][/us/stat/55/733]; [Pub. L. 103–182, title VI, § 686(a)(1)][/us/pl/103/182/s686/a/1], Dec. 8, 1993, [107 Stat. 2220][/us/stat/107/2220]; [Pub. L. 104–324, title XI, § 1115(b)(4)][/us/pl/104/324/s1115/b/4], Oct. 19, 1996, [110 Stat. 3972][/us/stat/110/3972]; [Pub. L. 109–304, § 14(a)][/us/pl/109/304/s14/a], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].)
+(R.S. § 2793; [Sept. 25, 1941, ch. 423][/us/act/1941-09-25/ch423], [55 Stat. 733][/us/stat/55/733]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 686(a)(1), Dec. 8, 1993, [107 Stat. 2220][/us/stat/107/2220]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1115(b)(4), Oct. 19, 1996, [110 Stat. 3972][/us/stat/110/3972]; [Pub. L. 109–304][/us/pl/109/304], § 14(a), Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].)
 
  __Codification__ 
 
@@ -35,30 +35,20 @@
 
     1941—Act Sept. 25, 1941, inserted exception and proviso at end of section.
 
-§§ 289 to 292. __Repealed.__  __[__  __Pub. L. 103–182, title VI, § 690(a)(1)__  __][/us/pl/103/182/s690/a/1]__  __, (5)–(7),__  __Dec. 8, 1993__  __,__  __[__  __107 Stat. 2222__  __][/us/stat/107/2222]__  __, 2223__ 
-
-    Section 289, R.S. § 2792; [May 28, 1908, ch. 212, § 1][/us/act/1908-05-28/ch212/s1], [35 Stat. 424][/us/stat/35/424], exempted certain ferryboats and passenger vessels from clearance fees.
-
-    Section 290, R.S. § 3122, mandated that master of any enrolled or licensed vessel destined with cargo from a place in the United States, at which there may be no customhouse, to a port where there may be a customhouse, deliver a manifest within twenty-four hours after arriving at port of destination.
-
-    Section 291, R.S. § 3124; [Feb. 14, 1903, ch. 552, § 10][/us/act/1903-02-14/ch552/s10], [32 Stat. 829][/us/stat/32/829]; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097], related to format and content of forms for manifests, certificates of clearance, and oaths.
-
-    Section 292, R.S. § 3125, related to penalty for neglect or failure to comply with sections 286, 287, 290, and 291 of this title.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s283.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s293.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs288)
+[Previous](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s286 _us_usc_t19_s287.md) | [Next](./../../../../../..//us/usc/t19/ch3/stIV/pt2/m__us_usc_t19_s289...292.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs288)
 
 ----------
 ----------
 
 [/us/act/1941-09-25/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-09-25%2Fch423
 [/us/stat/55/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F733
-[/us/pl/103/182/s686/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs686%2Fa%2F1
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2220
-[/us/pl/104/324/s1115/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1115%2Fb%2F4
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3972
-[/us/pl/109/304/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs14%2Fa
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1702
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1674
@@ -67,12 +57,5 @@
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
-[/us/pl/103/182/s690/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fa%2F1
-[/us/stat/107/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2222
-[/us/act/1908-05-28/ch212/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-28%2Fch212%2Fs1
-[/us/stat/35/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F424
-[/us/act/1903-02-14/ch552/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs10
-[/us/stat/32/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F829
-[/us/stat/60/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1097
 
 

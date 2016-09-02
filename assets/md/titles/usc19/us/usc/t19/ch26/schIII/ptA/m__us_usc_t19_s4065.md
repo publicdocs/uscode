@@ -17,7 +17,7 @@
 
     For purposes of section 123 of the Trade Act of 1974 ([19 U.S.C. 2133][/us/usc/t19/s2133]), any import relief provided by the President under [section 4063 of this title][/us/usc/t19/s4063] shall be treated as action taken under chapter 1 of title II of such Act \[[19 U.S.C. 2251][/us/usc/t19/s2251] et seq.\].
 
-([Pub. L. 109–53, title III, § 315][/us/pl/109/53/s315], Aug. 2, 2005, [119 Stat. 492][/us/stat/119/492].)
+([Pub. L. 109–53, title III][/us/pl/109/53/tIII], § 315, Aug. 2, 2005, [119 Stat. 492][/us/stat/119/492].)
 
  __Termination of Section__ 
 
@@ -41,7 +41,7 @@
 [/us/usc/t19/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2133
 [/us/usc/t19/s4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4063
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
-[/us/pl/109/53/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs315
+[/us/pl/109/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIII
 [/us/stat/119/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F492
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618

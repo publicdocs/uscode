@@ -17,7 +17,7 @@
 
     If the Board finds that the proposed plans and location are suitable for the accomplishment of the purpose of a foreign trade zone under this chapter, and that the facilities and appurtenances which it is proposed to provide are sufficient it shall make the grant.
 
-([June 18, 1934, ch. 590, § 7][/us/act/1934-06-18/ch590/s7], [48 Stat. 1000][/us/stat/48/1000].)
+([June 18, 1934, ch. 590][/us/act/1934-06-18/ch590], § 7, [48 Stat. 1000][/us/stat/48/1000].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-18/ch590/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590%2Fs7
+[/us/act/1934-06-18/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch590
 [/us/stat/48/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1000
 
 

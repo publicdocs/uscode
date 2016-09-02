@@ -23,7 +23,7 @@
 
     (3) for purposes of determining whether action by the President is appropriate under any provision of the Trade Act of 1974 \[[19 U.S.C. 2101][/us/usc/t19/s2101] et seq.\] with respect to any act, policy, or practice referred to in [section 2804(b)(1) of this title][/us/usc/t19/s2804/b/1].
 
-([Pub. L. 98–573, title IX, § 906][/us/pl/98/573/s906], Oct. 30, 1984, [98 Stat. 3050][/us/stat/98/3050].)
+([Pub. L. 98–573, title IX][/us/pl/98/573/tIX], § 906, Oct. 30, 1984, [98 Stat. 3050][/us/stat/98/3050].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/usc/t19/s2804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2804%2Fb
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 [/us/usc/t19/s2804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2804%2Fb%2F1
-[/us/pl/98/573/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs906
+[/us/pl/98/573/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIX
 [/us/stat/98/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3050
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

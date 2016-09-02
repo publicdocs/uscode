@@ -59,7 +59,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 317, [42 Stat. 944][/us/stat/42/944]. That section was superseded by section 338 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title III][/us/act/1922-09-21/ch356/tIII], § 317, [42 Stat. 944][/us/stat/42/944]. That section was superseded by section 338 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
 
 ----------
 
@@ -70,7 +70,7 @@
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F704
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIII
 [/us/stat/42/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F944
 
 

@@ -23,7 +23,7 @@
 
         The United States shall not release any gold belonging to Czechoslovakia and controlled directly or indirectly by the United States pursuant to the provisions of the Paris Reparations Agreement of January 24, 1946, or otherwise, until such agreement has been approved by the Congress.
 
-([Pub. L. 93–618, title IV, § 408][/us/pl/93/618/s408], Jan. 3, 1975, [88 Stat. 2064][/us/stat/88/2064].)
+([Pub. L. 93–618, title IV][/us/pl/93/618/tIV], § 408, Jan. 3, 1975, [88 Stat. 2064][/us/stat/88/2064].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/618/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs408
+[/us/pl/93/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIV
 [/us/stat/88/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2064
 
 

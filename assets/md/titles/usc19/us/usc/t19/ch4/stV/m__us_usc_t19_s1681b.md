@@ -23,7 +23,7 @@
 
         Any tobacco product, cigarette papers, or tube, or any smokeless tobacco product, that was imported into the United States or is sought to be imported into the United States in violation of, or without meeting the requirements of, [section 1681a of this title][/us/usc/t19/s1681a] shall be forfeited to the United States, or to any State in which such tobacco product, cigarette papers, or tube is found. Notwithstanding any other provision of law, any product forfeited to the United States, or to any State, pursuant to this subtitle shall be destroyed.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 803, as added [Pub. L. 106–476, title IV, § 4004(a)][/us/pl/106/476/s4004/a], Nov. 9, 2000, [114 Stat. 2180][/us/stat/114/2180]; amended [Pub. L. 109–432, div. C, title IV, § 401(d)][/us/pl/109/432/s401/d], (e)(1), (3), Dec. 20, 2006, [120 Stat. 3048][/us/stat/120/3048], 3049.)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VIII, § 803, as added [Pub. L. 106–476, title IV][/us/pl/106/476/tIV], § 4004(a), Nov. 9, 2000, [114 Stat. 2180][/us/stat/114/2180]; amended [Pub. L. 109–432, div. C, title IV][/us/pl/109/432/dC/tIV], § 401(d), (e)(1), (3), Dec. 20, 2006, [120 Stat. 3048][/us/stat/120/3048], 3049.)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–432, § 401(e)(1)][/us/pl/109/432/s401/e/1], inserted “or smokeless tobacco products” after “cigarettes”.
+    2006—Subsec. (a). [Pub. L. 109–432][/us/pl/109/432], § 401(e)(1), inserted “or smokeless tobacco products” after “cigarettes”.
 
-    Subsec. (b). [Pub. L. 109–432, § 401(d)][/us/pl/109/432/s401/d], (e)(3), in first sentence, inserted “, or any smokeless tobacco product,” before “that was imported” and “, or to any State in which such tobacco product, cigarette papers, or tube is found” before period at end and, in second sentence, inserted “, or to any State,” after “United States”.
+    Subsec. (b). [Pub. L. 109–432][/us/pl/109/432], § 401(d), (e)(3), in first sentence, inserted “, or any smokeless tobacco product,” before “that was imported” and “, or to any State in which such tobacco product, cigarette papers, or tube is found” before period at end and, in second sentence, inserted “, or to any State,” after “United States”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -53,13 +53,13 @@
 [/us/usc/t19/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1681a
 [/us/usc/t19/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1681a
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/106/476/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4004%2Fa
+[/us/pl/106/476/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtIV
 [/us/stat/114/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2180
-[/us/pl/109/432/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fd
+[/us/pl/109/432/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtIV
 [/us/stat/120/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3048
 [/us/usc/t19/s1683a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1683a
-[/us/pl/109/432/s401/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fe%2F1
-[/us/pl/109/432/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fd
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fg
 [/us/usc/t19/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1681

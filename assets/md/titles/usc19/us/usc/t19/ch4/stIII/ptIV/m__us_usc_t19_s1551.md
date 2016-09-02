@@ -25,13 +25,13 @@
 
     upon application, may, in the discretion of the Secretary, be designated as a carrier of bonded merchandise for the final release of which from customs custody a permit has not been issued. A private carrier, upon application, may, in the discretion of the Secretary, be designated under the preceding sentence as a carrier of bonded merchandise, subject to such regulations and, in the case of each applicant, to such special terms and conditions as the Secretary may prescribe to safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 551, [46 Stat. 742][/us/stat/46/742]; [Dec. 28, 1945, ch. 605][/us/act/1945-12-28/ch605], [59 Stat. 667][/us/stat/59/667]; [Pub. L. 87–598][/us/pl/87/598], Aug. 24, 1962, [76 Stat. 400][/us/stat/76/400]; [Pub. L. 87–854][/us/pl/87/854], Oct. 23, 1962, [76 Stat. 1130][/us/stat/76/1130]; [Pub. L. 90–240, § 3][/us/pl/90/240/s3], Jan. 2, 1968, [81 Stat. 776][/us/stat/81/776].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 551, [46 Stat. 742][/us/stat/46/742]; [Dec. 28, 1945, ch. 605][/us/act/1945-12-28/ch605], [59 Stat. 667][/us/stat/59/667]; [Pub. L. 87–598][/us/pl/87/598], Aug. 24, 1962, [76 Stat. 400][/us/stat/76/400]; [Pub. L. 87–854][/us/pl/87/854], Oct. 23, 1962, [76 Stat. 1130][/us/stat/76/1130]; [Pub. L. 90–240][/us/pl/90/240], § 3, Jan. 2, 1968, [81 Stat. 776][/us/stat/81/776].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 551, [42 Stat. 975][/us/stat/42/975]. That section was superseded by section 551 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 551, [42 Stat. 975][/us/stat/42/975]. That section was superseded by section 551 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Prior provisions concerning transportation of merchandise in bond without appraisement to another port of entry were contained in the Immediate Transportation [Act of June 10, 1880, ch. 190][/us/act/1880-06-10/ch190], [21 Stat. 173][/us/stat/21/173], as amended, section 3 of which required the merchandise to be transported by carriers designated by the Secretary of the Treasury, and required them to give bonds as the Secretary should require. That act was repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 643, [42 Stat. 989][/us/stat/42/989].
+    Prior provisions concerning transportation of merchandise in bond without appraisement to another port of entry were contained in the Immediate Transportation [Act of June 10, 1880, ch. 190][/us/act/1880-06-10/ch190], [21 Stat. 173][/us/stat/21/173], as amended, section 3 of which required the merchandise to be transported by carriers designated by the Secretary of the Treasury, and required them to give bonds as the Secretary should require. That act was repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 643, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -58,13 +58,13 @@
 [/us/stat/76/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F400
 [/us/pl/87/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F854
 [/us/stat/76/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1130
-[/us/pl/90/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F240%2Fs3
+[/us/pl/90/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F240
 [/us/stat/81/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F776
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F975
 [/us/act/1880-06-10/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1880-06-10%2Fch190
 [/us/stat/21/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F173
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/90/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F240
 [/us/pl/87/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F854

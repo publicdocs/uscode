@@ -17,11 +17,11 @@
 
     The President may waive the application of the provisions of chapter 83 of title 41 in the case of any procurement of civil aircraft and related articles of a country or instrumentality which is a party to the Agreement on Trade in Civil Aircraft referred to in [section 2503(c) of this title][/us/usc/t19/s2503/c] and approved under [section 2503(a) of this title][/us/usc/t19/s2503/a]. The President may modify or withdraw any waiver granted pursuant to this section.
 
-([Pub. L. 96–39, title III, § 303][/us/pl/96/39/s303], July 26, 1979, [93 Stat. 238][/us/stat/93/238]; [Pub. L. 103–465, title III, § 342(a)][/us/pl/103/465/s342/a], Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953].)
+([Pub. L. 96–39, title III][/us/pl/96/39/tIII], § 303, July 26, 1979, [93 Stat. 238][/us/stat/93/238]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 342(a), Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953].)
 
  __Codification__ 
 
-    In text, “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a][/us/usc/t41/s10a] et seq.), popularly referred to as the Buy American Act,” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a][/us/usc/t41/s10a] et seq.), popularly referred to as the Buy American Act,” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t19/s2503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fc
 [/us/usc/t19/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fa
-[/us/pl/96/39/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs303
+[/us/pl/96/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIII
 [/us/stat/93/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F238
-[/us/pl/103/465/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Fa
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4953
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s2503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fc

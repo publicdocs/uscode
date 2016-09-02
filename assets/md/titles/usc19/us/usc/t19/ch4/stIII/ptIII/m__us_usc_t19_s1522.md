@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 522, [46 Stat. 739][/us/stat/46/739], amended section 372 of former Title 31. See [section 5151 of Title 31][/us/usc/t31/s5151], Money and Finance.
+    Section, [act June 17, 1930, ch. 497, title IV][/us/act/1930-06-17/ch497/tIV], § 522, [46 Stat. 739][/us/stat/46/739], amended section 372 of former Title 31. See [section 5151 of Title 31][/us/usc/t31/s5151], Money and Finance.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIV
 [/us/stat/46/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F739
 [/us/usc/t31/s5151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5151
 

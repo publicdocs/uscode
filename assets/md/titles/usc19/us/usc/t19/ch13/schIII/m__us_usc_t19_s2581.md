@@ -35,11 +35,11 @@
 
         (6) any Act enacted explicitly for the purpose of implementing an international agreement to which the United States is a party, including such agreements relating to commodities, but not including any agreement relating to cheese or dairy products.
 
-([Pub. L. 96–39, title XI, § 1102][/us/pl/96/39/s1102], July 26, 1979, [93 Stat. 307][/us/stat/93/307]; [Pub. L. 100–418, title I, § 1214(k)][/us/pl/100/418/s1214/k], Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158].)
+([Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1102, July 26, 1979, [93 Stat. 307][/us/stat/93/307]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(k), Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158].)
 
  __References in Text__ 
 
-    The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is [Pub. L. 95–223, title II][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
+    The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is [Pub. L. 95–223, title II][/us/pl/95/223/tII], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
     The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202].
 
@@ -55,7 +55,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–39, title XI, § 1114][/us/pl/96/39/s1114], July 26, 1979, [93 Stat. 317][/us/stat/93/317], provided that: 
+[Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1114, July 26, 1979, [93 Stat. 317][/us/stat/93/317], provided that: 
 
 > “Except as otherwise provided in this title, this title \[enacting this subchapter, amending the Tariff Schedules of the United States and sections 1315, 1337, 2112, 2119, 2131, 2155, 2192, 2253, 2432, 2434, 2435, 2462, 2463, 2464, 2481, and 2486 of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and [section 301 of Title 13][/us/usc/t13/s301], Census, enacting provisions set out as notes under sections 2111, 2112, and 2464 of this title and 301 of Title 13, and amending a provision set out as a note under [section 2101 of this title][/us/usc/t19/s2101]\] shall take effect on the date of enactment of this Act \[July 26, 1979\].”
 
@@ -71,11 +71,11 @@
 [/us/usc/t7/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs624
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/usc/t7/s1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1854
-[/us/pl/96/39/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1102
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F307
-[/us/pl/100/418/s1214/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fk
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1158
-[/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
+[/us/pl/95/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2FtII
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
@@ -85,7 +85,7 @@
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
-[/us/pl/96/39/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1114
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F317
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t13/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs301

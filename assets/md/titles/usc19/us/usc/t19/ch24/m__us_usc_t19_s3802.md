@@ -367,19 +367,19 @@
 
         In determining whether to enter into negotiations with a particular country, the President shall take into account the extent to which that country has implemented, or has accelerated the implementation of, its obligations under the Uruguay Round Agreements.
 
-([Pub. L. 107–210, div. B, title XXI, § 2102][/us/pl/107/210/s2102], Aug. 6, 2002, [116 Stat. 994][/us/stat/116/994]; [Pub. L. 108–429, title II, § 2004(a)(16)][/us/pl/108/429/s2004/a/16], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
+([Pub. L. 107–210, div. B, title XXI][/us/pl/107/210/dB/tXXI], § 2102, Aug. 6, 2002, [116 Stat. 994][/us/stat/116/994]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(a)(16), Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591].)
 
  __References in Text__ 
 
     Executive Order 13141, referred to in subsec. (c)(4) and (5), is set out as a note under [section 2112 of this title][/us/usc/t19/s2112].
 
-    This chapter, referred to in subsec. (c)(8), was in the original “this title”, meaning title XXI of [Pub. L. 107–210, div. B][/us/pl/107/210], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993], which enacted this chapter and amended sections 2151 to 2155, 2191, and 2212 of this title. For complete classification of title XXI to the Code, see Tables.
+    This chapter, referred to in subsec. (c)(8), was in the original “this title”, meaning title XXI of [Pub. L. 107–210, div. B][/us/pl/107/210/dB], Aug. 6, 2002, [116 Stat. 993][/us/stat/116/993], which enacted this chapter and amended sections 2151 to 2155, 2191, and 2212 of this title. For complete classification of title XXI to the Code, see Tables.
 
  __Amendments__ 
 
-    2004—Subsec. (c)(8). [Pub. L. 108–429, § 2004(a)(16)(A)][/us/pl/108/429/s2004/a/16/A], substituted “this chapter” for “this Act”.
+    2004—Subsec. (c)(8). [Pub. L. 108–429][/us/pl/108/429], § 2004(a)(16)(A), substituted “this chapter” for “this Act”.
 
-    Subsec. (c)(12). [Pub. L. 108–429, § 2004(a)(16)(B)][/us/pl/108/429/s2004/a/16/B], substituted “government is engaged” for “government engaged”.
+    Subsec. (c)(12). [Pub. L. 108–429][/us/pl/108/429], § 2004(a)(16)(B), substituted “government is engaged” for “government engaged”.
 
  __Delegation of Functions__ 
 
@@ -404,15 +404,15 @@
 [/us/usc/t19/s3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3807
 [/us/usc/t19/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2211
 [/us/usc/t19/s3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3807
-[/us/pl/107/210/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs2102
+[/us/pl/107/210/dB/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB%2FtXXI
 [/us/stat/116/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F994
-[/us/pl/108/429/s2004/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F16
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2591
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/107/210/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdB
 [/us/stat/116/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F993
-[/us/pl/108/429/s2004/a/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F16%2FA
-[/us/pl/108/429/s2004/a/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fa%2F16%2FB
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
+[/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
 [/us/usc/t19/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3801
 
 

@@ -69,7 +69,7 @@
 
     Merchandise may be withdrawn from bonded warehouse for consumption, or for exportation to Canada if the duty exemption under paragraph (4) of the preceding sentence does not apply, upon the payment of duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition. The basis for the assessment of duties on such merchandise so withdrawn for consumption shall be the adjusted final appraised value, and if the rate of duty is based upon or regulated in any manner by the value of the merchandise, such rate shall be based upon or regulated by such adjusted final appraised value. The scouring or carbonizing of wool shall not be considered a process of manufacture within the provisions of this section. Under such regulations as the Secretary of the Treasury shall prescribe, imported merchandise which has been entered and which has remained in continuous customs custody may be manipulated in accordance with the provisions of this section under customs supervision and at the risk and expense of the consignee, but elsewhere than in a bonded warehouse, in cases where neither the protection of the revenue nor the proper conduct of customs business requires that such manipulation be done in bonded warehouse.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 562, [46 Stat. 745][/us/stat/46/745]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], §§ 2, 25, [52 Stat. 1077][/us/stat/52/1077], 1088; [Aug. 8, 1953, ch. 397, § 18(f)][/us/act/1953-08-08/ch397/s18/f], [67 Stat. 518][/us/stat/67/518]; [June 30, 1955, ch. 258, § 2(a)(5)][/us/act/1955-06-30/ch258/s2/a/5], [69 Stat. 242][/us/stat/69/242]; [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 100–449, title II, § 204(c)(4)][/us/pl/100/449/s204/c/4], Sept. 28, 1988, [102 Stat. 1863][/us/stat/102/1863]; [Pub. L. 103–182, title II, § 203(b)(4)][/us/pl/103/182/s203/b/4], Dec. 8, 1993, [107 Stat. 2090][/us/stat/107/2090]; [Pub. L. 108–77, title II, § 203(b)(4)][/us/pl/108/77/s203/b/4], Sept. 3, 2003, [117 Stat. 928][/us/stat/117/928]; [Pub. L. 109–280, title XIV, § 1635(e)][/us/pl/109/280/s1635/e], Aug. 17, 2006, [120 Stat. 1170][/us/stat/120/1170].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 562, [46 Stat. 745][/us/stat/46/745]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], §§ 2, 25, [52 Stat. 1077][/us/stat/52/1077], 1088; [Aug. 8, 1953, ch. 397][/us/act/1953-08-08/ch397], § 18(f), [67 Stat. 518][/us/stat/67/518]; [June 30, 1955, ch. 258][/us/act/1955-06-30/ch258], § 2(a)(5), [69 Stat. 242][/us/stat/69/242]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(b), June 2, 1970, [84 Stat. 287][/us/stat/84/287]; [Pub. L. 100–449, title II][/us/pl/100/449/tII], § 204(c)(4), Sept. 28, 1988, [102 Stat. 1863][/us/stat/102/1863]; [Pub. L. 103–182, title II][/us/pl/103/182/tII], § 203(b)(4), Dec. 8, 1993, [107 Stat. 2090][/us/stat/107/2090]; [Pub. L. 108–77, title II][/us/pl/108/77/tII], § 203(b)(4), Sept. 3, 2003, [117 Stat. 928][/us/stat/117/928]; [Pub. L. 109–280, title XIV][/us/pl/109/280/tXIV], § 1635(e), Aug. 17, 2006, [120 Stat. 1170][/us/stat/120/1170].)
 
  __Amendment of Section__ 
 
@@ -85,9 +85,9 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 562, [42 Stat. 978][/us/stat/42/978]. That section was superseded by section 562 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 562, [42 Stat. 978][/us/stat/42/978]. That section was superseded by section 562 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-    Prior provisions substantially the same, in effect, as those in this section with respect to the quantity of merchandise which might be withdrawn, were contained in R.S. § 2980, prior to repeal by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    Prior provisions substantially the same, in effect, as those in this section with respect to the quantity of merchandise which might be withdrawn, were contained in R.S. § 2980, prior to repeal by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -166,19 +166,19 @@
 [/us/stat/46/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F745
 [/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1077
-[/us/act/1953-08-08/ch397/s18/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs18%2Ff
+[/us/act/1953-08-08/ch397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397
 [/us/stat/67/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F518
-[/us/act/1955-06-30/ch258/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch258%2Fs2%2Fa%2F5
+[/us/act/1955-06-30/ch258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch258
 [/us/stat/69/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F242
-[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
-[/us/pl/100/449/s204/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs204%2Fc%2F4
+[/us/pl/100/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtII
 [/us/stat/102/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1863
-[/us/pl/103/182/s203/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs203%2Fb%2F4
+[/us/pl/103/182/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtII
 [/us/stat/107/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2090
-[/us/pl/108/77/s203/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs203%2Fb%2F4
+[/us/pl/108/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2FtII
 [/us/stat/117/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F928
-[/us/pl/109/280/s1635/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1635%2Fe
+[/us/pl/109/280/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIV
 [/us/stat/120/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1170
 [/us/pl/108/77/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs107%2Fc
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
@@ -186,9 +186,9 @@
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/pl/108/77/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77%2Fs203%2Fa
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F978
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F77

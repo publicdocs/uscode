@@ -29,7 +29,7 @@
 
         Any hearing required or permitted under this subtitle shall be conducted after notice published in the Federal Register, and a transcript of the hearing shall be prepared and made available to the public. The hearing shall not be subject to the provisions of subchapter II of chapter 5 of title 5, or to section 702 of such title.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 774, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 186][/us/stat/93/186]; amended [Pub. L. 98–573, title VI, § 616][/us/pl/98/573/s616], Oct. 30, 1984, [98 Stat. 3037][/us/stat/98/3037].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 774, as added [Pub. L. 96–39, title I][/us/pl/96/39/tI], § 101, July 26, 1979, [93 Stat. 186][/us/stat/93/186]; amended [Pub. L. 98–573, title VI][/us/pl/98/573/tVI], § 616, Oct. 30, 1984, [98 Stat. 3037][/us/stat/98/3037].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
-[/us/pl/96/39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs101
+[/us/pl/96/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtI
 [/us/stat/93/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F186
-[/us/pl/98/573/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs616
+[/us/pl/98/573/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtVI
 [/us/stat/98/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3037
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573

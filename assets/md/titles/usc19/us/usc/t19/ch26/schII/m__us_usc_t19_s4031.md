@@ -67,7 +67,7 @@
 
         For purposes of subsections (a) and (b), with respect to any good for which the base rate in the Schedule of the United States to Annex 3.3 of the Agreement is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
 
-([Pub. L. 109–53, title II, § 201][/us/pl/109/53/s201], Aug. 2, 2005, [119 Stat. 467][/us/stat/119/467].)
+([Pub. L. 109–53, title II][/us/pl/109/53/tII], § 201, Aug. 2, 2005, [119 Stat. 467][/us/stat/119/467].)
 
  __Termination of Section__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t19/s2702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2702%2Fa
 [/us/usc/t26/s274/h/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs274%2Fh%2F6%2FB
 [/us/usc/t19/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4014
-[/us/pl/109/53/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs201
+[/us/pl/109/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtII
 [/us/stat/119/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F467
 [/us/pl/109/53/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs107%2Fd
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618

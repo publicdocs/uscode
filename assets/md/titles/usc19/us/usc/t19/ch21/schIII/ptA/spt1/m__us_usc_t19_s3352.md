@@ -59,11 +59,11 @@
 
         (2) any textile or apparel article set out in Appendix 1.1 of Annex 300–B of the Agreement.
 
-([Pub. L. 103–182, title III, § 302][/us/pl/103/182/s302], Dec. 8, 1993, [107 Stat. 2100][/us/stat/107/2100].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 302, Dec. 8, 1993, [107 Stat. 2100][/us/stat/107/2100].)
 
  __References in Text__ 
 
-    Paragraphs (3) and (4) of subsection (b) of [section 2252 of this title][/us/usc/t19/s2252], referred to in subsec. (c)(1), were repealed and a new paragraph (3) was added by [Pub. L. 103–465, title III, § 301(c)][/us/pl/103/465/s301/c], Dec. 8, 1994, [108 Stat. 4932][/us/stat/108/4932].
+    Paragraphs (3) and (4) of subsection (b) of [section 2252 of this title][/us/usc/t19/s2252], referred to in subsec. (c)(1), were repealed and a new paragraph (3) was added by [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 301(c), Dec. 8, 1994, [108 Stat. 4932][/us/stat/108/4932].
 
 ----------
 
@@ -74,10 +74,10 @@
 
 [/us/usc/t19/s2252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252%2Fa
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
-[/us/pl/103/182/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs302
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2100
 [/us/usc/t19/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2252
-[/us/pl/103/465/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs301%2Fc
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4932
 
 

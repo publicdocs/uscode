@@ -37,11 +37,11 @@
 
         Whenever the Secretary determines that any firm no longer requires assistance under this part, he shall terminate the certification of eligibility of such firm and promptly have notice of such termination published in the Federal Register. Such termination shall take effect on the termination date specified by the Secretary.
 
-([Pub. L. 93–618, title II, § 252][/us/pl/93/618/s252], Jan. 3, 1975, [88 Stat. 2030][/us/stat/88/2030]; [Pub. L. 99–272, title XIII, § 13006(a)(1)][/us/pl/99/272/s13006/a/1], (2), Apr. 7, 1986, [100 Stat. 304][/us/stat/100/304].)
+([Pub. L. 93–618, title II][/us/pl/93/618/tII], § 252, Jan. 3, 1975, [88 Stat. 2030][/us/stat/88/2030]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13006(a)(1), (2), Apr. 7, 1986, [100 Stat. 304][/us/stat/100/304].)
 
  __Amendments__ 
 
-    1986—Subsec. (b)(1). [Pub. L. 99–272, § 13006(a)(1)][/us/pl/99/272/s13006/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Adjustment assistance under this part consists of technical assistance and financial assistance, which may be furnished singly or in combination. The Secretary shall approve a firm’s application for adjustment assistance only if he determines—
+    1986—Subsec. (b)(1). [Pub. L. 99–272][/us/pl/99/272], § 13006(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Adjustment assistance under this part consists of technical assistance and financial assistance, which may be furnished singly or in combination. The Secretary shall approve a firm’s application for adjustment assistance only if he determines—
 
     “(A) that the firm has no reasonable access to financing through the private capital market, and
 
@@ -53,7 +53,7 @@
 
     “(iii) demonstrates that the firm will make all reasonable efforts to use its own resources for economic development.”
 
-    Subsecs. (c), (d). [Pub. L. 99–272, § 13006(a)(2)][/us/pl/99/272/s13006/a/2], redesignated subsec. (d) as (c) and struck out former subsec. (c) which authorized the Secretary to assist an eligible firm in the preparation of a viable adjustment proposal.
+    Subsecs. (c), (d). [Pub. L. 99–272][/us/pl/99/272], § 13006(a)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which authorized the Secretary to assist an eligible firm in the preparation of a viable adjustment proposal.
 
  __Termination Date__ 
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
-[/us/pl/93/618/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs252
+[/us/pl/93/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtII
 [/us/stat/88/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2030
-[/us/pl/99/272/s13006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13006%2Fa%2F1
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F304
-[/us/pl/99/272/s13006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13006%2Fa%2F1
-[/us/pl/99/272/s13006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13006%2Fa%2F2
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 

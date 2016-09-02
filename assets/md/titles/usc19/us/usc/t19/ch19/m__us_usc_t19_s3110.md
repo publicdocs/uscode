@@ -27,7 +27,7 @@
 
         The Secretary of Commerce shall, by no later than the date that is 1 year after August 23, 1988, submit to the Congress and the President a report on the findings and recommendations reached by the Secretary of Commerce as a result of the study conducted under subsection (a). Such report shall be referred to the appropriate committees of the House of Representatives and of the Senate.
 
-([Pub. L. 100–418, title I, § 1381][/us/pl/100/418/s1381], Aug. 23, 1988, [102 Stat. 1224][/us/stat/102/1224].)
+([Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1381, Aug. 23, 1988, [102 Stat. 1224][/us/stat/102/1224].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1381
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1224
 
 

@@ -37,7 +37,7 @@
 
         For purposes of this section and [section 3372(a) of this title][/us/usc/t19/s3372/a], the term “contribute importantly” refers to an important cause, but not necessarily the most important cause.
 
-([Pub. L. 103–182, title III, § 311][/us/pl/103/182/s311], Dec. 8, 1993, [107 Stat. 2106][/us/stat/107/2106].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 311, Dec. 8, 1993, [107 Stat. 2106][/us/stat/107/2106].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t19/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2251
 [/us/usc/t19/s1330/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1330%2Fd
 [/us/usc/t19/s3372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3372%2Fa
-[/us/pl/103/182/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs311
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2106
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

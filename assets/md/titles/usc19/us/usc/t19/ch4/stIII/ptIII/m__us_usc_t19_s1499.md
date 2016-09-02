@@ -143,11 +143,11 @@
 
             (C) Notwithstanding [section 2639 of title 28][/us/usc/t28/s2639], once an action respecting a detention is commenced, unless the Customs Service establishes by a preponderance of the evidence that an admissibility decision has not been reached for good cause, the court shall grant the appropriate relief which may include, but is not limited to, an order to cancel the detention and release the merchandise.
 
-([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 499, [46 Stat. 728][/us/stat/46/728]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], §§ 15, 16(a), [52 Stat. 1084][/us/stat/52/1084]; [Pub. L. 91–271, title III, § 301(k)][/us/pl/91/271/s301/k], June 2, 1970, [84 Stat. 289][/us/stat/84/289]; [Pub. L. 103–182, title VI, § 613(a)][/us/pl/103/182/s613/a], Dec. 8, 1993, [107 Stat. 2171][/us/stat/107/2171].)
+([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 499, [46 Stat. 728][/us/stat/46/728]; [June 25, 1938, ch. 679][/us/act/1938-06-25/ch679], §§ 15, 16(a), [52 Stat. 1084][/us/stat/52/1084]; [Pub. L. 91–271, title III][/us/pl/91/271/tIII], § 301(k), June 2, 1970, [84 Stat. 289][/us/stat/84/289]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 613(a), Dec. 8, 1993, [107 Stat. 2171][/us/stat/107/2171].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 499, [42 Stat. 965][/us/stat/42/965]. That section was superseded by section 499 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+    Provisions similar to those in this section were contained in [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 499, [42 Stat. 965][/us/stat/42/965]. That section was superseded by section 499 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
     A prior provision prohibiting delivery of merchandise liable to be inspected or appraised, until it had been inspected or appraised, or until the packages sent to be inspected or appraised, should be found correctly invoiced, and be so reported, with a further provision as to the taking of bonds conditioned for delivery of the merchandise, and the forfeiture of such bonds, was contained in R.S. § 2899.
 
@@ -159,7 +159,7 @@
 
     A provision concerning returns by weighers, gaugers, and measurers, was contained in R.S. § 2890.
 
-    All of the foregoing sections of the Revised Statutes were repealed by [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title IV, § 642, [42 Stat. 989][/us/stat/42/989].
+    All of the foregoing sections of the Revised Statutes were repealed by [act Sept. 21, 1922, ch. 356, title IV][/us/act/1922-09-21/ch356/tIV], § 642, [42 Stat. 989][/us/stat/42/989].
 
  __Amendments__ 
 
@@ -185,7 +185,7 @@
 
  __Existing Laboratories__ 
 
-[Pub. L. 103–182, title VI, § 613(b)][/us/pl/103/182/s613/b], Dec. 8, 1993, [107 Stat. 2174][/us/stat/107/2174], provided that: 
+[Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 613(b), Dec. 8, 1993, [107 Stat. 2174][/us/stat/107/2174], provided that: 
 
 > “Accreditation under section 499(b) of the Tariff Act of 1930 \[[19 U.S.C. 1499(b)][/us/usc/t19/s1499/b]\] (as added by subsection (a)) is not required for any private laboratory (including any gauger) that was accredited or approved by the Customs Service as of the day before the date of the enactment of this Act \[Dec. 8, 1993\]; but any such laboratory is subject to reaccreditation under the provisions of such section and the regulations promulgated thereunder.”
 
@@ -204,13 +204,13 @@
 [/us/stat/46/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F728
 [/us/act/1938-06-25/ch679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679
 [/us/stat/52/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1084
-[/us/pl/91/271/s301/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fk
+[/us/pl/91/271/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtIII
 [/us/stat/84/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F289
-[/us/pl/103/182/s613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs613%2Fa
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2171
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F965
-[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/act/1922-09-21/ch356/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2FtIV
 [/us/stat/42/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F989
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/91/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271
@@ -220,7 +220,7 @@
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
-[/us/pl/103/182/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs613%2Fb
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2174
 [/us/usc/t19/s1499/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1499%2Fb
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch27/m__us_usc_t19_s4209.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4210)
+[Previous](./../../../..//us/usc/t19/ch27/m__us_usc_t19_s4209.md) | [Next](./../../../..//us/usc/t19/ch28/m__us_usc_t19_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4210)
 
 ## § 4210. Definitions
 
@@ -153,7 +153,7 @@
 
         The term “WTO member” has the meaning given that term in [section 3501(10) of this title][/us/usc/t19/s3501/10].
 
-([Pub. L. 114–26, title I, § 111][/us/pl/114/26/s111], June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
+([Pub. L. 114–26, title I][/us/pl/114/26/tI], § 111, June 29, 2015, [129 Stat. 358][/us/stat/129/358].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch27/m__us_usc_t19_s4209.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4210)
+[Previous](./../../../..//us/usc/t19/ch27/m__us_usc_t19_s4209.md) | [Next](./../../../..//us/usc/t19/ch28/m__us_usc_t19_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4210)
 
 ----------
 ----------
@@ -178,7 +178,7 @@
 [/us/usc/t19/s3511/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F17
 [/us/usc/t19/s3501/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F7
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10
-[/us/pl/114/26/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs111
+[/us/pl/114/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2FtI
 [/us/stat/129/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F358
 [/us/pl/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26
 [/us/stat/129/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F320

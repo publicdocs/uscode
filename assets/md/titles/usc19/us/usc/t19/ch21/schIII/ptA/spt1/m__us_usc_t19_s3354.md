@@ -83,7 +83,7 @@
 
             (B) the rate of duty resulting from the elimination of the tariff in equal annual stages ending on the date set out in the United States Schedule to Annex 302.2 for the elimination of the tariff.
 
-([Pub. L. 103–182, title III, § 304][/us/pl/103/182/s304], Dec. 8, 1993, [107 Stat. 2102][/us/stat/107/2102].)
+([Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 304, Dec. 8, 1993, [107 Stat. 2102][/us/stat/107/2102].)
 
  __North American Free Trade Agreement: Entry Into Force__ 
 
@@ -98,7 +98,7 @@
 
 [/us/usc/t19/s3353/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3353%2Fa
 [/us/usc/t19/s3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3352
-[/us/pl/103/182/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs304
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2102
 [/us/usc/t19/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311
 

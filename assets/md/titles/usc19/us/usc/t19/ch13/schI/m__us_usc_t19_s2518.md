@@ -93,7 +93,7 @@
 
         The term “major industrial country” means any such country as defined in [section 2136 of this title][/us/usc/t19/s2136] and any instrumentality of such a country.
 
-([Pub. L. 96–39, title III, § 308][/us/pl/96/39/s308], July 26, 1979, [93 Stat. 241][/us/stat/93/241]; [Pub. L. 99–47, § 7][/us/pl/99/47/s7], June 11, 1985, [99 Stat. 84][/us/stat/99/84]; [Pub. L. 100–449, title III, § 306][/us/pl/100/449/s306], Sept. 28, 1988, [102 Stat. 1876][/us/stat/102/1876]; [Pub. L. 103–182, title III, § 381(c)][/us/pl/103/182/s381/c], Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 103–465, title III, § 342(f)][/us/pl/103/465/s342/f], Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953]; [Pub. L. 104–295, § 20(c)(12)][/us/pl/104/295/s20/c/12], Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 108–286, title IV, § 401][/us/pl/108/286/s401], Aug. 3, 2004, [118 Stat. 950][/us/stat/118/950]; [Pub. L. 109–53, title IV, § 401][/us/pl/109/53/s401], Aug. 2, 2005, [119 Stat. 495][/us/stat/119/495]; [Pub. L. 109–169, title IV, § 401][/us/pl/109/169/s401], Jan. 11, 2006, [119 Stat. 3599][/us/stat/119/3599]; [Pub. L. 109–283, title IV, § 401][/us/pl/109/283/s401], Sept. 26, 2006, [120 Stat. 1209][/us/stat/120/1209]; [Pub. L. 110–138, title IV, § 401][/us/pl/110/138/s401], Dec. 14, 2007, [121 Stat. 1486][/us/stat/121/1486]; [Pub. L. 112–41, title IV, § 401][/us/pl/112/41/s401], Oct. 21, 2011, [125 Stat. 459][/us/stat/125/459]; [Pub. L. 112–42, title IV, § 401][/us/pl/112/42/s401], Oct. 21, 2011, [125 Stat. 494][/us/stat/125/494]; [Pub. L. 112–43, title IV, § 401][/us/pl/112/43/s401], Oct. 21, 2011, [125 Stat. 529][/us/stat/125/529].)
+([Pub. L. 96–39, title III][/us/pl/96/39/tIII], § 308, July 26, 1979, [93 Stat. 241][/us/stat/93/241]; [Pub. L. 99–47][/us/pl/99/47], § 7, June 11, 1985, [99 Stat. 84][/us/stat/99/84]; [Pub. L. 100–449, title III][/us/pl/100/449/tIII], § 306, Sept. 28, 1988, [102 Stat. 1876][/us/stat/102/1876]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 381(c), Dec. 8, 1993, [107 Stat. 2129][/us/stat/107/2129]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 342(f), Dec. 8, 1994, [108 Stat. 4953][/us/stat/108/4953]; [Pub. L. 104–295][/us/pl/104/295], § 20(c)(12), Oct. 11, 1996, [110 Stat. 3528][/us/stat/110/3528]; [Pub. L. 108–286, title IV][/us/pl/108/286/tIV], § 401, Aug. 3, 2004, [118 Stat. 950][/us/stat/118/950]; [Pub. L. 109–53, title IV][/us/pl/109/53/tIV], § 401, Aug. 2, 2005, [119 Stat. 495][/us/stat/119/495]; [Pub. L. 109–169, title IV][/us/pl/109/169/tIV], § 401, Jan. 11, 2006, [119 Stat. 3599][/us/stat/119/3599]; [Pub. L. 109–283, title IV][/us/pl/109/283/tIV], § 401, Sept. 26, 2006, [120 Stat. 1209][/us/stat/120/1209]; [Pub. L. 110–138, title IV][/us/pl/110/138/tIV], § 401, Dec. 14, 2007, [121 Stat. 1486][/us/stat/121/1486]; [Pub. L. 112–41, title IV][/us/pl/112/41/tIV], § 401, Oct. 21, 2011, [125 Stat. 459][/us/stat/125/459]; [Pub. L. 112–42, title IV][/us/pl/112/42/tIV], § 401, Oct. 21, 2011, [125 Stat. 494][/us/stat/125/494]; [Pub. L. 112–43, title IV][/us/pl/112/43/tIV], § 401, Oct. 21, 2011, [125 Stat. 529][/us/stat/125/529].)
 
  __Amendment of Section__ 
 
@@ -139,11 +139,11 @@
 
     1996—Par. (4)(D). [Pub. L. 104–295][/us/pl/104/295] substituted “under the Agreement” for “under the the Agreement”.
 
-    1994—Par. (1). [Pub. L. 103–465, § 342(f)(1)][/us/pl/103/465/s342/f/1], substituted “[section 3511(d)(17) of this title][/us/usc/t19/s3511/d/17]” for “[section 2503(c) of this title][/us/usc/t19/s2503/c]”.
+    1994—Par. (1). [Pub. L. 103–465][/us/pl/103/465], § 342(f)(1), substituted “[section 3511(d)(17) of this title][/us/usc/t19/s3511/d/17]” for “[section 2503(c) of this title][/us/usc/t19/s2503/c]”.
 
-    Par. (4)(C). [Pub. L. 103–465, § 342(f)(2)(A)][/us/pl/103/465/s342/f/2/A], substituted “for which the United States is obligated to waive Buy National restrictions under—” and cls. (i) and (ii) for “having a contract value of $50,000 or more which would be covered for procurement by the United States under the Agreement on Government Procurement as in effect on the date on which the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel enters into force, but for the SDR 150,000 threshold provided for in article I(1)(b) of the Agreement on Government Procurement.”
+    Par. (4)(C). [Pub. L. 103–465][/us/pl/103/465], § 342(f)(2)(A), substituted “for which the United States is obligated to waive Buy National restrictions under—” and cls. (i) and (ii) for “having a contract value of $50,000 or more which would be covered for procurement by the United States under the Agreement on Government Procurement as in effect on the date on which the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel enters into force, but for the SDR 150,000 threshold provided for in article I(1)(b) of the Agreement on Government Procurement.”
 
-    Par. (4)(D). [Pub. L. 103–465, § 342(f)(2)(B)][/us/pl/103/465/s342/f/2/B], substituted “the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.” for “GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement.”
+    Par. (4)(D). [Pub. L. 103–465][/us/pl/103/465], § 342(f)(2)(B), substituted “the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.” for “GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement.”
 
     1993—Par. (4)(A). [Pub. L. 103–182][/us/pl/103/182] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘eligible product’ means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States.”
 
@@ -202,33 +202,33 @@
 
 [/us/usc/t19/s3511/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F17
 [/us/usc/t19/s2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2136
-[/us/pl/96/39/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs308
+[/us/pl/96/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtIII
 [/us/stat/93/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F241
-[/us/pl/99/47/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47%2Fs7
+[/us/pl/99/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47
 [/us/stat/99/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F84
-[/us/pl/100/449/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs306
+[/us/pl/100/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIII
 [/us/stat/102/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1876
-[/us/pl/103/182/s381/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs381%2Fc
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2129
-[/us/pl/103/465/s342/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Ff
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4953
-[/us/pl/104/295/s20/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295%2Fs20%2Fc%2F12
+[/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
 [/us/stat/110/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3528
-[/us/pl/108/286/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F286%2Fs401
+[/us/pl/108/286/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F286%2FtIV
 [/us/stat/118/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F950
-[/us/pl/109/53/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2Fs401
+[/us/pl/109/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53%2FtIV
 [/us/stat/119/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F495
-[/us/pl/109/169/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F169%2Fs401
+[/us/pl/109/169/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F169%2FtIV
 [/us/stat/119/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3599
-[/us/pl/109/283/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F283%2Fs401
+[/us/pl/109/283/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F283%2FtIV
 [/us/stat/120/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1209
-[/us/pl/110/138/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138%2Fs401
+[/us/pl/110/138/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F138%2FtIV
 [/us/stat/121/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1486
-[/us/pl/112/41/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs401
+[/us/pl/112/41/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2FtIV
 [/us/stat/125/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F459
-[/us/pl/112/42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2Fs401
+[/us/pl/112/42/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2FtIV
 [/us/stat/125/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F494
-[/us/pl/112/43/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs401
+[/us/pl/112/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2FtIV
 [/us/stat/125/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F529
 [/us/pl/112/43/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs107%2Fc
 [/us/pl/112/42/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2Fs107%2Fc
@@ -250,11 +250,11 @@
 [/us/pl/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F53
 [/us/pl/108/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F286
 [/us/pl/104/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F295
-[/us/pl/103/465/s342/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Ff%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t19/s3511/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F17
 [/us/usc/t19/s2503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2503%2Fc
-[/us/pl/103/465/s342/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Ff%2F2%2FA
-[/us/pl/103/465/s342/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs342%2Ff%2F2%2FB
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/99/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F47
