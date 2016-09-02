@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Every 2 years, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.
+        To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection.
 
     (b) __Dean John A. Knauss Marine Policy Fellowship__ 
 
@@ -27,13 +27,15 @@
 
         Amounts available for fellowships under this section, including amounts accepted under [section 1123(c)(4)(F) of this title][/us/usc/t33/s1123/c/4/F] or appropriated under [section 1131 of this title][/us/usc/t33/s1131] to implement this section, shall be used only for award of such fellowships and administrative costs of implementing this section.
 
-([Pub. L. 89–454, title II, § 208][/us/pl/89/454/s208], as added [Pub. L. 94–461, § 2][/us/pl/94/461/s2], Oct. 8, 1976, [90 Stat. 1966][/us/stat/90/1966]; amended [Pub. L. 100–66, § 3][/us/pl/100/66/s3], July 10, 1987, [101 Stat. 384][/us/stat/101/384]; [Pub. L. 100–220, title III, § 3107][/us/pl/100/220/s3107], Dec. 29, 1987, [101 Stat. 1472][/us/stat/101/1472]; [Pub. L. 102–186, § 4(b)(1)(C)][/us/pl/102/186/s4/b/1/C], (D), Dec. 4, 1991, [105 Stat. 1283][/us/stat/105/1283]; [Pub. L. 105–160, § 4(b)(2)][/us/pl/105/160/s4/b/2], Mar. 6, 1998, [112 Stat. 22][/us/stat/112/22]; [Pub. L. 107–299, § 5][/us/pl/107/299/s5], Nov. 26, 2002, [116 Stat. 2346][/us/stat/116/2346]; [Pub. L. 110–394, § 8][/us/pl/110/394/s8], Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207].)
+([Pub. L. 89–454, title II, § 208][/us/pl/89/454/s208], as added [Pub. L. 94–461, § 2][/us/pl/94/461/s2], Oct. 8, 1976, [90 Stat. 1966][/us/stat/90/1966]; amended [Pub. L. 100–66, § 3][/us/pl/100/66/s3], July 10, 1987, [101 Stat. 384][/us/stat/101/384]; [Pub. L. 100–220, title III, § 3107][/us/pl/100/220/s3107], Dec. 29, 1987, [101 Stat. 1472][/us/stat/101/1472]; [Pub. L. 102–186, § 4(b)(1)(C)][/us/pl/102/186/s4/b/1/C], (D), Dec. 4, 1991, [105 Stat. 1283][/us/stat/105/1283]; [Pub. L. 105–160, § 4(b)(2)][/us/pl/105/160/s4/b/2], Mar. 6, 1998, [112 Stat. 22][/us/stat/112/22]; [Pub. L. 107–299, § 5][/us/pl/107/299/s5], Nov. 26, 2002, [116 Stat. 2346][/us/stat/116/2346]; [Pub. L. 110–394, § 8][/us/pl/110/394/s8], Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207]; [Pub. L. 113–188, title II, § 201(c)][/us/pl/113/188/s201/c], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __References in Text__ 
 
     This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title” meaning title II of [Pub. L. 89–454][/us/pl/89/454], which enacted this subchapter, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–188][/us/pl/113/188], which directed amendment of section 208(a) of the National Sea Grant Program Act by striking the fourth sentence, was executed to this section, which is section 208(a) of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, fourth sentence read as follows: “Every 2 years, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
 
     2008—Subsec. (a). [Pub. L. 110–394, § 8(1)][/us/pl/110/394/s8/1], substituted “Every 2 years,” for “Not later than 1 year after November 26, 2002, and every 2 years thereafter,”.
 
@@ -105,7 +107,10 @@
 [/us/stat/116/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2346
 [/us/pl/110/394/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs8
 [/us/stat/122/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4207
+[/us/pl/113/188/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fc
+[/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/110/394/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs8%2F1
 [/us/pl/110/394/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs8%2F2
 [/us/pl/107/299/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F299%2Fs5%2Fa

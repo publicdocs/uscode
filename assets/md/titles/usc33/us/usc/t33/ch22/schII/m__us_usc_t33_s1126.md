@@ -65,25 +65,11 @@
 
         (2) to conduct a merit review of all proposals for grants and contracts to be awarded under [section 1124 of this title][/us/usc/t33/s1124].
 
-    (e) __Annual report on progress__ 
-
-        (1) __Report requirement__ 
-
-            The Secretary shall report annually to the Committee on Resources and the Committee on Science of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, on efforts and progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes, including efforts and progress made by sea grant institutes in being designated as sea grant colleges.
-
-        (2) __Territories and freely associated States__ 
-
-        The report shall include description of—
-
-            (A) efforts made by colleges, universities, associations, institutions, and alliances in United States territories and freely associated States to develop the expertise necessary to be designated as a sea grant institute or sea grant college;
-
-            (B) the administrative, technical, and financial assistance provided by the Secretary to those entities seeking to be designated; and
-
-            (C) the additional actions or activities necessary for those entities to meet the qualifications for such designation under subsection (a)(1) of this section.
-
-([Pub. L. 89–454, title II, § 207][/us/pl/89/454/s207], as added [Pub. L. 94–461, § 2][/us/pl/94/461/s2], Oct. 8, 1976, [90 Stat. 1966][/us/stat/90/1966]; amended [Pub. L. 100–220, title III, § 3104(b)(1)(E)][/us/pl/100/220/s3104/b/1/E], Dec. 29, 1987, [101 Stat. 1470][/us/stat/101/1470]; [Pub. L. 105–160, § 7][/us/pl/105/160/s7], Mar. 6, 1998, [112 Stat. 24][/us/stat/112/24]; [Pub. L. 107–299, § 8][/us/pl/107/299/s8], Nov. 26, 2002, [116 Stat. 2348][/us/stat/116/2348]; [Pub. L. 110–394][/us/pl/110/394], §§ 7, 9(a)(4)(C)(ii), Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207], 4208.)
+([Pub. L. 89–454, title II, § 207][/us/pl/89/454/s207], as added [Pub. L. 94–461, § 2][/us/pl/94/461/s2], Oct. 8, 1976, [90 Stat. 1966][/us/stat/90/1966]; amended [Pub. L. 100–220, title III, § 3104(b)(1)(E)][/us/pl/100/220/s3104/b/1/E], Dec. 29, 1987, [101 Stat. 1470][/us/stat/101/1470]; [Pub. L. 105–160, § 7][/us/pl/105/160/s7], Mar. 6, 1998, [112 Stat. 24][/us/stat/112/24]; [Pub. L. 107–299, § 8][/us/pl/107/299/s8], Nov. 26, 2002, [116 Stat. 2348][/us/stat/116/2348]; [Pub. L. 110–394][/us/pl/110/394], §§ 7, 9(a)(4)(C)(ii), Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207], 4208; [Pub. L. 113–188, title II, § 201(a)][/us/pl/113/188/s201/a], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–188][/us/pl/113/188], which directed amendment of section 207 of the National Sea Grant Program Act by striking subsec. (e), was executed to this section, which is section 207 of the National Sea Grant College Program Act, to reflect the probable intent of Congress. Prior to amendment, subsec. (e) related to annual reports on progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes.
 
     2008—Subsec. (a)(1)(F). [Pub. L. 110–394, § 9(a)(4)(C)(ii)][/us/pl/110/394/s9/a/4/C/ii], substituted “Board” for “panel”.
 
@@ -96,10 +82,6 @@
     1998—[Pub. L. 105–160][/us/pl/105/160] amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (c) relating to authorization of the Secretary to designate sea grant college and sea grant regional consortia with certain prerequisites, requirement of regulations to prescribe qualifications and guidelines, and authorization of the Secretary to suspend or terminate any designation.
 
     1987—Subsec. (a)(2)(A), (3)(A), (B). [Pub. L. 100–220][/us/pl/100/220] substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
-
- __Change of Name__ 
-
-    Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 ----------
 
@@ -123,6 +105,9 @@
 [/us/stat/116/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2348
 [/us/pl/110/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394
 [/us/stat/122/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4207
+[/us/pl/113/188/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fa
+[/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/110/394/s9/a/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs9%2Fa%2F4%2FC%2Fii
 [/us/pl/110/394/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs7
 [/us/pl/110/394/s9/a/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F394%2Fs9%2Fa%2F4%2FC%2Fii

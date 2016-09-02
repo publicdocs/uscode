@@ -165,25 +165,7 @@
 
             The Administrator shall, in the Agency’s annual budget submission to Congress, include a funding request for the Program Office as a separate budget line item.
 
-        (10) __Comprehensive report__ 
-
-        Within 90 days after the end of each fiscal year, the Administrator shall submit to Congress a comprehensive report which—
-
-            (A) describes the achievements in the preceding fiscal year in implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, and shows by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amounts expended on Great Lakes water quality initiatives in such preceding fiscal year;
-
-            (B) describes the progress made in such preceding fiscal year in implementing the system of surveillance of the water quality in the Great Lakes System, including the monitoring of groundwater and sediment, with particular reference to toxic pollutants;
-
-            (C) describes the long-term prospects for improving the condition of the Great Lakes; and
-
-            (D)
-
-             provides a comprehensive assessment of the planned efforts to be pursued in the succeeding fiscal year for implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,,1 which assessment shall—
-
-                (i) show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
-
-                (ii) include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
-
-        (11) __Confined disposal facilities__ 
+        (10) __Confined disposal facilities__ 
 
             (A) The Administrator, in consultation with the Assistant Secretary of the Army for Civil Works, shall develop and implement, within one year of November 16, 1990, management plans for every Great Lakes confined disposal facility.
 
@@ -203,7 +185,7 @@
 
             (D) The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
 
-        (12) __Remediation of sediment contamination in areas of concern__ 
+        (11) __Remediation of sediment contamination in areas of concern__ 
 
             (A) __In general__ 
 
@@ -323,7 +305,7 @@
 
                     Not more than 20 percent of the funds appropriated pursuant to clause (i) for a fiscal year may be used to carry out subparagraph (F).
 
-        (13) __Public information program__ 
+        (12) __Public information program__ 
 
             (A) __In general__ 
 
@@ -407,13 +389,15 @@
 
         (3) $25,000,000 for each of fiscal years 2004 through 2008.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 118, as added [Pub. L. 100–4, title I, § 104][/us/pl/100/4/s104], Feb. 4, 1987, [101 Stat. 11][/us/stat/101/11]; amended [Pub. L. 100–688, title I, § 1008][/us/pl/100/688/s1008], Nov. 18, 1988, [102 Stat. 4151][/us/stat/102/4151]; [Pub. L. 101–596, title I][/us/pl/101/596], §§ 101–106, Nov. 16, 1990, [104 Stat. 3000–3004][/us/stat/104/3000-3004]; [Pub. L. 107–303, title I][/us/pl/107/303], §§ 102–105, Nov. 27, 2002, [116 Stat. 2355–2358][/us/stat/116/2355-2358]; [Pub. L. 110–365][/us/pl/110/365], §§ 2, 3, Oct. 8, 2008, [122 Stat. 4021][/us/stat/122/4021].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title I, § 118, as added [Pub. L. 100–4, title I, § 104][/us/pl/100/4/s104], Feb. 4, 1987, [101 Stat. 11][/us/stat/101/11]; amended [Pub. L. 100–688, title I, § 1008][/us/pl/100/688/s1008], Nov. 18, 1988, [102 Stat. 4151][/us/stat/102/4151]; [Pub. L. 101–596, title I][/us/pl/101/596], §§ 101–106, Nov. 16, 1990, [104 Stat. 3000–3004][/us/stat/104/3000-3004]; [Pub. L. 107–303, title I][/us/pl/107/303], §§ 102–105, Nov. 27, 2002, [116 Stat. 2355–2358][/us/stat/116/2355-2358]; [Pub. L. 110–365][/us/pl/110/365], §§ 2, 3, Oct. 8, 2008, [122 Stat. 4021][/us/stat/122/4021]; [Pub. L. 113–188, title VII, § 701][/us/pl/113/188/s701], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
 
  __Codification__ 
 
     November 16, 1990, referred to in subsec. (c)(3)(C), (7)(C), was in the original “the enactment of this Act”, and “the date of the enactment of this title” which were translated as meaning the date of enactment of [Pub. L. 101–596, title I][/us/pl/101/596] of which enacted subsec. (c)(3), (7)(C), to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(10) to (13). [Pub. L. 113–188][/us/pl/113/188] redesignated pars. (11) to (13) as (10) to (12), respectively, and struck out former par. (10) which required submission of annual comprehensive reports.
 
     2008—Subsec. (a)(3)(K), (L). [Pub. L. 110–365, § 2][/us/pl/110/365/s2], added subpars. (K) and (L).
 
@@ -585,7 +569,10 @@
 [/us/stat/116/2355-2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2355-2358
 [/us/pl/110/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365
 [/us/stat/122/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4021
+[/us/pl/113/188/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs701
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
 [/us/pl/101/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F596
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/110/365/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365%2Fs2
 [/us/pl/110/365/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365%2Fs3%2Fa
 [/us/pl/110/365/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F365%2Fs3%2Fb%2F1
