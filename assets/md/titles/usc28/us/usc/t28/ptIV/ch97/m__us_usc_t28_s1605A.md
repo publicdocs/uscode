@@ -125,7 +125,7 @@
 
         (7) the terms “torture” and “extrajudicial killing” have the meaning given those terms in section 3 of the Torture Victim Protection Act of 1991 ([28 U.S.C. 1350][/us/usc/t28/s1350] note).
 
-(Added [Pub. L. 110–181, div. A, title X, § 1083(a)(1)][/us/pl/110/181/s1083/a/1], Jan. 28, 2008, [122 Stat. 338][/us/stat/122/338].)
+(Added [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1083(a)(1), Jan. 28, 2008, [122 Stat. 338][/us/stat/122/338].)
 
  __References in Text__ 
 
@@ -133,7 +133,7 @@
 
     The enactment of this section and the date of the enactment of this section, referred to in subsecs. (a)(2)(A)(i)(II) and (b), refers to the date of enactment of [Pub. L. 110–181][/us/pl/110/181], which was approved Jan. 28, 2008.
 
-    Section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, referred to in subsecs. (a)(2)(A)(i)(II) and (b), is [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 589\], which is set out as a note under [section 1605 of this title][/us/usc/t28/s1605].
+    Section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, referred to in subsecs. (a)(2)(A)(i)(II) and (b), is [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 589\], which is set out as a note under [section 1605 of this title][/us/usc/t28/s1605].
 
     Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h)(6), is [section 6(j) of Pub. L. 96–72][/us/pl/96/72/s6/j], which was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as [section 4605(j) of Title 50][/us/usc/t50/s4605/j].
 
@@ -141,7 +141,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–181, div. A, title X, § 1083(c)][/us/pl/110/181/s1083/c], Jan. 28, 2008, [122 Stat. 342][/us/stat/122/342], provided that:
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1083(c), Jan. 28, 2008, [122 Stat. 342][/us/stat/122/342], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -201,7 +201,7 @@
 
  __Severability__ 
 
-[Pub. L. 110–181, div. A, title X, § 1083(e)][/us/pl/110/181/s1083/e], Jan. 28, 2008, [122 Stat. 344][/us/stat/122/344], provided that: 
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1083(e), Jan. 28, 2008, [122 Stat. 344][/us/stat/122/344], provided that: 
 
 > “If any provision of this section \[enacting this section and amending sections 1605, 1607 and 1610 of this title and [section 10603a of Title 42][/us/usc/t42/s10603a], The Public Health and Welfare\] or the amendments made by this section, or the application of such provision to any person or circumstance, is held invalid, the remainder of this section and such amendments, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
@@ -285,7 +285,7 @@
 
 >             “(A) Libya, an agency or instrumentality of Libya, and the property of Libya or an agency or instrumentality of Libya, shall not be subject to the exceptions to immunity from jurisdiction, liens, attachment, and execution contained in section 1605A, \[former\] 1605(a)(7), or 1610 (insofar as section 1610 relates to a judgment under such section 1605A or \[former\] 1605(a)(7)) of title 28, United States Code;
 
->             “(B) [section 1605A(c) of title 28][/us/usc/t28/s1605A/c], United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 342][/us/stat/122/342]; [28 U.S.C. 1605A][/us/usc/t28/s1605A] note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 \[[Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c]\] ([28 U.S.C. 1605][/us/usc/t28/s1605] note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
+>             “(B) [section 1605A(c) of title 28][/us/usc/t28/s1605A/c], United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 342][/us/stat/122/342]; [28 U.S.C. 1605A][/us/usc/t28/s1605A] note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 \[[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c)\] ([28 U.S.C. 1605][/us/usc/t28/s1605] note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
 
 >             “(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought against property of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
 
@@ -313,7 +313,7 @@
 
  __Applicability to Iraq__ 
 
-[Pub. L. 110–181, div. A, title X, § 1083(d)][/us/pl/110/181/s1083/d], Jan. 28, 2008, [122 Stat. 343][/us/stat/122/343], provided that:
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1083(d), Jan. 28, 2008, [122 Stat. 343][/us/stat/122/343], provided that:
 
 >     “(1)  __Applicability__  __.—__ 
 
@@ -424,17 +424,17 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
 [/us/usc/t28/s1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1350
-[/us/pl/110/181/s1083/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fa%2F1
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F338
 [/us/pl/110/181/s1083/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fc
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/usc/t28/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605
 [/us/pl/96/72/s6/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs6%2Fj
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/102/256/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F256%2Fs3
 [/us/usc/t28/s1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1350
-[/us/pl/110/181/s1083/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fc
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F342
 [/us/usc/t42/s10603a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603a
 [/us/usc/t28/s1605A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605A
@@ -451,7 +451,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t28/s1605A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605A
 [/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
 [/us/stat/117/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F579
-[/us/pl/110/181/s1083/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fe
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F344
 [/us/usc/t42/s10603a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603a
 [/us/pl/110/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F301
@@ -464,7 +464,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F342
 [/us/usc/t28/s1605A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605A
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/usc/t28/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/stat/121/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2342
@@ -474,7 +474,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F342
 [/us/usc/t28/s1605A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605A
-[/us/pl/110/181/s1083/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fd
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F343
 [/us/usc/t42/s10603a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603a
 [/us/pl/110/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F301

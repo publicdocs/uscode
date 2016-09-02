@@ -19,7 +19,7 @@
 
     (b) A bankruptcy judge who has retired may, upon consent, be recalled to serve as a bankruptcy judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a bankruptcy judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference of the United States, subject to the restrictions on the payment of an annuity in [section 377 of this title][/us/usc/t28/s377] or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such judge.
 
-(Added [Pub. L. 98–353, title I, § 104(a)][/us/pl/98/353/s104/a], July 10, 1984, [98 Stat. 339][/us/stat/98/339]; amended [Pub. L. 99–651, title II, § 202(a)][/us/pl/99/651/s202/a], Nov. 14, 1986, [100 Stat. 3648][/us/stat/100/3648]; [Pub. L. 100–659, § 4(a)][/us/pl/100/659/s4/a], Nov. 15, 1988, [102 Stat. 3918][/us/stat/102/3918].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 104(a), July 10, 1984, [98 Stat. 339][/us/stat/98/339]; amended [Pub. L. 99–651, title II][/us/pl/99/651/tII], § 202(a), Nov. 14, 1986, [100 Stat. 3648][/us/stat/100/3648]; [Pub. L. 100–659][/us/pl/100/659], § 4(a), Nov. 15, 1988, [102 Stat. 3918][/us/stat/102/3918].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–651, title II, § 203][/us/pl/99/651/s203], Nov. 14, 1986, [100 Stat. 3649][/us/stat/100/3649], provided that: 
+[Pub. L. 99–651, title II][/us/pl/99/651/tII], § 203, Nov. 14, 1986, [100 Stat. 3649][/us/stat/100/3649], provided that: 
 
 > “This title and the amendments made by this title \[enacting [section 375 of this title][/us/usc/t28/s375] and amending this section and sections 374, 631, 633, 636, and 797 of this title\] take effect on January 1, 1987.”
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
-[/us/pl/98/353/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs104%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F339
-[/us/pl/99/651/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2Fs202%2Fa
+[/us/pl/99/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2FtII
 [/us/stat/100/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3648
-[/us/pl/100/659/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs4%2Fa
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/stat/102/3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3918
 [/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
@@ -57,7 +57,7 @@
 [/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/pl/100/659/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs9
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
-[/us/pl/99/651/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2Fs203
+[/us/pl/99/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2FtII
 [/us/stat/100/3649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3649
 [/us/usc/t28/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs375
 

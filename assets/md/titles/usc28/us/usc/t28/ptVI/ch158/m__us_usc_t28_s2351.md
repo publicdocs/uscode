@@ -17,7 +17,7 @@
 
     The several district courts have jurisdiction specifically to enforce, and to enjoin and restrain any person from violating any order issued under [section 193 of title 7][/us/usc/t7/s193].
 
-(Added [Pub. L. 89–554, § 4(e)][/us/pl/89/554/s4/e], Sept. 6, 1966, [80 Stat. 624][/us/stat/80/624].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(e), Sept. 6, 1966, [80 Stat. 624][/us/stat/80/624].)
 
 <table>
 
@@ -75,7 +75,7 @@ Dec. 29, 1950, ch. 1189, § 12, 64 Stat. 1132.  </td>
 ----------
 
 [/us/usc/t7/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs193
-[/us/pl/89/554/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F624
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 

@@ -29,7 +29,7 @@
 
     Notwithstanding section 337(n)(1) of the Tariff Act of 1930, after dissolution of a stay under subsection (a), the record of the proceeding before the United States International Trade Commission shall be transmitted to the district court and shall be admissible in the civil action, subject to such protective order as the district court determines necessary, to the extent permitted under the Federal Rules of Evidence and the Federal Rules of Civil Procedure.
 
-(Added [Pub. L. 103–465, title III, § 321(b)(1)(A)][/us/pl/103/465/s321/b/1/A], Dec. 8, 1994, [108 Stat. 4945][/us/stat/108/4945].)
+(Added [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 321(b)(1)(A), Dec. 8, 1994, [108 Stat. 4945][/us/stat/108/4945].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/103/465/s321/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fb%2F1%2FA
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4945
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337

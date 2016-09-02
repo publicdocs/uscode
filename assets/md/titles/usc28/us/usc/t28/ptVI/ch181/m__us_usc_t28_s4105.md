@@ -17,7 +17,7 @@
 
     In any action brought in a domestic court to enforce a foreign judgment for defamation, including any such action removed from State court to Federal court, the domestic court shall, absent exceptional circumstances, allow the party opposing recognition or enforcement of the judgment a reasonable attorney’s fee if such party prevails in the action on a ground specified in section 4102(a), (b), or (c).
 
-(Added [Pub. L. 111–223, § 3(a)][/us/pl/111/223/s3/a], Aug. 10, 2010, [124 Stat. 2383][/us/stat/124/2383].)
+(Added [Pub. L. 111–223][/us/pl/111/223], § 3(a), Aug. 10, 2010, [124 Stat. 2383][/us/stat/124/2383].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/223/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F223%2Fs3%2Fa
+[/us/pl/111/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F223
 [/us/stat/124/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2383
 
 

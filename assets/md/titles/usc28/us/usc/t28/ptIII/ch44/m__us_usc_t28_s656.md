@@ -17,7 +17,7 @@
 
     Rule 45 of the Federal Rules of Civil Procedure (relating to subpoenas) applies to subpoenas for the attendance of witnesses and the production of documentary evidence at an arbitration hearing under this chapter.
 
-(Added [Pub. L. 100–702, title IX, § 901(a)][/us/pl/100/702/s901/a], Nov. 19, 1988, [102 Stat. 4662][/us/stat/102/4662]; amended [Pub. L. 105–315, § 8][/us/pl/105/315/s8], Oct. 30, 1998, [112 Stat. 2996][/us/stat/112/2996].)
+(Added [Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 901(a), Nov. 19, 1988, [102 Stat. 4662][/us/stat/102/4662]; amended [Pub. L. 105–315][/us/pl/105/315], § 8, Oct. 30, 1998, [112 Stat. 2996][/us/stat/112/2996].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/100/702/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs901%2Fa
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4662
-[/us/pl/105/315/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs8
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2996
 [/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 

@@ -35,7 +35,7 @@
 
     (e) As used in this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Added [Pub. L. 101–650, title III, § 310(a)][/us/pl/101/650/s310/a], Dec. 1, 1990, [104 Stat. 5113][/us/stat/104/5113].)
+(Added [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 310(a), Dec. 1, 1990, [104 Stat. 5113][/us/stat/104/5113].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–650, title III, § 310(c)][/us/pl/101/650/s310/c], Dec. 1, 1990, [104 Stat. 5114][/us/stat/104/5114], provided that: 
+[Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 310(c), Dec. 1, 1990, [104 Stat. 5114][/us/stat/104/5114], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to civil actions commenced on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t28/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1332
-[/us/pl/101/650/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs310%2Fa
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5113
-[/us/pl/101/650/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs310%2Fc
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5114
 
 

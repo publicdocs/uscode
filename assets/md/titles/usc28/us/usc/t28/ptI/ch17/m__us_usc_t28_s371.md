@@ -137,11 +137,11 @@
 
         (4) In the case of any justice or judge who retires under subsection (b) during a calendar year, there shall be included in the determination under this subsection of work performed during that calendar year all work performed by that justice or judge (as described in subparagraphs (A), (B), (C), and (D) of paragraph (1)) during that calendar year before such retirement.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 903][/us/stat/62/903]; [Oct. 31, 1951, ch. 655, § 39][/us/act/1951-10-31/ch655/s39], [65 Stat. 724][/us/stat/65/724]; [Feb. 10, 1954, ch. 6, § 4(a)][/us/act/1954-02-10/ch6/s4/a], [68 Stat. 12][/us/stat/68/12]; [Pub. L. 98–353, title II, § 204(a)][/us/pl/98/353/s204/a], July 10, 1984, [98 Stat. 350][/us/stat/98/350]; [Pub. L. 100–702, title X, § 1005(a)][/us/pl/100/702/s1005/a], Nov. 19, 1988, [102 Stat. 4666][/us/stat/102/4666]; [Pub. L. 101–194, title VII, § 705(a)][/us/pl/101/194/s705/a], Nov. 30, 1989, [103 Stat. 1770][/us/stat/103/1770]; [Pub. L. 104–317, title III, § 301][/us/pl/104/317/s301], Oct. 19, 1996, [110 Stat. 3851][/us/stat/110/3851]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 654(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165; [Pub. L. 106–518, title III, § 303][/us/pl/106/518/s303], Nov. 13, 2000, [114 Stat. 2417][/us/stat/114/2417].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 903][/us/stat/62/903]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 39, [65 Stat. 724][/us/stat/65/724]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6], § 4(a), [68 Stat. 12][/us/stat/68/12]; [Pub. L. 98–353, title II][/us/pl/98/353/tII], § 204(a), July 10, 1984, [98 Stat. 350][/us/stat/98/350]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1005(a), Nov. 19, 1988, [102 Stat. 4666][/us/stat/102/4666]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 705(a), Nov. 30, 1989, [103 Stat. 1770][/us/stat/103/1770]; [Pub. L. 104–317, title III][/us/pl/104/317/tIII], § 301, Oct. 19, 1996, [110 Stat. 3851][/us/stat/110/3851]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 654(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165; [Pub. L. 106–518, title III][/us/pl/106/518/tIII], § 303, Nov. 13, 2000, [114 Stat. 2417][/us/stat/114/2417].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 375 and 375a ([Mar. 3, 1911, ch. 231, § 260][/us/act/1911-03-03/ch231/s260], [36 Stat. 1161][/us/stat/36/1161]; [Feb. 25, 1919, ch. 29, § 6][/us/act/1919-02-25/ch29/s6], [40 Stat. 1157][/us/stat/40/1157]; [Mar. 1, 1929, ch. 419][/us/act/1929-03-01/ch419], [45 Stat. 1422][/us/stat/45/1422]; [Mar. 1, 1937, ch. 21][/us/act/1937-03-01/ch21], §§ 1, 2, [50 Stat. 24][/us/stat/50/24]; [Feb. 11, 1938, ch. 25, § 1][/us/act/1938-02-11/ch25/s1], [52 Stat. 28][/us/stat/52/28]; [May 11, 1944, ch. 192, § 1][/us/act/1944-05-11/ch192/s1], [58 Stat. 218][/us/stat/58/218]).
+    Based on title 28, U.S.C., 1940 ed., §§ 375 and 375a ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 260, [36 Stat. 1161][/us/stat/36/1161]; [Feb. 25, 1919, ch. 29][/us/act/1919-02-25/ch29], § 6, [40 Stat. 1157][/us/stat/40/1157]; [Mar. 1, 1929, ch. 419][/us/act/1929-03-01/ch419], [45 Stat. 1422][/us/stat/45/1422]; [Mar. 1, 1937, ch. 21][/us/act/1937-03-01/ch21], §§ 1, 2, [50 Stat. 24][/us/stat/50/24]; [Feb. 11, 1938, ch. 25][/us/act/1938-02-11/ch25], § 1, [52 Stat. 28][/us/stat/52/28]; [May 11, 1944, ch. 192][/us/act/1944-05-11/ch192], § 1, [58 Stat. 218][/us/stat/58/218]).
 
     This section consolidates provisions of sections 375 and 375a of title 28, U.S.C., 1940 ed., relating to resignation and retirement. Remaining provisions of said section 375 now appear in sections 136, 294, and 756 of this title, and remaining provisions of said section 375a now appear in [section 294 of this title][/us/usc/t28/s294].
 
@@ -153,21 +153,21 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 654(a)(2)\], substituted “subsection (e)” for “subsection (f)” wherever appearing.
+    2000—Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 654(a)(2)\], substituted “subsection (e)” for “subsection (f)” wherever appearing.
 
     Subsec. (e). [Pub. L. 106–518][/us/pl/106/518], which directed amendment of subsec. (e) by inserting “, except such pay as is deductible from the retired or retainer pay as a result of participation in any survivor’s benefits plan in connection with the retired pay,” after “such retired or retainer pay”, could not be executed because of amendment by [Pub. L. 106–398][/us/pl/106/398]. See below.
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 654(a)(1)\], redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Notwithstanding subsection (c) of [section 5532 of title 5][/us/usc/t5/s5532], if a regular or reserve member or former member of a uniformed service who is receiving retired or retainer pay becomes employed as a justice or judge of the United States, as defined by section 451, or becomes eligible therefor while so employed, such retired or retainer pay shall not be paid during regular active service as a justice or judge, but shall be resumed or commenced without reduction upon retirement from the judicial office or from regular active service (into senior status) as such justice or judge.”
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 654(a)(1)\], redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Notwithstanding subsection (c) of [section 5532 of title 5][/us/usc/t5/s5532], if a regular or reserve member or former member of a uniformed service who is receiving retired or retainer pay becomes employed as a justice or judge of the United States, as defined by section 451, or becomes eligible therefor while so employed, such retired or retainer pay shall not be paid during regular active service as a justice or judge, but shall be resumed or commenced without reduction upon retirement from the judicial office or from regular active service (into senior status) as such justice or judge.”
 
-    Subsec. (f). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 654(a)(1)(B)\], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 654(a)(1)(B)\], redesignated subsec. (f) as (e).
 
-    1996—Subsec. (f)(1)(D). [Pub. L. 104–317, § 301(b)][/us/pl/104/317/s301/b], inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
+    1996—Subsec. (f)(1)(D). [Pub. L. 104–317][/us/pl/104/317], § 301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
 
-    Subsec. (f)(3). [Pub. L. 104–317, § 301(a)][/us/pl/104/317/s301/a], substituted “may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.” for “is thereafter ineligible to receive such a certification.”
+    Subsec. (f)(3). [Pub. L. 104–317][/us/pl/104/317], § 301(a), substituted “may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.” for “is thereafter ineligible to receive such a certification.”
 
-    1989—Subsec. (b). [Pub. L. 101–194, § 705(a)(1)][/us/pl/101/194/s705/a/1], designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
+    1989—Subsec. (b). [Pub. L. 101–194][/us/pl/101/194], § 705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
 
-    Subsec. (f). [Pub. L. 101–194, § 705(a)(2)][/us/pl/101/194/s705/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–194][/us/pl/101/194], § 705(a)(2), added subsec. (f).
 
     1988—Subsec. (e). [Pub. L. 100–702][/us/pl/100/702] added subsec. (e).
 
@@ -191,13 +191,13 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 654(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 654(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165, provided that: 
 
 > “The amendments made by this section \[amending this section and repealing [section 180 of this title][/us/usc/t28/s180]\] shall take effect as of October 1, 1999.”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–194, title VII, § 705(b)][/us/pl/101/194/s705/b], Nov. 30, 1989, [103 Stat. 1771][/us/stat/103/1771], provided that:
+[Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 705(b), Nov. 30, 1989, [103 Stat. 1771][/us/stat/103/1771], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -215,13 +215,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–702, title X, § 1005(b)][/us/pl/100/702/s1005/b], Nov. 19, 1988, [102 Stat. 4666][/us/stat/102/4666], provided that: 
+[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1005(b), Nov. 19, 1988, [102 Stat. 4666][/us/stat/102/4666], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of [section 5532(c) of title 5][/us/usc/t5/s5532/c] \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under [section 1101 of Title 5][/us/usc/t5/s1101], Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–353, title II, § 204(c)][/us/pl/98/353/s204/c], July 10, 1984, [98 Stat. 350][/us/stat/98/350], provided that: 
+[Pub. L. 98–353, title II][/us/pl/98/353/tII], § 204(c), July 10, 1984, [98 Stat. 350][/us/stat/98/350], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to any justice or judge of the United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act \[July 10, 1984\].”
 
@@ -233,7 +233,7 @@
 
  __Judicial Service in Hawaii Included Within Computation of Aggregate Years of Judicial Service__ 
 
-[Pub. L. 86–3, § 14(d)][/us/pl/86/3/s14/d], Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10], provided in part: 
+[Pub. L. 86–3][/us/pl/86/3], § 14(d), Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10], provided in part: 
 
 > “That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years of judicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act \[Mar. 18, 1959\].”
 
@@ -247,68 +247,68 @@
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F903
-[/us/act/1951-10-31/ch655/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs39
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F724
-[/us/act/1954-02-10/ch6/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6%2Fs4%2Fa
+[/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F12
-[/us/pl/98/353/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs204%2Fa
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F350
-[/us/pl/100/702/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1005%2Fa
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4666
-[/us/pl/101/194/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs705%2Fa
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1770
-[/us/pl/104/317/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs301
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3851
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/518/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs303
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2417
-[/us/act/1911-03-03/ch231/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs260
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1161
-[/us/act/1919-02-25/ch29/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-25%2Fch29%2Fs6
+[/us/act/1919-02-25/ch29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-25%2Fch29
 [/us/stat/40/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1157
 [/us/act/1929-03-01/ch419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch419
 [/us/stat/45/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1422
 [/us/act/1937-03-01/ch21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-01%2Fch21
 [/us/stat/50/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F24
-[/us/act/1938-02-11/ch25/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-11%2Fch25%2Fs1
+[/us/act/1938-02-11/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-11%2Fch25
 [/us/stat/52/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F28
-[/us/act/1944-05-11/ch192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-05-11%2Fch192%2Fs1
+[/us/act/1944-05-11/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-05-11%2Fch192
 [/us/stat/58/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F218
 [/us/usc/t28/s294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs294
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/104/317/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs301%2Fb
-[/us/pl/104/317/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs301%2Fa
-[/us/pl/101/194/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs705%2Fa%2F1
-[/us/pl/101/194/s705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs705%2Fa%2F2
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t28/s180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs180
-[/us/pl/101/194/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs705%2Fb
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1771
 [/us/usc/t28/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fb
 [/us/usc/t28/s371/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Ff
 [/us/usc/t28/s371/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Ff
-[/us/pl/100/702/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1005%2Fb
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4666
 [/us/usc/t5/s5532/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532%2Fc
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/98/353/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs204%2Fc
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F350
 [/us/pl/89/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F70
 [/us/stat/79/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F213
-[/us/pl/86/3/s14/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs14%2Fd
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F10
 
 

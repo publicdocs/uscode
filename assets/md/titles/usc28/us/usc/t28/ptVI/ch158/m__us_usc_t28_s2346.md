@@ -17,7 +17,7 @@
 
     Unless the proceeding has been terminated on a motion to dismiss the petition, the agency shall file in the office of the clerk the record on review as provided by [section 2112 of this title][/us/usc/t28/s2112].
 
-(Added [Pub. L. 89–554, § 4(e)][/us/pl/89/554/s4/e], Sept. 6, 1966, [80 Stat. 623][/us/stat/80/623].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(e), Sept. 6, 1966, [80 Stat. 623][/us/stat/80/623].)
 
 <table>
 
@@ -91,7 +91,7 @@ Aug. 28, 1958, Pub. L. 85–791, § 31(a), 72 Stat. 951.  </td>
 ----------
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/pl/89/554/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F623
 [/us/usc/t28/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2341
 [/us/usc/t28/s2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2342

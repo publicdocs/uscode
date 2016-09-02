@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 41(17) ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], par. 17, [36 Stat. 1093][/us/stat/36/1093]).
+    Based on title 28, U.S.C., 1940 ed., § 41(17) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, par. 17, [36 Stat. 1093][/us/stat/36/1093]).
 
     Words “civil action” were substituted for “suits,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -86,7 +86,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F934
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1093
 [/us/pl/102/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F256
 [/us/stat/106/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F73

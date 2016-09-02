@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1254.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1258.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257)
+[Previous](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1255 _us_usc_t28_s1256.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1258.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257)
 
 ## § 1257. State courts; certiorari
 
@@ -19,11 +19,11 @@
 
     (b) For the purposes of this section, the term “highest court of a State” includes the District of Columbia Court of Appeals.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 929][/us/stat/62/929]; [Pub. L. 91–358, title I, § 172(a)(1)][/us/pl/91/358/s172/a/1], July 29, 1970, [84 Stat. 590][/us/stat/84/590]; [Pub. L. 100–352, § 3][/us/pl/100/352/s3], June 27, 1988, [102 Stat. 662][/us/stat/102/662].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 929][/us/stat/62/929]; [Pub. L. 91–358, title I][/us/pl/91/358/tI], § 172(a)(1), July 29, 1970, [84 Stat. 590][/us/stat/84/590]; [Pub. L. 100–352][/us/pl/100/352], § 3, June 27, 1988, [102 Stat. 662][/us/stat/102/662].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 344 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 236, 237, [36 Stat. 1156][/us/stat/36/1156]; [Dec. 23, 1914, ch. 2][/us/act/1914-12-23/ch2], [38 Stat. 790][/us/stat/38/790]; [Sept. 6, 1916, ch. 448, § 2][/us/act/1916-09-06/ch448/s2], [39 Stat. 726][/us/stat/39/726]; [Feb. 17, 1922, ch. 54][/us/act/1922-02-17/ch54], [42 Stat. 366][/us/stat/42/366]; [Feb. 13, 1925, ch. 229, § 1][/us/act/1925-02-13/ch229/s1], [43 Stat. 937][/us/stat/43/937]; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]).
+    Based on title 28, U.S.C., 1940 ed., § 344 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 236, 237, [36 Stat. 1156][/us/stat/36/1156]; [Dec. 23, 1914, ch. 2][/us/act/1914-12-23/ch2], [38 Stat. 790][/us/stat/38/790]; [Sept. 6, 1916, ch. 448][/us/act/1916-09-06/ch448], § 2, [39 Stat. 726][/us/stat/39/726]; [Feb. 17, 1922, ch. 54][/us/act/1922-02-17/ch54], [42 Stat. 366][/us/stat/42/366]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 1, [43 Stat. 937][/us/stat/43/937]; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]).
 
     Provisions of [section 344 of title 28][/us/usc/t28/s344], U.S.C., 1940 ed., relating to procedure for review of decisions of State courts are incorporated in [section 2103 of this title][/us/usc/t28/s2103]. Other provisions of such [section 344 of title 28][/us/usc/t28/s344], U.S.C., 1940 ed., are incorporated in [section 2106 of this title][/us/usc/t28/s2106].
 
@@ -57,34 +57,34 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–358, title I, § 199(a)][/us/pl/91/358/s199/a], July 29, 1970, [84 Stat. 597][/us/stat/84/597], provided that: 
+[Pub. L. 91–358, title I][/us/pl/91/358/tI], § 199(a), July 29, 1970, [84 Stat. 597][/us/stat/84/597], provided that: 
 
 > “The effective date of this title (and the amendments made by this title) \[enacting sections 1363, 1451, and 2113 of this title and amending this section, sections 292 and 1869 of this title, [section 5102 of Title 5][/us/usc/t5/s5102], Government Organization and Employees, and [section 260a of Title 42][/us/usc/t42/s260a], The Public Health and Welfare\] shall be the first day of the seventh calendar month which begins after the date of the enactment of this Act \[July 29, 1970\].”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1254.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1258.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257)
+[Previous](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1255 _us_usc_t28_s1256.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1258.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257)
 
 ----------
 ----------
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F929
-[/us/pl/91/358/s172/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs172%2Fa%2F1
+[/us/pl/91/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtI
 [/us/stat/84/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F590
-[/us/pl/100/352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs3
+[/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/stat/102/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F662
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1156
 [/us/act/1914-12-23/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-12-23%2Fch2
 [/us/stat/38/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F790
-[/us/act/1916-09-06/ch448/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-06%2Fch448%2Fs2
+[/us/act/1916-09-06/ch448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-06%2Fch448
 [/us/stat/39/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F726
 [/us/act/1922-02-17/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-17%2Fch54
 [/us/stat/42/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F366
-[/us/act/1925-02-13/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs1
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F937
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/usc/t28/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs344
 [/us/usc/t28/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2103
@@ -97,7 +97,7 @@
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/pl/100/352/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs7
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/91/358/s199/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs199%2Fa
+[/us/pl/91/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtI
 [/us/stat/84/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F597
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
 [/us/usc/t42/s260a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs260a

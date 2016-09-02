@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 878, and [section 1141(c)(4) of title 26][/us/usc/t26/s1141/c/4] U.S.C., 1940 ed., Internal Revenue Code (R.S. § 1010; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 117, 289, [36 Stat. 1131][/us/stat/36/1131], 1167; [Feb. 10, 1939, ch. 2, § 1141(c)(4)][/us/act/1939-02-10/ch2/s1141/c/4], [53 Stat. 165][/us/stat/53/165]).
+    Based on title 28, U.S.C., 1940 ed., § 878, and [section 1141(c)(4) of title 26][/us/usc/t26/s1141/c/4] U.S.C., 1940 ed., Internal Revenue Code (R.S. § 1010; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 117, 289, [36 Stat. 1131][/us/stat/36/1131], 1167; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 1141(c)(4), [53 Stat. 165][/us/stat/53/165]).
 
     Section consolidates [section 878 of title 28][/us/usc/t28/s878] with [section 1141(c)(4) of title 26][/us/usc/t26/s1141/c/4], both U.S.C., 1940 ed., with changes in phraseology necessary to effect consolidation.
 
@@ -43,7 +43,7 @@
 [/us/usc/t26/s1141/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1141%2Fc%2F4
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1131
-[/us/act/1939-02-10/ch2/s1141/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs1141%2Fc%2F4
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F165
 [/us/usc/t28/s878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs878
 [/us/usc/t26/s1141/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1141%2Fc%2F4

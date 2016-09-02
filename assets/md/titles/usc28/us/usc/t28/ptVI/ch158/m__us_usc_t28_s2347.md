@@ -37,7 +37,7 @@
 
         the court may order the additional evidence and any counterevidence the opposite party desires to offer to be taken by the agency. The agency may modify its findings of fact, or make new findings, by reason of the additional evidence so taken, and may modify or set aside its order, and shall file in the court the additional evidence, the modified findings or new findings, and the modified order or the order setting aside the original order.
 
-(Added [Pub. L. 89–554, § 4(e)][/us/pl/89/554/s4/e], Sept. 6, 1966, [80 Stat. 623][/us/stat/80/623].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(e), Sept. 6, 1966, [80 Stat. 623][/us/stat/80/623].)
 
 <table>
 
@@ -120,7 +120,7 @@ Aug. 28, 1958, Pub. L. 85–791, § 31(b), 72 Stat. 951.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F623
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 [/us/usc/t28/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2341

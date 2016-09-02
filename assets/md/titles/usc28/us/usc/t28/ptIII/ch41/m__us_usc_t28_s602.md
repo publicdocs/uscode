@@ -23,11 +23,11 @@
 
     (d) All functions of other officers and employees of the Administrative Office and all functions of organizational units of the Administrative Office are vested in the Director. The Director may delegate any of the Director’s functions, powers, duties, and authority (except the authority to promulgate rules and regulations) to such officers and employees of the judicial branch of Government as the Director may designate, and subject to such terms and conditions as the Director may consider appropriate; and may authorize the successive redelegation of such functions, powers, duties, and authority as the Director may deem desirable. All official acts performed by such officers and employees shall have the same force and effect as though performed by the Director in person.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 913][/us/stat/62/913]; [Pub. L. 95–539, § 5][/us/pl/95/539/s5], Oct. 28, 1978, [92 Stat. 2044][/us/stat/92/2044]; [Pub. L. 101–474, § 5(a)][/us/pl/101/474/s5/a], (q), Oct. 30, 1990, [104 Stat. 1099][/us/stat/104/1099], 1101; [Pub. L. 101–650, title III, § 325(b)(4)][/us/pl/101/650/s325/b/4], Dec. 1, 1990, [104 Stat. 5121][/us/stat/104/5121].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 913][/us/stat/62/913]; [Pub. L. 95–539][/us/pl/95/539], § 5, Oct. 28, 1978, [92 Stat. 2044][/us/stat/92/2044]; [Pub. L. 101–474][/us/pl/101/474], § 5(a), (q), Oct. 30, 1990, [104 Stat. 1099][/us/stat/104/1099], 1101; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 325(b)(4), Dec. 1, 1990, [104 Stat. 5121][/us/stat/104/5121].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 445 ([Mar. 3, 1911, ch. 231, § 303][/us/act/1911-03-03/ch231/s303], as added [Aug. 7, 1939, ch. 501, § 1][/us/act/1939-08-07/ch501/s1], [53 Stat. 1223][/us/stat/53/1223]).
+    Based on title 28, U.S.C., 1940 ed., § 445 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 303, as added [Aug. 7, 1939, ch. 501][/us/act/1939-08-07/ch501], § 1, [53 Stat. 1223][/us/stat/53/1223]).
 
     This section contains provisions in [section 445 of title 28][/us/usc/t28/s445], U.S.C., 1940 ed., for appointment of employees.
 
@@ -43,15 +43,15 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–474, § 5(a)][/us/pl/101/474/s5/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.”
+    1990—Subsec. (a). [Pub. L. 101–474][/us/pl/101/474], § 5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.”
 
-    Subsec. (b). [Pub. L. 101–474, § 5(q)][/us/pl/101/474/s5/q], and [Pub. L. 101–650][/us/pl/101/650] amended subsec. (b) identically, substituting “604(a)(16)(B)” for “604(a)(15)(B)”.
+    Subsec. (b). [Pub. L. 101–474][/us/pl/101/474], § 5(q), and [Pub. L. 101–650][/us/pl/101/650] amended subsec. (b) identically, substituting “604(a)(16)(B)” for “604(a)(15)(B)”.
 
     1978—[Pub. L. 95–539][/us/pl/95/539], among other changes, substituted provision authorizing the Director to appoint and fix the compensation of necessary employees in accordance with chapter 51 and subchapter III of chapter 53 of title 5 for provision authorizing the Director, subject to the provisions of the civil service laws, to appoint necessary employees for the Administrative Office and inserted provisions relating to appointing and fixing the compensation of certified interpreters, to obtaining personal services as authorized by [section 3109 of title 5][/us/usc/t5/s3109], and to transferring to the Director all of the functions of the officers and employees of the Administrative Office and all the functions of the organizational units of the Administrative Office with power in the Director to delegate his authority.
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–539, § 10][/us/pl/95/539/s10], Oct. 28, 1978, [92 Stat. 2045][/us/stat/92/2045], provided that:
+[Pub. L. 95–539][/us/pl/95/539], § 10, Oct. 28, 1978, [92 Stat. 2045][/us/stat/92/2045], provided that:
 
 >     “(a) Except as provided in subsection (b), this Act \[enacting section 1827 and 1828 of this title, amending this section and sections 603, 604, and 1920 of this title, enacting provisions set out as notes under this section and [section 1 of this title][/us/usc/t28/s1], and repealing provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1978\].
 
@@ -147,13 +147,13 @@
 
  __Contract Limitations__ 
 
-[Pub. L. 95–539, § 11][/us/pl/95/539/s11], Oct. 28, 1978, [92 Stat. 2045][/us/stat/92/2045], provided that: 
+[Pub. L. 95–539][/us/pl/95/539], § 11, Oct. 28, 1978, [92 Stat. 2045][/us/stat/92/2045], provided that: 
 
 > “Any contracts entered into under this Act or any of the amendments made by this Act \[enacting sections 1827 and 1828 of this title, amending this section and sections 603, 604, and 1920 of this title, enacting provisions set out as notes under this section and [section 1 of this title][/us/usc/t28/s1], and repealing provisions set out as a note under this section\] shall be limited to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
  __Employment of Experts or Consultants; Rates__ 
 
-    [Pub. L. 86–370, § 5(b)][/us/pl/86/370/s5/b], Sept. 23, 1959, [73 Stat. 652][/us/stat/73/652], authorized the Director of the Administrative Office of the United States Courts to procure the temporary or intermittent services of experts or consultants, prior to repeal by [Pub. L. 95–539, § 8][/us/pl/95/539/s8], Oct. 28, 1978, [92 Stat. 2044][/us/stat/92/2044].
+    [Pub. L. 86–370][/us/pl/86/370], § 5(b), Sept. 23, 1959, [73 Stat. 652][/us/stat/73/652], authorized the Director of the Administrative Office of the United States Courts to procure the temporary or intermittent services of experts or consultants, prior to repeal by [Pub. L. 95–539][/us/pl/95/539], § 8, Oct. 28, 1978, [92 Stat. 2044][/us/stat/92/2044].
 
 ----------
 
@@ -168,25 +168,25 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F913
-[/us/pl/95/539/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs5
+[/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/stat/92/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2044
-[/us/pl/101/474/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474%2Fs5%2Fa
+[/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
 [/us/stat/104/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1099
-[/us/pl/101/650/s325/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs325%2Fb%2F4
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5121
-[/us/act/1911-03-03/ch231/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs303
-[/us/act/1939-08-07/ch501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1939-08-07/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501
 [/us/stat/53/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1223
 [/us/usc/t28/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs445
 [/us/usc/t28/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs445
 [/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
 [/us/stat/104/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1097
-[/us/pl/101/474/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474%2Fs5%2Fa
-[/us/pl/101/474/s5/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474%2Fs5%2Fq
+[/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
+[/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/95/539/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs10
+[/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/stat/92/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2045
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
@@ -203,12 +203,12 @@
 [/us/usc/t28/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs603
 [/us/usc/t5/s5723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5723
 [/us/usc/t28/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs603
-[/us/pl/95/539/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs11
+[/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/stat/92/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2045
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
-[/us/pl/86/370/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370%2Fs5%2Fb
+[/us/pl/86/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F370
 [/us/stat/73/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F652
-[/us/pl/95/539/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs8
+[/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/stat/92/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2044
 
 

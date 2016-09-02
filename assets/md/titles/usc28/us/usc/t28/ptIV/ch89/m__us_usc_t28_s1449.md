@@ -17,13 +17,13 @@
 
     Where a party is entitled to copies of the rec­ords and proceedings in any suit or prosecution in a State court, to be used in any district court of the United States, and the clerk of such State court, upon demand, and the payment or tender of the legal fees, fails to deliver certified copies, the district court may, on affidavit reciting such facts, direct such record to be supplied by affidavit or otherwise. Thereupon such proceedings, trial, and judgment may be had in such district court, and all such process awarded, as if certified copies had been filed in the district court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 940][/us/stat/62/940]; [May 24, 1949, ch. 139, § 85][/us/act/1949-05-24/ch139/s85], [63 Stat. 102][/us/stat/63/102].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 940][/us/stat/62/940]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 85, [63 Stat. 102][/us/stat/63/102].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 78 ([Mar. 3, 1911, ch. 231, § 35][/us/act/1911-03-03/ch231/s35], [36 Stat. 1098][/us/stat/36/1098]).
+    Based on title 28, U.S.C., 1940 ed., § 78 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 35, [36 Stat. 1098][/us/stat/36/1098]).
 
     Changes were made in phraseology.
 
@@ -44,9 +44,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F940
-[/us/act/1949-05-24/ch139/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs85
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F102
-[/us/act/1911-03-03/ch231/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs35
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1098
 [/us/usc/t28/s1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1449
 

@@ -35,15 +35,15 @@
 
         (4) In the administration of this subsection, the Counselor shall ensure that the acceptance of personal services shall not result in the reduction of pay or displacement of any employee of the Supreme Court.
 
-(Added [Pub. L. 92–238, § 1][/us/pl/92/238/s1], Mar. 1, 1972, [86 Stat. 46][/us/stat/86/46]; amended [Pub. L. 105–233, § 1][/us/pl/105/233/s1], Aug. 13, 1998, [112 Stat. 1535][/us/stat/112/1535]; [Pub. L. 110–402, § 1(b)(3)(A)][/us/pl/110/402/s1/b/3/A], Oct. 13, 2008, [122 Stat. 4254][/us/stat/122/4254].)
+(Added [Pub. L. 92–238][/us/pl/92/238], § 1, Mar. 1, 1972, [86 Stat. 46][/us/stat/86/46]; amended [Pub. L. 105–233][/us/pl/105/233], § 1, Aug. 13, 1998, [112 Stat. 1535][/us/stat/112/1535]; [Pub. L. 110–402][/us/pl/110/402], § 1(b)(3)(A), Oct. 13, 2008, [122 Stat. 4254][/us/stat/122/4254].)
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–402, § 1(b)(3)(A)(i)][/us/pl/110/402/s1/b/3/A/i], substituted “Counselor” for “Administrative Assistant” in section catchline.
+    2008—[Pub. L. 110–402][/us/pl/110/402], § 1(b)(3)(A)(i), substituted “Counselor” for “Administrative Assistant” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–402, § 1(b)(3)(A)(ii)][/us/pl/110/402/s1/b/3/A/ii], substituted “a Counselor” for “an Administrative Assistant” in first sentence and “Counselor” for “Administrative Assistant” in second and third sentences.
+    Subsec. (a). [Pub. L. 110–402][/us/pl/110/402], § 1(b)(3)(A)(ii), substituted “a Counselor” for “an Administrative Assistant” in first sentence and “Counselor” for “Administrative Assistant” in second and third sentences.
 
-    Subsecs. (b), (c). [Pub. L. 110–402, § 1(b)(3)(A)(iii)][/us/pl/110/402/s1/b/3/A/iii], substituted “Counselor” for “Administrative Assistant” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 110–402][/us/pl/110/402], § 1(b)(3)(A)(iii), substituted “Counselor” for “Administrative Assistant” wherever appearing.
 
     1998—Subsec. (c). [Pub. L. 105–233][/us/pl/105/233] added subsec. (c).
 
@@ -56,15 +56,15 @@
 
 [/us/usc/t28/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs611
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/92/238/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F238%2Fs1
+[/us/pl/92/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F238
 [/us/stat/86/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F46
-[/us/pl/105/233/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F233%2Fs1
+[/us/pl/105/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F233
 [/us/stat/112/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1535
-[/us/pl/110/402/s1/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402%2Fs1%2Fb%2F3%2FA
+[/us/pl/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402
 [/us/stat/122/4254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4254
-[/us/pl/110/402/s1/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402%2Fs1%2Fb%2F3%2FA%2Fi
-[/us/pl/110/402/s1/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402%2Fs1%2Fb%2F3%2FA%2Fii
-[/us/pl/110/402/s1/b/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402%2Fs1%2Fb%2F3%2FA%2Fiii
+[/us/pl/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402
+[/us/pl/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402
+[/us/pl/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402
 [/us/pl/105/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F233
 
 

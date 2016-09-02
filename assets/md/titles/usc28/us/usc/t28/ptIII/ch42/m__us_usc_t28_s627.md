@@ -25,33 +25,33 @@
 
     (e) Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by [section 8340 of title 5][/us/usc/t5/s8340].
 
-(Added [Pub. L. 90–219, title I, § 101][/us/pl/90/219/s101], Dec. 20, 1967, [81 Stat. 666][/us/stat/81/666]; amended [Pub. L. 100–702, title X][/us/pl/100/702], §§ 1004(a), 1006(a)(2), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665], 4666; [Pub. L. 104–317, title VI, § 604][/us/pl/104/317/s604], Oct. 19, 1996, [110 Stat. 3857][/us/stat/110/3857]; [Pub. L. 106–518, title III][/us/pl/106/518], §§ 301(b), 312(a), Nov. 13, 2000, [114 Stat. 2416][/us/stat/114/2416], 2421.)
+(Added [Pub. L. 90–219, title I][/us/pl/90/219/tI], § 101, Dec. 20, 1967, [81 Stat. 666][/us/stat/81/666]; amended [Pub. L. 100–702, title X][/us/pl/100/702/tX], §§ 1004(a), 1006(a)(2), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665], 4666; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 604, Oct. 19, 1996, [110 Stat. 3857][/us/stat/110/3857]; [Pub. L. 106–518, title III][/us/pl/106/518/tIII], §§ 301(b), 312(a), Nov. 13, 2000, [114 Stat. 2416][/us/stat/114/2416], 2421.)
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–518, § 312(a)][/us/pl/106/518/s312/a], redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “A Director of the Federal Judicial Center who attains the age of seventy years shall be retired from that office.”
+    2000—Subsec. (a). [Pub. L. 106–518][/us/pl/106/518], § 312(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “A Director of the Federal Judicial Center who attains the age of seventy years shall be retired from that office.”
 
-    Subsec. (b). [Pub. L. 106–518, § 312(a)(2)][/us/pl/106/518/s312/a/2], redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+    Subsec. (b). [Pub. L. 106–518][/us/pl/106/518], § 312(a)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-    Subsec. (c). [Pub. L. 106–518, § 312(a)(2)][/us/pl/106/518/s312/a/2], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 106–518][/us/pl/106/518], § 312(a)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    [Pub. L. 106–518, § 301(b)(2)][/us/pl/106/518/s301/b/2], in first par., substituted “who has at least fifteen years of service and has” for “who has served at least fifteen years and” and, in second par., substituted “who has at least ten years of service,” for “who has served at least ten years,”.
+    [Pub. L. 106–518][/us/pl/106/518], § 301(b)(2), in first par., substituted “who has at least fifteen years of service and has” for “who has served at least fifteen years and” and, in second par., substituted “who has at least ten years of service,” for “who has served at least ten years,”.
 
-    Subsec. (d). [Pub. L. 106–518, § 312(a)(2)][/us/pl/106/518/s312/a/2], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 106–518][/us/pl/106/518], § 312(a)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    [Pub. L. 106–518, § 301(b)(3)][/us/pl/106/518/s301/b/3], substituted “at least fifteen years of service,” for “served at least fifteen years,” and “less than fifteen years of service,” for “served less than fifteen years,”.
+    [Pub. L. 106–518][/us/pl/106/518], § 301(b)(3), substituted “at least fifteen years of service,” for “served at least fifteen years,” and “less than fifteen years of service,” for “served less than fifteen years,”.
 
-    Subsec. (e). [Pub. L. 106–518, § 312(a)(2)][/us/pl/106/518/s312/a/2], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 106–518][/us/pl/106/518], § 312(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    [Pub. L. 106–518, § 301(b)(1)][/us/pl/106/518/s301/b/1], inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
+    [Pub. L. 106–518][/us/pl/106/518], § 301(b)(1), inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
 
-    Subsec. (f). [Pub. L. 106–518, § 312(a)(2)][/us/pl/106/518/s312/a/2], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 106–518][/us/pl/106/518], § 312(a)(2), redesignated subsec. (f) as (e).
 
     1996—Subsec. (b). [Pub. L. 104–317][/us/pl/104/317], in first sentence, inserted “Deputy Director,” before “the professional staff” and “chapter 84 (relating to the Federal Employees’ Retirement System),” after “(relating to civil service retirement),”.
 
-    1988—Subsec. (b). [Pub. L. 100–702, § 1006(a)(2)][/us/pl/100/702/s1006/a/2], amended provisions after “Provided, however,” generally. Prior to amendment, those provisions read as follows: “That the Director, upon written notice filed with the Director of the Administrative Office of the United States Courts within six months after the date on which he takes office, may waive coverage under subchapter III of chapter 83 of title 5, United States Code (relating to civil service retirement), and elect coverage under the retirement and disability provisions of this section: And provided further, That upon his non-retirement separation from the Federal Judicial Center, such waiver and election shall not operate to foreclose to the Director such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by [section 8334 of title 5][/us/usc/t5/s8334], United States Code.”
+    1988—Subsec. (b). [Pub. L. 100–702][/us/pl/100/702], § 1006(a)(2), amended provisions after “Provided, however,” generally. Prior to amendment, those provisions read as follows: “That the Director, upon written notice filed with the Director of the Administrative Office of the United States Courts within six months after the date on which he takes office, may waive coverage under subchapter III of chapter 83 of title 5, United States Code (relating to civil service retirement), and elect coverage under the retirement and disability provisions of this section: And provided further, That upon his non-retirement separation from the Federal Judicial Center, such waiver and election shall not operate to foreclose to the Director such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by [section 8334 of title 5][/us/usc/t5/s8334], United States Code.”
 
-    Subsec. (f). [Pub. L. 100–702, § 1004(a)][/us/pl/100/702/s1004/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–702][/us/pl/100/702], § 1004(a), added subsec. (f).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -70,27 +70,27 @@
 [/us/usc/t5/s8422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8422%2Fa
 [/us/usc/t5/s8334/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334%2Fe
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340
-[/us/pl/90/219/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs101
+[/us/pl/90/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtI
 [/us/stat/81/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F666
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4665
-[/us/pl/104/317/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs604
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3857
-[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2416
-[/us/pl/106/518/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fa
-[/us/pl/106/518/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fa%2F2
-[/us/pl/106/518/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fa%2F2
-[/us/pl/106/518/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs301%2Fb%2F2
-[/us/pl/106/518/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fa%2F2
-[/us/pl/106/518/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs301%2Fb%2F3
-[/us/pl/106/518/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fa%2F2
-[/us/pl/106/518/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs301%2Fb%2F1
-[/us/pl/106/518/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fa%2F2
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
-[/us/pl/100/702/s1006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1006%2Fa%2F2
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
-[/us/pl/100/702/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1004%2Fa
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/100/702/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1004%2Fa
 [/us/pl/100/702/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1004%2Fb
 [/us/usc/t28/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs611

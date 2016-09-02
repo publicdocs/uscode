@@ -47,11 +47,11 @@
 
     (d) If a chief judge is temporarily unable to perform the duties as such, such duties shall be performed by the judge of the court in active service, able and qualified to act, who is next in precedence.
 
-(Added [Pub. L. 104–317, title V, § 501(a)][/us/pl/104/317/s501/a], Oct. 19, 1996, [110 Stat. 3855][/us/stat/110/3855].)
+(Added [Pub. L. 104–317, title V][/us/pl/104/317/tV], § 501(a), Oct. 19, 1996, [110 Stat. 3855][/us/stat/110/3855].)
 
  __Continuance of Position of Chief Judge__ 
 
-[Pub. L. 104–317, title V, § 501(c)][/us/pl/104/317/s501/c], Oct. 19, 1996, [110 Stat. 3856][/us/stat/110/3856], provided that:
+[Pub. L. 104–317, title V][/us/pl/104/317/tV], § 501(c), Oct. 19, 1996, [110 Stat. 3856][/us/stat/110/3856], provided that:
 
 >     “(1)
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/104/317/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs501%2Fa
+[/us/pl/104/317/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtV
 [/us/stat/110/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3855
-[/us/pl/104/317/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs501%2Fc
+[/us/pl/104/317/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtV
 [/us/stat/110/3856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3856
 [/us/usc/t28/s258/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs258%2Fa
 [/us/usc/t28/s258/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs258%2Fc

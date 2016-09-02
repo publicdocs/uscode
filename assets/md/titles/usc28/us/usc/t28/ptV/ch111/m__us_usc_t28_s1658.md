@@ -25,7 +25,7 @@
 
         (2) 5 years after such violation.
 
-(Added [Pub. L. 101–650, title III, § 313(a)][/us/pl/101/650/s313/a], Dec. 1, 1990, [104 Stat. 5114][/us/stat/104/5114]; amended [Pub. L. 107–204, title VIII, § 804(a)][/us/pl/107/204/s804/a], July 30, 2002, [116 Stat. 801][/us/stat/116/801].)
+(Added [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 313(a), Dec. 1, 1990, [104 Stat. 5114][/us/stat/104/5114]; amended [Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], § 804(a), July 30, 2002, [116 Stat. 801][/us/stat/116/801].)
 
  __References in Text__ 
 
@@ -37,19 +37,19 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–204, title VIII, § 804(b)][/us/pl/107/204/s804/b], July 30, 2002, [116 Stat. 801][/us/stat/116/801], provided that: 
+[Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], § 804(b), July 30, 2002, [116 Stat. 801][/us/stat/116/801], provided that: 
 
 > “The limitations period provided by [section 1658(b) of title 28][/us/usc/t28/s1658/b], United States Code, as added by this section, shall apply to all proceedings addressed by this section that are commenced on or after the date of enactment of this Act \[July 30, 2002\].”
 
  __Effective Date__ 
 
-[Pub. L. 101–650, title III, § 313(c)][/us/pl/101/650/s313/c], Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], provided that: 
+[Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 313(c), Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to causes of action accruing on or after the date of the enactment of this Act \[Dec. 1, 1990\].”
 
  __No Creation of Actions__ 
 
-[Pub. L. 107–204, title VIII, § 804(c)][/us/pl/107/204/s804/c], July 30, 2002, [116 Stat. 801][/us/stat/116/801], provided that: 
+[Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], § 804(c), July 30, 2002, [116 Stat. 801][/us/stat/116/801], provided that: 
 
 > “Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall create a new, private right of action.”
 
@@ -61,18 +61,18 @@
 ----------
 
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
-[/us/pl/101/650/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs313%2Fa
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5114
-[/us/pl/107/204/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs804%2Fa
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F801
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
-[/us/pl/107/204/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs804%2Fb
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F801
 [/us/usc/t28/s1658/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1658%2Fb
-[/us/pl/101/650/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs313%2Fc
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5115
-[/us/pl/107/204/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs804%2Fc
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F801
 
 

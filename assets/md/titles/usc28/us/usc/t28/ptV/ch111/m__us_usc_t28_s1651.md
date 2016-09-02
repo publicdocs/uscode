@@ -19,7 +19,7 @@
 
     (b) An alternative writ or rule nisi may be issued by a justice or judge of a court which has jurisdiction.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 944][/us/stat/62/944]; [May 24, 1949, ch. 139, § 90][/us/act/1949-05-24/ch139/s90], [63 Stat. 102][/us/stat/63/102].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 944][/us/stat/62/944]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 90, [63 Stat. 102][/us/stat/63/102].)
 
  __Historical and Revision Notes__ 
 
@@ -59,7 +59,7 @@
 
  __Writ of Error__ 
 
-[Act Jan. 31, 1928, ch. 14, § 2][/us/act/1928-01-31/ch14/s2], [45 Stat. 54][/us/stat/45/54], as amended [Apr. 26, 1928, ch. 440][/us/act/1928-04-26/ch440], [45 Stat. 466][/us/stat/45/466]; [June 25, 1948, ch. 646, § 23][/us/act/1948-06-25/ch646/s23], [62 Stat. 990][/us/stat/62/990], provided that: 
+[Act Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 2, [45 Stat. 54][/us/stat/45/54], as amended [Apr. 26, 1928, ch. 440][/us/act/1928-04-26/ch440], [45 Stat. 466][/us/stat/45/466]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 23, [62 Stat. 990][/us/stat/62/990], provided that: 
 
 > “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.”
 
@@ -72,7 +72,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F944
-[/us/act/1949-05-24/ch139/s90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs90
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F102
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1156
@@ -80,11 +80,11 @@
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1651
-[/us/act/1928-01-31/ch14/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs2
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/act/1928-04-26/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-26%2Fch440
 [/us/stat/45/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F466
-[/us/act/1948-06-25/ch646/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs23
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F990
 
 

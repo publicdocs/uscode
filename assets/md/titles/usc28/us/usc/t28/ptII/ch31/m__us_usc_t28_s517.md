@@ -17,7 +17,7 @@
 
     The Solicitor General, or any officer of the Department of Justice, may be sent by the Attorney General to any State or district in the United States to attend to the interests of the United States in a suit pending in a court of the United States, or in a court of a State, or to attend to any other interest of the United States.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 613][/us/stat/80/613].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 613][/us/stat/80/613].)
 
 <table>
 
@@ -72,7 +72,7 @@ R.S. § 367.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F613
 
 

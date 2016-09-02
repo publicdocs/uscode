@@ -23,11 +23,11 @@
 
     in a newspaper published in the district where the property is situated pursuant to the details of the order under which the warrant is issued.
 
-(Added [Pub. L. 86–682, § 9][/us/pl/86/682/s9], Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
+(Added [Pub. L. 86–682][/us/pl/86/682], § 9, Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
 
  __Codification__ 
 
-    Section was derived from R.S. § 929, which was originally classified to section 742 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 929 was reclassified to [section 842 of Title 39][/us/usc/t39/s842]. R.S. § 929 was repealed by [Pub. L. 86–682, § 12(c)][/us/pl/86/682/s12/c], Sept. 2, 1960, [74 Stat. 708][/us/stat/74/708], (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2715 of this title][/us/usc/t28/s2715].
+    Section was derived from R.S. § 929, which was originally classified to section 742 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 929 was reclassified to [section 842 of Title 39][/us/usc/t39/s842]. R.S. § 929 was repealed by [Pub. L. 86–682][/us/pl/86/682], § 12(c), Sept. 2, 1960, [74 Stat. 708][/us/stat/74/708], (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2715 of this title][/us/usc/t28/s2715].
 
 ----------
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/86/682/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs9
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F707
 [/us/usc/t39/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs842
-[/us/pl/86/682/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs12%2Fc
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F708
 [/us/usc/t28/s2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2715
 

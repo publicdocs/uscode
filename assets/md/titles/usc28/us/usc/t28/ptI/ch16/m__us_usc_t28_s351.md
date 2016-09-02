@@ -35,11 +35,11 @@
 
         (2) the term “complainant” means the person filing a complaint under subsection (a) of this section.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11042(a)][/us/pl/107/273/s11042/a], Nov. 2, 2002, [116 Stat. 1848][/us/stat/116/1848].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11042(a), Nov. 2, 2002, [116 Stat. 1848][/us/stat/116/1848].)
 
  __Severability__ 
 
-[Pub. L. 107–273, div. C, title I, § 11044][/us/pl/107/273/s11044], Nov. 2, 2002, [116 Stat. 1856][/us/stat/116/1856], provided that: 
+[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11044, Nov. 2, 2002, [116 Stat. 1856][/us/stat/116/1856], provided that: 
 
 > “If any provision of this subtitle \[subtitle C (§§ 11041–11044) of title I of div. C of [Pub. L. 107–273][/us/pl/107/273], enacting this chapter, amending sections 331, 332, 372, 375, and 604 of this title, and [section 7253 of Title 38][/us/usc/t38/s7253], Veterans’ Benefits, and enacting provisions set out as a note under [section 1 of this title][/us/usc/t28/s1]\], an amendment made by this subtitle, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this subtitle, the amendments made by this subtitle, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11042%2Fa
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1848
-[/us/pl/107/273/s11044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11044
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1856
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t38/s7253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7253

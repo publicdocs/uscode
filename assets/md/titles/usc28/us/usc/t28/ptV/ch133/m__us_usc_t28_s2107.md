@@ -41,13 +41,13 @@
 
     (d) This section shall not apply to bankruptcy matters or other proceedings under Title 11.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 963][/us/stat/62/963]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], §§ 107, 108, [63 Stat. 104][/us/stat/63/104]; [Pub. L. 95–598, title II, § 248][/us/pl/95/598/s248], Nov. 6, 1978, [92 Stat. 2672][/us/stat/92/2672]; [Pub. L. 102–198, § 12][/us/pl/102/198/s12], Dec. 9, 1991, [105 Stat. 1627][/us/stat/105/1627]; [Pub. L. 111–16, § 6(3)][/us/pl/111/16/s6/3], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 112–62, § 3][/us/pl/112/62/s3], Nov. 29, 2011, [125 Stat. 757][/us/stat/125/757].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 963][/us/stat/62/963]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], §§ 107, 108, [63 Stat. 104][/us/stat/63/104]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 248, Nov. 6, 1978, [92 Stat. 2672][/us/stat/92/2672]; [Pub. L. 102–198][/us/pl/102/198], § 12, Dec. 9, 1991, [105 Stat. 1627][/us/stat/105/1627]; [Pub. L. 111–16][/us/pl/111/16], § 6(3), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 112–62][/us/pl/112/62], § 3, Nov. 29, 2011, [125 Stat. 757][/us/stat/125/757].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 227a, 230, and [section 1142 of title 26][/us/usc/t26/s1142], U.S.C., 1940 ed., Internal Revenue Code ([Mar. 3, 1891, ch. 517, § 11][/us/act/1891-03-03/ch517/s11], [26 Stat. 829][/us/stat/26/829]; [Mar. 3, 1911, ch. 231, § 129][/us/act/1911-03-03/ch231/s129], [36 Stat. 1134][/us/stat/36/1134]; [Feb. 13, 1925, ch. 229, § 8(c)][/us/act/1925-02-13/ch229/s8/c], [43 Stat. 940][/us/stat/43/940]; [Feb. 28, 1927, ch. 228][/us/act/1927-02-28/ch228], [44 Stat. 1261][/us/stat/44/1261]; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]; [Feb. 10, 1939, ch. 2, § 1142][/us/act/1939-02-10/ch2/s1142], [53 Stat. 165][/us/stat/53/165]; [Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title V, § 504(a), (c), [56 Stat. 957][/us/stat/56/957]).
+    Based on title 28, U.S.C., 1940 ed., §§ 227a, 230, and [section 1142 of title 26][/us/usc/t26/s1142], U.S.C., 1940 ed., Internal Revenue Code ([Mar. 3, 1891, ch. 517][/us/act/1891-03-03/ch517], § 11, [26 Stat. 829][/us/stat/26/829]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 129, [36 Stat. 1134][/us/stat/36/1134]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 8(c), [43 Stat. 940][/us/stat/43/940]; [Feb. 28, 1927, ch. 228][/us/act/1927-02-28/ch228], [44 Stat. 1261][/us/stat/44/1261]; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 1142, [53 Stat. 165][/us/stat/53/165]; [Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title V, § 504(a), (c), [56 Stat. 957][/us/stat/56/957]).
 
     Section consolidates sections 227a and 230 of title 28, U.S.C., 1940 ed., with [section 1142 of title 26][/us/usc/t26/s1142], U.S.C., 1940 ed., Internal Revenue Code. Other provisions of such section 227a are incorporated in [section 1292 of this title][/us/usc/t28/s1292].
 
@@ -99,7 +99,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–62, § 4][/us/pl/112/62/s4], Nov. 29, 2011, [125 Stat. 757][/us/stat/125/757], provided that: 
+[Pub. L. 112–62][/us/pl/112/62], § 4, Nov. 29, 2011, [125 Stat. 757][/us/stat/125/757], provided that: 
 
 > “The amendment made by this Act \[amending this section\] shall take effect on December 1, 2011.”
 
@@ -109,7 +109,7 @@
 
  __Findings__ 
 
-[Pub. L. 112–62, § 2][/us/pl/112/62/s2], Nov. 29, 2011, [125 Stat. 756][/us/stat/125/756], provided that: 
+[Pub. L. 112–62][/us/pl/112/62], § 2, Nov. 29, 2011, [125 Stat. 756][/us/stat/125/756], provided that: 
 
 > “Congress finds that—
 
@@ -150,26 +150,26 @@
 [/us/stat/62/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F963
 [/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F104
-[/us/pl/95/598/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs248
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2672
-[/us/pl/102/198/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs12
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1627
-[/us/pl/111/16/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs6%2F3
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
-[/us/pl/112/62/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F62%2Fs3
+[/us/pl/112/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F62
 [/us/stat/125/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F757
 [/us/usc/t26/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1142
-[/us/act/1891-03-03/ch517/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch517%2Fs11
+[/us/act/1891-03-03/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch517
 [/us/stat/26/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F829
-[/us/act/1911-03-03/ch231/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs129
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1134
-[/us/act/1925-02-13/ch229/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs8%2Fc
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F940
 [/us/act/1927-02-28/ch228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-28%2Fch228
 [/us/stat/44/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1261
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
-[/us/act/1939-02-10/ch2/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs1142
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F165
 [/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
 [/us/stat/56/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F957
@@ -192,12 +192,12 @@
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/112/62/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F62%2Fs4
+[/us/pl/112/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F62
 [/us/stat/125/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F757
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109
-[/us/pl/112/62/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F62%2Fs2
+[/us/pl/112/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F62
 [/us/stat/125/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F756
 [/us/usc/t28/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2107
 [/us/usc/t28/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2107

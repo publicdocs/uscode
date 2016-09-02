@@ -21,11 +21,11 @@
 
     Except as otherwise provided by law, compromise settlements of claims referred to the Attorney General for defense of imminent litigation or suits against the United States, or against its agencies or officials upon obligations or liabilities of the United States, made by the Attorney General or any person authorized by him, shall be settled and paid in a manner similar to judgments in like causes and appropriations or funds available for the payment of such judgments are hereby made available for the payment of such compromise settlements.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 974][/us/stat/62/974]; [Pub. L. 87–187, § 1][/us/pl/87/187/s1], Aug. 30, 1961, [75 Stat. 415][/us/stat/75/415]; [Pub. L. 95–563, § 14(d)][/us/pl/95/563/s14/d], Nov. 1, 1978, [92 Stat. 2390][/us/stat/92/2390]; [Pub. L. 96–417, title V, § 512][/us/pl/96/417/s512], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 104–316, title II, § 202(k)][/us/pl/104/316/s202/k], Oct. 19, 1996, [110 Stat. 3843][/us/stat/110/3843]; [Pub. L. 111–350, § 5(g)(10)][/us/pl/111/350/s5/g/10], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 974][/us/stat/62/974]; [Pub. L. 87–187][/us/pl/87/187], § 1, Aug. 30, 1961, [75 Stat. 415][/us/stat/75/415]; [Pub. L. 95–563][/us/pl/95/563], § 14(d), Nov. 1, 1978, [92 Stat. 2390][/us/stat/92/2390]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 512, Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(k), Oct. 19, 1996, [110 Stat. 3843][/us/stat/110/3843]; [Pub. L. 111–350][/us/pl/111/350], § 5(g)(10), Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 228 of title 31][/us/usc/t31/s228], U.S.C., 1940 ed., Money and Finance ([Feb. 18, 1904, ch. 160, § 1][/us/act/1904-02-18/ch160/s1], [33 Stat. 41][/us/stat/33/41]; [June 10, 1921, ch. 18, § 304][/us/act/1921-06-10/ch18/s304], [42 Stat. 24][/us/stat/42/24]).
+    Based on [section 228 of title 31][/us/usc/t31/s228], U.S.C., 1940 ed., Money and Finance ([Feb. 18, 1904, ch. 160][/us/act/1904-02-18/ch160], § 1, [33 Stat. 41][/us/stat/33/41]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], § 304, [42 Stat. 24][/us/stat/42/24]).
 
     Similar provisions of [section 228 of title 31][/us/usc/t31/s228], U.S.C., 1940 ed., relating to judgments of the court of claims are incorporated in [section 2517 of this title][/us/usc/t28/s2517].
 
@@ -62,20 +62,20 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F974
-[/us/pl/87/187/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F187%2Fs1
+[/us/pl/87/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F187
 [/us/stat/75/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F415
-[/us/pl/95/563/s14/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563%2Fs14%2Fd
+[/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/stat/92/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2390
-[/us/pl/96/417/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs512
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1744
-[/us/pl/104/316/s202/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fk
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3843
-[/us/pl/111/350/s5/g/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F10
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3848
 [/us/usc/t31/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs228
-[/us/act/1904-02-18/ch160/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-02-18%2Fch160%2Fs1
+[/us/act/1904-02-18/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-02-18%2Fch160
 [/us/stat/33/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F41
-[/us/act/1921-06-10/ch18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18%2Fs304
+[/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
 [/us/usc/t31/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs228
 [/us/usc/t28/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2517

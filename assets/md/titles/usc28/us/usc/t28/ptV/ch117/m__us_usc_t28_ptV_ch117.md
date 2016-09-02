@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–273, div. C, title I, § 11020(b)(4)(B)(ii)][/us/pl/107/273/s11020/b/4/B/ii], Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829], added item 1785.
+    2002—[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11020(b)(4)(B)(ii), Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829], added item 1785.
 
     1964—[Pub. L. 88–619][/us/pl/88/619], §§ 8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, [78 Stat. 997][/us/stat/78/997], 998, substituted “Transmittal of letter rogatory or request” for “Foreign witnesses” in item 1781, “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in item 1782, “person” for “witness” in item 1783, and struck out item 1785 “Privilege against incrimination”.
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11020/b/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11020%2Fb%2F4%2FB%2Fii
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1829
 [/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F997

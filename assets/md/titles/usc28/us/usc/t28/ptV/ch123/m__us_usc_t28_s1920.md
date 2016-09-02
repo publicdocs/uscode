@@ -31,11 +31,11 @@
 
     A bill of costs shall be filed in the case and, upon allowance, included in the judgment or decree.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 955][/us/stat/62/955]; [Pub. L. 95–539, § 7][/us/pl/95/539/s7], Oct. 28, 1978, [92 Stat. 2044][/us/stat/92/2044]; [Pub. L. 110–406, § 6][/us/pl/110/406/s6], Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 955][/us/stat/62/955]; [Pub. L. 95–539][/us/pl/95/539], § 7, Oct. 28, 1978, [92 Stat. 2044][/us/stat/92/2044]; [Pub. L. 110–406][/us/pl/110/406], § 6, Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 9a(a) and 830 (R.S. § 983; [Mar. 3, 1911, ch. 231, § 5a][/us/act/1911-03-03/ch231/s5a], as added [Jan. 20, 1944, ch. 3, § 1][/us/act/1944-01-20/ch3/s1], [58 Stat. 5][/us/stat/58/5]).
+    Based on title 28, U.S.C., 1940 ed., §§ 9a(a) and 830 (R.S. § 983; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 5a, as added [Jan. 20, 1944, ch. 3][/us/act/1944-01-20/ch3], § 1, [58 Stat. 5][/us/stat/58/5]).
 
     For distribution of other provisions of [section 9a of title 28][/us/usc/t28/s9a], U.S.C., 1940 ed., see table at end of reviser’s notes.
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    2008—Par. (2). [Pub. L. 110–406, § 6(1)][/us/pl/110/406/s6/1], substituted “for printed or electronically recorded transcripts” for “of the court reporter for all or any part of the stenographic transcript”.
+    2008—Par. (2). [Pub. L. 110–406][/us/pl/110/406], § 6(1), substituted “for printed or electronically recorded transcripts” for “of the court reporter for all or any part of the stenographic transcript”.
 
-    Par. (4). [Pub. L. 110–406, § 6(2)][/us/pl/110/406/s6/2], substituted “the costs of making copies of any materials where the copies are” for “copies of papers”.
+    Par. (4). [Pub. L. 110–406][/us/pl/110/406], § 6(2), substituted “the costs of making copies of any materials where the copies are” for “copies of papers”.
 
     1978—Par. (6). [Pub. L. 95–539][/us/pl/95/539] added par. (6).
 
@@ -66,16 +66,16 @@
 [/us/usc/t28/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1828
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F955
-[/us/pl/95/539/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs7
+[/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/stat/92/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2044
-[/us/pl/110/406/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs6
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4292
-[/us/act/1911-03-03/ch231/s5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs5a
-[/us/act/1944-01-20/ch3/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-01-20%2Fch3%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1944-01-20/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-01-20%2Fch3
 [/us/stat/58/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F5
 [/us/usc/t28/s9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs9a
-[/us/pl/110/406/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs6%2F1
-[/us/pl/110/406/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs6%2F2
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/pl/95/539/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs10%2Fa

@@ -17,7 +17,7 @@
 
     This chapter shall cease to be effective five years after the date of the enactment of the Independent Counsel Reauthorization Act of 1994, except that this chapter shall continue in effect with respect to then pending matters before an independent counsel that in the judgment of such counsel require such continuation until that independent counsel determines such matters have been completed.
 
-(Added [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1306][/us/stat/101/1306]; amended [Pub. L. 103–270, § 2][/us/pl/103/270/s2], June 30, 1994, [108 Stat. 732][/us/stat/108/732].)
+(Added [Pub. L. 100–191][/us/pl/100/191], § 2, Dec. 15, 1987, [101 Stat. 1306][/us/stat/101/1306]; amended [Pub. L. 103–270][/us/pl/103/270], § 2, June 30, 1994, [108 Stat. 732][/us/stat/108/732].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/100/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs2
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1306
-[/us/pl/103/270/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs2
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/stat/108/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F732
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270

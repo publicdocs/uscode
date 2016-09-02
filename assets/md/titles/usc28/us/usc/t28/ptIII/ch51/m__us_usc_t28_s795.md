@@ -17,11 +17,11 @@
 
     The chief judge of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of the”. </sup></sup>  United States Court of Federal Claims, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office of the United States Courts may approve, each of whom shall be subject to removal by the chief judge, with the approval of the court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 924][/us/stat/62/924]; [Pub. L. 97–164, title I, § 121(d)(1)][/us/pl/97/164/s121/d/1], Apr. 2, 1982, [96 Stat. 35][/us/stat/96/35]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 924][/us/stat/62/924]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 121(d)(1), Apr. 2, 1982, [96 Stat. 35][/us/stat/96/35]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 244 ([Mar. 3, 1911, ch. 231, § 139][/us/act/1911-03-03/ch231/s139], [36 Stat. 1136][/us/stat/36/1136]).
+    Based on title 28, U.S.C., 1940 ed., § 244 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 139, [36 Stat. 1136][/us/stat/36/1136]).
 
     The provision in [section 244 of title 28][/us/usc/t28/s244], U.S.C., 1940 ed., that the bailiff should serve 4 years unless sooner removed by the court for cause, was changed by omitting the 4-year tenure and removal “for cause” requirement. As revised this section conforms with sections relating to the similar court officers.
 
@@ -56,11 +56,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F924
-[/us/pl/97/164/s121/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs121%2Fd%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F35
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1911-03-03/ch231/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs139
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1136
 [/us/usc/t28/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs244
 [/us/usc/t28/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs244

@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter. The Administrative Office of the United States Courts shall provide accounting, disbursing, auditing, and other fiscal services for the Federal Judicial Center.
 
-(Added [Pub. L. 90–219, title I, § 101][/us/pl/90/219/s101], Dec. 20, 1967, [81 Stat. 667][/us/stat/81/667].)
+(Added [Pub. L. 90–219, title I][/us/pl/90/219/tI], § 101, Dec. 20, 1967, [81 Stat. 667][/us/stat/81/667].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/219/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs101
+[/us/pl/90/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtI
 [/us/stat/81/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F667
 
 

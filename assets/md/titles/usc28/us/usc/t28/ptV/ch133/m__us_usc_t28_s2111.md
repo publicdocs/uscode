@@ -17,7 +17,7 @@
 
     On the hearing of any appeal or writ of certiorari in any case, the court shall give judgment after an examination of the record without regard to errors or defects which do not affect the substantial rights of the parties.
 
-(Added [May 24, 1949, ch. 139, § 110][/us/act/1949-05-24/ch139/s110], [63 Stat. 105][/us/stat/63/105].)
+(Added [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 110, [63 Stat. 105][/us/stat/63/105].)
 
  __Historical and Revision Notes__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1949-05-24/ch139/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs110
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F105
 
 

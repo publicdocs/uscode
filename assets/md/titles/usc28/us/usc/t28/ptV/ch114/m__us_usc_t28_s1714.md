@@ -17,7 +17,7 @@
 
     The court may not approve a proposed settlement that provides for the payment of greater sums to some class members than to others solely on the basis that the class members to whom the greater sums are to be paid are located in closer geographic proximity to the court.
 
-(Added [Pub. L. 109–2, § 3(a)][/us/pl/109/2/s3/a], Feb. 18, 2005, [119 Stat. 7][/us/stat/119/7].)
+(Added [Pub. L. 109–2][/us/pl/109/2], § 3(a), Feb. 18, 2005, [119 Stat. 7][/us/stat/119/7].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/2/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs3%2Fa
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F7
 
 

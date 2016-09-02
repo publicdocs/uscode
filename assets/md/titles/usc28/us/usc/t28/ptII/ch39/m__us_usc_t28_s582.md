@@ -19,7 +19,7 @@
 
     (b) Each assistant United States trustee is subject to removal by the Attorney General.
 
-(Added [Pub. L. 95–598, title II, § 224(a)][/us/pl/95/598/s224/a], Nov. 6, 1978, [92 Stat. 2663][/us/stat/92/2663]; amended [Pub. L. 99–554, title I, § 111(d)][/us/pl/99/554/s111/d], Oct. 27, 1986, [100 Stat. 3091][/us/stat/100/3091].)
+(Added [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 224(a), Nov. 6, 1978, [92 Stat. 2663][/us/stat/92/2663]; amended [Pub. L. 99–554, title I][/us/pl/99/554/tI], § 111(d), Oct. 27, 1986, [100 Stat. 3091][/us/stat/100/3091].)
 
  __Codification__ 
 
@@ -27,9 +27,9 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 111(d)(1)][/us/pl/99/554/s111/d/1], substituted “region” for “district”.
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 111(d)(1), substituted “region” for “district”.
 
-    Subsec. (b). [Pub. L. 99–554, § 111(d)(2)][/us/pl/99/554/s111/d/2], struck out “for cause” after “removal”.
+    Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 111(d)(2), struck out “for cause” after “removal”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/pl/95/598/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs224%2Fa
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2663
-[/us/pl/99/554/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs111%2Fd
+[/us/pl/99/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtI
 [/us/stat/100/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3091
 [/us/pl/95/598/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs408%2Fc
 [/us/pl/99/554/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs307%2Fb
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581
-[/us/pl/99/554/s111/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs111%2Fd%2F1
-[/us/pl/99/554/s111/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs111%2Fd%2F2
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs302%2Fa
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581

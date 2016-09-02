@@ -19,7 +19,7 @@
 
     (b) Each court, except the Supreme Court, that is authorized to prescribe rules of the conduct of such court’s business under [section 2071 of this title][/us/usc/t28/s2071] shall appoint an advisory committee for the study of the rules of practice and internal operating procedures of such court and, in the case of an advisory committee appointed by a court of appeals, of the rules of the judicial council of the circuit. The advisory committee shall make recommendations to the court concerning such rules and procedures. Members of the committee shall serve without compensation, but the Director may pay travel and transportation expenses in accordance with [section 5703 of title 5][/us/usc/t5/s5703].
 
-(Added [Pub. L. 97–164, title II, § 208(a)][/us/pl/97/164/s208/a], Apr. 2, 1982, [96 Stat. 54][/us/stat/96/54]; amended [Pub. L. 100–702, title IV, § 401(b)][/us/pl/100/702/s401/b], Nov. 19, 1988, [102 Stat. 4650][/us/stat/102/4650]; [Pub. L. 101–650, title IV, § 406][/us/pl/101/650/s406], Dec. 1, 1990, [104 Stat. 5124][/us/stat/104/5124].)
+(Added [Pub. L. 97–164, title II][/us/pl/97/164/tII], § 208(a), Apr. 2, 1982, [96 Stat. 54][/us/stat/96/54]; amended [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 401(b), Nov. 19, 1988, [102 Stat. 4650][/us/stat/102/4650]; [Pub. L. 101–650, title IV][/us/pl/101/650/tIV], § 406, Dec. 1, 1990, [104 Stat. 5124][/us/stat/104/5124].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 [/us/usc/t28/s1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1913
 [/us/usc/t28/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2071
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/97/164/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs208%2Fa
+[/us/pl/97/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtII
 [/us/stat/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F54
-[/us/pl/100/702/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs401%2Fb
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4650
-[/us/pl/101/650/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs406
+[/us/pl/101/650/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIV
 [/us/stat/104/5124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5124
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702

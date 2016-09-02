@@ -29,7 +29,7 @@
 
         (4) jurors shall be compensated in accordance with [section 1871 of this title][/us/usc/t28/s1871].
 
-(Added [Pub. L. 96–417, title III, § 302(a)][/us/pl/96/417/s302/a], Oct. 10, 1980, [94 Stat. 1739][/us/stat/94/1739].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 302(a), Oct. 10, 1980, [94 Stat. 1739][/us/stat/94/1739].)
 
  __Effective Date__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t28/s1865/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1865%2Fb
 [/us/usc/t28/s1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1870
 [/us/usc/t28/s1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1871
-[/us/pl/96/417/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs302%2Fa
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1739
 [/us/pl/96/417/s701/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs701%2Fb%2F1%2FC
 [/us/usc/t28/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs251

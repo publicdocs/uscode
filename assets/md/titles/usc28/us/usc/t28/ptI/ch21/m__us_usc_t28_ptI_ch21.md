@@ -131,17 +131,17 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–164, title I][/us/pl/97/164], §§ 115(a)(2), (b)(2), (c)(2), 116(b), Apr. 2, 1982, [96 Stat. 31][/us/stat/96/31], 32, inserted “; official duty stations” in item 456, substituted “other courts” for “Canal Zone, Guam and Virgin Islands” in item 460, and added items 462 and 463.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], §§ 115(a)(2), (b)(2), (c)(2), 116(b), Apr. 2, 1982, [96 Stat. 31][/us/stat/96/31], 32, inserted “; official duty stations” in item 456, substituted “other courts” for “Canal Zone, Guam and Virgin Islands” in item 460, and added items 462 and 463.
 
-    1978—[Pub. L. 95–598, title II][/us/pl/95/598], §§ 214(c), 217(b), Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661], struck out “Alaska,” after “Application to” in item 460 and struck out reference to referees in bankruptcy in item 455.
+    1978—[Pub. L. 95–598, title II][/us/pl/95/598/tII], §§ 214(c), 217(b), Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661], struck out “Alaska,” after “Application to” in item 460 and struck out reference to referees in bankruptcy in item 455.
 
-    1975—[Pub. L. 94–82, title II, § 205(a)(2)][/us/pl/94/82/s205/a/2], Aug. 9, 1975, [89 Stat. 422][/us/stat/89/422], added item 461.
+    1975—[Pub. L. 94–82, title II][/us/pl/94/82/tII], § 205(a)(2), Aug. 9, 1975, [89 Stat. 422][/us/stat/89/422], added item 461.
 
-    1974—[Pub. L. 93–512, § 2][/us/pl/93/512/s2], Dec. 5, 1974, [88 Stat. 1610][/us/stat/88/1610], substituted “Disqualification of justice, judge, magistrate, or referee in bankruptcy” for “Interest of justice or judge” in item 455.
+    1974—[Pub. L. 93–512][/us/pl/93/512], § 2, Dec. 5, 1974, [88 Stat. 1610][/us/stat/88/1610], substituted “Disqualification of justice, judge, magistrate, or referee in bankruptcy” for “Interest of justice or judge” in item 455.
 
-    1963—[Pub. L. 88–139, § 3(b)][/us/pl/88/139/s3/b], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248], substituted “power unrestricted by expiration of sessions” for “powers unrestricted by terms” in item 452.
+    1963—[Pub. L. 88–139][/us/pl/88/139], § 3(b), Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248], substituted “power unrestricted by expiration of sessions” for “powers unrestricted by terms” in item 452.
 
-    1951—[Act Oct. 31, 1951, ch. 655, § 42][/us/act/1951-10-31/ch655/s42], [65 Stat. 725][/us/stat/65/725], inserted “, Guam” in item 460.
+    1951—[Act Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 42, [65 Stat. 725][/us/stat/65/725], inserted “, Guam” in item 460.
 
  __Change of Name__ 
 
@@ -154,17 +154,17 @@
 ----------
 ----------
 
-[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F31
-[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2661
-[/us/pl/94/82/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs205%2Fa%2F2
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F422
-[/us/pl/93/512/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F512%2Fs2
+[/us/pl/93/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F512
 [/us/stat/88/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1610
-[/us/pl/88/139/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs3%2Fb
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 [/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
-[/us/act/1951-10-31/ch655/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs42
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F725
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

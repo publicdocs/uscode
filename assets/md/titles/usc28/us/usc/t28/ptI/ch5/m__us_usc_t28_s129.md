@@ -29,11 +29,11 @@ Southern District
 
     Court for the Southern District shall be held at Beckley, Bluefield, Charleston, Huntington, Lewisburg, and Parkersburg.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 894][/us/stat/62/894]; [Pub. L. 97–471, § 1][/us/pl/97/471/s1], Jan. 14, 1983, [96 Stat. 2601][/us/stat/96/2601].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 894][/us/stat/62/894]; [Pub. L. 97–471][/us/pl/97/471], § 1, Jan. 14, 1983, [96 Stat. 2601][/us/stat/96/2601].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 194 ([Mar. 3, 1911, ch. 231, § 113][/us/act/1911-03-03/ch231/s113], [36 Stat. 1129][/us/stat/36/1129]; [Mar. 23, 1912, ch. 63][/us/act/1912-03-23/ch63], [37 Stat. 76][/us/stat/37/76]; [Aug. 22, 1914, ch. 265][/us/act/1914-08-22/ch265], [38 Stat. 702][/us/stat/38/702]; [Feb. 27, 1922, ch. 83][/us/act/1922-02-27/ch83], [42 Stat. 398][/us/stat/42/398]; [June 22, 1936, ch. 695][/us/act/1936-06-22/ch695], [49 Stat. 1805][/us/stat/49/1805]; [Aug. 23, 1937, ch. 737][/us/act/1937-08-23/ch737], [50 Stat. 744][/us/stat/50/744]; [June 29, 1938, ch. 817][/us/act/1938-06-29/ch817], [52 Stat. 1245][/us/stat/52/1245]).
+    Based on title 28, U.S.C., 1940 ed., § 194 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 113, [36 Stat. 1129][/us/stat/36/1129]; [Mar. 23, 1912, ch. 63][/us/act/1912-03-23/ch63], [37 Stat. 76][/us/stat/37/76]; [Aug. 22, 1914, ch. 265][/us/act/1914-08-22/ch265], [38 Stat. 702][/us/stat/38/702]; [Feb. 27, 1922, ch. 83][/us/act/1922-02-27/ch83], [42 Stat. 398][/us/stat/42/398]; [June 22, 1936, ch. 695][/us/act/1936-06-22/ch695], [49 Stat. 1805][/us/stat/49/1805]; [Aug. 23, 1937, ch. 737][/us/act/1937-08-23/ch737], [50 Stat. 744][/us/stat/50/744]; [June 29, 1938, ch. 817][/us/act/1938-06-29/ch817], [52 Stat. 1245][/us/stat/52/1245]).
 
     Words “with the waters thereof,” after the list of counties in each district, were omitted as unnecessary, and in view of the absence of such words in similar sections relating to other States.
 
@@ -47,9 +47,9 @@ Southern District
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 97–471, § 1(1)][/us/pl/97/471/s1/1], struck out references to Parkersburg, Wirt, and Wood counties and inserted references to Braxton, Pocahontas, and Webster counties.
+    1983—Subsec. (a). [Pub. L. 97–471][/us/pl/97/471], § 1(1), struck out references to Parkersburg, Wirt, and Wood counties and inserted references to Braxton, Pocahontas, and Webster counties.
 
-    Subsec. (b). [Pub. L. 97–471, § 1(2)][/us/pl/97/471/s1/2], struck out references to Braxton, Pocahontas, and Webster counties and inserted references to Parkersburg, Wirt, and Wood counties.
+    Subsec. (b). [Pub. L. 97–471][/us/pl/97/471], § 1(2), struck out references to Braxton, Pocahontas, and Webster counties and inserted references to Parkersburg, Wirt, and Wood counties.
 
 ----------
 
@@ -60,9 +60,9 @@ Southern District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F894
-[/us/pl/97/471/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F471%2Fs1
+[/us/pl/97/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F471
 [/us/stat/96/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2601
-[/us/act/1911-03-03/ch231/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs113
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1129
 [/us/act/1912-03-23/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-03-23%2Fch63
 [/us/stat/37/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F76
@@ -78,7 +78,7 @@ Southern District
 [/us/stat/52/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1245
 [/us/usc/t28/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs141
 [/us/usc/t28/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs142
-[/us/pl/97/471/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F471%2Fs1%2F1
-[/us/pl/97/471/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F471%2Fs1%2F2
+[/us/pl/97/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F471
+[/us/pl/97/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F471
 
 

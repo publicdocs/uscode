@@ -19,11 +19,11 @@
 
     To enforce such lien, the clerk of the court in which the same is acquired, upon the request and at the cost of the party desiring the same, shall make a certified copy of the record thereof, which, when filed in the proper court of the district or division in which such property is situated after such creation or transfer shall be evidence in all courts and places equally with the original thereof; and, thereafter like proceedings shall be had thereon, and with the same effect, as though the case or proceeding had been originally instituted in such court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 944][/us/stat/62/944]; [Pub. L. 95–598, title II, § 242][/us/pl/95/598/s242], Nov. 6, 1978, [92 Stat. 2671][/us/stat/92/2671].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 944][/us/stat/62/944]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 242, Nov. 6, 1978, [92 Stat. 2671][/us/stat/92/2671].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 122 ([Mar. 3, 1911, ch. 231, § 60][/us/act/1911-03-03/ch231/s60], [36 Stat. 1103][/us/stat/36/1103]).
+    Based on title 28, U.S.C., 1940 ed., § 122 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 60, [36 Stat. 1103][/us/stat/36/1103]).
 
     A provision as to creation of a new district or division or transfer of territory before March 3, 1911, was omitted as obsolete.
 
@@ -44,9 +44,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F944
-[/us/pl/95/598/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs242
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2671
-[/us/act/1911-03-03/ch231/s60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs60
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1103
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb

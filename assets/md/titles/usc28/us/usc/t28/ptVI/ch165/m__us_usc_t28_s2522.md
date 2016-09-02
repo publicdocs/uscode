@@ -17,7 +17,7 @@
 
     Review of a decision of the United States Court of Federal Claims shall be obtained by filing a notice of appeal with the clerk of the Court of Federal Claims within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts.
 
-(Added [Pub. L. 97–164, title I, § 139(q)(1)][/us/pl/97/164/s139/q/1], Apr. 2, 1982, [96 Stat. 44][/us/stat/96/44]; amended [Pub. L. 102–572, title IX, § 902(a)][/us/pl/102/572/s902/a], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(q)(1), Apr. 2, 1982, [96 Stat. 44][/us/stat/96/44]; amended [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/97/164/s139/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fq%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F44
-[/us/pl/102/572/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

@@ -75,7 +75,7 @@
 
     (c) For purposes of construing and applying chapter 87 of title 5, including any adjustment of insurance rates by regulation or otherwise, a judge of the United States Court of Federal Claims in regular active service or who is retired under [section 178 of this title][/us/usc/t28/s178] shall be deemed to be a judge of the United States described under [section 8701(a)(5) of title 5][/us/usc/t5/s8701/a/5].
 
-(Added [Pub. L. 106–518, title III, § 309(a)][/us/pl/106/518/s309/a], Nov. 13, 2000, [114 Stat. 2419][/us/stat/114/2419].)
+(Added [Pub. L. 106–518, title III][/us/pl/106/518/tIII], § 309(a), Nov. 13, 2000, [114 Stat. 2419][/us/stat/114/2419].)
 
 ----------
 
@@ -91,7 +91,7 @@
 [/us/usc/t5/s8905/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905%2Fg%2F1
 [/us/usc/t28/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs178
 [/us/usc/t5/s8701/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701%2Fa%2F5
-[/us/pl/106/518/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs309%2Fa
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2419
 
 

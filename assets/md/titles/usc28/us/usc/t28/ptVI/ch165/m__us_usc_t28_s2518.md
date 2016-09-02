@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t28/ptVI/ch165/m__us_usc_t28_s2517.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch165/m__us_usc_t28_s2519.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2518)
 
-## \[§ 2518. Repealed. [Pub. L. 97–164, title I, § 139(l)][/us/pl/97/164/s139/l], Apr. 2, 1982, [96 Stat. 43][/us/stat/96/43]\]
+## \[§ 2518. Repealed. [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(l), Apr. 2, 1982, [96 Stat. 43][/us/stat/96/43]\]
 
     Section, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 979][/us/stat/62/979], related to certification of Court of Claims judgments for appropriation.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/97/164/s139/l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fl
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F43
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F979

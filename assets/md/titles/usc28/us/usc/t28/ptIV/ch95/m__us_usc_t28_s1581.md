@@ -19,7 +19,7 @@
 
     (b) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516 of the Tariff Act of 1930.
 
-    (c) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A of the Tariff Act of 1930.
+    (c) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A or 517 of the Tariff Act of 1930.
 
     (d)
 
@@ -65,7 +65,7 @@
 
     (j) The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
-(Added [Pub. L. 96–417, title II, § 201][/us/pl/96/417/s201], Oct. 10, 1980, [94 Stat. 1728][/us/stat/94/1728]; amended [Pub. L. 98–573, title II, § 212(b)(1)][/us/pl/98/573/s212/b/1], Oct. 30, 1984, [98 Stat. 2983][/us/stat/98/2983]; [Pub. L. 99–514, title XVIII, § 1891(1)][/us/pl/99/514/s1891/1], Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926]; [Pub. L. 100–449, title IV, § 402(a)][/us/pl/100/449/s402/a], Sept. 28, 1988, [102 Stat. 1883][/us/stat/102/1883]; [Pub. L. 103–182, title IV, § 414(a)(1)][/us/pl/103/182/s414/a/1], title VI, § 684(a)(1), Dec. 8, 1993, [107 Stat. 2147][/us/stat/107/2147], 2219; [Pub. L. 111–5, div. B, title I, § 1873(b)(2)][/us/pl/111/5/s1873/b/2], Feb. 17, 2009, [123 Stat. 414][/us/stat/123/414].)
+(Added [Pub. L. 96–417, title II][/us/pl/96/417/tII], § 201, Oct. 10, 1980, [94 Stat. 1728][/us/stat/94/1728]; amended [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 212(b)(1), Oct. 30, 1984, [98 Stat. 2983][/us/stat/98/2983]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1891(1), Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926]; [Pub. L. 100–449, title IV][/us/pl/100/449/tIV], § 402(a), Sept. 28, 1988, [102 Stat. 1883][/us/stat/102/1883]; [Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 414(a)(1), title VI, § 684(a)(1), Dec. 8, 1993, [107 Stat. 2147][/us/stat/107/2147], 2219; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1873(b)(2), Feb. 17, 2009, [123 Stat. 414][/us/stat/123/414]; [Pub. L. 114–125, title IV][/us/pl/114/125/tIV], § 421(b), Feb. 24, 2016, [130 Stat. 168][/us/stat/130/168].)
 
  __Amendment of Section__ 
 
@@ -87,9 +87,9 @@
 
     Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified to [section 1516 of Title 19][/us/usc/t19/s1516], Customs Duties.
 
-    Section 516A of the Tariff Act of 1930, referred to in subsecs. (c) and (i), is classified to [section 1516a of Title 19][/us/usc/t19/s1516a], Customs Duties.
+    Section 516A or section 517 of the Tariff Act of 1930, referred to in subsecs. (c) and (i), are classified to sections 1516a and 1517 of Title 19, Customs Duties.
 
-    The Trade Act of 1974, referred to in subsec. (d), is [Pub. L. 93–618][/us/pl/93/618], Jan. 3, 1975, [88 Stat. 1978][/us/stat/88/1978], which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to [section 2371b of Title 19][/us/usc/t19/s2371b], was repealed by [Pub. L. 112–40, title II, § 222(a)(1)][/us/pl/112/40/s222/a/1], Oct. 21, 2011, [125 Stat. 411][/us/stat/125/411]. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19][/us/usc/t19/s2101] and Tables.
+    The Trade Act of 1974, referred to in subsec. (d), is [Pub. L. 93–618][/us/pl/93/618], Jan. 3, 1975, [88 Stat. 1978][/us/stat/88/1978], which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to [section 2371b of Title 19][/us/usc/t19/s2371b], was repealed by [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 222(a)(1), Oct. 21, 2011, [125 Stat. 411][/us/stat/125/411]. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19][/us/usc/t19/s2101] and Tables.
 
     Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to [section 2515(b)(1) of Title 19][/us/usc/t19/s2515/b/1], Customs Duties.
 
@@ -107,11 +107,13 @@
 
  __Amendments__ 
 
+    2016—Subsec. (c). [Pub. L. 114–125][/us/pl/114/125] inserted “or 517” after “516A”.
+
     2009—Subsec. (d)(3), (4). [Pub. L. 111–5][/us/pl/111/5] substituted “273” for “271” in par. (3) and added par. (4).
 
-    1993—Subsec. (g)(3). [Pub. L. 103–182, § 684(a)(1)][/us/pl/103/182/s684/a/1], added par. (3).
+    1993—Subsec. (g)(3). [Pub. L. 103–182][/us/pl/103/182], § 684(a)(1), added par. (3).
 
-    Subsec. (i). [Pub. L. 103–182, § 414(a)(1)][/us/pl/103/182/s414/a/1], inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
+    Subsec. (i). [Pub. L. 103–182][/us/pl/103/182], § 414(a)(1), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
 
     1988—Subsec. (i). [Pub. L. 100–449][/us/pl/100/449] temporarily inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.” See Effective and Termination Dates of 1988 Amendment note below.
 
@@ -145,7 +147,7 @@
 
  __Application of 1993 Amendment__ 
 
-[Pub. L. 103–182, title VI, § 684(b)][/us/pl/103/182/s684/b], Dec. 8, 1993, 107 Stat 2219, provided that: 
+[Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 684(b), Dec. 8, 1993, 107 Stat 2219, provided that: 
 
 > “For purposes of applying the amendments made by subsection (a) \[amending this section and sections 2631, 2636, 2640, and 2642 of this title\], any decision or order of the Customs Service denying, suspending, or revoking the accreditation of a private laboratory on or after the date of the enactment of this Act \[Dec. 8, 1993\] and before regulations to implement section 499(b) of the Tariff Act of 1930 \[[19 U.S.C. 1499(b)][/us/usc/t19/s1499/b]\] are issued shall be treated as having been denied, suspended, or revoked under such section 499(b).”
 
@@ -165,18 +167,20 @@
 ----------
 
 [/us/usc/t19/s2401b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401b
-[/us/pl/96/417/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs201
+[/us/pl/96/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtII
 [/us/stat/94/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1728
-[/us/pl/98/573/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F1
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2983
-[/us/pl/99/514/s1891/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1891%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2926
-[/us/pl/100/449/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs402%2Fa
+[/us/pl/100/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIV
 [/us/stat/102/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1883
-[/us/pl/103/182/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs414%2Fa%2F1
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2147
-[/us/pl/111/5/s1873/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1873%2Fb%2F2
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F414
+[/us/pl/114/125/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIV
+[/us/stat/130/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F168
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/act/1890-06-10/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407
@@ -187,11 +191,10 @@
 [/us/usc/t19/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1518
 [/us/usc/t19/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1515
 [/us/usc/t19/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516
-[/us/usc/t19/s1516a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2371b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371b
-[/us/pl/112/40/s222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fa%2F1
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F411
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 [/us/usc/t19/s2515/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2515%2Fb%2F1
@@ -203,9 +206,10 @@
 [/us/stat/62/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F943
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1585
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/103/182/s684/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs684%2Fa%2F1
-[/us/pl/103/182/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs414%2Fa%2F1
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/100/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
@@ -226,7 +230,7 @@
 [/us/pl/96/417/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs701%2Fa
 [/us/usc/t28/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs251
 [/us/pl/96/417/s701/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs701%2Fb%2F1%2FA
-[/us/pl/103/182/s684/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs684%2Fb
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/usc/t19/s1499/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1499%2Fb
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

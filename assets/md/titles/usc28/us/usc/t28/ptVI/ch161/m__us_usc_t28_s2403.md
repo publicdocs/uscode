@@ -19,11 +19,11 @@
 
     (b) In any action, suit, or proceeding in a court of the United States to which a State or any agency, officer, or employee thereof is not a party, wherein the constitutionality of any statute of that State affecting the public interest is drawn in question, the court shall certify such fact to the attorney general of the State, and shall permit the State to intervene for presentation of evidence, if evidence is otherwise admissible in the case, and for argument on the question of constitutionality. The State shall, subject to the applicable provisions of law, have all the rights of a party and be subject to all liabilities of a party as to court costs to the extent necessary for a proper presentation of the facts and law relating to the question of constitutionality.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 971][/us/stat/62/971]; [Pub. L. 94–381, § 5][/us/pl/94/381/s5], Aug. 12, 1976, [90 Stat. 1120][/us/stat/90/1120].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 971][/us/stat/62/971]; [Pub. L. 94–381][/us/pl/94/381], § 5, Aug. 12, 1976, [90 Stat. 1120][/us/stat/90/1120].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 401 ([Aug. 24, 1937, ch. 754, § 1][/us/act/1937-08-24/ch754/s1], [50 Stat. 751][/us/stat/50/751]).
+    Based on title 28, U.S.C., 1940 ed., § 401 ([Aug. 24, 1937, ch. 754][/us/act/1937-08-24/ch754], § 1, [50 Stat. 751][/us/stat/50/751]).
 
     Word “action” was added before “suit or proceeding”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–381, § 5(b)][/us/pl/94/381/s5/b], inserted “or a State” after “United States” in section catchline.
+    1976—[Pub. L. 94–381][/us/pl/94/381], § 5(b), inserted “or a State” after “United States” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 94–381, § 5(a)][/us/pl/94/381/s5/a], designated existing provisions as subsec. (a) and added subsec. (b).
+    Subsecs. (a), (b). [Pub. L. 94–381][/us/pl/94/381], § 5(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -52,14 +52,14 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F971
-[/us/pl/94/381/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs5
+[/us/pl/94/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381
 [/us/stat/90/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1120
-[/us/act/1937-08-24/ch754/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754%2Fs1
+[/us/act/1937-08-24/ch754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754
 [/us/stat/50/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F751
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 [/us/usc/t28/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1252
-[/us/pl/94/381/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs5%2Fb
-[/us/pl/94/381/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs5%2Fa
+[/us/pl/94/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381
+[/us/pl/94/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381
 [/us/pl/94/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381
 [/us/pl/94/381/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs7
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284

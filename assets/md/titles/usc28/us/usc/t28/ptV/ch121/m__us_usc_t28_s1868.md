@@ -17,7 +17,7 @@
 
     After the master jury wheel is emptied and refilled pursuant to [section 1863(b)(4) of this title][/us/usc/t28/s1863/b/4], and after all persons selected to serve as jurors before the master wheel was emptied have completed such service, all records and papers compiled and maintained by the jury commission or clerk before the master wheel was emptied shall be preserved in the custody of the clerk for four years or for such longer period as may be ordered by a court, and shall be available for public inspection for the purpose of determining the validity of the selection of any jury.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 953][/us/stat/62/953]; [Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 60][/us/stat/82/60].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 953][/us/stat/62/953]; [Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 60][/us/stat/82/60].)
 
  __Historical and Revision Notes__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t28/s1863/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1863%2Fb%2F4
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F953
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F60
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1165

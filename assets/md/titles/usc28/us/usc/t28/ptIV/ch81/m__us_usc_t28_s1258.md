@@ -17,7 +17,7 @@
 
     Final judgments or decrees rendered by the Supreme Court of the Commonwealth of Puerto Rico may be reviewed by the Supreme Court by writ of certiorari where the validity of a treaty or statute of the United States is drawn in question or where the validity of a statute of the Commonwealth of Puerto Rico is drawn in question on the ground of its being repugnant to the Constitution, treaties, or laws of the United States, or where any title, right, privilege, or immunity is specially set up or claimed under the Constitution or the treaties or statutes of, or any commission held or authority exercised under, the United States.
 
-(Added [Pub. L. 87–189, § 1][/us/pl/87/189/s1], Aug. 30, 1961, [75 Stat. 417][/us/stat/75/417]; amended [Pub. L. 100–352, § 4][/us/pl/100/352/s4], June 27, 1988, [102 Stat. 662][/us/stat/102/662].)
+(Added [Pub. L. 87–189][/us/pl/87/189], § 1, Aug. 30, 1961, [75 Stat. 417][/us/stat/75/417]; amended [Pub. L. 100–352][/us/pl/100/352], § 4, June 27, 1988, [102 Stat. 662][/us/stat/102/662].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/87/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F189%2Fs1
+[/us/pl/87/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F189
 [/us/stat/75/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F417
-[/us/pl/100/352/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs4
+[/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/stat/102/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F662
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352

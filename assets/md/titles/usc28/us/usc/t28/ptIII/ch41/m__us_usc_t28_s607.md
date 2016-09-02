@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 445 ([Mar. 3, 1911, ch. 231, § 303][/us/act/1911-03-03/ch231/s303], as added [Aug. 7, 1939, ch. 501, § 1][/us/act/1939-08-07/ch501/s1], [53 Stat. 1223][/us/stat/53/1223]).
+    Based on title 28, U.S.C., 1940 ed., § 445 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 303, as added [Aug. 7, 1939, ch. 501][/us/act/1939-08-07/ch501], § 1, [53 Stat. 1223][/us/stat/53/1223]).
 
     This section contains the last paragraph of title 28, U.S.C., 1940 ed., § 445. The remainder of said section is incorporated in sections 602 and 603 of this title.
 
@@ -36,8 +36,8 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F915
-[/us/act/1911-03-03/ch231/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs303
-[/us/act/1939-08-07/ch501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1939-08-07/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501
 [/us/stat/53/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1223
 
 

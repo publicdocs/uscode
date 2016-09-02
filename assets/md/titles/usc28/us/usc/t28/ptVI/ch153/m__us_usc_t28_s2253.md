@@ -33,7 +33,7 @@
 
         (3) The certificate of appealability under paragraph (1) shall indicate which specific issue or issues satisfy the showing required by paragraph (2).
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 967][/us/stat/62/967]; [May 24, 1949, ch. 139, § 113][/us/act/1949-05-24/ch139/s113], [63 Stat. 105][/us/stat/63/105]; [Oct. 31, 1951, ch. 655, § 52][/us/act/1951-10-31/ch655/s52], [65 Stat. 727][/us/stat/65/727]; [Pub. L. 104–132, title I, § 102][/us/pl/104/132/s102], Apr. 24, 1996, [110 Stat. 1217][/us/stat/110/1217].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 967][/us/stat/62/967]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 113, [63 Stat. 105][/us/stat/63/105]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 52, [65 Stat. 727][/us/stat/65/727]; [Pub. L. 104–132, title I][/us/pl/104/132/tI], § 102, Apr. 24, 1996, [110 Stat. 1217][/us/stat/110/1217].)
 
  __Historical and Revision Notes__ 
 
@@ -74,11 +74,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F967
-[/us/act/1949-05-24/ch139/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs113
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F105
-[/us/act/1951-10-31/ch655/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs52
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F727
-[/us/pl/104/132/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs102
+[/us/pl/104/132/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtI
 [/us/stat/110/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1217
 [/us/act/1908-03-10/ch76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-03-10%2Fch76
 [/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229

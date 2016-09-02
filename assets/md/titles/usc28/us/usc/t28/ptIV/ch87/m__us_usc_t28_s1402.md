@@ -29,11 +29,11 @@
 
     (d) Any civil action under section 2409a to quiet title to an estate or interest in real property in which an interest is claimed by the United States shall be brought in the district court of the district where the property is located or, if located in different districts, in any of such districts.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 937][/us/stat/62/937]; [Pub. L. 85–920][/us/pl/85/920], Sept. 2, 1958, [72 Stat. 1770][/us/stat/72/1770]; [Pub. L. 89–719, title II, § 202(b)][/us/pl/89/719/s202/b], Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149]; [Pub. L. 92–562, § 2][/us/pl/92/562/s2], Oct. 25, 1972, [86 Stat. 1176][/us/stat/86/1176]; [Pub. L. 97–164, title I, § 131][/us/pl/97/164/s131], Apr. 2, 1982, [96 Stat. 39][/us/stat/96/39].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 937][/us/stat/62/937]; [Pub. L. 85–920][/us/pl/85/920], Sept. 2, 1958, [72 Stat. 1770][/us/stat/72/1770]; [Pub. L. 89–719, title II][/us/pl/89/719/tII], § 202(b), Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149]; [Pub. L. 92–562][/us/pl/92/562], § 2, Oct. 25, 1972, [86 Stat. 1176][/us/stat/86/1176]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 131, Apr. 2, 1982, [96 Stat. 39][/us/stat/96/39].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 762, 931(a) ([Mar. 3, 1887, ch. 359, § 5][/us/act/1887-03-03/ch359/s5], [24 Stat. 506][/us/stat/24/506]; [Aug. 2, 1946, ch. 753, § 410(a)][/us/act/1946-08-02/ch753/s410/a], [60 Stat. 843][/us/stat/60/843]).
+    Based on title 28, U.S.C., 1940 ed., §§ 762, 931(a) ([Mar. 3, 1887, ch. 359][/us/act/1887-03-03/ch359], § 5, [24 Stat. 506][/us/stat/24/506]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 410(a), [60 Stat. 843][/us/stat/60/843]).
 
     Section consolidates the venue provisions of [section 762 of title 28][/us/usc/t28/s762], U.S.C., 1940 ed., with the venue provisions of section 931(a) of such title, the latter provisions relating to tort claims cases. The jurisdictional provisions of such section 931(a) are incorporated in [section 1346(b) of this title][/us/usc/t28/s1346/b]. For other provisions thereof, see Distribution Table.
 
@@ -75,15 +75,15 @@
 [/us/stat/62/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F937
 [/us/pl/85/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F920
 [/us/stat/72/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1770
-[/us/pl/89/719/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs202%2Fb
+[/us/pl/89/719/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtII
 [/us/stat/80/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1149
-[/us/pl/92/562/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F562%2Fs2
+[/us/pl/92/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F562
 [/us/stat/86/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1176
-[/us/pl/97/164/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs131
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F39
-[/us/act/1887-03-03/ch359/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fch359%2Fs5
+[/us/act/1887-03-03/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fch359
 [/us/stat/24/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F506
-[/us/act/1946-08-02/ch753/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs410%2Fa
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F843
 [/us/usc/t28/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs762
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb

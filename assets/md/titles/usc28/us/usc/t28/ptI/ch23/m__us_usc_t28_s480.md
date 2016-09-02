@@ -17,7 +17,7 @@
 
     The Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts shall develop and conduct comprehensive education and training programs to ensure that all judicial officers, clerks of court, courtroom deputies, and other appropriate court personnel are thoroughly familiar with the most recent available information and analyses about litigation management and other techniques for reducing cost and expediting the resolution of civil litigation. The curriculum of such training programs shall be periodically revised to reflect such information and analyses.
 
-(Added [Pub. L. 101–650, title I, § 103(a)][/us/pl/101/650/s103/a], Dec. 1, 1990, [104 Stat. 5095][/us/stat/104/5095].)
+(Added [Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(a), Dec. 1, 1990, [104 Stat. 5095][/us/stat/104/5095].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/650/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fa
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5095
 
 

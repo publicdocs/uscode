@@ -107,9 +107,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, title XXXVI, § 3626(b)][/us/pl/101/647/s3626/b], Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965], substituted “Clerical assistants, messengers, and private process servers” for “Clerical assistants and messengers” in item 550.
+    1990—[Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3626(b), Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965], substituted “Clerical assistants, messengers, and private process servers” for “Clerical assistants and messengers” in item 550.
 
-    1966—[Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 617][/us/stat/80/617], added chapter 35 and items 541 to 550.
+    1966—[Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 617][/us/stat/80/617], added chapter 35 and items 541 to 550.
 
 ----------
 
@@ -118,9 +118,9 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3626/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3626%2Fb
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4965
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F617
 
 

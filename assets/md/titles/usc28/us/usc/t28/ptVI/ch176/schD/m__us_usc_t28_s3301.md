@@ -113,7 +113,7 @@
 
     (7)  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “(9)”. </sup></sup>  “Valid lien” means a lien that is effective against the holder of a judicial lien subsequently obtained in legal or equitable proceeding.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4959][/us/stat/104/4959].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4959][/us/stat/104/4959].)
 
 ----------
 
@@ -122,7 +122,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4959
 
 

@@ -19,7 +19,7 @@
 
     Court shall be held at Anchorage, Fairbanks, Juneau, Ketchikan, and Nome.
 
-(Added [Pub. L. 85–508, § 12(b)][/us/pl/85/508/s12/b], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; amended [Pub. L. 86–70, § 23(b)][/us/pl/86/70/s23/b], June 25, 1959, [73 Stat. 147][/us/stat/73/147].)
+(Added [Pub. L. 85–508][/us/pl/85/508], § 12(b), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; amended [Pub. L. 86–70][/us/pl/86/70], § 23(b), June 25, 1959, [73 Stat. 147][/us/stat/73/147].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Continuation of Suits__ 
 
-[Pub. L. 85–508, § 13][/us/pl/85/508/s13], July 7, 1958, [72 Stat. 349][/us/stat/72/349], provided that: 
+[Pub. L. 85–508][/us/pl/85/508], § 13, July 7, 1958, [72 Stat. 349][/us/stat/72/349], provided that: 
 
 > “No writ, action, indictment, cause, or proceeding pending in the District Court for the Territory of Alaska on the date when said Territory shall become a State, and no case pending in an appellate court upon appeal from the District Court for the Territory of Alaska at the time said Territory shall become a State, shall abate by the admission of the State of Alaska into the Union, but the same shall be transferred and proceeded with as hereinafter provided.
 
@@ -39,37 +39,37 @@
 
  __Appeals__ 
 
-[Pub. L. 85–508, § 14][/us/pl/85/508/s14], July 7, 1958, [72 Stat. 349][/us/stat/72/349], provided that: 
+[Pub. L. 85–508][/us/pl/85/508], § 14, July 7, 1958, [72 Stat. 349][/us/stat/72/349], provided that: 
 
 > “All appeals taken from the District Court for the Territory of Alaska to the Supreme Court of the United States or the United States Court of Appeals for the Ninth Circuit, previous to the admission of Alaska as a State, shall be prosecuted to final determination as though this Act had not been passed. All cases in which final judgement has been rendered in such district court, and in which appeals might be had except for the admission of such State, may still be sued out, taken, and prosecuted to the Supreme Court of the United States or the United States Court of Appeals for the Ninth Circuit under the provisions of then existing law, and there held and determined in like manner; and in either case, the Supreme Court of the United States, or the United States Court of Appeals, in the event of reversal, shall remand the said cause to either the State supreme court or other final appellate court of said State, or the United States district court for said district, as the case may require: Provided, That the time allowed by existing law for appeals from the district court for said Territory shall not be enlarged thereby.”
 
  __Transfer of Cases__ 
 
-[Pub. L. 85–508, § 15][/us/pl/85/508/s15], July 7, 1958, [72 Stat. 349][/us/stat/72/349], provided that: 
+[Pub. L. 85–508][/us/pl/85/508], § 15, July 7, 1958, [72 Stat. 349][/us/stat/72/349], provided that: 
 
 > “All causes pending or determined in the District Court for the Territory of Alaska at the time of the admission of Alaska as a State which are of such nature as to be within the jurisdiction of a district court of the United States shall be transferred to the United States District Court for the District of Alaska for final disposition and enforcement in the same manner as is now provided by law with reference to the judgments and decrees in existing United States district courts. All other causes pending or determined in the District Court for the Territory of Alaska at the time of the admission of Alaska as a State shall be transferred to the appropriate State court of Alaska. All final judgments and decrees rendered upon such transferred cases in the United States District Court for the District of Alaska may be reviewed by the Supreme Court of the United States or by the United States Court of Appeals for the Ninth Circuit in the same manner as is now provided by law with reference to the judgments and decrees in existing United States district courts.”
 
  __Succession of Courts__ 
 
-[Pub. L. 85–508, § 16][/us/pl/85/508/s16], July 7, 1958, [72 Stat. 350][/us/stat/72/350], provided that: 
+[Pub. L. 85–508][/us/pl/85/508], § 16, July 7, 1958, [72 Stat. 350][/us/stat/72/350], provided that: 
 
 > “Jurisdiction of all cases pending or determined in the District Court for the Territory of Alaska not transferred to the United States District Court for the District of Alaska shall devolve upon and be exercised by the courts of original jurisdiction created by said State, which shall be deemed to be the successor of the District Court for the Territory of Alaska with respect to cases not so transferred and, as such, shall take and retain custody of all records, dockets, journals, and files of such court pertaining to such cases. The files and papers in all cases so transferred to the United States district court, together with a transcript of all book entries to complete the record in such particular cases so transferred, shall be in like manner transferred to said district court.”
 
  __Pending Cases__ 
 
-[Pub. L. 85–508, § 17][/us/pl/85/508/s17], July 7, 1958, [72 Stat. 350][/us/stat/72/350], provided that: 
+[Pub. L. 85–508][/us/pl/85/508], § 17, July 7, 1958, [72 Stat. 350][/us/stat/72/350], provided that: 
 
 > “All cases pending in the District Court for the Territory of Alaska at the time said Territory becomes a State not transferred to the United States District Court for the District of Alaska shall be proceeded with and determined by the courts created by said State with the right to prosecute appeals to the appellate courts created by said State, and also with the same right to prosecute appeals or writs of certiorari from the final determination in said causes made by the court of last resort created by such State to the Supreme Court of the United States, as now provided by law for appeals and writs of certiorari from the court of last resort of a State to the Supreme Court of the United States.”
 
  __Termination of Jurisdiction of District Court for the Territory of Alaska__ 
 
-[Pub. L. 85–508, § 18][/us/pl/85/508/s18], July 7, 1958, [72 Stat. 350][/us/stat/72/350], provided that: 
+[Pub. L. 85–508][/us/pl/85/508], § 18, July 7, 1958, [72 Stat. 350][/us/stat/72/350], provided that: 
 
 > “The provisions of the preceding sections with respect to the termination of the jurisdiction of the District Court for the Territory of Alaska, the continuation of suits, the succession of courts, and the satisfaction of rights of litigants in suits before such courts, shall not be effective until three years after the effective date of this Act \[see [section 8(b) of Pub. L. 85–508][/us/pl/85/508/s8/b], set out as a note preceding [section 21 of Title 48][/us/usc/t48/s21], Territories and Insular Possessions\], unless the President, by Executive order, shall sooner proclaim that the United States District Court for the District of Alaska, established in accordance with the provisions of this Act, is prepared to assume the functions imposed upon it. During such period of three years or until such Executive order is issued, the United States District Court for the Territory of Alaska shall continue to function as heretofore. The tenure of the judges, the United States attorneys, marshals, and other officers of the United States District Court for the Territory of Alaska shall terminate at such time as that court shall cease to function as provided in this section.”
 
  __Schedule of Fees, Mileage, or Other Compensation__ 
 
-[Pub. L. 86–70, § 23(c)][/us/pl/86/70/s23/c], June 25, 1959, [73 Stat. 147][/us/stat/73/147], provided that: 
+[Pub. L. 86–70][/us/pl/86/70], § 23(c), June 25, 1959, [73 Stat. 147][/us/stat/73/147], provided that: 
 
 > “Such authority as has been exercised by the Attorney General heretofore, with regard to the Federal court system in Alaska, pursuant to [section 30 of the Act of June 6, 1900][/us/act/1900-06-06/s30] ([48 U.S.C. 25][/us/usc/t48/s25]) shall continue to be exercised by him after the court created by [section 12(b) of the Act of July 7, 1958][/us/act/1958-07-07/s12/b] ([72 Stat. 339][/us/stat/72/339], 348) \[this section\], providing for the admission of the State of Alaska into the Union, is established.”
 
@@ -98,30 +98,30 @@
 ----------
 ----------
 
-[/us/pl/85/508/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fb
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/86/70/s23/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs23%2Fb
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F147
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/85/508/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12
 [/us/usc/t5/s341b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs341b
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
-[/us/pl/85/508/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs13
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F349
-[/us/pl/85/508/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs14
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F349
-[/us/pl/85/508/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs15
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F349
-[/us/pl/85/508/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs16
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F350
-[/us/pl/85/508/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs17
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F350
-[/us/pl/85/508/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs18
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F350
 [/us/pl/85/508/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs8%2Fb
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
-[/us/pl/86/70/s23/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs23%2Fc
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F147
 [/us/act/1900-06-06/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fs30
 [/us/usc/t48/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs25

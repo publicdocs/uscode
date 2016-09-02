@@ -39,7 +39,7 @@
 
     (i) A civil action of which the Court of International Trade has jurisdiction under [section 1581 of this title][/us/usc/t28/s1581], other than an action specified in subsections (a)–(h) of this section, is barred unless commenced in accordance with the rules of the court within two years after the cause of action first accrues.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1734][/us/stat/94/1734]; amended [Pub. L. 98–573, title II, § 212(b)(4)][/us/pl/98/573/s212/b/4], title VI, § 623(b)(1), Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984], 3041; [Pub. L. 103–182, title VI, § 684(a)(3)][/us/pl/103/182/s684/a/3], Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1734][/us/stat/94/1734]; amended [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 212(b)(4), title VI, § 623(b)(1), Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984], 3041; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 684(a)(3), Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
 
  __References in Text__ 
 
@@ -61,23 +61,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 2636, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 981][/us/stat/62/981]; June 2, 1970, [Pub. L. 91–271, title I, § 117][/us/pl/91/271/s117], [84 Stat. 280][/us/stat/84/280], related to analysis of imported merchandise, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2642 of this title][/us/usc/t28/s2642].
+    A prior section 2636, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 981][/us/stat/62/981]; June 2, 1970, [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 117, [84 Stat. 280][/us/stat/84/280], related to analysis of imported merchandise, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2642 of this title][/us/usc/t28/s2642].
 
  __Amendments__ 
 
     1993—Subsecs. (h), (i). [Pub. L. 103–182][/us/pl/103/182] added subsec. (h) and redesignated former subsec. (h) as (i).
 
-    1984—Subsec. (c). [Pub. L. 98–573, § 623(b)(1)(A)][/us/pl/98/573/s623/b/1/A], amended subsec. (c) generally, striking out “, other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act,” and substituting “within the time specified in such section” for “within thirty days after the date of the publication of such determination in the Federal Register”.
+    1984—Subsec. (c). [Pub. L. 98–573][/us/pl/98/573], § 623(b)(1)(A), amended subsec. (c) generally, striking out “, other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act,” and substituting “within the time specified in such section” for “within thirty days after the date of the publication of such determination in the Federal Register”.
 
-    Subsec. (d). [Pub. L. 98–573, § 623(b)(1)(B)][/us/pl/98/573/s623/b/1/B], redesignated subsec. (e) as (d). Former subsec. (d), which provided that civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
+    Subsec. (d). [Pub. L. 98–573][/us/pl/98/573], § 623(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d), which provided that civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
 
-    Subsecs. (e) to (g). [Pub. L. 98–573, § 623(b)(1)(B)][/us/pl/98/573/s623/b/1/B], redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
+    Subsecs. (e) to (g). [Pub. L. 98–573][/us/pl/98/573], § 623(b)(1)(B), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
 
-    Subsec. (h). [Pub. L. 98–573, § 623(b)(1)(B)][/us/pl/98/573/s623/b/1/B], redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 98–573][/us/pl/98/573], § 623(b)(1)(B), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-    [Pub. L. 98–573, § 212(b)(4)][/us/pl/98/573/s212/b/4], amended subsec. (h) generally, substituting “customs broker’s license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act,” for “customhouse broker’s license under section 641(a) of the Tariff Act of 1930 or the revocation or suspension by such Secretary of a customhouse broker’s license under section 641(b) of such Act”.
+    [Pub. L. 98–573][/us/pl/98/573], § 212(b)(4), amended subsec. (h) generally, substituting “customs broker’s license or permit under subsection (b) or (c) of section 641 of the Tariff Act of 1930, or the revocation or suspension of such license or permit or the imposition of a monetary penalty in lieu thereof by such Secretary under section 641(d) of such Act,” for “customhouse broker’s license under section 641(a) of the Tariff Act of 1930 or the revocation or suspension by such Secretary of a customhouse broker’s license under section 641(b) of such Act”.
 
-    Subsec. (i). [Pub. L. 98–573, § 623(b)(1)(B)][/us/pl/98/573/s623/b/1/B], redesignated subsec. (i) as (h).
+    Subsec. (i). [Pub. L. 98–573][/us/pl/98/573], § 623(b)(1)(B), redesignated subsec. (i) as (h).
 
  __Effective Date of 1984 Amendment__ 
 
@@ -105,11 +105,11 @@
 ----------
 
 [/us/usc/t28/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1581
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1734
-[/us/pl/98/573/s212/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F4
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2984
-[/us/pl/103/182/s684/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs684%2Fa%2F3
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2219
 [/us/usc/t19/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1515
 [/us/usc/t19/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516
@@ -121,17 +121,17 @@
 [/us/usc/t19/s1499/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1499%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F981
-[/us/pl/91/271/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs117
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F280
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s2642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2642
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
-[/us/pl/98/573/s623/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs623%2Fb%2F1%2FA
-[/us/pl/98/573/s623/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs623%2Fb%2F1%2FB
-[/us/pl/98/573/s623/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs623%2Fb%2F1%2FB
-[/us/pl/98/573/s623/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs623%2Fb%2F1%2FB
-[/us/pl/98/573/s212/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F4
-[/us/pl/98/573/s623/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs623%2Fb%2F1%2FB
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/98/573/s212/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F4
 [/us/pl/98/573/s214/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs214%2Fd
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304

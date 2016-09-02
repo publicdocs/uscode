@@ -17,7 +17,7 @@
 
     The Attorney General shall promulgate rules and regulations which require the disqualification of any officer or employee of the Department of Justice, including a United States attorney or a member of such attorney’s staff, from participation in a particular investigation or prosecution if such participation may result in a personal, financial, or political conflict of interest, or the appearance thereof. Such rules and regulations may provide that a willful violation of any provision thereof shall result in removal from office.
 
-(Added [Pub. L. 95–521, title VI, § 603(a)][/us/pl/95/521/s603/a], Oct. 26, 1978, [92 Stat. 1874][/us/stat/92/1874].)
+(Added [Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 603(a), Oct. 26, 1978, [92 Stat. 1874][/us/stat/92/1874].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/521/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs603%2Fa
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1874
 [/us/pl/95/521/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs604
 [/us/usc/t28/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs591

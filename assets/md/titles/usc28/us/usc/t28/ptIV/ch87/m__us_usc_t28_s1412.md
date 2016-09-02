@@ -17,7 +17,7 @@
 
     A district court may transfer a case or proceeding under title 11 to a district court for another district, in the interest of justice or for the convenience of the parties.
 
-(Added [Pub. L. 98–353, title I, § 102(a)][/us/pl/98/353/s102/a], July 10, 1984, [98 Stat. 335][/us/stat/98/335].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 102(a), July 10, 1984, [98 Stat. 335][/us/stat/98/335].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs102%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F335
 [/us/pl/98/353/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs122%2Fa
 [/us/usc/t28/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs151

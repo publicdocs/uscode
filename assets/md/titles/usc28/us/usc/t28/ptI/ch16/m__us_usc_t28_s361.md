@@ -17,7 +17,7 @@
 
     Upon the request of a judge whose conduct is the subject of a complaint under this chapter, the judicial council may, if the complaint has been finally dismissed under section 354(a)(1)(B), recommend that the Director of the Administrative Office of the United States Courts award reimbursement, from funds appropriated to the Federal judiciary, for those reasonable expenses, including attorneys’ fees, incurred by that judge during the investigation which would not have been incurred but for the requirements of this chapter.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11042(a)][/us/pl/107/273/s11042/a], Nov. 2, 2002, [116 Stat. 1854][/us/stat/116/1854].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11042(a), Nov. 2, 2002, [116 Stat. 1854][/us/stat/116/1854].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11042%2Fa
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1854
 
 

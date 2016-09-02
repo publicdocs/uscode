@@ -21,13 +21,13 @@
 
     (c) Disposition of any claim by the Attorney General or other head of a federal agency shall not be competent evidence of liability or amount of damages.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 983][/us/stat/62/983]; [May 24, 1949, ch. 139, § 126][/us/act/1949-05-24/ch139/s126], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 89–506, § 2][/us/pl/89/506/s2], July 18, 1966, [80 Stat. 306][/us/stat/80/306].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 983][/us/stat/62/983]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 126, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 89–506][/us/pl/89/506], § 2, July 18, 1966, [80 Stat. 306][/us/stat/80/306].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 931(b) ([Aug. 2, 1946, ch. 753, § 410(b)][/us/act/1946-08-02/ch753/s410/b], [60 Stat. 844][/us/stat/60/844]).
+    Based on title 28, U.S.C., 1940 ed., § 931(b) ([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 410(b), [60 Stat. 844][/us/stat/60/844]).
 
     Section constitutes all of section 931(b), except the first sentence, of title 28, U.S.C., 1940 ed. The remainder of such section 931(b) is incorporated in [section 2677 of this title][/us/usc/t28/s2677].
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1966—Subsec. (a). [Pub. L. 89–506, § 2(a)][/us/pl/89/506/s2/a], required that all administrative claims be filed with the agency or department and finally denied by the agency and sent by certified or registered mail prior to the filing of a court action against the United States, provided that the claimant be given the option of considering the claim to have been denied if the agency fails to make final disposition of the claim within six months of presentation of the claim to the agency, and provided that the requirements of the subsection would not apply to claims asserted under the Federal Rules of Civil Procedure by third party complaint, cross-claim, or counterclaim.
+    1966—Subsec. (a). [Pub. L. 89–506][/us/pl/89/506], § 2(a), required that all administrative claims be filed with the agency or department and finally denied by the agency and sent by certified or registered mail prior to the filing of a court action against the United States, provided that the claimant be given the option of considering the claim to have been denied if the agency fails to make final disposition of the claim within six months of presentation of the claim to the agency, and provided that the requirements of the subsection would not apply to claims asserted under the Federal Rules of Civil Procedure by third party complaint, cross-claim, or counterclaim.
 
-    Subsec. (b). [Pub. L. 89–506, § 2(b)][/us/pl/89/506/s2/b], struck out provisions under which a claimant could, upon 15 days written notice, withdraw a claim from the agency and institute an action thereon.
+    Subsec. (b). [Pub. L. 89–506][/us/pl/89/506], § 2(b), struck out provisions under which a claimant could, upon 15 days written notice, withdraw a claim from the agency and institute an action thereon.
 
     1949—Subsec. (b). Act May 24, 1949, substituted “section” for “subsection”.
 
@@ -62,16 +62,16 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F983
-[/us/act/1949-05-24/ch139/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs126
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/89/506/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs2
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/stat/80/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F306
-[/us/act/1946-08-02/ch753/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs410%2Fb
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F844
 [/us/usc/t28/s2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2677
 [/us/usc/t28/s2675/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2675%2Fb
-[/us/pl/89/506/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs2%2Fa
-[/us/pl/89/506/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs2%2Fb
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/pl/89/506/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs10
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672

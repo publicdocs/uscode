@@ -19,7 +19,7 @@
 
     (b) Each assistant United States attorney is subject to removal by the Attorney General.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618].)
 
 <table>
 
@@ -95,7 +95,7 @@ Statutes at Large  </td>
 
  __1948__  __Act__ 
 
-    Prior section 502.—Based on title 28, U.S.C., 1940 ed., §§ 483, 594 ([May 28, 1896, ch. 252, § 8][/us/act/1896-05-28/ch252/s8], [29 Stat. 181][/us/stat/29/181]; [July 19, 1919, ch. 24, § 1][/us/act/1919-07-19/ch24/s1], [41 Stat. 209][/us/stat/41/209]; [Mar. 4, 1923, ch. 295][/us/act/1923-03-04/ch295], [42 Stat. 1560][/us/stat/42/1560]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]).
+    Prior section 502.—Based on title 28, U.S.C., 1940 ed., §§ 483, 594 ([May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], § 8, [29 Stat. 181][/us/stat/29/181]; [July 19, 1919, ch. 24][/us/act/1919-07-19/ch24], § 1, [41 Stat. 209][/us/stat/41/209]; [Mar. 4, 1923, ch. 295][/us/act/1923-03-04/ch295], [42 Stat. 1560][/us/stat/42/1560]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]).
 
     Section consolidates sections 483 and 594 of title 28, U.S.C., 1940 ed., relating to appointment of assistant United States attorneys.
 
@@ -113,7 +113,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 542, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 911][/us/stat/62/911], related to appointment and tenure of deputies and assistants for United States marshals, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 562 of this title][/us/usc/t28/s562] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 542, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 911][/us/stat/62/911], related to appointment and tenure of deputies and assistants for United States marshals, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 562 of this title][/us/usc/t28/s562] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
 ----------
 
@@ -122,11 +122,11 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F618
-[/us/act/1896-05-28/ch252/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs8
+[/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F181
-[/us/act/1919-07-19/ch24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-19%2Fch24%2Fs1
+[/us/act/1919-07-19/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-19%2Fch24
 [/us/stat/41/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F209
 [/us/act/1923-03-04/ch295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch295
 [/us/stat/42/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1560
@@ -135,7 +135,7 @@ Statutes at Large  </td>
 [/us/usc/t48/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs109
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F911
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs562
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 

@@ -35,13 +35,13 @@
 
         (2) may request the district court to take additional action if the Judicial Conference determines that such court has not adequately responded to the conditions relevant to the civil and criminal dockets of the court or to the recommendations of the district court’s advisory group.
 
-(Added [Pub. L. 101–650, title I, § 103(a)][/us/pl/101/650/s103/a], Dec. 1, 1990, [104 Stat. 5093][/us/stat/104/5093]; amended [Pub. L. 102–198, § 2(2)][/us/pl/102/198/s2/2], Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623].)
+(Added [Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(a), Dec. 1, 1990, [104 Stat. 5093][/us/stat/104/5093]; amended [Pub. L. 102–198][/us/pl/102/198], § 2(2), Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623].)
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 102–198, § 2(2)(A)][/us/pl/102/198/s2/2/A], substituted “chief judge” for “chief judges” and struck out “court of appeals for such” after “judge of the” in introductory provisions.
+    1991—Subsec. (a)(1). [Pub. L. 102–198][/us/pl/102/198], § 2(2)(A), substituted “chief judge” for “chief judges” and struck out “court of appeals for such” after “judge of the” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 102–198, § 2(2)(B)][/us/pl/102/198/s2/2/B], substituted “circuit may designate another judge of the court of appeals of that circuit,” for “court of appeals” and “court, to perform that” for “court to perform the”.
+    Subsec. (a)(2). [Pub. L. 102–198][/us/pl/102/198], § 2(2)(B), substituted “circuit may designate another judge of the court of appeals of that circuit,” for “court of appeals” and “court, to perform that” for “court to perform the”.
 
 ----------
 
@@ -52,11 +52,11 @@
 
 [/us/usc/t28/s472/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs472%2Fd
 [/us/usc/t28/s472/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs472%2Fd
-[/us/pl/101/650/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fa
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5093
-[/us/pl/102/198/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs2%2F2
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1623
-[/us/pl/102/198/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs2%2F2%2FA
-[/us/pl/102/198/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs2%2F2%2FB
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 
 

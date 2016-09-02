@@ -27,7 +27,7 @@
 
     Except as otherwise provided in chapter 5 of title 3, no punitive damages may be awarded with respect to any claim under chapter 5 of title 3.
 
-(Added [Pub. L. 104–331, § 3(c)][/us/pl/104/331/s3/c], Oct. 26, 1996, [110 Stat. 4070][/us/stat/110/4070].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 3(c), Oct. 26, 1996, [110 Stat. 4070][/us/stat/110/4070].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t3/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs421
-[/us/pl/104/331/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fc
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4070
 
 

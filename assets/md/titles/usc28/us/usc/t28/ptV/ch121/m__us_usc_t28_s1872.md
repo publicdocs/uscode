@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 343 ([Mar. 3, 1911, ch. 231, § 235][/us/act/1911-03-03/ch231/s235], [36 Stat. 1156][/us/stat/36/1156]).
+    Based on title 28, U.S.C., 1940 ed., § 343 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 235, [36 Stat. 1156][/us/stat/36/1156]).
 
     Changes were made in phraseology.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F953
-[/us/act/1911-03-03/ch231/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs235
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1156
 
 

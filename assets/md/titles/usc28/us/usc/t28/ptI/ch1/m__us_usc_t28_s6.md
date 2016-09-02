@@ -17,11 +17,11 @@
 
     The records and proceedings of the court of appeals, appointed previous to the adoption of the Constitution, shall be kept until deposited with the National Archives of the United States in the office of the clerk of the Supreme Court, who shall furnish copies thereof to any person requiring and paying for them, in the manner provided by law for giving copies of the records and proceedings of the Supreme Court. Such copies shall have the same faith and credit as proceedings of the Supreme Court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 870][/us/stat/62/870]; [Oct. 25, 1951, ch. 562, § 4(7)][/us/act/1951-10-25/ch562/s4/7], [65 Stat. 640][/us/stat/65/640].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 870][/us/stat/62/870]; [Oct. 25, 1951, ch. 562][/us/act/1951-10-25/ch562], § 4(7), [65 Stat. 640][/us/stat/65/640].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 329 ([Mar. 3, 1911, ch. 231, § 222][/us/act/1911-03-03/ch231/s222], [36 Stat. 1153][/us/stat/36/1153]).
+    Based on title 28, U.S.C., 1940 ed., § 329 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 222, [36 Stat. 1153][/us/stat/36/1153]).
 
     In a letter dated August 8, 1944, the clerk of the Supreme Court advised that many of the early records mentioned in this section were destroyed by fire. Others are on file in the Clerk’s office.
 
@@ -40,9 +40,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F870
-[/us/act/1951-10-25/ch562/s4/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-25%2Fch562%2Fs4%2F7
+[/us/act/1951-10-25/ch562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-25%2Fch562
 [/us/stat/65/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F640
-[/us/act/1911-03-03/ch231/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs222
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1153
 
 

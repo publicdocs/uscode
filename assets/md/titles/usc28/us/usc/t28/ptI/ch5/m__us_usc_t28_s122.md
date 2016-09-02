@@ -25,11 +25,11 @@
 
     (4) The Western Division comprises the counties of Bennett, Butte, Custer, Fall River, Harding, Jackson, Lawrence, Meade, Pennington, Perkins, and Shannon.    Court for the Western Division shall be held at Deadwood and Rapid City.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 889][/us/stat/62/889]; [Pub. L. 89–638][/us/pl/89/638], Oct. 10, 1966, [80 Stat. 883][/us/stat/80/883]; [Pub. L. 92–376][/us/pl/92/376], Aug. 10, 1972, [86 Stat. 529][/us/stat/86/529]; [Pub. L. 101–650, title III, § 324(b)][/us/pl/101/650/s324/b], Dec. 1, 1990, [104 Stat. 5120][/us/stat/104/5120].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 889][/us/stat/62/889]; [Pub. L. 89–638][/us/pl/89/638], Oct. 10, 1966, [80 Stat. 883][/us/stat/80/883]; [Pub. L. 92–376][/us/pl/92/376], Aug. 10, 1972, [86 Stat. 529][/us/stat/86/529]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 324(b), Dec. 1, 1990, [104 Stat. 5120][/us/stat/104/5120].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 187 ([Mar. 3, 1911, ch. 231, § 106][/us/act/1911-03-03/ch231/s106], [36 Stat. 1123][/us/stat/36/1123]; [June 11, 1932, ch. 242][/us/act/1932-06-11/ch242], [47 Stat. 300][/us/stat/47/300]).
+    Based on title 28, U.S.C., 1940 ed., § 187 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 106, [36 Stat. 1123][/us/stat/36/1123]; [June 11, 1932, ch. 242][/us/act/1932-06-11/ch242], [47 Stat. 300][/us/stat/47/300]).
 
     A provision relating to maintenance of offices by the clerk was omitted as covered by sections 452 and 751 of this title.
 
@@ -39,15 +39,15 @@
 
  __Amendments__ 
 
-    1990—Par. (3). [Pub. L. 101–650, § 324(b)(1)][/us/pl/101/650/s324/b/1], struck out “Jackson,” after “Hyde,”.
+    1990—Par. (3). [Pub. L. 101–650][/us/pl/101/650], § 324(b)(1), struck out “Jackson,” after “Hyde,”.
 
-    Par. (4). [Pub. L. 101–650, § 324(b)(2)][/us/pl/101/650/s324/b/2], inserted “Jackson,” after “Harding,” and substituted “and Shannon” for “Shannon, Washabaugh, and Washington”.
+    Par. (4). [Pub. L. 101–650][/us/pl/101/650], § 324(b)(2), inserted “Jackson,” after “Harding,” and substituted “and Shannon” for “Shannon, Washabaugh, and Washington”.
 
-    1972—Par. (2). [Pub. L. 92–376, § 1(a)][/us/pl/92/376/s1/a], removed Gregory County from the Southern Division.
+    1972—Par. (2). [Pub. L. 92–376][/us/pl/92/376], § 1(a), removed Gregory County from the Southern Division.
 
-    Par. (3). [Pub. L. 92–376, § 1(b)][/us/pl/92/376/s1/b], added Gregory, Mellette, Todd, and Tripp counties to the Central Division and removed Armstrong county from the Central Division.
+    Par. (3). [Pub. L. 92–376][/us/pl/92/376], § 1(b), added Gregory, Mellette, Todd, and Tripp counties to the Central Division and removed Armstrong county from the Central Division.
 
-    Par. (4). [Pub. L. 92–376, § 1(c)][/us/pl/92/376/s1/c], removed Mellette, Todd, and Tripp counties from the Western Division.
+    Par. (4). [Pub. L. 92–376][/us/pl/92/376], § 1(c), removed Mellette, Todd, and Tripp counties from the Western Division.
 
     1966—[Pub. L. 89–638][/us/pl/89/638] provided for holding court at Rapid City.
 
@@ -64,18 +64,18 @@
 [/us/stat/80/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F883
 [/us/pl/92/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F376
 [/us/stat/86/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F529
-[/us/pl/101/650/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs324%2Fb
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5120
-[/us/act/1911-03-03/ch231/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs106
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1123
 [/us/act/1932-06-11/ch242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-11%2Fch242
 [/us/stat/47/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F300
 [/us/usc/t28/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs114
-[/us/pl/101/650/s324/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs324%2Fb%2F1
-[/us/pl/101/650/s324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs324%2Fb%2F2
-[/us/pl/92/376/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F376%2Fs1%2Fa
-[/us/pl/92/376/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F376%2Fs1%2Fb
-[/us/pl/92/376/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F376%2Fs1%2Fc
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/92/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F376
+[/us/pl/92/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F376
+[/us/pl/92/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F376
 [/us/pl/89/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F638
 
 

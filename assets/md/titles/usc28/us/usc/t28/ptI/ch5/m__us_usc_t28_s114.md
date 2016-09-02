@@ -19,11 +19,11 @@
 
     Court shall be held at Bismarck, Fargo, Grand Forks, and Minot.
 
-(Added [Pub. L. 111–174, § 3][/us/pl/111/174/s3], May 27, 2010, [124 Stat. 1216][/us/stat/124/1216].)
+(Added [Pub. L. 111–174][/us/pl/111/174], § 3, May 27, 2010, [124 Stat. 1216][/us/stat/124/1216].)
 
  __Prior Provisions__ 
 
-    A prior section 114, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 886][/us/stat/62/886]; [Pub. L. 95–408, § 3(b)][/us/pl/95/408/s3/b], Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883], which provided that North Dakota consisted of one judicial district comprising four divisions, was repealed by [Pub. L. 111–174, § 3][/us/pl/111/174/s3], May 27, 2010, [124 Stat. 1216][/us/stat/124/1216].
+    A prior section 114, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 886][/us/stat/62/886]; [Pub. L. 95–408][/us/pl/95/408], § 3(b), Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883], which provided that North Dakota consisted of one judicial district comprising four divisions, was repealed by [Pub. L. 111–174][/us/pl/111/174], § 3, May 27, 2010, [124 Stat. 1216][/us/stat/124/1216].
 
 ----------
 
@@ -32,13 +32,13 @@
 ----------
 ----------
 
-[/us/pl/111/174/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174%2Fs3
+[/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
 [/us/stat/124/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1216
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F886
-[/us/pl/95/408/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs3%2Fb
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/stat/92/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F883
-[/us/pl/111/174/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174%2Fs3
+[/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
 [/us/stat/124/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1216
 
 

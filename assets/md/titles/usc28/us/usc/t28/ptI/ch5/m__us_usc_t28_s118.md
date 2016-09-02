@@ -35,11 +35,11 @@ Western District
 
     Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 888][/us/stat/62/888]; [Pub. L. 91–272, § 6][/us/pl/91/272/s6], June 2, 1970, [84 Stat. 297][/us/stat/84/297]; [Pub. L. 95–573, § 4][/us/pl/95/573/s4], Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458]; [Pub. L. 102–396, title IX, § 9161][/us/pl/102/396/s9161], Oct. 6, 1992, [106 Stat. 1947][/us/stat/106/1947]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title VI, § 624(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–116.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 888][/us/stat/62/888]; [Pub. L. 91–272][/us/pl/91/272], § 6, June 2, 1970, [84 Stat. 297][/us/stat/84/297]; [Pub. L. 95–573][/us/pl/95/573], § 4, Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458]; [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9161, Oct. 6, 1992, [106 Stat. 1947][/us/stat/106/1947]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title VI, § 624(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–116.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 184 ([Mar. 3, 1911, ch. 231, § 103][/us/act/1911-03-03/ch231/s103], [36 Stat. 1123][/us/stat/36/1123]; [Mar. 3, 1913, ch. 113][/us/act/1913-03-03/ch113], [37 Stat. 730][/us/stat/37/730]; [June 6, 1914, ch. 104][/us/act/1914-06-06/ch104], [38 Stat. 385][/us/stat/38/385]; [Sept. 9, 1914, ch. 296][/us/act/1914-09-09/ch296], [38 Stat. 713][/us/stat/38/713]; [Apr. 26, 1926, ch. 185][/us/act/1926-04-26/ch185], [44 Stat. 324][/us/stat/44/324]; [June 27, 1930, ch. 634][/us/act/1930-06-27/ch634], [46 Stat. 820][/us/stat/46/820]; [Aug. 3, 1935, ch. 433][/us/act/1935-08-03/ch433], [49 Stat. 514][/us/stat/49/514]; [May 13, 1936, ch. 385][/us/act/1936-05-13/ch385], [49 Stat. 1271][/us/stat/49/1271]; [June 13, 1938, ch. 351][/us/act/1938-06-13/ch351], [52 Stat. 674][/us/stat/52/674]; [Mar. 5, 1942, ch. 143][/us/act/1942-03-05/ch143], [56 Stat. 132][/us/stat/56/132]).
+    Based on title 28, U.S.C., 1940 ed., § 184 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 103, [36 Stat. 1123][/us/stat/36/1123]; [Mar. 3, 1913, ch. 113][/us/act/1913-03-03/ch113], [37 Stat. 730][/us/stat/37/730]; [June 6, 1914, ch. 104][/us/act/1914-06-06/ch104], [38 Stat. 385][/us/stat/38/385]; [Sept. 9, 1914, ch. 296][/us/act/1914-09-09/ch296], [38 Stat. 713][/us/stat/38/713]; [Apr. 26, 1926, ch. 185][/us/act/1926-04-26/ch185], [44 Stat. 324][/us/stat/44/324]; [June 27, 1930, ch. 634][/us/act/1930-06-27/ch634], [46 Stat. 820][/us/stat/46/820]; [Aug. 3, 1935, ch. 433][/us/act/1935-08-03/ch433], [49 Stat. 514][/us/stat/49/514]; [May 13, 1936, ch. 385][/us/act/1936-05-13/ch385], [49 Stat. 1271][/us/stat/49/1271]; [June 13, 1938, ch. 351][/us/act/1938-06-13/ch351], [52 Stat. 674][/us/stat/52/674]; [Mar. 5, 1942, ch. 143][/us/act/1942-03-05/ch143], [56 Stat. 132][/us/stat/56/132]).
 
     Provisions relating to maintenance of offices at certain places by the clerks and marshals were omitted as covered by sections 541 \[see 561\] and 751 of this title.
 
@@ -57,9 +57,9 @@ Western District
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title VI, § 624(a)(1)\], substituted “and Philadelphia” for “Philadelphia, and Schuylkill”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title VI, § 624(a)(1)\], substituted “and Philadelphia” for “Philadelphia, and Schuylkill”.
 
-    Subsec. (b). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title VI, § 624(a)(2)\], inserted “Schuylkill,” after “Potter,”.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title VI, § 624(a)(2)\], inserted “Schuylkill,” after “Potter,”.
 
     1992—Subsec. (a). [Pub. L. 102–396][/us/pl/102/396] inserted “Lancaster,” before “Reading”.
 
@@ -69,7 +69,7 @@ Western District
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title VI, § 624(b)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–116, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title VI, § 624(b)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–116, provided that:
 
 >     “(1) This section \[amending this section\] and the amendments made by this section shall take effect 180 days after the date of the enactment of this Act \[Oct. 21, 1998\].
 
@@ -86,15 +86,15 @@ Western District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F888
-[/us/pl/91/272/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs6
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/stat/84/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F297
-[/us/pl/95/573/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573%2Fs4
+[/us/pl/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573
 [/us/stat/92/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2458
-[/us/pl/102/396/s9161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9161
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1947
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/act/1911-03-03/ch231/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs103
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1123
 [/us/act/1913-03-03/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-03%2Fch113
 [/us/stat/37/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F730
@@ -118,12 +118,12 @@ Western District
 [/us/act/1947-07-11/ch224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-11%2Fch224
 [/us/stat/61/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F310
 [/us/usc/t28/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs184
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/102/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396
 [/us/pl/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573
 [/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 
 

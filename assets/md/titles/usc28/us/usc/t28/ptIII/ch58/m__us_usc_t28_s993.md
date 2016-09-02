@@ -27,7 +27,7 @@
 
         (2) the use of funds made available to the Commission.
 
-(Added [Pub. L. 98–473, title II, § 217(a)][/us/pl/98/473/s217/a], Oct. 12, 1984, [98 Stat. 2019][/us/stat/98/2019]; amended [Pub. L. 99–22, § 1(2)][/us/pl/99/22/s1/2], Apr. 15, 1985, [99 Stat. 46][/us/stat/99/46]; [Pub. L. 99–646, § 5][/us/pl/99/646/s5], Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592]; [Pub. L. 103–322, title XXVIII, § 280005(c)(1)][/us/pl/103/322/s280005/c/1], Sept. 13, 1994, [108 Stat. 2097][/us/stat/108/2097].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 217(a), Oct. 12, 1984, [98 Stat. 2019][/us/stat/98/2019]; amended [Pub. L. 99–22][/us/pl/99/22], § 1(2), Apr. 15, 1985, [99 Stat. 46][/us/stat/99/46]; [Pub. L. 99–646][/us/pl/99/646], § 5, Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592]; [Pub. L. 103–322, title XXVIII][/us/pl/103/322/tXXVIII], § 280005(c)(1), Sept. 13, 1994, [108 Stat. 2097][/us/stat/108/2097].)
 
  __Amendments__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/98/473/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs217%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2019
-[/us/pl/99/22/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F22%2Fs1%2F2
+[/us/pl/99/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F22
 [/us/stat/99/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F46
-[/us/pl/99/646/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs5
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3592
-[/us/pl/103/322/s280005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fc%2F1
+[/us/pl/103/322/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVIII
 [/us/stat/108/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2097
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646

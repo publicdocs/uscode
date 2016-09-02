@@ -95,7 +95,7 @@
 
         Any report, notification, application, or other document, material, or memorandum supplied to a committee under this subsection shall not be revealed to any third party, except that the committee may, either on its own initiative or upon the request of the Attorney General, make public such portion or portions of such report, notification, application, document, material, or memorandum as will not in the committee’s judgment prejudice the rights of any individual.
 
-(Added [Pub. L. 95–521, title VI, § 601(a)][/us/pl/95/521/s601/a], Oct. 26, 1978, [92 Stat. 1868][/us/stat/92/1868]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1), 4(b)–(e), Jan. 3, 1983, [96 Stat. 2039–2041][/us/stat/96/2039-2041]; [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1295][/us/stat/101/1295]; [Pub. L. 103–270, § 3][/us/pl/103/270/s3](l), June 30, 1994, [108 Stat. 736][/us/stat/108/736].)
+(Added [Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 601(a), Oct. 26, 1978, [92 Stat. 1868][/us/stat/92/1868]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1), 4(b)–(e), Jan. 3, 1983, [96 Stat. 2039–2041][/us/stat/96/2039-2041]; [Pub. L. 100–191][/us/pl/100/191], § 2, Dec. 15, 1987, [101 Stat. 1295][/us/stat/101/1295]; [Pub. L. 103–270][/us/pl/103/270], § 3(l), June 30, 1994, [108 Stat. 736][/us/stat/108/736].)
 
  __Amendments__ 
 
@@ -103,19 +103,19 @@
 
     1987—[Pub. L. 100–191][/us/pl/100/191] amended section generally, substituting provisions relating to preliminary investigation and application for appointment of an independent counsel for provisions relating to application for appointment of an independent counsel.
 
-    1983—Subsec. (a). [Pub. L. 97–409, § 4(b)][/us/pl/97/409/s4/b], designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of [section 591 of this title][/us/usc/t28/s591], the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in [section 591(b) of this title][/us/usc/t28/s591/b] has engaged in conduct described in [section 591(a) of this title][/us/usc/t28/s591/a],”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
+    1983—Subsec. (a). [Pub. L. 97–409][/us/pl/97/409], § 4(b), designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of [section 591 of this title][/us/usc/t28/s591], the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in [section 591(b) of this title][/us/usc/t28/s591/b] has engaged in conduct described in [section 591(a) of this title][/us/usc/t28/s591/a],”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
 
     Subsec. (b)(1). [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1)(A), 4(c), substituted “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated that no further investigation or prosecution is warranted” and substituted “independent counsel” for “special prosecutor”.
 
     Subsec. (c)(1). [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1)(A), 4(d), substituted “finds reasonable grounds to believe that further investigation or prosecution is warranted” for “finds the matter warrants further investigation or prosecution” after “preliminary investigation”, “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated as not to warrant further investigation or prosecution”, and “independent counsel” for “special prosecutor”, and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
 
-    Subsec. (c)(2). [Pub. L. 97–409, § 2(a)(1)(A)][/us/pl/97/409/s2/a/1/A], substituted “independent counsel” for “special prosecutor” in provisions following subpar. (B).
+    Subsec. (c)(2). [Pub. L. 97–409][/us/pl/97/409], § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in provisions following subpar. (B).
 
-    Subsec. (c)(2)(A). [Pub. L. 97–409, § 4(e)(1)][/us/pl/97/409/s4/e/1], substituted “information sufficient to constitute grounds to investigate” for “specific information” after “receives additional”.
+    Subsec. (c)(2)(A). [Pub. L. 97–409][/us/pl/97/409], § 4(e)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “receives additional”.
 
-    Subsec. (c)(2)(B). [Pub. L. 97–409, § 4(e)(2)][/us/pl/97/409/s4/e/2], substituted “reasonable grounds exist to warrant” for “such information warrants” after “appropriate, that”.
+    Subsec. (c)(2)(B). [Pub. L. 97–409][/us/pl/97/409], § 4(e)(2), substituted “reasonable grounds exist to warrant” for “such information warrants” after “appropriate, that”.
 
-    Subsecs. (d)(1), (e), (f). [Pub. L. 97–409, § 2(a)(1)][/us/pl/97/409/s2/a/1], substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
+    Subsecs. (d)(1), (e), (f). [Pub. L. 97–409][/us/pl/97/409], § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -132,26 +132,26 @@
 ----------
 ----------
 
-[/us/pl/95/521/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs601%2Fa
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1868
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/stat/96/2039-2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2039-2041
-[/us/pl/100/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs2
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1295
-[/us/pl/103/270/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/stat/108/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F736
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
-[/us/pl/97/409/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs4%2Fb
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/usc/t28/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs591
 [/us/usc/t28/s591/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs591%2Fb
 [/us/usc/t28/s591/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs591%2Fa
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
-[/us/pl/97/409/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1%2FA
-[/us/pl/97/409/s4/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs4%2Fe%2F1
-[/us/pl/97/409/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs4%2Fe%2F2
-[/us/pl/97/409/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/103/270/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs7%2Fa
 [/us/usc/t28/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs591

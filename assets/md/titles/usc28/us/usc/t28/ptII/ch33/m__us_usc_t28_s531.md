@@ -17,15 +17,15 @@
 
     The Federal Bureau of Investigation is in the Department of Justice.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616].)
 
  __Historical and Revision Notes__ 
 
-    The section is supplied for convenience and clarification. The Bureau of Investigation in the Department of Justice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation [Act of May 22, 1908, ch. 186, § 1][/us/act/1908-05-22/ch186/s1] (par. beginning “From the appropriations for the prosecution of crimes”), [35 Stat. 236][/us/stat/35/236], although that statutory provision makes no express mention of the Bureau or of the investigative function.
+    The section is supplied for convenience and clarification. The Bureau of Investigation in the Department of Justice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation [Act of May 22, 1908, ch. 186][/us/act/1908-05-22/ch186], § 1 (par. beginning “From the appropriations for the prosecution of crimes”), [35 Stat. 236][/us/stat/35/236], although that statutory provision makes no express mention of the Bureau or of the investigative function.
 
     Section 3 of Executive Order No. 6166 of June 10, 1933, specifically recognized the Bureau of Investigation in the Department of Justice and provided that all that Bureau’s functions together with the investigative functions of the Bureau of Prohibition were “transferred to and consolidated in a Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation.”
 
-    The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the [Act of Mar. 22, 1935, ch. 39][/us/act/1935-03-22/ch39], title II, [49 Stat. 77][/us/stat/49/77], and has been so designated in statutes since that date.
+    The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the [Act of Mar. 22, 1935, ch. 39, title II][/us/act/1935-03-22/ch39/tII], [49 Stat. 77][/us/stat/49/77], and has been so designated in statutes since that date.
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 
  __Enterprise Architecture__ 
 
-[Pub. L. 108–458, title VIII, § 8402][/us/pl/108/458/s8402], Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869], provided that:
+[Pub. L. 108–458, title VIII][/us/pl/108/458/tVIII], § 8402, Dec. 17, 2004, [118 Stat. 3869][/us/stat/118/3869], provided that:
 
 >     “(a)  __Enterprise Architecture Defined__  __.—__ 
 
@@ -67,13 +67,13 @@
 
  __Report to Congress__ 
 
-[Pub. L. 108–405, title II, § 203(f)][/us/pl/108/405/s203/f], Oct. 30, 2004, [118 Stat. 2271][/us/stat/118/2271], provided that: 
+[Pub. L. 108–405, title II][/us/pl/108/405/tII], § 203(f), Oct. 30, 2004, [118 Stat. 2271][/us/stat/118/2271], provided that: 
 
 > “If the Department of Justice plans to modify or supplement the core genetic markers needed for compatibility with the CODIS system, it shall notify the Judiciary Committee of the Senate and the Judiciary Committee of the House of Representatives in writing not later than 180 days before any change is made and explain the reasons for such change.”
 
  __Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center__ 
 
-[Pub. L. 105–314, title VII, § 703(a)][/us/pl/105/314/s703/a]–(f), Oct. 30, 1998, [112 Stat. 2987–2989][/us/stat/112/2987-2989], provided that:
+[Pub. L. 105–314, title VII][/us/pl/105/314/tVII], § 703(a)–(f), Oct. 30, 1998, [112 Stat. 2987–2989][/us/stat/112/2987-2989], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -143,7 +143,7 @@
 
  __Federal Bureau of Investigation Funding Authorizations__ 
 
-[Pub. L. 104–132, title VIII, § 811][/us/pl/104/132/s811], Apr. 24, 1996, [110 Stat. 1312][/us/stat/110/1312], as amended by [Pub. L. 106–546, § 6(a)][/us/pl/106/546/s6/a], Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733], provided that:
+[Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 811, Apr. 24, 1996, [110 Stat. 1312][/us/stat/110/1312], as amended by [Pub. L. 106–546][/us/pl/106/546], § 6(a), Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -234,25 +234,25 @@
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F616
-[/us/act/1908-05-22/ch186/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-22%2Fch186%2Fs1
+[/us/act/1908-05-22/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-22%2Fch186
 [/us/stat/35/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F236
-[/us/act/1935-03-22/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-22%2Fch39
+[/us/act/1935-03-22/ch39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-22%2Fch39%2FtII
 [/us/stat/49/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F77
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/108/458/s8402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs8402
+[/us/pl/108/458/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVIII
 [/us/stat/118/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3869
 [/us/usc/t6/s485/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485%2Fe
-[/us/pl/108/405/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Ff
+[/us/pl/108/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtII
 [/us/stat/118/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2271
-[/us/pl/105/314/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs703%2Fa
+[/us/pl/105/314/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtVII
 [/us/stat/112/2987-2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2987-2989
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/104/132/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs811
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1312
-[/us/pl/106/546/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs6%2Fa
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2733
 [/us/usc/t42/s14135a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135a%2Fd
 [/us/usc/t42/s14135b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135b%2Fd

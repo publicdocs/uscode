@@ -23,7 +23,7 @@
 
     In this section, the term “Indian country” has the meaning given that term in [section 1151 of title 18][/us/usc/t18/s1151].
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618]; amended [Pub. L. 111–211, title II, § 213(a)(1)][/us/pl/111/211/s213/a/1], July 29, 2010, [124 Stat. 2268][/us/stat/124/2268].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618]; amended [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 213(a)(1), July 29, 2010, [124 Stat. 2268][/us/stat/124/2268].)
 
 <table>
 
@@ -125,13 +125,13 @@ July 28, 1916, ch. 261, § 1 (6th par. on p. 413), 39 Stat. 413.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 543, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 911][/us/stat/62/911], related to oath of office for United States Marshals, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 563 of this title][/us/usc/t28/s563] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 543, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 911][/us/stat/62/911], related to oath of office for United States Marshals, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 563 of this title][/us/usc/t28/s563] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–211, § 213(a)(1)(A)][/us/pl/111/211/s213/a/1/A], inserted “, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country” before period at end.
+    2010—Subsec. (a). [Pub. L. 111–211][/us/pl/111/211], § 213(a)(1)(A), inserted “, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country” before period at end.
 
-    Subsec. (c). [Pub. L. 111–211, § 213(a)(1)(B)][/us/pl/111/211/s213/a/1/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 111–211][/us/pl/111/211], § 213(a)(1)(B), added subsec. (c).
 
 ----------
 
@@ -141,9 +141,9 @@ July 28, 1916, ch. 261, § 1 (6th par. on p. 413), 39 Stat. 413.  </td>
 ----------
 
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F618
-[/us/pl/111/211/s213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs213%2Fa%2F1
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2268
 [/us/usc/t5/s298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs298
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
@@ -151,10 +151,10 @@ July 28, 1916, ch. 261, § 1 (6th par. on p. 413), 39 Stat. 413.  </td>
 [/us/usc/t5/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs312
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F911
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs563
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
-[/us/pl/111/211/s213/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs213%2Fa%2F1%2FA
-[/us/pl/111/211/s213/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs213%2Fa%2F1%2FB
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 
 

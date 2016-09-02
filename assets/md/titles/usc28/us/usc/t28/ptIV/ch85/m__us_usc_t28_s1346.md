@@ -39,13 +39,13 @@
 
     (g) Subject to the provisions of chapter 179, the district courts of the United States shall have exclusive jurisdiction over any civil action commenced under [section 453(2) of title 3][/us/usc/t3/s453/2], by a covered employee under chapter 5 of such title.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 933][/us/stat/62/933]; [Apr. 25, 1949, ch. 92, § 2(a)][/us/act/1949-04-25/ch92/s2/a], [63 Stat. 62][/us/stat/63/62]; [May 24, 1949, ch. 139, § 80(a)][/us/act/1949-05-24/ch139/s80/a], (b), [63 Stat. 101][/us/stat/63/101]; [Oct. 31, 1951, ch. 655, § 50(b)][/us/act/1951-10-31/ch655/s50/b], [65 Stat. 727][/us/stat/65/727]; [July 30, 1954, ch. 648, § 1][/us/act/1954-07-30/ch648/s1], [68 Stat. 589][/us/stat/68/589]; [Pub. L. 85–508, § 12(e)][/us/pl/85/508/s12/e], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 88–519][/us/pl/88/519], Aug. 30, 1964, [78 Stat. 699][/us/stat/78/699]; [Pub. L. 89–719, title II, § 202(a)][/us/pl/89/719/s202/a], Nov. 2, 1966, [80 Stat. 1148][/us/stat/80/1148]; [Pub. L. 91–350, § 1(a)][/us/pl/91/350/s1/a], July 23, 1970, [84 Stat. 449][/us/stat/84/449]; [Pub. L. 92–562, § 1][/us/pl/92/562/s1], Oct. 25, 1972, [86 Stat. 1176][/us/stat/86/1176]; [Pub. L. 94–455, title XII, § 1204(c)(1)][/us/pl/94/455/s1204/c/1], title XIII, § 1306(b)(7), Oct. 4, 1976, [90 Stat. 1697][/us/stat/90/1697], 1719; [Pub. L. 95–563, § 14(a)][/us/pl/95/563/s14/a], Nov. 1, 1978, [92 Stat. 2389][/us/stat/92/2389]; [Pub. L. 97–164, title I, § 129][/us/pl/97/164/s129], Apr. 2, 1982, [96 Stat. 39][/us/stat/96/39]; [Pub. L. 97–248, title IV, § 402(c)(17)][/us/pl/97/248/s402/c/17], Sept. 3, 1982, [96 Stat. 669][/us/stat/96/669]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 806\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–75; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–331, § 3(b)(1)][/us/pl/104/331/s3/b/1], Oct. 26, 1996, [110 Stat. 4069][/us/stat/110/4069]; [Pub. L. 111–350, § 5(g)(6)][/us/pl/111/350/s5/g/6], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848]; [Pub. L. 113–4, title XI, § 1101(b)][/us/pl/113/4/s1101/b], Mar. 7, 2013, [127 Stat. 134][/us/stat/127/134].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 933][/us/stat/62/933]; [Apr. 25, 1949, ch. 92][/us/act/1949-04-25/ch92], § 2(a), [63 Stat. 62][/us/stat/63/62]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 80(a), (b), [63 Stat. 101][/us/stat/63/101]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 50(b), [65 Stat. 727][/us/stat/65/727]; [July 30, 1954, ch. 648][/us/act/1954-07-30/ch648], § 1, [68 Stat. 589][/us/stat/68/589]; [Pub. L. 85–508][/us/pl/85/508], § 12(e), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 88–519][/us/pl/88/519], Aug. 30, 1964, [78 Stat. 699][/us/stat/78/699]; [Pub. L. 89–719, title II][/us/pl/89/719/tII], § 202(a), Nov. 2, 1966, [80 Stat. 1148][/us/stat/80/1148]; [Pub. L. 91–350][/us/pl/91/350], § 1(a), July 23, 1970, [84 Stat. 449][/us/stat/84/449]; [Pub. L. 92–562][/us/pl/92/562], § 1, Oct. 25, 1972, [86 Stat. 1176][/us/stat/86/1176]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1204(c)(1), title XIII, § 1306(b)(7), Oct. 4, 1976, [90 Stat. 1697][/us/stat/90/1697], 1719; [Pub. L. 95–563][/us/pl/95/563], § 14(a), Nov. 1, 1978, [92 Stat. 2389][/us/stat/92/2389]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 129, Apr. 2, 1982, [96 Stat. 39][/us/stat/96/39]; [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(c)(17), Sept. 3, 1982, [96 Stat. 669][/us/stat/96/669]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 806\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–75; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–331][/us/pl/104/331], § 3(b)(1), Oct. 26, 1996, [110 Stat. 4069][/us/stat/110/4069]; [Pub. L. 111–350][/us/pl/111/350], § 5(g)(6), Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848]; [Pub. L. 113–4, title XI][/us/pl/113/4/tXI], § 1101(b), Mar. 7, 2013, [127 Stat. 134][/us/stat/127/134].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 41(20), 931(a), 932 ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], par. 20, [36 Stat. 1093][/us/stat/36/1093]; [Nov. 23, 1921, ch. 136, § 1310(c)][/us/act/1921-11-23/ch136/s1310/c], [42 Stat. 311][/us/stat/42/311]; [June 2, 1924, ch. 234, § 1025(c)][/us/act/1924-06-02/ch234/s1025/c], [43 Stat. 348][/us/stat/43/348]; [Feb. 24, 1925, ch. 309][/us/act/1925-02-24/ch309], [43 Stat. 972][/us/stat/43/972]; [Feb. 26, 1926, ch. 27][/us/act/1926-02-26/ch27], §§ 1122(c), 1200, [44 Stat. 121][/us/stat/44/121], 125; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], §§ 410(a), 411, [60 Stat. 843][/us/stat/60/843]).
+    Based on title 28, U.S.C., 1940 ed., §§ 41(20), 931(a), 932 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, par. 20, [36 Stat. 1093][/us/stat/36/1093]; [Nov. 23, 1921, ch. 136][/us/act/1921-11-23/ch136], § 1310(c), [42 Stat. 311][/us/stat/42/311]; [June 2, 1924, ch. 234][/us/act/1924-06-02/ch234], § 1025(c), [43 Stat. 348][/us/stat/43/348]; [Feb. 24, 1925, ch. 309][/us/act/1925-02-24/ch309], [43 Stat. 972][/us/stat/43/972]; [Feb. 26, 1926, ch. 27][/us/act/1926-02-26/ch27], §§ 1122(c), 1200, [44 Stat. 121][/us/stat/44/121], 125; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], §§ 410(a), 411, [60 Stat. 843][/us/stat/60/843]).
 
     Section consolidates provisions of section 41(20) conferring jurisdiction upon the district court, in civil actions against the United States, with the first sentence of section 931(a) relating to jurisdiction of the district courts in tort claims cases, and those provisions of section 932 making the provisions of said section 41(20), relating to counterclaim and set-off, applicable to tort claims cases, all of title 28, U.S.C., 1940 ed.
 
@@ -69,7 +69,7 @@
 
     Words in section 41(20) “in respect to which claims the party would be entitled to redress against the United States, either in a court of law, equity, or admiralty, if the United States were suable” were omitted from subsection (a)(2) of this revised section as unnecessary. See reviser’s note under [section 1491 of this title][/us/usc/t28/s1491].
 
-    For jurisdiction of The Tax Court to review claims for refunds of processing taxes collected under the unconstitutional Agriculture Adjustment Act, see sections 644–659 of title 7, U.S.C., 1940 ed., Agriculture, and the 1942 Revenue Act, [Act Oct. 21, 1942, ch. 610][/us/act/1942-10-21/ch610], title V, § 510(a), (c), (d), [56 Stat. 667][/us/stat/56/667]. (See, also, Lamborn v. United States, C.C.P.A. 1939, 104 F.2d 75, certiorari denied 60 S.Ct. 115, 308 U.S. 589, 84 L.Ed. 493.)
+    For jurisdiction of The Tax Court to review claims for refunds of processing taxes collected under the unconstitutional Agriculture Adjustment Act, see sections 644–659 of title 7, U.S.C., 1940 ed., Agriculture, and the 1942 Revenue Act, [Act Oct. 21, 1942, ch. 610, title V][/us/act/1942-10-21/ch610/tV], § 510(a), (c), (d), [56 Stat. 667][/us/stat/56/667]. (See, also, Lamborn v. United States, C.C.P.A. 1939, 104 F.2d 75, certiorari denied 60 S.Ct. 115, 308 U.S. 589, 84 L.Ed. 493.)
 
     See, also, reviser’s note under [section 1491 of this title][/us/usc/t28/s1491] as to jurisdiction of the Court of Claims in suits against the United States generally. For venue of actions under this section, see [section 1402 of this title][/us/usc/t28/s1402] and reviser’s note thereunder.
 
@@ -147,7 +147,7 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–350, § 2][/us/pl/91/350/s2], July 23, 1970, [84 Stat. 449][/us/stat/84/449], provided that:
+[Pub. L. 91–350][/us/pl/91/350], § 2, July 23, 1970, [84 Stat. 449][/us/stat/84/449], provided that:
 
 >     “(a) In addition to granting jurisdiction over suits brought after the date of enactment of this Act \[July 23, 1970\], the provisions of this Act \[amending this section and [section 1491 of this title][/us/usc/t28/s1491] and section 724a of former Title 31, Money and Finance\] shall also apply to claims and civil actions dismissed before or pending on the date of enactment of this Act if the claim or civil action is based upon a transaction, omission, or breach that occurred not more than six years prior to the date of enactment of this Act \[July 23, 1970\].
 
@@ -155,7 +155,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–719, title II, § 203][/us/pl/89/719/s203], Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149], provided that: 
+[Pub. L. 89–719, title II][/us/pl/89/719/tII], § 203, Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149], provided that: 
 
 > “The amendments made by this title \[amending this section and sections 1402 and 2410 of this title\] shall apply after the date of the enactment of this Act \[Nov. 2, 1966\].”
 
@@ -169,7 +169,7 @@
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70/tII], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 ----------
 
@@ -182,51 +182,51 @@
 [/us/usc/t3/s453/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs453%2F2
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F933
-[/us/act/1949-04-25/ch92/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-25%2Fch92%2Fs2%2Fa
+[/us/act/1949-04-25/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-25%2Fch92
 [/us/stat/63/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F62
-[/us/act/1949-05-24/ch139/s80/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs80%2Fa
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F101
-[/us/act/1951-10-31/ch655/s50/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs50%2Fb
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F727
-[/us/act/1954-07-30/ch648/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-30%2Fch648%2Fs1
+[/us/act/1954-07-30/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-30%2Fch648
 [/us/stat/68/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F589
-[/us/pl/85/508/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fe
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
 [/us/pl/88/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F519
 [/us/stat/78/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F699
-[/us/pl/89/719/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs202%2Fa
+[/us/pl/89/719/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtII
 [/us/stat/80/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1148
-[/us/pl/91/350/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F350%2Fs1%2Fa
+[/us/pl/91/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F350
 [/us/stat/84/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F449
-[/us/pl/92/562/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F562%2Fs1
+[/us/pl/92/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F562
 [/us/stat/86/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1176
-[/us/pl/94/455/s1204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fc%2F1
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1697
-[/us/pl/95/563/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563%2Fs14%2Fa
+[/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/stat/92/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2389
-[/us/pl/97/164/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs129
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F39
-[/us/pl/97/248/s402/c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fc%2F17
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F669
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/331/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fb%2F1
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4069
-[/us/pl/111/350/s5/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F6
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3848
-[/us/pl/113/4/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1101%2Fb
+[/us/pl/113/4/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXI
 [/us/stat/127/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F134
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1093
-[/us/act/1921-11-23/ch136/s1310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-11-23%2Fch136%2Fs1310%2Fc
+[/us/act/1921-11-23/ch136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-11-23%2Fch136
 [/us/stat/42/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F311
-[/us/act/1924-06-02/ch234/s1025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-02%2Fch234%2Fs1025%2Fc
+[/us/act/1924-06-02/ch234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-02%2Fch234
 [/us/stat/43/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F348
 [/us/act/1925-02-24/ch309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch309
 [/us/stat/43/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F972
@@ -246,7 +246,7 @@
 [/us/usc/t28/s41/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41%2F20
 [/us/usc/t28/s41/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41%2F20
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
-[/us/act/1942-10-21/ch610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch610
+[/us/act/1942-10-21/ch610/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch610%2FtV
 [/us/stat/56/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F667
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
 [/us/usc/t28/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1402
@@ -283,17 +283,17 @@
 [/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/pl/95/563/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563%2Fs16
 [/us/stat/92/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2391
-[/us/pl/91/350/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F350%2Fs2
+[/us/pl/91/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F350
 [/us/stat/84/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F449
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
-[/us/pl/89/719/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs203
+[/us/pl/89/719/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtII
 [/us/stat/80/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1149
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/usc/t28/s81A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs81A
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
 
 

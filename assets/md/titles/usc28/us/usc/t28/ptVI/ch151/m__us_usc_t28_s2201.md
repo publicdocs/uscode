@@ -19,7 +19,7 @@
 
     (b) For limitations on actions brought with respect to drug patents see section 505 or 512 of the Federal Food, Drug, and Cosmetic Act, or section 351 of the Public Health Service Act.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 964][/us/stat/62/964]; [May 24, 1949, ch. 139, § 111][/us/act/1949-05-24/ch139/s111], [63 Stat. 105][/us/stat/63/105]; [Aug. 28, 1954, ch. 1033][/us/act/1954-08-28/ch1033], [68 Stat. 890][/us/stat/68/890]; [Pub. L. 85–508, § 12(p)][/us/pl/85/508/s12/p], July 7, 1958, [72 Stat. 349][/us/stat/72/349]; [Pub. L. 94–455, title XIII, § 1306(b)(8)][/us/pl/94/455/s1306/b/8], Oct. 4, 1976, [90 Stat. 1719][/us/stat/90/1719]; [Pub. L. 95–598, title II, § 249][/us/pl/95/598/s249], Nov. 6, 1978, [92 Stat. 2672][/us/stat/92/2672]; [Pub. L. 98–417, title I, § 106][/us/pl/98/417/s106], Sept. 24, 1984, [98 Stat. 1597][/us/stat/98/1597]; [Pub. L. 100–449, title IV, § 402(c)][/us/pl/100/449/s402/c], Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 100–670, title I, § 107(b)][/us/pl/100/670/s107/b], Nov. 16, 1988, [102 Stat. 3984][/us/stat/102/3984]; [Pub. L. 103–182, title IV, § 414(b)][/us/pl/103/182/s414/b], Dec. 8, 1993, [107 Stat. 2147][/us/stat/107/2147]; [Pub. L. 111–148, title VII, § 7002(c)(2)][/us/pl/111/148/s7002/c/2], Mar. 23, 2010, [124 Stat. 816][/us/stat/124/816].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 964][/us/stat/62/964]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 111, [63 Stat. 105][/us/stat/63/105]; [Aug. 28, 1954, ch. 1033][/us/act/1954-08-28/ch1033], [68 Stat. 890][/us/stat/68/890]; [Pub. L. 85–508][/us/pl/85/508], § 12(p), July 7, 1958, [72 Stat. 349][/us/stat/72/349]; [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1306(b)(8), Oct. 4, 1976, [90 Stat. 1719][/us/stat/90/1719]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 249, Nov. 6, 1978, [92 Stat. 2672][/us/stat/92/2672]; [Pub. L. 98–417, title I][/us/pl/98/417/tI], § 106, Sept. 24, 1984, [98 Stat. 1597][/us/stat/98/1597]; [Pub. L. 100–449, title IV][/us/pl/100/449/tIV], § 402(c), Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 100–670, title I][/us/pl/100/670/tI], § 107(b), Nov. 16, 1988, [102 Stat. 3984][/us/stat/102/3984]; [Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 414(b), Dec. 8, 1993, [107 Stat. 2147][/us/stat/107/2147]; [Pub. L. 111–148, title VII][/us/pl/111/148/tVII], § 7002(c)(2), Mar. 23, 2010, [124 Stat. 816][/us/stat/124/816].)
 
  __Amendment of Section__ 
 
@@ -29,7 +29,7 @@
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 400 ([Mar. 3, 1911, ch. 231, § 274d][/us/act/1911-03-03/ch231/s274d], as added [June 14, 1934, ch. 512][/us/act/1934-06-14/ch512], [48 Stat. 955][/us/stat/48/955]; [Aug. 30, 1935, ch. 829, § 405][/us/act/1935-08-30/ch829/s405], [49 Stat. 1027][/us/stat/49/1027]).
+    Based on title 28, U.S.C., 1940 ed., § 400 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 274d, as added [June 14, 1934, ch. 512][/us/act/1934-06-14/ch512], [48 Stat. 955][/us/stat/48/955]; [Aug. 30, 1935, ch. 829][/us/act/1935-08-30/ch829], § 405, [49 Stat. 1027][/us/stat/49/1027]).
 
     This section is based on the first paragraph of [section 400 of title 28][/us/usc/t28/s400], U.S.C., 1940 ed. Other provisions of such section are incorporated in [section 2202 of this title][/us/usc/t28/s2202].
 
@@ -110,31 +110,31 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F964
-[/us/act/1949-05-24/ch139/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs111
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F105
 [/us/act/1954-08-28/ch1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1033
 [/us/stat/68/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F890
-[/us/pl/85/508/s12/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fp
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F349
-[/us/pl/94/455/s1306/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1306%2Fb%2F8
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1719
-[/us/pl/95/598/s249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs249
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2672
-[/us/pl/98/417/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs106
+[/us/pl/98/417/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtI
 [/us/stat/98/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1597
-[/us/pl/100/449/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs402%2Fc
+[/us/pl/100/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIV
 [/us/stat/102/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1884
-[/us/pl/100/670/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2Fs107%2Fb
+[/us/pl/100/670/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F670%2FtI
 [/us/stat/102/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3984
-[/us/pl/103/182/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs414%2Fb
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2147
-[/us/pl/111/148/s7002/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fc%2F2
+[/us/pl/111/148/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVII
 [/us/stat/124/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F816
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
-[/us/act/1911-03-03/ch231/s274d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs274d
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/act/1934-06-14/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-14%2Fch512
 [/us/stat/48/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F955
-[/us/act/1935-08-30/ch829/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch829%2Fs405
+[/us/act/1935-08-30/ch829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch829
 [/us/stat/49/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1027
 [/us/usc/t28/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs400
 [/us/usc/t28/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2202

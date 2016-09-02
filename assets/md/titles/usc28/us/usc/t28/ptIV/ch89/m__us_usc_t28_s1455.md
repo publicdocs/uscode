@@ -35,7 +35,7 @@
 
     If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into the marshal’s custody and deliver a copy of the writ to the clerk of such State court.
 
-(Added [Pub. L. 112–63, title I, § 103(c)][/us/pl/112/63/s103/c], Dec. 7, 2011, [125 Stat. 761][/us/stat/125/761].)
+(Added [Pub. L. 112–63, title I][/us/pl/112/63/tI], § 103(c), Dec. 7, 2011, [125 Stat. 761][/us/stat/125/761].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/112/63/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fc
+[/us/pl/112/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtI
 [/us/stat/125/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F761
 [/us/pl/112/63/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs105
 [/us/usc/t28/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1332

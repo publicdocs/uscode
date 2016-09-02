@@ -51,11 +51,11 @@
 
     (e) The Supreme Court may prescribe rules, in accordance with [section 2072 of this title][/us/usc/t28/s2072], to provide for an appeal of an interlocutory decision to the courts of appeals that is not otherwise provided for under subsection (a), (b), (c), or (d).
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 929][/us/stat/62/929]; [Oct. 31, 1951, ch. 655, § 49][/us/act/1951-10-31/ch655/s49], [65 Stat. 726][/us/stat/65/726]; [Pub. L. 85–508, § 12(e)][/us/pl/85/508/s12/e], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 85–919][/us/pl/85/919], Sept. 2, 1958, [72 Stat. 1770][/us/stat/72/1770]; [Pub. L. 97–164, § 125][/us/pl/97/164/s125], Apr. 2, 1982, [96 Stat. 36][/us/stat/96/36]; [Pub. L. 98–620, title IV, § 412][/us/pl/98/620/s412], Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362]; [Pub. L. 100–702, title V, § 501][/us/pl/100/702/s501], Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652]; [Pub. L. 102–572, title I, § 101][/us/pl/102/572/s101], title IX, §§ 902(b), 906(c), Oct. 29, 1992, [106 Stat. 4506][/us/stat/106/4506], 4516, 4518.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 929][/us/stat/62/929]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 49, [65 Stat. 726][/us/stat/65/726]; [Pub. L. 85–508][/us/pl/85/508], § 12(e), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 85–919][/us/pl/85/919], Sept. 2, 1958, [72 Stat. 1770][/us/stat/72/1770]; [Pub. L. 97–164][/us/pl/97/164], § 125, Apr. 2, 1982, [96 Stat. 36][/us/stat/96/36]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 412, Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362]; [Pub. L. 100–702, title V][/us/pl/100/702/tV], § 501, Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652]; [Pub. L. 102–572, title I][/us/pl/102/572/tI], § 101, title IX, §§ 902(b), 906(c), Oct. 29, 1992, [106 Stat. 4506][/us/stat/106/4506], 4516, 4518.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 225(b), 227, 227a, and [section 61 of title 7][/us/usc/t7/s61] of the Canal Zone Code ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 128, 129, [36 Stat. 1133][/us/stat/36/1133], 1134; [Feb. 13, 1925, ch. 229, § 1][/us/act/1925-02-13/ch229/s1], [43 Stat. 937][/us/stat/43/937]; [Feb. 28, 1927, ch. 228][/us/act/1927-02-28/ch228], [44 Stat. 1261][/us/stat/44/1261]; [Apr. 3, 1926, ch. 102][/us/act/1926-04-03/ch102], [44 Stat. 233][/us/stat/44/233]; [May 20, 1926, ch. 347, § 13(a)][/us/act/1926-05-20/ch347/s13/a], [44 Stat. 587][/us/stat/44/587]; [Apr. 11, 1928, ch. 354, § 1][/us/act/1928-04-11/ch354/s1], [45 Stat. 422][/us/stat/45/422]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]).
+    Based on title 28, U.S.C., 1940 ed., §§ 225(b), 227, 227a, and [section 61 of title 7][/us/usc/t7/s61] of the Canal Zone Code ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 128, 129, [36 Stat. 1133][/us/stat/36/1133], 1134; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 1, [43 Stat. 937][/us/stat/43/937]; [Feb. 28, 1927, ch. 228][/us/act/1927-02-28/ch228], [44 Stat. 1261][/us/stat/44/1261]; [Apr. 3, 1926, ch. 102][/us/act/1926-04-03/ch102], [44 Stat. 233][/us/stat/44/233]; [May 20, 1926, ch. 347][/us/act/1926-05-20/ch347], § 13(a), [44 Stat. 587][/us/stat/44/587]; [Apr. 11, 1928, ch. 354][/us/act/1928-04-11/ch354], § 1, [45 Stat. 422][/us/stat/45/422]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]).
 
     Section consolidates sections 225(b), 227 and part of 227a of title 28, U.S.C., 1940 ed., with necessary changes in phraseology to effect the consolidation.
 
@@ -85,23 +85,23 @@
 
     1992—Subsec. (d)(2). [Pub. L. 102–572][/us/pl/102/572], §§ 902(b)(1), 906(c), substituted “When the chief judge of the United States Court of Federal Claims issues an order under [section 798(b) of this title][/us/usc/t28/s798/b], or when any judge of the United States Court of Federal Claims” for “When any judge of the United States Claims Court”.
 
-    Subsec. (d)(3). [Pub. L. 102–572, § 902(b)(2)][/us/pl/102/572/s902/b/2], substituted “Court of Federal Claims” for “Claims Court” in two places.
+    Subsec. (d)(3). [Pub. L. 102–572][/us/pl/102/572], § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in two places.
 
-    Subsec. (d)(4). [Pub. L. 102–572, § 902(b)][/us/pl/102/572/s902/b], substituted “United States Court of Federal Claims” for “United States Claims Court” in subpar. (A) and “Court of Federal Claims” for “Claims Court” in two places in subpar. (B).
+    Subsec. (d)(4). [Pub. L. 102–572][/us/pl/102/572], § 902(b), substituted “United States Court of Federal Claims” for “United States Claims Court” in subpar. (A) and “Court of Federal Claims” for “Claims Court” in two places in subpar. (B).
 
-    Subsec. (e). [Pub. L. 102–572, § 101][/us/pl/102/572/s101], added subsec. (e).
+    Subsec. (e). [Pub. L. 102–572][/us/pl/102/572], § 101, added subsec. (e).
 
     1988—Subsec. (d)(4). [Pub. L. 100–702][/us/pl/100/702] added par. (4).
 
-    1984—Subsec. (b). [Pub. L. 98–620, § 412(a)][/us/pl/98/620/s412/a], inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
+    1984—Subsec. (b). [Pub. L. 98–620][/us/pl/98/620], § 412(a), inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
 
-    Subsec. (c)(1). [Pub. L. 98–620, § 412(b)][/us/pl/98/620/s412/b], inserted “or (b)” after “(a)”.
+    Subsec. (c)(1). [Pub. L. 98–620][/us/pl/98/620], § 412(b), inserted “or (b)” after “(a)”.
 
-    1982—Subsec. (a). [Pub. L. 97–164, § 125(a)(1)][/us/pl/97/164/s125/a/1], substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
+    1982—Subsec. (a). [Pub. L. 97–164][/us/pl/97/164], § 125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 97–164, § 125(a)(2)][/us/pl/97/164/s125/a/2], (3), struck out par. (4) which related to judgments in civil actions for patent infringement which were final except for accounting.
+    Subsec. (a)(4). [Pub. L. 97–164][/us/pl/97/164], § 125(a)(2), (3), struck out par. (4) which related to judgments in civil actions for patent infringement which were final except for accounting.
 
-    Subsecs. (c), (d). [Pub. L. 97–164, § 125(b)][/us/pl/97/164/s125/b], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 97–164][/us/pl/97/164], § 125(b), added subsecs. (c) and (d).
 
     1958—[Pub. L. 85–919][/us/pl/85/919] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–702, title V, § 502][/us/pl/100/702/s502], Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652], provided that: 
+[Pub. L. 100–702, title V][/us/pl/100/702/tV], § 502, Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652], provided that: 
 
 > “The amendment made by section 501 \[amending this section\] shall apply to any action commenced in the district court on or after the date of enactment of this title \[Nov. 19, 1988\].”
 
@@ -147,32 +147,32 @@
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F929
-[/us/act/1951-10-31/ch655/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs49
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F726
-[/us/pl/85/508/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fe
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
 [/us/pl/85/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F919
 [/us/stat/72/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1770
-[/us/pl/97/164/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs125
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/stat/96/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F36
-[/us/pl/98/620/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs412
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3362
-[/us/pl/100/702/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs501
+[/us/pl/100/702/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtV
 [/us/stat/102/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4652
-[/us/pl/102/572/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs101
+[/us/pl/102/572/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtI
 [/us/stat/106/4506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4506
 [/us/usc/t7/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs61
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1133
-[/us/act/1925-02-13/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs1
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F937
 [/us/act/1927-02-28/ch228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-28%2Fch228
 [/us/stat/44/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1261
 [/us/act/1926-04-03/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-03%2Fch102
 [/us/stat/44/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F233
-[/us/act/1926-05-20/ch347/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347%2Fs13%2Fa
+[/us/act/1926-05-20/ch347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347
 [/us/stat/44/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F587
-[/us/act/1928-04-11/ch354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-11%2Fch354%2Fs1
+[/us/act/1928-04-11/ch354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-11%2Fch354
 [/us/stat/45/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F422
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
@@ -193,15 +193,15 @@
 [/us/usc/t7/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs61
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/usc/t28/s798/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs798%2Fb
-[/us/pl/102/572/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F2
-[/us/pl/102/572/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb
-[/us/pl/102/572/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs101
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
-[/us/pl/98/620/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs412%2Fa
-[/us/pl/98/620/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs412%2Fb
-[/us/pl/97/164/s125/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs125%2Fa%2F1
-[/us/pl/97/164/s125/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs125%2Fa%2F2
-[/us/pl/97/164/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs125%2Fb
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/85/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F919
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/usc/t28/s81A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs81A
@@ -211,7 +211,7 @@
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/100/702/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs502
+[/us/pl/100/702/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtV
 [/us/stat/102/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4652
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402

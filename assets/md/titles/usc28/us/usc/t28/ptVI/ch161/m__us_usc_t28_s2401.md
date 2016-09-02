@@ -19,11 +19,11 @@
 
     (b) A tort claim against the United States shall be forever barred unless it is presented in writing to the appropriate Federal agency within two years after such claim accrues or unless action is begun within six months after the date of mailing, by certified or registered mail, of notice of final denial of the claim by the agency to which it was presented.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 971][/us/stat/62/971]; [Apr. 25, 1949, ch. 92, § 1][/us/act/1949-04-25/ch92/s1], [63 Stat. 62][/us/stat/63/62]; [Pub. L. 86–238, § 1(3)][/us/pl/86/238/s1/3], Sept. 8, 1959, [73 Stat. 472][/us/stat/73/472]; [Pub. L. 89–506, § 7][/us/pl/89/506/s7], July 18, 1966, [80 Stat. 307][/us/stat/80/307]; [Pub. L. 95–563, § 14(b)][/us/pl/95/563/s14/b], Nov. 1, 1978, [92 Stat. 2389][/us/stat/92/2389]; [Pub. L. 111–350, § 5(g)(8)][/us/pl/111/350/s5/g/8], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 971][/us/stat/62/971]; [Apr. 25, 1949, ch. 92][/us/act/1949-04-25/ch92], § 1, [63 Stat. 62][/us/stat/63/62]; [Pub. L. 86–238][/us/pl/86/238], § 1(3), Sept. 8, 1959, [73 Stat. 472][/us/stat/73/472]; [Pub. L. 89–506][/us/pl/89/506], § 7, July 18, 1966, [80 Stat. 307][/us/stat/80/307]; [Pub. L. 95–563][/us/pl/95/563], § 14(b), Nov. 1, 1978, [92 Stat. 2389][/us/stat/92/2389]; [Pub. L. 111–350][/us/pl/111/350], § 5(g)(8), Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 41(20), 942 ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], part 20, [36 Stat. 1093][/us/stat/36/1093]; [Nov. 23, 1921, ch. 136, § 1310(c)][/us/act/1921-11-23/ch136/s1310/c], [42 Stat. 311][/us/stat/42/311]; June 2, 1924, 4:01 p.m., ch. 234, § 1025(c), [43 Stat. 348][/us/stat/43/348]; [Feb. 24, 1925, ch. 309][/us/act/1925-02-24/ch309], [43 Stat. 972][/us/stat/43/972]; [Feb. 26, 1926, ch. 27][/us/act/1926-02-26/ch27], §§ 1122(c), 1200, [44 Stat. 121][/us/stat/44/121], 125; [Aug. 2, 1946, ch. 753, § 420][/us/act/1946-08-02/ch753/s420], [60 Stat. 845][/us/stat/60/845]).
+    Based on title 28, U.S.C., 1940 ed., §§ 41(20), 942 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, part 20, [36 Stat. 1093][/us/stat/36/1093]; [Nov. 23, 1921, ch. 136][/us/act/1921-11-23/ch136], § 1310(c), [42 Stat. 311][/us/stat/42/311]; June 2, 1924, 4:01 p.m., ch. 234, § 1025(c), [43 Stat. 348][/us/stat/43/348]; [Feb. 24, 1925, ch. 309][/us/act/1925-02-24/ch309], [43 Stat. 972][/us/stat/43/972]; [Feb. 26, 1926, ch. 27][/us/act/1926-02-26/ch27], §§ 1122(c), 1200, [44 Stat. 121][/us/stat/44/121], 125; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 420, [60 Stat. 845][/us/stat/60/845]).
 
     Section consolidates provision in [section 41(20) of title 28][/us/usc/t28/s41/20], U.S.C., 1940 ed., as to time limitation for bringing actions against the United States under [section 1346(a) of this title][/us/usc/t28/s1346/a], with section 942 of said title 28.
 
@@ -74,26 +74,26 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F971
-[/us/act/1949-04-25/ch92/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-25%2Fch92%2Fs1
+[/us/act/1949-04-25/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-04-25%2Fch92
 [/us/stat/63/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F62
-[/us/pl/86/238/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F238%2Fs1%2F3
+[/us/pl/86/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F238
 [/us/stat/73/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F472
-[/us/pl/89/506/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs7
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/stat/80/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F307
-[/us/pl/95/563/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563%2Fs14%2Fb
+[/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/stat/92/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2389
-[/us/pl/111/350/s5/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F8
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3848
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1093
-[/us/act/1921-11-23/ch136/s1310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-11-23%2Fch136%2Fs1310%2Fc
+[/us/act/1921-11-23/ch136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-11-23%2Fch136
 [/us/stat/42/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F311
 [/us/stat/43/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F348
 [/us/act/1925-02-24/ch309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch309
 [/us/stat/43/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F972
 [/us/act/1926-02-26/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-02-26%2Fch27
 [/us/stat/44/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F121
-[/us/act/1946-08-02/ch753/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs420
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F845
 [/us/usc/t28/s41/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41%2F20
 [/us/usc/t28/s1346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fa

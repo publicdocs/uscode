@@ -19,11 +19,11 @@
 
     In every case in which the right to withdraw money deposited in court under section 2041 has been adjudicated or is not in dispute and such money has remained so deposited for at least five years unclaimed by the person entitled thereto, such court shall cause such money to be deposited in the Treasury in the name and to the credit of the United States. Any claimant entitled to any such money may, on petition to the court and upon notice to the United States attorney and full proof of the right thereto, obtain an order directing payment to him.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 960][/us/stat/62/960]; [Pub. L. 97–258, § 2(g)(4)(D)][/us/pl/97/258/s2/g/4/D], Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 960][/us/stat/62/960]; [Pub. L. 97–258][/us/pl/97/258], § 2(g)(4)(D), Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 852 (R.S. § 996; [Feb. 19, 1897, ch. 265, § 3][/us/act/1897-02-19/ch265/s3], [29 Stat. 578][/us/stat/29/578]; [Mar. 3, 1911, ch. 224][/us/act/1911-03-03/ch224], [36 Stat. 1083][/us/stat/36/1083]).
+    Based on title 28, U.S.C., 1940 ed., § 852 (R.S. § 996; [Feb. 19, 1897, ch. 265][/us/act/1897-02-19/ch265], § 3, [29 Stat. 578][/us/stat/29/578]; [Mar. 3, 1911, ch. 224][/us/act/1911-03-03/ch224], [36 Stat. 1083][/us/stat/36/1083]).
 
     Words “and the money deposited as aforesaid shall constitute and be a permanent appropriation for payments in obedience to such orders” were omitted, in view of section 725p(b)(14), of title 31, U.S.C., 1940 ed., which repealed permanent appropriations of unclaimed money accounts and substituted authorization for annual appropriations effective July 1, 1935.
 
@@ -49,9 +49,9 @@ In U. S. Law Week, Nov. 7, 1939, Rep. Walter Chandler (Author of Chandler Act, B
 [/us/usc/t28/s2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2041
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F960
-[/us/pl/97/258/s2/g/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fg%2F4%2FD
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1061
-[/us/act/1897-02-19/ch265/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-02-19%2Fch265%2Fs3
+[/us/act/1897-02-19/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-02-19%2Fch265
 [/us/stat/29/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F578
 [/us/act/1911-03-03/ch224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch224
 [/us/stat/36/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1083

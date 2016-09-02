@@ -79,35 +79,35 @@
 
     (h) A court of a State may not modify a visitation determination made by a court of another State unless the court of the other State no longer has jurisdiction to modify such determination or has declined to exercise jurisdiction to modify such determination.
 
-(Added [Pub. L. 96–611, § 8(a)][/us/pl/96/611/s8/a], Dec. 28, 1980, [94 Stat. 3569][/us/stat/94/3569]; amended [Pub. L. 105–374, § 1][/us/pl/105/374/s1], Nov. 12, 1998, [112 Stat. 3383][/us/stat/112/3383]; [Pub. L. 106–386, div. B, title III, § 1303(d)][/us/pl/106/386/s1303/d], Oct. 28, 2000, [114 Stat. 1512][/us/stat/114/1512].)
+(Added [Pub. L. 96–611][/us/pl/96/611], § 8(a), Dec. 28, 1980, [94 Stat. 3569][/us/stat/94/3569]; amended [Pub. L. 105–374][/us/pl/105/374], § 1, Nov. 12, 1998, [112 Stat. 3383][/us/stat/112/3383]; [Pub. L. 106–386, div. B, title III][/us/pl/106/386/dB/tIII], § 1303(d), Oct. 28, 2000, [114 Stat. 1512][/us/stat/114/1512].)
 
  __Amendments__ 
 
     2000—Subsec. (c)(2)(C)(ii). [Pub. L. 106–386][/us/pl/106/386] substituted “the child, a sibling, or parent of the child” for “he”.
 
-    1998—Subsec. (a). [Pub. L. 105–374, § 1(a)][/us/pl/105/374/s1/a], substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
+    1998—Subsec. (a). [Pub. L. 105–374][/us/pl/105/374], § 1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
 
-    Subsec. (b)(2). [Pub. L. 105–374, § 1(b)][/us/pl/105/374/s1/b], inserted “or grandparent” after “parent”.
+    Subsec. (b)(2). [Pub. L. 105–374][/us/pl/105/374], § 1(b), inserted “or grandparent” after “parent”.
 
-    Subsec. (b)(3). [Pub. L. 105–374, § 1(c)][/us/pl/105/374/s1/c], struck out “or visitation” after “for the custody”.
+    Subsec. (b)(3). [Pub. L. 105–374][/us/pl/105/374], § 1(c), struck out “or visitation” after “for the custody”.
 
-    Subsec. (b)(5). [Pub. L. 105–374, § 1(d)][/us/pl/105/374/s1/d], substituted “custody or visitation determination” for “custody determination” in two places.
+    Subsec. (b)(5). [Pub. L. 105–374][/us/pl/105/374], § 1(d), substituted “custody or visitation determination” for “custody determination” in two places.
 
-    Subsec. (b)(9). [Pub. L. 105–374, § 1(e)][/us/pl/105/374/s1/e], added par. (9).
+    Subsec. (b)(9). [Pub. L. 105–374][/us/pl/105/374], § 1(e), added par. (9).
 
-    Subsec. (c). [Pub. L. 105–374, § 1(f)][/us/pl/105/374/s1/f], substituted “custody or visitation determination” for “custody determination” in introductory provisions.
+    Subsec. (c). [Pub. L. 105–374][/us/pl/105/374], § 1(f), substituted “custody or visitation determination” for “custody determination” in introductory provisions.
 
-    Subsec. (c)(2)(D)(i). [Pub. L. 105–374, § 1(g)][/us/pl/105/374/s1/g], inserted “or visitation” after “determine the custody”.
+    Subsec. (c)(2)(D)(i). [Pub. L. 105–374][/us/pl/105/374], § 1(g), inserted “or visitation” after “determine the custody”.
 
-    Subsecs. (d), (e). [Pub. L. 105–374, § 1(h)][/us/pl/105/374/s1/h], (i), substituted “custody or visitation determination” for “custody determination”.
+    Subsecs. (d), (e). [Pub. L. 105–374][/us/pl/105/374], § 1(h), (i), substituted “custody or visitation determination” for “custody determination”.
 
-    Subsec. (g). [Pub. L. 105–374, § 1(j)][/us/pl/105/374/s1/j], which directed substitution of “custody or visitation determination” for “custody determination”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+    Subsec. (g). [Pub. L. 105–374][/us/pl/105/374], § 1(j), which directed substitution of “custody or visitation determination” for “custody determination”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-    Subsec. (h). [Pub. L. 105–374, § 1(k)][/us/pl/105/374/s1/k], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–374][/us/pl/105/374], § 1(k), added subsec. (h).
 
  __Report on Effects of Parental Kidnaping Laws in Domestic Violence Cases__ 
 
-[Pub. L. 106–386, div. B, title III, § 1303(a)][/us/pl/106/386/s1303/a]–(c), Oct. 28, 2000, [114 Stat. 1512][/us/stat/114/1512], provided that:
+[Pub. L. 106–386, div. B, title III][/us/pl/106/386/dB/tIII], § 1303(a)–(c), Oct. 28, 2000, [114 Stat. 1512][/us/stat/114/1512], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -129,7 +129,7 @@
 
  __Congressional Findings and Declaration of Purpose__ 
 
-[Pub. L. 96–611, § 7][/us/pl/96/611/s7], Dec. 28, 1980, [94 Stat. 3568][/us/stat/94/3568], provided that:
+[Pub. L. 96–611][/us/pl/96/611], § 7, Dec. 28, 1980, [94 Stat. 3568][/us/stat/94/3568], provided that:
 
 >     “(a)
 
@@ -163,7 +163,7 @@
 
  __State Court Proceedings for Custody Determinations; Priority Treatment; Fees, Costs, and Other Expenses__ 
 
-[Pub. L. 96–611, § 8(c)][/us/pl/96/611/s8/c], Dec. 28, 1980, [94 Stat. 3571][/us/stat/94/3571], provided that: 
+[Pub. L. 96–611][/us/pl/96/611], § 8(c), Dec. 28, 1980, [94 Stat. 3571][/us/stat/94/3571], provided that: 
 
 > “In furtherance of the purposes of [section 1738A of title 28][/us/usc/t28/s1738A], United States Code, as added by subsection (a) of this section, State courts are encouraged to—
 
@@ -184,34 +184,34 @@
 ----------
 ----------
 
-[/us/pl/96/611/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs8%2Fa
+[/us/pl/96/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611
 [/us/stat/94/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3569
-[/us/pl/105/374/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
 [/us/stat/112/3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3383
-[/us/pl/106/386/s1303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1303%2Fd
+[/us/pl/106/386/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIII
 [/us/stat/114/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1512
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/105/374/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fa
-[/us/pl/105/374/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fb
-[/us/pl/105/374/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fc
-[/us/pl/105/374/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fd
-[/us/pl/105/374/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fe
-[/us/pl/105/374/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Ff
-[/us/pl/105/374/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fg
-[/us/pl/105/374/s1/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fh
-[/us/pl/105/374/s1/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fj
-[/us/pl/105/374/s1/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374%2Fs1%2Fk
-[/us/pl/106/386/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1303%2Fa
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/105/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F374
+[/us/pl/106/386/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtIII
 [/us/stat/114/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1512
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/106/386/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1002
 [/us/usc/t42/s3796gg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796gg%E2%80%932
-[/us/pl/96/611/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs7
+[/us/pl/96/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611
 [/us/stat/94/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3568
 [/us/usc/t42/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs663
 [/us/usc/t18/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1073
-[/us/pl/96/611/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs8%2Fc
+[/us/pl/96/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611
 [/us/stat/94/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3571
 [/us/usc/t28/s1738A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1738A
 

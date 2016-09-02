@@ -85,7 +85,7 @@
 
         A judicial council acting under authority of this subsection shall, unless contrary to the interests of justice, immediately submit written notice to the complainant and to the judge whose conduct is the subject of the action taken under this subsection.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11042(a)][/us/pl/107/273/s11042/a], Nov. 2, 2002, [116 Stat. 1850][/us/stat/116/1850].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11042(a), Nov. 2, 2002, [116 Stat. 1850][/us/stat/116/1850].)
 
 ----------
 
@@ -95,7 +95,7 @@
 ----------
 
 [/us/usc/t28/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371
-[/us/pl/107/273/s11042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11042%2Fa
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1850
 
 

@@ -17,7 +17,7 @@
 
     The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim for damages by any person unjustly convicted of an offense against the United States and imprisoned.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [Pub. L. 97–164, title I, § 133(c)(1)][/us/pl/97/164/s133/c/1], Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 133(c)(1), Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F941
-[/us/pl/97/164/s133/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs133%2Fc%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F40
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/usc/t18/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs729
 [/us/act/1938-05-24/ch266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-24%2Fch266

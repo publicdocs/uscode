@@ -23,7 +23,7 @@
 
     The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal referred to in subsection (a), advance the appeal on the docket, and expedite the appeal to the greatest extent possible.
 
-(Added [Pub. L. 104–331, § 3(c)][/us/pl/104/331/s3/c], Oct. 26, 1996, [110 Stat. 4070][/us/stat/110/4070].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 3(c), Oct. 26, 1996, [110 Stat. 4070][/us/stat/110/4070].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/331/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fc
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4070
 
 

@@ -29,11 +29,11 @@
 
         (4) This section shall not be construed to affect the interest on any judgment of any court not specified in this section.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 957][/us/stat/62/957]; [Pub. L. 97–164, title III, § 302(a)][/us/pl/97/164/s302/a], Apr. 2, 1982, [96 Stat. 55][/us/stat/96/55]; [Pub. L. 97–258, § 2(m)(1)][/us/pl/97/258/s2/m/1], Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062]; [Pub. L. 97–452, § 2(d)(1)][/us/pl/97/452/s2/d/1], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XV, § 1511(c)(17), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2745; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 307(d)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–636.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 957][/us/stat/62/957]; [Pub. L. 97–164, title III][/us/pl/97/164/tIII], § 302(a), Apr. 2, 1982, [96 Stat. 55][/us/stat/96/55]; [Pub. L. 97–258][/us/pl/97/258], § 2(m)(1), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062]; [Pub. L. 97–452][/us/pl/97/452], § 2(d)(1), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 99–514][/us/pl/99/514], § 2, title XV, § 1511(c)(17), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2745; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 307(d)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–636.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 811 (R.S. § 966; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]).
+    Based on title 28, U.S.C., 1940 ed., § 811 (R.S. § 966; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]).
 
     Changes were made in phraseology.
 
@@ -47,17 +47,17 @@
 
     1992—Subsec. (c)(3). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    1986—Subsec. (c)(1). [Pub. L. 99–514, § 1511(c)(17)][/us/pl/99/514/s1511/c/17], substituted “the underpayment rate or overpayment rate (whichever is appropriate) established” for “a rate established”.
+    1986—Subsec. (c)(1). [Pub. L. 99–514][/us/pl/99/514], § 1511(c)(17), substituted “the underpayment rate or overpayment rate (whichever is appropriate) established” for “a rate established”.
 
-    [Pub. L. 99–514, § 2][/us/pl/99/514/s2], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+    [Pub. L. 99–514][/us/pl/99/514], § 2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
     1983—Subsec. (b). [Pub. L. 97–452][/us/pl/97/452] substituted “[section 1304(b) of title 31][/us/usc/t31/s1304/b]” for “[section 1302 of the Act of July 27, 1956][/us/act/1956-07-27/s1302] ([31 U.S.C. 724a][/us/usc/t31/s724a])”.
 
-    1982—Subsec. (a). [Pub. L. 97–164, § 302(a)(1)][/us/pl/97/164/s302/a/1], (2), designated existing provisions as subsec. (a), substituted “at a rate equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment” for “at the rate allowed by State law”, and inserted provision that the Director of the Administrative Office of the United States Courts distribute notice of the rate and any changes in it to all Federal judges.
+    1982—Subsec. (a). [Pub. L. 97–164][/us/pl/97/164], § 302(a)(1), (2), designated existing provisions as subsec. (a), substituted “at a rate equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment” for “at the rate allowed by State law”, and inserted provision that the Director of the Administrative Office of the United States Courts distribute notice of the rate and any changes in it to all Federal judges.
 
     Subsec. (b). [Pub. L. 97–258][/us/pl/97/258] substituted “this title and [section 1304(b)(1) of title 31][/us/usc/t31/s1304/b/1]” for “title 28, United States Code, and [section 1302 of the Act of July 27, 1956][/us/act/1956-07-27/s1302] ([31 U.S.C. 724a][/us/usc/t31/s724a])”.
 
-    Subsecs. (b), (c). [Pub. L. 97–164, § 302(a)(3)][/us/pl/97/164/s302/a/3], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 97–164][/us/pl/97/164], § 302(a)(3), added subsecs. (b) and (c).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1982 Amendments__ 
 
-    [Pub. L. 97–258, § 2(m)][/us/pl/97/258/s2/m], Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by that section is effective Oct. 1, 1982.
+    [Pub. L. 97–258][/us/pl/97/258], § 2(m), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062], provided that the amendment made by that section is effective Oct. 1, 1982.
 
     Amendment by [Pub. L. 97–164][/us/pl/97/164] effective Oct. 1, 1982, see [section 402 of Pub. L. 97–164][/us/pl/97/164/s402], set out as a note under [section 171 of this title][/us/usc/t28/s171].
 
@@ -84,42 +84,42 @@
 [/us/usc/t31/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F957
-[/us/pl/97/164/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs302%2Fa
+[/us/pl/97/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtIII
 [/us/stat/96/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F55
-[/us/pl/97/258/s2/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fm%2F1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1062
-[/us/pl/97/452/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fd%2F1
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/99/514/s1511/c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fc%2F17
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/usc/t31/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304%2Fb
 [/us/act/1956-07-27/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-27%2Fs1302
 [/us/usc/t31/s724a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs724a
-[/us/pl/97/164/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs302%2Fa%2F1
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s1304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304%2Fb%2F1
 [/us/act/1956-07-27/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-27%2Fs1302
 [/us/usc/t31/s724a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs724a
-[/us/pl/97/164/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs302%2Fa%2F3
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
 [/us/pl/99/514/s1511/c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fc%2F17
 [/us/pl/99/514/s1511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fd
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
-[/us/pl/97/258/s2/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fm
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1062
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402

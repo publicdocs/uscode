@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 721 (R.S. § 911; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]).
+    Based on title 28, U.S.C., 1940 ed., § 721 (R.S. § 911; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]).
 
     Provisions as to teste of process issuing from the district courts were omitted as superseded by Rule 4 (b) of the Federal Rules of Civil Procedure. Provision for teste of the Chief Justice of writs and process was omitted as unnecessary.
 
@@ -42,7 +42,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F945
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/usc/t22/s2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2459
 

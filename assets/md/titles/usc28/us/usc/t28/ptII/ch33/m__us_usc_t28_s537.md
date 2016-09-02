@@ -17,7 +17,7 @@
 
     Appropriations for the Federal Bureau of Investigation are available for expenses of unforeseen emergencies of a confidential character, when so specified in the appropriation concerned, to be spent under the direction of the Attorney General. The Attorney General shall certify the amount spent that he considers advisable not to specify, and his certification is a sufficient voucher for the amount therein expressed to have been spent.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 617][/us/stat/80/617].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 617][/us/stat/80/617].)
 
 <table>
 
@@ -74,7 +74,7 @@ July 28, 1950, ch. 503, § 5 (less last sentence), 64 Stat. 380.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F617
 [/us/pl/85/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F768
 [/us/stat/72/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F921

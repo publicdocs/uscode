@@ -155,25 +155,25 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–315, § 12(b)(3)][/us/pl/105/315/s12/b/3], Oct. 30, 1998, [112 Stat. 2998][/us/stat/112/2998], substituted “Alternative Dispute Resolution” for “Arbitration” as item for chapter 44.
+    1998—[Pub. L. 105–315][/us/pl/105/315], § 12(b)(3), Oct. 30, 1998, [112 Stat. 2998][/us/stat/112/2998], substituted “Alternative Dispute Resolution” for “Arbitration” as item for chapter 44.
 
-    1992—[Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], substituted “United States Court of Federal Claims” for “United States Claims Court” as item for chapter 51.
+    1992—[Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], substituted “United States Court of Federal Claims” for “United States Claims Court” as item for chapter 51.
 
-    1988—[Pub. L. 100–702, title IX, § 901(b)][/us/pl/100/702/s901/b], Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], added item for chapter 44.
+    1988—[Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 901(b), Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], added item for chapter 44.
 
-    1984—[Pub. L. 98–473, title II, § 217(b)][/us/pl/98/473/s217/b], Oct. 12, 1984, [98 Stat. 2026][/us/stat/98/2026], added item for chapter 58, effective on the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984 (Nov. 1, 1986).
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 217(b), Oct. 12, 1984, [98 Stat. 2026][/us/stat/98/2026], added item for chapter 58, effective on the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984 (Nov. 1, 1986).
 
-    1982—[Pub. L. 97–164, title I, § 121(g)(1)][/us/pl/97/164/s121/g/1], Apr. 2, 1982, [96 Stat. 35][/us/stat/96/35], substituted “United States Claims Court” for “Court of Claims” as item for chapter 51.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 121(g)(1), Apr. 2, 1982, [96 Stat. 35][/us/stat/96/35], substituted “United States Claims Court” for “Court of Claims” as item for chapter 51.
 
-    [Pub. L. 97–164, title I, § 122(a)][/us/pl/97/164/s122/a], Apr. 2, 1982, [96 Stat. 36][/us/stat/96/36], struck out item for chapter 53.
+    [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 122(a), Apr. 2, 1982, [96 Stat. 36][/us/stat/96/36], struck out item for chapter 53.
 
-    1980—[Pub. L. 96–417, title V, § 501(13)][/us/pl/96/417/s501/13], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742], substituted “Court of International Trade” for “Customs Court” as item for chapter 55.
+    1980—[Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(13), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742], substituted “Court of International Trade” for “Customs Court” as item for chapter 55.
 
-    1978—[Pub. L. 95–598, title II, § 233(b)][/us/pl/95/598/s233/b], Nov. 6, 1978, [92 Stat. 2667][/us/stat/92/2667], directed the addition of item for chapter 50, “Bankruptcy Courts”, which amendment did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
+    1978—[Pub. L. 95–598, title II][/us/pl/95/598/tII], § 233(b), Nov. 6, 1978, [92 Stat. 2667][/us/stat/92/2667], directed the addition of item for chapter 50, “Bankruptcy Courts”, which amendment did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
 
-    1968—[Pub. L. 90–578, title I, § 102(a)][/us/pl/90/578/s102/a], Oct. 17, 1968, [82 Stat. 1114][/us/stat/82/1114], substituted “United States Magistrates” for “United States Commissioners” as item for chapter 43.
+    1968—[Pub. L. 90–578, title I][/us/pl/90/578/tI], § 102(a), Oct. 17, 1968, [82 Stat. 1114][/us/stat/82/1114], substituted “United States Magistrates” for “United States Commissioners” as item for chapter 43.
 
-    1967—[Pub. L. 90–219, title II, § 204][/us/pl/90/219/s204], Dec. 20, 1967, [81 Stat. 669][/us/stat/81/669], added item for chapter 42.
+    1967—[Pub. L. 90–219, title II][/us/pl/90/219/tII], § 204, Dec. 20, 1967, [81 Stat. 669][/us/stat/81/669], added item for chapter 42.
 
  __Change of Name__ 
 
@@ -186,27 +186,27 @@
 ----------
 ----------
 
-[/us/pl/105/315/s12/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs12%2Fb%2F3
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2998
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/100/702/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs901%2Fb
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4663
-[/us/pl/98/473/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs217%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2026
-[/us/pl/97/164/s121/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs121%2Fg%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F35
-[/us/pl/97/164/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs122%2Fa
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F36
-[/us/pl/96/417/s501/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F13
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
-[/us/pl/95/598/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs233%2Fb
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2667
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/90/578/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs102%2Fa
+[/us/pl/90/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtI
 [/us/stat/82/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1114
-[/us/pl/90/219/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs204
+[/us/pl/90/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtII
 [/us/stat/81/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F669
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

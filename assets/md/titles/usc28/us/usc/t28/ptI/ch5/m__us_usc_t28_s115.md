@@ -41,11 +41,11 @@ Southern District
 
     Court for the Eastern Division shall be held at Columbus  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  St. Clairsville, and Steubenville.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 887][/us/stat/62/887]; [Feb. 10, 1954, ch. 6, § 2(b)(9)][/us/act/1954-02-10/ch6/s2/b/9], [68 Stat. 11][/us/stat/68/11]; [Pub. L. 107–273, div. C, title I, § 11021][/us/pl/107/273/s11021], Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 887][/us/stat/62/887]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6], § 2(b)(9), [68 Stat. 11][/us/stat/68/11]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11021, Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 181 ([Mar. 3, 1911, ch. 231, § 100][/us/act/1911-03-03/ch231/s100], [36 Stat. 1121][/us/stat/36/1121]; [Mar. 4, 1915, ch. 159][/us/act/1915-03-04/ch159], [38 Stat. 1187][/us/stat/38/1187]; [Feb. 14, 1923, ch. 78][/us/act/1923-02-14/ch78], [42 Stat. 1246][/us/stat/42/1246]).
+    Based on title 28, U.S.C., 1940 ed., § 181 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 100, [36 Stat. 1121][/us/stat/36/1121]; [Mar. 4, 1915, ch. 159][/us/act/1915-03-04/ch159], [38 Stat. 1187][/us/stat/38/1187]; [Feb. 14, 1923, ch. 78][/us/act/1923-02-14/ch78], [42 Stat. 1246][/us/stat/42/1246]).
 
     Other provisions of said [section 181 of title 28][/us/usc/t28/s181], U.S.C., 1940 ed., are incorporated in [section 1865 of this title][/us/usc/t28/s1865].
 
@@ -70,11 +70,11 @@ Southern District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F887
-[/us/act/1954-02-10/ch6/s2/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6%2Fs2%2Fb%2F9
+[/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F11
-[/us/pl/107/273/s11021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11021
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1829
-[/us/act/1911-03-03/ch231/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs100
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1121
 [/us/act/1915-03-04/ch159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch159
 [/us/stat/38/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1187

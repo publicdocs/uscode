@@ -79,7 +79,7 @@
 
             (E) an association composed of members who represent parties-at-interest described in subparagraph (B), (C), or (D).
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1730][/us/stat/94/1730]; amended [Pub. L. 98–573, title II, § 212(b)(3)][/us/pl/98/573/s212/b/3], title VI, § 612(b)(3), Oct. 30, 1984, [98 Stat. 2983][/us/stat/98/2983], 3034; [Pub. L. 103–182, title VI, § 684(a)(2)][/us/pl/103/182/s684/a/2], Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1730][/us/stat/94/1730]; amended [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 212(b)(3), title VI, § 612(b)(3), Oct. 30, 1984, [98 Stat. 2983][/us/stat/98/2983], 3034; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 684(a)(2), Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
 
  __References in Text__ 
 
@@ -105,19 +105,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 2631, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 980][/us/stat/62/980]; [May 24, 1949, ch. 139, § 122][/us/act/1949-05-24/ch139/s122], [63 Stat. 106][/us/stat/63/106]; June 2, 1970, [Pub. L. 91–271, title I, § 112][/us/pl/91/271/s112], [84 Stat. 278][/us/stat/84/278]; Jan. 3, 1975, [Pub. L. 93–618, title III, § 321(f)(2)][/us/pl/93/618/s321/f/2], [88 Stat. 2048][/us/stat/88/2048], related to time for commencement of action, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2636 of this title][/us/usc/t28/s2636].
+    A prior section 2631, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 980][/us/stat/62/980]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 122, [63 Stat. 106][/us/stat/63/106]; June 2, 1970, [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 112, [84 Stat. 278][/us/stat/84/278]; Jan. 3, 1975, [Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 321(f)(2), [88 Stat. 2048][/us/stat/88/2048], related to time for commencement of action, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2636 of this title][/us/usc/t28/s2636].
 
  __Amendments__ 
 
     1993—Subsec. (g)(3). [Pub. L. 103–182][/us/pl/103/182] added par. (3).
 
-    1984—Subsec. (g). [Pub. L. 98–573, § 212(b)(3)][/us/pl/98/573/s212/b/3], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
+    1984—Subsec. (g). [Pub. L. 98–573][/us/pl/98/573], § 212(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 
     “(1) A civil action to review any decision of the Secretary of the Treasury to deny or revoke a customhouse broker’s license under section 641(a) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose license was denied or revoked.
 
     “(2) A civil action to review any order of the Secretary of the Treasury to revoke or suspend a customhouse broker’s license under section 641(b) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose license was revoked or suspended.”
 
-    Subsec. (k)(2)(E). [Pub. L. 98–573, § 612(b)(3)][/us/pl/98/573/s612/b/3], added subpar. (E).
+    Subsec. (k)(2)(E). [Pub. L. 98–573][/us/pl/98/573], § 612(b)(3), added subpar. (E).
 
  __Effective Date of 1984 Amendment__ 
 
@@ -149,11 +149,11 @@
 [/us/usc/t28/s1581/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1581%2Fh
 [/us/usc/t28/s1581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1581%2Fa
 [/us/usc/t5/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs702
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1730
-[/us/pl/98/573/s212/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F3
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2983
-[/us/pl/103/182/s684/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs684%2Fa%2F2
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2219
 [/us/usc/t19/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1515
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
@@ -170,17 +170,17 @@
 [/us/usc/t19/s1677/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1677%2F9
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F980
-[/us/act/1949-05-24/ch139/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs122
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F106
-[/us/pl/91/271/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs112
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F278
-[/us/pl/93/618/s321/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs321%2Ff%2F2
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
 [/us/stat/88/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2048
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2636
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
-[/us/pl/98/573/s212/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F3
-[/us/pl/98/573/s612/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs612%2Fb%2F3
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/98/573/s212/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F3
 [/us/pl/98/573/s214/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs214%2Fd
 [/us/usc/t19/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1304

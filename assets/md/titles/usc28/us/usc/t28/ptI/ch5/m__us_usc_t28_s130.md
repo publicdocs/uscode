@@ -33,7 +33,7 @@ Western District
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 195 ([Mar. 3, 1911, ch. 231, § 114][/us/act/1911-03-03/ch231/s114], [36 Stat. 1129][/us/stat/36/1129]; [July 24, 1935, ch. 413][/us/act/1935-07-24/ch413], [49 Stat. 495][/us/stat/49/495]).
+    Based on title 28, U.S.C., 1940 ed., § 195 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 114, [36 Stat. 1129][/us/stat/36/1129]; [July 24, 1935, ch. 413][/us/act/1935-07-24/ch413], [49 Stat. 495][/us/stat/49/495]).
 
     Provisions for keeping the courts and their offices open at all times were omitted as covered by [section 452 of this title][/us/usc/t28/s452].
 
@@ -51,7 +51,7 @@ Western District
 
  __Designation of Judge to Hold Court, Eastern District__ 
 
-[Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 305(c)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–85, provided that: 
+[Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 305(c)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–85, provided that: 
 
 > “The chief judge of the eastern district of Wisconsin shall designate 1 judge who shall hold court for such district in Green Bay, Wisconsin.”
 
@@ -66,14 +66,14 @@ Western District
 [/us/stat/62/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F894
 [/us/pl/87/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F573
 [/us/stat/76/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F307
-[/us/act/1911-03-03/ch231/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs114
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1129
 [/us/act/1935-07-24/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-24%2Fch413
 [/us/stat/49/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F495
 [/us/usc/t28/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs452
 [/us/usc/t28/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1404
 [/us/pl/87/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F573
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 
 

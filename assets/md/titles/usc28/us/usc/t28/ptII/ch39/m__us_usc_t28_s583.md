@@ -17,7 +17,7 @@
 
     Each United States trustee and assistant United States trustee, before taking office, shall take an oath to execute faithfully his duties.
 
-(Added [Pub. L. 95–598, title II, § 224(a)][/us/pl/95/598/s224/a], Nov. 6, 1978, [92 Stat. 2663][/us/stat/92/2663].)
+(Added [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 224(a), Nov. 6, 1978, [92 Stat. 2663][/us/stat/92/2663].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/598/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs224%2Fa
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2663
 [/us/pl/95/598/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs408%2Fc
 [/us/pl/99/554/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs307%2Fb

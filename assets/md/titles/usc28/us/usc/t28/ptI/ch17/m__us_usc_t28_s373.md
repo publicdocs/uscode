@@ -137,7 +137,7 @@
 
     (g) Any retired judge who is entitled to receive an annuity under subsection (a) shall be entitled to a cost of living adjustment in the amount payable to him computed as specified in [section 8340(b) of title 5][/us/usc/t5/s8340/b], except that in no case may the annuity payable to such retired judge, as increased under this subsection, exceed 95 per centum of the salary of a United States district judge in regular active service.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 904][/us/stat/62/904]; [Oct. 31, 1951, ch. 655, § 40][/us/act/1951-10-31/ch655/s40], [65 Stat. 724][/us/stat/65/724]; [Feb. 10, 1954, ch. 6, § 5][/us/act/1954-02-10/ch6/s5], [68 Stat. 13][/us/stat/68/13]; [Pub. L. 85–508, § 12(d)][/us/pl/85/508/s12/d], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 86–3, § 14(d)][/us/pl/86/3/s14/d], Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10]; [Pub. L. 89–571, § 2][/us/pl/89/571/s2], Sept. 12, 1966, [80 Stat. 764][/us/stat/80/764]; [Pub. L. 94–470][/us/pl/94/470], Oct. 11, 1976, [90 Stat. 2052][/us/stat/90/2052]; [Pub. L. 99–396, § 21(a)][/us/pl/99/396/s21/a], Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 904][/us/stat/62/904]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 40, [65 Stat. 724][/us/stat/65/724]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6], § 5, [68 Stat. 13][/us/stat/68/13]; [Pub. L. 85–508][/us/pl/85/508], § 12(d), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 86–3][/us/pl/86/3], § 14(d), Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10]; [Pub. L. 89–571][/us/pl/89/571], § 2, Sept. 12, 1966, [80 Stat. 764][/us/stat/80/764]; [Pub. L. 94–470][/us/pl/94/470], Oct. 11, 1976, [90 Stat. 2052][/us/stat/90/2052]; [Pub. L. 99–396][/us/pl/99/396], § 21(a), Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844].)
 
  __Historical and Revision Notes__ 
 
@@ -171,7 +171,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–396, § 21(c)][/us/pl/99/396/s21/c], Aug. 27, 1986, [100 Stat. 846][/us/stat/100/846], provided that: 
+[Pub. L. 99–396][/us/pl/99/396], § 21(c), Aug. 27, 1986, [100 Stat. 846][/us/stat/100/846], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 376 of this title][/us/usc/t28/s376]\] shall not affect the amount payable to a judge who retired in accordance with the provisions of [section 373 of title 28][/us/usc/t28/s373], United States Code, in effect on the day before the date of enactment of this Act \[Aug. 27, 1986\].”
 
@@ -185,7 +185,7 @@
 
  __Election, Recall, Status, Compensation, Conduct, and Termination of Senior Judges__ 
 
-[Pub. L. 98–454, title X, § 1002][/us/pl/98/454/s1002], Oct. 5, 1984, [98 Stat. 1745][/us/stat/98/1745], provided that:
+[Pub. L. 98–454, title X][/us/pl/98/454/tX], § 1002, Oct. 5, 1984, [98 Stat. 1745][/us/stat/98/1745], provided that:
 
 >     “(a) Any judge or former judge who is receiving, or will upon attaining the age of sixty-five years be entitled to receive, payments pursuant to [section 373 of title 28][/us/usc/t28/s373], United States Code\[,\] may elect to become a senior judge of the court on which he served while on active duty.
 
@@ -215,7 +215,7 @@
 
  __Preservation of Rights of Retired Judges of the District Court for the District of Hawaii and Justices of the Supreme Court of the Territory of Hawaii__ 
 
-[Pub. L. 86–3, § 14(d)][/us/pl/86/3/s14/d], Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10], provided in part: 
+[Pub. L. 86–3][/us/pl/86/3], § 14(d), Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10], provided in part: 
 
 > “That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection”
 
@@ -223,7 +223,7 @@
 
  __Preservation of Rights of Retired Judges of the District Court for the Territory of Alaska__ 
 
-[Pub. L. 85–508, § 12(d)][/us/pl/85/508/s12/d], July 7, 1958, [72 Stat. 348][/us/stat/72/348], provided in part: 
+[Pub. L. 85–508][/us/pl/85/508], § 12(d), July 7, 1958, [72 Stat. 348][/us/stat/72/348], provided in part: 
 
 > “That the amendment made by this subsection shall not affect the rights of any judge who may have retired before it takes effect”
 
@@ -244,19 +244,19 @@
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F904
-[/us/act/1951-10-31/ch655/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs40
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F724
-[/us/act/1954-02-10/ch6/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6%2Fs5
+[/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F13
-[/us/pl/85/508/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fd
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/86/3/s14/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs14%2Fd
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F10
-[/us/pl/89/571/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F571%2Fs2
+[/us/pl/89/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F571
 [/us/stat/80/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F764
 [/us/pl/94/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F470
 [/us/stat/90/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2052
-[/us/pl/99/396/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs21%2Fa
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F844
 [/us/act/1938-05-31/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch301
 [/us/stat/52/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F591
@@ -270,7 +270,7 @@
 [/us/usc/t28/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs91
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/usc/t28/s81A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs81A
-[/us/pl/99/396/s21/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs21%2Fc
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F846
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
@@ -283,16 +283,16 @@
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/usc/t28/s81A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs81A
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
-[/us/pl/98/454/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs1002
+[/us/pl/98/454/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2FtX
 [/us/stat/98/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1745
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
 [/us/pl/89/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F571
 [/us/pl/89/571/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F571%2Fs4
 [/us/usc/t28/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs134
-[/us/pl/86/3/s14/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs14%2Fd
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F10
-[/us/pl/85/508/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fd
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
 [/us/pl/86/3/s14/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs14%2Fd
 [/us/usc/t28/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371

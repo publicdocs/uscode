@@ -29,7 +29,7 @@
 
     (c) The United States Court of Federal Claims shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Court of Federal Claims is sitting shall, when requested by the chief judge of the Court of Federal Claims, attend any session of the Court of Federal Claims in such district.
 
-(Added [Sept. 3, 1954, ch. 1263, § 59(a)][/us/act/1954-09-03/ch1263/s59/a], [68 Stat. 1248][/us/stat/68/1248]; amended [Pub. L. 102–572, title IX, § 910(a)][/us/pl/102/572/s910/a], Oct. 29, 1992, [106 Stat. 4519][/us/stat/106/4519].)
+(Added [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 59(a), [68 Stat. 1248][/us/stat/68/1248]; amended [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 910(a), Oct. 29, 1992, [106 Stat. 4519][/us/stat/106/4519].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/act/1954-09-03/ch1263/s59/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs59%2Fa
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1248
-[/us/pl/102/572/s910/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs910%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4519
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

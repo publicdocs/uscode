@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 330 ([Mar. 3, 1911, ch. 231, § 223][/us/act/1911-03-03/ch231/s223], [36 Stat. 1153][/us/stat/36/1153]).
+    Based on title 28, U.S.C., 1940 ed., § 330 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 223, [36 Stat. 1153][/us/stat/36/1153]).
 
     The second paragraph was inserted to give statutory sanction to existing practice.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F954
-[/us/act/1911-03-03/ch231/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs223
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1153
 
 

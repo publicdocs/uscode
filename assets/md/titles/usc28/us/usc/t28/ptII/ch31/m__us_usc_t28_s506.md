@@ -17,7 +17,7 @@
 
     The President shall appoint, by and with the advice and consent of the Senate, 11 Assistant Attorneys General, who shall assist the Attorney General in the performance of his duties.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612]; amended [Pub. L. 95–598, title II, § 218][/us/pl/95/598/s218], Nov. 6, 1978, [92 Stat. 2662][/us/stat/92/2662]; [Pub. L. 109–177, title V, § 506(a)(2)][/us/pl/109/177/s506/a/2], Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612]; amended [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 218, Nov. 6, 1978, [92 Stat. 2662][/us/stat/92/2662]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(a)(2), Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
 
 <table>
 
@@ -211,7 +211,7 @@ Sept. 9, 1957, Pub. L. 85–315, § 111, 71 Stat. 637.  </td>
 
     The words “There shall be in the Department of Justice” are omitted as unnecessary as the title of the positions establishes their location in the Department of Justice.
 
-    The position of sixth Assistant Attorney General, referred to in the Acts of July 16, 1914, and Mar. 4, 1915, was made a permanent position by the [Act of Mar. 4, 1915, ch. 141, § 6][/us/act/1915-03-04/ch141/s6], [38 Stat. 1049][/us/stat/38/1049].
+    The position of sixth Assistant Attorney General, referred to in the Acts of July 16, 1914, and Mar. 4, 1915, was made a permanent position by the [Act of Mar. 4, 1915, ch. 141][/us/act/1915-03-04/ch141], § 6, [38 Stat. 1049][/us/stat/38/1049].
 
     The number of Assistant Attorneys General referred to in the Act of Mar. 2, 1943, is changed from “six” to “nine” to reflect the three additional Assistant Attorneys General authorized by 1950 Reorg. Plan No. 2, 1953 Reorg. Plan No. 4, and the Act of Sept. 9, 1957.
 
@@ -221,11 +221,11 @@ Sept. 9, 1957, Pub. L. 85–315, § 111, 71 Stat. 637.  </td>
 
     Provisions of 1950 Reorg. Plan No. 2, § 4, and 1953 Reorg. Plan No. 4, § 2, abolishing positions and transferring incumbents are omitted as executed.
 
-    Provisions relating to pay of Assistant Attorneys General are omitted as superseded by [§ 303(d) of the Act of August 14, 1964][/us/act/1964-08-14/s303/d], [Pub. L. 88–426][/us/pl/88/426], [78 Stat. 418][/us/stat/78/418], which is codified in [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
+    Provisions relating to pay of Assistant Attorneys General are omitted as superseded by § 303(d) of the Act of August 14, 1964, [Pub. L. 88–426][/us/pl/88/426], [78 Stat. 418][/us/stat/78/418], which is codified in [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
 
  __Prior Provisions__ 
 
-    A prior section 506, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 909][/us/stat/62/909], related to vacancies in the office of United States attorney, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 546 of this title][/us/usc/t28/s546] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 506, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 909][/us/stat/62/909], related to vacancies in the office of United States attorney, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 546 of this title][/us/usc/t28/s546] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
  __Amendments__ 
 
@@ -244,23 +244,22 @@ Sept. 9, 1957, Pub. L. 85–315, § 111, 71 Stat. 637.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F612
-[/us/pl/95/598/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs218
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2662
-[/us/pl/109/177/s506/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fa%2F2
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F247
-[/us/act/1915-03-04/ch141/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch141%2Fs6
+[/us/act/1915-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch141
 [/us/stat/38/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1049
 [/us/usc/t28/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs501
 [/us/usc/t5/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs295
-[/us/act/1964-08-14/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1964-08-14%2Fs303%2Fd
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/stat/78/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F418
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs546
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177

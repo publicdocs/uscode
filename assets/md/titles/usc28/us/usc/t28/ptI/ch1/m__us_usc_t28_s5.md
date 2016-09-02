@@ -17,11 +17,11 @@
 
     The Chief Justice and each associate justice shall each receive a salary at annual rates determined under section 225 of the Federal Salary Act of 1967 ([2 U.S.C. 351–361][/us/usc/t2/s351–361]), as adjusted by [section 461 of this title][/us/usc/t28/s461].
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 870][/us/stat/62/870]; [Mar. 2, 1955, ch. 9, § 1(a)][/us/act/1955-03-02/ch9/s1/a], [69 Stat. 9][/us/stat/69/9]; [Pub. L. 88–426, title IV, § 403(a)][/us/pl/88/426/s403/a], Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434]; [Pub. L. 94–82, title II, § 205(b)(1)][/us/pl/94/82/s205/b/1], Aug. 9, 1975, [89 Stat. 422][/us/stat/89/422].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 870][/us/stat/62/870]; [Mar. 2, 1955, ch. 9][/us/act/1955-03-02/ch9], § 1(a), [69 Stat. 9][/us/stat/69/9]; [Pub. L. 88–426, title IV][/us/pl/88/426/tIV], § 403(a), Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434]; [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 205(b)(1), Aug. 9, 1975, [89 Stat. 422][/us/stat/89/422].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 324 ([Mar. 3, 1911, ch. 231, § 218][/us/act/1911-03-03/ch231/s218], [36 Stat. 1152][/us/stat/36/1152]; [Dec. 13, 1926, ch. 6, § 1][/us/act/1926-12-13/ch6/s1], [44 Stat. 919][/us/stat/44/919]; [July 31, 1946, ch. 704, § 1][/us/act/1946-07-31/ch704/s1], [60 Stat. 716][/us/stat/60/716]).
+    Based on title 28, U.S.C., 1940 ed., § 324 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 218, [36 Stat. 1152][/us/stat/36/1152]; [Dec. 13, 1926, ch. 6][/us/act/1926-12-13/ch6], § 1, [44 Stat. 919][/us/stat/44/919]; [July 31, 1946, ch. 704][/us/act/1946-07-31/ch704], § 1, [60 Stat. 716][/us/stat/60/716]).
 
     The provision “to be paid monthly” was omitted since the time of payment of salaries is a matter of administrative convenience. (See 20 Comp. Gen. 834.)
 
@@ -55,11 +55,11 @@
 
     For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under [section 5318 of Title 5][/us/usc/t5/s5318], Government Organization and Employees.
 
-    Salary of Chief Justice increased from $20,500 to $25,500 a year, and salaries of associate justices increased from $20,000 to $25,000 a year, by [act July 31, 1946, ch. 704, § 1][/us/act/1946-07-31/ch704/s1], [60 Stat. 716][/us/stat/60/716].
+    Salary of Chief Justice increased from $20,500 to $25,500 a year, and salaries of associate justices increased from $20,000 to $25,000 a year, by [act July 31, 1946, ch. 704][/us/act/1946-07-31/ch704], § 1, [60 Stat. 716][/us/stat/60/716].
 
-    Salary of Chief Justice increased from $15,000 to $20,500 a year, and salaries of associate justices increased from $14,500 to $20,000 a year, by [act Dec. 13, 1926, ch. 6, § 1][/us/act/1926-12-13/ch6/s1], [44 Stat. 919][/us/stat/44/919].
+    Salary of Chief Justice increased from $15,000 to $20,500 a year, and salaries of associate justices increased from $14,500 to $20,000 a year, by [act Dec. 13, 1926, ch. 6][/us/act/1926-12-13/ch6], § 1, [44 Stat. 919][/us/stat/44/919].
 
-    Salary of Chief Justice set at $15,000 a year and salaries of associate justices set at $14,500 a year by Judicial Code of 1911, [act Mar. 3, 1911, ch. 231, § 1][/us/act/1911-03-03/ch231/s1], [36 Stat. 1152][/us/stat/36/1152].
+    Salary of Chief Justice set at $15,000 a year and salaries of associate justices set at $14,500 a year by Judicial Code of 1911, [act Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 1, [36 Stat. 1152][/us/stat/36/1152].
 
 ----------
 
@@ -72,17 +72,17 @@
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F870
-[/us/act/1955-03-02/ch9/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9%2Fs1%2Fa
+[/us/act/1955-03-02/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9
 [/us/stat/69/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F9
-[/us/pl/88/426/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs403%2Fa
+[/us/pl/88/426/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIV
 [/us/stat/78/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F434
-[/us/pl/94/82/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs205%2Fb%2F1
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F422
-[/us/act/1911-03-03/ch231/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs218
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1152
-[/us/act/1926-12-13/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6%2Fs1
+[/us/act/1926-12-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6
 [/us/stat/44/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F919
-[/us/act/1946-07-31/ch704/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704%2Fs1
+[/us/act/1946-07-31/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704
 [/us/stat/60/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F716
 [/us/pl/90/206/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225
 [/us/stat/81/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F642
@@ -96,11 +96,11 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
-[/us/act/1946-07-31/ch704/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704%2Fs1
+[/us/act/1946-07-31/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704
 [/us/stat/60/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F716
-[/us/act/1926-12-13/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6%2Fs1
+[/us/act/1926-12-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6
 [/us/stat/44/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F919
-[/us/act/1911-03-03/ch231/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1152
 
 

@@ -29,7 +29,7 @@
 
     (d) If an appointment expires under subsection (c)(2), the district court for such district may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618]; amended [Pub. L. 99–646, § 69][/us/pl/99/646/s69], Nov. 10, 1986, [100 Stat. 3616][/us/stat/100/3616]; [Pub. L. 109–177, title V, § 502][/us/pl/109/177/s502], Mar. 9, 2006, [120 Stat. 246][/us/stat/120/246]; [Pub. L. 110–34, § 2][/us/pl/110/34/s2], June 14, 2007, [121 Stat. 224][/us/stat/121/224].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618]; amended [Pub. L. 99–646][/us/pl/99/646], § 69, Nov. 10, 1986, [100 Stat. 3616][/us/stat/100/3616]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 502, Mar. 9, 2006, [120 Stat. 246][/us/stat/120/246]; [Pub. L. 110–34][/us/pl/110/34], § 2, June 14, 2007, [121 Stat. 224][/us/stat/121/224].)
 
 <table>
 
@@ -87,7 +87,7 @@ Statutes at Large  </td>
 
  __1948__  __Act__ 
 
-    Prior section 506.—Based on title 28, U.S.C., 1940 ed., § 511 (R.S. § 793; [June 24, 1898, ch. 495, § 2][/us/act/1898-06-24/ch495/s2], [30 Stat. 487][/us/stat/30/487]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]).
+    Prior section 506.—Based on title 28, U.S.C., 1940 ed., § 511 (R.S. § 793; [June 24, 1898, ch. 495][/us/act/1898-06-24/ch495], § 2, [30 Stat. 487][/us/stat/30/487]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]).
 
     Words “United States attorney” were substituted for “district attorney.” (See Reviser’s Note under section 501 \[now 541\] of this title.)
 
@@ -101,7 +101,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 546, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 911][/us/stat/62/911], related to death of a marshal, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 566 of this title][/us/usc/t28/s566] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 546, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 911][/us/stat/62/911], related to death of a marshal, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 566 of this title][/us/usc/t28/s566] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
  __Amendments__ 
 
@@ -113,7 +113,7 @@ Statutes at Large  </td>
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–34, § 3][/us/pl/110/34/s3], June 14, 2007, [121 Stat. 224][/us/stat/121/224], provided that:
+[Pub. L. 110–34][/us/pl/110/34], § 3, June 14, 2007, [121 Stat. 224][/us/stat/121/224], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -141,30 +141,30 @@ Statutes at Large  </td>
 ----------
 
 [/us/usc/t28/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs541
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F618
-[/us/pl/99/646/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs69
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3616
-[/us/pl/109/177/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs502
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F246
-[/us/pl/110/34/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F34%2Fs2
+[/us/pl/110/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F34
 [/us/stat/121/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F224
-[/us/act/1898-06-24/ch495/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-06-24%2Fch495%2Fs2
+[/us/act/1898-06-24/ch495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-06-24%2Fch495
 [/us/stat/30/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F487
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/usc/t28/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs511
 [/us/usc/t28/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs511
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F911
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs566
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/pl/110/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F34
 [/us/usc/t28/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs541
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/110/34/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F34%2Fs3
+[/us/pl/110/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F34
 [/us/stat/121/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F224
 [/us/usc/t28/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs546
 [/us/usc/t28/s546/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs546%2Fd

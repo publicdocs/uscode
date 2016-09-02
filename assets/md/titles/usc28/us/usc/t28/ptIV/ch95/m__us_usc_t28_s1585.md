@@ -17,7 +17,7 @@
 
     The Court of International Trade shall possess all the powers in law and equity of, or as conferred by statute upon, a district court of the United States.
 
-(Added [Pub. L. 96–417, title II, § 201][/us/pl/96/417/s201], Oct. 10, 1980, [94 Stat. 1730][/us/stat/94/1730].)
+(Added [Pub. L. 96–417, title II][/us/pl/96/417/tII], § 201, Oct. 10, 1980, [94 Stat. 1730][/us/stat/94/1730].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/417/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs201
+[/us/pl/96/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtII
 [/us/stat/94/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1730
 
 

@@ -17,7 +17,7 @@
 
     Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States trustees and assistant United States trustees at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
 
-(Added [Pub. L. 95–598, title II, § 224(a)][/us/pl/95/598/s224/a], Nov. 6, 1978, [92 Stat. 2664][/us/stat/92/2664]; amended [Pub. L. 99–554, title I, § 114(a)][/us/pl/99/554/s114/a], Oct. 27, 1986, [100 Stat. 3093][/us/stat/100/3093].)
+(Added [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 224(a), Nov. 6, 1978, [92 Stat. 2664][/us/stat/92/2664]; amended [Pub. L. 99–554, title I][/us/pl/99/554/tI], § 114(a), Oct. 27, 1986, [100 Stat. 3093][/us/stat/100/3093].)
 
  __Codification__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/95/598/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs224%2Fa
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2664
-[/us/pl/99/554/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs114%2Fa
+[/us/pl/99/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtI
 [/us/stat/100/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3093
 [/us/pl/95/598/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs408%2Fc
 [/us/pl/99/554/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs307%2Fb

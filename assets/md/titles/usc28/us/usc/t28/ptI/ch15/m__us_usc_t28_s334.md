@@ -23,11 +23,11 @@
 
     (d) The expenses of attendance of judges shall be paid from applicable appropriations for the judiciary of the United States. The expenses connected with the preparation of the plans and agenda for the conference and for the travel and other expenses incident to the attendance of officials and other participants invited by the Attorney General shall be paid from applicable appropriations of the Department of Justice.
 
-(Added [Pub. L. 85–752, § 1][/us/pl/85/752/s1], Aug. 25, 1958, [72 Stat. 845][/us/stat/72/845].)
+(Added [Pub. L. 85–752][/us/pl/85/752], § 1, Aug. 25, 1958, [72 Stat. 845][/us/stat/72/845].)
 
  __Sentencing Procedures__ 
 
-[Pub. L. 85–752, § 7][/us/pl/85/752/s7], Aug. 25, 1958, [72 Stat. 847][/us/stat/72/847], provided that: 
+[Pub. L. 85–752][/us/pl/85/752], § 7, Aug. 25, 1958, [72 Stat. 847][/us/stat/72/847], provided that: 
 
 > “This Act \[enacting this section, sections 4208 and 4209 of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under [section 4208 of Title 18][/us/usc/t18/s4208]\] does not apply to any offense for which there is provided a mandatory penalty.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/85/752/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F752%2Fs1
+[/us/pl/85/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F752
 [/us/stat/72/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F845
-[/us/pl/85/752/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F752%2Fs7
+[/us/pl/85/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F752
 [/us/stat/72/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F847
 [/us/usc/t18/s4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4208
 

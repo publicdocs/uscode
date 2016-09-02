@@ -19,7 +19,7 @@
 
     (b) The Director may designate the clerk of a court described in section 610 to exercise the authority conferred by subsection (a).
 
-(Added [Pub. L. 110–406, § 8(a)][/us/pl/110/406/s8/a], Oct. 13, 2008, [122 Stat. 4293][/us/stat/122/4293].)
+(Added [Pub. L. 110–406][/us/pl/110/406], § 8(a), Oct. 13, 2008, [122 Stat. 4293][/us/stat/122/4293].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/110/406/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs8%2Fa
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4293
 
 

@@ -39,7 +39,7 @@
 
     The Federal Judicial Center and the Administrative Office of the United States Courts are authorized to assist the district courts in the establishment and improvement of alternative dispute resolution programs by identifying particular practices employed in successful programs and providing additional assistance as needed and appropriate.
 
-(Added [Pub. L. 100–702, title IX, § 901(a)][/us/pl/100/702/s901/a], Nov. 19, 1988, [102 Stat. 4659][/us/stat/102/4659]; amended [Pub. L. 105–315, § 3][/us/pl/105/315/s3], Oct. 30, 1998, [112 Stat. 2993][/us/stat/112/2993].)
+(Added [Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 901(a), Nov. 19, 1988, [102 Stat. 4659][/us/stat/102/4659]; amended [Pub. L. 105–315][/us/pl/105/315], § 3, Oct. 30, 1998, [112 Stat. 2993][/us/stat/112/2993].)
 
  __References in Text__ 
 
@@ -51,17 +51,17 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–702, title IX, § 907][/us/pl/100/702/s907], Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664], provided that: 
+[Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 907, Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664], provided that: 
 
 > “This title and the amendments made by this title \[enacting this chapter and provisions set out as notes under this section and [section 652 of this title][/us/usc/t28/s652]\] shall take effect 180 days after the date of enactment of this Act \[Nov. 19, 1988\].”
 
-    [Pub. L. 100–702, title IX, § 906][/us/pl/100/702/s906], Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664], as amended by [Pub. L. 103–192, § 1(a)][/us/pl/103/192/s1/a], Dec. 14, 1993, [107 Stat. 2292][/us/stat/107/2292], provided that, effective Dec. 31, 1994, this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title were repealed, prior to repeal by [Pub. L. 103–420, § 3(b)][/us/pl/103/420/s3/b], Oct. 25, 1994, [108 Stat. 4345][/us/stat/108/4345].
+    [Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 906, Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664], as amended by [Pub. L. 103–192][/us/pl/103/192], § 1(a), Dec. 14, 1993, [107 Stat. 2292][/us/stat/107/2292], provided that, effective Dec. 31, 1994, this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title were repealed, prior to repeal by [Pub. L. 103–420][/us/pl/103/420], § 3(b), Oct. 25, 1994, [108 Stat. 4345][/us/stat/108/4345].
 
-    [Pub. L. 103–192, § 2][/us/pl/103/192/s2], Dec. 14, 1993, [107 Stat. 2292][/us/stat/107/2292], provided that this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title continued on or after Dec. 14, 1993, as if they had not been repealed by [section 906 of Pub. L. 100–702][/us/pl/100/702/s906], formerly set out above, as such section was in effect on the day before Dec. 14, 1993.
+    [Pub. L. 103–192][/us/pl/103/192], § 2, Dec. 14, 1993, [107 Stat. 2292][/us/stat/107/2292], provided that this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title continued on or after Dec. 14, 1993, as if they had not been repealed by [section 906 of Pub. L. 100–702][/us/pl/100/702/s906], formerly set out above, as such section was in effect on the day before Dec. 14, 1993.
 
  __Congressional Findings and Declaration of Policy__ 
 
-[Pub. L. 105–315, § 2][/us/pl/105/315/s2], Oct. 30, 1998, [112 Stat. 2993][/us/stat/112/2993], provided that: 
+[Pub. L. 105–315][/us/pl/105/315], § 2, Oct. 30, 1998, [112 Stat. 2993][/us/stat/112/2993], provided that: 
 
 > “Congress finds that—
 
@@ -73,13 +73,13 @@
 
  __Model Procedures__ 
 
-[Pub. L. 100–702, title IX, § 902][/us/pl/100/702/s902], Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that: 
+[Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 902, Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that: 
 
 > “The Judicial Conference of the United States may develop model rules relating to procedures for arbitration under chapter 44, as added by section 901 of this Act. No model rule may supersede any provision of such chapter 44, this title \[enacting this chapter and provisions set out as notes under this section and [section 652 of this title][/us/usc/t28/s652]\], or any law of the United States.”
 
  __Reports by Director of Administrative Office of United States Courts and by Federal Judicial Center__ 
 
-[Pub. L. 100–702, title IX, § 903][/us/pl/100/702/s903], Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that:
+[Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 903, Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that:
 
 >     “(a)  __Annual Report by Director of Administrative Office of the United States Courts__  __.—__ 
 
@@ -101,17 +101,17 @@
 
  __Effect on Judicial Rulemaking Powers__ 
 
-[Pub. L. 100–702, title IX, § 904][/us/pl/100/702/s904], Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that: 
+[Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 904, Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that: 
 
 > “Nothing in this title \[enacting this chapter and provisions set out as notes under this section and [section 652 of this title][/us/usc/t28/s652]\], or in chapter 44, as added by section 901 of this Act, is intended to abridge, modify, or enlarge the rule making powers of the Federal judiciary.”
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 105–315, § 11][/us/pl/105/315/s11], Oct. 30, 1998, [112 Stat. 2998][/us/stat/112/2998], provided that: 
+[Pub. L. 105–315][/us/pl/105/315], § 11, Oct. 30, 1998, [112 Stat. 2998][/us/stat/112/2998], provided that: 
 
 > “There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out chapter 44 of title 28, United States Code, as amended by this Act.”
 
-[Pub. L. 100–702, title IX, § 905][/us/pl/100/702/s905], Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664], as amended by [Pub. L. 103–192, § 1(b)][/us/pl/103/192/s1/b], Dec. 14, 1993, [107 Stat. 2292][/us/stat/107/2292]; [Pub. L. 103–420, § 3(a)][/us/pl/103/420/s3/a], Oct. 25, 1994, [108 Stat. 4345][/us/stat/108/4345]; [Pub. L. 105–53, § 1][/us/pl/105/53/s1], Oct. 6, 1997, [111 Stat. 1173][/us/stat/111/1173], provided that: 
+[Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 905, Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664], as amended by [Pub. L. 103–192][/us/pl/103/192], § 1(b), Dec. 14, 1993, [107 Stat. 2292][/us/stat/107/2292]; [Pub. L. 103–420][/us/pl/103/420], § 3(a), Oct. 25, 1994, [108 Stat. 4345][/us/stat/108/4345]; [Pub. L. 105–53][/us/pl/105/53], § 1, Oct. 6, 1997, [111 Stat. 1173][/us/stat/111/1173], provided that: 
 
 > “There are authorized to be appropriated for each fiscal year to the judicial branch such sums as may be necessary to carry out the purposes of chapter 44, as added by section 901 of this Act. Funds appropriated under this section shall be allocated by the Administrative Office of the United States Courts to Federal judicial districts and the Federal Judicial Center. The funds so appropriated are authorized to remain available until expended.”
 
@@ -122,44 +122,44 @@
 ----------
 ----------
 
-[/us/pl/100/702/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs901%2Fa
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4659
-[/us/pl/105/315/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs3
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2993
 [/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
-[/us/pl/100/702/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs907
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4664
 [/us/usc/t28/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs652
-[/us/pl/100/702/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs906
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4664
-[/us/pl/103/192/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F192%2Fs1%2Fa
+[/us/pl/103/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F192
 [/us/stat/107/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2292
-[/us/pl/103/420/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F420%2Fs3%2Fb
+[/us/pl/103/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F420
 [/us/stat/108/4345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4345
-[/us/pl/103/192/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F192%2Fs2
+[/us/pl/103/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F192
 [/us/stat/107/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2292
 [/us/pl/100/702/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs906
-[/us/pl/105/315/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs2
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2993
-[/us/pl/100/702/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs902
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4663
 [/us/usc/t28/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs652
-[/us/pl/100/702/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs903
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4663
 [/us/usc/t28/s604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604%2Fa%2F3
-[/us/pl/100/702/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs904
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4663
 [/us/usc/t28/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs652
-[/us/pl/105/315/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs11
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2998
-[/us/pl/100/702/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs905
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4664
-[/us/pl/103/192/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F192%2Fs1%2Fb
+[/us/pl/103/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F192
 [/us/stat/107/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2292
-[/us/pl/103/420/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F420%2Fs3%2Fa
+[/us/pl/103/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F420
 [/us/stat/108/4345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4345
-[/us/pl/105/53/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F53%2Fs1
+[/us/pl/105/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F53
 [/us/stat/111/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1173
 
 

@@ -19,7 +19,7 @@
 
     (b) The court to which such claim or cause of action is removed may remand such claim or cause of action on any equitable ground. An order entered under this subsection remanding a claim or cause of action, or a decision to not remand, is not reviewable by appeal or otherwise by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under [section 1254 of this title][/us/usc/t28/s1254].
 
-(Added [Pub. L. 98–353, title I, § 103(a)][/us/pl/98/353/s103/a], July 10, 1984, [98 Stat. 335][/us/stat/98/335]; amended [Pub. L. 101–650, title III, § 309(c)][/us/pl/101/650/s309/c], Dec. 1, 1990, [104 Stat. 5113][/us/stat/104/5113].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 103(a), July 10, 1984, [98 Stat. 335][/us/stat/98/335]; amended [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 309(c), Dec. 1, 1990, [104 Stat. 5113][/us/stat/104/5113].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t28/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1334
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/98/353/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs103%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F335
-[/us/pl/101/650/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs309%2Fc
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5113
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254

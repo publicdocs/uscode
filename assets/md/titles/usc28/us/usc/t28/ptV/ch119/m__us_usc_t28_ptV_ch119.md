@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–539, § 2(b)][/us/pl/95/539/s2/b], Oct. 28, 1978, [92 Stat. 2042][/us/stat/92/2042], added items 1827 and 1828.
+    1978—[Pub. L. 95–539][/us/pl/95/539], § 2(b), Oct. 28, 1978, [92 Stat. 2042][/us/stat/92/2042], added items 1827 and 1828.
 
-    1970—[Pub. L. 91–563, § 5(b)][/us/pl/91/563/s5/b], Dec. 19, 1970, [84 Stat. 1478][/us/stat/84/1478], struck out item 1823 “United States officers and employees”.
+    1970—[Pub. L. 91–563][/us/pl/91/563], § 5(b), Dec. 19, 1970, [84 Stat. 1478][/us/stat/84/1478], struck out item 1823 “United States officers and employees”.
 
-    [Pub. L. 91–452, title III, § 301(b)][/us/pl/91/452/s301/b], Oct. 15, 1970, [84 Stat. 932][/us/stat/84/932], added item 1826.
+    [Pub. L. 91–452, title III][/us/pl/91/452/tIII], § 301(b), Oct. 15, 1970, [84 Stat. 932][/us/stat/84/932], added item 1826.
 
 ----------
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/95/539/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs2%2Fb
+[/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/stat/92/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2042
-[/us/pl/91/563/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563%2Fs5%2Fb
+[/us/pl/91/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563
 [/us/stat/84/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1478
-[/us/pl/91/452/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs301%2Fb
+[/us/pl/91/452/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIII
 [/us/stat/84/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F932
 
 

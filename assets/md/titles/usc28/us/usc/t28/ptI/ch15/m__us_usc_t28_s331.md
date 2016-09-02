@@ -33,11 +33,11 @@
 
     The Judicial Conference shall consult with the Director of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “the” probably should appear. </sup></sup>  United States Marshals Service on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 902][/us/stat/62/902]; [July 9, 1956, ch. 517, § 1(d)][/us/act/1956-07-09/ch517/s1/d], [70 Stat. 497][/us/stat/70/497]; [Pub. L. 85–202][/us/pl/85/202], Aug. 28, 1957, [71 Stat. 476][/us/stat/71/476]; [Pub. L. 85–513][/us/pl/85/513], July 11, 1958, [72 Stat. 356][/us/stat/72/356]; [Pub. L. 87–253][/us/pl/87/253], §§ 1, 2, Sept. 19, 1961, [75 Stat. 521][/us/stat/75/521]; [Pub. L. 95–598, title II, § 208][/us/pl/95/598/s208], Nov. 6, 1978, [92 Stat. 2660][/us/stat/92/2660]; [Pub. L. 96–458, § 4][/us/pl/96/458/s4], Oct. 15, 1980, [94 Stat. 2040][/us/stat/94/2040]; [Pub. L. 97–164, title I, § 111][/us/pl/97/164/s111], Apr. 2, 1982, [96 Stat. 29][/us/stat/96/29]; [Pub. L. 99–466, § 1][/us/pl/99/466/s1], Oct. 14, 1986, [100 Stat. 1190][/us/stat/100/1190]; [Pub. L. 100–702, title IV, § 402(b)][/us/pl/100/702/s402/b], Nov. 19, 1988, [102 Stat. 4650][/us/stat/102/4650]; [Pub. L. 104–317, title VI, § 601(a)][/us/pl/104/317/s601/a], Oct. 19, 1996, [110 Stat. 3857][/us/stat/110/3857]; [Pub. L. 107–273, div. C, title I, § 11043(b)][/us/pl/107/273/s11043/b], Nov. 2, 2002, [116 Stat. 1855][/us/stat/116/1855]; [Pub. L. 110–177, title I, § 101(b)][/us/pl/110/177/s101/b], Jan. 7, 2008, [121 Stat. 2534][/us/stat/121/2534].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 902][/us/stat/62/902]; [July 9, 1956, ch. 517][/us/act/1956-07-09/ch517], § 1(d), [70 Stat. 497][/us/stat/70/497]; [Pub. L. 85–202][/us/pl/85/202], Aug. 28, 1957, [71 Stat. 476][/us/stat/71/476]; [Pub. L. 85–513][/us/pl/85/513], July 11, 1958, [72 Stat. 356][/us/stat/72/356]; [Pub. L. 87–253][/us/pl/87/253], §§ 1, 2, Sept. 19, 1961, [75 Stat. 521][/us/stat/75/521]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 208, Nov. 6, 1978, [92 Stat. 2660][/us/stat/92/2660]; [Pub. L. 96–458][/us/pl/96/458], § 4, Oct. 15, 1980, [94 Stat. 2040][/us/stat/94/2040]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 111, Apr. 2, 1982, [96 Stat. 29][/us/stat/96/29]; [Pub. L. 99–466][/us/pl/99/466], § 1, Oct. 14, 1986, [100 Stat. 1190][/us/stat/100/1190]; [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 402(b), Nov. 19, 1988, [102 Stat. 4650][/us/stat/102/4650]; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 601(a), Oct. 19, 1996, [110 Stat. 3857][/us/stat/110/3857]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11043(b), Nov. 2, 2002, [116 Stat. 1855][/us/stat/116/1855]; [Pub. L. 110–177, title I][/us/pl/110/177/tI], § 101(b), Jan. 7, 2008, [121 Stat. 2534][/us/stat/121/2534].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 218 ([Sept. 14, 1922, ch. 306, § 2][/us/act/1922-09-14/ch306/s2], [42 Stat. 838][/us/stat/42/838]; [July 5, 1937, ch. 427][/us/act/1937-07-05/ch427], [50 Stat. 473][/us/stat/50/473]).
+    Based on title 28, U.S.C., 1940 ed., § 218 ([Sept. 14, 1922, ch. 306][/us/act/1922-09-14/ch306], § 2, [42 Stat. 838][/us/stat/42/838]; [July 5, 1937, ch. 427][/us/act/1937-07-05/ch427], [50 Stat. 473][/us/stat/50/473]).
 
     Provisions as to associate justice acting when Chief Justice is disabled are omitted as unnecessary in view of [section 3 of this title][/us/usc/t28/s3] giving senior associate justice power to act upon the disability of the Chief Justice.
 
@@ -67,11 +67,11 @@
 
     1988—[Pub. L. 100–702][/us/pl/100/702] inserted paragraph requiring Judicial Conference review of section 2071 rules prescribed by courts other than Supreme court or district courts for consistency with Federal law.
 
-    1986—[Pub. L. 99–466, § 1(a)][/us/pl/99/466/s1/a], inserted “, the chief judge of the Court of International Trade,” and substituted “Conference may” for “conference may” in first par.
+    1986—[Pub. L. 99–466][/us/pl/99/466], § 1(a), inserted “, the chief judge of the Court of International Trade,” and substituted “Conference may” for “conference may” in first par.
 
-    [Pub. L. 99–466, § 1(b)][/us/pl/99/466/s1/b], inserted “, the chief judge of the Court of International Trade,” and “or any other judge of the Court of International Trade, as the case may be” in first sentence of third par.
+    [Pub. L. 99–466][/us/pl/99/466], § 1(b), inserted “, the chief judge of the Court of International Trade,” and “or any other judge of the Court of International Trade, as the case may be” in first sentence of third par.
 
-    [Pub. L. 99–466, § 1(c)][/us/pl/99/466/s1/c], substituted “Conference” for “conference” in sixth par.
+    [Pub. L. 99–466][/us/pl/99/466], § 1(c), substituted “Conference” for “conference” in sixth par.
 
     1982—[Pub. L. 97–164][/us/pl/97/164], in first par., struck out references to the chief judge of the Court of Claims and to the chief judge of the Court of Customs and Patent Appeals in the enumeration of judges which the Chief Justice must summon each year for a conference and, in third par., struck out provision that authorized the Chief Justice to summon an associate judge of the Court of Claims or the Court of Customs and Patent Appeals if the chief judge of either of those courts could not attend.
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–466, § 4][/us/pl/99/466/s4], Oct. 14, 1986, [100 Stat. 1191][/us/stat/100/1191], provided that: 
+[Pub. L. 99–466][/us/pl/99/466], § 4, Oct. 14, 1986, [100 Stat. 1191][/us/stat/100/1191], provided that: 
 
 > “This Act and the amendments made by this Act \[enacting [section 335 of this title][/us/usc/t28/s335], amending this section and [section 569 of this title][/us/usc/t28/s569], renumbering [section 873 of this title][/us/usc/t28/s873] as 872, and repealing former [section 872 of this title][/us/usc/t28/s872]\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 14, 1986\].”
 
@@ -103,7 +103,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–458, § 7][/us/pl/96/458/s7], Oct. 15, 1980, [94 Stat. 2041][/us/stat/94/2041], provided that: 
+[Pub. L. 96–458][/us/pl/96/458], § 7, Oct. 15, 1980, [94 Stat. 2041][/us/stat/94/2041], provided that: 
 
 > “This Act \[amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and [section 1 of this title][/us/usc/t28/s1]\] shall become effective on October 1, 1981.”
 
@@ -113,13 +113,13 @@
 
  __Deposit of Fees for Processing of Violations Through Central Violations Bureau Cases__ 
 
-[Pub. L. 108–447, div. B, title III, § 308][/us/pl/108/447/s308], Dec. 8, 2004, [118 Stat. 2895][/us/stat/118/2895], as amended by [Pub. L. 109–13, div. A, title VI, § 6066][/us/pl/109/13/s6066], May 11, 2005, [119 Stat. 299][/us/stat/119/299], provided that: 
+[Pub. L. 108–447, div. B, title III][/us/pl/108/447/dB/tIII], § 308, Dec. 8, 2004, [118 Stat. 2895][/us/stat/118/2895], as amended by [Pub. L. 109–13, div. A, title VI][/us/pl/109/13/dA/tVI], § 6066, May 11, 2005, [119 Stat. 299][/us/stat/119/299], provided that: 
 
 > “For fiscal year 2005 and hereafter, such fees as shall be collected for the processing of violations through the Central Violations Bureau cases as prescribed by the Judicial Conference of the United States shall be deposited as offsetting receipts to the fund established under [28 U.S.C. 1931][/us/usc/t28/s1931] and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and Other Judicial Services and the Administrative Offices of the United States Courts.”
 
  __Policies, Procedures, and Methodologies Used in Recommendation for Creation of Additional Federal Judgeships; Study by General Accounting Office and Report to Congress__ 
 
-    [Pub. L. 101–650, title II, § 205][/us/pl/101/650/s205], Dec. 1, 1990, [104 Stat. 5103][/us/stat/104/5103], provided that the Comptroller General was to review the policies, procedures, and methodologies used by the Judicial Conference of the United States in recommending to Congress the creation of additional Federal judgeships and, not later than 18 months after Dec. 1, 1990, report the results of the review, with recommendations, to the appropriate congressional committees.
+    [Pub. L. 101–650, title II][/us/pl/101/650/tII], § 205, Dec. 1, 1990, [104 Stat. 5103][/us/stat/104/5103], provided that the Comptroller General was to review the policies, procedures, and methodologies used by the Judicial Conference of the United States in recommending to Congress the creation of additional Federal judgeships and, not later than 18 months after Dec. 1, 1990, report the results of the review, with recommendations, to the appropriate congressional committees.
 
  __Federal Courts Study Committee__ 
 
@@ -136,7 +136,7 @@
 [/us/usc/t28/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2071
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F902
-[/us/act/1956-07-09/ch517/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch517%2Fs1%2Fd
+[/us/act/1956-07-09/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch517
 [/us/stat/70/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F497
 [/us/pl/85/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F202
 [/us/stat/71/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F476
@@ -144,23 +144,23 @@
 [/us/stat/72/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F356
 [/us/pl/87/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F253
 [/us/stat/75/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F521
-[/us/pl/95/598/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs208
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2660
-[/us/pl/96/458/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458%2Fs4
+[/us/pl/96/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458
 [/us/stat/94/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2040
-[/us/pl/97/164/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs111
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F29
-[/us/pl/99/466/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466%2Fs1
+[/us/pl/99/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466
 [/us/stat/100/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1190
-[/us/pl/100/702/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs402%2Fb
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4650
-[/us/pl/104/317/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs601%2Fa
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3857
-[/us/pl/107/273/s11043/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Fb
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1855
-[/us/pl/110/177/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs101%2Fb
+[/us/pl/110/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtI
 [/us/stat/121/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2534
-[/us/act/1922-09-14/ch306/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306%2Fs2
+[/us/act/1922-09-14/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306
 [/us/stat/42/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F838
 [/us/act/1937-07-05/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-05%2Fch427
 [/us/stat/50/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F473
@@ -173,9 +173,9 @@
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/usc/t28/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs333
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
-[/us/pl/99/466/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466%2Fs1%2Fa
-[/us/pl/99/466/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466%2Fs1%2Fb
-[/us/pl/99/466/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466%2Fs1%2Fc
+[/us/pl/99/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466
+[/us/pl/99/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466
+[/us/pl/99/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/96/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
@@ -187,7 +187,7 @@
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/100/702/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs407
 [/us/usc/t28/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2071
-[/us/pl/99/466/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466%2Fs4
+[/us/pl/99/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466
 [/us/stat/100/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1191
 [/us/usc/t28/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs335
 [/us/usc/t28/s569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs569
@@ -196,17 +196,17 @@
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/96/458/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458%2Fs7
+[/us/pl/96/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458
 [/us/stat/94/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2041
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/108/447/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs308
+[/us/pl/108/447/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIII
 [/us/stat/118/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2895
-[/us/pl/109/13/s6066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs6066
+[/us/pl/109/13/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtVI
 [/us/stat/119/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F299
 [/us/usc/t28/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1931
-[/us/pl/101/650/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs205
+[/us/pl/101/650/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtII
 [/us/stat/104/5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5103
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 

@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on portions of [section 29 of title 15][/us/usc/t15/s29], U.S.C., 1940 ed., Commerce and Trade, and [section 45 of title 49][/us/usc/t49/s45], U.S.C., 1940 ed., Transportation ([Feb. 11, 1903, ch. 544, § 2][/us/act/1903-02-11/ch544/s2], [32 Stat. 823][/us/stat/32/823]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [June 9, 1944, ch. 239][/us/act/1944-06-09/ch239], [58 Stat. 272][/us/stat/58/272]).
+    Based on portions of [section 29 of title 15][/us/usc/t15/s29], U.S.C., 1940 ed., Commerce and Trade, and [section 45 of title 49][/us/usc/t49/s45], U.S.C., 1940 ed., Transportation ([Feb. 11, 1903, ch. 544][/us/act/1903-02-11/ch544], § 2, [32 Stat. 823][/us/stat/32/823]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [June 9, 1944, ch. 239][/us/act/1944-06-09/ch239], [58 Stat. 272][/us/stat/58/272]).
 
     Section consolidates portions of [section 29 of title 15][/us/usc/t15/s29], U.S.C., 1940 ed., and [section 45 of title 49][/us/usc/t49/s45], U.S.C., 1940 ed., with changes of substance and phraseology.
 
@@ -50,9 +50,9 @@
 [/us/stat/62/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F963
 [/us/usc/t15/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs29
 [/us/usc/t49/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45
-[/us/act/1903-02-11/ch544/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-11%2Fch544%2Fs2
+[/us/act/1903-02-11/ch544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-11%2Fch544
 [/us/stat/32/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F823
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/act/1944-06-09/ch239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-09%2Fch239
 [/us/stat/58/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F272

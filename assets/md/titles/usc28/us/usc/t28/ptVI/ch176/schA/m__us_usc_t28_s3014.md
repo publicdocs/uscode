@@ -45,7 +45,7 @@
 
     Subject to the limitation in subsection (a), this section shall apply separately with respect to each debtor in a joint case.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4938][/us/stat/104/4938].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4938][/us/stat/104/4938].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t11/s522/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs522%2Fd
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4938
 
 

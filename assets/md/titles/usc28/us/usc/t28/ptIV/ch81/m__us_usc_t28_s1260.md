@@ -17,11 +17,11 @@
 
     Final judgments or decrees rendered by the Supreme Court of the Virgin Islands may be reviewed by the Supreme Court by writ of certiorari where the validity of a treaty or statute of the United States is drawn in question or where the validity of a statute of the Virgin Islands is drawn in question on the ground of its being repugnant to the Constitution, treaties, or laws of the United States, or where any title, right, privilege, or immunity is specially set up or claimed under the Constitution or the treaties or statutes of, or any commission held or authority exercised under, the United States.
 
-(Added [Pub. L. 112–226, § 2(a)][/us/pl/112/226/s2/a], Dec. 28, 2012, [126 Stat. 1606][/us/stat/126/1606].)
+(Added [Pub. L. 112–226][/us/pl/112/226], § 2(a), Dec. 28, 2012, [126 Stat. 1606][/us/stat/126/1606].)
 
  __Effective Date__ 
 
-[Pub. L. 112–226, § 3][/us/pl/112/226/s3], Dec. 28, 2012, [126 Stat. 1607][/us/stat/126/1607], provided that: 
+[Pub. L. 112–226][/us/pl/112/226], § 3, Dec. 28, 2012, [126 Stat. 1607][/us/stat/126/1607], provided that: 
 
 > “The amendments made by this Act \[enacting this section and amending [section 1613 of Title 48][/us/usc/t48/s1613], Territories and Insular Possessions\] apply to cases commenced on or after the date of the enactment of this Act \[Dec. 28, 2012\].”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/112/226/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F226%2Fs2%2Fa
+[/us/pl/112/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F226
 [/us/stat/126/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1606
-[/us/pl/112/226/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F226%2Fs3
+[/us/pl/112/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F226
 [/us/stat/126/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1607
 [/us/usc/t48/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1613
 

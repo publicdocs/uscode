@@ -39,11 +39,11 @@
 
         (8) Oversee the Supreme Court Police.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 918][/us/stat/62/918]; [Pub. L. 88–279, § 2][/us/pl/88/279/s2], Mar. 10, 1964, [78 Stat. 158][/us/stat/78/158]; [Pub. L. 97–390, § 2][/us/pl/97/390/s2], Dec. 29, 1982, [96 Stat. 1958][/us/stat/96/1958].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 918][/us/stat/62/918]; [Pub. L. 88–279][/us/pl/88/279], § 2, Mar. 10, 1964, [78 Stat. 158][/us/stat/78/158]; [Pub. L. 97–390][/us/pl/97/390], § 2, Dec. 29, 1982, [96 Stat. 1958][/us/stat/96/1958].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 325, 331, and [section 13d of title 40][/us/usc/t40/s13d], U.S.C., 1940 ed., Public Buildings, Property and Works ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 219, 224, [36 Stat. 1152][/us/stat/36/1152], 1153; [April 11, 1928, ch. 358][/us/act/1928-04-11/ch358], [45 Stat. 424][/us/stat/45/424]; [May 7, 1934, ch. 222, § 4][/us/act/1934-05-07/ch222/s4], [48 Stat. 668][/us/stat/48/668]).
+    Based on title 28, U.S.C., 1940 ed., §§ 325, 331, and [section 13d of title 40][/us/usc/t40/s13d], U.S.C., 1940 ed., Public Buildings, Property and Works ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 219, 224, [36 Stat. 1152][/us/stat/36/1152], 1153; [April 11, 1928, ch. 358][/us/act/1928-04-11/ch358], [45 Stat. 424][/us/stat/45/424]; [May 7, 1934, ch. 222][/us/act/1934-05-07/ch222], § 4, [48 Stat. 668][/us/stat/48/668]).
 
     This section consolidates part of [section 325 of title 28][/us/usc/t28/s325], U.S.C., 1940 ed., with section 331 of such title and [section 13d of title 40][/us/usc/t40/s13d], U.S.C., 1940 ed.
 
@@ -61,9 +61,9 @@
 
     1982—Subsec. (c)(8). [Pub. L. 97–390][/us/pl/97/390] added par. (8).
 
-    1964—Subsec. (c)(6). [Pub. L. 88–279, § 2(a)][/us/pl/88/279/s2/a], struck out “except the clerk, his deputies and employees,” after “employees of the Court”.
+    1964—Subsec. (c)(6). [Pub. L. 88–279][/us/pl/88/279], § 2(a), struck out “except the clerk, his deputies and employees,” after “employees of the Court”.
 
-    Subsec. (c)(7). [Pub. L. 88–279, § 2(b)][/us/pl/88/279/s2/b], added par. (7).
+    Subsec. (c)(7). [Pub. L. 88–279][/us/pl/88/279], § 2(b), added par. (7).
 
  __Effective Date of 1964 Amendment__ 
 
@@ -82,16 +82,16 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F918
-[/us/pl/88/279/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279%2Fs2
+[/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
 [/us/stat/78/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F158
-[/us/pl/97/390/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F390%2Fs2
+[/us/pl/97/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F390
 [/us/stat/96/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1958
 [/us/usc/t40/s13d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs13d
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1152
 [/us/act/1928-04-11/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-11%2Fch358
 [/us/stat/45/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F424
-[/us/act/1934-05-07/ch222/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-07%2Fch222%2Fs4
+[/us/act/1934-05-07/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-07%2Fch222
 [/us/stat/48/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F668
 [/us/usc/t28/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs325
 [/us/usc/t40/s13d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs13d
@@ -100,8 +100,8 @@
 [/us/usc/t28/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs674
 [/us/usc/t40/s13c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs13c
 [/us/pl/97/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F390
-[/us/pl/88/279/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279%2Fs2%2Fa
-[/us/pl/88/279/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279%2Fs2%2Fb
+[/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
+[/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
 [/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
 [/us/pl/88/279/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279%2Fs4
 [/us/usc/t28/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs671

@@ -17,7 +17,7 @@
 
     All decisions of the Court of International Trade shall be preserved and open to inspection. The court shall forward copies of each decision to the Secretary of the Treasury or his designee and to the appropriate customs officer for the district in which the case arose. The Secretary shall publish weekly such decisions as he or the court may designate and abstracts of all other decisions.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 900][/us/stat/62/900], § 255; renumbered § 257 and amended [Pub. L. 91–271, title I, § 107][/us/pl/91/271/s107], June 2, 1970, [84 Stat. 277][/us/stat/84/277]; [Pub. L. 96–417, title V, § 501(6)][/us/pl/96/417/s501/6], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 900][/us/stat/62/900], § 255; renumbered § 257 and amended [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 107, June 2, 1970, [84 Stat. 277][/us/stat/84/277]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(6), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742].)
 
  __Historical and Revision Notes__ 
 
@@ -48,9 +48,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F900
-[/us/pl/91/271/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs107
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F277
-[/us/pl/96/417/s501/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F6
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
 [/us/usc/t19/s1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1519
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497

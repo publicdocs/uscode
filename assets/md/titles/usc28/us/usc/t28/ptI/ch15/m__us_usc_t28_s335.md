@@ -19,7 +19,7 @@
 
     (b) The Court of International Trade shall provide by its rules for representation and active participation at such conference by members of the bar.
 
-(Added [Pub. L. 99–466, § 2(a)][/us/pl/99/466/s2/a], Oct. 14, 1986, [100 Stat. 1190][/us/stat/100/1190].)
+(Added [Pub. L. 99–466][/us/pl/99/466], § 2(a), Oct. 14, 1986, [100 Stat. 1190][/us/stat/100/1190].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/466/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466%2Fs2%2Fa
+[/us/pl/99/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466
 [/us/stat/100/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1190
 [/us/pl/99/466/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466%2Fs4
 [/us/usc/t28/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs331

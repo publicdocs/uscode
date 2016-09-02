@@ -19,7 +19,7 @@
 
     (b) A majority of the three judges designated may hear and determine the civil action and all questions pending therein.
 
-(Added [Pub. L. 91–271, title I, § 108][/us/pl/91/271/s108], June 2, 1970, [84 Stat. 277][/us/stat/84/277]; amended [Pub. L. 96–417, title V, § 501(5)][/us/pl/96/417/s501/5], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742].)
+(Added [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 108, June 2, 1970, [84 Stat. 277][/us/stat/84/277]; amended [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(5), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742].)
 
  __Prior Provisions__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/91/271/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs108
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F277
-[/us/pl/96/417/s501/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F5
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
 [/us/usc/t28/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs257
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417

@@ -31,7 +31,7 @@
 
     Until such time as rules are adopted under chapter 131 of this title providing for the confidentiality of alternative dispute resolution processes under this chapter, each district court shall, by local rule adopted under section 2071(a), provide for the confidentiality of the alternative dispute resolution processes and to prohibit disclosure of confidential dispute resolution communications.
 
-(Added [Pub. L. 100–702, title IX, § 901(a)][/us/pl/100/702/s901/a], Nov. 19, 1988, [102 Stat. 4659][/us/stat/102/4659]; amended [Pub. L. 105–315, § 4][/us/pl/105/315/s4], Oct. 30, 1998, [112 Stat. 2994][/us/stat/112/2994].)
+(Added [Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 901(a), Nov. 19, 1988, [102 Stat. 4659][/us/stat/102/4659]; amended [Pub. L. 105–315][/us/pl/105/315], § 4, Oct. 30, 1998, [112 Stat. 2994][/us/stat/112/2994].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Exception to Limitation on Money Damages__ 
 
-    [Pub. L. 100–702, title IX, § 901(c)][/us/pl/100/702/s901/c], Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that notwithstanding establishment by former [section 652 of this title][/us/usc/t28/s652] of a $100,000 limitation on money damages with respect to cases referred to arbitration, a district court listed in former [section 658 of this title][/us/usc/t28/s658] whose local rule on Nov. 19, 1988, provided for a limitation on money damages of not more than $150,000, could continue to apply the higher limitation, prior to repeal by [Pub. L. 105–315, § 12(a)][/us/pl/105/315/s12/a], Oct. 30, 1998, [112 Stat. 2998][/us/stat/112/2998].
+    [Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 901(c), Nov. 19, 1988, [102 Stat. 4663][/us/stat/102/4663], provided that notwithstanding establishment by former [section 652 of this title][/us/usc/t28/s652] of a $100,000 limitation on money damages with respect to cases referred to arbitration, a district court listed in former [section 658 of this title][/us/usc/t28/s658] whose local rule on Nov. 19, 1988, provided for a limitation on money damages of not more than $150,000, could continue to apply the higher limitation, prior to repeal by [Pub. L. 105–315][/us/pl/105/315], § 12(a), Oct. 30, 1998, [112 Stat. 2998][/us/stat/112/2998].
 
 ----------
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/pl/100/702/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs901%2Fa
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4659
-[/us/pl/105/315/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs4
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2994
 [/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
-[/us/pl/100/702/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs901%2Fc
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4663
 [/us/usc/t28/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs652
 [/us/usc/t28/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs658
-[/us/pl/105/315/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs12%2Fa
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2998
 
 

@@ -219,21 +219,21 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–317, title IV, § 403(a)(2)][/us/pl/104/317/s403/a/2], Oct. 19, 1996, [110 Stat. 3854][/us/stat/110/3854], added item 1932 “Judicial Panel on Multidistrict Litigation”.
+    1996—[Pub. L. 104–317, title IV][/us/pl/104/317/tIV], § 403(a)(2), Oct. 19, 1996, [110 Stat. 3854][/us/stat/110/3854], added item 1932 “Judicial Panel on Multidistrict Litigation”.
 
-    [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, §§ 805(b), 809(b)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–75, 1321–76; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], added item 1915A and item 1932 “Revocation of earned release credit”.
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, §§ 805(b), 809(b)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–75, 1321–76; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], added item 1915A and item 1932 “Revocation of earned release credit”.
 
-    1992—[Pub. L. 102–572, title IX][/us/pl/102/572], §§ 902(b)(2), 908(b)(2), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4519, substituted “Dismissal” for “District courts; dismissal” in item 1919 and “Court of Federal Claims” for “Claims Court” as item 1926.
+    1992—[Pub. L. 102–572, title IX][/us/pl/102/572/tIX], §§ 902(b)(2), 908(b)(2), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4519, substituted “Dismissal” for “District courts; dismissal” in item 1919 and “Court of Federal Claims” for “Claims Court” as item 1926.
 
-    1988—[Pub. L. 100–702, title X, § 1020(a)(8)][/us/pl/100/702/s1020/a/8], Nov. 19, 1988, [102 Stat. 4672][/us/stat/102/4672], substituted “court” for “courts” after “District” in item 1914.
+    1988—[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1020(a)(8), Nov. 19, 1988, [102 Stat. 4672][/us/stat/102/4672], substituted “court” for “courts” after “District” in item 1914.
 
-    1986—[Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title IV, § 407(d)\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–64, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title IV, § 407(d)\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–64, added item 1931.
+    1986—[Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title IV, § 407(d)\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–64, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title IV, § 407(d)\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–64, added item 1931.
 
-    1984—[Pub. L. 98–353, title I, § 111(c)][/us/pl/98/353/s111/c], July 10, 1984, [98 Stat. 343][/us/stat/98/343], substituted “fees” for “courts” in item 1930. Notwithstanding directory language that the amendment be made to the table of sections for chapter 125 of this title, the amendment was executed to the table of sections for chapter 123 of this title to reflect the probable intent of Congress.
+    1984—[Pub. L. 98–353, title I][/us/pl/98/353/tI], § 111(c), July 10, 1984, [98 Stat. 343][/us/stat/98/343], substituted “fees” for “courts” in item 1930. Notwithstanding directory language that the amendment be made to the table of sections for chapter 125 of this title, the amendment was executed to the table of sections for chapter 123 of this title to reflect the probable intent of Congress.
 
-    1982—[Pub. L. 97–164, title I, § 139(p)(2)][/us/pl/97/164/s139/p/2], Apr. 2, 1982, [96 Stat. 44][/us/stat/96/44], substituted “Claims Court” for “Court of Customs and Patent Appeals” in item 1926.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(p)(2), Apr. 2, 1982, [96 Stat. 44][/us/stat/96/44], substituted “Claims Court” for “Court of Customs and Patent Appeals” in item 1926.
 
-    1978—[Pub. L. 95–598, title II, § 246(b)][/us/pl/95/598/s246/b], Nov. 6, 1978, [92 Stat. 2672][/us/stat/92/2672], added item 1930.
+    1978—[Pub. L. 95–598, title II][/us/pl/95/598/tII], § 246(b), Nov. 6, 1978, [92 Stat. 2672][/us/stat/92/2672], added item 1930.
 
  __Change of Name__ 
 
@@ -246,25 +246,25 @@
 ----------
 ----------
 
-[/us/pl/104/317/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs403%2Fa%2F2
+[/us/pl/104/317/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIV
 [/us/stat/110/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3854
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/100/702/s1020/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1020%2Fa%2F8
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4672
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
-[/us/pl/98/353/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs111%2Fc
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F343
-[/us/pl/97/164/s139/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fp%2F2
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F44
-[/us/pl/95/598/s246/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs246%2Fb
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2672
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

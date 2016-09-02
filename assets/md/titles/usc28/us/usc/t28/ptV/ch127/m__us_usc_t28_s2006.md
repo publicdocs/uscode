@@ -23,7 +23,7 @@
 
     When such certificate has been issued, the amount of the judgment shall be paid out of the proper appropriation by the Treasury.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 960][/us/stat/62/960]; [Pub. L. 107–296, title XI, § 1112][/us/pl/107/296/s1112](l), Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 960][/us/stat/62/960]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(l), Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277].)
 
  __Historical and Revision Notes__ 
 
@@ -48,7 +48,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F960
-[/us/pl/107/296/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2277
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

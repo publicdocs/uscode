@@ -41,7 +41,7 @@
 
     The term “proposed settlement” means an agreement regarding a class action that is subject to court approval and that, if approved, would be binding on some or all class members.
 
-(Added [Pub. L. 109–2, § 3(a)][/us/pl/109/2/s3/a], Feb. 18, 2005, [119 Stat. 5][/us/stat/119/5].)
+(Added [Pub. L. 109–2][/us/pl/109/2], § 3(a), Feb. 18, 2005, [119 Stat. 5][/us/stat/119/5].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 109–2, § 2][/us/pl/109/2/s2], Feb. 18, 2005, [119 Stat. 4][/us/stat/119/4], provided that:
+[Pub. L. 109–2][/us/pl/109/2], § 2, Feb. 18, 2005, [119 Stat. 4][/us/stat/119/4], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -108,11 +108,11 @@
 ----------
 ----------
 
-[/us/pl/109/2/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs3%2Fa
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F5
 [/us/pl/109/2/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs9
 [/us/usc/t28/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1332
-[/us/pl/109/2/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs2
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F4
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 

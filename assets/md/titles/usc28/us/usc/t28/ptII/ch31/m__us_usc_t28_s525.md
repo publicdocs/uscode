@@ -17,7 +17,7 @@
 
     In the procurement of law books, reference books, and periodicals, the Attorney General may exchange or sell similar items and apply the exchange allowances or proceeds of such sales in whole or in part payment therefor.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 615][/us/stat/80/615].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 615][/us/stat/80/615].)
 
 <table>
 
@@ -74,7 +74,7 @@ July 28, 1950, ch. 503, § 3, 64 Stat. 380.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F615
 
 

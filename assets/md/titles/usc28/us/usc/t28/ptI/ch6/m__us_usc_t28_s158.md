@@ -105,7 +105,7 @@
 
             (E) Any request under subparagraph (B) for certification shall be made not later than 60 days after the entry of the judgment, order, or decree.
 
-(Added [Pub. L. 98–353, title I, § 104(a)][/us/pl/98/353/s104/a], July 10, 1984, [98 Stat. 341][/us/stat/98/341]; amended [Pub. L. 101–650, title III, § 305][/us/pl/101/650/s305], Dec. 1, 1990, [104 Stat. 5105][/us/stat/104/5105]; [Pub. L. 103–394, title I][/us/pl/103/394], §§ 102, 104(c), (d), Oct. 22, 1994, [108 Stat. 4108–4110][/us/stat/108/4108-4110]; [Pub. L. 109–8, title XII, § 1233(a)][/us/pl/109/8/s1233/a], Apr. 20, 2005, [119 Stat. 202][/us/stat/119/202]; [Pub. L. 111–327, § 2(c)(1)][/us/pl/111/327/s2/c/1], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 104(a), July 10, 1984, [98 Stat. 341][/us/stat/98/341]; amended [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 305, Dec. 1, 1990, [104 Stat. 5105][/us/stat/104/5105]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], §§ 102, 104(c), (d), Oct. 22, 1994, [108 Stat. 4108–4110][/us/stat/108/4108-4110]; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1233(a), Apr. 20, 2005, [119 Stat. 202][/us/stat/119/202]; [Pub. L. 111–327][/us/pl/111/327], § 2(c)(1), Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
 
  __References in Text__ 
 
@@ -115,23 +115,23 @@
 
     2010—Subsec. (d)(2)(D). [Pub. L. 111–327][/us/pl/111/327] substituted “appeal is pending” for “appeal in pending”.
 
-    2005—Subsec. (c)(1). [Pub. L. 109–8, § 1233(a)(1)][/us/pl/109/8/s1233/a/1], substituted “Subject to subsections (b) and (d)(2),” for “Subject to subsection (b),”.
+    2005—Subsec. (c)(1). [Pub. L. 109–8][/us/pl/109/8], § 1233(a)(1), substituted “Subject to subsections (b) and (d)(2),” for “Subject to subsection (b),”.
 
-    Subsec. (d). [Pub. L. 109–8, § 1233(a)(2)][/us/pl/109/8/s1233/a/2], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 109–8][/us/pl/109/8], § 1233(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-    1994—Subsec. (a). [Pub. L. 103–394, § 102][/us/pl/103/394/s102], which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and striking after “appeals” “from final judgments, orders, and decrees,”, which is through “decrees,” the first place appearing, to reflect the probable intent of Congress.
+    1994—Subsec. (a). [Pub. L. 103–394][/us/pl/103/394], § 102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and striking after “appeals” “from final judgments, orders, and decrees,”, which is through “decrees,” the first place appearing, to reflect the probable intent of Congress.
 
-    Subsec. (b)(1). [Pub. L. 103–394, § 104(c)(3)][/us/pl/103/394/s104/c/3], added par. (1) and struck out former par. (1) which read as follows: “The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judges from districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.”
+    Subsec. (b)(1). [Pub. L. 103–394][/us/pl/103/394], § 104(c)(3), added par. (1) and struck out former par. (1) which read as follows: “The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judges from districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.”
 
-    Subsec. (b)(2). [Pub. L. 103–394, § 104(c)(3)][/us/pl/103/394/s104/c/3], added par. (2). Former par. (2) redesignated (4).
+    Subsec. (b)(2). [Pub. L. 103–394][/us/pl/103/394], § 104(c)(3), added par. (2). Former par. (2) redesignated (4).
 
-    Subsec. (b)(3). [Pub. L. 103–394, § 104(c)(1)][/us/pl/103/394/s104/c/1], (3), added par. (3) and struck out former par. (3) which read as follows: “No appeal may be referred to a panel under this subsection unless the district judges for the district, by majority vote, authorize such referral of appeals originating within the district.”
+    Subsec. (b)(3). [Pub. L. 103–394][/us/pl/103/394], § 104(c)(1), (3), added par. (3) and struck out former par. (3) which read as follows: “No appeal may be referred to a panel under this subsection unless the district judges for the district, by majority vote, authorize such referral of appeals originating within the district.”
 
-    Subsec. (b)(4). [Pub. L. 103–394, § 104(c)(1)][/us/pl/103/394/s104/c/1], (2), redesignated par. (2) as (4) and struck out former par. (4) which read as follows: “A panel established under this section shall consist of three bankruptcy judges, provided a bankruptcy judge may not hear an appeal originating within a district for which the judge is appointed or designated under [section 152 of this title][/us/usc/t28/s152].”
+    Subsec. (b)(4). [Pub. L. 103–394][/us/pl/103/394], § 104(c)(1), (2), redesignated par. (2) as (4) and struck out former par. (4) which read as follows: “A panel established under this section shall consist of three bankruptcy judges, provided a bankruptcy judge may not hear an appeal originating within a district for which the judge is appointed or designated under [section 152 of this title][/us/usc/t28/s152].”
 
-    Subsec. (b)(5), (6). [Pub. L. 103–394, § 104(c)(4)][/us/pl/103/394/s104/c/4], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 103–394][/us/pl/103/394], § 104(c)(4), added pars. (5) and (6).
 
-    Subsec. (c). [Pub. L. 103–394, § 104(d)][/us/pl/103/394/s104/d], designated existing provisions as par. (2) and added par. (1).
+    Subsec. (c). [Pub. L. 103–394][/us/pl/103/394], § 104(d), designated existing provisions as par. (2) and added par. (1).
 
     1990—Subsec. (b)(2) to (4). [Pub. L. 101–650][/us/pl/101/650] added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -145,7 +145,7 @@
 
  __Procedural Rules__ 
 
-[Pub. L. 109–8, title XII, § 1233(b)][/us/pl/109/8/s1233/b], Apr. 20, 2005, [119 Stat. 203][/us/stat/119/203], provided that:
+[Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1233(b), Apr. 20, 2005, [119 Stat. 203][/us/stat/119/203], provided that:
 
 >     “(1)  __Temporary application__  __.—__ 
 
@@ -193,27 +193,27 @@
 [/us/usc/t11/s1121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1121%2Fd
 [/us/usc/t28/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs157
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
-[/us/pl/98/353/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs104%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F341
-[/us/pl/101/650/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs305
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5105
-[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4108-4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4108-4110
-[/us/pl/109/8/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1233%2Fa
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F202
-[/us/pl/111/327/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fc%2F1
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s1233/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1233%2Fa%2F1
-[/us/pl/109/8/s1233/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1233%2Fa%2F2
-[/us/pl/103/394/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs102
-[/us/pl/103/394/s104/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fc%2F3
-[/us/pl/103/394/s104/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fc%2F3
-[/us/pl/103/394/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fc%2F1
-[/us/pl/103/394/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fc%2F1
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
-[/us/pl/103/394/s104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fc%2F4
-[/us/pl/103/394/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fd
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
@@ -221,7 +221,7 @@
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs702
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/109/8/s1233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1233%2Fb
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F203
 [/us/usc/t28/s158/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs158%2Fd%2F2
 [/us/usc/t28/s158/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs158%2Fd%2F2

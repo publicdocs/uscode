@@ -21,7 +21,7 @@
 
     (2) for health care for such employees and families, to be provided under section 904 of that Act.
 
-(Added [Pub. L. 100–690, title VI, § 6281(a)][/us/pl/100/690/s6281/a], Nov. 18, 1988, [102 Stat. 4368][/us/stat/102/4368]; amended [Pub. L. 112–55, div. B, title II, § 218][/us/pl/112/55/s218], Nov. 18, 2011, [125 Stat. 621][/us/stat/125/621].)
+(Added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6281(a), Nov. 18, 1988, [102 Stat. 4368][/us/stat/102/4368]; amended [Pub. L. 112–55, div. B, title II][/us/pl/112/55/dB/tII], § 218, Nov. 18, 2011, [125 Stat. 621][/us/stat/125/621].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/100/690/s6281/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6281%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4368
-[/us/pl/112/55/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs218
+[/us/pl/112/55/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdB%2FtII
 [/us/stat/125/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F621
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 

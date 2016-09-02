@@ -19,11 +19,11 @@
 
     Any attorney who charges, demands, receives, or collects for services rendered in connection with such claim any amount in excess of that allowed under this section, if recovery be had, shall be fined not more than $2,000 or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 984][/us/stat/62/984]; [Pub. L. 89–506, § 4][/us/pl/89/506/s4], July 18, 1966, [80 Stat. 307][/us/stat/80/307].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 984][/us/stat/62/984]; [Pub. L. 89–506][/us/pl/89/506], § 4, July 18, 1966, [80 Stat. 307][/us/stat/80/307].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 944 ([Aug. 2, 1946, ch. 753, § 422][/us/act/1946-08-02/ch753/s422], [60 Stat. 846][/us/stat/60/846]).
+    Based on title 28, U.S.C., 1940 ed., § 944 ([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 422, [60 Stat. 846][/us/stat/60/846]).
 
     Words “shall be guilty of a misdemeanor” and “shall, upon conviction thereof”, in the second sentence, were omitted in conformity with revised title 18, U.S.C., Crimes and Criminal Procedure (H.R. 1600, 80th Cong.). See sections 1 and 2 of said revised title 18.
 
@@ -53,9 +53,9 @@
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F984
-[/us/pl/89/506/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs4
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/stat/80/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F307
-[/us/act/1946-08-02/ch753/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs422
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F846
 [/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506

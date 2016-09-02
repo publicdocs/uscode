@@ -17,7 +17,7 @@
 
     The Director of the Federal Bureau of Investigation may use funds available to the Federal Bureau of Investigation for counterintelligence programs to pay the expenses of hosting foreign officials in the United States under the auspices of the Federal Bureau of Investigation for consultation on counterintelligence matters.
 
-(Added [Pub. L. 99–569, title IV, § 401(a)][/us/pl/99/569/s401/a], Oct. 27, 1986, [100 Stat. 3195][/us/stat/100/3195].)
+(Added [Pub. L. 99–569, title IV][/us/pl/99/569/tIV], § 401(a), Oct. 27, 1986, [100 Stat. 3195][/us/stat/100/3195].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/569/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs401%2Fa
+[/us/pl/99/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtIV
 [/us/stat/100/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3195
 
 

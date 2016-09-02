@@ -17,11 +17,11 @@
 
     The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim by a disbursing officer of the United States or by his administrator or executor for relief from responsibility for loss, in line of duty, of Government funds, vouchers, records or other papers in his charge.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [Pub. L. 97–164, title I, § 133(c)(1)][/us/pl/97/164/s133/c/1], Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 133(c)(1), Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 250(3) ([Mar. 3, 1911, ch. 231, § 145][/us/act/1911-03-03/ch231/s145], [36 Stat. 1136][/us/stat/36/1136]; [June 10, 1921, ch. 18, § 304][/us/act/1921-06-10/ch18/s304], [42 Stat. 24][/us/stat/42/24]).
+    Based on title 28, U.S.C., 1940 ed., § 250(3) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 145, [36 Stat. 1136][/us/stat/36/1136]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], § 304, [42 Stat. 24][/us/stat/42/24]).
 
     Words “paymaster, quartermaster, commissary of subsistence, or other,” preceding “disbursing officer of the United States,” were omitted. See Henderson v. United States, 1907, 42 Ct.Cl. 449 and Hobbs v. United States, 1881, 17 Ct.Cl. 189, holding that the term “other disbursing officer” extends to any disbursing officer of the executive departments of the Government.
 
@@ -54,13 +54,13 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F941
-[/us/pl/97/164/s133/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs133%2Fc%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F40
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1911-03-03/ch231/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs145
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1136
-[/us/act/1921-06-10/ch18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18%2Fs304
+[/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
 [/us/usc/t28/s250/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs250%2F3
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

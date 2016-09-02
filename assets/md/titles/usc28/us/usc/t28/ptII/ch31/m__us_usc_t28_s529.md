@@ -47,13 +47,13 @@
 
             except that the requirement of this paragraph shall be deemed satisfied with respect to any such description, statistics, or declaration if such non-Federal grantee or such non-Federal party shall have failed to provide the same to the Attorney General, and the Attorney General notes the fact of such failure and the name of such grantee or such party in the report.
 
-(Added [Pub. L. 95–521, title VI, § 603(a)][/us/pl/95/521/s603/a], Oct. 26, 1978, [92 Stat. 1874][/us/stat/92/1874]; amended [Pub. L. 107–273, div. A, title II, § 205(a)][/us/pl/107/273/s205/a], div. B, title IV, § 4003(b)(3), Nov. 2, 2002, [116 Stat. 1777][/us/stat/116/1777], 1811.)
+(Added [Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 603(a), Oct. 26, 1978, [92 Stat. 1874][/us/stat/92/1874]; amended [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 205(a), div. B, title IV, § 4003(b)(3), Nov. 2, 2002, [116 Stat. 1777][/us/stat/116/1777], 1811.)
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–273, § 205(a)][/us/pl/107/273/s205/a], designated existing provisions as subsec. (a) and added subsec. (b).
+    2002—[Pub. L. 107–273][/us/pl/107/273], § 205(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
-    Subsec. (b)(2). [Pub. L. 107–273, § 4003(b)(3)][/us/pl/107/273/s4003/b/3], struck out “over $5,000,000” after “services contract” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 107–273][/us/pl/107/273], § 4003(b)(3), struck out “over $5,000,000” after “services contract” in introductory provisions.
 
  __Effective Date__ 
 
@@ -66,12 +66,12 @@
 ----------
 ----------
 
-[/us/pl/95/521/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs603%2Fa
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1874
-[/us/pl/107/273/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs205%2Fa
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1777
-[/us/pl/107/273/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs205%2Fa
-[/us/pl/107/273/s4003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4003%2Fb%2F3
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/95/521/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs604
 [/us/usc/t28/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs591
 

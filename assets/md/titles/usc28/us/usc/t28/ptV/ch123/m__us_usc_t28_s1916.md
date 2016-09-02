@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 837 ([June 12, 1917, ch. 27, § 1][/us/act/1917-06-12/ch27/s1], [40 Stat. 157][/us/stat/40/157]; [July 1, 1918, ch. 113, § 1][/us/act/1918-07-01/ch113/s1], [40 Stat. 683][/us/stat/40/683]).
+    Based on title 28, U.S.C., 1940 ed., § 837 ([June 12, 1917, ch. 27][/us/act/1917-06-12/ch27], § 1, [40 Stat. 157][/us/stat/40/157]; [July 1, 1918, ch. 113][/us/act/1918-07-01/ch113], § 1, [40 Stat. 683][/us/stat/40/683]).
 
     Changes in phraseology were made.
 
@@ -34,9 +34,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F955
-[/us/act/1917-06-12/ch27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27%2Fs1
+[/us/act/1917-06-12/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27
 [/us/stat/40/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F157
-[/us/act/1918-07-01/ch113/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-01%2Fch113%2Fs1
+[/us/act/1918-07-01/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-01%2Fch113
 [/us/stat/40/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F683
 
 

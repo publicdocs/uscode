@@ -17,7 +17,7 @@
 
     A United States marshal or deputy marshal may not practice law in any court of the United States.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 621][/us/stat/80/621], § 575; renumbered § 568, [Pub. L. 100–690, title VII, § 7608(a)(2)(B)][/us/pl/100/690/s7608/a/2/B], Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 621][/us/stat/80/621], § 575; renumbered § 568, [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7608(a)(2)(B), Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514].)
 
 <table>
 
@@ -89,7 +89,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 568, added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 620][/us/stat/80/620], related to availability of appropriations for transfer of prisoners to narcotic farms, prior to repeal by [Pub. L. 100–690, § 7608(a)(1)][/us/pl/100/690/s7608/a/1].
+    A prior section 568, added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 620][/us/stat/80/620], related to availability of appropriations for transfer of prisoners to narcotic farms, prior to repeal by [Pub. L. 100–690][/us/pl/100/690], § 7608(a)(1).
 
  __Amendments__ 
 
@@ -102,9 +102,9 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F621
-[/us/pl/100/690/s7608/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F2%2FB
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4514
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1164
@@ -112,9 +112,9 @@ Statutes at Large  </td>
 [/us/usc/t28/s395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs395
 [/us/usc/t28/s396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs396
 [/us/usc/t28/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs541
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F620
-[/us/pl/100/690/s7608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t28/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs575
 

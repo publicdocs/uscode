@@ -17,7 +17,7 @@
 
     A clerk of a court or any of his deputies shall not be appointed a commissioner, master, referee or receiver in any case, unless there are special reasons requiring such appointment which are recited in the order of appointment.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 926][/us/stat/62/926]; [Pub. L. 95–598, title II, § 234][/us/pl/95/598/s234], Nov. 6, 1978, [92 Stat. 2667][/us/stat/92/2667]; [Pub. L. 97–164, title I, § 122(b)][/us/pl/97/164/s122/b], Apr. 2, 1982, [96 Stat. 36][/us/stat/96/36]; [Pub. L. 98–353, title I, § 109][/us/pl/98/353/s109], July 10, 1984, [98 Stat. 342][/us/stat/98/342].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 926][/us/stat/62/926]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 234, Nov. 6, 1978, [92 Stat. 2667][/us/stat/92/2667]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 122(b), Apr. 2, 1982, [96 Stat. 36][/us/stat/96/36]; [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 109, July 10, 1984, [98 Stat. 342][/us/stat/98/342].)
 
  __Historical and Revision Notes__ 
 
@@ -62,11 +62,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F926
-[/us/pl/95/598/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs234
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2667
-[/us/pl/97/164/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs122%2Fb
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F36
-[/us/pl/98/353/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs109
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F342
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1105

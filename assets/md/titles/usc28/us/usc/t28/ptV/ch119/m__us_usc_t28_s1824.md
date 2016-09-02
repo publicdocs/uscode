@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 602 ([May 27, 1908, ch. 200, § 1][/us/act/1908-05-27/ch200/s1], [35 Stat. 377][/us/stat/35/377]).
+    Based on title 28, U.S.C., 1940 ed., § 602 ([May 27, 1908, ch. 200][/us/act/1908-05-27/ch200], § 1, [35 Stat. 377][/us/stat/35/377]).
 
     Words “or as a witness in two or more cases pending in the same court and triable at the same term thereof” were omitted as covered by [section 1821 of this title][/us/usc/t28/s1821].
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F951
-[/us/act/1908-05-27/ch200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200%2Fs1
+[/us/act/1908-05-27/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200
 [/us/stat/35/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F377
 [/us/usc/t28/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821
 

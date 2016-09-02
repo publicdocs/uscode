@@ -33,7 +33,7 @@
 
     Any rule prescribed under this section shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such rule shall be a matter of public record, and any such rule promulgated by a judicial council may be modified by the Judicial Conference. No rule promulgated under this section may limit the period of time within which a person may file a complaint under this chapter.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11042(a)][/us/pl/107/273/s11042/a], Nov. 2, 2002, [116 Stat. 1853][/us/stat/116/1853].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11042(a), Nov. 2, 2002, [116 Stat. 1853][/us/stat/116/1853].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11042%2Fa
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1853
 
 

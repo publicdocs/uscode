@@ -29,11 +29,11 @@ Western District
 
     Court for the Western District shall be held at Bowling Green, Louisville, Owensboro, and Paducah.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 880][/us/stat/62/880]; [Pub. L. 95–408, § 2(a)][/us/pl/95/408/s2/a], Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 880][/us/stat/62/880]; [Pub. L. 95–408][/us/pl/95/408], § 2(a), Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 158 ([Mar. 3, 1911, ch. 231, § 83][/us/act/1911-03-03/ch231/s83], [36 Stat. 1112][/us/stat/36/1112]; [Jan. 29, 1920, ch. 57][/us/act/1920-01-29/ch57], [41 Stat. 400][/us/stat/41/400]; [June 22, 1936, ch. 707][/us/act/1936-06-22/ch707], [49 Stat. 1822][/us/stat/49/1822]).
+    Based on title 28, U.S.C., 1940 ed., § 158 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 83, [36 Stat. 1112][/us/stat/36/1112]; [Jan. 29, 1920, ch. 57][/us/act/1920-01-29/ch57], [41 Stat. 400][/us/stat/41/400]; [June 22, 1936, ch. 707][/us/act/1936-06-22/ch707], [49 Stat. 1822][/us/stat/49/1822]).
 
     Last paragraph of [section 158 of title 28][/us/usc/t28/s158], U.S.C., 1940 ed., relating to process, was omitted as covered by Rule 4 of the Federal Rules of Civil Procedure.
 
@@ -64,9 +64,9 @@ Western District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F880
-[/us/pl/95/408/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs2%2Fa
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/stat/92/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F883
-[/us/act/1911-03-03/ch231/s83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs83
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1112
 [/us/act/1920-01-29/ch57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-01-29%2Fch57
 [/us/stat/41/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F400

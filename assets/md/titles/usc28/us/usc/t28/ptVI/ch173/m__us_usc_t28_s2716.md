@@ -17,11 +17,11 @@
 
     After the first publication of the notice of attachment, a person indebted to, or having possession of property of a defendant and having knowledge of the notice, shall answer for the amount of his debt or the value of the property. Any disposal or attempted disposal of the property, to the injury of the United States, is unlawful. When the person indebted to, or having possession of the property of a defendant, is known to the United States attorney or marshal, the officer shall cause a personal notice of the attachment to be served upon him, but the lack of the notice does not invalidate the attachment.
 
-(Added [Pub. L. 86–682, § 9][/us/pl/86/682/s9], Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
+(Added [Pub. L. 86–682][/us/pl/86/682], § 9, Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
 
  __Codification__ 
 
-    Section was derived from R.S. § 930, which was originally classified to section 743 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 930 was reclassified to [section 843 of Title 39][/us/usc/t39/s843]. R.S. § 930 was repealed by [Pub. L. 86–682, § 12(c)][/us/pl/86/682/s12/c], Sept. 2, 1960, [74 Stat. 708][/us/stat/74/708], (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2716 of this title][/us/usc/t28/s2716].
+    Section was derived from R.S. § 930, which was originally classified to section 743 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. § 930 was reclassified to [section 843 of Title 39][/us/usc/t39/s843]. R.S. § 930 was repealed by [Pub. L. 86–682][/us/pl/86/682], § 12(c), Sept. 2, 1960, [74 Stat. 708][/us/stat/74/708], (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as [section 2716 of this title][/us/usc/t28/s2716].
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/86/682/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs9
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F707
 [/us/usc/t39/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs843
-[/us/pl/86/682/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs12%2Fc
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F708
 [/us/usc/t28/s2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2716
 

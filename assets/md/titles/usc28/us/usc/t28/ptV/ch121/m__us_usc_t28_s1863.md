@@ -45,11 +45,11 @@
 
     (d) State, local, and Federal officials having custody, possession, or control of voter registration lists, lists of actual voters, or other appropriate records shall make such lists and records available to the jury commission or clerks for inspection, reproduction, and copying at all reasonable times as the commission or clerk may deem necessary and proper for the performance of duties under this title. The district courts shall have jurisdiction upon application by the Attorney General of the United States to compel compliance with this subsection by appropriate process.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 54][/us/stat/82/54]; [Pub. L. 92–269, § 2][/us/pl/92/269/s2], Apr. 6, 1972, [86 Stat. 117][/us/stat/86/117]; [Pub. L. 95–572, § 2(a)][/us/pl/95/572/s2/a], Nov. 2, 1978, [92 Stat. 2453][/us/stat/92/2453]; [Pub. L. 100–702, title VIII, § 802(b)][/us/pl/100/702/s802/b], (c), Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657], 4658; [Pub. L. 102–572, title IV, § 401][/us/pl/102/572/s401], Oct. 29, 1992, [106 Stat. 4511][/us/stat/106/4511].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 54][/us/stat/82/54]; [Pub. L. 92–269][/us/pl/92/269], § 2, Apr. 6, 1972, [86 Stat. 117][/us/stat/86/117]; [Pub. L. 95–572][/us/pl/95/572], § 2(a), Nov. 2, 1978, [92 Stat. 2453][/us/stat/92/2453]; [Pub. L. 100–702, title VIII][/us/pl/100/702/tVIII], § 802(b), (c), Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657], 4658; [Pub. L. 102–572, title IV][/us/pl/102/572/tIV], § 401, Oct. 29, 1992, [106 Stat. 4511][/us/stat/106/4511].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940, ed., § 415 ([Mar. 3, 1911, ch. 231, § 278][/us/act/1911-03-03/ch231/s278], [36 Stat. 1165][/us/stat/36/1165]).
+    Based on title 28, U.S.C., 1940, ed., § 415 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 278, [36 Stat. 1165][/us/stat/36/1165]).
 
     Subsections (a) and (b) are new and merely declaratory of existing practice.
 
@@ -67,9 +67,9 @@
 
     1992—Subsec. (b)(2). [Pub. L. 102–572][/us/pl/102/572] inserted at end “The plan for the district of Massachusetts may require the names of prospective jurors to be selected from the resident list provided for in chapter 234A, Massachusetts General Laws, or comparable authority, rather than from voter lists.”
 
-    1988—Subsec. (b)(5). [Pub. L. 100–702, § 802(b)][/us/pl/100/702/s802/b], designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),”, and added subpar. (B).
+    1988—Subsec. (b)(5). [Pub. L. 100–702][/us/pl/100/702], § 802(b), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),”, and added subpar. (B).
 
-    Subsec. (b)(6). [Pub. L. 100–702, § 802(b)][/us/pl/100/702/s802/b], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “specify those groups of persons or occupational classes whose members shall be barred from jury service on the ground that they are exempt. Such groups or classes shall be exempt only if the district court finds, and the plan states, that their exemption is in the public interest and would not be inconsistent with sections 1861 and 1862 of this title. The plan shall provide for exemption of the following persons: (i) members in active service in the Armed Forces of the United States; (ii) members of the fire or police departments of any State, district, territory, possession, or subdivision thereof; (iii) public officers in the executive, legislative, or judicial branches of the Government of the United States, or any State, district, territory, or possession or subdivision thereof, who are actively engaged in the performance of official duties.”
+    Subsec. (b)(6). [Pub. L. 100–702][/us/pl/100/702], § 802(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “specify those groups of persons or occupational classes whose members shall be barred from jury service on the ground that they are exempt. Such groups or classes shall be exempt only if the district court finds, and the plan states, that their exemption is in the public interest and would not be inconsistent with sections 1861 and 1862 of this title. The plan shall provide for exemption of the following persons: (i) members in active service in the Armed Forces of the United States; (ii) members of the fire or police departments of any State, district, territory, possession, or subdivision thereof; (iii) public officers in the executive, legislative, or judicial branches of the Government of the United States, or any State, district, territory, or possession or subdivision thereof, who are actively engaged in the performance of official duties.”
 
     1978—Subsec. (b)(7) to (9). [Pub. L. 95–572][/us/pl/95/572] struck out par. (7) relating to random jury selection plan provision for fixing the distance, in miles or in travel time, from each place of holding court beyond which pro­spective jurors residing should, on individual request, be excused from jury service on the ground of undue hardship in traveling to the place where court was held, now incorporated in definition of “undue hardship or extreme inconvenience” in [section 1869(j) of this title][/us/usc/t28/s1869/j], and redesignated pars. (8) and (9) as (7) and (8), respectively.
 
@@ -122,23 +122,23 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F952
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F54
-[/us/pl/92/269/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F269%2Fs2
+[/us/pl/92/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F269
 [/us/stat/86/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F117
-[/us/pl/95/572/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs2%2Fa
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/stat/92/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2453
-[/us/pl/100/702/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs802%2Fb
+[/us/pl/100/702/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVIII
 [/us/stat/102/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4657
-[/us/pl/102/572/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs401
+[/us/pl/102/572/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIV
 [/us/stat/106/4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4511
-[/us/act/1911-03-03/ch231/s278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs278
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1165
 [/us/usc/t42/s3796b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b%2F8
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/100/702/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs802%2Fb
-[/us/pl/100/702/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs802%2Fb
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/usc/t28/s1869/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1869%2Fj
 [/us/pl/92/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F269

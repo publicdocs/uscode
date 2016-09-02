@@ -73,7 +73,7 @@
 
                 (ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616]; amended [Pub. L. 97–292][/us/pl/97/292], §§ 2, 3(a), Oct. 12, 1982, [96 Stat. 1259][/us/stat/96/1259]; [Pub. L. 100–690, title VII, § 7333][/us/pl/100/690/s7333], Nov. 18, 1988, [102 Stat. 4469][/us/stat/102/4469]; [Pub. L. 103–322, title IV, § 40601(a)][/us/pl/103/322/s40601/a], Sept. 13, 1994, [108 Stat. 1950][/us/stat/108/1950]; [Pub. L. 107–273, div. A, title II, § 204(c)][/us/pl/107/273/s204/c], div. B, title IV, § 4003(b)(4), div. C, title I, § 11004, Nov. 2, 2002, [116 Stat. 1776][/us/stat/116/1776], 1811, 1816; [Pub. L. 109–162, title I, § 118][/us/pl/109/162/s118], title IX, § 905(a), Jan. 5, 2006, [119 Stat. 2989][/us/stat/119/2989], 3079; [Pub. L. 109–248, title I, § 153(i)][/us/pl/109/248/s153/i], July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 111–211, title II, § 233(a)][/us/pl/111/211/s233/a], July 29, 2010, [124 Stat. 2279][/us/stat/124/2279]; [Pub. L. 111–369, § 2][/us/pl/111/369/s2], Jan. 4, 2011, [124 Stat. 4068][/us/stat/124/4068].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616]; amended [Pub. L. 97–292][/us/pl/97/292], §§ 2, 3(a), Oct. 12, 1982, [96 Stat. 1259][/us/stat/96/1259]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7333, Nov. 18, 1988, [102 Stat. 4469][/us/stat/102/4469]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40601(a), Sept. 13, 1994, [108 Stat. 1950][/us/stat/108/1950]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 204(c), div. B, title IV, § 4003(b)(4), div. C, title I, § 11004, Nov. 2, 2002, [116 Stat. 1776][/us/stat/116/1776], 1811, 1816; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 118, title IX, § 905(a), Jan. 5, 2006, [119 Stat. 2989][/us/stat/119/2989], 3079; [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 153(i), July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 233(a), July 29, 2010, [124 Stat. 2279][/us/stat/124/2279]; [Pub. L. 111–369][/us/pl/111/369], § 2, Jan. 4, 2011, [124 Stat. 4068][/us/stat/124/4068].)
 
 <table>
 
@@ -147,47 +147,47 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
     2011—Subsec. (a)(4). [Pub. L. 111–369][/us/pl/111/369] inserted “, including State sentencing commissions” after “, the States”.
 
-    2010—Subsec. (a)(4). [Pub. L. 111–211, § 233(a)(1)][/us/pl/111/211/s233/a/1], inserted “Indian tribes,” after “the States,”.
+    2010—Subsec. (a)(4). [Pub. L. 111–211][/us/pl/111/211], § 233(a)(1), inserted “Indian tribes,” after “the States,”.
 
-    Subsec. (d). [Pub. L. 111–211, § 233(a)(2)][/us/pl/111/211/s233/a/2], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases.”
+    Subsec. (d). [Pub. L. 111–211][/us/pl/111/211], § 233(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases.”
 
-    Subsec. (e). [Pub. L. 111–211, § 233(a)(3)][/us/pl/111/211/s233/a/3], which directed redesignation of “the second subsection (e)” as (f), could not be executed because only one subsec. (e) appeared subsequent to amendment by [Pub. L. 109–248][/us/pl/109/248]. See 2006 Amendment note below.
+    Subsec. (e). [Pub. L. 111–211][/us/pl/111/211], § 233(a)(3), which directed redesignation of “the second subsection (e)” as (f), could not be executed because only one subsec. (e) appeared subsequent to amendment by [Pub. L. 109–248][/us/pl/109/248]. See 2006 Amendment note below.
 
-    Subsec. (f)(2). [Pub. L. 111–211, § 233(a)(4)][/us/pl/111/211/s233/a/4], which directed amendment of par. (2) of subsec. (f) as redesignated by [Pub. L. 111–211][/us/pl/111/211] by inserting “, tribal,” after “Federal” in introductory provisions, was executed by making the insertion in par. (2) of subsec. (f) as redesignated by [Pub. L. 109–248][/us/pl/109/248], to reflect the probable intent of Congress.
+    Subsec. (f)(2). [Pub. L. 111–211][/us/pl/111/211], § 233(a)(4), which directed amendment of par. (2) of subsec. (f) as redesignated by [Pub. L. 111–211][/us/pl/111/211] by inserting “, tribal,” after “Federal” in introductory provisions, was executed by making the insertion in par. (2) of subsec. (f) as redesignated by [Pub. L. 109–248][/us/pl/109/248], to reflect the probable intent of Congress.
 
-    2006—Subsec. (d). [Pub. L. 109–162, § 905(a)(2)][/us/pl/109/162/s905/a/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    2006—Subsec. (d). [Pub. L. 109–162][/us/pl/109/162], § 905(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
     Subsec. (e). [Pub. L. 109–248][/us/pl/109/248] redesignated subsec. (e), relating to information from national crime information databases, as (f).
 
-    [Pub. L. 109–162, § 905(a)(1)][/us/pl/109/162/s905/a/1], redesignated subsec. (d), relating to the term “other institutions”, as (e).
+    [Pub. L. 109–162][/us/pl/109/162], § 905(a)(1), redesignated subsec. (d), relating to the term “other institutions”, as (e).
 
-    Subsec. (e)(3)(B). [Pub. L. 109–162, § 118][/us/pl/109/162/s118], added subpar. (B) and struck out former subpar. (B) which read as follows: “the term ‘protection order’ includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
+    Subsec. (e)(3)(B). [Pub. L. 109–162][/us/pl/109/162], § 118, added subpar. (B) and struck out former subpar. (B) which read as follows: “the term ‘protection order’ includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
 
     Subsec. (f). [Pub. L. 109–248][/us/pl/109/248] redesignated subsec. (e), relating to information from national crime information databases, as (f).
 
     2002—Subsec. (a)(3). [Pub. L. 107–273][/us/pl/107/273], §§ 204(c) and 4003(b)(4), amended par. (3) identically, inserting “and” at end.
 
-    Subsec. (a)(4). [Pub. L. 107–273, § 11004][/us/pl/107/273/s11004], added par. (4) and struck out former par. (4) which read as follows: “exchange such records and information with, and for the official use of, authorized officials of the Federal Government, the States, cities, and penal and other institutions.”
+    Subsec. (a)(4). [Pub. L. 107–273][/us/pl/107/273], § 11004, added par. (4) and struck out former par. (4) which read as follows: “exchange such records and information with, and for the official use of, authorized officials of the Federal Government, the States, cities, and penal and other institutions.”
 
     1994—Subsec. (e). [Pub. L. 103–322][/us/pl/103/322] added subsec. (e).
 
     1988—Subsec. (d). [Pub. L. 100–690][/us/pl/100/690] added subsec. (d).
 
-    1982—[Pub. L. 97–292, § 3(a)][/us/pl/97/292/s3/a], inserted “and information” after “identification records” in section catchline.
+    1982—[Pub. L. 97–292][/us/pl/97/292], § 3(a), inserted “and information” after “identification records” in section catchline.
 
-    Subsec. (a). [Pub. L. 97–292, § 2(a)][/us/pl/97/292/s2/a], added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
+    Subsec. (a). [Pub. L. 97–292][/us/pl/97/292], § 2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
-    Subsec. (b). [Pub. L. 97–292, § 2(b)][/us/pl/97/292/s2/b], substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
+    Subsec. (b). [Pub. L. 97–292][/us/pl/97/292], § 2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
 
  __Regulations__ 
 
-[Pub. L. 103–322, title IV, § 40601(b)][/us/pl/103/322/s40601/b], Sept. 13, 1994, [108 Stat. 1951][/us/stat/108/1951], provided that: 
+[Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40601(b), Sept. 13, 1994, [108 Stat. 1951][/us/stat/108/1951], provided that: 
 
 > “The Attorney General may make rules to carry out the subsection added to [section 534 of title 28][/us/usc/t28/s534], United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board.”
 
  __Access to National Crime Information Databases__ 
 
-[Pub. L. 111–211, title II, § 233(b)][/us/pl/111/211/s233/b], July 29, 2010, [124 Stat. 2279][/us/stat/124/2279], provided that:
+[Pub. L. 111–211, title II][/us/pl/111/211/tII], § 233(b), July 29, 2010, [124 Stat. 2279][/us/stat/124/2279], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -205,7 +205,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __Additional Reporting on Crime__ 
 
-[Pub. L. 110–457, title II, § 237(a)][/us/pl/110/457/s237/a], (b), Dec. 23, 2008, [122 Stat. 5083][/us/stat/122/5083], provided that:
+[Pub. L. 110–457, title II][/us/pl/110/457/tII], § 237(a), (b), Dec. 23, 2008, [122 Stat. 5083][/us/stat/122/5083], provided that:
 
 >     “(a)  __Trafficking Offense Classification__  __.—__ 
 
@@ -243,7 +243,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __Tribal Registry__ 
 
-[Pub. L. 109–162, title IX, § 905(b)][/us/pl/109/162/s905/b], Jan. 5, 2006, [119 Stat. 3080][/us/stat/119/3080], as amended by [Pub. L. 113–4, title IX, § 907(b)][/us/pl/113/4/s907/b], Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
+[Pub. L. 109–162, title IX][/us/pl/109/162/tIX], § 905(b), Jan. 5, 2006, [119 Stat. 3080][/us/stat/119/3080], as amended by [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 907(b), Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -259,7 +259,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __National Gang Intelligence Center__ 
 
-[Pub. L. 109–162, title XI, § 1107][/us/pl/109/162/s1107], Jan. 5, 2006, [119 Stat. 3093][/us/stat/119/3093], as amended by [Pub. L. 111–211, title II, § 251(a)][/us/pl/111/211/s251/a], July 29, 2010, [124 Stat. 2297][/us/stat/124/2297], provided that:
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1107, Jan. 5, 2006, [119 Stat. 3093][/us/stat/119/3093], as amended by [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 251(a), July 29, 2010, [124 Stat. 2297][/us/stat/124/2297], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -313,7 +313,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __Reviews of Criminal Records of Applicants for Private Security Officer Employment__ 
 
-[Pub. L. 108–458, title VI, § 6402][/us/pl/108/458/s6402], Dec. 17, 2004, [118 Stat. 3755][/us/stat/118/3755], provided that:
+[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6402, Dec. 17, 2004, [118 Stat. 3755][/us/stat/118/3755], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -475,7 +475,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __Criminal Background Checks for Applicants for Employment in Nursing Facilities and Home Health Care Agencies__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 124\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–73, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 124\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–73, provided that:
 
 >     “(a)
 
@@ -509,11 +509,11 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __Compilation of Statistics Relating to Intimidation of Government Employees__ 
 
-    [Pub. L. 104–132, title VIII, § 808][/us/pl/104/132/s808], Apr. 24, 1996, [110 Stat. 1310][/us/stat/110/1310], which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by [Pub. L. 107–273, div. A, title III, § 311(a)][/us/pl/107/273/s311/a], Nov. 2, 2002, [116 Stat. 1786][/us/stat/116/1786].
+    [Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 808, Apr. 24, 1996, [110 Stat. 1310][/us/stat/110/1310], which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 311(a), Nov. 2, 2002, [116 Stat. 1786][/us/stat/116/1786].
 
  __National Crime Information Center Project 2000__ 
 
-[Pub. L. 101–647, title VI][/us/pl/101/647], subtitle B, Nov. 29, 1990, [104 Stat. 4823][/us/stat/104/4823], provided that:
+[Pub. L. 101–647, title VI][/us/pl/101/647/tVI], subtitle B, Nov. 29, 1990, [104 Stat. 4823][/us/stat/104/4823], provided that:
 
 > “SEC. 611. __SHORT TITLE.__ 
 
@@ -551,13 +551,13 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __FBI Fees To Process Fingerprint Identification Records and Name Checks__ 
 
-[Pub. L. 101–515, title II][/us/pl/101/515], Nov. 5, 1990, [104 Stat. 2112][/us/stat/104/2112], as amended by section 113 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by [Pub. L. 104–91, title I, § 101(a)][/us/pl/104/91/s101/a], Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], as amended by [Pub. L. 104–99, title II, § 211][/us/pl/104/99/s211], Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37], provided in part that: 
+[Pub. L. 101–515, title II][/us/pl/101/515/tII], Nov. 5, 1990, [104 Stat. 2112][/us/stat/104/2112], as amended by section 113 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by [Pub. L. 104–91, title I][/us/pl/104/91/tI], § 101(a), Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], as amended by [Pub. L. 104–99, title II][/us/pl/104/99/tII], § 211, Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37], provided in part that: 
 
 > “for fiscal year 1991 and hereafter the Director of the Federal Bureau of Investigation may establish and collect fees to process fingerprint identification records and name checks for non-criminal justice, non-law enforcement employment and licensing purposes and for certain employees of private sector contractors with classified Government contracts, and notwithstanding the provisions of [31 U.S.C. 3302][/us/usc/t31/s3302], credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services, and that the Director of the Federal Bureau of Investigation may establish such fees at a level to include an additional amount to establish a fund to remain available until expended to defray expenses for the automation of fingerprint identification and criminal justice information services and associated costs”.
 
  __Hate Crime Statistics__ 
 
-[Pub. L. 101–275][/us/pl/101/275], Apr. 23, 1990, [104 Stat. 140][/us/stat/104/140], as amended by [Pub. L. 103–322, title XXXII, § 320926][/us/pl/103/322/s320926], Sept. 13, 1994, [108 Stat. 2131][/us/stat/108/2131]; [Pub. L. 104–155, § 7][/us/pl/104/155/s7], July 3, 1996, [110 Stat. 1394][/us/stat/110/1394]; [Pub. L. 111–84, div. E, § 4708][/us/pl/111/84/s4708], Oct. 28, 2009, [123 Stat. 2841][/us/stat/123/2841], provided: 
+[Pub. L. 101–275][/us/pl/101/275], Apr. 23, 1990, [104 Stat. 140][/us/stat/104/140], as amended by [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320926, Sept. 13, 1994, [108 Stat. 2131][/us/stat/108/2131]; [Pub. L. 104–155][/us/pl/104/155], § 7, July 3, 1996, [110 Stat. 1394][/us/stat/110/1394]; [Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4708, Oct. 28, 2009, [123 Stat. 2841][/us/stat/123/2841], provided: 
 
 >     “That 
 
@@ -593,7 +593,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __Uniform Federal Crime Reporting Act of 1988__ 
 
-[Pub. L. 100–690, title VII, § 7332][/us/pl/100/690/s7332], Nov. 18, 1988, [102 Stat. 4468][/us/stat/102/4468], provided that:
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7332, Nov. 18, 1988, [102 Stat. 4468][/us/stat/102/4468], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -635,7 +635,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __Family and Domestic Violence; Data Collection and Reporting__ 
 
-[Pub. L. 100–690, title VII, § 7609][/us/pl/100/690/s7609], Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], provided that:
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7609, Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], provided that:
 
 >     “(a)  __Family Violence Reporting__  __.—__ 
 
@@ -677,7 +677,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
  __Funds for Exchange of Identification Records__ 
 
-[Pub. L. 92–544, title II, § 201][/us/pl/92/544/s201], Oct. 25, 1972, [86 Stat. 1115][/us/stat/86/1115], provided that: 
+[Pub. L. 92–544, title II][/us/pl/92/544/tII], § 201, Oct. 25, 1972, [86 Stat. 1115][/us/stat/86/1115], provided that: 
 
 > “The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.”
 
@@ -688,23 +688,23 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F616
 [/us/pl/97/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F292
 [/us/stat/96/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1259
-[/us/pl/100/690/s7333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7333
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4469
-[/us/pl/103/322/s40601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40601%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1950
-[/us/pl/107/273/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs204%2Fc
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1776
-[/us/pl/109/162/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs118
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2989
-[/us/pl/109/248/s153/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs153%2Fi
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F611
-[/us/pl/111/211/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs233%2Fa
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2279
-[/us/pl/111/369/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F369%2Fs2
+[/us/pl/111/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F369
 [/us/stat/124/4068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4068
 [/us/usc/t5/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs300
 [/us/usc/t5/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs300
@@ -712,83 +712,83 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 [/us/stat/64/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1261
 [/us/usc/t28/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs509
 [/us/pl/111/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F369
-[/us/pl/111/211/s233/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs233%2Fa%2F1
-[/us/pl/111/211/s233/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs233%2Fa%2F2
-[/us/pl/111/211/s233/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs233%2Fa%2F3
-[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/111/211/s233/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs233%2Fa%2F4
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/109/162/s905/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs905%2Fa%2F2
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/109/162/s905/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs905%2Fa%2F1
-[/us/pl/109/162/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs118
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/107/273/s11004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11004
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/97/292/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F292%2Fs3%2Fa
-[/us/pl/97/292/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F292%2Fs2%2Fa
-[/us/pl/97/292/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F292%2Fs2%2Fb
-[/us/pl/103/322/s40601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40601%2Fb
+[/us/pl/97/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F292
+[/us/pl/97/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F292
+[/us/pl/97/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F292
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1951
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
-[/us/pl/111/211/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs233%2Fb
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2279
 [/us/pl/111/211/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs233%2Fb
 [/us/pl/111/211/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs203%2Fa
 [/us/usc/t25/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2801
-[/us/pl/110/457/s237/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs237%2Fa
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5083
-[/us/pl/109/162/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs905%2Fb
+[/us/pl/109/162/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtIX
 [/us/stat/119/3080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3080
-[/us/pl/113/4/s907/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs907%2Fb
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F125
-[/us/pl/109/162/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1107
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3093
-[/us/pl/111/211/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs251%2Fa
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2297
-[/us/pl/108/458/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6402
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3755
 [/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/usc/t5/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103%2Fa
-[/us/pl/104/132/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs808
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1310
-[/us/pl/107/273/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs311%2Fa
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1786
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtVI
 [/us/stat/104/4823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4823
-[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
+[/us/pl/101/515/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtII
 [/us/stat/104/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2112
-[/us/pl/104/91/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs101%2Fa
+[/us/pl/104/91/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2FtI
 [/us/stat/110/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F11
-[/us/pl/104/99/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs211
+[/us/pl/104/99/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtII
 [/us/stat/110/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F37
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/pl/101/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F275
 [/us/stat/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F140
-[/us/pl/103/322/s320926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320926
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2131
-[/us/pl/104/155/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F155%2Fs7
+[/us/pl/104/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F155
 [/us/stat/110/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1394
-[/us/pl/111/84/s4708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4708
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2841
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t28/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1651
-[/us/pl/100/690/s7332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7332
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4468
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
-[/us/pl/100/690/s7609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7609
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4517
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
 [/us/pl/100/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F413
 [/us/stat/102/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1101
-[/us/pl/92/544/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544%2Fs201
+[/us/pl/92/544/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544%2FtII
 [/us/stat/86/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1115
 
 

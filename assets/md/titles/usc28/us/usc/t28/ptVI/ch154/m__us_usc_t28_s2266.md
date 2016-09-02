@@ -103,7 +103,7 @@
 
         (5) The Administrative Office of the United States Courts shall submit to Congress an annual report on the compliance by the courts of appeals with the time limitations under this section.
 
-(Added [Pub. L. 104–132, title I, § 107(a)][/us/pl/104/132/s107/a], Apr. 24, 1996, [110 Stat. 1224][/us/stat/110/1224]; amended [Pub. L. 109–177, title V, § 507(e)][/us/pl/109/177/s507/e], Mar. 9, 2006, [120 Stat. 251][/us/stat/120/251].)
+(Added [Pub. L. 104–132, title I][/us/pl/104/132/tI], § 107(a), Apr. 24, 1996, [110 Stat. 1224][/us/stat/110/1224]; amended [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 507(e), Mar. 9, 2006, [120 Stat. 251][/us/stat/120/251].)
 
  __Amendments__ 
 
@@ -120,9 +120,9 @@
 ----------
 ----------
 
-[/us/pl/104/132/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs107%2Fa
+[/us/pl/104/132/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtI
 [/us/stat/110/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1224
-[/us/pl/109/177/s507/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs507%2Fe
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F251
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177

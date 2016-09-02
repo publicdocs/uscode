@@ -17,11 +17,11 @@
 
     The Attorney General or his designee may arbitrate, compromise, or settle any claim cognizable under [section 1346(b) of this title][/us/usc/t28/s1346/b], after the commencement of an action thereon.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 984][/us/stat/62/984]; [Pub. L. 89–506, § 3][/us/pl/89/506/s3], July 18, 1966, [80 Stat. 307][/us/stat/80/307].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 984][/us/stat/62/984]; [Pub. L. 89–506][/us/pl/89/506], § 3, July 18, 1966, [80 Stat. 307][/us/stat/80/307].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 934 ([Aug. 2, 1946, ch. 753, § 413][/us/act/1946-08-02/ch753/s413], [60 Stat. 845][/us/stat/60/845]).
+    Based on title 28, U.S.C., 1940 ed., § 934 ([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 413, [60 Stat. 845][/us/stat/60/845]).
 
     Changes were made in phraseology.
 
@@ -47,9 +47,9 @@
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F984
-[/us/pl/89/506/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs3
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/stat/80/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F307
-[/us/act/1946-08-02/ch753/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs413
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F845
 [/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506

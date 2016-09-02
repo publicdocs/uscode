@@ -23,7 +23,7 @@
 
     Subsection (a) shall not apply with respect to an action or proceeding under subchapter B unless there is a reasonable likelihood that the debt involved exceeds $50,000.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4939][/us/stat/104/4939].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4939][/us/stat/104/4939].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4939
 
 

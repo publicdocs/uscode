@@ -17,7 +17,7 @@
 
     The President may appoint, by and with the advice and consent of the Senate, an Associate Attorney General.
 
-(Added [Pub. L. 95–139, § 1(a)][/us/pl/95/139/s1/a], Oct. 19, 1977, [91 Stat. 1171][/us/stat/91/1171].)
+(Added [Pub. L. 95–139][/us/pl/95/139], § 1(a), Oct. 19, 1977, [91 Stat. 1171][/us/stat/91/1171].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/139/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F139%2Fs1%2Fa
+[/us/pl/95/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F139
 [/us/stat/91/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1171
 
 

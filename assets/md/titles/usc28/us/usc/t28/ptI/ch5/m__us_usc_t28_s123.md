@@ -69,11 +69,11 @@ Western District
 
     The district judge for the Eastern District in office on November 27, 1940, shall hold court in the Northern and Northeastern Divisions. The other judge of that district shall hold the terms of court in the Southern and Winchester Divisions. Each may appoint and remove all officers and employees of the court whose official headquarters are located in the divisions within which he holds court and whose appointments are vested by law in a district judge or chief judge of a district.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 890][/us/stat/62/890]; [Pub. L. 87–36, § 3(e)][/us/pl/87/36/s3/e], May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 87–86][/us/pl/87/86], July 11, 1961, [75 Stat. 203][/us/stat/75/203]; [Pub. L. 91–272, § 12][/us/pl/91/272/s12], June 2, 1970, [84 Stat. 298][/us/stat/84/298]; [Pub. L. 110–406, § 2(a)][/us/pl/110/406/s2/a], Oct. 13, 2008, [122 Stat. 4291][/us/stat/122/4291].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 890][/us/stat/62/890]; [Pub. L. 87–36][/us/pl/87/36], § 3(e), May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 87–86][/us/pl/87/86], July 11, 1961, [75 Stat. 203][/us/stat/75/203]; [Pub. L. 91–272][/us/pl/91/272], § 12, June 2, 1970, [84 Stat. 298][/us/stat/84/298]; [Pub. L. 110–406][/us/pl/110/406], § 2(a), Oct. 13, 2008, [122 Stat. 4291][/us/stat/122/4291].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 188 ([Mar. 3, 1911, ch. 231, § 107][/us/act/1911-03-03/ch231/s107], [36 Stat. 1124][/us/stat/36/1124]; [Aug. 20, 1912, ch. 306][/us/act/1912-08-20/ch306], [37 Stat. 314][/us/stat/37/314]; [June 22, 1916, ch. 161][/us/act/1916-06-22/ch161], [39 Stat. 232][/us/stat/39/232]; [Mar. 4, 1923, ch. 289][/us/act/1923-03-04/ch289], [42 Stat. 1520][/us/stat/42/1520]; [May 17, 1926, ch. 310][/us/act/1926-05-17/ch310], [44 Stat. 561][/us/stat/44/561]; [Mar. 1, 1927, ch. 244][/us/act/1927-03-01/ch244], [44 Stat. 1262][/us/stat/44/1262]; [May 13, 1932, ch. 179][/us/act/1932-05-13/ch179], [47 Stat. 153][/us/stat/47/153]; [June 16, 1933, ch. 94][/us/act/1933-06-16/ch94], [48 Stat. 253][/us/stat/48/253]; [July 30, 1937, ch. 539][/us/act/1937-07-30/ch539], [50 Stat. 546][/us/stat/50/546]; [June 12, 1940, ch. 341][/us/act/1940-06-12/ch341], [54 Stat. 348][/us/stat/54/348]; [Nov. 27, 1940, ch. 920, § 1][/us/act/1940-11-27/ch920/s1], [54 Stat. 1216][/us/stat/54/1216]; [Dec. 3, 1943, ch. 332][/us/act/1943-12-03/ch332], [57 Stat. 595][/us/stat/57/595]).
+    Based on title 28, U.S.C., 1940 ed., § 188 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 107, [36 Stat. 1124][/us/stat/36/1124]; [Aug. 20, 1912, ch. 306][/us/act/1912-08-20/ch306], [37 Stat. 314][/us/stat/37/314]; [June 22, 1916, ch. 161][/us/act/1916-06-22/ch161], [39 Stat. 232][/us/stat/39/232]; [Mar. 4, 1923, ch. 289][/us/act/1923-03-04/ch289], [42 Stat. 1520][/us/stat/42/1520]; [May 17, 1926, ch. 310][/us/act/1926-05-17/ch310], [44 Stat. 561][/us/stat/44/561]; [Mar. 1, 1927, ch. 244][/us/act/1927-03-01/ch244], [44 Stat. 1262][/us/stat/44/1262]; [May 13, 1932, ch. 179][/us/act/1932-05-13/ch179], [47 Stat. 153][/us/stat/47/153]; [June 16, 1933, ch. 94][/us/act/1933-06-16/ch94], [48 Stat. 253][/us/stat/48/253]; [July 30, 1937, ch. 539][/us/act/1937-07-30/ch539], [50 Stat. 546][/us/stat/50/546]; [June 12, 1940, ch. 341][/us/act/1940-06-12/ch341], [54 Stat. 348][/us/stat/54/348]; [Nov. 27, 1940, ch. 920][/us/act/1940-11-27/ch920], § 1, [54 Stat. 1216][/us/stat/54/1216]; [Dec. 3, 1943, ch. 332][/us/act/1943-12-03/ch332], [57 Stat. 595][/us/stat/57/595]).
 
     Words “The said judge shall possess the same powers, perform the same duties, and receive the same compensation as other district judges,” and words, “The President is authorized to appoint, by and with the consent of the Senate, a successor or successors to said judge as vacancies may occur. Nothing herein contained shall be construed to prevent said judge or his successors from becoming the senior district judge by succession, or from exercising the powers and rights of senior district judge of said district. The judge designated herein to hold regular and special terms of court at Winchester and Chattanooga shall make all necessary orders for the disposition of business and assignment of cases for trial in said divisions,” were deleted as superfluous, in view of sections 132 and 141 of this title.
 
@@ -95,19 +95,19 @@ Western District
 
  __Amendments__ 
 
-    2008—Subsec. (c)(1). [Pub. L. 110–406, § 2(a)(1)][/us/pl/110/406/s2/a/1], inserted “Dyer,” after “Decatur,” and “and Dyersburg” after “Jackson”.
+    2008—Subsec. (c)(1). [Pub. L. 110–406][/us/pl/110/406], § 2(a)(1), inserted “Dyer,” after “Decatur,” and “and Dyersburg” after “Jackson”.
 
-    Subsec. (c)(2). [Pub. L. 110–406, § 2(a)(2)][/us/pl/110/406/s2/a/2], struck out “Dyer,” after “counties of” and “and Dyersburg” after “Memphis”.
+    Subsec. (c)(2). [Pub. L. 110–406][/us/pl/110/406], § 2(a)(2), struck out “Dyer,” after “counties of” and “and Dyersburg” after “Memphis”.
 
-    1970—Subsec. (c)(1). [Pub. L. 91–272, § 12(a)][/us/pl/91/272/s12/a], added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
+    1970—Subsec. (c)(1). [Pub. L. 91–272][/us/pl/91/272], § 12(a), added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
 
-    Subsec. (c)(2). [Pub. L. 91–272, § 12(b)][/us/pl/91/272/s12/b], struck out Haywood County from the enumeration of counties comprising the Western Division of the Western District.
+    Subsec. (c)(2). [Pub. L. 91–272][/us/pl/91/272], § 12(b), struck out Haywood County from the enumeration of counties comprising the Western Division of the Western District.
 
     1961—Subsec. (c)(2). [Pub. L. 87–36][/us/pl/87/36], as amended by [Pub. L. 87–86][/us/pl/87/86], provided for holding court at Dyersburg.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–406, § 2(b)][/us/pl/110/406/s2/b], Oct. 13, 2008, [122 Stat. 4291][/us/stat/122/4291], provided that:
+[Pub. L. 110–406][/us/pl/110/406], § 2(b), Oct. 13, 2008, [122 Stat. 4291][/us/stat/122/4291], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -130,15 +130,15 @@ Western District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F890
-[/us/pl/87/36/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36%2Fs3%2Fe
+[/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/stat/75/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F83
 [/us/pl/87/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F86
 [/us/stat/75/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F203
-[/us/pl/91/272/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs12
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/stat/84/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F298
-[/us/pl/110/406/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs2%2Fa
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4291
-[/us/act/1911-03-03/ch231/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs107
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1124
 [/us/act/1912-08-20/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch306
 [/us/stat/37/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F314
@@ -158,20 +158,20 @@ Western District
 [/us/stat/50/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F546
 [/us/act/1940-06-12/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-12%2Fch341
 [/us/stat/54/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F348
-[/us/act/1940-11-27/ch920/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-27%2Fch920%2Fs1
+[/us/act/1940-11-27/ch920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-27%2Fch920
 [/us/stat/54/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1216
 [/us/act/1943-12-03/ch332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-12-03%2Fch332
 [/us/stat/57/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F595
 [/us/usc/t28/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604
 [/us/usc/t28/s188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs188
 [/us/usc/t28/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs142
-[/us/pl/110/406/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs2%2Fa%2F1
-[/us/pl/110/406/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs2%2Fa%2F2
-[/us/pl/91/272/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs12%2Fa
-[/us/pl/91/272/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs12%2Fb
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/pl/87/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F86
-[/us/pl/110/406/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs2%2Fb
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4291
 
 

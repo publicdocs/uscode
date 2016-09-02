@@ -21,7 +21,7 @@
 
     (c) The orders, writs, and process of the district courts may, in the cases specified in subsection (b) and in enforcement actions and actions to collect civil penalties under subtitle IV of title 49, run, be served and be returnable anywhere in the United States.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 969][/us/stat/62/969]; [May 24, 1949, ch. 139, § 115][/us/act/1949-05-24/ch139/s115], [63 Stat. 105][/us/stat/63/105]; [Pub. L. 93–584, § 5][/us/pl/93/584/s5], Jan. 2, 1975, [88 Stat. 1917][/us/stat/88/1917]; [Pub. L. 95–473, § 2(a)(3)(B)][/us/pl/95/473/s2/a/3/B], Oct. 17, 1978, [92 Stat. 1465][/us/stat/92/1465]; [Pub. L. 104–88, title III, § 305(c)(1)(B)][/us/pl/104/88/s305/c/1/B], (C), Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 969][/us/stat/62/969]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 115, [63 Stat. 105][/us/stat/63/105]; [Pub. L. 93–584][/us/pl/93/584], § 5, Jan. 2, 1975, [88 Stat. 1917][/us/stat/88/1917]; [Pub. L. 95–473][/us/pl/95/473], § 2(a)(3)(B), Oct. 17, 1978, [92 Stat. 1465][/us/stat/92/1465]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 305(c)(1)(B), (C), Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945].)
 
  __Historical and Revision Notes__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–584, § 10][/us/pl/93/584/s10], Jan. 2, 1975, [88 Stat. 1918][/us/stat/88/1918], provided that: 
+[Pub. L. 93–584][/us/pl/93/584], § 10, Jan. 2, 1975, [88 Stat. 1918][/us/stat/88/1918], provided that: 
 
 > “This Act \[amending this section, sections 1336, 1398, 2323, 2341, and 2342 of this title, and section 305 of former Title 49, Transportation, and repealing sections 2324 and 2325 of this title\] shall not apply to any action commenced on or before the last day of the first month beginning after the date of enactment \[Jan. 2, 1975\]. However, actions to enjoin or suspend orders of the Interstate Commerce Commission which are pending when this Act becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced.”
 
@@ -72,13 +72,13 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F969
-[/us/act/1949-05-24/ch139/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs115
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F105
-[/us/pl/93/584/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584%2Fs5
+[/us/pl/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584
 [/us/stat/88/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1917
-[/us/pl/95/473/s2/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs2%2Fa%2F3%2FB
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1465
-[/us/pl/104/88/s305/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs305%2Fc%2F1%2FB
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F945
 [/us/act/1913-10-22/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-22%2Fch32
 [/us/stat/38/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F220
@@ -100,7 +100,7 @@
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/93/584/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584%2Fs10
+[/us/pl/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584
 [/us/stat/88/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1918
 
 

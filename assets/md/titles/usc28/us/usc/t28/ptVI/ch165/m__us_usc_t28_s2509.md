@@ -29,11 +29,11 @@
 
     (g) The Court of Federal Claims is hereby authorized and directed, under such regulations as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of congressional reference cases and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of the judges serving as hearing officers and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries and law clerks).
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 977][/us/stat/62/977]; [Pub. L. 89–681, § 2][/us/pl/89/681/s2], Oct. 15, 1966, [80 Stat. 958][/us/stat/80/958]; [Pub. L. 97–164, title I, § 139(h)][/us/pl/97/164/s139/h], Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 102–572, title IX, § 902(a)][/us/pl/102/572/s902/a], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 977][/us/stat/62/977]; [Pub. L. 89–681][/us/pl/89/681], § 2, Oct. 15, 1966, [80 Stat. 958][/us/stat/80/958]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(h), Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 257 ([Mar. 3, 1911, ch. 231, § 151][/us/act/1911-03-03/ch231/s151], [36 Stat. 1138][/us/stat/36/1138]).
+    Based on title 28, U.S.C., 1940 ed., § 257 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 151, [36 Stat. 1138][/us/stat/36/1138]).
 
     Jurisdiction provisions of [section 257 of title 28][/us/usc/t28/s257], U.S.C., 1940 ed., appear in [section 1492 of this title][/us/usc/t28/s1492].
 
@@ -43,23 +43,23 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–572, § 902(a)(1)][/us/pl/102/572/s902/a/1], substituted “United States Court of Federal Claims” for “United States Claims Court”.
+    1992—Subsec. (a). [Pub. L. 102–572][/us/pl/102/572], § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    Subsecs. (b), (f), (g). [Pub. L. 102–572, § 902(a)(2)][/us/pl/102/572/s902/a/2], substituted “Court of Federal Claims” for “Claims Court”.
+    Subsecs. (b), (f), (g). [Pub. L. 102–572][/us/pl/102/572], § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-    1982—Subsec. (a). [Pub. L. 97–164, § 139(h)(1)][/us/pl/97/164/s139/h/1], substituted “chief judge” for “chief commissioner” wherever appearing, “United States Claims Court” for “Court of Claims”, “judge as hearing officer” for “trial commissioner”, “judges” for “commissioners”, and “presiding officer” for “presiding commissioner”.
+    1982—Subsec. (a). [Pub. L. 97–164][/us/pl/97/164], § 139(h)(1), substituted “chief judge” for “chief commissioner” wherever appearing, “United States Claims Court” for “Court of Claims”, “judge as hearing officer” for “trial commissioner”, “judges” for “commissioners”, and “presiding officer” for “presiding commissioner”.
 
-    Subsec. (b). [Pub. L. 97–164, § 139(h)(2)(A)][/us/pl/97/164/s139/h/2/A]–(C), substituted “chief judge” for “chief commissioner”, “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner”.
+    Subsec. (b). [Pub. L. 97–164][/us/pl/97/164], § 139(h)(2)(A)–(C), substituted “chief judge” for “chief commissioner”, “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner”.
 
-    Subsec. (c). [Pub. L. 97–164, § 139(h)(2)(A)][/us/pl/97/164/s139/h/2/A], (B), substituted “hearing officer” for “trial commissioner” and “chief judge” for “chief commissioner”.
+    Subsec. (c). [Pub. L. 97–164][/us/pl/97/164], § 139(h)(2)(A), (B), substituted “hearing officer” for “trial commissioner” and “chief judge” for “chief commissioner”.
 
-    Subsec. (d). [Pub. L. 97–164, § 139(h)(2)(A)][/us/pl/97/164/s139/h/2/A], (D), substituted “hearing officer” for “trial commissioner” wherever appearing and struck out “of commissioners” after “review panel”.
+    Subsec. (d). [Pub. L. 97–164][/us/pl/97/164], § 139(h)(2)(A), (D), substituted “hearing officer” for “trial commissioner” wherever appearing and struck out “of commissioners” after “review panel”.
 
-    Subsec. (e). [Pub. L. 97–164, § 139(h)(2)(B)][/us/pl/97/164/s139/h/2/B], substituted “chief judge” for “chief commissioner”.
+    Subsec. (e). [Pub. L. 97–164][/us/pl/97/164], § 139(h)(2)(B), substituted “chief judge” for “chief commissioner”.
 
-    Subsec. (f). [Pub. L. 97–164, § 139(h)(2)(A)][/us/pl/97/164/s139/h/2/A], (C), substituted “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner” wherever appearing.
+    Subsec. (f). [Pub. L. 97–164][/us/pl/97/164], § 139(h)(2)(A), (C), substituted “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner” wherever appearing.
 
-    Subsec. (g). [Pub. L. 97–164, § 139(h)(2)(C)][/us/pl/97/164/s139/h/2/C], (E), substituted “Claims Court” for “Court of Claims” and “judges serving as hearing officers” for “commissioners serving as trial commissioners”.
+    Subsec. (g). [Pub. L. 97–164][/us/pl/97/164], § 139(h)(2)(C), (E), substituted “Claims Court” for “Court of Claims” and “judges serving as hearing officers” for “commissioners serving as trial commissioners”.
 
     1966—[Pub. L. 89–681][/us/pl/89/681] substituted provisions for reference of bills to the chief commissioner of the Court of Claims pursuant to [section 1492 of this title][/us/usc/t28/s1492] for provisions calling simply for reference to the Court of Claims, substituted provisions naming the trial commissioner to whom a reference case is assigned by the chief commissioner for provisions simply naming the Court of Claims as the agency by which findings and conclusions are made, and inserted provisions for the designation of a trial commissioner and reviewing body consisting of three other commissioners, the promulgation of rules and regulations for Congressional reference cases by the chief commissioner, the procedure to be followed, and the supplying of facilities and personnel for the dispatch of Congressional reference cases.
 
@@ -81,25 +81,25 @@
 [/us/usc/t28/s1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1492
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F977
-[/us/pl/89/681/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F681%2Fs2
+[/us/pl/89/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F681
 [/us/stat/80/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F958
-[/us/pl/97/164/s139/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fh
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F42
-[/us/pl/102/572/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1911-03-03/ch231/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs151
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1138
 [/us/usc/t28/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs257
 [/us/usc/t28/s1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1492
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
-[/us/pl/102/572/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F2
-[/us/pl/97/164/s139/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fh%2F1
-[/us/pl/97/164/s139/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fh%2F2%2FA
-[/us/pl/97/164/s139/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fh%2F2%2FA
-[/us/pl/97/164/s139/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fh%2F2%2FA
-[/us/pl/97/164/s139/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fh%2F2%2FB
-[/us/pl/97/164/s139/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fh%2F2%2FA
-[/us/pl/97/164/s139/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fh%2F2%2FC
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/89/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F681
 [/us/usc/t28/s1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1492
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

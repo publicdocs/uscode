@@ -223,7 +223,7 @@
 
         The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
 
-(Added [Pub. L. 95–521, title VI, § 601(a)][/us/pl/95/521/s601/a], Oct. 26, 1978, [92 Stat. 1869][/us/stat/92/1869]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1), 6(a)–(c), Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2041; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1300][/us/stat/101/1300]; [Pub. L. 103–270, § 3(a)][/us/pl/103/270/s3/a]–(f), (m), (o), June 30, 1994, [108 Stat. 732–734][/us/stat/108/732-734], 736; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 118\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–23; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Added [Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 601(a), Oct. 26, 1978, [92 Stat. 1869][/us/stat/92/1869]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1), 6(a)–(c), Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2041; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–191][/us/pl/100/191], § 2, Dec. 15, 1987, [101 Stat. 1300][/us/stat/101/1300]; [Pub. L. 103–270][/us/pl/103/270], § 3(a)–(f), (m), (o), June 30, 1994, [108 Stat. 732–734][/us/stat/108/732-734], 736; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 118\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–23; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -235,43 +235,43 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b)(3)(A). [Pub. L. 104–208, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (l)(1)(A)(iii) certifies”.
+    1996—Subsec. (b)(3)(A). [Pub. L. 104–208][/us/pl/104/208], § 101(a) \[title I, § 118(a), (b)\], in second sentence substituted “for successive 6-month periods” for “by 6-months” and “independent counsel and the division of the court certify” for “employee assigned duties under subsection (l)(1)(A)(iii) certifies”.
 
-    Subsec. (b)(3)(B). [Pub. L. 104–208, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 118(c)\], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking “such employee” and inserting “the independent counsel” and “the division of the court”, was executed to introductory provisions of subsec. (b)(3)(B) by substituting “the independent counsel and the division of the court” for “such employee” to reflect the probable intent of Congress.
+    Subsec. (b)(3)(B). [Pub. L. 104–208][/us/pl/104/208], § 101(a) \[title I, § 118(c)\], which directed the amendment of second sentence of subsec. (b)(3)(A) by striking “such employee” and inserting “the independent counsel” and “the division of the court”, was executed to introductory provisions of subsec. (b)(3)(B) by substituting “the independent counsel and the division of the court” for “such employee” to reflect the probable intent of Congress.
 
-    1994—Subsec. (b). [Pub. L. 103–270, § 3(b)][/us/pl/103/270/s3/b], designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
+    1994—Subsec. (b). [Pub. L. 103–270][/us/pl/103/270], § 3(b), designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
-    Subsec. (c). [Pub. L. 103–270, § 3(c)][/us/pl/103/270/s3/c], substituted last sentence for former last sentence which read as follows: “No such employee may be compensated at a rate exceeding the maximum rate of pay payable for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].”
+    Subsec. (c). [Pub. L. 103–270][/us/pl/103/270], § 3(c), substituted last sentence for former last sentence which read as follows: “No such employee may be compensated at a rate exceeding the maximum rate of pay payable for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].”
 
-    Subsec. (d)(1). [Pub. L. 103–270, § 3(m)][/us/pl/103/270/s3/m], inserted at end “At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.”
+    Subsec. (d)(1). [Pub. L. 103–270][/us/pl/103/270], § 3(m), inserted at end “At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.”
 
-    Subsec. (f). [Pub. L. 103–270, § 3(e)][/us/pl/103/270/s3/e], designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
+    Subsec. (f). [Pub. L. 103–270][/us/pl/103/270], § 3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (l)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
 
-    Subsec. (h)(1)(B). [Pub. L. 103–270, § 3][/us/pl/103/270/s3](o), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
+    Subsec. (h)(1)(B). [Pub. L. 103–270][/us/pl/103/270], § 3(o), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
 
-    Subsec. (h)(3). [Pub. L. 103–270, § 3(f)][/us/pl/103/270/s3/f], added par. (3).
+    Subsec. (h)(3). [Pub. L. 103–270][/us/pl/103/270], § 3(f), added par. (3).
 
-    Subsec. (j)(5). [Pub. L. 103–270, § 3(d)][/us/pl/103/270/s3/d], added par. (5).
+    Subsec. (j)(5). [Pub. L. 103–270][/us/pl/103/270], § 3(d), added par. (5).
 
-    Subsec. (l). [Pub. L. 103–270, § 3(a)][/us/pl/103/270/s3/a], added subsec. (l).
+    Subsec. (l). [Pub. L. 103–270][/us/pl/103/270], § 3(a), added subsec. (l).
 
     1987—[Pub. L. 100–191][/us/pl/100/191] amended section generally, substituting subsecs. (a) to (k) for former subsecs. (a) to (g) which related to similar subject matter.
 
     1986—Subsec. (a)(8). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1983—[Pub. L. 97–409, § 2(a)(1)(A)][/us/pl/97/409/s2/a/1/A], substituted “independent counsel” for “special prosecutor” in section catchline.
+    1983—[Pub. L. 97–409][/us/pl/97/409], § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
 
-    Subsec. (a). [Pub. L. 97–409, § 2(a)(1)][/us/pl/97/409/s2/a/1], substituted “independent counsel” for “special prosecutor” wherever appearing and “independent counsel’s” for “special prosecutor’s”.
+    Subsec. (a). [Pub. L. 97–409][/us/pl/97/409], § 2(a)(1), substituted “independent counsel” for “special prosecutor” wherever appearing and “independent counsel’s” for “special prosecutor’s”.
 
-    Subsec. (a)(10). [Pub. L. 97–409, § 6(a)][/us/pl/97/409/s6/a], added par. (10).
+    Subsec. (a)(10). [Pub. L. 97–409][/us/pl/97/409], § 6(a), added par. (10).
 
-    Subsecs. (b), (c). [Pub. L. 97–409, § 2(a)(1)(A)][/us/pl/97/409/s2/a/1/A], substituted “independent counsel” for “special prosecutor” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 97–409][/us/pl/97/409], § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 
-    Subsecs. (d), (e). [Pub. L. 97–409, § 2(a)(1)][/us/pl/97/409/s2/a/1], substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 97–409][/us/pl/97/409], § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
 
     Subsec. (f). [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1)(A), 6(b), substituted “independent counsel” for “special prosecutor”, “except where not possible” for “to the extent that such special prosecutor deems appropriate”, and “written or other established policies” for “written policies”.
 
-    Subsec. (g). [Pub. L. 97–409, § 6(c)][/us/pl/97/409/s6/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 97–409][/us/pl/97/409], § 6(c), added subsec. (g).
 
  __Change of Name__ 
 
@@ -298,42 +298,42 @@
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t31/s3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3528
-[/us/pl/95/521/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs601%2Fa
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1869
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/stat/96/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2039
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs2
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1300
-[/us/pl/103/270/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fa
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/stat/108/732-734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F732-734
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
-[/us/pl/103/270/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fb
-[/us/pl/103/270/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fc
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/103/270/s3/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fm
-[/us/pl/103/270/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fe
-[/us/pl/103/270/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3
-[/us/pl/103/270/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Ff
-[/us/pl/103/270/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fd
-[/us/pl/103/270/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fa
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/97/409/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1%2FA
-[/us/pl/97/409/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1
-[/us/pl/97/409/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs6%2Fa
-[/us/pl/97/409/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1%2FA
-[/us/pl/97/409/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
-[/us/pl/97/409/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs6%2Fc
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270

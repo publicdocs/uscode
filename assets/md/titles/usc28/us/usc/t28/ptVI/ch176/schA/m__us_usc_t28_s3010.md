@@ -27,7 +27,7 @@
 
         (2) the term “qualified retirement arrangement” means a plan qualified under section 401(a), 403(a), or 409 of the Internal Revenue Code of 1986 or a plan that is subject to the requirements of section 205 of the Employee Retirement Income Security Act of 1974.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4937][/us/stat/104/4937].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4937][/us/stat/104/4937].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4937
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
 

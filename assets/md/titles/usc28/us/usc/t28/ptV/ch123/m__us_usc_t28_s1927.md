@@ -17,7 +17,7 @@
 
     Any attorney or other person admitted to conduct cases in any court of the United States or any Territory thereof who so multiplies the proceedings in any case unreasonably and vexatiously may be required by the court to satisfy personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 957][/us/stat/62/957]; [Pub. L. 96–349, § 3][/us/pl/96/349/s3], Sept. 12, 1980, [94 Stat. 1156][/us/stat/94/1156].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 957][/us/stat/62/957]; [Pub. L. 96–349][/us/pl/96/349], § 3, Sept. 12, 1980, [94 Stat. 1156][/us/stat/94/1156].)
 
  __Historical and Revision Notes__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F957
-[/us/pl/96/349/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs3
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/stat/94/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1156
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 [/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349

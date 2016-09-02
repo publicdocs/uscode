@@ -53,17 +53,17 @@
 
     Nothing in this section affects the authority of the courts with respect to moneys deposited with the courts under chapter 129 of this title.
 
-(Added [Pub. L. 106–518, title III, § 304(a)][/us/pl/106/518/s304/a], Nov. 13, 2000, [114 Stat. 2417][/us/stat/114/2417].)
+(Added [Pub. L. 106–518, title III][/us/pl/106/518/tIII], § 304(a), Nov. 13, 2000, [114 Stat. 2417][/us/stat/114/2417].)
 
  __Construction__ 
 
-[Pub. L. 106–518, title III, § 304(c)][/us/pl/106/518/s304/c], Nov. 13, 2000, [114 Stat. 2418][/us/stat/114/2418], provided that: 
+[Pub. L. 106–518, title III][/us/pl/106/518/tIII], § 304(c), Nov. 13, 2000, [114 Stat. 2418][/us/stat/114/2418], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall not be construed to authorize the hiring of any Federal officer or employee.”
 
  __Similar Provisions__ 
 
-[Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title III, § 304\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–83, provided that:
+[Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 304\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–83, provided that:
 
 >     “(a) The Director of the Administrative Office of the United States Courts (the Director) may designate in writing officers and employees of the judicial branch of the United States Government, including the courts as defined in [section 610 of title 28][/us/usc/t28/s610], United States Code, but excluding the Supreme Court, to be disbursing officers in such numbers and locations as the Director considers necessary. These disbursing officers will: (1) disburse moneys appropriated to the judicial branch and other funds only in strict accordance with payment requests certified by the Director or in accordance with subsection (b) of this section; (2) examine payment requests as necessary to ascertain whether they are in proper form, certified, and approved; and (3) be held accountable as provided by law. However, a disbursing officer will not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate for which a certifying officer is responsible under subsection (b) of this section.
 
@@ -88,11 +88,11 @@
 ----------
 ----------
 
-[/us/pl/106/518/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs304%2Fa
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2417
-[/us/pl/106/518/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs304%2Fc
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2418
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/usc/t28/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs610
 [/us/usc/t28/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs610

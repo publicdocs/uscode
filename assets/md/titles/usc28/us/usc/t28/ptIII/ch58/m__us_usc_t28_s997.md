@@ -17,7 +17,7 @@
 
     The Commission shall report annually to the Judicial Conference of the United States, the Congress, and the President of the United States on the activities of the Commission.
 
-(Added [Pub. L. 98–473, title II, § 217(a)][/us/pl/98/473/s217/a], Oct. 12, 1984, [98 Stat. 2026][/us/stat/98/2026].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 217(a), Oct. 12, 1984, [98 Stat. 2026][/us/stat/98/2026].)
 
  __Termination of Reporting Requirements__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs217%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2026
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

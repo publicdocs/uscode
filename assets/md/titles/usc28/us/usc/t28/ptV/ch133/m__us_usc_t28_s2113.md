@@ -17,7 +17,7 @@
 
     For purposes of this chapter, the terms “State court”, “State courts”, and “highest court of a State” include the District of Columbia Court of Appeals.
 
-(Added [Pub. L. 91–358, title I, § 172(a)(2)(A)][/us/pl/91/358/s172/a/2/A], July 29, 1970, [84 Stat. 590][/us/stat/84/590].)
+(Added [Pub. L. 91–358, title I][/us/pl/91/358/tI], § 172(a)(2)(A), July 29, 1970, [84 Stat. 590][/us/stat/84/590].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/358/s172/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs172%2Fa%2F2%2FA
+[/us/pl/91/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtI
 [/us/stat/84/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F590
 [/us/pl/91/358/s199/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs199%2Fa
 [/us/usc/t28/s1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257

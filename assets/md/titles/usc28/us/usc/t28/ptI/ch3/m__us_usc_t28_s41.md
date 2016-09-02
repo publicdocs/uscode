@@ -189,15 +189,15 @@
 
     </table>
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 870][/us/stat/62/870]; [Oct. 31, 1951, ch. 655, § 34][/us/act/1951-10-31/ch655/s34], [65 Stat. 723][/us/stat/65/723]; [Pub. L. 96–452, § 2][/us/pl/96/452/s2], Oct. 14, 1980, [94 Stat. 1994][/us/stat/94/1994]; [Pub. L. 97–164, title I, § 101][/us/pl/97/164/s101], Apr. 2, 1982, [96 Stat. 25][/us/stat/96/25].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 870][/us/stat/62/870]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 34, [65 Stat. 723][/us/stat/65/723]; [Pub. L. 96–452][/us/pl/96/452], § 2, Oct. 14, 1980, [94 Stat. 1994][/us/stat/94/1994]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 101, Apr. 2, 1982, [96 Stat. 25][/us/stat/96/25].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C. 1940 ed., § 211, and [section 864 of title 48][/us/usc/t48/s864], U.S.C., 1940 ed., Territories and Insular Possessions ([Apr. 12, 1900, ch. 191, § 35][/us/act/1900-04-12/ch191/s35], [31 Stat. 85][/us/stat/31/85]; [Mar. 3, 1911, ch. 231, § 116][/us/act/1911-03-03/ch231/s116], [36 Stat. 1131][/us/stat/36/1131]; [Jan. 28, 1915, ch. 22][/us/act/1915-01-28/ch22], §§ 1, 2, [38 Stat. 803][/us/stat/38/803]; [Mar. 2, 1917, ch. 145, § 42][/us/act/1917-03-02/ch145/s42], [39 Stat. 966][/us/stat/39/966]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], §§ 1, 13, [43 Stat. 936][/us/stat/43/936], 942; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]; [Feb. 28, 1929, ch. 363, § 1][/us/act/1929-02-28/ch363/s1], [45 Stat. 1346][/us/stat/45/1346]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]).
+    Based on title 28, U.S.C. 1940 ed., § 211, and [section 864 of title 48][/us/usc/t48/s864], U.S.C., 1940 ed., Territories and Insular Possessions ([Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 35, [31 Stat. 85][/us/stat/31/85]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 116, [36 Stat. 1131][/us/stat/36/1131]; [Jan. 28, 1915, ch. 22][/us/act/1915-01-28/ch22], §§ 1, 2, [38 Stat. 803][/us/stat/38/803]; [Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], § 42, [39 Stat. 966][/us/stat/39/966]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], §§ 1, 13, [43 Stat. 936][/us/stat/43/936], 942; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]; [Feb. 28, 1929, ch. 363][/us/act/1929-02-28/ch363], § 1, [45 Stat. 1346][/us/stat/45/1346]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]).
 
     Form of section was simplified.
 
-    The District of Columbia was added as a separate circuit. This is in accord with the decision of the Supreme Court of the United States which held the Court of Appeals for the District of Columbia to be a circuit court of appeals within the Transfer [Act of Sept. 14, 1922, ch. 305][/us/act/1922-09-14/ch305], [42 Stat. 837][/us/stat/42/837], incorporated in the Judicial Code as § 238(a), but repealed by [act Feb. 13, 1925, ch. 229, § 13][/us/act/1925-02-13/ch229/s13], [43 Stat. 942][/us/stat/43/942]. (See Swift and Co. v. U.S., 1928, 48 S.Ct. 311, 276 U.S. 311, 72 L.Ed. 587.)
+    The District of Columbia was added as a separate circuit. This is in accord with the decision of the Supreme Court of the United States which held the Court of Appeals for the District of Columbia to be a circuit court of appeals within the Transfer [Act of Sept. 14, 1922, ch. 305][/us/act/1922-09-14/ch305], [42 Stat. 837][/us/stat/42/837], incorporated in the Judicial Code as § 238(a), but repealed by [act Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 13, [43 Stat. 942][/us/stat/43/942]. (See Swift and Co. v. U.S., 1928, 48 S.Ct. 311, 276 U.S. 311, 72 L.Ed. 587.)
 
     In recognizing the District of Columbia as a separate circuit, the Supreme Court recently used this language: “\* \* \* the eleven circuits forming the single federal judicature \* \* \*”. Comm’r. v. Bedford’s Estate, 65 S.Ct. 1157, at page 1160, 325 U.S. 283, 89 L.Ed. 611.
 
@@ -227,17 +227,17 @@ See also the following acts recognizing the Court of Appeals for the District of
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–452, § 12][/us/pl/96/452/s12], Oct. 14, 1980, [94 Stat. 1996][/us/stat/94/1996], provided that: 
+[Pub. L. 96–452][/us/pl/96/452], § 12, Oct. 14, 1980, [94 Stat. 1996][/us/stat/94/1996], provided that: 
 
 > “This Act and the amendments made by this Act \[amending this section and sections 44 and 48 of this title, and enacting provisions set out as notes under this section\] shall take effect on October 1, 1981.”
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70/tII], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
  __Commission on Structural Alternatives for the Federal Courts of Appeals__ 
 
-    [Pub. L. 105–119, title III, § 305][/us/pl/105/119/s305], Nov. 26, 1997, [111 Stat. 2491][/us/stat/111/2491], established Commission on Structural Alternatives for the Federal Courts of Appeals, directed Commission to study division of United States into judicial circuits, study structure and alignment of Federal Court of Appeals system, and report to President and Congress its recommendations of changes needed to expeditiously and effectively dispose of caseload of Federal Courts of Appeals, consistent with fundamental concepts of fairness and due process, provided for Commission’s membership and compensation of members and staff, authorized appropriations, and provided for termination of Commission 90 days after submission of its report.
+    [Pub. L. 105–119, title III][/us/pl/105/119/tIII], § 305, Nov. 26, 1997, [111 Stat. 2491][/us/stat/111/2491], established Commission on Structural Alternatives for the Federal Courts of Appeals, directed Commission to study division of United States into judicial circuits, study structure and alignment of Federal Court of Appeals system, and report to President and Congress its recommendations of changes needed to expeditiously and effectively dispose of caseload of Federal Courts of Appeals, consistent with fundamental concepts of fairness and due process, provided for Commission’s membership and compensation of members and staff, authorized appropriations, and provided for termination of Commission 90 days after submission of its report.
 
  __Assignment of Judges and Procedure for Administration of Pending Cases With Regard to Reorganization of the Fifth Circuit Court of Appeals__ 
 
@@ -287,19 +287,19 @@ Sections 5 to 10 of [Pub. L. 96–452][/us/pl/96/452] provided that:
 
  __Administrative Action by Fifth Circuit Court of Appeals; Termination of Court__ 
 
-[Pub. L. 96–452, § 11][/us/pl/96/452/s11], Oct. 14, 1980, [94 Stat. 1996][/us/stat/94/1996], provided that: 
+[Pub. L. 96–452][/us/pl/96/452], § 11, Oct. 14, 1980, [94 Stat. 1996][/us/stat/94/1996], provided that: 
 
 > “The court of appeals for the fifth circuit as constituted on the day before the effective date of this Act \[Oct. 1, 1981\] may take such administrative action as may be required to carry out this Act \[amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section\]. Such court shall cease to exist for administrative purposes on July 1, 1984.”
 
  __Appeals Court Administrative Units__ 
 
-[Pub. L. 95–486, § 6][/us/pl/95/486/s6], Oct. 20, 1978, [92 Stat. 1633][/us/stat/92/1633], provided that: 
+[Pub. L. 95–486][/us/pl/95/486], § 6, Oct. 20, 1978, [92 Stat. 1633][/us/stat/92/1633], provided that: 
 
 > “Any court of appeals having more than 15 active judges may constitute itself into administrative units complete with such facilities and staff as may be prescribed by the Administrative Office of the United States Courts, and may perform its en banc function by such number of members of its en banc courts as may be prescribed by rule of the court of appeals.”
 
  __Northern Mariana Islands__ 
 
-    [Pub. L. 95–157, § 1(a)][/us/pl/95/157/s1/a], Nov. 8, 1977, [91 Stat. 1265][/us/stat/91/1265], provided that the Northern Mariana Islands be part of the same judicial circuit as Guam, i.e., the Ninth Circuit. See [section 1694(a) of Title 48][/us/usc/t48/s1694/a], Territories and Insular Possessions.
+    [Pub. L. 95–157][/us/pl/95/157], § 1(a), Nov. 8, 1977, [91 Stat. 1265][/us/stat/91/1265], provided that the Northern Mariana Islands be part of the same judicial circuit as Guam, i.e., the Ninth Circuit. See [section 1694(a) of Title 48][/us/usc/t48/s1694/a], Territories and Insular Possessions.
 
  __Commission on Revision of the Federal Appellate System__ 
 
@@ -307,7 +307,7 @@ Sections 5 to 10 of [Pub. L. 96–452][/us/pl/96/452] provided that:
 
  __Continuation of Organization of Court__ 
 
-    [Act June 25, 1948, ch. 646, § 2(b)][/us/act/1948-06-25/ch646/s2/b], [62 Stat. 985][/us/stat/62/985], provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
+    [Act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 2(b), [62 Stat. 985][/us/stat/62/985], provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
 
 ----------
 
@@ -318,32 +318,32 @@ Sections 5 to 10 of [Pub. L. 96–452][/us/pl/96/452] provided that:
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F870
-[/us/act/1951-10-31/ch655/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs34
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F723
-[/us/pl/96/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452%2Fs2
+[/us/pl/96/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452
 [/us/stat/94/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1994
-[/us/pl/97/164/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs101
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F25
 [/us/usc/t48/s864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs864
-[/us/act/1900-04-12/ch191/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs35
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F85
-[/us/act/1911-03-03/ch231/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs116
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1131
 [/us/act/1915-01-28/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch22
 [/us/stat/38/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F803
-[/us/act/1917-03-02/ch145/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs42
+[/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F966
 [/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F936
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
-[/us/act/1929-02-28/ch363/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch363%2Fs1
+[/us/act/1929-02-28/ch363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch363
 [/us/stat/45/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1346
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
 [/us/act/1922-09-14/ch305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch305
 [/us/stat/42/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F837
-[/us/act/1925-02-13/ch229/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs13
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F942
 [/us/usc/t28/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs17
 [/us/act/1944-12-23/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-23%2Fch724
@@ -381,25 +381,25 @@ Sections 5 to 10 of [Pub. L. 96–452][/us/pl/96/452] provided that:
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/96/452/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452%2Fs12
+[/us/pl/96/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452
 [/us/stat/94/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1996
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
-[/us/pl/105/119/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs305
+[/us/pl/105/119/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtIII
 [/us/stat/111/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2491
 [/us/pl/96/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452
-[/us/pl/96/452/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452%2Fs11
+[/us/pl/96/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452
 [/us/stat/94/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1996
-[/us/pl/95/486/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486%2Fs6
+[/us/pl/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486
 [/us/stat/92/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1633
-[/us/pl/95/157/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157%2Fs1%2Fa
+[/us/pl/95/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F157
 [/us/stat/91/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1265
 [/us/usc/t48/s1694/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1694%2Fa
 [/us/pl/92/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F489
 [/us/stat/86/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F807
 [/us/pl/93/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F420
 [/us/stat/88/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1153
-[/us/act/1948-06-25/ch646/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs2%2Fb
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F985
 
 

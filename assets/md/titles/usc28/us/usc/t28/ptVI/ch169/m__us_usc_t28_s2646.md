@@ -17,7 +17,7 @@
 
     After the Court of International Trade has rendered a judgment or order, the court may, upon the motion of a party or upon its own motion, grant a retrial or rehearing, as the case may be. A motion of a party or the court shall be made not later than thirty days after the date of entry of the judgment or order.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1739][/us/stat/94/1739].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1739][/us/stat/94/1739].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1739
 
 

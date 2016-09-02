@@ -73,7 +73,7 @@
 
     (e) If the right to a jury trial applies in a proceeding that may be heard under this section by a bankruptcy judge, the bankruptcy judge may conduct the jury trial if specially designated to exercise such jurisdiction by the district court and with the express consent of all the parties.
 
-(Added [Pub. L. 98–353, title I, § 104(a)][/us/pl/98/353/s104/a], July 10, 1984, [98 Stat. 340][/us/stat/98/340]; amended [Pub. L. 99–554, title I][/us/pl/99/554], §§ 143, 144(b), Oct. 27, 1986, [100 Stat. 3096][/us/stat/100/3096]; [Pub. L. 103–394, title I, § 112][/us/pl/103/394/s112], Oct. 22, 1994, [108 Stat. 4117][/us/stat/108/4117]; [Pub. L. 109–8, title VIII, § 802(c)(1)][/us/pl/109/8/s802/c/1], Apr. 20, 2005, [119 Stat. 145][/us/stat/119/145].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 104(a), July 10, 1984, [98 Stat. 340][/us/stat/98/340]; amended [Pub. L. 99–554, title I][/us/pl/99/554/tI], §§ 143, 144(b), Oct. 27, 1986, [100 Stat. 3096][/us/stat/100/3096]; [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 112, Oct. 22, 1994, [108 Stat. 4117][/us/stat/108/4117]; [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 802(c)(1), Apr. 20, 2005, [119 Stat. 145][/us/stat/119/145].)
 
  __Constitutionality__ 
 
@@ -109,13 +109,13 @@ For information regarding constitutionality of certain provisions of this sectio
 [/us/usc/t28/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs158
 [/us/usc/t28/s157/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs157%2Fb%2F2%2FB
 [/us/usc/t28/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs158
-[/us/pl/98/353/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs104%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F340
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtI
 [/us/stat/100/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3096
-[/us/pl/103/394/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs112
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4117
-[/us/pl/109/8/s802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fc%2F1
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F145
 [/us/pl/98/353/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs104%2Fa
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

@@ -23,7 +23,7 @@
 
     (d) The Court of International Trade may prescribe by rule that any summons, pleading, or other paper mailed by registered or certified mail properly addressed to the clerk of the court with the proper postage affixed and return receipt requested shall be deemed filed as of the date of mailing.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1732][/us/stat/94/1732].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1732][/us/stat/94/1732].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2632, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 980][/us/stat/62/980]; June 2, 1970, [Pub. L. 91–271, title I, § 113][/us/pl/91/271/s113], [84 Stat. 279][/us/stat/84/279]; Jan. 3, 1975, [Pub. L. 93–618, title III, § 321(f)(3)][/us/pl/93/618/s321/f/3], [88 Stat. 2048][/us/stat/88/2048]; July 26, 1979, [Pub. L. 96–39, title X, § 1001(b)(4)(C)][/us/pl/96/39/s1001/b/4/C], [93 Stat. 306][/us/stat/93/306], related to Customs Court procedure and fees, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2633 of this title][/us/usc/t28/s2633].
+    A prior section 2632, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 980][/us/stat/62/980]; June 2, 1970, [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 113, [84 Stat. 279][/us/stat/84/279]; Jan. 3, 1975, [Pub. L. 93–618, title III][/us/pl/93/618/tIII], § 321(f)(3), [88 Stat. 2048][/us/stat/88/2048]; July 26, 1979, [Pub. L. 96–39, title X][/us/pl/96/39/tX], § 1001(b)(4)(C), [93 Stat. 306][/us/stat/93/306], related to Customs Court procedure and fees, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2633 of this title][/us/usc/t28/s2633].
 
  __Effective Date__ 
 
@@ -46,16 +46,16 @@
 ----------
 ----------
 
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1732
 [/us/usc/t19/s1516a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F980
-[/us/pl/91/271/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs113
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F279
-[/us/pl/93/618/s321/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs321%2Ff%2F3
+[/us/pl/93/618/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtIII
 [/us/stat/88/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2048
-[/us/pl/96/39/s1001/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F4%2FC
+[/us/pl/96/39/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtX
 [/us/stat/93/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F306
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2633

@@ -19,11 +19,11 @@
 
     Papers of any court established by Act of Congress which have become obsolete and are no longer necessary or useful, may be disposed of with the approval of the court concerned in the manner provided by sections 366–380 of Title 44 and in accordance with the rules of the Judicial Conference of the United States.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 908][/us/stat/62/908]; [Pub. L. 95–598, title II, § 216][/us/pl/95/598/s216], Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 908][/us/stat/62/908]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 216, Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 10, 523a, 523b, ([Mar. 3, 1911, ch. 231, § 6][/us/act/1911-03-03/ch231/s6], [36 Stat. 1088][/us/stat/36/1088]; [June 3, 1930, ch. 396][/us/act/1930-06-03/ch396], §§ 1, 2, [46 Stat. 496][/us/stat/46/496]).
+    Based on title 28, U.S.C., 1940 ed., §§ 10, 523a, 523b, ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 6, [36 Stat. 1088][/us/stat/36/1088]; [June 3, 1930, ch. 396][/us/act/1930-06-03/ch396], §§ 1, 2, [46 Stat. 496][/us/stat/46/496]).
 
     Section consolidates and simplifies sections 10, 523a and 523b of title 28, U.S.C., 1940 ed., relating to filing district court records and destroying obsolete papers and bankruptcy proofs of claims.
 
@@ -54,9 +54,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F908
-[/us/pl/95/598/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs216
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2661
-[/us/act/1911-03-03/ch231/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs6
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1088
 [/us/act/1930-06-03/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-03%2Fch396
 [/us/stat/46/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F496

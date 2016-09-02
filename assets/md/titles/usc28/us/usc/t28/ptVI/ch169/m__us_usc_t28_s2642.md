@@ -17,7 +17,7 @@
 
     The Court of International Trade may order an analysis of imported merchandise and reports thereon by laboratories or agencies of the United States or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1737][/us/stat/94/1737]; amended [Pub. L. 103–182, title VI, § 684(a)(5)][/us/pl/103/182/s684/a/5], Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1737][/us/stat/94/1737]; amended [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 684(a)(5), Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2642, [act May 24, 1949, ch. 139, § 123][/us/act/1949-05-24/ch139/s123], [63 Stat. 106][/us/stat/63/106], authorized the Customs Court under its rules and in its discretion to permit the amendment of protests, appeals and pleadings, prior to repeal by [Pub. L. 91–271, title I, § 121][/us/pl/91/271/s121], June 2, 1970, [84 Stat. 281][/us/stat/84/281]. See [section 2633(b) of this title][/us/usc/t28/s2633/b].
+    A prior section 2642, [act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 123, [63 Stat. 106][/us/stat/63/106], authorized the Customs Court under its rules and in its discretion to permit the amendment of protests, appeals and pleadings, prior to repeal by [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 121, June 2, 1970, [84 Stat. 281][/us/stat/84/281]. See [section 2633(b) of this title][/us/usc/t28/s2633/b].
 
  __Amendments__ 
 
@@ -46,14 +46,14 @@
 ----------
 ----------
 
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1737
-[/us/pl/103/182/s684/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs684%2Fa%2F5
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2219
 [/us/usc/t19/s1499/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1499%2Fb
-[/us/act/1949-05-24/ch139/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs123
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F106
-[/us/pl/91/271/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs121
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F281
 [/us/usc/t28/s2633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2633%2Fb
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

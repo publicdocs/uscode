@@ -21,11 +21,11 @@
 
     A continuance may also be granted if such an action is commenced on a bond or other sealed instrument and the court requires the original instrument to be produced.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 972][/us/stat/62/972]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 972][/us/stat/62/972]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 781 (R.S. § 957; [June 10, 1921, ch. 18, § 304][/us/act/1921-06-10/ch18/s304], [42 Stat. 24][/us/stat/42/24]).
+    Based on title 28, U.S.C., 1940 ed., § 781 (R.S. § 957; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], § 304, [42 Stat. 24][/us/stat/42/24]).
 
     Word “action” was substituted for “suit”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -46,9 +46,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F972
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/act/1921-06-10/ch18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18%2Fs304
+[/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 552 ([Feb. 11, 1925, ch. 204, § 5][/us/act/1925-02-11/ch204/s5], [43 Stat. 857][/us/stat/43/857]; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]; [Sept. 27, 1944, ch. 414, § 3][/us/act/1944-09-27/ch414/s3], [58 Stat. 744][/us/stat/58/744]).
+    Based on title 28, U.S.C., 1940 ed., § 552 ([Feb. 11, 1925, ch. 204][/us/act/1925-02-11/ch204], § 5, [43 Stat. 857][/us/stat/43/857]; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]; [Sept. 27, 1944, ch. 414][/us/act/1944-09-27/ch414], § 3, [58 Stat. 744][/us/stat/58/744]).
 
     Words “to the clerk of the district court” were added to clarify the intent of Congress, as shown by the title of the 1944 act containing this section, and by the text of such Act in its entirety.
 
@@ -38,11 +38,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F955
-[/us/act/1925-02-11/ch204/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-11%2Fch204%2Fs5
+[/us/act/1925-02-11/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-11%2Fch204
 [/us/stat/43/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F857
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
-[/us/act/1944-09-27/ch414/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-27%2Fch414%2Fs3
+[/us/act/1944-09-27/ch414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-27%2Fch414
 [/us/stat/58/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F744
 
 

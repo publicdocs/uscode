@@ -21,13 +21,13 @@
 
     This section shall not apply to sales and proceedings under Title 11 or by receivers or conservators of banks appointed by the Comptroller of the Currency.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 959][/us/stat/62/959]; [May 24, 1949, ch. 139, § 100][/us/act/1949-05-24/ch139/s100], [63 Stat. 104][/us/stat/63/104].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 959][/us/stat/62/959]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 100, [63 Stat. 104][/us/stat/63/104].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 849 ([Mar. 3, 1893, ch. 225, § 3][/us/act/1893-03-03/ch225/s3], [27 Stat. 751][/us/stat/27/751]; [Apr. 24, 1935, ch. 77, § 3][/us/act/1935-04-24/ch77/s3], [49 Stat. 160][/us/stat/49/160]; [June 19, 1935, ch. 276][/us/act/1935-06-19/ch276], [49 Stat. 390][/us/stat/49/390]).
+    Based on title 28, U.S.C., 1940 ed., § 849 ([Mar. 3, 1893, ch. 225][/us/act/1893-03-03/ch225], § 3, [27 Stat. 751][/us/stat/27/751]; [Apr. 24, 1935, ch. 77][/us/act/1935-04-24/ch77], § 3, [49 Stat. 160][/us/stat/49/160]; [June 19, 1935, ch. 276][/us/act/1935-06-19/ch276], [49 Stat. 390][/us/stat/49/390]).
 
     A provision making the section applicable to pending proceedings was deleted as obsolete.
 
@@ -56,11 +56,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F959
-[/us/act/1949-05-24/ch139/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs100
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F104
-[/us/act/1893-03-03/ch225/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch225%2Fs3
+[/us/act/1893-03-03/ch225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch225
 [/us/stat/27/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F751
-[/us/act/1935-04-24/ch77/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-24%2Fch77%2Fs3
+[/us/act/1935-04-24/ch77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-24%2Fch77
 [/us/stat/49/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F160
 [/us/act/1935-06-19/ch276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-19%2Fch276
 [/us/stat/49/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F390

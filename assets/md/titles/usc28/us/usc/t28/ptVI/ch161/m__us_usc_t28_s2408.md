@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 870 (R.S. § 1001; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 117, 289, [36 Stat. 1131][/us/stat/36/1131], 1167; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]; [June 19, 1934, ch. 653, § 7][/us/act/1934-06-19/ch653/s7], [48 Stat. 1109][/us/stat/48/1109]).
+    Based on title 28, U.S.C., 1940 ed., § 870 (R.S. § 1001; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 117, 289, [36 Stat. 1131][/us/stat/36/1131], 1167; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]; [June 19, 1934, ch. 653][/us/act/1934-06-19/ch653], § 7, [48 Stat. 1109][/us/stat/48/1109]).
 
     [Section 870 of title 28][/us/usc/t28/s870], U.S.C., 1940 ed., applied only to the Supreme Court and district courts. The revised section applies to all courts.
 
@@ -44,9 +44,9 @@
 [/us/stat/62/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F972
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1131
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
-[/us/act/1934-06-19/ch653/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch653%2Fs7
+[/us/act/1934-06-19/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch653
 [/us/stat/48/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1109
 [/us/usc/t28/s870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs870
 

@@ -73,11 +73,11 @@
 
     A civil action in which jurisdiction of the district court is based upon [section 1369 of this title][/us/usc/t28/s1369] may be brought in any district in which any defendant resides or in which a substantial part of the accident giving rise to the action took place.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 935][/us/stat/62/935]; [Pub. L. 87–748, § 2][/us/pl/87/748/s2], Oct. 5, 1962, [76 Stat. 744][/us/stat/76/744]; [Pub. L. 88–234][/us/pl/88/234], Dec. 23, 1963, [77 Stat. 473][/us/stat/77/473]; [Pub. L. 89–714][/us/pl/89/714], §§ 1, 2, Nov. 2, 1966, [80 Stat. 1111][/us/stat/80/1111]; [Pub. L. 94–574, § 3][/us/pl/94/574/s3], Oct. 21, 1976, [90 Stat. 2721][/us/stat/90/2721]; [Pub. L. 94–583, § 5][/us/pl/94/583/s5], Oct. 21, 1976, [90 Stat. 2897][/us/stat/90/2897]; [Pub. L. 100–702, title X, § 1013(a)][/us/pl/100/702/s1013/a], Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669]; [Pub. L. 101–650, title III, § 311][/us/pl/101/650/s311], Dec. 1, 1990, [104 Stat. 5114][/us/stat/104/5114]; [Pub. L. 102–198, § 3][/us/pl/102/198/s3], Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623]; [Pub. L. 102–572, title V, § 504][/us/pl/102/572/s504], Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513]; [Pub. L. 104–34, § 1][/us/pl/104/34/s1], Oct. 3, 1995, [109 Stat. 293][/us/stat/109/293]; [Pub. L. 107–273, div. C, title I, § 11020(b)(2)][/us/pl/107/273/s11020/b/2], Nov. 2, 2002, [116 Stat. 1827][/us/stat/116/1827]; [Pub. L. 112–63, title II, § 202][/us/pl/112/63/s202], Dec. 7, 2011, [125 Stat. 763][/us/stat/125/763].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 935][/us/stat/62/935]; [Pub. L. 87–748][/us/pl/87/748], § 2, Oct. 5, 1962, [76 Stat. 744][/us/stat/76/744]; [Pub. L. 88–234][/us/pl/88/234], Dec. 23, 1963, [77 Stat. 473][/us/stat/77/473]; [Pub. L. 89–714][/us/pl/89/714], §§ 1, 2, Nov. 2, 1966, [80 Stat. 1111][/us/stat/80/1111]; [Pub. L. 94–574][/us/pl/94/574], § 3, Oct. 21, 1976, [90 Stat. 2721][/us/stat/90/2721]; [Pub. L. 94–583][/us/pl/94/583], § 5, Oct. 21, 1976, [90 Stat. 2897][/us/stat/90/2897]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1013(a), Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 311, Dec. 1, 1990, [104 Stat. 5114][/us/stat/104/5114]; [Pub. L. 102–198][/us/pl/102/198], § 3, Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623]; [Pub. L. 102–572, title V][/us/pl/102/572/tV], § 504, Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513]; [Pub. L. 104–34][/us/pl/104/34], § 1, Oct. 3, 1995, [109 Stat. 293][/us/stat/109/293]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11020(b)(2), Nov. 2, 2002, [116 Stat. 1827][/us/stat/116/1827]; [Pub. L. 112–63, title II][/us/pl/112/63/tII], § 202, Dec. 7, 2011, [125 Stat. 763][/us/stat/125/763].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 111, 112 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 50, 51, [36 Stat. 1101][/us/stat/36/1101]; [Sept. 19, 1922, ch. 345][/us/act/1922-09-19/ch345], [42 Stat. 849][/us/stat/42/849]; [Mar. 4, 1925, ch. 526, § 1][/us/act/1925-03-04/ch526/s1], [43 Stat. 1264][/us/stat/43/1264]; [Apr. 16, 1936, ch. 230][/us/act/1936-04-16/ch230], [49 Stat. 1213][/us/stat/49/1213]).
+    Based on title 28, U.S.C., 1940 ed., §§ 111, 112 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 50, 51, [36 Stat. 1101][/us/stat/36/1101]; [Sept. 19, 1922, ch. 345][/us/act/1922-09-19/ch345], [42 Stat. 849][/us/stat/42/849]; [Mar. 4, 1925, ch. 526][/us/act/1925-03-04/ch526], § 1, [43 Stat. 1264][/us/stat/43/1264]; [Apr. 16, 1936, ch. 230][/us/act/1936-04-16/ch230], [49 Stat. 1213][/us/stat/49/1213]).
 
     Section consolidates [section 111 of title 28][/us/usc/t28/s111], U.S.C., 1940 ed., with part of section 112 of such title.
 
@@ -103,13 +103,13 @@
 
  __Amendments__ 
 
-    2011—Subsecs. (a) to (d). [Pub. L. 112–63, § 202(1)][/us/pl/112/63/s202/1], added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to venue when jurisdiction is founded only on diversity of citizenship, when jurisdiction is not founded solely on diversity of citizenship, when a defendant is a corporation, and when an alien is sued, respectively.
+    2011—Subsecs. (a) to (d). [Pub. L. 112–63][/us/pl/112/63], § 202(1), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to venue when jurisdiction is founded only on diversity of citizenship, when jurisdiction is not founded solely on diversity of citizenship, when a defendant is a corporation, and when an alien is sued, respectively.
 
-    Subsec. (e). [Pub. L. 112–63, § 202(2)][/us/pl/112/63/s202/2], inserted subsec. heading, substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively, in first par., designated first and second pars. as pars. (1) and (2), respectively, and inserted par. headings.
+    Subsec. (e). [Pub. L. 112–63][/us/pl/112/63], § 202(2), inserted subsec. heading, substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively, in first par., designated first and second pars. as pars. (1) and (2), respectively, and inserted par. headings.
 
-    Subsec. (f). [Pub. L. 112–63, § 202(3)][/us/pl/112/63/s202/3], inserted heading.
+    Subsec. (f). [Pub. L. 112–63][/us/pl/112/63], § 202(3), inserted heading.
 
-    Subsec. (g). [Pub. L. 112–63, § 202(4)][/us/pl/112/63/s202/4], inserted heading.
+    Subsec. (g). [Pub. L. 112–63][/us/pl/112/63], § 202(4), inserted heading.
 
     2002—Subsec. (g). [Pub. L. 107–273][/us/pl/107/273] added subsec. (g).
 
@@ -119,11 +119,11 @@
 
     1991—Subsec. (b). [Pub. L. 102–198][/us/pl/102/198] substituted “in (1)” for “if (1)”.
 
-    1990—Subsec. (a). [Pub. L. 101–650, § 311(1)][/us/pl/101/650/s311/1], substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
+    1990—Subsec. (a). [Pub. L. 101–650][/us/pl/101/650], § 311(1), substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
 
-    Subsec. (b). [Pub. L. 101–650, § 311(2)][/us/pl/101/650/s311/2], substituted “may, except as otherwise provided by law, be brought only if” and cls. (1) to (3) for “may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law”.
+    Subsec. (b). [Pub. L. 101–650][/us/pl/101/650], § 311(2), substituted “may, except as otherwise provided by law, be brought only if” and cls. (1) to (3) for “may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law”.
 
-    Subsec. (e). [Pub. L. 101–650, § 311(3)][/us/pl/101/650/s311/3], substituted “(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)” for “or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)”.
+    Subsec. (e). [Pub. L. 101–650][/us/pl/101/650], § 311(3), substituted “(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)” for “or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)”.
 
     1988—Subsec. (c). [Pub. L. 100–702][/us/pl/100/702] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A corporation may be sued in any judicial district in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes.”
 
@@ -131,11 +131,11 @@
 
     Subsec. (f). [Pub. L. 94–583][/us/pl/94/583] added subsec. (f).
 
-    1966—Subsec. (a). [Pub. L. 89–714, § 1][/us/pl/89/714/s1], authorized a civil action to be brought in the judicial district in which the claim arose.
+    1966—Subsec. (a). [Pub. L. 89–714][/us/pl/89/714], § 1, authorized a civil action to be brought in the judicial district in which the claim arose.
 
-    Subsec. (b). [Pub. L. 89–714, § 1][/us/pl/89/714/s1], authorized a civil action to be brought in the judicial district in which the claim arose.
+    Subsec. (b). [Pub. L. 89–714][/us/pl/89/714], § 1, authorized a civil action to be brought in the judicial district in which the claim arose.
 
-    Subsec. (f). [Pub. L. 89–714, § 2][/us/pl/89/714/s2], repealed subsec. (f) which permitted a civil action on a tort claim arising out of the manufacture, assembly, repair, ownership, maintenance, use, or operation of an automobile to be brought in the judicial district wherein the act or omission complained of occurred. Present provisions are now contained in subsecs. (a) and (b) of this section.
+    Subsec. (f). [Pub. L. 89–714][/us/pl/89/714], § 2, repealed subsec. (f) which permitted a civil action on a tort claim arising out of the manufacture, assembly, repair, ownership, maintenance, use, or operation of an automobile to be brought in the judicial district wherein the act or omission complained of occurred. Present provisions are now contained in subsecs. (a) and (b) of this section.
 
     1963—Subsec. (f). [Pub. L. 88–234][/us/pl/88/234] added subsec. (f)
 
@@ -155,7 +155,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–702, title X, § 1013(b)][/us/pl/100/702/s1013/b], Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669], provided that: 
+[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1013(b), Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669], provided that: 
 
 > “The amendment made by this section \[amending this section\] takes effect 90 days after the date of enactment of this title \[Nov. 19, 1988\].”
 
@@ -176,35 +176,35 @@
 [/us/usc/t28/s1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1369
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F935
-[/us/pl/87/748/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F748%2Fs2
+[/us/pl/87/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F748
 [/us/stat/76/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F744
 [/us/pl/88/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F234
 [/us/stat/77/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F473
 [/us/pl/89/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F714
 [/us/stat/80/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1111
-[/us/pl/94/574/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574%2Fs3
+[/us/pl/94/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574
 [/us/stat/90/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2721
-[/us/pl/94/583/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs5
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2897
-[/us/pl/100/702/s1013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1013%2Fa
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4669
-[/us/pl/101/650/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs311
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5114
-[/us/pl/102/198/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs3
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1623
-[/us/pl/102/572/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs504
+[/us/pl/102/572/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtV
 [/us/stat/106/4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4513
-[/us/pl/104/34/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F34%2Fs1
+[/us/pl/104/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F34
 [/us/stat/109/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F293
-[/us/pl/107/273/s11020/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11020%2Fb%2F2
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1827
-[/us/pl/112/63/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs202
+[/us/pl/112/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtII
 [/us/stat/125/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F763
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1101
 [/us/act/1922-09-19/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch345
 [/us/stat/42/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F849
-[/us/act/1925-03-04/ch526/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch526%2Fs1
+[/us/act/1925-03-04/ch526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch526
 [/us/stat/43/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1264
 [/us/act/1936-04-16/ch230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-04-16%2Fch230
 [/us/stat/49/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1213
@@ -212,23 +212,23 @@
 [/us/usc/t28/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs112
 [/us/usc/t28/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs111
 [/us/usc/t28/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs111
-[/us/pl/112/63/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs202%2F1
-[/us/pl/112/63/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs202%2F2
-[/us/pl/112/63/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs202%2F3
-[/us/pl/112/63/s202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs202%2F4
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F34
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
-[/us/pl/101/650/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs311%2F1
-[/us/pl/101/650/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs311%2F2
-[/us/pl/101/650/s311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs311%2F3
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/94/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F574
 [/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
-[/us/pl/89/714/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F714%2Fs1
-[/us/pl/89/714/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F714%2Fs1
-[/us/pl/89/714/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F714%2Fs2
+[/us/pl/89/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F714
+[/us/pl/89/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F714
+[/us/pl/89/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F714
 [/us/pl/88/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F234
 [/us/pl/87/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F748
 [/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
@@ -240,7 +240,7 @@
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1101%2Fa
 [/us/usc/t2/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905
-[/us/pl/100/702/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1013%2Fb
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4669
 [/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/pl/94/583/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs8

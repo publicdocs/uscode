@@ -19,11 +19,11 @@
 
     (b) The chief judge of a circuit or the circuit justice may, in the public interest, designate and assign temporarily any circuit judge within the circuit, including a judge designated and assigned to temporary duty therein, to hold a district court in any district within the circuit.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 900][/us/stat/62/900]; [July 28, 1953, ch. 253, § 2][/us/act/1953-07-28/ch253/s2], [67 Stat. 226][/us/stat/67/226]; [Sept. 3, 1954, ch. 1263, § 39(b)][/us/act/1954-09-03/ch1263/s39/b], [68 Stat. 1240][/us/stat/68/1240]; [July 9, 1956, ch. 517, § 1(a)][/us/act/1956-07-09/ch517/s1/a], [70 Stat. 497][/us/stat/70/497]; [Pub. L. 85–755, § 2][/us/pl/85/755/s2], Aug. 25, 1958, [72 Stat. 848][/us/stat/72/848]; [Pub. L. 95–598, title II, § 202][/us/pl/95/598/s202], Nov. 6, 1978, [92 Stat. 2660][/us/stat/92/2660]; [Pub. L. 97–164, title I, § 108][/us/pl/97/164/s108], Apr. 2, 1982, [96 Stat. 28][/us/stat/96/28]; [Pub. L. 102–572, title I, § 104][/us/pl/102/572/s104], Oct. 29, 1992, [106 Stat. 4507][/us/stat/106/4507].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 900][/us/stat/62/900]; [July 28, 1953, ch. 253][/us/act/1953-07-28/ch253], § 2, [67 Stat. 226][/us/stat/67/226]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 39(b), [68 Stat. 1240][/us/stat/68/1240]; [July 9, 1956, ch. 517][/us/act/1956-07-09/ch517], § 1(a), [70 Stat. 497][/us/stat/70/497]; [Pub. L. 85–755][/us/pl/85/755], § 2, Aug. 25, 1958, [72 Stat. 848][/us/stat/72/848]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 202, Nov. 6, 1978, [92 Stat. 2660][/us/stat/92/2660]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 108, Apr. 2, 1982, [96 Stat. 28][/us/stat/96/28]; [Pub. L. 102–572, title I][/us/pl/102/572/tI], § 104, Oct. 29, 1992, [106 Stat. 4507][/us/stat/106/4507].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 17, 22 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 13, 18, [36 Stat. 1089][/us/stat/36/1089]; [Oct. 3, 1913, ch. 18][/us/act/1913-10-03/ch18], [38 Stat. 203][/us/stat/38/203]; [Sept. 14, 1922, ch. 306][/us/act/1922-09-14/ch306], §§ 3, 5, [42 Stat. 839][/us/stat/42/839]; [Mar. 2, 1929, ch. 488, § 1][/us/act/1929-03-02/ch488/s1], [45 Stat. 1475][/us/stat/45/1475]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [Aug. 24, 1937, ch. 754, § 4][/us/act/1937-08-24/ch754/s4], [50 Stat. 753][/us/stat/50/753]; [Dec. 29, 1942, ch. 835, § 1][/us/act/1942-12-29/ch835/s1], [56 Stat. 1094][/us/stat/56/1094]).
+    Based on title 28, U.S.C., 1940 ed., §§ 17, 22 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 13, 18, [36 Stat. 1089][/us/stat/36/1089]; [Oct. 3, 1913, ch. 18][/us/act/1913-10-03/ch18], [38 Stat. 203][/us/stat/38/203]; [Sept. 14, 1922, ch. 306][/us/act/1922-09-14/ch306], §§ 3, 5, [42 Stat. 839][/us/stat/42/839]; [Mar. 2, 1929, ch. 488][/us/act/1929-03-02/ch488], § 1, [45 Stat. 1475][/us/stat/45/1475]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [Aug. 24, 1937, ch. 754][/us/act/1937-08-24/ch754], § 4, [50 Stat. 753][/us/stat/50/753]; [Dec. 29, 1942, ch. 835][/us/act/1942-12-29/ch835], § 1, [56 Stat. 1094][/us/stat/56/1094]).
 
     Section consolidates all provisions of sections 17 and 22 of title 28, U.S.C., 1940 ed., relating to designation and assignment of circuit judges.
 
@@ -75,7 +75,7 @@
 
  __Jurisdiction of United States Court of Customs and Patent Appeals__ 
 
-[Pub. L. 85–755, § 7][/us/pl/85/755/s7], Aug. 25, 1958, [72 Stat. 850][/us/stat/72/850], provided that: 
+[Pub. L. 85–755][/us/pl/85/755], § 7, Aug. 25, 1958, [72 Stat. 850][/us/stat/72/850], provided that: 
 
 > “Nothing contained in this Act \[amending this section and sections 211 and 292 to 295 of this title\] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\] by any provision of law.”
 
@@ -88,19 +88,19 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F900
-[/us/act/1953-07-28/ch253/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch253%2Fs2
+[/us/act/1953-07-28/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch253
 [/us/stat/67/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F226
-[/us/act/1954-09-03/ch1263/s39/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs39%2Fb
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1240
-[/us/act/1956-07-09/ch517/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch517%2Fs1%2Fa
+[/us/act/1956-07-09/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch517
 [/us/stat/70/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F497
-[/us/pl/85/755/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F755%2Fs2
+[/us/pl/85/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F755
 [/us/stat/72/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F848
-[/us/pl/95/598/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs202
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2660
-[/us/pl/97/164/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs108
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F28
-[/us/pl/102/572/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs104
+[/us/pl/102/572/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtI
 [/us/stat/106/4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4507
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1089
@@ -108,15 +108,15 @@
 [/us/stat/38/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F203
 [/us/act/1922-09-14/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306
 [/us/stat/42/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F839
-[/us/act/1929-03-02/ch488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488%2Fs1
+[/us/act/1929-03-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488
 [/us/stat/45/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1475
 [/us/act/1934-06-07/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-07%2Fch426
 [/us/stat/48/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F926
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
-[/us/act/1937-08-24/ch754/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754%2Fs4
+[/us/act/1937-08-24/ch754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754
 [/us/stat/50/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F753
-[/us/act/1942-12-29/ch835/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-29%2Fch835%2Fs1
+[/us/act/1942-12-29/ch835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-29%2Fch835
 [/us/stat/56/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1094
 [/us/usc/t28/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41
 [/us/usc/t28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3
@@ -143,7 +143,7 @@
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/85/755/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F755%2Fs7
+[/us/pl/85/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F755
 [/us/stat/72/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F850
 
 

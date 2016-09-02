@@ -33,7 +33,7 @@
 
         (3) The Manual shall contain a description and analysis of the litigation management, cost and delay reduction principles and techniques, and alternative dispute resolution programs considered most effective by the Judicial Conference, the Director of the Federal Judicial Center, and the Director of the Administrative Office of the United States Courts.
 
-(Added [Pub. L. 101–650, title I, § 103(a)][/us/pl/101/650/s103/a], Dec. 1, 1990, [104 Stat. 5095][/us/stat/104/5095].)
+(Added [Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(a), Dec. 1, 1990, [104 Stat. 5095][/us/stat/104/5095].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t28/s472/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs472%2Fd
 [/us/usc/t28/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs472
-[/us/pl/101/650/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fa
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5095
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650

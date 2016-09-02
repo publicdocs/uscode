@@ -17,7 +17,7 @@
 
     No State, territory, or possession of the United States, or Indian tribe, shall be required to give effect to any public act, record, or judicial proceeding of any other State, territory, possession, or tribe respecting a relationship between persons of the same sex that is treated as a marriage under the laws of such other State, territory, possession, or tribe, or a right or claim arising from such relationship.
 
-(Added [Pub. L. 104–199, § 2(a)][/us/pl/104/199/s2/a], Sept. 21, 1996, [110 Stat. 2419][/us/stat/110/2419].)
+(Added [Pub. L. 104–199][/us/pl/104/199], § 2(a), Sept. 21, 1996, [110 Stat. 2419][/us/stat/110/2419].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/199/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199%2Fs2%2Fa
+[/us/pl/104/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199
 [/us/stat/110/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2419
 
 

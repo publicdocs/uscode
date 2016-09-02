@@ -27,11 +27,11 @@
 
         (3) All actions or proceedings by a State against the citizens of another State or against aliens.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 927][/us/stat/62/927]; [Pub. L. 95–393, § 8(b)][/us/pl/95/393/s8/b], Sept. 30, 1978, [92 Stat. 810][/us/stat/92/810].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 927][/us/stat/62/927]; [Pub. L. 95–393][/us/pl/95/393], § 8(b), Sept. 30, 1978, [92 Stat. 810][/us/stat/92/810].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 341, 371(7), (8) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 233, 256, [36 Stat. 1156][/us/stat/36/1156], 1160; [Oct. 6, 1917, ch. 97, § 2][/us/act/1917-10-06/ch97/s2], [40 Stat. 395][/us/stat/40/395]; [June 10, 1922, ch. 216, § 2][/us/act/1922-06-10/ch216/s2], [42 Stat. 635][/us/stat/42/635]).
+    Based on title 28, U.S.C., 1940 ed., §§ 341, 371(7), (8) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 233, 256, [36 Stat. 1156][/us/stat/36/1156], 1160; [Oct. 6, 1917, ch. 97][/us/act/1917-10-06/ch97], § 2, [40 Stat. 395][/us/stat/40/395]; [June 10, 1922, ch. 216][/us/act/1922-06-10/ch216], § 2, [42 Stat. 635][/us/stat/42/635]).
 
     This section reconciles provisions of sections 341 and 371(7), (8) of title 28, U.S.C., 1940 ed., with Article 3, section 2 and Amendment 11 of the Constitution.
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–393, § 8(b)(1)][/us/pl/95/393/s8/b/1], designated introductory provision of subsec. (a) and (a)(1) as (a), and struck out “(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations”.
+    1978—Subsec. (a). [Pub. L. 95–393][/us/pl/95/393], § 8(b)(1), designated introductory provision of subsec. (a) and (a)(1) as (a), and struck out “(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations”.
 
-    Subsec. (b)(1). [Pub. L. 95–393, § 8(b)(2)][/us/pl/95/393/s8/b/2], substituted “to which ambassadors, other public ministers, consuls, or” for “brought by ambassadors or other public ministers of foreign states or to which consuls or”.
+    Subsec. (b)(1). [Pub. L. 95–393][/us/pl/95/393], § 8(b)(2), substituted “to which ambassadors, other public ministers, consuls, or” for “brought by ambassadors or other public ministers of foreign states or to which consuls or”.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -67,7 +67,7 @@
 
  __Statutes Governing Writs of Error To Apply to Appeals__ 
 
-    [Act Jan. 31, 1928, ch. 14, § 2][/us/act/1928-01-31/ch14/s2], [45 Stat. 54][/us/stat/45/54], amended [Apr. 26, 1928, ch. 440][/us/act/1928-04-26/ch440], [45 Stat. 466][/us/stat/45/466]; [June 25, 1948, ch. 646, § 23][/us/act/1948-06-25/ch646/s23], [62 Stat. 990][/us/stat/62/990], provided that “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.” See also, notes preceding [section 1 of this title][/us/usc/t28/s1].
+    [Act Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 2, [45 Stat. 54][/us/stat/45/54], amended [Apr. 26, 1928, ch. 440][/us/act/1928-04-26/ch440], [45 Stat. 466][/us/stat/45/466]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 23, [62 Stat. 990][/us/stat/62/990], provided that “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.” See also, notes preceding [section 1 of this title][/us/usc/t28/s1].
 
 ----------
 
@@ -78,27 +78,27 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F927
-[/us/pl/95/393/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs8%2Fb
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F810
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1156
-[/us/act/1917-10-06/ch97/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch97%2Fs2
+[/us/act/1917-10-06/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch97
 [/us/stat/40/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F395
-[/us/act/1922-06-10/ch216/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-10%2Fch216%2Fs2
+[/us/act/1922-06-10/ch216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-10%2Fch216
 [/us/stat/42/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F635
 [/us/usc/t28/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1351
 [/us/usc/t28/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1351
 [/us/usc/t28/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1351
-[/us/pl/95/393/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs8%2Fb%2F1
-[/us/pl/95/393/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs8%2Fb%2F2
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/pl/95/393/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs9
 [/us/usc/t22/s254a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a
-[/us/act/1928-01-31/ch14/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs2
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/act/1928-04-26/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-26%2Fch440
 [/us/stat/45/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F466
-[/us/act/1948-06-25/ch646/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs23
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F990
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 

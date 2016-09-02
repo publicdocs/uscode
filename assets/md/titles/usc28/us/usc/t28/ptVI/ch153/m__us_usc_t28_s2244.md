@@ -65,7 +65,7 @@
 
         (2) The time during which a properly filed application for State post-conviction or other collateral review with respect to the pertinent judgment or claim is pending shall not be counted toward any period of limitation under this subsection.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 965][/us/stat/62/965]; [Pub. L. 89–711, § 1][/us/pl/89/711/s1], Nov. 2, 1966, [80 Stat. 1104][/us/stat/80/1104]; [Pub. L. 104–132, title I][/us/pl/104/132], §§ 101, 106, Apr. 24, 1996, [110 Stat. 1217][/us/stat/110/1217], 1220.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 965][/us/stat/62/965]; [Pub. L. 89–711][/us/pl/89/711], § 1, Nov. 2, 1966, [80 Stat. 1104][/us/stat/80/1104]; [Pub. L. 104–132, title I][/us/pl/104/132/tI], §§ 101, 106, Apr. 24, 1996, [110 Stat. 1217][/us/stat/110/1217], 1220.)
 
  __Historical and Revision Notes__ 
 
@@ -79,11 +79,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–132, § 106(a)][/us/pl/104/132/s106/a], substituted “, except as provided in section 2255.” for “and the petition presents no new ground not heretofore presented and determined, and the judge or court is satisfied that the ends of justice will not be served by such inquiry.”
+    1996—Subsec. (a). [Pub. L. 104–132][/us/pl/104/132], § 106(a), substituted “, except as provided in section 2255.” for “and the petition presents no new ground not heretofore presented and determined, and the judge or court is satisfied that the ends of justice will not be served by such inquiry.”
 
-    Subsec. (b). [Pub. L. 104–132, § 106(b)][/us/pl/104/132/s106/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When after an evidentiary hearing on the merits of a material factual issue, or after a hearing on the merits of an issue of law, a person in custody pursuant to the judgment of a State court has been denied by a court of the United States or a justice or judge of the United States release from custody or other remedy on an application for a writ of habeas corpus, a subsequent application for a writ of habeas corpus in behalf of such person need not be entertained by a court of the United States or a justice or judge of the United States unless the application alleges and is predicated on a factual or other ground not adjudicated on the hearing of the earlier application for the writ, and unless the court, justice, or judge is satisfied that the applicant has not on the earlier application deliberately withheld the newly asserted ground or otherwise abused the writ.”
+    Subsec. (b). [Pub. L. 104–132][/us/pl/104/132], § 106(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When after an evidentiary hearing on the merits of a material factual issue, or after a hearing on the merits of an issue of law, a person in custody pursuant to the judgment of a State court has been denied by a court of the United States or a justice or judge of the United States release from custody or other remedy on an application for a writ of habeas corpus, a subsequent application for a writ of habeas corpus in behalf of such person need not be entertained by a court of the United States or a justice or judge of the United States unless the application alleges and is predicated on a factual or other ground not adjudicated on the hearing of the earlier application for the writ, and unless the court, justice, or judge is satisfied that the applicant has not on the earlier application deliberately withheld the newly asserted ground or otherwise abused the writ.”
 
-    Subsec. (d). [Pub. L. 104–132, § 101][/us/pl/104/132/s101], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–132][/us/pl/104/132], § 101, added subsec. (d).
 
     1966—[Pub. L. 89–711][/us/pl/89/711] designated existing provisions as subsec. (a), struck out provision making the subsection’s terms applicable to applications seeking inquiry into detention of persons detained pursuant to judgments of State courts, and added subsecs. (b) and (c).
 
@@ -96,13 +96,13 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F965
-[/us/pl/89/711/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F711%2Fs1
+[/us/pl/89/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F711
 [/us/stat/80/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1104
-[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtI
 [/us/stat/110/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1217
-[/us/pl/104/132/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs106%2Fa
-[/us/pl/104/132/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs106%2Fb
-[/us/pl/104/132/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs101
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/89/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F711
 
 

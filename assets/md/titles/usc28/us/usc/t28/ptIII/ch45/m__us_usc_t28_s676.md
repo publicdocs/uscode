@@ -19,7 +19,7 @@
 
     (b) Whenever advance pamphlet installments and bound volumes of the Court’s decisions are printed by a private printer, an adequate number of copies for distribution in accordance with the requirements of [section 411 of this title][/us/usc/t28/s411] and for sale to the public shall be provided and made available for these purposes in such manner and at such prices as may be determined from time to time by the Supreme Court or the Chief Justice of the United States, in lieu of compliance by the Director of the Government Publishing Office and the Superintendent of Documents with the requirements of sections 411 and 412 of this title with respect to such copies. Pending distribution or sale, such copies shall be the property of the United States and shall be held in the custody of the marshal or such other person, organization, or agency, as the Supreme Court or the Chief Justice of the United States may designate.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 919][/us/stat/62/919]; [May 24, 1949, ch. 139, § 74][/us/act/1949-05-24/ch139/s74], [63 Stat. 100][/us/stat/63/100]; [Oct. 31, 1951, ch. 655, § 45][/us/act/1951-10-31/ch655/s45], [65 Stat. 725][/us/stat/65/725]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 919][/us/stat/62/919]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 74, [63 Stat. 100][/us/stat/63/100]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 45, [65 Stat. 725][/us/stat/65/725]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -55,11 +55,11 @@
 [/us/usc/t28/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs411
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F919
-[/us/act/1949-05-24/ch139/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs74
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F100
-[/us/act/1951-10-31/ch655/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs45
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F725
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1925-02-27/ch364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-27%2Fch364
 [/us/stat/43/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1028

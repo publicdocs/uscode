@@ -17,7 +17,7 @@
 
     When the office of clerk is vacant, the deputy clerks shall perform the duties of the clerk in the name of the last person who held that office. When the clerk is incapacitated, absent, or otherwise unavailable to perform official duties, the deputy clerks shall perform the duties of the clerk in the name of the clerk. The court may designate a deputy clerk to act temporarily as clerk of the court in his or her own name.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 926][/us/stat/62/926]; [Pub. L. 92–310, title II, § 206(f)][/us/pl/92/310/s206/f], June 6, 1972, [86 Stat. 203][/us/stat/86/203]; [Pub. L. 104–317, title II, § 204(a)][/us/pl/104/317/s204/a], Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 926][/us/stat/62/926]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 206(f), June 6, 1972, [86 Stat. 203][/us/stat/86/203]; [Pub. L. 104–317, title II][/us/pl/104/317/tII], § 204(a), Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850].)
 
  __Historical and Revision Notes__ 
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F926
-[/us/pl/92/310/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs206%2Ff
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
-[/us/pl/104/317/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs204%2Fa
+[/us/pl/104/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtII
 [/us/stat/110/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3850
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1087

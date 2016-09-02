@@ -33,7 +33,7 @@
 
         (6) insofar as may be consistent with the performance of the other functions set forth in this section, to cooperate with and assist agencies of the Federal Government and other appropriate organizations in providing information and advice to further improvement in the administration of justice in the courts of foreign countries and to acquire information about judicial administration in foreign countries that may contribute to performing the other functions set forth in this section.
 
-(Added [Pub. L. 90–219, title I, § 101][/us/pl/90/219/s101], Dec. 20, 1967, [81 Stat. 664][/us/stat/81/664]; amended [Pub. L. 95–598, title II, § 227][/us/pl/95/598/s227], Nov. 6, 1978, [92 Stat. 2665][/us/stat/92/2665]; [Pub. L. 98–620, title II, § 214][/us/pl/98/620/s214], Nov. 8, 1984, [98 Stat. 3346][/us/stat/98/3346]; [Pub. L. 99–336, § 6(b)][/us/pl/99/336/s6/b], June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 100–702, title III, § 303][/us/pl/100/702/s303], Nov. 19, 1988, [102 Stat. 4648][/us/stat/102/4648]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–572, title VI, § 602(a)][/us/pl/102/572/s602/a], Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514].)
+(Added [Pub. L. 90–219, title I][/us/pl/90/219/tI], § 101, Dec. 20, 1967, [81 Stat. 664][/us/stat/81/664]; amended [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 227, Nov. 6, 1978, [92 Stat. 2665][/us/stat/92/2665]; [Pub. L. 98–620, title II][/us/pl/98/620/tII], § 214, Nov. 8, 1984, [98 Stat. 3346][/us/stat/98/3346]; [Pub. L. 99–336][/us/pl/99/336], § 6(b), June 19, 1986, [100 Stat. 639][/us/stat/100/639]; [Pub. L. 100–702, title III][/us/pl/100/702/tIII], § 303, Nov. 19, 1988, [102 Stat. 4648][/us/stat/102/4648]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–572, title VI][/us/pl/102/572/tVI], § 602(a), Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–336, § 6(c)][/us/pl/99/336/s6/c], June 19, 1986, [100 Stat. 639][/us/stat/100/639], provided that: 
+[Pub. L. 99–336][/us/pl/99/336], § 6(c), June 19, 1986, [100 Stat. 639][/us/stat/100/639], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 288d of Title 2][/us/usc/t2/s288d], The Congress, and redesignating sections 1364 to 1366 of this title\] shall take effect on the date of the enactment of this Act \[June 19, 1986\].”
 
@@ -67,7 +67,7 @@
 
  __Study of Intercircuit Conflicts and Structural Alternatives for Courts of Appeals by Federal Judicial Center__ 
 
-    [Pub. L. 101–650, title III, § 302][/us/pl/101/650/s302], Dec. 1, 1990, [104 Stat. 5104][/us/stat/104/5104], as amended by [Pub. L. 102–572, title V, § 502(c)][/us/pl/102/572/s502/c], Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
+    [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 302, Dec. 1, 1990, [104 Stat. 5104][/us/stat/104/5104], as amended by [Pub. L. 102–572, title V][/us/pl/102/572/tV], § 502(c), Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
 
 ----------
 
@@ -76,19 +76,19 @@
 ----------
 ----------
 
-[/us/pl/90/219/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs101
+[/us/pl/90/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtI
 [/us/stat/81/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F664
-[/us/pl/95/598/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs227
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2665
-[/us/pl/98/620/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs214
+[/us/pl/98/620/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtII
 [/us/stat/98/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3346
-[/us/pl/99/336/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs6%2Fb
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F639
-[/us/pl/100/702/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs303
+[/us/pl/100/702/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIII
 [/us/stat/102/4648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4648
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/102/572/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs602%2Fa
+[/us/pl/102/572/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtVI
 [/us/stat/106/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4514
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
@@ -102,15 +102,15 @@
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1101%2Fa
 [/us/usc/t2/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905
-[/us/pl/99/336/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs6%2Fc
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F639
 [/us/usc/t2/s288d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288d
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs216
 [/us/usc/t42/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10701
-[/us/pl/101/650/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs302
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5104
-[/us/pl/102/572/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs502%2Fc
+[/us/pl/102/572/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtV
 [/us/stat/106/4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4513
 
 

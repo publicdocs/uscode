@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 344, 876, 877 (R.S. § 701; [Mar. 3, 1891, ch. 517][/us/act/1891-03-03/ch517], §§ 10, 11, [26 Stat. 829][/us/stat/26/829]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 231, 236, 237, 291, [36 Stat. 1156][/us/stat/36/1156], 1167; [Dec. 23, 1914, ch. 2][/us/act/1914-12-23/ch2], [38 Stat. 790][/us/stat/38/790]; [Sept. 16, 1916, ch. 448, § 2][/us/act/1916-09-16/ch448/s2], [39 Stat. 726][/us/stat/39/726]; [Feb. 17, 1922, ch. 54][/us/act/1922-02-17/ch54], [42 Stat. 366][/us/stat/42/366]; [Feb. 13, 1925, ch. 229, § 1][/us/act/1925-02-13/ch229/s1], [43 Stat. 937][/us/stat/43/937]; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]).
+    Based on title 28, U.S.C., 1940 ed., §§ 344, 876, 877 (R.S. § 701; [Mar. 3, 1891, ch. 517][/us/act/1891-03-03/ch517], §§ 10, 11, [26 Stat. 829][/us/stat/26/829]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 231, 236, 237, 291, [36 Stat. 1156][/us/stat/36/1156], 1167; [Dec. 23, 1914, ch. 2][/us/act/1914-12-23/ch2], [38 Stat. 790][/us/stat/38/790]; [Sept. 16, 1916, ch. 448][/us/act/1916-09-16/ch448], § 2, [39 Stat. 726][/us/stat/39/726]; [Feb. 17, 1922, ch. 54][/us/act/1922-02-17/ch54], [42 Stat. 366][/us/stat/42/366]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 1, [43 Stat. 937][/us/stat/43/937]; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]).
 
     Section consolidates part of [section 344 of title 28][/us/usc/t28/s344], U.S.C., 1940 ed., with sections 876 and 877 of said title. Other provisions of said section 344 are incorporated in sections 1257 and 2103 of this title.
 
@@ -50,13 +50,13 @@
 [/us/stat/36/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1156
 [/us/act/1914-12-23/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-12-23%2Fch2
 [/us/stat/38/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F790
-[/us/act/1916-09-16/ch448/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-16%2Fch448%2Fs2
+[/us/act/1916-09-16/ch448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-16%2Fch448
 [/us/stat/39/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F726
 [/us/act/1922-02-17/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-17%2Fch54
 [/us/stat/42/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F366
-[/us/act/1925-02-13/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs1
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F937
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/usc/t28/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs344
 [/us/act/1891-03-03/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch517

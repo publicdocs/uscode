@@ -27,7 +27,7 @@
 
     (b) To ensure uniformity of reporting, the standards for categorization or characterization of judicial actions to be prescribed in accordance with [section 481 of this title][/us/usc/t28/s481] shall apply to the semiannual report prepared under subsection (a).
 
-(Added [Pub. L. 101–650, title I, § 103(a)][/us/pl/101/650/s103/a], Dec. 1, 1990, [104 Stat. 5093][/us/stat/104/5093].)
+(Added [Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(a), Dec. 1, 1990, [104 Stat. 5093][/us/stat/104/5093].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t28/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs481
-[/us/pl/101/650/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fa
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5093
 
 

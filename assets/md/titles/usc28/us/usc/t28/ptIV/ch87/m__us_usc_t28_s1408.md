@@ -21,11 +21,11 @@
 
     (2) in which there is pending a case under title 11 concerning such person’s affiliate, general partner, or partnership.
 
-(Added [Pub. L. 98–353, title I, § 102(a)][/us/pl/98/353/s102/a], July 10, 1984, [98 Stat. 334][/us/stat/98/334].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 102(a), July 10, 1984, [98 Stat. 334][/us/stat/98/334].)
 
  __Prior Provisions__ 
 
-    A prior section 1408, added by [Pub. L. 95–598, title II, § 240(a)][/us/pl/95/598/s240/a], Nov. 6, 1978, [92 Stat. 2668][/us/stat/92/2668], which related to bankruptcy appeals, did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
+    A prior section 1408, added by [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 240(a), Nov. 6, 1978, [92 Stat. 2668][/us/stat/92/2668], which related to bankruptcy appeals, did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
 
  __Effective Date__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t28/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1410
-[/us/pl/98/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs102%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F334
-[/us/pl/95/598/s240/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs240%2Fa
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2668
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

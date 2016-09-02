@@ -167,7 +167,7 @@ Amendments  </td>
 
 </table>
 
-    2005—[Pub. L. 109–2, § 3(b)][/us/pl/109/2/s3/b], Feb. 18, 2005, [119 Stat. 9][/us/stat/119/9], added item for chapter 114.
+    2005—[Pub. L. 109–2][/us/pl/109/2], § 3(b), Feb. 18, 2005, [119 Stat. 9][/us/stat/119/9], added item for chapter 114.
 
 ----------
 
@@ -176,7 +176,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/109/2/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs3%2Fb
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F9
 
 

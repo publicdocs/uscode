@@ -69,11 +69,11 @@
 
     (f) Notwithstanding the preceding provisions of this section, if any justice, judge, magistrate judge, or bankruptcy judge to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually or as a fiduciary, or his or her spouse or minor child residing in his or her household, has a financial interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the justice, judge, magistrate judge, bankruptcy judge, spouse or minor child, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 908][/us/stat/62/908]; [Pub. L. 93–512, § 1][/us/pl/93/512/s1], Dec. 5, 1974, [88 Stat. 1609][/us/stat/88/1609]; [Pub. L. 95–598, title II, § 214(a)][/us/pl/95/598/s214/a], (b), Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 100–702, title X, § 1007][/us/pl/100/702/s1007], Nov. 19, 1988, [102 Stat. 4667][/us/stat/102/4667]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 908][/us/stat/62/908]; [Pub. L. 93–512][/us/pl/93/512], § 1, Dec. 5, 1974, [88 Stat. 1609][/us/stat/88/1609]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 214(a), (b), Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1007, Nov. 19, 1988, [102 Stat. 4667][/us/stat/102/4667]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 24 ([Mar. 3, 1911, ch. 231, § 20][/us/act/1911-03-03/ch231/s20], [36 Stat. 1090][/us/stat/36/1090]).
+    Based on title 28, U.S.C., 1940 ed., § 24 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 20, [36 Stat. 1090][/us/stat/36/1090]).
 
     [Section 24 of title 28][/us/usc/t28/s24], U.S.C., 1940 ed., applied only to district judges. The revised section is made applicable to all justices and judges of the United States.
 
@@ -103,7 +103,7 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–512, § 3][/us/pl/93/512/s3], Dec. 5, 1974, [88 Stat. 1610][/us/stat/88/1610], provided that: 
+[Pub. L. 93–512][/us/pl/93/512], § 3, Dec. 5, 1974, [88 Stat. 1610][/us/stat/88/1610], provided that: 
 
 > “This Act \[amending this section\] shall not apply to the trial of any proceeding commenced prior to the date of this Act \[Dec. 5, 1974\], nor to appellate review of any proceeding which was fully submitted to the reviewing court prior to the date of this Act.”
 
@@ -116,15 +116,15 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F908
-[/us/pl/93/512/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F512%2Fs1
+[/us/pl/93/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F512
 [/us/stat/88/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1609
-[/us/pl/95/598/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs214%2Fa
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2661
-[/us/pl/100/702/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1007
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4667
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/act/1911-03-03/ch231/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs20
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1090
 [/us/usc/t28/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs24
 [/us/usc/t28/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs24
@@ -138,7 +138,7 @@
 [/us/pl/95/598/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fc
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 [/us/usc/t28/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs151
-[/us/pl/93/512/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F512%2Fs3
+[/us/pl/93/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F512
 [/us/stat/88/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1610
 
 

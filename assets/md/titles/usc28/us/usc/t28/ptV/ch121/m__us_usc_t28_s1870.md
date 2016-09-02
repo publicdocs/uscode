@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 424 ([Mar. 3, 1911, ch. 231, § 287][/us/act/1911-03-03/ch231/s287], [36 Stat. 1166][/us/stat/36/1166]).
+    Based on title 28, U.S.C., 1940 ed., § 424 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 287, [36 Stat. 1166][/us/stat/36/1166]).
 
     Provisions of [section 424 of title 28][/us/usc/t28/s424], U.S.C., 1940 ed., relating to the number of peremptory challenges in criminal cases were deleted as superseded by Rule 24 of the Federal Rules of Criminal Procedure.
 
@@ -48,7 +48,7 @@
 [/us/stat/62/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F953
 [/us/pl/86/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F282
 [/us/stat/73/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F565
-[/us/act/1911-03-03/ch231/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs287
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1166
 [/us/usc/t28/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs424
 [/us/usc/t28/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs424

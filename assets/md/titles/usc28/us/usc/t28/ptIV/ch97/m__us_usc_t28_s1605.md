@@ -49,7 +49,7 @@
 
     (d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in [section 31301 of title 46][/us/usc/t46/s31301]. Such action shall be brought, heard, and determined in accordance with the provisions of chapter 313 of title 46 and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
 
-    \[(e), (f) Repealed. [Pub. L. 110–181, div. A, title X, § 1083(b)(1)(B)][/us/pl/110/181/s1083/b/1/B], Jan. 28, 2008, [122 Stat. 341][/us/stat/122/341].\]
+    \[(e), (f) Repealed. [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1083(b)(1)(B), Jan. 28, 2008, [122 Stat. 341][/us/stat/122/341].\]
 
     (g) __Limitation on Discovery.—__ 
 
@@ -85,7 +85,7 @@
 
         Nothing in this subsection shall prevent the United States from seeking protective orders or asserting privileges ordinarily available to the United States.
 
-(Added [Pub. L. 94–583, § 4(a)][/us/pl/94/583/s4/a], Oct. 21, 1976, [90 Stat. 2892][/us/stat/90/2892]; amended [Pub. L. 100–640, § 1][/us/pl/100/640/s1], Nov. 9, 1988, [102 Stat. 3333][/us/stat/102/3333]; [Pub. L. 100–669, § 2][/us/pl/100/669/s2], Nov. 16, 1988, [102 Stat. 3969][/us/stat/102/3969]; [Pub. L. 101–650, title III, § 325(b)(8)][/us/pl/101/650/s325/b/8], Dec. 1, 1990, [104 Stat. 5121][/us/stat/104/5121]; [Pub. L. 104–132, title II, § 221(a)][/us/pl/104/132/s221/a], Apr. 24, 1996, [110 Stat. 1241][/us/stat/110/1241]; [Pub. L. 105–11][/us/pl/105/11], Apr. 25, 1997, [111 Stat. 22][/us/stat/111/22]; [Pub. L. 107–77, title VI, § 626(c)][/us/pl/107/77/s626/c], Nov. 28, 2001, [115 Stat. 803][/us/stat/115/803]; [Pub. L. 107–117, div. B, § 208][/us/pl/107/117/s208], Jan. 10, 2002, [115 Stat. 2299][/us/stat/115/2299]; [Pub. L. 109–304, § 17(f)(2)][/us/pl/109/304/s17/f/2], Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708]; [Pub. L. 110–181, div. A, title X, § 1083(b)(1)][/us/pl/110/181/s1083/b/1], Jan. 28, 2008, [122 Stat. 341][/us/stat/122/341].)
+(Added [Pub. L. 94–583][/us/pl/94/583], § 4(a), Oct. 21, 1976, [90 Stat. 2892][/us/stat/90/2892]; amended [Pub. L. 100–640][/us/pl/100/640], § 1, Nov. 9, 1988, [102 Stat. 3333][/us/stat/102/3333]; [Pub. L. 100–669][/us/pl/100/669], § 2, Nov. 16, 1988, [102 Stat. 3969][/us/stat/102/3969]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 325(b)(8), Dec. 1, 1990, [104 Stat. 5121][/us/stat/104/5121]; [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 221(a), Apr. 24, 1996, [110 Stat. 1241][/us/stat/110/1241]; [Pub. L. 105–11][/us/pl/105/11], Apr. 25, 1997, [111 Stat. 22][/us/stat/111/22]; [Pub. L. 107–77, title VI][/us/pl/107/77/tVI], § 626(c), Nov. 28, 2001, [115 Stat. 803][/us/stat/115/803]; [Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 208, Jan. 10, 2002, [115 Stat. 2299][/us/stat/115/2299]; [Pub. L. 109–304][/us/pl/109/304], § 17(f)(2), Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1083(b)(1), Jan. 28, 2008, [122 Stat. 341][/us/stat/122/341].)
 
  __References in Text__ 
 
@@ -93,11 +93,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(7). [Pub. L. 110–181, § 1083(b)(1)(A)][/us/pl/110/181/s1083/b/1/A], struck out par. (7) which provided for lack of jurisdictional immunity in certain cases in which money damages were sought against a foreign state for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act.
+    2008—Subsec. (a)(7). [Pub. L. 110–181][/us/pl/110/181], § 1083(b)(1)(A), struck out par. (7) which provided for lack of jurisdictional immunity in certain cases in which money damages were sought against a foreign state for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act.
 
-    Subsecs. (e), (f). [Pub. L. 110–181, § 1083(b)(1)(B)][/us/pl/110/181/s1083/b/1/B], struck out subsecs. (e) and (f) which defined “torture”, “extrajudicial killing”, “hostage taking”, and “aircraft sabotage” and provided for a 10-year statute of limitations for actions brought under former subsec. (a)(7) of this section.
+    Subsecs. (e), (f). [Pub. L. 110–181][/us/pl/110/181], § 1083(b)(1)(B), struck out subsecs. (e) and (f) which defined “torture”, “extrajudicial killing”, “hostage taking”, and “aircraft sabotage” and provided for a 10-year statute of limitations for actions brought under former subsec. (a)(7) of this section.
 
-    Subsec. (g)(1)(A). [Pub. L. 110–181, § 1083(b)(1)(C)][/us/pl/110/181/s1083/b/1/C], substituted “but for section 1605A” for “but for subsection (a)(7)”.
+    Subsec. (g)(1)(A). [Pub. L. 110–181][/us/pl/110/181], § 1083(b)(1)(C), substituted “but for section 1605A” for “but for subsection (a)(7)”.
 
     2006—Subsec. (d). [Pub. L. 109–304][/us/pl/109/304] substituted “[section 31301 of title 46][/us/usc/t46/s31301]” and “chapter 313 of title 46” for “the Ship Mortgage Act, 1920 ([46 U.S.C. 911][/us/usc/t46/s911] and following)” and “that Act”, respectively.
 
@@ -107,21 +107,21 @@
 
     1997—Subsec. (a)(7)(B)(ii). [Pub. L. 105–11][/us/pl/105/11] substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
 
-    1996—Subsec. (a)(7). [Pub. L. 104–132, § 221(a)(1)][/us/pl/104/132/s221/a/1], added par. (7).
+    1996—Subsec. (a)(7). [Pub. L. 104–132][/us/pl/104/132], § 221(a)(1), added par. (7).
 
-    Subsecs. (e) to (g). [Pub. L. 104–132, § 221(a)(2)][/us/pl/104/132/s221/a/2], added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 104–132][/us/pl/104/132], § 221(a)(2), added subsecs. (e) to (g).
 
     1990—Subsec. (a)(6). [Pub. L. 101–650][/us/pl/101/650] substituted “state” for “State” after “foreign”.
 
     1988—Subsec. (a)(6). [Pub. L. 100–669][/us/pl/100/669] added par. (6).
 
-    Subsec. (b). [Pub. L. 100–702, § 1(3)][/us/pl/100/702/s1/3], struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: Provided, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
+    Subsec. (b). [Pub. L. 100–702][/us/pl/100/702], § 1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: Provided, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
 
-    Subsec. (b)(1). [Pub. L. 100–640, § 1(1)][/us/pl/100/640/s1/1], substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign state was involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargo of a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
+    Subsec. (b)(1). [Pub. L. 100–640][/us/pl/100/640], § 1(1), substituted “and if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit, the service of process of arrest shall be deemed to constitute valid delivery of such notice, but the party bringing the suit shall be liable for any damages sustained by the foreign state as a result of the arrest if the party bringing the suit had actual or constructive knowledge that the vessel or cargo of a foreign state was involved” for “but such notice shall not be deemed to have been delivered, nor may it thereafter be delivered, if the vessel or cargo is arrested pursuant to process obtained on behalf of the party bringing the suit—unless the party was unaware that the vessel or cargo of a foreign state was involved, in which event the service of process of arrest shall be deemed to constitute valid delivery of such notice”.
 
-    Subsec. (b)(2). [Pub. L. 100–640, § 1(2)][/us/pl/100/640/s1/2], substituted “paragraph (1) of this subsection” for “subsection (b)(1) of this section”.
+    Subsec. (b)(2). [Pub. L. 100–640][/us/pl/100/640], § 1(2), substituted “paragraph (1) of this subsection” for “subsection (b)(1) of this section”.
 
-    Subsecs. (c), (d). [Pub. L. 100–702, § 1(3)][/us/pl/100/702/s1/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 100–702][/us/pl/100/702], § 1(3), added subsecs. (c) and (d).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -133,19 +133,19 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–132, title II, § 221(c)][/us/pl/104/132/s221/c], Apr. 24, 1996, [110 Stat. 1243][/us/stat/110/1243], provided that: 
+[Pub. L. 104–132, title II][/us/pl/104/132/tII], § 221(c), Apr. 24, 1996, [110 Stat. 1243][/us/stat/110/1243], provided that: 
 
 > “The amendments made by this subtitle \[subtitle B (§ 221) of title II of [Pub. L. 104–132][/us/pl/104/132], amending this section and [section 1610 of this title][/us/usc/t28/s1610]\] shall apply to any cause of action arising before, on, or after the date of the enactment of this Act \[Apr. 24, 1996\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–640, § 3][/us/pl/100/640/s3], Nov. 9, 1988, [102 Stat. 3334][/us/stat/102/3334], provided that: 
+[Pub. L. 100–640][/us/pl/100/640], § 3, Nov. 9, 1988, [102 Stat. 3334][/us/stat/102/3334], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 1610 of this title][/us/usc/t28/s1610]\] shall apply to actions commenced on or after the date of the enactment of this Act \[Nov. 9, 1988\].”
 
  __Civil Liability for Acts of State Sponsored Terrorism__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 589\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–172, provided that:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 589\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–172, provided that:
 
 >     “(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national’s legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] [section 1605(a)(7) of title 28][/us/usc/t28/s1605/a/7], United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
 
@@ -160,31 +160,31 @@
 
 [/us/usc/t28/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1608
 [/us/usc/t46/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31301
-[/us/pl/110/181/s1083/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fb%2F1%2FB
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F341
-[/us/pl/94/583/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs4%2Fa
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2892
-[/us/pl/100/640/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F640%2Fs1
+[/us/pl/100/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F640
 [/us/stat/102/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3333
-[/us/pl/100/669/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F669%2Fs2
+[/us/pl/100/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F669
 [/us/stat/102/3969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3969
-[/us/pl/101/650/s325/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs325%2Fb%2F8
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5121
-[/us/pl/104/132/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs221%2Fa
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1241
 [/us/pl/105/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F11
 [/us/stat/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F22
-[/us/pl/107/77/s626/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs626%2Fc
+[/us/pl/107/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtVI
 [/us/stat/115/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F803
-[/us/pl/107/117/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs208
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2299
-[/us/pl/109/304/s17/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Ff%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1708
-[/us/pl/110/181/s1083/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fb%2F1
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F341
-[/us/pl/110/181/s1083/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fb%2F1%2FA
-[/us/pl/110/181/s1083/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fb%2F1%2FB
-[/us/pl/110/181/s1083/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fb%2F1%2FC
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31301
 [/us/usc/t46/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs911
@@ -193,26 +193,26 @@
 [/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
 [/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
 [/us/pl/105/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F11
-[/us/pl/104/132/s221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs221%2Fa%2F1
-[/us/pl/104/132/s221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs221%2Fa%2F2
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/100/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F669
-[/us/pl/100/702/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1%2F3
-[/us/pl/100/640/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F640%2Fs1%2F1
-[/us/pl/100/640/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F640%2Fs1%2F2
-[/us/pl/100/702/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1%2F3
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F640
+[/us/pl/100/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F640
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/181/s1083/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fc
 [/us/usc/t28/s1605A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605A
 [/us/pl/105/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F11
-[/us/pl/104/132/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs221%2Fc
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1243
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
-[/us/pl/100/640/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F640%2Fs3
+[/us/pl/100/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F640
 [/us/stat/102/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3334
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t28/s1605/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605%2Fa%2F7

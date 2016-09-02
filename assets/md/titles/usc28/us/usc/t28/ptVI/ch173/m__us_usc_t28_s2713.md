@@ -17,7 +17,7 @@
 
     Not later than twenty days before the return day of a warrant issued under [section 2712 of this title][/us/usc/t28/s2712], the party whose property is attached, on notice to the United States Attorney, may file a plea in abatement, denying the allegations of the affidavit, or denying ownership in the defendant of the property attached. The court, upon application of either party, shall order a trial by jury of the issues. Where the parties, by consent, waive a trial by jury, the court shall decide the issues. A party claiming ownership of the property attached and seeking its return is limited to the remedy afforded by this section, but his right to an action of trespass, or other action for damages, is not impaired.
 
-(Added [Pub. L. 86–682, § 9][/us/pl/86/682/s9], Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
+(Added [Pub. L. 86–682][/us/pl/86/682], § 9, Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t28/s2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2712
-[/us/pl/86/682/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs9
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F707
 [/us/usc/t39/s840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs840
 [/us/pl/86/682/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs12%2Fc

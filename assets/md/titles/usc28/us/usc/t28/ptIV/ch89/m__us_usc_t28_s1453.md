@@ -55,7 +55,7 @@
 
         (3) a claim that relates to the rights, duties (including fiduciary duties), and obligations relating to or created by or pursuant to any security (as defined under section 2(a)(1) of the Securities Act of 1933 ([15 U.S.C. 77b(a)(1)][/us/usc/t15/s77b/a/1]) and the regulations issued thereunder).
 
-(Added [Pub. L. 109–2, § 5(a)][/us/pl/109/2/s5/a], Feb. 18, 2005, [119 Stat. 12][/us/stat/119/12]; amended [Pub. L. 111–16, § 6(2)][/us/pl/111/16/s6/2], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 112–63, title I, § 103(d)(2)][/us/pl/112/63/s103/d/2], Dec. 7, 2011, [125 Stat. 762][/us/stat/125/762].)
+(Added [Pub. L. 109–2][/us/pl/109/2], § 5(a), Feb. 18, 2005, [119 Stat. 12][/us/stat/119/12]; amended [Pub. L. 111–16][/us/pl/111/16], § 6(2), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 112–63, title I][/us/pl/112/63/tI], § 103(d)(2), Dec. 7, 2011, [125 Stat. 762][/us/stat/125/762].)
 
  __Amendments__ 
 
@@ -85,11 +85,11 @@
 [/us/usc/t15/s78p/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78p%2Ff%2F3
 [/us/usc/t15/s78bb/f/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78bb%2Ff%2F5%2FE
 [/us/usc/t15/s77b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b%2Fa%2F1
-[/us/pl/109/2/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs5%2Fa
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F12
-[/us/pl/111/16/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs6%2F2
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
-[/us/pl/112/63/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fd%2F2
+[/us/pl/112/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtI
 [/us/stat/125/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F762
 [/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16

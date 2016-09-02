@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–164, title I, § 120(b)(2)][/us/pl/97/164/s120/b/2], (c)(2), Apr. 2, 1982, [96 Stat. 33][/us/stat/96/33], substituted “Librarians” for “Criers, bailiffs and messengers” in item 713 and added items 714 and 715.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 120(b)(2), (c)(2), Apr. 2, 1982, [96 Stat. 33][/us/stat/96/33], substituted “Librarians” for “Criers, bailiffs and messengers” in item 713 and added items 714 and 715.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/97/164/s120/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs120%2Fb%2F2
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F33
 
 

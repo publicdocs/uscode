@@ -17,7 +17,7 @@
 
     When the property attached is sold on an interlocutory order or is producing revenue, the money arising from the sale or revenue shall be invested, under the order of the court, in securities of the United States. The accretions therefrom are subject to the order of the court.
 
-(Added [Pub. L. 86–682, § 9][/us/pl/86/682/s9], Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
+(Added [Pub. L. 86–682][/us/pl/86/682], § 9, Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/682/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs9
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F707
 [/us/usc/t39/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs841
 [/us/pl/86/682/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs12%2Fc

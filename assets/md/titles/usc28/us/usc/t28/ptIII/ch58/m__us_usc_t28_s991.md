@@ -33,7 +33,7 @@
 
         (2) develop means of measuring the degree to which the sentencing, penal, and correctional practices are effective in meeting the purposes of sentencing as set forth in [section 3553(a)(2) of title 18][/us/usc/t18/s3553/a/2], United States Code.
 
-(Added [Pub. L. 98–473, title II, § 217(a)][/us/pl/98/473/s217/a], Oct. 12, 1984, [98 Stat. 2017][/us/stat/98/2017]; amended [Pub. L. 99–22, § 1(1)][/us/pl/99/22/s1/1], Apr. 15, 1985, [99 Stat. 46][/us/stat/99/46]; [Pub. L. 103–322, title XXVIII, § 280005(a)][/us/pl/103/322/s280005/a], (c)(1), (2), Sept. 13, 1994, [108 Stat. 2096][/us/stat/108/2096], 2097; [Pub. L. 104–294, title VI, § 604(b)(11)][/us/pl/104/294/s604/b/11], Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507]; [Pub. L. 108–21, title IV, § 401(n)(1)][/us/pl/108/21/s401/n/1], Apr. 30, 2003, [117 Stat. 675][/us/stat/117/675]; [Pub. L. 110–406, § 16][/us/pl/110/406/s16], Oct. 13, 2008, [122 Stat. 4295][/us/stat/122/4295].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 217(a), Oct. 12, 1984, [98 Stat. 2017][/us/stat/98/2017]; amended [Pub. L. 99–22][/us/pl/99/22], § 1(1), Apr. 15, 1985, [99 Stat. 46][/us/stat/99/46]; [Pub. L. 103–322, title XXVIII][/us/pl/103/322/tXXVIII], § 280005(a), (c)(1), (2), Sept. 13, 1994, [108 Stat. 2096][/us/stat/108/2096], 2097; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(11), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507]; [Pub. L. 108–21, title IV][/us/pl/108/21/tIV], § 401(n)(1), Apr. 30, 2003, [117 Stat. 675][/us/stat/117/675]; [Pub. L. 110–406][/us/pl/110/406], § 16, Oct. 13, 2008, [122 Stat. 4295][/us/stat/122/4295].)
 
  __Amendments__ 
 
@@ -43,15 +43,15 @@
 
     1996—Subsec. (a). [Pub. L. 104–294][/us/pl/104/294] made technical correction to directory language of [Pub. L. 103–322][/us/pl/103/322]. See 1994 Amendment note below.
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 280005(c)(1)][/us/pl/103/322/s280005/c/1], (2), in second sentence, substituted “Chair” for “Chairman” and in fifth sentence, substituted “the Attorney General’s designee” for “his designee”.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 280005(c)(1), (2), in second sentence, substituted “Chair” for “Chairman” and in fifth sentence, substituted “the Attorney General’s designee” for “his designee”.
 
-    [Pub. L. 103–322, § 280005(a)][/us/pl/103/322/s280005/a], as amended by [Pub. L. 104–294][/us/pl/104/294], in second sentence, substituted “and three of whom shall be designated by the President as Vice Chairs.” for the period at end, in fourth sentence, substituted “, and of the three Vice Chairs, no more than two shall be members of the same political party.” for the period at end, and in last sentence, substituted “Chair, Vice Chairs,” for “Chairman”.
+    [Pub. L. 103–322][/us/pl/103/322], § 280005(a), as amended by [Pub. L. 104–294][/us/pl/104/294], in second sentence, substituted “and three of whom shall be designated by the President as Vice Chairs.” for the period at end, in fourth sentence, substituted “, and of the three Vice Chairs, no more than two shall be members of the same political party.” for the period at end, and in last sentence, substituted “Chair, Vice Chairs,” for “Chairman”.
 
     1985—Subsec. (a). [Pub. L. 99–22][/us/pl/99/22] struck out “in regular active service” after “Federal judges”.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–21, title IV, § 401(n)(2)][/us/pl/108/21/s401/n/2], Apr. 30, 2003, [117 Stat. 676][/us/stat/117/676], provided that: 
+[Pub. L. 108–21, title IV][/us/pl/108/21/tIV], § 401(n)(2), Apr. 30, 2003, [117 Stat. 676][/us/stat/117/676], provided that: 
 
 > “The amendment made under paragraph (1) \[amending this section\] shall not apply to any person who is serving, or who has been nominated to serve, as a member of the Sentencing Commission on the date of enactment of this Act \[Apr. 30, 2003\].”
 
@@ -76,27 +76,27 @@
 
 [/us/usc/t18/s3553/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553%2Fa%2F2
 [/us/usc/t18/s3553/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553%2Fa%2F2
-[/us/pl/98/473/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs217%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2017
-[/us/pl/99/22/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F22%2Fs1%2F1
+[/us/pl/99/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F22
 [/us/stat/99/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F46
-[/us/pl/103/322/s280005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fa
+[/us/pl/103/322/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVIII
 [/us/stat/108/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2096
-[/us/pl/104/294/s604/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F11
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3507
-[/us/pl/108/21/s401/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fn%2F1
+[/us/pl/108/21/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIV
 [/us/stat/117/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F675
-[/us/pl/110/406/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs16
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4295
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/103/322/s280005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fc%2F1
-[/us/pl/103/322/s280005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fa
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/99/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F22
-[/us/pl/108/21/s401/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fn%2F2
+[/us/pl/108/21/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIV
 [/us/stat/117/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F676
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd

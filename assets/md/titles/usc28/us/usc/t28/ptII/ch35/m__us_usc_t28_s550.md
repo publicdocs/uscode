@@ -17,7 +17,7 @@
 
     The United States attorneys may employ clerical assistants, messengers, and private process servers on approval of the Attorney General.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 619][/us/stat/80/619]; amended [Pub. L. 101–647, title XXXVI, § 3626(a)][/us/pl/101/647/s3626/a], Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 619][/us/stat/80/619]; amended [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3626(a), Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965].)
 
 <table>
 
@@ -77,7 +77,7 @@ Statutes at Large  </td>
 
  __1948__  __Act__ 
 
-    Prior section 510.—Based on title 28, U.S.C., 1940 ed., §§ 484, 593 ([May 28, 1896, ch. 252, § 15][/us/act/1896-05-28/ch252/s15], [29 Stat. 183][/us/stat/29/183]; [June 30, 1906, ch. 3914, § 1][/us/act/1906-06-30/ch3914/s1], [34 Stat. 753][/us/stat/34/753]; [July 19, 1919, ch. 24, § 1][/us/act/1919-07-19/ch24/s1], [41 Stat. 209][/us/stat/41/209]).
+    Prior section 510.—Based on title 28, U.S.C., 1940 ed., §§ 484, 593 ([May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], § 15, [29 Stat. 183][/us/stat/29/183]; [June 30, 1906, ch. 3914][/us/act/1906-06-30/ch3914], § 1, [34 Stat. 753][/us/stat/34/753]; [July 19, 1919, ch. 24][/us/act/1919-07-19/ch24], § 1, [41 Stat. 209][/us/stat/41/209]).
 
     Section consolidates and simplifies sections 484 and 593 of title 28, U.S.C., 1940 ed. For provisions with respect to classified civil service, see sections 631–684 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
 
@@ -95,19 +95,19 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 550, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912]; Sept. 9, 1959, [Pub. L. 86–243, § 2][/us/pl/86/243/s2], [73 Stat. 474][/us/stat/73/474], related to disbursement of salaries and expenses, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 571 of this title][/us/usc/t28/s571] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 550, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912]; Sept. 9, 1959, [Pub. L. 86–243][/us/pl/86/243], § 2, [73 Stat. 474][/us/stat/73/474], related to disbursement of salaries and expenses, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 571 of this title][/us/usc/t28/s571] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
-    A prior section 551, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912], related to the collection of fees by United States marshals, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 572 of this title][/us/usc/t28/s572] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 551, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912], related to the collection of fees by United States marshals, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 572 of this title][/us/usc/t28/s572] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
-    A prior section 552, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912], related to the fixing of salaries of United States marshals, their deputies and assistants, by the Attorney General, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 571 of this title][/us/usc/t28/s571] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 552, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912], related to the fixing of salaries of United States marshals, their deputies and assistants, by the Attorney General, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 571 of this title][/us/usc/t28/s571] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
-    A prior section 553, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912]; [May 24, 1949, ch. 139, § 72][/us/act/1949-05-24/ch139/s72], [63 Stat. 100][/us/stat/63/100]; [Aug. 4, 1955, ch. 550][/us/act/1955-08-04/ch550], [69 Stat. 492][/us/stat/69/492]; Aug. 14, 1961, [Pub. L. 87–139, § 5][/us/pl/87/139/s5], [75 Stat. 340][/us/stat/75/340], related to expenses of marshal, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 567 of this title][/us/usc/t28/s567] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 553, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 72, [63 Stat. 100][/us/stat/63/100]; [Aug. 4, 1955, ch. 550][/us/act/1955-08-04/ch550], [69 Stat. 492][/us/stat/69/492]; Aug. 14, 1961, [Pub. L. 87–139][/us/pl/87/139], § 5, [75 Stat. 340][/us/stat/75/340], related to expenses of marshal, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 567 of this title][/us/usc/t28/s567] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
-    A prior section 554, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 913][/us/stat/62/913], related to the delivery of prisoners to the successor marshal, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 573 of this title][/us/usc/t28/s573] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 554, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 913][/us/stat/62/913], related to the delivery of prisoners to the successor marshal, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 573 of this title][/us/usc/t28/s573] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
-    A prior section 555, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 913][/us/stat/62/913], related to the delivery of all unserved process to the successor marshal or his deputies, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 574 of this title][/us/usc/t28/s574] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 555, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 913][/us/stat/62/913], related to the delivery of all unserved process to the successor marshal or his deputies, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 574 of this title][/us/usc/t28/s574] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
-    A prior section 556, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 913][/us/stat/62/913], related to the prohibition of the practice of law by a marshal or deputy marshal, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 575 of this title][/us/usc/t28/s575] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 556, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 913][/us/stat/62/913], related to the prohibition of the practice of law by a marshal or deputy marshal, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 663][/us/stat/80/663], and reenactment in [section 575 of this title][/us/usc/t28/s575] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
  __Amendments__ 
 
@@ -124,15 +124,15 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F619
-[/us/pl/101/647/s3626/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3626%2Fa
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4965
-[/us/act/1896-05-28/ch252/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs15
+[/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F183
-[/us/act/1906-06-30/ch3914/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-30%2Fch3914%2Fs1
+[/us/act/1906-06-30/ch3914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-30%2Fch3914
 [/us/stat/34/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F753
-[/us/act/1919-07-19/ch24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-19%2Fch24%2Fs1
+[/us/act/1919-07-19/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-19%2Fch24
 [/us/stat/41/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F209
 [/us/usc/t28/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs593
 [/us/usc/t28/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs484
@@ -142,50 +142,50 @@ Statutes at Large  </td>
 [/us/usc/t28/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs484
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F912
-[/us/pl/86/243/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F243%2Fs2
+[/us/pl/86/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F243
 [/us/stat/73/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F474
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs571
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F912
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F663
 [/us/usc/t28/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs572
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F912
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F663
 [/us/usc/t28/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs571
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F912
-[/us/act/1949-05-24/ch139/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs72
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F100
 [/us/act/1955-08-04/ch550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-04%2Fch550
 [/us/stat/69/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F492
-[/us/pl/87/139/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F139%2Fs5
+[/us/pl/87/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F139
 [/us/stat/75/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F340
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F663
 [/us/usc/t28/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs567
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F913
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F663
 [/us/usc/t28/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs573
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F913
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F663
 [/us/usc/t28/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs574
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F913
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F663
 [/us/usc/t28/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs575
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc

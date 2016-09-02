@@ -19,11 +19,11 @@
 
     (b) If the judge of a district court is unable to attend and unable to make an order of adjournment, the clerk may adjourn the court to the next regular session or to any earlier day which he may determine.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139, § 1][/us/pl/88/139/s1], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139][/us/pl/88/139], § 1, Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 16, 146, 182 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 12, 73, 101, [36 Stat. 1088][/us/stat/36/1088], 1108, 1122; [June 12, 1916, ch. 143][/us/act/1916-06-12/ch143], [39 Stat. 225][/us/stat/39/225]; [Feb. 20, 1917, ch. 102][/us/act/1917-02-20/ch102], [39 Stat. 927][/us/stat/39/927]; [June 13, 1918, ch. 98][/us/act/1918-06-13/ch98], [40 Stat. 604][/us/stat/40/604]; [Feb. 26, 1919, ch. 54][/us/act/1919-02-26/ch54], [40 Stat. 1184][/us/stat/40/1184]; [May 29, 1924, ch. 209][/us/act/1924-05-29/ch209], [43 Stat. 243][/us/stat/43/243]; [June 5, 1924, ch. 259][/us/act/1924-06-05/ch259], [43 Stat. 387][/us/stat/43/387]; Jan. 10, 1925, chs. 68, 69, [43 Stat. 730][/us/stat/43/730], 731; [Feb. 16, 1925, ch. 233, § 1][/us/act/1925-02-16/ch233/s1], [43 Stat. 945][/us/stat/43/945]; [May 7, 1926, ch. 255][/us/act/1926-05-07/ch255], [44 Stat. 408][/us/stat/44/408]; [Apr. 21, 1928, ch. 395][/us/act/1928-04-21/ch395], [45 Stat. 440][/us/stat/45/440]; [Mar. 2, 1929, ch. 539][/us/act/1929-03-02/ch539], [45 Stat. 1518][/us/stat/45/1518]; [June 28, 1930, ch. 714][/us/act/1930-06-28/ch714], [46 Stat. 829][/us/stat/46/829]; [May 13, 1936, ch. 386][/us/act/1936-05-13/ch386], [49 Stat. 1271][/us/stat/49/1271]; [Aug. 12, 1937, ch. 595][/us/act/1937-08-12/ch595], [50 Stat. 625][/us/stat/50/625]).
+    Based on title 28, U.S.C., 1940 ed., §§ 16, 146, 182 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 12, 73, 101, [36 Stat. 1088][/us/stat/36/1088], 1108, 1122; [June 12, 1916, ch. 143][/us/act/1916-06-12/ch143], [39 Stat. 225][/us/stat/39/225]; [Feb. 20, 1917, ch. 102][/us/act/1917-02-20/ch102], [39 Stat. 927][/us/stat/39/927]; [June 13, 1918, ch. 98][/us/act/1918-06-13/ch98], [40 Stat. 604][/us/stat/40/604]; [Feb. 26, 1919, ch. 54][/us/act/1919-02-26/ch54], [40 Stat. 1184][/us/stat/40/1184]; [May 29, 1924, ch. 209][/us/act/1924-05-29/ch209], [43 Stat. 243][/us/stat/43/243]; [June 5, 1924, ch. 259][/us/act/1924-06-05/ch259], [43 Stat. 387][/us/stat/43/387]; Jan. 10, 1925, chs. 68, 69, [43 Stat. 730][/us/stat/43/730], 731; [Feb. 16, 1925, ch. 233][/us/act/1925-02-16/ch233], § 1, [43 Stat. 945][/us/stat/43/945]; [May 7, 1926, ch. 255][/us/act/1926-05-07/ch255], [44 Stat. 408][/us/stat/44/408]; [Apr. 21, 1928, ch. 395][/us/act/1928-04-21/ch395], [45 Stat. 440][/us/stat/45/440]; [Mar. 2, 1929, ch. 539][/us/act/1929-03-02/ch539], [45 Stat. 1518][/us/stat/45/1518]; [June 28, 1930, ch. 714][/us/act/1930-06-28/ch714], [46 Stat. 829][/us/stat/46/829]; [May 13, 1936, ch. 386][/us/act/1936-05-13/ch386], [49 Stat. 1271][/us/stat/49/1271]; [Aug. 12, 1937, ch. 595][/us/act/1937-08-12/ch595], [50 Stat. 625][/us/stat/50/625]).
 
     Section consolidates section 16 with the third sentence of section 146, and the final proviso in the third paragraph of section 182, all of title 28, U.S.C., 1940 ed.
 
@@ -48,7 +48,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F897
-[/us/pl/88/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs1
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 [/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1088
@@ -65,7 +65,7 @@
 [/us/act/1924-06-05/ch259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-05%2Fch259
 [/us/stat/43/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F387
 [/us/stat/43/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F730
-[/us/act/1925-02-16/ch233/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-16%2Fch233%2Fs1
+[/us/act/1925-02-16/ch233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-16%2Fch233
 [/us/stat/43/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F945
 [/us/act/1926-05-07/ch255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch255
 [/us/stat/44/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F408

@@ -55,7 +55,7 @@
 
         (6) The term “State court” includes the Superior Court of the District of Columbia, a court of a United States territory or insular possession, and a tribal court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 938][/us/stat/62/938]; [Pub. L. 104–317, title II, § 206(a)][/us/pl/104/317/s206/a], Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850]; [Pub. L. 112–51, § 2(a)][/us/pl/112/51/s2/a], (b), Nov. 9, 2011, [125 Stat. 545][/us/stat/125/545]; [Pub. L. 112–239, div. A, title X, § 1087][/us/pl/112/239/s1087], Jan. 2, 2013, [126 Stat. 1969][/us/stat/126/1969].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 938][/us/stat/62/938]; [Pub. L. 104–317, title II][/us/pl/104/317/tII], § 206(a), Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850]; [Pub. L. 112–51][/us/pl/112/51], § 2(a), (b), Nov. 9, 2011, [125 Stat. 545][/us/stat/125/545]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1087, Jan. 2, 2013, [126 Stat. 1969][/us/stat/126/1969].)
 
  __Historical and Revision Notes__ 
 
@@ -73,17 +73,17 @@
 
     2013—Subsecs. (c), (d). [Pub. L. 112–239][/us/pl/112/239] added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “As used in subsection (a), the terms ‘civil action’ and ‘criminal prosecution’ include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. If removal is sought for a proceeding described in the previous sentence, and there is no other basis for removal, only that proceeding may be removed to the district court.”
 
-    2011—Subsec. (a). [Pub. L. 112–51, § 2(a)(1)][/us/pl/112/51/s2/a/1], inserted “that is” after “or criminal prosecution”, “and that is” after “in a State court”, and “or directed to” after “against” in introductory provisions.
+    2011—Subsec. (a). [Pub. L. 112–51][/us/pl/112/51], § 2(a)(1), inserted “that is” after “or criminal prosecution”, “and that is” after “in a State court”, and “or directed to” after “against” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 112–51, § 2(b)(1)][/us/pl/112/51/s2/b/1], substituted “capacity, for or relating to” for “capacity for” and struck out “sued” after “thereof,”.
+    Subsec. (a)(1). [Pub. L. 112–51][/us/pl/112/51], § 2(b)(1), substituted “capacity, for or relating to” for “capacity for” and struck out “sued” after “thereof,”.
 
-    Subsec. (a)(3), (4). [Pub. L. 112–51, § 2(b)(2)][/us/pl/112/51/s2/b/2], inserted “or relating to” after “for”.
+    Subsec. (a)(3), (4). [Pub. L. 112–51][/us/pl/112/51], § 2(b)(2), inserted “or relating to” after “for”.
 
-    Subsec. (c). [Pub. L. 112–51, § 2(a)(2)][/us/pl/112/51/s2/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–51][/us/pl/112/51], § 2(a)(2), added subsec. (c).
 
-    1996—[Pub. L. 104–317, § 206(a)(1)][/us/pl/104/317/s206/a/1], inserted “or agencies” after “officers” in section catchline.
+    1996—[Pub. L. 104–317][/us/pl/104/317], § 206(a)(1), inserted “or agencies” after “officers” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–317, § 206(a)(2)][/us/pl/104/317/s206/a/2], struck out “persons” after “following” in introductory provisions and substituted “The United States or any agency thereof or any officer (or any person acting under that officer) of the United States or of any agency thereof, sued in an official or individual capacity for any act under color of such office” for “Any officer of the United States or any agency thereof, or person acting under him, for any act under color of such office” in par. (1).
+    Subsec. (a). [Pub. L. 104–317][/us/pl/104/317], § 206(a)(2), struck out “persons” after “following” in introductory provisions and substituted “The United States or any agency thereof or any officer (or any person acting under that officer) of the United States or of any agency thereof, sued in an official or individual capacity for any act under color of such office” for “Any officer of the United States or any agency thereof, or person acting under him, for any act under color of such office” in par. (1).
 
 ----------
 
@@ -98,11 +98,11 @@
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F938
-[/us/pl/104/317/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs206%2Fa
+[/us/pl/104/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtII
 [/us/stat/110/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3850
-[/us/pl/112/51/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51%2Fs2%2Fa
+[/us/pl/112/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51
 [/us/stat/125/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F545
-[/us/pl/112/239/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1087
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1969
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1097
@@ -111,11 +111,11 @@
 [/us/usc/t28/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs76
 [/us/usc/t28/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs76
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/51/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51%2Fs2%2Fa%2F1
-[/us/pl/112/51/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51%2Fs2%2Fb%2F1
-[/us/pl/112/51/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51%2Fs2%2Fb%2F2
-[/us/pl/112/51/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51%2Fs2%2Fa%2F2
-[/us/pl/104/317/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs206%2Fa%2F1
-[/us/pl/104/317/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs206%2Fa%2F2
+[/us/pl/112/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51
+[/us/pl/112/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51
+[/us/pl/112/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51
+[/us/pl/112/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 
 

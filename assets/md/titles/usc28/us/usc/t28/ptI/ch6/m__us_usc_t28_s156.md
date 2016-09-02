@@ -27,13 +27,13 @@
 
     (f) For purposes of financial accountability in a district where a bankruptcy clerk has been certified, such clerk shall be accountable for and pay into the Treasury all fees, costs, and other monies collected by such clerk except uncollected fees not required by an Act of Congress to be prepaid. Such clerk shall make returns thereof to the Director of the Administrative Office of the United States Courts and the Director of the Executive Office For United States Trustees, under regulations prescribed by such Directors.
 
-(Added [Pub. L. 98–353, title I, § 104(a)][/us/pl/98/353/s104/a], July 10, 1984, [98 Stat. 339][/us/stat/98/339]; amended [Pub. L. 99–554, title I][/us/pl/99/554], §§ 103, 142, 144(a), Oct. 27, 1986, [100 Stat. 3090][/us/stat/100/3090], 3096; [Pub. L. 100–702, title X, § 1003(a)(3)][/us/pl/100/702/s1003/a/3], Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 104(a), July 10, 1984, [98 Stat. 339][/us/stat/98/339]; amended [Pub. L. 99–554, title I][/us/pl/99/554/tI], §§ 103, 142, 144(a), Oct. 27, 1986, [100 Stat. 3090][/us/stat/100/3090], 3096; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1003(a)(3), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665].)
 
  __Amendments__ 
 
     1988—Subsec. (a). [Pub. L. 100–702][/us/pl/100/702] inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
 
-    1986—Subsec. (d). [Pub. L. 99–554, § 103][/us/pl/99/554/s103], added subsec. (d).
+    1986—Subsec. (d). [Pub. L. 99–554][/us/pl/99/554], § 103, added subsec. (d).
 
     Subsecs. (e), (f). [Pub. L. 99–554][/us/pl/99/554], §§ 142, 144(a), added subsecs. (e) and (f).
 
@@ -49,14 +49,14 @@
 ----------
 
 [/us/usc/t28/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1334
-[/us/pl/98/353/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs104%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F339
-[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtI
 [/us/stat/100/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3090
-[/us/pl/100/702/s1003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1003%2Fa%2F3
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4665
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
-[/us/pl/99/554/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs103
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs103
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554

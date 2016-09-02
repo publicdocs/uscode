@@ -21,11 +21,11 @@
 
     The court of appeals for each circuit shall provide by its rules for representation and active participation at such conference by members of the bar of such circuit.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 903][/us/stat/62/903]; [Dec. 29, 1950, ch. 1185][/us/act/1950-12-29/ch1185], [64 Stat. 1128][/us/stat/64/1128]; [Oct. 31, 1951, ch. 655, § 38][/us/act/1951-10-31/ch655/s38], [65 Stat. 723][/us/stat/65/723]; [Pub. L. 85–508, § 12(e)][/us/pl/85/508/s12/e], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 95–598, title II, § 210][/us/pl/95/598/s210], Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 101–650, title III, § 320][/us/pl/101/650/s320], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title III, § 305\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–36; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 110–406, § 9][/us/pl/110/406/s9], Oct. 13, 2008, [122 Stat. 4293][/us/stat/122/4293].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 903][/us/stat/62/903]; [Dec. 29, 1950, ch. 1185][/us/act/1950-12-29/ch1185], [64 Stat. 1128][/us/stat/64/1128]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 38, [65 Stat. 723][/us/stat/65/723]; [Pub. L. 85–508][/us/pl/85/508], § 12(e), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 210, Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 320, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title III, § 305\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–36; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 110–406][/us/pl/110/406], § 9, Oct. 13, 2008, [122 Stat. 4293][/us/stat/122/4293].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 449, 450 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 307, 308, as added [Aug. 7, 1939, ch. 501, § 1][/us/act/1939-08-07/ch501/s1], [53 Stat. 1223][/us/stat/53/1223]).
+    Based on title 28, U.S.C., 1940 ed., §§ 449, 450 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 307, 308, as added [Aug. 7, 1939, ch. 501][/us/act/1939-08-07/ch501], § 1, [53 Stat. 1223][/us/stat/53/1223]).
 
     Section consolidates parts of sections 449 and 450 of title 28, U.S.C., 1940 ed.
 
@@ -39,9 +39,9 @@
 
     2008—[Pub. L. 110–406][/us/pl/110/406] inserted “magistrate,” after “district,” in first par.
 
-    1996—[Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title III, § 305(1)\], in first par. substituted “may” for “shall” before “summon biennially”, “preside at such”, and “also be summoned”.
+    1996—[Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title III, § 305(1)\], in first par. substituted “may” for “shall” before “summon biennially”, “preside at such”, and “also be summoned”.
 
-    [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title III, § 305(2)\], in second par. substituted “may” for “shall” before “attend” and struck out “, and unless excused by the chief judge, shall remain throughout the conference” before period at end.
+    [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title III, § 305(2)\], in second par. substituted “may” for “shall” before “attend” and struck out “, and unless excused by the chief judge, shall remain throughout the conference” before period at end.
 
     1990—[Pub. L. 101–650][/us/pl/101/650] substituted “biennially, and may summon annually,” for “annually”, struck out “the United States District Court for the District of the Canal Zone,” after “The judges of”, and substituted “the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands shall also be summoned biennially, and may be summoned annually,” for “and the District Court of the Virgin Islands shall also be summoned annually”.
 
@@ -63,7 +63,7 @@
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70/tII], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 ----------
 
@@ -76,22 +76,22 @@
 [/us/stat/62/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F903
 [/us/act/1950-12-29/ch1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-12-29%2Fch1185
 [/us/stat/64/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1128
-[/us/act/1951-10-31/ch655/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs38
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F723
-[/us/pl/85/508/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fe
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/95/598/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs210
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2661
-[/us/pl/101/650/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs320
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/110/406/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs9
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4293
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
-[/us/act/1939-08-07/ch501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501%2Fs1
+[/us/act/1939-08-07/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501
 [/us/stat/53/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1223
 [/us/usc/t28/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs450
 [/us/usc/t28/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604
@@ -99,8 +99,8 @@
 [/us/usc/t28/s449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs449
 [/us/usc/t28/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs456
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
@@ -112,7 +112,7 @@
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/usc/t28/s81A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs81A
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
 
 

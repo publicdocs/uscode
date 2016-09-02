@@ -29,11 +29,11 @@
 
     (6) The Sixth Division comprises the counties of Becker, Beltrami, Big Stone, Clay, Clearwater, Douglas, Grant, Hubbard, Kittson, Lake of the Woods, Mahnomen, Marshall, Norman, Otter Tail, Pennington, Polk, Pope, Red Lake, Roseau, Stearns, Stevens, Todd, Traverse, Wadena, and Wilkin.    Court for the Sixth Division shall be held at Fergus Falls and Bemidji.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 882][/us/stat/62/882]; [Pub. L. 110–406, § 18][/us/pl/110/406/s18], Oct. 13, 2008, [122 Stat. 4295][/us/stat/122/4295].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 882][/us/stat/62/882]; [Pub. L. 110–406][/us/pl/110/406], § 18, Oct. 13, 2008, [122 Stat. 4295][/us/stat/122/4295].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 169 ([Mar. 3, 1911, ch. 231, § 89][/us/act/1911-03-03/ch231/s89], [36 Stat. 1115][/us/stat/36/1115]; [Apr. 10, 1926, ch. 113][/us/act/1926-04-10/ch113], [44 Stat. 238][/us/stat/44/238]).
+    Based on title 28, U.S.C., 1940 ed., § 169 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 89, [36 Stat. 1115][/us/stat/36/1115]; [Apr. 10, 1926, ch. 113][/us/act/1926-04-10/ch113], [44 Stat. 238][/us/stat/44/238]).
 
     Provisions relating to the appointment and residence of deputy clerks and the maintenance of offices by them were omitted as covered by [section 751 of this title][/us/usc/t28/s751].
 
@@ -54,9 +54,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F882
-[/us/pl/110/406/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs18
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4295
-[/us/act/1911-03-03/ch231/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs89
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1115
 [/us/act/1926-04-10/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-10%2Fch113
 [/us/stat/44/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F238

@@ -41,7 +41,7 @@
 
     (b) Except as provided in subsection (a), section 3702 shall apply on lands described in section 4(4) of the Indian Gaming Regulatory Act ([25 U.S.C. 2703(4)][/us/usc/t25/s2703/4]).
 
-(Added [Pub. L. 102–559, § 2(a)][/us/pl/102/559/s2/a], Oct. 28, 1992, [106 Stat. 4228][/us/stat/106/4228].)
+(Added [Pub. L. 102–559][/us/pl/102/559], § 2(a), Oct. 28, 1992, [106 Stat. 4228][/us/stat/106/4228].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t25/s2703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2703%2F4
-[/us/pl/102/559/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559%2Fs2%2Fa
+[/us/pl/102/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559
 [/us/stat/106/4228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4228
 [/us/pl/102/559/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559%2Fs3
 [/us/usc/t28/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3701

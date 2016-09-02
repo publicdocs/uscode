@@ -21,11 +21,11 @@
 
     (c) All summons, pleadings, and other papers filed in the Court of International Trade shall be served on all parties in accordance with rules prescribed by the court. When the United States, its agencies, or its officers are adverse parties, service of the summons shall be made upon the Attorney General and the head of the Government agency whose action is being contested. When injunctive relief is sought, the summons, pleadings, and other papers shall also be served upon the named officials sought to be enjoined.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1732][/us/stat/94/1732].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1732][/us/stat/94/1732].)
 
  __Prior Provisions__ 
 
-    A prior section 2633, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 980][/us/stat/62/980]; June 2, 1970, [Pub. L. 91–271, title I, § 114][/us/pl/91/271/s114], [84 Stat. 279][/us/stat/84/279]; July 26, 1979, [Pub. L. 96–39, title X, § 1001(b)(4)(D)][/us/pl/96/39/s1001/b/4/D], [93 Stat. 306][/us/stat/93/306], related to precedence of cases, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2647 of this title][/us/usc/t28/s2647].
+    A prior section 2633, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 980][/us/stat/62/980]; June 2, 1970, [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 114, [84 Stat. 279][/us/stat/84/279]; July 26, 1979, [Pub. L. 96–39, title X][/us/pl/96/39/tX], § 1001(b)(4)(D), [93 Stat. 306][/us/stat/93/306], related to precedence of cases, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2647 of this title][/us/usc/t28/s2647].
 
 ----------
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1732
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F980
-[/us/pl/91/271/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs114
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F279
-[/us/pl/96/39/s1001/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F4%2FD
+[/us/pl/96/39/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtX
 [/us/stat/93/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F306
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s2647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2647

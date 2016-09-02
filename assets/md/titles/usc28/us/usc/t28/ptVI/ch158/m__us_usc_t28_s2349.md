@@ -19,7 +19,7 @@
 
     (b) The filing of the petition to review does not of itself stay or suspend the operation of the order of the agency, but the court of appeals in its discretion may restrain or suspend, in whole or in part, the operation of the order pending the final hearing and determination of the petition. When the petitioner makes application for an interlocutory injunction restraining or suspending the enforcement, operation, or execution of, or setting aside, in whole or in part, any order reviewable under this chapter, at least 5 days’ notice of the hearing thereon shall be given to the agency and to the Attorney General. In a case in which irreparable damage would otherwise result to the petitioner, the court of appeals may, on hearing, after reasonable notice to the agency and to the Attorney General, order a temporary stay or suspension, in whole or in part, of the operation of the order of the agency for not more than 60 days from the date of the order pending the hearing on the application for the interlocutory injunction, in which case the order of the court of appeals shall contain a specific finding, based on evidence submitted to the court of appeals, and identified by reference thereto, that irreparable damage would result to the petitioner and specifying the nature of the damage. The court of appeals, at the time of hearing the application for an interlocutory injunction, on a like finding, may continue the temporary stay or suspension, in whole or in part, until decision on the application.
 
-(Added [Pub. L. 89–554, § 4(e)][/us/pl/89/554/s4/e], Sept. 6, 1966, [80 Stat. 624][/us/stat/80/624]; amended [Pub. L. 98–620, title IV, § 402(29)(F)][/us/pl/98/620/s402/29/F], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(e), Sept. 6, 1966, [80 Stat. 624][/us/stat/80/624]; amended [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(29)(F), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
 
 <table>
 
@@ -104,9 +104,9 @@ Sept. 13, 1961, Pub. L. 87–225, § 1, 75 Stat. 497.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F624
-[/us/pl/98/620/s402/29/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F29%2FF
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

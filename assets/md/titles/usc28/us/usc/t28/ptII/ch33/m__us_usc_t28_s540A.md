@@ -33,7 +33,7 @@
 
         (3) “traveler” means a victim of a crime of violence who is not a resident of the State in which the crime of violence occurred.
 
-(Added [Pub. L. 103–322, title XXXII, § 320916(a)][/us/pl/103/322/s320916/a], Sept. 13, 1994, [108 Stat. 2129][/us/stat/108/2129]; amended [Pub. L. 104–294, title VI, § 604(b)(21)][/us/pl/104/294/s604/b/21], Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507].)
+(Added [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320916(a), Sept. 13, 1994, [108 Stat. 2129][/us/stat/108/2129]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(21), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320916/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320916%2Fa
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2129
-[/us/pl/104/294/s604/b/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F21
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3507
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294

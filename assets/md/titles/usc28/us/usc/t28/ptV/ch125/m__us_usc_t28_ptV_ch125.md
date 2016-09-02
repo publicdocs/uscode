@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–317, title II, § 203(b)][/us/pl/104/317/s203/b], Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850], substituted “for enforcement in other districts” for “of the district courts and the Court of International Trade” in item 1963.
+    1996—[Pub. L. 104–317, title II][/us/pl/104/317/tII], § 203(b), Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850], substituted “for enforcement in other districts” for “of the district courts and the Court of International Trade” in item 1963.
 
-    1988—[Pub. L. 100–702, title X, § 1002(b)(3)][/us/pl/100/702/s1002/b/3], Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664], substituted “Registration of judgments of the district courts and the Court of International Trade” for “Registration in other districts” in item 1963 and repealed item 1963A “Registration of judgments of the Court of International Trade”.
+    1988—[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1002(b)(3), Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664], substituted “Registration of judgments of the district courts and the Court of International Trade” for “Registration in other districts” in item 1963 and repealed item 1963A “Registration of judgments of the Court of International Trade”.
 
-    1980—[Pub. L. 96–417, title V, § 511(b)][/us/pl/96/417/s511/b], Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743], added item 1963A.
+    1980—[Pub. L. 96–417, title V][/us/pl/96/417/tV], § 511(b), Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743], added item 1963A.
 
-    1958—[Pub. L. 85–689, § 1(b)][/us/pl/85/689/s1/b], (c), Aug. 20, 1958, [72 Stat. 683][/us/stat/72/683], substituted “CHAPTER 125—PENDING ACTIONS AND JUDGMENTS” for “CHAPTER 125—JUDGMENTS” in chapter heading and added item 1964.
+    1958—[Pub. L. 85–689][/us/pl/85/689], § 1(b), (c), Aug. 20, 1958, [72 Stat. 683][/us/stat/72/683], substituted “CHAPTER 125—PENDING ACTIONS AND JUDGMENTS” for “CHAPTER 125—JUDGMENTS” in chapter heading and added item 1964.
 
 ----------
 
@@ -82,13 +82,13 @@
 ----------
 ----------
 
-[/us/pl/104/317/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs203%2Fb
+[/us/pl/104/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtII
 [/us/stat/110/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3850
-[/us/pl/100/702/s1002/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1002%2Fb%2F3
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4664
-[/us/pl/96/417/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs511%2Fb
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1743
-[/us/pl/85/689/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F689%2Fs1%2Fb
+[/us/pl/85/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F689
 [/us/stat/72/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F683
 
 

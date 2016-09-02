@@ -93,13 +93,13 @@
 
     When presented with significant legal issues, the division of the court may disclose sufficient information about the issues to permit the filing of timely amicus curiae briefs.
 
-(Added [Pub. L. 95–521, title VI, § 601(a)][/us/pl/95/521/s601/a], Oct. 26, 1978, [92 Stat. 1869][/us/stat/92/1869]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1), 5, Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2041; [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1297][/us/stat/101/1297]; [Pub. L. 103–270, § 3(n)][/us/pl/103/270/s3/n], June 30, 1994, [108 Stat. 736][/us/stat/108/736].)
+(Added [Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 601(a), Oct. 26, 1978, [92 Stat. 1869][/us/stat/92/1869]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1), 5, Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2041; [Pub. L. 100–191][/us/pl/100/191], § 2, Dec. 15, 1987, [101 Stat. 1297][/us/stat/101/1297]; [Pub. L. 103–270][/us/pl/103/270], § 3(n), June 30, 1994, [108 Stat. 736][/us/stat/108/736].)
 
  __Amendments__ 
 
-    1994—Subsec. (f)(1). [Pub. L. 103–270, § 3(n)(1)][/us/pl/103/270/s3/n/1], inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
+    1994—Subsec. (f)(1). [Pub. L. 103–270][/us/pl/103/270], § 3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
 
-    Subsec. (f)(2). [Pub. L. 103–270, § 3(n)(2)][/us/pl/103/270/s3/n/2], in introductory provisions substituted “shall direct such independent counsel and” for “may direct” and “subsection, addressing—” for “subsection, analyzing for each expense—”, added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
+    Subsec. (f)(2). [Pub. L. 103–270][/us/pl/103/270], § 3(n)(2), in introductory provisions substituted “shall direct such independent counsel and” for “may direct” and “subsection, addressing—” for “subsection, analyzing for each expense—”, added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) the sufficiency of the documentation;
 
@@ -109,11 +109,11 @@
 
     1987—[Pub. L. 100–191][/us/pl/100/191] amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
 
-    1983—Subsec. (b). [Pub. L. 97–409, § 2(a)(1)][/us/pl/97/409/s2/a/1], substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
+    1983—Subsec. (b). [Pub. L. 97–409][/us/pl/97/409], § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
 
-    Subsecs. (c) to (e). [Pub. L. 97–409, § 2(a)(1)(A)][/us/pl/97/409/s2/a/1/A], substituted “independent counsel” for “special prosecutor” wherever appearing.
+    Subsecs. (c) to (e). [Pub. L. 97–409][/us/pl/97/409], § 2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 
-    Subsecs. (f), (g). [Pub. L. 97–409, § 5][/us/pl/97/409/s5], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 97–409][/us/pl/97/409], § 5, added subsecs. (f) and (g).
 
  __Effective Date of 1994 Amendment; Transition Provisions__ 
 
@@ -131,20 +131,20 @@
 ----------
 
 [/us/usc/t28/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs49
-[/us/pl/95/521/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs601%2Fa
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1869
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/stat/96/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2039
-[/us/pl/100/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs2
-[/us/stat/101/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1297
-[/us/pl/103/270/s3/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fn
-[/us/stat/108/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F736
-[/us/pl/103/270/s3/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fn%2F1
-[/us/pl/103/270/s3/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fn%2F2
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
-[/us/pl/97/409/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1
-[/us/pl/97/409/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1%2FA
-[/us/pl/97/409/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs5
+[/us/stat/101/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1297
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/stat/108/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F736
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/usc/t28/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs49
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270

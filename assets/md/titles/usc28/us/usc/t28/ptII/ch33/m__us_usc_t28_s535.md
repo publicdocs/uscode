@@ -39,7 +39,7 @@
 
         (2) the primary authority of the Postmaster General to investigate postal offenses.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616]; amended [Pub. L. 107–273, div. A, title II, § 206][/us/pl/107/273/s206], Nov. 2, 2002, [116 Stat. 1779][/us/stat/116/1779].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616]; amended [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 206, Nov. 2, 2002, [116 Stat. 1779][/us/stat/116/1779].)
 
 <table>
 
@@ -101,7 +101,7 @@ Aug. 31, 1954, ch. 1143, § 1, 68 Stat. 998.  </td>
 
  __Transfer of Functions__ 
 
-    Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by [Pub. L. 91–375, § 4(a)][/us/pl/91/375/s4/a], Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], set out as a note under [section 201 of Title 39][/us/usc/t39/s201], Postal Service.
+    Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by [Pub. L. 91–375][/us/pl/91/375], § 4(a), Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], set out as a note under [section 201 of Title 39][/us/usc/t39/s201], Postal Service.
 
 ----------
 
@@ -110,13 +110,13 @@ Aug. 31, 1954, ch. 1143, § 1, 68 Stat. 998.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F616
-[/us/pl/107/273/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs206
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1779
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/91/375/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs4%2Fa
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
 [/us/usc/t39/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs201
 

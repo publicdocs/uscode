@@ -23,7 +23,7 @@
 
     (3) to recover customs duties.
 
-(Added [Pub. L. 96–417, title II, § 201][/us/pl/96/417/s201], Oct. 10, 1980, [94 Stat. 1729][/us/stat/94/1729]; amended [Pub. L. 98–573, title II, § 212(b)(2)][/us/pl/98/573/s212/b/2], Oct. 30, 1984, [98 Stat. 2983][/us/stat/98/2983]; [Pub. L. 99–514, title XVIII, § 1891(2)][/us/pl/99/514/s1891/2], Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926]; [Pub. L. 103–182, title VI, § 684(c)][/us/pl/103/182/s684/c], Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
+(Added [Pub. L. 96–417, title II][/us/pl/96/417/tII], § 201, Oct. 10, 1980, [94 Stat. 1729][/us/stat/94/1729]; amended [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 212(b)(2), Oct. 30, 1984, [98 Stat. 2983][/us/stat/98/2983]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1891(2), Oct. 22, 1986, [100 Stat. 2926][/us/stat/100/2926]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 684(c), Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1582, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 943][/us/stat/62/943]; June 2, 1970; [Pub. L. 91–271, title I, § 110][/us/pl/91/271/s110], [84 Stat. 278][/us/stat/84/278]; July 26, 1979, [Pub. L. 96–39, title X, § 1001(b)(4)(B)][/us/pl/96/39/s1001/b/4/B], [93 Stat. 305][/us/stat/93/305], related to the jurisdiction of the Customs Court, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417].
+    A prior section 1582, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 943][/us/stat/62/943]; June 2, 1970; [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 110, [84 Stat. 278][/us/stat/84/278]; July 26, 1979, [Pub. L. 96–39, title X][/us/pl/96/39/tX], § 1001(b)(4)(B), [93 Stat. 305][/us/stat/93/305], related to the jurisdiction of the Customs Court, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417].
 
  __Amendments__ 
 
@@ -56,19 +56,19 @@
 ----------
 ----------
 
-[/us/pl/96/417/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs201
+[/us/pl/96/417/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtII
 [/us/stat/94/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1729
-[/us/pl/98/573/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F2
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2983
-[/us/pl/99/514/s1891/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1891%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2926
-[/us/pl/103/182/s684/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs684%2Fc
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2219
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F943
-[/us/pl/91/271/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs110
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F278
-[/us/pl/96/39/s1001/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1001%2Fb%2F4%2FB
+[/us/pl/96/39/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtX
 [/us/stat/93/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F305
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

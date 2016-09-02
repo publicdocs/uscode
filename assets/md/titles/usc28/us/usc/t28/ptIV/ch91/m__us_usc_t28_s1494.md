@@ -23,11 +23,11 @@
 
     (3) no suit upon the same has been brought by the United States.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [July 28, 1953, ch. 253, § 9][/us/act/1953-07-28/ch253/s9], [67 Stat. 226][/us/stat/67/226]; [Sept. 3, 1954, ch. 1263, § 44(c)][/us/act/1954-09-03/ch1263/s44/c], [68 Stat. 1242][/us/stat/68/1242]; [Pub. L. 97–164, title I, § 133(c)(1)][/us/pl/97/164/s133/c/1], Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [July 28, 1953, ch. 253][/us/act/1953-07-28/ch253], § 9, [67 Stat. 226][/us/stat/67/226]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 44(c), [68 Stat. 1242][/us/stat/68/1242]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 133(c)(1), Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 287 ([Mar. 3, 1911, ch. 231, § 180][/us/act/1911-03-03/ch231/s180], [36 Stat. 1141][/us/stat/36/1141]; [Feb. 13, 1925, ch. 229, § 3][/us/act/1925-02-13/ch229/s3], [43 Stat. 939][/us/stat/43/939]).
+    Based on title 28, U.S.C., 1940 ed., § 287 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 180, [36 Stat. 1141][/us/stat/36/1141]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 3, [43 Stat. 939][/us/stat/43/939]).
 
     Only the jurisdictional provisions of [section 287 of title 28][/us/usc/t28/s287], U.S.C., 1940 ed., are contained in this section. The procedural provisions are incorporated in [section 2511 of this title][/us/usc/t28/s2511].
 
@@ -60,17 +60,17 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F941
-[/us/act/1953-07-28/ch253/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch253%2Fs9
+[/us/act/1953-07-28/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch253
 [/us/stat/67/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F226
-[/us/act/1954-09-03/ch1263/s44/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs44%2Fc
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1242
-[/us/pl/97/164/s133/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs133%2Fc%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F40
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1911-03-03/ch231/s180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs180
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1141
-[/us/act/1925-02-13/ch229/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs3
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F939
 [/us/usc/t28/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs287
 [/us/usc/t28/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2511

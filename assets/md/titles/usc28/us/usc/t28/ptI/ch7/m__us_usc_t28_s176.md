@@ -21,7 +21,7 @@
 
     (c) Any cause for removal of any judge of the United States Court of Federal Claims coming to the knowledge of the Director of the Administrative Office of the United States Courts shall be reported by him to the chief judge of the United States Court of Appeals for the Federal Circuit, and a copy of the report shall at the same time be transmitted to the judge.
 
-(Added [Pub. L. 97–164, title I, § 105(a)][/us/pl/97/164/s105/a], Apr. 2, 1982, [96 Stat. 28][/us/stat/96/28]; amended [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 105(a), Apr. 2, 1982, [96 Stat. 28][/us/stat/96/28]; amended [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/97/164/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs105%2Fa
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F28
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

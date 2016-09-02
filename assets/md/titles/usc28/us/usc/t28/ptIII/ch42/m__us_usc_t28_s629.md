@@ -27,11 +27,11 @@
 
     (f) For the purpose of Federal income, estate, and gift taxes, property accepted under this section shall be considered as a gift or bequest to or for the use of the United States.
 
-(Added [Pub. L. 100–702, title III, § 301(a)][/us/pl/100/702/s301/a], Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646].)
+(Added [Pub. L. 100–702, title III][/us/pl/100/702/tIII], § 301(a), Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646].)
 
  __Prior Provisions__ 
 
-    A prior section 629, added [Pub. L. 90–219, title I, § 101][/us/pl/90/219/s101], Dec. 20, 1967, [81 Stat. 667][/us/stat/81/667], related to organization provisions for the Board, prior to repeal by [Pub. L. 95–598, title II, § 230(1)][/us/pl/95/598/s230/1], Nov. 6, 1978, [92 Stat. 2665][/us/stat/92/2665], effective Nov. 6, 1978.
+    A prior section 629, added [Pub. L. 90–219, title I][/us/pl/90/219/tI], § 101, Dec. 20, 1967, [81 Stat. 667][/us/stat/81/667], related to organization provisions for the Board, prior to repeal by [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 230(1), Nov. 6, 1978, [92 Stat. 2665][/us/stat/92/2665], effective Nov. 6, 1978.
 
 ----------
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/100/702/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs301%2Fa
+[/us/pl/100/702/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIII
 [/us/stat/102/4646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4646
-[/us/pl/90/219/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs101
+[/us/pl/90/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtI
 [/us/stat/81/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F667
-[/us/pl/95/598/s230/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs230%2F1
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2665
 
 

@@ -21,11 +21,11 @@
 
     (c) The chief judge, under rules of the court, may designate any judge or judges of the court to try any case and, when the circumstances so warrant, reassign the case to another judge or judges.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 900][/us/stat/62/900]; [Pub. L. 86–243, § 3][/us/pl/86/243/s3], Sept. 9, 1959, [73 Stat. 474][/us/stat/73/474]; [Pub. L. 91–271, title I, § 105][/us/pl/91/271/s105], June 2, 1970, [84 Stat. 276][/us/stat/84/276]; [Pub. L. 96–417, title V, § 501(3)][/us/pl/96/417/s501/3], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 104–317, title V, § 501(b)(2)][/us/pl/104/317/s501/b/2], Oct. 19, 1996, [110 Stat. 3856][/us/stat/110/3856].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 900][/us/stat/62/900]; [Pub. L. 86–243][/us/pl/86/243], § 3, Sept. 9, 1959, [73 Stat. 474][/us/stat/73/474]; [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 105, June 2, 1970, [84 Stat. 276][/us/stat/84/276]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(3), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 104–317, title V][/us/pl/104/317/tV], § 501(b)(2), Oct. 19, 1996, [110 Stat. 3856][/us/stat/110/3856].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 296 ([Mar. 3, 1911, ch. 231, § 187(a)][/us/act/1911-03-03/ch231/s187/a], as added [Oct. 10, 1940, ch. 843, § 1][/us/act/1940-10-10/ch843/s1], [54 Stat. 1101][/us/stat/54/1101]).
+    Based on title 28, U.S.C., 1940 ed., § 296 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 187(a), as added [Oct. 10, 1940, ch. 843][/us/act/1940-10-10/ch843], § 1, [54 Stat. 1101][/us/stat/54/1101]).
 
     This section contains a part of [section 296 of title 28][/us/usc/t28/s296], U.S.C., 1940 ed. Other provisions of such section are incorporated in sections 251, 252, 254, 456, 1581, 2071, 2639, and 2640 of this title.
 
@@ -72,16 +72,16 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F900
-[/us/pl/86/243/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F243%2Fs3
+[/us/pl/86/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F243
 [/us/stat/73/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F474
-[/us/pl/91/271/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs105
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F276
-[/us/pl/96/417/s501/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F3
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
-[/us/pl/104/317/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs501%2Fb%2F2
+[/us/pl/104/317/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtV
 [/us/stat/110/3856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3856
-[/us/act/1911-03-03/ch231/s187/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs187%2Fa
-[/us/act/1940-10-10/ch843/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1940-10-10/ch843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843
 [/us/stat/54/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1101
 [/us/usc/t28/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs296
 [/us/usc/t28/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs871

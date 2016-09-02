@@ -27,11 +27,11 @@
 
     This chapter shall not determine the district court to which a civil action pending in a State court may be removed, but shall govern the transfer of an action so removed as between districts and divisions of the United States district courts.
 
-(Added [Pub. L. 112–63, title II, § 201(a)][/us/pl/112/63/s201/a], Dec. 7, 2011, [125 Stat. 762][/us/stat/125/762].)
+(Added [Pub. L. 112–63, title II][/us/pl/112/63/tII], § 201(a), Dec. 7, 2011, [125 Stat. 762][/us/stat/125/762].)
 
  __Effective Date__ 
 
-[Pub. L. 112–63, title II, § 205][/us/pl/112/63/s205], Dec. 7, 2011, [125 Stat. 764][/us/stat/125/764], provided that: 
+[Pub. L. 112–63, title II][/us/pl/112/63/tII], § 205, Dec. 7, 2011, [125 Stat. 764][/us/stat/125/764], provided that: 
 
 > “The amendments made by this title \[enacting this section, amending sections 1391 and 1404 of this title, and repealing [section 1392 of this title][/us/usc/t28/s1392]\]—
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/112/63/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs201%2Fa
+[/us/pl/112/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtII
 [/us/stat/125/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F762
-[/us/pl/112/63/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs205
+[/us/pl/112/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtII
 [/us/stat/125/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F764
 [/us/usc/t28/s1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1392
 

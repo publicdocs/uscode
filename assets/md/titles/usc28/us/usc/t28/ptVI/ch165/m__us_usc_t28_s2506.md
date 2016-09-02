@@ -17,11 +17,11 @@
 
     A witness in a suit in the United States Court of Federal Claims shall not be exempt or disqualified because he is a party to or interested in such suit.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 977][/us/stat/62/977]; [Pub. L. 97–164, title I, § 139(e)][/us/pl/97/164/s139/e], Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 977][/us/stat/62/977]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(e), Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 274 ([Mar. 3, 1911, ch. 231, § 186][/us/act/1911-03-03/ch231/s186], [36 Stat. 1143][/us/stat/36/1143]; [Feb. 5, 1912, ch. 28][/us/act/1912-02-05/ch28], [37 Stat. 61][/us/stat/37/61]).
+    Based on title 28, U.S.C., 1940 ed., § 274 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 186, [36 Stat. 1143][/us/stat/36/1143]; [Feb. 5, 1912, ch. 28][/us/act/1912-02-05/ch28], [37 Stat. 61][/us/stat/37/61]).
 
     A provision that a witness should not be disqualified by color was omitted as obsolete and unnecessary, since no such disqualification could be invoked in absence of statutory authority.
 
@@ -52,11 +52,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F977
-[/us/pl/97/164/s139/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fe
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F42
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1911-03-03/ch231/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs186
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1143
 [/us/act/1912-02-05/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-02-05%2Fch28
 [/us/stat/37/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F61

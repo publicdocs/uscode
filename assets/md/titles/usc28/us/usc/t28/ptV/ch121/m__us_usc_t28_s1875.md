@@ -35,15 +35,15 @@
 
         (2) In any action or proceeding under this section, the court may award a prevailing employee who brings such action by retained counsel a reasonable attorney’s fee as part of the costs. The court may tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to paragraph (1) of this subsection. The court may award a prevailing employer a reasonable attorney’s fee as part of the costs only if the court finds that the action is frivolous, vexatious, or brought in bad faith.
 
-(Added [Pub. L. 95–572, § 6(a)(1)][/us/pl/95/572/s6/a/1], Nov. 2, 1978, [92 Stat. 2456][/us/stat/92/2456]; amended [Pub. L. 97–463, § 1][/us/pl/97/463/s1], Jan. 12, 1983, [96 Stat. 2531][/us/stat/96/2531]; [Pub. L. 110–406, § 19][/us/pl/110/406/s19], Oct. 13, 2008, [122 Stat. 4295][/us/stat/122/4295].)
+(Added [Pub. L. 95–572][/us/pl/95/572], § 6(a)(1), Nov. 2, 1978, [92 Stat. 2456][/us/stat/92/2456]; amended [Pub. L. 97–463][/us/pl/97/463], § 1, Jan. 12, 1983, [96 Stat. 2531][/us/stat/96/2531]; [Pub. L. 110–406][/us/pl/110/406], § 19, Oct. 13, 2008, [122 Stat. 4295][/us/stat/122/4295].)
 
  __Amendments__ 
 
     2008—Subsec. (b)(3). [Pub. L. 110–406][/us/pl/110/406] substituted “$5,000 for each violation as to each employee, and may be ordered to perform community service.” for “$1,000 for each violation as to each employee.”
 
-    1983—Subsec. (d)(1). [Pub. L. 97–463, § 1(1)][/us/pl/97/463/s1/1], substituted designation “(d)(1)” for “(d)” before “An individual claiming”.
+    1983—Subsec. (d)(1). [Pub. L. 97–463][/us/pl/97/463], § 1(1), substituted designation “(d)(1)” for “(d)” before “An individual claiming”.
 
-    Subsec. (d)(2). [Pub. L. 97–463, § 1(2)][/us/pl/97/463/s1/2], inserted provision empowering the court to tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to par. (1) of this subsection and, in existing provisions, substituted “only if the court finds that the action is frivolous” for “if the court determines that the action is frivolous”.
+    Subsec. (d)(2). [Pub. L. 97–463][/us/pl/97/463], § 1(2), inserted provision empowering the court to tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to par. (1) of this subsection and, in existing provisions, substituted “only if the court finds that the action is frivolous” for “if the court determines that the action is frivolous”.
 
  __Effective Date__ 
 
@@ -57,15 +57,15 @@
 ----------
 
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
-[/us/pl/95/572/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs6%2Fa%2F1
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/stat/92/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2456
-[/us/pl/97/463/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs1
+[/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
 [/us/stat/96/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2531
-[/us/pl/110/406/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs19
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4295
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
-[/us/pl/97/463/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs1%2F1
-[/us/pl/97/463/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs1%2F2
+[/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
+[/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
 [/us/pl/95/572/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs7%2Fa
 [/us/usc/t28/s1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1363
 

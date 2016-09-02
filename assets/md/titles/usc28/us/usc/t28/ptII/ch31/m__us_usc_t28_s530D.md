@@ -111,7 +111,7 @@
 
     The reporting, declaration, and other provisions of this section relating to the Attorney General and other officers of the Department of Justice shall apply to the President (but only with respect to the promulgation of any unclassified Executive order or similar memorandum or order), to the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) that establishes or implements a policy described in subsection (a)(1)(A) or is authorized to conduct litigation, and to the officers of such executive agency.
 
-(Added [Pub. L. 107–273, div. A, title II, § 202(a)][/us/pl/107/273/s202/a], Nov. 2, 2002, [116 Stat. 1771][/us/stat/116/1771].)
+(Added [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 202(a), Nov. 2, 2002, [116 Stat. 1771][/us/stat/116/1771].)
 
  __References in Text__ 
 
@@ -121,7 +121,7 @@
 
  __Report on Policies and Determinations Made Prior to Enactment of Section__ 
 
-[Pub. L. 107–273, div. A, title II, § 202(b)(3)][/us/pl/107/273/s202/b/3], (4), Nov. 2, 2002, [116 Stat. 1774][/us/stat/116/1774], provided that:
+[Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 202(b)(3), (4), Nov. 2, 2002, [116 Stat. 1774][/us/stat/116/1774], provided that:
 
 >     “(3) Not later than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\], the President shall advise the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) of the enactment of this section \[enacting this section and amending sections 288k and 5571 of Title 2, The Congress\].
 
@@ -144,11 +144,11 @@
 ----------
 ----------
 
-[/us/pl/107/273/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs202%2Fa
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1771
 [/us/usc/t26/s6405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6405
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
-[/us/pl/107/273/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs202%2Fb%2F3
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1774
 [/us/usc/t28/s530D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs530D
 

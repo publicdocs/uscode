@@ -17,7 +17,7 @@
 
     The Attorney General is responsible for and has control of the interests of the Government in all court proceedings under this chapter. The agency, and any party in interest in the proceeding before the agency whose interests will be affected if an order of the agency is or is not enjoined, set aside, or suspended, may appear as parties thereto of their own motion and as of right, and be represented by counsel in any proceeding to review the order. Communities, associations, corporations, firms, and individuals, whose interests are affected by the order of the agency, may intervene in any proceeding to review the order. The Attorney General may not dispose of or discontinue the proceeding to review over the objection of any party or intervenor, but any intervenor may prosecute, defend, or continue the proceeding unaffected by the action or inaction of the Attorney General.
 
-(Added [Pub. L. 89–554, § 4(e)][/us/pl/89/554/s4/e], Sept. 6, 1966, [80 Stat. 623][/us/stat/80/623].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(e), Sept. 6, 1966, [80 Stat. 623][/us/stat/80/623].)
 
 <table>
 
@@ -76,7 +76,7 @@ Dec. 29, 1950, ch. 1189, § 8, 64 Stat. 1131.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F623
 
 

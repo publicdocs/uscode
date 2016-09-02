@@ -53,7 +53,7 @@
 
         Prospectus PDC-98W10, giving the General Services Administration the authority for site acquisition, design, and construction of a new headquarters building for the Bureau of Alcohol, Tobacco and Firearms, is transferred, and deemed to apply, to the Bureau of Alcohol, Tobacco, Firearms, and Explosives established in the Department of Justice under subsection (a).
 
-(Added and amended [Pub. L. 109–162, title XI, § 1187(b)][/us/pl/109/162/s1187/b], (c)(1), Jan. 5, 2006, [119 Stat. 3127][/us/stat/119/3127]; [Pub. L. 109–177, title V, § 504][/us/pl/109/177/s504], Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
+(Added and amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1187(b), (c)(1), Jan. 5, 2006, [119 Stat. 3127][/us/stat/119/3127]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 504, Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
 
  __References in Text__ 
 
@@ -65,15 +65,15 @@
 
  __Codification__ 
 
-    The section catchline and text of subsecs. (a) to (c)(1), (3) of [section 1111 of Pub. L. 107–296][/us/pl/107/296/s1111], formerly classified to [section 531 of Title 6][/us/usc/t6/s531], Domestic Security, which were transferred to this chapter, redesignated as this section, and amended by [Pub. L. 109–162, § 1187(b)][/us/pl/109/162/s1187/b], (c)(1), were based on [Pub. L. 107–296, title XI, § 1111(a)][/us/pl/107/296/s1111/a]–(c)(1), (3), Nov. 25, 2002, [116 Stat. 2274][/us/stat/116/2274], 2275.
+    The section catchline and text of subsecs. (a) to (c)(1), (3) of [section 1111 of Pub. L. 107–296][/us/pl/107/296/s1111], formerly classified to [section 531 of Title 6][/us/usc/t6/s531], Domestic Security, which were transferred to this chapter, redesignated as this section, and amended by [Pub. L. 109–162][/us/pl/109/162], § 1187(b), (c)(1), were based on [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1111(a)–(c)(1), (3), Nov. 25, 2002, [116 Stat. 2274][/us/stat/116/2274], 2275.
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–162, § 1187(b)][/us/pl/109/162/s1187/b], (c)(1)(A), transferred the section catchline and subsecs. (a) to (c)(1), (3) of [section 1111 of Pub. L. 107–296][/us/pl/107/296/s1111] to this chapter, redesignated them as this section, and substituted “alcohol, tobacco, firearms” for “Alcohol, Tobacco, Firearms” in the section catchline. See Codification note above.
+    2006—[Pub. L. 109–162][/us/pl/109/162], § 1187(b), (c)(1)(A), transferred the section catchline and subsecs. (a) to (c)(1), (3) of [section 1111 of Pub. L. 107–296][/us/pl/107/296/s1111] to this chapter, redesignated them as this section, and substituted “alcohol, tobacco, firearms” for “Alcohol, Tobacco, Firearms” in the section catchline. See Codification note above.
 
-    Subsec. (a)(2). [Pub. L. 109–177][/us/pl/109/177], which directed amendment of second sentence of “section 1111(a)(2) of the Homeland Security Act of 2002 ([6 U.S.C. 531(a)(2)][/us/usc/t6/s531/a/2])” by substituting “President, by and with the advice and consent of the Senate” for “Attorney General” the first time appearing, was executed to this section to reflect the probable intent of Congress in light of the transfer of subsec. (a) of section 1111 of the Homeland Security Act of 2002 to this section by [Pub. L. 109–162, § 1187(b)][/us/pl/109/162/s1187/b]. See Amendment and Codification notes above.
+    Subsec. (a)(2). [Pub. L. 109–177][/us/pl/109/177], which directed amendment of second sentence of “section 1111(a)(2) of the Homeland Security Act of 2002 ([6 U.S.C. 531(a)(2)][/us/usc/t6/s531/a/2])” by substituting “President, by and with the advice and consent of the Senate” for “Attorney General” the first time appearing, was executed to this section to reflect the probable intent of Congress in light of the transfer of subsec. (a) of section 1111 of the Homeland Security Act of 2002 to this section by [Pub. L. 109–162][/us/pl/109/162], § 1187(b). See Amendment and Codification notes above.
 
-    Subsec. (b)(2). [Pub. L. 109–162, § 1187(c)(1)(B)][/us/pl/109/162/s1187/c/1/B], inserted “of section 1111 of the Homeland Security Act of 2002 (as enacted on the date of the enactment of such Act)” after “subsection (c)”.
+    Subsec. (b)(2). [Pub. L. 109–162][/us/pl/109/162], § 1187(c)(1)(B), inserted “of section 1111 of the Homeland Security Act of 2002 (as enacted on the date of the enactment of such Act)” after “subsection (c)”.
 
 ----------
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/109/162/s1187/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1187%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3127
-[/us/pl/109/177/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs504
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F247
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2274
@@ -106,14 +106,14 @@
 [/us/usc/t6/s531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs531%2Fc%2F2
 [/us/pl/107/296/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1111
 [/us/usc/t6/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs531
-[/us/pl/109/162/s1187/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1187%2Fb
-[/us/pl/107/296/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1111%2Fa
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2274
-[/us/pl/109/162/s1187/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1187%2Fb
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/107/296/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1111
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t6/s531/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs531%2Fa%2F2
-[/us/pl/109/162/s1187/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1187%2Fb
-[/us/pl/109/162/s1187/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1187%2Fc%2F1%2FB
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 
 

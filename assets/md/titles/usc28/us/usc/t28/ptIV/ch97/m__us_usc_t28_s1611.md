@@ -33,7 +33,7 @@
 
     (c) Notwithstanding the provisions of section 1610 of this chapter, the property of a foreign state shall be immune from attachment and from execution in an action brought under section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 to the extent that the property is a facility or installation used by an accredited diplomatic mission for official purposes.
 
-(Added [Pub. L. 94–583, § 4(a)][/us/pl/94/583/s4/a], Oct. 21, 1976, [90 Stat. 2897][/us/stat/90/2897]; amended [Pub. L. 104–114, title III, § 302(e)][/us/pl/104/114/s302/e], Mar. 12, 1996, [110 Stat. 818][/us/stat/110/818].)
+(Added [Pub. L. 94–583][/us/pl/94/583], § 4(a), Oct. 21, 1976, [90 Stat. 2897][/us/stat/90/2897]; amended [Pub. L. 104–114, title III][/us/pl/104/114/tIII], § 302(e), Mar. 12, 1996, [110 Stat. 818][/us/stat/110/818].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/94/583/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs4%2Fa
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2897
-[/us/pl/104/114/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs302%2Fe
+[/us/pl/104/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtIII
 [/us/stat/110/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F818
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669

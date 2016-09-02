@@ -33,11 +33,11 @@
 
     After the granting of such a stay, any such proceeding in any State court or by or under the authority of any State shall be void. If no stay is granted, any such proceeding shall be as valid as if no habeas corpus proceedings or appeal were pending.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 966][/us/stat/62/966]; [Pub. L. 109–177, title V, § 507(f)][/us/pl/109/177/s507/f], Mar. 9, 2006, [120 Stat. 251][/us/stat/120/251].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 966][/us/stat/62/966]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 507(f), Mar. 9, 2006, [120 Stat. 251][/us/stat/120/251].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 465 (R.S. § 766; [Mar. 3, 1893, ch. 226][/us/act/1893-03-03/ch226], [27 Stat. 751][/us/stat/27/751]; [Feb. 13, 1925, ch. 229, § 8(c)][/us/act/1925-02-13/ch229/s8/c], [43 Stat. 940][/us/stat/43/940]; [June 19, 1934, ch. 673][/us/act/1934-06-19/ch673], [48 Stat. 1177][/us/stat/48/1177]).
+    Based on title 28, U.S.C., 1940 ed., § 465 (R.S. § 766; [Mar. 3, 1893, ch. 226][/us/act/1893-03-03/ch226], [27 Stat. 751][/us/stat/27/751]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 8(c), [43 Stat. 940][/us/stat/43/940]; [June 19, 1934, ch. 673][/us/act/1934-06-19/ch673], [48 Stat. 1177][/us/stat/48/1177]).
 
     Provisions relating to proceedings pending in 1934 were deleted as obsolete.
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–177, title V, § 507(d)][/us/pl/109/177/s507/d], Mar. 9, 2006, [120 Stat. 251][/us/stat/120/251], provided that:
+[Pub. L. 109–177, title V][/us/pl/109/177/tV], § 507(d), Mar. 9, 2006, [120 Stat. 251][/us/stat/120/251], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -71,16 +71,16 @@
 [/us/usc/t18/s3599/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3599%2Fa%2F2
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F966
-[/us/pl/109/177/s507/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs507%2Ff
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F251
 [/us/act/1893-03-03/ch226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch226
 [/us/stat/27/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F751
-[/us/act/1925-02-13/ch229/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs8%2Fc
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F940
 [/us/act/1934-06-19/ch673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch673
 [/us/stat/48/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1177
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/109/177/s507/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs507%2Fd
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F251
 [/us/usc/t28/s2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2265
 [/us/usc/t28/s2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2265

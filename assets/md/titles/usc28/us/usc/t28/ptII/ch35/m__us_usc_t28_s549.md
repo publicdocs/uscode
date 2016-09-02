@@ -17,7 +17,7 @@
 
     Necessary office expenses of United States attorneys shall be allowed when authorized by the Attorney General.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618].)
 
 <table>
 
@@ -89,11 +89,11 @@ Statutes at Large  </td>
 
  __1948__  __Act__ 
 
-    Prior section 509.—Based on sections 73 and 318 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§ 586, 587 and 592 (R.S. §§ 368, 833, 834; [Mar. 3, 1875, ch. 133, § 1][/us/act/1875-03-03/ch133/s1], [18 Stat. 452][/us/stat/18/452]; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], §§ 13, 14, 24, [29 Stat. 183][/us/stat/29/183], 186; [Mar. 4, 1907, ch. 2918, § 1][/us/act/1907-03-04/ch2918/s1], [34 Stat. 1360][/us/stat/34/1360]; [May 27, 1908, ch. 200, § 1][/us/act/1908-05-27/ch200/s1], [35 Stat. 375][/us/stat/35/375]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [July 1, 1918, ch. 113, § 1][/us/act/1918-07-01/ch113/s1], [40 Stat. 683][/us/stat/40/683]; [July 19, 1919, ch. 24, § 1][/us/act/1919-07-19/ch24/s1], [41 Stat. 209][/us/stat/41/209]; [Dec. 24, 1942, ch. 825, § 3][/us/act/1942-12-24/ch825/s3], [56 Stat. 1089][/us/stat/56/1089]).
+    Prior section 509.—Based on sections 73 and 318 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§ 586, 587 and 592 (R.S. §§ 368, 833, 834; [Mar. 3, 1875, ch. 133][/us/act/1875-03-03/ch133], § 1, [18 Stat. 452][/us/stat/18/452]; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], §§ 13, 14, 24, [29 Stat. 183][/us/stat/29/183], 186; [Mar. 4, 1907, ch. 2918][/us/act/1907-03-04/ch2918], § 1, [34 Stat. 1360][/us/stat/34/1360]; [May 27, 1908, ch. 200][/us/act/1908-05-27/ch200], § 1, [35 Stat. 375][/us/stat/35/375]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [July 1, 1918, ch. 113][/us/act/1918-07-01/ch113], § 1, [40 Stat. 683][/us/stat/40/683]; [July 19, 1919, ch. 24][/us/act/1919-07-19/ch24], § 1, [41 Stat. 209][/us/stat/41/209]; [Dec. 24, 1942, ch. 825][/us/act/1942-12-24/ch825], § 3, [56 Stat. 1089][/us/stat/56/1089]).
 
     Section consolidates parts of sections 73 and 318 of title 5, U.S.C., 1940 ed., and of sections 586, 587, and 592 of title 28, U.S.C., 1940 ed.
 
-    First paragraph of this section is from [section 587 of title 28][/us/usc/t28/s587], U.S.C., 1940 ed., which did not apply to Alaska because of the restriction in section 591 of said title 28. However, the latter section has been superseded, in that respect, by subsequent appropriation acts, the latest being [act July 5, 1946, ch. 541][/us/act/1946-07-05/ch541], title II, [60 Stat. 460][/us/stat/60/460], which specifically allows office expenses for United States attorneys in Alaska. This section applies to all United States attorneys.
+    First paragraph of this section is from [section 587 of title 28][/us/usc/t28/s587], U.S.C., 1940 ed., which did not apply to Alaska because of the restriction in section 591 of said title 28. However, the latter section has been superseded, in that respect, by subsequent appropriation acts, the latest being [act July 5, 1946, ch. 541, title II][/us/act/1946-07-05/ch541/tII], [60 Stat. 460][/us/stat/60/460], which specifically allows office expenses for United States attorneys in Alaska. This section applies to all United States attorneys.
 
     [Section 73 of title 5][/us/usc/t5/s73], U.S.C., 1940 ed., allowed only actual traveling expenses to Government employees, except “district attorneys,” marshals and clerks of courts and their deputies. It has been superseded by the Subsistence Expense Act of 1926. See sections 821 et seq. of said title 5.
 
@@ -111,7 +111,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 549, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912], related to the marshal’s power as a sheriff, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 570 of this title][/us/usc/t28/s570] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 549, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912], related to the marshal’s power as a sheriff, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 570 of this title][/us/usc/t28/s570] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
 ----------
 
@@ -120,31 +120,31 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F618
 [/us/usc/t5/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73
 [/us/usc/t5/s5706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5706
 [/us/usc/t5/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/usc/t5/s5707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707
-[/us/act/1875-03-03/ch133/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch133%2Fs1
+[/us/act/1875-03-03/ch133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch133
 [/us/stat/18/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F452
 [/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F183
-[/us/act/1907-03-04/ch2918/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2918%2Fs1
+[/us/act/1907-03-04/ch2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2918
 [/us/stat/34/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1360
-[/us/act/1908-05-27/ch200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200%2Fs1
+[/us/act/1908-05-27/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200
 [/us/stat/35/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F375
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
-[/us/act/1918-07-01/ch113/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-01%2Fch113%2Fs1
+[/us/act/1918-07-01/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-01%2Fch113
 [/us/stat/40/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F683
-[/us/act/1919-07-19/ch24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-19%2Fch24%2Fs1
+[/us/act/1919-07-19/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-19%2Fch24
 [/us/stat/41/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F209
-[/us/act/1942-12-24/ch825/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-24%2Fch825%2Fs3
+[/us/act/1942-12-24/ch825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-24%2Fch825
 [/us/stat/56/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1089
 [/us/usc/t28/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs587
-[/us/act/1946-07-05/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch541
+[/us/act/1946-07-05/ch541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch541%2FtII
 [/us/stat/60/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F460
 [/us/usc/t5/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73
 [/us/usc/t28/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs592
@@ -154,7 +154,7 @@ Statutes at Large  </td>
 [/us/usc/t48/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs114
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F912
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs570
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 

@@ -17,7 +17,7 @@
 
     The United States or the debtor may join as an additional defendant in an action or proceeding under this chapter any person reasonably believed to owe money (including money owed on account of a requirement to provide goods or services pursuant to a loan or loan guarantee extended under Federal law) to the debtor arising out of the transaction or occurrence giving rise to a debt.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4938][/us/stat/104/4938].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4938][/us/stat/104/4938].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4938
 
 

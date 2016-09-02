@@ -23,7 +23,7 @@
 
     (d) A bankruptcy judge appointed under this chapter shall be exempt from the provisions of subchapter I of chapter 63 of title 5.
 
-(Added [Pub. L. 98–353, title I, § 104(a)][/us/pl/98/353/s104/a], July 10, 1984, [98 Stat. 338][/us/stat/98/338]; amended [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a], \[title IV, § 408(a)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–26; [Pub. L. 100–702, title X, § 1003(a)(1)][/us/pl/100/702/s1003/a/1], Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 104(a), July 10, 1984, [98 Stat. 338][/us/stat/98/338]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(a), \[title IV, § 408(a)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–26; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1003(a)(1), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665].)
 
  __Amendments__ 
 
@@ -33,13 +33,13 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 408(d)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–27, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title IV, § 408(d)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–27, provided that: 
 
 > “This section \[amending this section, [section 634 of this title][/us/usc/t28/s634], and [section 356 of Title 2][/us/usc/t2/s356], The Congress\] shall become effective October 1, 1988, and any salary affected by the provisions of this section shall be adjusted at the beginning of the first applicable pay period commencing on or after such date of enactment \[probably should read “such date”, meaning Oct. 1, 1988\].”
 
  __Transition Provisions__ 
 
-[Pub. L. 100–702, title X, § 1003(b)][/us/pl/100/702/s1003/b], Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665], provided that:
+[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1003(b), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665], provided that:
 
 >     “(1) If an individual who is exempted from the Leave Act by operation of amendments under this section \[amending this section and sections 156, 631, 634, 712, 752, and 794 of this title\] and who was previously subject to the provisions of subchapter I of chapter 63 of title 5, United States Code, without a break in service, again becomes subject to this subchapter on completion of his service as an exempted officer, the unused annual leave and sick leave standing to his credit when he was exempted from this subchapter is deemed to have remained to his credit.
 
@@ -47,7 +47,7 @@
 
  __Continuation of Salaries of Bankruptcy Judges in Effect on__  __June 27, 1984__ 
 
-[Pub. L. 98–353, title I, § 105(a)][/us/pl/98/353/s105/a], July 10, 1984, [98 Stat. 342][/us/stat/98/342], provided that: 
+[Pub. L. 98–353, title I][/us/pl/98/353/tI], § 105(a), July 10, 1984, [98 Stat. 342][/us/stat/98/342], provided that: 
 
 > “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to [section 153(a) of title 28][/us/usc/t28/s153/a], United States Code, as added by this Act.”
 
@@ -69,7 +69,7 @@
 
     1982—Salaries of bankruptcy judges and referees in bankruptcy (full-time), or referees in bankruptcy (part-time) (maximum rate) increased to $63,600 and $31,800, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1982, by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out as a note under [section 5332 of Title 5][/us/usc/t5/s5332]. Ex. Ord. No. 12387 further provided that pursuant to [section 101(e) of Pub. L. 97–276][/us/pl/97/276/s101/e] funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $58,500 for bankruptcy judges and referees in bankruptcy (full-time), and $30,600 for referees in bankruptcy (part-time) (maximum rate).
 
-    Maximum rate payable to bankruptcy judges after Dec. 17, 1982, increased from $58,500 to $63,600, see [Pub. L. 97–377, title I, § 129(b)][/us/pl/97/377/s129/b]–(d), Dec. 21, 1982, [96 Stat. 1914][/us/stat/96/1914], set out as a note under [section 5318 of Title 5][/us/usc/t5/s5318].
+    Maximum rate payable to bankruptcy judges after Dec. 17, 1982, increased from $58,500 to $63,600, see [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 129(b)–(d), Dec. 21, 1982, [96 Stat. 1914][/us/stat/96/1914], set out as a note under [section 5318 of Title 5][/us/usc/t5/s5318].
 
     1981—Salaries of bankruptcy judges and referees in bankruptcy (full-time), or referees in bankruptcy (part-time) (maximum rate) increased to $61,200 and $30,600, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1981, by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, formerly set out as a note under [section 5332 of Title 5][/us/usc/t5/s5332]. Ex. Ord. No. 12330 further provided that pursuant to [section 101(c) of Pub. L. 97–51][/us/pl/97/51/s101/c] funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $51,167.50 for bankruptcy judges and referees in bankruptcy (full-time), and $25,583.75 for referees in bankruptcy (part-time) (maximum rate).
 
@@ -87,25 +87,25 @@
 ----------
 
 [/us/usc/t28/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs453
-[/us/pl/98/353/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs104%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F338
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
-[/us/pl/100/702/s1003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1003%2Fa%2F1
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4665
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t2/s351–361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs351%E2%80%93361
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
 [/us/usc/t28/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs634
 [/us/usc/t2/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs356
-[/us/pl/100/702/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1003%2Fb
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4665
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339
-[/us/pl/98/353/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs105%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F342
 [/us/usc/t28/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs153%2Fa
 [/us/pl/98/353/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs106
@@ -117,7 +117,7 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
-[/us/pl/97/377/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs129%2Fb
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1914
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332

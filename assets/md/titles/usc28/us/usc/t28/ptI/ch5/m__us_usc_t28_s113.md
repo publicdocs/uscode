@@ -35,11 +35,11 @@ Western District
 
     Court for the Western District shall be held at Asheville, Bryson City, Charlotte, Shelby, and Statesville.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 886][/us/stat/62/886]; [Pub. L. 89–319][/us/pl/89/319], Nov. 2, 1965, [79 Stat. 1186][/us/stat/79/1186]; [Pub. L. 96–462, § 5(a)][/us/pl/96/462/s5/a]–(c), Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053], 2054; [Pub. L. 102–272][/us/pl/102/272], Apr. 21, 1992, [106 Stat. 112][/us/stat/106/112].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 886][/us/stat/62/886]; [Pub. L. 89–319][/us/pl/89/319], Nov. 2, 1965, [79 Stat. 1186][/us/stat/79/1186]; [Pub. L. 96–462][/us/pl/96/462], § 5(a)–(c), Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053], 2054; [Pub. L. 102–272][/us/pl/102/272], Apr. 21, 1992, [106 Stat. 112][/us/stat/106/112].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 179 ([Mar. 3, 1911, ch. 231, § 98][/us/act/1911-03-03/ch231/s98], [36 Stat. 1120][/us/stat/36/1120]; [Oct. 7, 1914, ch. 318][/us/act/1914-10-07/ch318], [38 Stat. 728][/us/stat/38/728]; [Mar. 17, 1920, ch. 101, § 1][/us/act/1920-03-17/ch101/s1], [41 Stat. 531][/us/stat/41/531]; [June 7, 1924, ch. 359, § 1][/us/act/1924-06-07/ch359/s1], [43 Stat. 661][/us/stat/43/661]; [Dec. 24, 1924, ch. 18][/us/act/1924-12-24/ch18], [43 Stat. 721][/us/stat/43/721]; [June 12, 1926, ch. 566][/us/act/1926-06-12/ch566], [44 Stat. 734][/us/stat/44/734]; [June 22, 1926, ch. 645][/us/act/1926-06-22/ch645], [44 Stat. 758][/us/stat/44/758]; [June 22, 1926, ch. 646][/us/act/1926-06-22/ch646], [44 Stat. 758][/us/stat/44/758]; [Mar. 2, 1927, ch. 276][/us/act/1927-03-02/ch276], [44 Stat. 1339][/us/stat/44/1339]; [Apr. 25, 1928, ch. 432][/us/act/1928-04-25/ch432], [45 Stat. 457][/us/stat/45/457]; [May 10, 1928, ch. 516][/us/act/1928-05-10/ch516], [45 Stat. 495][/us/stat/45/495]; [Feb. 20, 1933, ch. 107][/us/act/1933-02-20/ch107], [47 Stat. 859][/us/stat/47/859]; [Feb. 28, 1933, ch. 133][/us/act/1933-02-28/ch133], [47 Stat. 1350][/us/stat/47/1350]; [June 28, 1935, ch. 330][/us/act/1935-06-28/ch330], §§ 1, 2, [49 Stat. 429][/us/stat/49/429]; [June 24, 1936, ch. 744][/us/act/1936-06-24/ch744], [49 Stat. 1898][/us/stat/49/1898]; [June 24, 1936, ch. 759][/us/act/1936-06-24/ch759], [49 Stat. 1910][/us/stat/49/1910]; [Aug. 17, 1937, ch. 688][/us/act/1937-08-17/ch688], [50 Stat. 671][/us/stat/50/671]).
+    Based on title 28, U.S.C., 1940 ed., § 179 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 98, [36 Stat. 1120][/us/stat/36/1120]; [Oct. 7, 1914, ch. 318][/us/act/1914-10-07/ch318], [38 Stat. 728][/us/stat/38/728]; [Mar. 17, 1920, ch. 101][/us/act/1920-03-17/ch101], § 1, [41 Stat. 531][/us/stat/41/531]; [June 7, 1924, ch. 359][/us/act/1924-06-07/ch359], § 1, [43 Stat. 661][/us/stat/43/661]; [Dec. 24, 1924, ch. 18][/us/act/1924-12-24/ch18], [43 Stat. 721][/us/stat/43/721]; [June 12, 1926, ch. 566][/us/act/1926-06-12/ch566], [44 Stat. 734][/us/stat/44/734]; [June 22, 1926, ch. 645][/us/act/1926-06-22/ch645], [44 Stat. 758][/us/stat/44/758]; [June 22, 1926, ch. 646][/us/act/1926-06-22/ch646], [44 Stat. 758][/us/stat/44/758]; [Mar. 2, 1927, ch. 276][/us/act/1927-03-02/ch276], [44 Stat. 1339][/us/stat/44/1339]; [Apr. 25, 1928, ch. 432][/us/act/1928-04-25/ch432], [45 Stat. 457][/us/stat/45/457]; [May 10, 1928, ch. 516][/us/act/1928-05-10/ch516], [45 Stat. 495][/us/stat/45/495]; [Feb. 20, 1933, ch. 107][/us/act/1933-02-20/ch107], [47 Stat. 859][/us/stat/47/859]; [Feb. 28, 1933, ch. 133][/us/act/1933-02-28/ch133], [47 Stat. 1350][/us/stat/47/1350]; [June 28, 1935, ch. 330][/us/act/1935-06-28/ch330], §§ 1, 2, [49 Stat. 429][/us/stat/49/429]; [June 24, 1936, ch. 744][/us/act/1936-06-24/ch744], [49 Stat. 1898][/us/stat/49/1898]; [June 24, 1936, ch. 759][/us/act/1936-06-24/ch759], [49 Stat. 1910][/us/stat/49/1910]; [Aug. 17, 1937, ch. 688][/us/act/1937-08-17/ch688], [50 Stat. 671][/us/stat/50/671]).
 
     References to civil and criminal terms at Raleigh were omitted as more properly the subject of rule of court.
 
@@ -59,11 +59,11 @@ Western District
 
     1992—Subsec. (a). [Pub. L. 102–272][/us/pl/102/272], which directed the amendment of subsec. (a) by striking out “Clinton,” and “Washington,” and inserting “Greenville,” after “Fayetteville,”, was executed to the second sentence to reflect the probable intent of Congress.
 
-    1980—Subsec. (a). [Pub. L. 96–462, § 5(a)][/us/pl/96/462/s5/a], added that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina to the Eastern District.
+    1980—Subsec. (a). [Pub. L. 96–462][/us/pl/96/462], § 5(a), added that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina to the Eastern District.
 
-    Subsec. (b). [Pub. L. 96–462, § 5(b)][/us/pl/96/462/s5/b], struck out references to Alleghany, Ashe, Watauga, and Wilkes counties in the list of counties comprising the Middle District; inserted “(excluding that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina)” in first sentence as the probable intent of Congress; and struck out Rockingham, Salisbury, and Wilkesboro as places for holding court.
+    Subsec. (b). [Pub. L. 96–462][/us/pl/96/462], § 5(b), struck out references to Alleghany, Ashe, Watauga, and Wilkes counties in the list of counties comprising the Middle District; inserted “(excluding that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina)” in first sentence as the probable intent of Congress; and struck out Rockingham, Salisbury, and Wilkesboro as places for holding court.
 
-    Subsec. (c). [Pub. L. 96–462, § 5(c)][/us/pl/96/462/s5/c], added Alleghany, Ashe, Watauga, and Wilkes counties to the Western District.
+    Subsec. (c). [Pub. L. 96–462][/us/pl/96/462], § 5(c), added Alleghany, Ashe, Watauga, and Wilkes counties to the Western District.
 
     1965—[Pub. L. 89–319][/us/pl/89/319] provided for holding court at Clinton.
 
@@ -71,7 +71,7 @@ Western District
 
     Amendment by [Pub. L. 96–462][/us/pl/96/462] effective Oct. 1, 1981, but not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on Oct. 1, 1981, see [section 7 of Pub. L. 96–462][/us/pl/96/462/s7], set out as a note under [section 84 of this title][/us/usc/t28/s84].
 
-[Pub. L. 96–462, § 5(d)][/us/pl/96/462/s5/d], Oct. 15, 1980, [94 Stat. 2054][/us/stat/94/2054], provided that: 
+[Pub. L. 96–462][/us/pl/96/462], § 5(d), Oct. 15, 1980, [94 Stat. 2054][/us/stat/94/2054], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall not apply to any action commenced before the effective date of such amendments \[Oct. 1, 1981\] and pending in any judicial district of North Carolina on such date.”
 
@@ -86,17 +86,17 @@ Western District
 [/us/stat/62/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F886
 [/us/pl/89/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F319
 [/us/stat/79/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1186
-[/us/pl/96/462/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs5%2Fa
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/stat/94/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2053
 [/us/pl/102/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F272
 [/us/stat/106/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F112
-[/us/act/1911-03-03/ch231/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs98
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1120
 [/us/act/1914-10-07/ch318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-07%2Fch318
 [/us/stat/38/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F728
-[/us/act/1920-03-17/ch101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-17%2Fch101%2Fs1
+[/us/act/1920-03-17/ch101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-17%2Fch101
 [/us/stat/41/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F531
-[/us/act/1924-06-07/ch359/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch359%2Fs1
+[/us/act/1924-06-07/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch359
 [/us/stat/43/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F661
 [/us/act/1924-12-24/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-12-24%2Fch18
 [/us/stat/43/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F721
@@ -127,14 +127,14 @@ Western District
 [/us/usc/t28/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs179
 [/us/usc/t28/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs142
 [/us/pl/102/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F272
-[/us/pl/96/462/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs5%2Fa
-[/us/pl/96/462/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs5%2Fb
-[/us/pl/96/462/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs5%2Fc
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/pl/89/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F319
 [/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/pl/96/462/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs7
 [/us/usc/t28/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs84
-[/us/pl/96/462/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs5%2Fd
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/stat/94/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2054
 
 

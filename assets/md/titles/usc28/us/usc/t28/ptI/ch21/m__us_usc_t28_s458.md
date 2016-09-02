@@ -45,11 +45,11 @@
 
         (2) No person may be appointed to the position of judge of a court exercising judicial power under article III of the United States Constitution (other than the Supreme Court) who is related by affinity or consanguinity within the degree of first cousin to any judge who is a member of the same court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 908][/us/stat/62/908]; [Pub. L. 105–300, § 1(a)][/us/pl/105/300/s1/a], Oct. 27, 1998, [112 Stat. 2836][/us/stat/112/2836].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 908][/us/stat/62/908]; [Pub. L. 105–300][/us/pl/105/300], § 1(a), Oct. 27, 1998, [112 Stat. 2836][/us/stat/112/2836].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 126 ([Mar. 3, 1887, ch. 373, § 7][/us/act/1887-03-03/ch373/s7], [24 Stat. 555][/us/stat/24/555]; [Aug. 13, 1888, ch. 866, § 7][/us/act/1888-08-13/ch866/s7], [25 Stat. 437][/us/stat/25/437]; [Mar. 3, 1911, ch. 231, § 67][/us/act/1911-03-03/ch231/s67], [36 Stat. 1105][/us/stat/36/1105]; [Dec. 21, 1911, ch. 4][/us/act/1911-12-21/ch4], [37 Stat. 46][/us/stat/37/46]).
+    Based on title 28, U.S.C., 1940 ed., § 126 ([Mar. 3, 1887, ch. 373][/us/act/1887-03-03/ch373], § 7, [24 Stat. 555][/us/stat/24/555]; [Aug. 13, 1888, ch. 866][/us/act/1888-08-13/ch866], § 7, [25 Stat. 437][/us/stat/25/437]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 67, [36 Stat. 1105][/us/stat/36/1105]; [Dec. 21, 1911, ch. 4][/us/act/1911-12-21/ch4], [37 Stat. 46][/us/stat/37/46]).
 
     A provision referring to circuit court employees as of December 21, 1911, was omitted as obsolete.
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–300, § 1(b)][/us/pl/105/300/s1/b], Oct. 27, 1998, [112 Stat. 2837][/us/stat/112/2837], provided that: 
+[Pub. L. 105–300][/us/pl/105/300], § 1(b), Oct. 27, 1998, [112 Stat. 2837][/us/stat/112/2837], provided that: 
 
 > “This Act \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 27, 1998\] and shall apply only to any individual whose nomination is submitted to the Senate on or after such date.”
 
@@ -74,18 +74,18 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F908
-[/us/pl/105/300/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F300%2Fs1%2Fa
+[/us/pl/105/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F300
 [/us/stat/112/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2836
-[/us/act/1887-03-03/ch373/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fch373%2Fs7
+[/us/act/1887-03-03/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fch373
 [/us/stat/24/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F555
-[/us/act/1888-08-13/ch866/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-13%2Fch866%2Fs7
+[/us/act/1888-08-13/ch866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-13%2Fch866
 [/us/stat/25/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F437
-[/us/act/1911-03-03/ch231/s67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs67
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1105
 [/us/act/1911-12-21/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-12-21%2Fch4
 [/us/stat/37/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F46
 [/us/pl/105/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F300
-[/us/pl/105/300/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F300%2Fs1%2Fb
+[/us/pl/105/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F300
 [/us/stat/112/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2837
 
 

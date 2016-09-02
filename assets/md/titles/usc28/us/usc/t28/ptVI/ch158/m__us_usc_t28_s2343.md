@@ -17,7 +17,7 @@
 
     The venue of a proceeding under this chapter is in the judicial circuit in which the petitioner resides or has its principal office, or in the United States Court of Appeals for the District of Columbia Circuit.
 
-(Added [Pub. L. 89–554, § 4(e)][/us/pl/89/554/s4/e], Sept. 6, 1966, [80 Stat. 622][/us/stat/80/622].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(e), Sept. 6, 1966, [80 Stat. 622][/us/stat/80/622].)
 
 <table>
 
@@ -74,7 +74,7 @@ Dec. 29, 1950, ch. 1189, § 3, 64 Stat. 1130.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F622
 [/us/usc/t28/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2341
 

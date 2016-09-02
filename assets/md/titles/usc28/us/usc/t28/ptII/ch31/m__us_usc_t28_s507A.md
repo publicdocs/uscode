@@ -27,7 +27,7 @@
 
         (3) perform such other duties as the Attorney General may prescribe.
 
-(Added [Pub. L. 109–177, title V, § 506(a)(1)][/us/pl/109/177/s506/a/1], Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
+(Added [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(a)(1), Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t28/s509A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs509A
-[/us/pl/109/177/s506/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fa%2F1
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F247
 
 

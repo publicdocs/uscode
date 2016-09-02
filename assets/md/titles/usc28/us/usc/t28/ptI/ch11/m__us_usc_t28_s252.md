@@ -17,15 +17,15 @@
 
     Judges of the Court of International Trade shall hold office during good behavior. Each shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 ([2 U.S.C. 351–361][/us/usc/t2/s351–361]), as adjusted by [section 461 of this title][/us/usc/t28/s461].
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 899][/us/stat/62/899]; [Mar. 2, 1955, ch. 9, § 1(f)][/us/act/1955-03-02/ch9/s1/f], [69 Stat. 10][/us/stat/69/10]; [Pub. L. 88–426, title IV, § 403(f)][/us/pl/88/426/s403/f], Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434]; [Pub. L. 94–82, title II, § 205(b)(6)][/us/pl/94/82/s205/b/6], Aug. 9, 1975, [89 Stat. 423][/us/stat/89/423]; [Pub. L. 96–417, title V, § 502][/us/pl/96/417/s502], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 899][/us/stat/62/899]; [Mar. 2, 1955, ch. 9][/us/act/1955-03-02/ch9], § 1(f), [69 Stat. 10][/us/stat/69/10]; [Pub. L. 88–426, title IV][/us/pl/88/426/tIV], § 403(f), Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434]; [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 205(b)(6), Aug. 9, 1975, [89 Stat. 423][/us/stat/89/423]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 502, Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 296 ([Mar. 3, 1911, ch. 231, § 187(a)][/us/act/1911-03-03/ch231/s187/a], as added [Oct. 10, 1940, ch. 843, § 1][/us/act/1940-10-10/ch843/s1], [54 Stat. 1101][/us/stat/54/1101]; [July 31, 1946, ch. 704, § 1][/us/act/1946-07-31/ch704/s1], [60 Stat. 716][/us/stat/60/716]).
+    Based on title 28, U.S.C., 1940 ed., § 296 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 187(a), as added [Oct. 10, 1940, ch. 843][/us/act/1940-10-10/ch843], § 1, [54 Stat. 1101][/us/stat/54/1101]; [July 31, 1946, ch. 704][/us/act/1946-07-31/ch704], § 1, [60 Stat. 716][/us/stat/60/716]).
 
     This section contains a part of [section 296 of title 28][/us/usc/t28/s296], U.S.C., 1940 ed., Other provisions of such section are incorporated in sections 251, 253, 254, 456, 1581, 2071, 2639, and 2640 of this title.
 
-    A provision exempting judge’s salaries from section 1790 of the Revised Statutes was omitted, as such section was repealed by [act Aug. 26, 1935, ch. 689, § 1][/us/act/1935-08-26/ch689/s1], [49 Stat. 864][/us/stat/49/864].
+    A provision exempting judge’s salaries from section 1790 of the Revised Statutes was omitted, as such section was repealed by [act Aug. 26, 1935, ch. 689][/us/act/1935-08-26/ch689], § 1, [49 Stat. 864][/us/stat/49/864].
 
     A provision for monthly salary payments was omitted since time of payment is a matter for administrative determination.
 
@@ -65,9 +65,9 @@
 
     For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under [section 5318 of Title 5][/us/usc/t5/s5318], Government Organization and Employees.
 
-    Salaries of presiding judge and associate judges increased from $10,000 to $15,000 a year by [act July 31, 1946, ch. 704, § 1][/us/act/1946-07-31/ch704/s1], [60 Stat. 716][/us/stat/60/716].
+    Salaries of presiding judge and associate judges increased from $10,000 to $15,000 a year by [act July 31, 1946, ch. 704][/us/act/1946-07-31/ch704], § 1, [60 Stat. 716][/us/stat/60/716].
 
-    Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Act of 1930, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 518, [46 Stat. 737][/us/stat/46/737].
+    Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Act of 1930, [act June 17, 1930, ch. 497, title IV][/us/act/1930-06-17/ch497/tIV], § 518, [46 Stat. 737][/us/stat/46/737].
 
 ----------
 
@@ -80,21 +80,21 @@
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F899
-[/us/act/1955-03-02/ch9/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9%2Fs1%2Ff
+[/us/act/1955-03-02/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9
 [/us/stat/69/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F10
-[/us/pl/88/426/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs403%2Ff
+[/us/pl/88/426/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIV
 [/us/stat/78/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F434
-[/us/pl/94/82/s205/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs205%2Fb%2F6
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F423
-[/us/pl/96/417/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs502
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
-[/us/act/1911-03-03/ch231/s187/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs187%2Fa
-[/us/act/1940-10-10/ch843/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1940-10-10/ch843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843
 [/us/stat/54/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1101
-[/us/act/1946-07-31/ch704/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704%2Fs1
+[/us/act/1946-07-31/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704
 [/us/stat/60/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F716
 [/us/usc/t28/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs296
-[/us/act/1935-08-26/ch689/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch689%2Fs1
+[/us/act/1935-08-26/ch689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch689
 [/us/stat/49/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F864
 [/us/pl/90/206/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225
 [/us/stat/81/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F642
@@ -112,9 +112,9 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
-[/us/act/1946-07-31/ch704/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704%2Fs1
+[/us/act/1946-07-31/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704
 [/us/stat/60/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F716
-[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/act/1930-06-17/ch497/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497%2FtIV
 [/us/stat/46/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F737
 
 

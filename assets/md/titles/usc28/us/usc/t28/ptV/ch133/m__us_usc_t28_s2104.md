@@ -17,7 +17,7 @@
 
     A review by the Supreme Court of a judgment or decree of a State court shall be conducted in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree reviewed had been rendered in a court of the United States.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 962][/us/stat/62/962]; [Pub. L. 100–352, § 5(d)(1)][/us/pl/100/352/s5/d/1], June 27, 1988, [102 Stat. 663][/us/stat/102/663].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 962][/us/stat/62/962]; [Pub. L. 100–352][/us/pl/100/352], § 5(d)(1), June 27, 1988, [102 Stat. 663][/us/stat/102/663].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F962
-[/us/pl/100/352/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs5%2Fd%2F1
+[/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/stat/102/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F663
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352

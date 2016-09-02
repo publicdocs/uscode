@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 264, 385, [section 1509 of title 19][/us/usc/t19/s1509], U.S.C., 1940 ed., Customs Duties, and [section 1114(a) of title 26][/us/usc/t26/s1114/a], U.S.C., 1940 ed., Internal Revenue Code ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 158, 268, [36 Stat. 1139][/us/stat/36/1139], 1163; [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 509, [46 Stat. 733][/us/stat/46/733]; [Feb. 10, 1939, ch. 2, § 1114(a)][/us/act/1939-02-10/ch2/s1114/a], [53 Stat. 160][/us/stat/53/160]; [Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title V, § 504(a), (c), [56 Stat. 957][/us/stat/56/957]; [Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title V, § 503, [58 Stat. 72][/us/stat/58/72]).
+    Based on title 28, U.S.C., 1940 ed., §§ 264, 385, [section 1509 of title 19][/us/usc/t19/s1509], U.S.C., 1940 ed., Customs Duties, and [section 1114(a) of title 26][/us/usc/t26/s1114/a], U.S.C., 1940 ed., Internal Revenue Code ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 158, 268, [36 Stat. 1139][/us/stat/36/1139], 1163; [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 509, [46 Stat. 733][/us/stat/46/733]; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 1114(a), [53 Stat. 160][/us/stat/53/160]; [Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title V, § 504(a), (c), [56 Stat. 957][/us/stat/56/957]; [Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title V, § 503, [58 Stat. 72][/us/stat/58/72]).
 
     Section consolidates provisions of sections 264 and 385 of title 28, U.S.C., 1940 ed., [section 1509 of title 19][/us/usc/t19/s1509], U.S.C., 1940 ed., and [section 1114(a) of title 26][/us/usc/t26/s1114/a], U.S.C., 1940 ed., relating to administration of oaths and acknowledgments by judges and courts.
 
@@ -54,7 +54,7 @@
 [/us/stat/36/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1139
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F733
-[/us/act/1939-02-10/ch2/s1114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs1114%2Fa
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F160
 [/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
 [/us/stat/56/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F957

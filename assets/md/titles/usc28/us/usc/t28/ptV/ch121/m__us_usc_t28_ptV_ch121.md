@@ -171,17 +171,17 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–572, title IV, § 403(b)][/us/pl/102/572/s403/b], Oct. 29, 1992, [106 Stat. 4512][/us/stat/106/4512], substituted “Optional” for “Experimental” in item 1878.
+    1992—[Pub. L. 102–572, title IV][/us/pl/102/572/tIV], § 403(b), Oct. 29, 1992, [106 Stat. 4512][/us/stat/106/4512], substituted “Optional” for “Experimental” in item 1878.
 
-    1988—[Pub. L. 100–702, title VIII, § 805(b)][/us/pl/100/702/s805/b], Nov. 19, 1988, [102 Stat. 4659][/us/stat/102/4659], added item 1878.
+    1988—[Pub. L. 100–702, title VIII][/us/pl/100/702/tVIII], § 805(b), Nov. 19, 1988, [102 Stat. 4659][/us/stat/102/4659], added item 1878.
 
-    1983—[Pub. L. 97–463, § 3(2)][/us/pl/97/463/s3/2], Jan. 12, 1983, [96 Stat. 2532][/us/stat/96/2532], added item 1877.
+    1983—[Pub. L. 97–463][/us/pl/97/463], § 3(2), Jan. 12, 1983, [96 Stat. 2532][/us/stat/96/2532], added item 1877.
 
-    1980—[Pub. L. 96–417, title III, § 302(b)][/us/pl/96/417/s302/b], Oct. 10, 1980, [94 Stat. 1739][/us/stat/94/1739], added item 1876.
+    1980—[Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 302(b), Oct. 10, 1980, [94 Stat. 1739][/us/stat/94/1739], added item 1876.
 
-    1978—[Pub. L. 95–572, § 6(a)(2)][/us/pl/95/572/s6/a/2], Nov. 2, 1978, [92 Stat. 2456][/us/stat/92/2456], added item 1875.
+    1978—[Pub. L. 95–572][/us/pl/95/572], § 6(a)(2), Nov. 2, 1978, [92 Stat. 2456][/us/stat/92/2456], added item 1875.
 
-    1968—[Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 53][/us/stat/82/53], substituted “Declaration of policy” for “Qualifications” as item 1861, “Discrimination prohibited” for “Exemptions” as item 1862, “Plan for random jury selection” for “Exclusion or excuse from service” as item 1863, “Drawing of names from the master jury wheel; completion of juror qualification form” for “Manner of drawing; jury commissioners and their compensation” as item 1864, “Qualifications for jury service” for “Apportionment within district; additional jury commissioners” as item 1865, “Selection and summoning of jury panels” for “Special petit juries; talesmen from bystanders” as item 1866, “Challenging compliance with selection procedures” for “Summoning jurors” as item 1867, “Maintenance and inspection of records” for “Disqualification of marshal or deputy” as item 1868, “Definitions” for “Frequency of service” as item 1869, and reenacted items 1870–1874 without change.
+    1968—[Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 53][/us/stat/82/53], substituted “Declaration of policy” for “Qualifications” as item 1861, “Discrimination prohibited” for “Exemptions” as item 1862, “Plan for random jury selection” for “Exclusion or excuse from service” as item 1863, “Drawing of names from the master jury wheel; completion of juror qualification form” for “Manner of drawing; jury commissioners and their compensation” as item 1864, “Qualifications for jury service” for “Apportionment within district; additional jury commissioners” as item 1865, “Selection and summoning of jury panels” for “Special petit juries; talesmen from bystanders” as item 1866, “Challenging compliance with selection procedures” for “Summoning jurors” as item 1867, “Maintenance and inspection of records” for “Disqualification of marshal or deputy” as item 1868, “Definitions” for “Frequency of service” as item 1869, and reenacted items 1870–1874 without change.
 
 ----------
 
@@ -190,17 +190,17 @@
 ----------
 ----------
 
-[/us/pl/102/572/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs403%2Fb
+[/us/pl/102/572/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIV
 [/us/stat/106/4512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4512
-[/us/pl/100/702/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs805%2Fb
+[/us/pl/100/702/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVIII
 [/us/stat/102/4659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4659
-[/us/pl/97/463/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs3%2F2
+[/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
 [/us/stat/96/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2532
-[/us/pl/96/417/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs302%2Fb
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1739
-[/us/pl/95/572/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs6%2Fa%2F2
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/stat/92/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2456
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F53
 
 

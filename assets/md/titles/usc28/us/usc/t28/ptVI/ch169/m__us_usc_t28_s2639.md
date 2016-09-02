@@ -31,7 +31,7 @@
 
         (2) price lists and catalogs may be admitted in evidence when duly authenticated, relevant, and material.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1736][/us/stat/94/1736].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1736][/us/stat/94/1736].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2639, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 982][/us/stat/62/982]; June 2, 1970, [Pub. L. 91–271, title I, § 120][/us/pl/91/271/s120], [84 Stat. 281][/us/stat/84/281], provided for retrial or rehearing, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2646 of this title][/us/usc/t28/s2646].
+    A prior section 2639, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 982][/us/stat/62/982]; June 2, 1970, [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 120, [84 Stat. 281][/us/stat/84/281], provided for retrial or rehearing, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2646 of this title][/us/usc/t28/s2646].
 
  __Effective Date__ 
 
@@ -56,11 +56,11 @@
 
 [/us/usc/t28/s1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1582
 [/us/usc/t28/s1581/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1581%2Fh
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1736
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F982
-[/us/pl/91/271/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs120
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F281
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2646

@@ -35,11 +35,11 @@ Western District
 
     Court for the Western District shall be held at Chickasha, Enid, Guthrie, Lawton, Mangum, Oklahoma City, Pauls Valley, Ponca City, Shawnee, and Woodward.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 887][/us/stat/62/887]; [Pub. L. 89–526, § 1][/us/pl/89/526/s1], Aug. 4, 1966, [80 Stat. 335][/us/stat/80/335].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 887][/us/stat/62/887]; [Pub. L. 89–526][/us/pl/89/526], § 1, Aug. 4, 1966, [80 Stat. 335][/us/stat/80/335].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 182, 182a ([Mar. 3, 1911, ch. 231, § 101][/us/act/1911-03-03/ch231/s101], [36 Stat. 1122][/us/stat/36/1122]; [Feb. 20, 1917, ch. 102][/us/act/1917-02-20/ch102], [39 Stat. 927][/us/stat/39/927]; [June 13, 1918, ch. 98][/us/act/1918-06-13/ch98], [40 Stat. 604][/us/stat/40/604]; [Feb. 26, 1919, ch. 54][/us/act/1919-02-26/ch54], [40 Stat. 1184][/us/stat/40/1184]; [June 5, 1924, ch. 259][/us/act/1924-06-05/ch259], [43 Stat. 387][/us/stat/43/387]; Jan. 10, 1925, chs. 68, 69, [43 Stat. 730][/us/stat/43/730], 731; [Feb. 16, 1925, ch. 233, § 1][/us/act/1925-02-16/ch233/s1], [43 Stat. 945][/us/stat/43/945]; [May 7, 1926, ch. 255][/us/act/1926-05-07/ch255], [44 Stat. 408][/us/stat/44/408]; [Apr. 21, 1928, ch. 395][/us/act/1928-04-21/ch395], [45 Stat. 440][/us/stat/45/440]; [Mar. 2, 1929, ch. 539][/us/act/1929-03-02/ch539], [45 Stat. 1518][/us/stat/45/1518]; [June 28, 1930, ch. 714][/us/act/1930-06-28/ch714], [46 Stat. 829][/us/stat/46/829]; [May 13, 1936, ch. 386][/us/act/1936-05-13/ch386], [49 Stat. 1271][/us/stat/49/1271]; [Aug. 12, 1937, ch. 595][/us/act/1937-08-12/ch595], [50 Stat. 625][/us/stat/50/625]).
+    Based on title 28, U.S.C., 1940 ed., §§ 182, 182a ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 101, [36 Stat. 1122][/us/stat/36/1122]; [Feb. 20, 1917, ch. 102][/us/act/1917-02-20/ch102], [39 Stat. 927][/us/stat/39/927]; [June 13, 1918, ch. 98][/us/act/1918-06-13/ch98], [40 Stat. 604][/us/stat/40/604]; [Feb. 26, 1919, ch. 54][/us/act/1919-02-26/ch54], [40 Stat. 1184][/us/stat/40/1184]; [June 5, 1924, ch. 259][/us/act/1924-06-05/ch259], [43 Stat. 387][/us/stat/43/387]; Jan. 10, 1925, chs. 68, 69, [43 Stat. 730][/us/stat/43/730], 731; [Feb. 16, 1925, ch. 233][/us/act/1925-02-16/ch233], § 1, [43 Stat. 945][/us/stat/43/945]; [May 7, 1926, ch. 255][/us/act/1926-05-07/ch255], [44 Stat. 408][/us/stat/44/408]; [Apr. 21, 1928, ch. 395][/us/act/1928-04-21/ch395], [45 Stat. 440][/us/stat/45/440]; [Mar. 2, 1929, ch. 539][/us/act/1929-03-02/ch539], [45 Stat. 1518][/us/stat/45/1518]; [June 28, 1930, ch. 714][/us/act/1930-06-28/ch714], [46 Stat. 829][/us/stat/46/829]; [May 13, 1936, ch. 386][/us/act/1936-05-13/ch386], [49 Stat. 1271][/us/stat/49/1271]; [Aug. 12, 1937, ch. 595][/us/act/1937-08-12/ch595], [50 Stat. 625][/us/stat/50/625]).
 
     Provisions for furnishing rooms and accommodations at Ada, Bartlesville, Mangum, Miami, Okmulgee, and Ponca City were omitted as obsolete, on advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available at such places.
 
@@ -59,7 +59,7 @@ Western District
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–526, § 2][/us/pl/89/526/s2], Aug. 4, 1966, [80 Stat. 335][/us/stat/80/335], provided that: 
+[Pub. L. 89–526][/us/pl/89/526], § 2, Aug. 4, 1966, [80 Stat. 335][/us/stat/80/335], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect on the sixtieth day after the date of enactment of this Act \[Aug. 4, 1966\].”
 
@@ -72,9 +72,9 @@ Western District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F887
-[/us/pl/89/526/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F526%2Fs1
+[/us/pl/89/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F526
 [/us/stat/80/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F335
-[/us/act/1911-03-03/ch231/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs101
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1122
 [/us/act/1917-02-20/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-20%2Fch102
 [/us/stat/39/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F927
@@ -85,7 +85,7 @@ Western District
 [/us/act/1924-06-05/ch259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-05%2Fch259
 [/us/stat/43/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F387
 [/us/stat/43/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F730
-[/us/act/1925-02-16/ch233/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-16%2Fch233%2Fs1
+[/us/act/1925-02-16/ch233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-16%2Fch233
 [/us/stat/43/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F945
 [/us/act/1926-05-07/ch255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch255
 [/us/stat/44/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F408
@@ -104,7 +104,7 @@ Western District
 [/us/usc/t28/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs751
 [/us/usc/t28/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs142
 [/us/pl/89/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F526
-[/us/pl/89/526/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F526%2Fs2
+[/us/pl/89/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F526
 [/us/stat/80/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F335
 
 

@@ -17,11 +17,11 @@
 
     The judges of the United States Court of Federal Claims may appoint necessary law clerks and secretaries, in such numbers as the Judicial Conference of the United States may approve for district judges, subject to any limitation of the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 924][/us/stat/62/924]; [Pub. L. 97–164, title I, § 121(c)(1)][/us/pl/97/164/s121/c/1], Apr. 2, 1982, [96 Stat. 34][/us/stat/96/34]; [Pub. L. 100–702, title X, § 1003(a)(3)][/us/pl/100/702/s1003/a/3], Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665]; [Pub. L. 102–572, title IX][/us/pl/102/572], §§ 902(a)(1), 905, Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4517.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 924][/us/stat/62/924]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 121(c)(1), Apr. 2, 1982, [96 Stat. 34][/us/stat/96/34]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1003(a)(3), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], §§ 902(a)(1), 905, Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4517.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 270 ([Feb. 24, 1925, ch. 301, § 2][/us/act/1925-02-24/ch301/s2], [43 Stat. 965][/us/stat/43/965]; [May 29, 1928, ch. 852, § 711][/us/act/1928-05-29/ch852/s711], [45 Stat. 882][/us/stat/45/882]; [June 23, 1930, ch. 573, § 1][/us/act/1930-06-23/ch573/s1], [46 Stat. 799][/us/stat/46/799]; [Oct. 16, 1941, ch. 443][/us/act/1941-10-16/ch443], [55 Stat. 741][/us/stat/55/741]).
+    Based on title 28, U.S.C., 1940 ed., § 270 ([Feb. 24, 1925, ch. 301][/us/act/1925-02-24/ch301], § 2, [43 Stat. 965][/us/stat/43/965]; [May 29, 1928, ch. 852][/us/act/1928-05-29/ch852], § 711, [45 Stat. 882][/us/stat/45/882]; [June 23, 1930, ch. 573][/us/act/1930-06-23/ch573], § 1, [46 Stat. 799][/us/stat/46/799]; [Oct. 16, 1941, ch. 443][/us/act/1941-10-16/ch443], [55 Stat. 741][/us/stat/55/741]).
 
     The first sentence of the revised section makes express provision for appointment of stenographers and necessary clerical employees.
 
@@ -56,17 +56,17 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F924
-[/us/pl/97/164/s121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs121%2Fc%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F34
-[/us/pl/100/702/s1003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1003%2Fa%2F3
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4665
-[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1925-02-24/ch301/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch301%2Fs2
+[/us/act/1925-02-24/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch301
 [/us/stat/43/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F965
-[/us/act/1928-05-29/ch852/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch852%2Fs711
+[/us/act/1928-05-29/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch852
 [/us/stat/45/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F882
-[/us/act/1930-06-23/ch573/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch573%2Fs1
+[/us/act/1930-06-23/ch573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch573
 [/us/stat/46/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F799
 [/us/act/1941-10-16/ch443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-10-16%2Fch443
 [/us/stat/55/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F741

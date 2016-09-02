@@ -27,7 +27,7 @@
 
     (f) Upon the request of the Director, the Administrator of General Services is authorized and directed to provide the accommodations the Director requests, and to close accommodations which the Director recommends for closure with the approval of the Judicial Conference of the United States.
 
-(Added [Pub. L. 97–164, title I, § 115(c)(1)][/us/pl/97/164/s115/c/1], Apr. 2, 1982, [96 Stat. 31][/us/stat/96/31]; amended [Pub. L. 100–702, title X, § 1015][/us/pl/100/702/s1015], Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 115(c)(1), Apr. 2, 1982, [96 Stat. 31][/us/stat/96/31]; amended [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1015, Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/97/164/s115/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs115%2Fc%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F31
-[/us/pl/100/702/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1015
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4669
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702

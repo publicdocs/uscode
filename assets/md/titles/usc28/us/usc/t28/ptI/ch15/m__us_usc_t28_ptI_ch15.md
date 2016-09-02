@@ -67,11 +67,11 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–466, § 2(b)][/us/pl/99/466/s2/b], Oct. 14, 1986, [100 Stat. 1190][/us/stat/100/1190], added item 335.
+    1986—[Pub. L. 99–466][/us/pl/99/466], § 2(b), Oct. 14, 1986, [100 Stat. 1190][/us/stat/100/1190], added item 335.
 
-    1980—[Pub. L. 96–458, § 2(d)(2)][/us/pl/96/458/s2/d/2], Oct. 15, 1980, [94 Stat. 2036][/us/stat/94/2036], inserted “of circuits” in item 332.
+    1980—[Pub. L. 96–458][/us/pl/96/458], § 2(d)(2), Oct. 15, 1980, [94 Stat. 2036][/us/stat/94/2036], inserted “of circuits” in item 332.
 
-    1958—[Pub. L. 85–752, § 2][/us/pl/85/752/s2], Aug. 25, 1958, [72 Stat. 845][/us/stat/72/845], added item 334.
+    1958—[Pub. L. 85–752][/us/pl/85/752], § 2, Aug. 25, 1958, [72 Stat. 845][/us/stat/72/845], added item 334.
 
 ----------
 
@@ -80,11 +80,11 @@
 ----------
 ----------
 
-[/us/pl/99/466/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466%2Fs2%2Fb
+[/us/pl/99/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F466
 [/us/stat/100/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1190
-[/us/pl/96/458/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458%2Fs2%2Fd%2F2
+[/us/pl/96/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458
 [/us/stat/94/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2036
-[/us/pl/85/752/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F752%2Fs2
+[/us/pl/85/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F752
 [/us/stat/72/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F845
 
 

@@ -35,11 +35,11 @@
 
         (2) any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 932][/us/stat/62/932]; [Sept. 3, 1954, ch. 1263, § 42][/us/act/1954-09-03/ch1263/s42], [68 Stat. 1241][/us/stat/68/1241]; [Pub. L. 85–315][/us/pl/85/315], part III, § 121, Sept. 9, 1957, [71 Stat. 637][/us/stat/71/637]; [Pub. L. 96–170, § 2][/us/pl/96/170/s2], Dec. 29, 1979, [93 Stat. 1284][/us/stat/93/1284].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 932][/us/stat/62/932]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 42, [68 Stat. 1241][/us/stat/68/1241]; [Pub. L. 85–315, part III][/us/pl/85/315/ptIII], § 121, Sept. 9, 1957, [71 Stat. 637][/us/stat/71/637]; [Pub. L. 96–170][/us/pl/96/170], § 2, Dec. 29, 1979, [93 Stat. 1284][/us/stat/93/1284].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 41(12), (13), and (14) ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], pars. 12, 13, 14, [36 Stat. 1092][/us/stat/36/1092]).
+    Based on title 28, U.S.C., 1940 ed., § 41(12), (13), and (14) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, pars. 12, 13, 14, [36 Stat. 1092][/us/stat/36/1092]).
 
     Words “civil action” were substituted for “suits,” “suits at law or in equity” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–170, § 3][/us/pl/96/170/s3], Dec. 29, 1979, [93 Stat. 1284][/us/stat/93/1284], provided that: 
+[Pub. L. 96–170][/us/pl/96/170], § 3, Dec. 29, 1979, [93 Stat. 1284][/us/stat/93/1284], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 1983 of Title 42][/us/usc/t42/s1983], The Public Health and Welfare\] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\].”
 
@@ -70,19 +70,19 @@
 [/us/usc/t42/s1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1985
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F932
-[/us/act/1954-09-03/ch1263/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs42
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1241
-[/us/pl/85/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F315
+[/us/pl/85/315/ptIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F315%2FptIII
 [/us/stat/71/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F637
-[/us/pl/96/170/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F170%2Fs2
+[/us/pl/96/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F170
 [/us/stat/93/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1284
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1092
 [/us/pl/96/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F170
 [/us/pl/85/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F315
 [/us/usc/t42/s1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1985
 [/us/usc/t8/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs47
-[/us/pl/96/170/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F170%2Fs3
+[/us/pl/96/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F170
 [/us/stat/93/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1284
 [/us/usc/t42/s1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1983
 

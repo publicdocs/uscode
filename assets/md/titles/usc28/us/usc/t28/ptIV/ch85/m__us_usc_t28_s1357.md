@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 41(11) ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], par. 11, [36 Stat. 1092][/us/stat/36/1092].)
+    Based on title 28, U.S.C., 1940 ed., § 41(11) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, par. 11, [36 Stat. 1092][/us/stat/36/1092].)
 
     Words “any civil action” were substituted for “all suits,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F934
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1092
 
 

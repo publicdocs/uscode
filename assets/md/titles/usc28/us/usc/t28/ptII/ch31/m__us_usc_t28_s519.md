@@ -17,7 +17,7 @@
 
     Except as otherwise authorized by law, the Attorney General shall supervise all litigation to which the United States, an agency, or officer thereof is a party, and shall direct all United States attorneys, assistant United States attorneys, and special attorneys appointed under [section 543 of this title][/us/usc/t28/s543] in the discharge of their respective duties.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 614][/us/stat/80/614].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 614][/us/stat/80/614].)
 
 <table>
 
@@ -73,13 +73,13 @@ Statutes at Large  </td>
 
  __Intelligence and National Security Aspects of Espionage Prosecutions__ 
 
-[Pub. L. 108–177, title III, § 341(b)][/us/pl/108/177/s341/b], Dec. 13, 2003, [117 Stat. 2616][/us/stat/117/2616], as amended by [Pub. L. 108–458, title I, § 1071(g)(3)(A)(v)][/us/pl/108/458/s1071/g/3/A/v], Dec. 17, 2004, [118 Stat. 3692][/us/stat/118/3692]; [Pub. L. 109–177, title V, § 506(a)(9)][/us/pl/109/177/s506/a/9], Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248], provided that: 
+[Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 341(b), Dec. 13, 2003, [117 Stat. 2616][/us/stat/117/2616], as amended by [Pub. L. 108–458, title I][/us/pl/108/458/tI], § 1071(g)(3)(A)(v), Dec. 17, 2004, [118 Stat. 3692][/us/stat/118/3692]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(a)(9), Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248], provided that: 
 
 > “The Attorney General, acting through the Assistant Attorney General for National Security, and in consultation with the Director of National Intelligence, acting through the Office of the National Counterintelligence Executive, shall establish policies and procedures to assist the Attorney General in the consideration of intelligence and national security-related equities in the development of charging documents and related pleadings in espionage prosecutions.”
 
  __Use of Annuity Brokers in Structured Settlements__ 
 
-[Pub. L. 107–273, div. C, title I, § 11015][/us/pl/107/273/s11015], Nov. 2, 2002, [116 Stat. 1824][/us/stat/116/1824], provided that:
+[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11015, Nov. 2, 2002, [116 Stat. 1824][/us/stat/116/1824], provided that:
 
 >     “(a)  __Establishment and Transmission of List of Approved Annuity Brokers__  __.—__ 
 
@@ -91,17 +91,17 @@ Statutes at Large  </td>
 
  __Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan__ 
 
-    [Pub. L. 96–132, § 11][/us/pl/96/132/s11], Nov. 30, 1979, [93 Stat. 1047][/us/stat/93/1047], required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
+    [Pub. L. 96–132][/us/pl/96/132], § 11, Nov. 30, 1979, [93 Stat. 1047][/us/stat/93/1047], required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
 
  __Report to Congress Regarding Provisions of Law Considered Unconstitutional by the Department of Justice; Declaration of Such Position__ 
 
-    [Pub. L. 96–132, § 21][/us/pl/96/132/s21], Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049], required the Attorney General, during the fiscal year ending Sept. 30, 1980, to transmit a report to each House of Congress in any case in which the Attorney General considered the provisions of law enacted by the Congress and at issue to be unconstitutional and in such cases required a representative of the Department of Justice participating in such case to make a declaration that such opinion of the Attorney General regarding the constitutionality of those provisions of law involved constitutes the opinion of the executive branch of the government with respect to such matter.
+    [Pub. L. 96–132][/us/pl/96/132], § 21, Nov. 30, 1979, [93 Stat. 1049][/us/stat/93/1049], required the Attorney General, during the fiscal year ending Sept. 30, 1980, to transmit a report to each House of Congress in any case in which the Attorney General considered the provisions of law enacted by the Congress and at issue to be unconstitutional and in such cases required a representative of the Department of Justice participating in such case to make a declaration that such opinion of the Attorney General regarding the constitutionality of those provisions of law involved constitutes the opinion of the executive branch of the government with respect to such matter.
 
-    Similar provisions were contained in [Pub. L. 95–624, § 13][/us/pl/95/624/s13], Nov. 9, 1978, [92 Stat. 3464][/us/stat/92/3464].
+    Similar provisions were contained in [Pub. L. 95–624][/us/pl/95/624], § 13, Nov. 9, 1978, [92 Stat. 3464][/us/stat/92/3464].
 
  __Study and Report to Congress on Extent to Which Violations of Federal Criminal Laws Are Not Prosecuted__ 
 
-    [Pub. L. 95–624, § 17][/us/pl/95/624/s17], Nov. 9, 1978, [92 Stat. 3465][/us/stat/92/3465], provided that the Attorney General undertake a study and make recommendations concerning violations of Federal criminal laws which have not been prosecuted and present such study and recommendations to the Committee on the Judiciary of the Senate and the House of Representatives not later than Oct. 1, 1979.
+    [Pub. L. 95–624][/us/pl/95/624], § 17, Nov. 9, 1978, [92 Stat. 3465][/us/stat/92/3465], provided that the Attorney General undertake a study and make recommendations concerning violations of Federal criminal laws which have not been prosecuted and present such study and recommendations to the Committee on the Judiciary of the Senate and the House of Representatives not later than Oct. 1, 1979.
 
  __Executive Order No. 12778__ 
 
@@ -269,24 +269,24 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 
 [/us/usc/t28/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs543
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F614
 [/us/usc/t10/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1037
-[/us/pl/108/177/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs341%2Fb
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2616
-[/us/pl/108/458/s1071/g/3/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1071%2Fg%2F3%2FA%2Fv
+[/us/pl/108/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtI
 [/us/stat/118/3692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3692
-[/us/pl/109/177/s506/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fa%2F9
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F248
-[/us/pl/107/273/s11015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11015
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1824
-[/us/pl/96/132/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs11
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1047
-[/us/pl/96/132/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs21
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1049
-[/us/pl/95/624/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624%2Fs13
+[/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624
 [/us/stat/92/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3464
-[/us/pl/95/624/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624%2Fs17
+[/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624
 [/us/stat/92/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3465
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601

@@ -21,7 +21,7 @@
 
     (c) Subsections (a) and (b) apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 931][/us/stat/62/931]; [Pub. L. 91–577, title III, § 143(b)][/us/pl/91/577/s143/b], Dec. 24, 1970, [84 Stat. 1559][/us/stat/84/1559]; [Pub. L. 100–702, title X, § 1020(a)(4)][/us/pl/100/702/s1020/a/4], Nov. 19, 1988, [102 Stat. 4671][/us/stat/102/4671]; [Pub. L. 105–304, title V, § 503(b)(1)][/us/pl/105/304/s503/b/1], (2)(A), Oct. 28, 1998, [112 Stat. 2917][/us/stat/112/2917]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3009(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–551; [Pub. L. 112–29, § 19(a)][/us/pl/112/29/s19/a], Sept. 16, 2011, [125 Stat. 331][/us/stat/125/331].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 931][/us/stat/62/931]; [Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 143(b), Dec. 24, 1970, [84 Stat. 1559][/us/stat/84/1559]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1020(a)(4), Nov. 19, 1988, [102 Stat. 4671][/us/stat/102/4671]; [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 503(b)(1), (2)(A), Oct. 28, 1998, [112 Stat. 2917][/us/stat/112/2917]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title III, § 3009(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–551; [Pub. L. 112–29][/us/pl/112/29], § 19(a), Sept. 16, 2011, [125 Stat. 331][/us/stat/125/331].)
 
  __Historical and Revision Notes__ 
 
@@ -43,13 +43,13 @@
 
     1999—[Pub. L. 106–113][/us/pl/106/113] substituted “trademarks” for “trade-marks” in section catchline and subsec. (a) and substituted “trademark” for “trade-mark” in subsec. (b).
 
-    1998—[Pub. L. 105–304, § 503(b)(2)(A)][/us/pl/105/304/s503/b/2/A], inserted “designs,” after “mask works,” in section catchline.
+    1998—[Pub. L. 105–304][/us/pl/105/304], § 503(b)(2)(A), inserted “designs,” after “mask works,” in section catchline.
 
-    Subsec. (c). [Pub. L. 105–304, § 503(b)(1)][/us/pl/105/304/s503/b/1], inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
+    Subsec. (c). [Pub. L. 105–304][/us/pl/105/304], § 503(b)(1), inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
 
-    1988—[Pub. L. 100–702, § 1020(a)(4)(B)][/us/pl/100/702/s1020/a/4/B], amended section catchline generally, inserting “mask works,” after “copyrights,”.
+    1988—[Pub. L. 100–702][/us/pl/100/702], § 1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
 
-    Subsec. (c). [Pub. L. 100–702, § 1020(a)(4)(A)][/us/pl/100/702/s1020/a/4/A], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–702][/us/pl/100/702], § 1020(a)(4)(A), added subsec. (c).
 
     1970—[Pub. L. 91–577][/us/pl/91/577] inserted references to “plant variety protection” in section catchline and in subsecs. (a) and (b).
 
@@ -70,25 +70,25 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F931
-[/us/pl/91/577/s143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs143%2Fb
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1559
-[/us/pl/100/702/s1020/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1020%2Fa%2F4
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4671
-[/us/pl/105/304/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs503%2Fb%2F1
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2917
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/112/29/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs19%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F331
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1092
 [/us/usc/t17/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs34
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/304/s503/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs503%2Fb%2F2%2FA
-[/us/pl/105/304/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs503%2Fb%2F1
-[/us/pl/100/702/s1020/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1020%2Fa%2F4%2FB
-[/us/pl/100/702/s1020/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1020%2Fa%2F4%2FA
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/pl/112/29/s19/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs19%2Fe

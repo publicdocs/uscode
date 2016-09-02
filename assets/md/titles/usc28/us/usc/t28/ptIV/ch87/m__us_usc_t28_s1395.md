@@ -29,7 +29,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 104, 106, 107, and 108, and [section 3745(c) of title 26][/us/usc/t26/s3745/c], U.S.C., 1940 ed., Internal Revenue Code ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 43, 45, 46, 47, [36 Stat. 1100][/us/stat/36/1100]; [Feb. 10, 1939, ch. 2, § 3745(c)][/us/act/1939-02-10/ch2/s3745/c], [53 Stat. 460][/us/stat/53/460]).
+    Based on title 28, U.S.C., 1940 ed., §§ 104, 106, 107, and 108, and [section 3745(c) of title 26][/us/usc/t26/s3745/c], U.S.C., 1940 ed., Internal Revenue Code ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 43, 45, 46, 47, [36 Stat. 1100][/us/stat/36/1100]; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 3745(c), [53 Stat. 460][/us/stat/53/460]).
 
     This section consolidates [section 3745(c) of title 26][/us/usc/t26/s3745/c], U.S.C., 1940 ed., with sections 104, 106, 107, and 108 of title 28, U.S.C., 1940 ed., relating to venue in civil proceedings to recover and enforce civil fines, penalties, and forfeitures, pecuniary or otherwise. Subsection (a) is based on said [section 104 of title 28][/us/usc/t28/s104] and said [section 3745(c) of title 26][/us/usc/t26/s3745/c]. Subsections (b) and (c) consolidate such sections 106 and 107 of title 28. Subsection (e) is based on such [section 108 of title 28][/us/usc/t28/s108].
 
@@ -59,7 +59,7 @@
 [/us/usc/t26/s3745/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3745%2Fc
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1100
-[/us/act/1939-02-10/ch2/s3745/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs3745%2Fc
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F460
 [/us/usc/t26/s3745/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3745%2Fc
 [/us/usc/t28/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs104

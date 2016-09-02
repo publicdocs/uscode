@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 175 ([Mar. 3, 1911, ch. 231, § 95][/us/act/1911-03-03/ch231/s95], [36 Stat. 1119][/us/stat/36/1119]; [Aug. 23, 1912, ch. 344][/us/act/1912-08-23/ch344], [37 Stat. 357][/us/stat/37/357]; [Feb. 20, 1926, ch. 23][/us/act/1926-02-20/ch23], [44 Stat. 8][/us/stat/44/8]).
+    Based on title 28, U.S.C., 1940 ed., § 175 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 95, [36 Stat. 1119][/us/stat/36/1119]; [Aug. 23, 1912, ch. 344][/us/act/1912-08-23/ch344], [37 Stat. 357][/us/stat/37/357]; [Feb. 20, 1926, ch. 23][/us/act/1926-02-20/ch23], [44 Stat. 8][/us/stat/44/8]).
 
     Changes in arrangement and phraseology were made.
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F885
-[/us/act/1911-03-03/ch231/s95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs95
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1119
 [/us/act/1912-08-23/ch344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch344
 [/us/stat/37/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F357

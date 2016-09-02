@@ -17,7 +17,7 @@
 
     The Attorney General may from time to time make such provisions as he considers appropriate authorizing the performance by any other officer, employee, or agency of the Department of Justice of any function of the Attorney General.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612].)
 
 <table>
 
@@ -69,7 +69,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 510, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 910][/us/stat/62/910], related to clerical assistants and messengers for United States attorneys, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 550 of this title][/us/usc/t28/s550] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 510, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 910][/us/stat/62/910], related to clerical assistants and messengers for United States attorneys, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 550 of this title][/us/usc/t28/s550] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
 ----------
 
@@ -78,11 +78,11 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F612
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F910
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs550
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 

@@ -17,11 +17,11 @@
 
     Whenever any action or suit is dismissed in any district court, the Court of International Trade, or the Court of Federal Claims for want of jurisdiction, such court may order the payment of just costs.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 955][/us/stat/62/955]; [Pub. L. 96–417, title V, § 510][/us/pl/96/417/s510], Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743]; [Pub. L. 102–572, title IX, § 908(a)][/us/pl/102/572/s908/a], (b)(1), Oct. 29, 1992, [106 Stat. 4519][/us/stat/106/4519].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 955][/us/stat/62/955]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 510, Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 908(a), (b)(1), Oct. 29, 1992, [106 Stat. 4519][/us/stat/106/4519].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 80 ([Mar. 3, 1911, ch. 231, § 37][/us/act/1911-03-03/ch231/s37], [36 Stat. 1098][/us/stat/36/1098]).
+    Based on title 28, U.S.C., 1940 ed., § 80 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 37, [36 Stat. 1098][/us/stat/36/1098]).
 
     Words “dismissed for want of jurisdiction” were substituted for “it shall appear to the satisfaction of the said district court, at any time after such suit has been brought or removed thereto, that such suit does not really and substantially involve a dispute or controversy properly within the jurisdiction of said district court”. The substituted language is sufficient. (See reviser’s note under [section 1359 of this title][/us/usc/t28/s1359].) The provisions of [section 80 of title 28][/us/usc/t28/s80], U.S.C., 1940 ed., relating to dismissal for improper or collusive joinder in removal proceedings, are incorporated in [section 1359 of this title][/us/usc/t28/s1359]. Other provisions of [section 80 of title 28][/us/usc/t28/s80], U.S.C., 1940 ed., appear in [section 1447 of this title][/us/usc/t28/s1447].
 
@@ -50,11 +50,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F955
-[/us/pl/96/417/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs510
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1743
-[/us/pl/102/572/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs908%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4519
-[/us/act/1911-03-03/ch231/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs37
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1098
 [/us/usc/t28/s1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1359
 [/us/usc/t28/s80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs80

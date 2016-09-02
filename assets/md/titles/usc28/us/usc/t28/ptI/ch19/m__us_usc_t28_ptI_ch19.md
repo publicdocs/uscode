@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–164, title I, § 113][/us/pl/97/164/s113], Apr. 2, 1982, [96 Stat. 29][/us/stat/96/29], struck out item 415 “Court of Claims decisions”.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 113, Apr. 2, 1982, [96 Stat. 29][/us/stat/96/29], struck out item 415 “Court of Claims decisions”.
 
-    1952—[Act July 10, 1952, ch. 632, § 3][/us/act/1952-07-10/ch632/s3], [66 Stat. 540][/us/stat/66/540], amended analysis to conform it to amendments of sections 411 to 413 of this title.
+    1952—[Act July 10, 1952, ch. 632][/us/act/1952-07-10/ch632], § 3, [66 Stat. 540][/us/stat/66/540], amended analysis to conform it to amendments of sections 411 to 413 of this title.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/97/164/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs113
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F29
-[/us/act/1952-07-10/ch632/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch632%2Fs3
+[/us/act/1952-07-10/ch632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch632
 [/us/stat/66/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F540
 
 

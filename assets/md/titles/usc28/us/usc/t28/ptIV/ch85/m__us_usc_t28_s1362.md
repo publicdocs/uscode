@@ -17,7 +17,7 @@
 
     The district courts shall have original jurisdiction of all civil actions, brought by any Indian tribe or band with a governing body duly recognized by the Secretary of the Interior, wherein the matter in controversy arises under the Constitution, laws, or treaties of the United States.
 
-(Added [Pub. L. 89–635, § 1][/us/pl/89/635/s1], Oct. 10, 1966, [80 Stat. 880][/us/stat/80/880].)
+(Added [Pub. L. 89–635][/us/pl/89/635], § 1, Oct. 10, 1966, [80 Stat. 880][/us/stat/80/880].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/635/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F635%2Fs1
+[/us/pl/89/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F635
 [/us/stat/80/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F880
 
 

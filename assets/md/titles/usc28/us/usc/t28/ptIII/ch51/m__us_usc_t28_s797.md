@@ -27,15 +27,15 @@
 
     (d) Any senior judge, while performing duties pursuant to this section, shall be paid the same allowances for travel and other expenses as a judge in active service. Such senior judge shall also receive from the Court of Federal Claims supplemental pay in an amount sufficient, when added to his retirement annuity, to equal the salary of a judge in active service for the same period or periods of time. Such supplemental pay shall be paid in the same manner as the salary of a judge.
 
-(Added [Pub. L. 92–375, § 2][/us/pl/92/375/s2], Aug. 10, 1972, [86 Stat. 529][/us/stat/86/529]; amended [Pub. L. 97–164, title I, § 121(f)(1)][/us/pl/97/164/s121/f/1], Apr. 2, 1982, [96 Stat. 35][/us/stat/96/35]; [Pub. L. 99–651, title II, § 202(c)][/us/pl/99/651/s202/c], Nov. 14, 1986, [100 Stat. 3648][/us/stat/100/3648]; [Pub. L. 102–572, title IX][/us/pl/102/572], §§ 902(a), 904(b), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4517; [Pub. L. 106–518, title III, § 308][/us/pl/106/518/s308], Nov. 13, 2000, [114 Stat. 2419][/us/stat/114/2419].)
+(Added [Pub. L. 92–375][/us/pl/92/375], § 2, Aug. 10, 1972, [86 Stat. 529][/us/stat/86/529]; amended [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 121(f)(1), Apr. 2, 1982, [96 Stat. 35][/us/stat/96/35]; [Pub. L. 99–651, title II][/us/pl/99/651/tII], § 202(c), Nov. 14, 1986, [100 Stat. 3648][/us/stat/100/3648]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], §§ 902(a), 904(b), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4517; [Pub. L. 106–518, title III][/us/pl/106/518/tIII], § 308, Nov. 13, 2000, [114 Stat. 2419][/us/stat/114/2419].)
 
  __Amendments__ 
 
     2000—Subsec. (a). [Pub. L. 106–518][/us/pl/106/518] designated existing provisions as par. (1) and added par. (2).
 
-    1992—Subsec. (a). [Pub. L. 102–572, § 902(a)(1)][/us/pl/102/572/s902/a/1], substituted “United States Court of Federal Claims” for “United States Claims Court”.
+    1992—Subsec. (a). [Pub. L. 102–572][/us/pl/102/572], § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    Subsec. (b). [Pub. L. 102–572, § 902(a)(2)][/us/pl/102/572/s902/a/2], substituted “Court of Federal Claims” for “Claims Court”.
+    Subsec. (b). [Pub. L. 102–572][/us/pl/102/572], § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
     Subsec. (d). [Pub. L. 102–572][/us/pl/102/572], §§ 902(a)(2), 904(b), substituted “Court of Federal Claims” for “Claims Court” and struck out “civil service” before “retirement annuity”.
 
@@ -72,19 +72,19 @@
 
 [/us/usc/t28/s178/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs178%2Fc
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/92/375/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F375%2Fs2
+[/us/pl/92/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F375
 [/us/stat/86/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F529
-[/us/pl/97/164/s121/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs121%2Ff%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F35
-[/us/pl/99/651/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2Fs202%2Fc
+[/us/pl/99/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2FtII
 [/us/stat/100/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3648
-[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/106/518/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs308
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2419
 [/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
-[/us/pl/102/572/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F2
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/99/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164

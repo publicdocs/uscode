@@ -29,7 +29,7 @@
 
     Each written order to implement any action under section 354(a)(1)(C), which is issued by a judicial council, the Judicial Conference, or the standing committee established under section 331, shall be made available to the public through the appropriate clerk’s office of the court of appeals for the circuit. Unless contrary to the interests of justice, each such order shall be accompanied by written reasons therefor.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11042(a)][/us/pl/107/273/s11042/a], Nov. 2, 2002, [116 Stat. 1854][/us/stat/116/1854].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11042(a), Nov. 2, 2002, [116 Stat. 1854][/us/stat/116/1854].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11042%2Fa
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1854
 
 

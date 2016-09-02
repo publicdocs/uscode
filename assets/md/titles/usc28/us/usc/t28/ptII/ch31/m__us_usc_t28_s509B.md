@@ -31,7 +31,7 @@
 
     (e) The term “serious human rights offenses” includes violations of Federal criminal laws relating to genocide, torture, war crimes, and the use or recruitment of child soldiers under sections 1091, 2340, 2340A, 2441, and 2442 of title 18, United States Code.
 
-(Added [Pub. L. 111–122, § 2(b)][/us/pl/111/122/s2/b], Dec. 22, 2009, [123 Stat. 3480][/us/stat/123/3480].)
+(Added [Pub. L. 111–122][/us/pl/111/122], § 2(b), Dec. 22, 2009, [123 Stat. 3480][/us/stat/123/3480].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/122/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122%2Fs2%2Fb
+[/us/pl/111/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122
 [/us/stat/123/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3480
 [/us/pl/111/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122
 

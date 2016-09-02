@@ -49,7 +49,7 @@
 
     (n) Nothing in this section shall be construed to permit suits against the United States based upon adverse possession.
 
-(Added [Pub. L. 92–562, § 3(a)][/us/pl/92/562/s3/a], Oct. 25, 1972, [86 Stat. 1176][/us/stat/86/1176]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–598][/us/pl/99/598], Nov. 4, 1986, [100 Stat. 3351][/us/stat/100/3351].)
+(Added [Pub. L. 92–562][/us/pl/92/562], § 3(a), Oct. 25, 1972, [86 Stat. 1176][/us/stat/86/1176]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–598][/us/pl/99/598], Nov. 4, 1986, [100 Stat. 3351][/us/stat/100/3351].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 [/us/usc/t43/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs666
 [/us/usc/t28/s1346/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Ff
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
-[/us/pl/92/562/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F562%2Fs3%2Fa
+[/us/pl/92/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F562
 [/us/stat/86/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1176
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F598
 [/us/stat/100/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3351

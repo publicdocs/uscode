@@ -53,11 +53,11 @@ Southern District
 
     Court for the Western Division shall be held at Natchez.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 883][/us/stat/62/883]; [Aug. 7, 1950, ch. 601][/us/act/1950-08-07/ch601], [64 Stat. 415][/us/stat/64/415]; [Pub. L. 90–92][/us/pl/90/92], Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229]; [Pub. L. 91–546][/us/pl/91/546], §§ 2, 3, Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 95–408, § 2(b)][/us/pl/95/408/s2/b], Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883]; [Pub. L. 106–130, § 1][/us/pl/106/130/s1], Dec. 6, 1999, [113 Stat. 1677][/us/stat/113/1677]; [Pub. L. 108–455, § 2][/us/pl/108/455/s2], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628]; [Pub. L. 112–188, § 3][/us/pl/112/188/s3], Oct. 5, 2012, [126 Stat. 1433][/us/stat/126/1433]; [Pub. L. 113–61, § 1][/us/pl/113/61/s1], Dec. 20, 2013, [127 Stat. 665][/us/stat/127/665].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 883][/us/stat/62/883]; [Aug. 7, 1950, ch. 601][/us/act/1950-08-07/ch601], [64 Stat. 415][/us/stat/64/415]; [Pub. L. 90–92][/us/pl/90/92], Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229]; [Pub. L. 91–546][/us/pl/91/546], §§ 2, 3, Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 95–408][/us/pl/95/408], § 2(b), Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883]; [Pub. L. 106–130][/us/pl/106/130], § 1, Dec. 6, 1999, [113 Stat. 1677][/us/stat/113/1677]; [Pub. L. 108–455][/us/pl/108/455], § 2, Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628]; [Pub. L. 112–188][/us/pl/112/188], § 3, Oct. 5, 2012, [126 Stat. 1433][/us/stat/126/1433]; [Pub. L. 113–61][/us/pl/113/61], § 1, Dec. 20, 2013, [127 Stat. 665][/us/stat/127/665].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 170 ([Mar. 3, 1911, ch. 231, § 90][/us/act/1911-03-03/ch231/s90], [36 Stat. 1116][/us/stat/36/1116]; [Feb. 5, 1912, ch. 28][/us/act/1912-02-05/ch28], [37 Stat. 59][/us/stat/37/59]; [May 27, 1912, ch. 136][/us/act/1912-05-27/ch136], [37 Stat. 118][/us/stat/37/118]; [Feb. 12, 1925, ch. 212][/us/act/1925-02-12/ch212], [43 Stat. 882][/us/stat/43/882]; [May 19, 1936, ch. 428][/us/act/1936-05-19/ch428], [49 Stat. 1362][/us/stat/49/1362]; [May 8, 1939, ch. 116, § 1][/us/act/1939-05-08/ch116/s1], [53 Stat. 684][/us/stat/53/684]).
+    Based on title 28, U.S.C., 1940 ed., § 170 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 90, [36 Stat. 1116][/us/stat/36/1116]; [Feb. 5, 1912, ch. 28][/us/act/1912-02-05/ch28], [37 Stat. 59][/us/stat/37/59]; [May 27, 1912, ch. 136][/us/act/1912-05-27/ch136], [37 Stat. 118][/us/stat/37/118]; [Feb. 12, 1925, ch. 212][/us/act/1925-02-12/ch212], [43 Stat. 882][/us/stat/43/882]; [May 19, 1936, ch. 428][/us/act/1936-05-19/ch428], [49 Stat. 1362][/us/stat/49/1362]; [May 8, 1939, ch. 116][/us/act/1939-05-08/ch116], § 1, [53 Stat. 684][/us/stat/53/684]).
 
     Provisions relating to the maintenance of offices by the clerks and marshals were omitted as covered by sections 452, 541 \[see 561\], 542 \[see 561\], and 751 of this title.
 
@@ -75,9 +75,9 @@ Southern District
 
     1978—Subsec. (a)(1). [Pub. L. 95–408][/us/pl/95/408] provided for holding court at Corinth.
 
-    1970—Subsec. (b)(3). [Pub. L. 91–546, § 3][/us/pl/91/546/s3], provided for holding court at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
+    1970—Subsec. (b)(3). [Pub. L. 91–546][/us/pl/91/546], § 3, provided for holding court at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
 
-    Subsec. (b)(4). [Pub. L. 91–546, § 2][/us/pl/91/546/s2], provided for holding court at Gulfport.
+    Subsec. (b)(4). [Pub. L. 91–546][/us/pl/91/546], § 2, provided for holding court at Gulfport.
 
     1967—Subsec. (a)(1). [Pub. L. 90–92][/us/pl/90/92] provided for holding court at Ackerman.
 
@@ -85,13 +85,13 @@ Southern District
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–61, § 2][/us/pl/113/61/s2], Dec. 20, 2013, [127 Stat. 665][/us/stat/127/665], provided that: 
+[Pub. L. 113–61][/us/pl/113/61], § 2, Dec. 20, 2013, [127 Stat. 665][/us/stat/127/665], provided that: 
 
 > “This Act \[amending this section\] and the amendment made by this Act shall take effect on the date of the enactment of this Act \[Dec. 20, 2013\].”
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–188, § 4][/us/pl/112/188/s4], Oct. 5, 2012, [126 Stat. 1434][/us/stat/126/1434], provided that: 
+[Pub. L. 112–188][/us/pl/112/188], § 4, Oct. 5, 2012, [126 Stat. 1434][/us/stat/126/1434], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 105 of this title][/us/usc/t28/s105]\] take effect on the 60th day after the date of the enactment of this Act \[Oct. 5, 2012\].”
 
@@ -114,17 +114,17 @@ Southern District
 [/us/stat/81/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F229
 [/us/pl/91/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546
 [/us/stat/84/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1412
-[/us/pl/95/408/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs2%2Fb
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/stat/92/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F883
-[/us/pl/106/130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F130%2Fs1
+[/us/pl/106/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F130
 [/us/stat/113/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1677
-[/us/pl/108/455/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455%2Fs2
+[/us/pl/108/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455
 [/us/stat/118/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3628
-[/us/pl/112/188/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs3
+[/us/pl/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188
 [/us/stat/126/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1433
-[/us/pl/113/61/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F61%2Fs1
+[/us/pl/113/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F61
 [/us/stat/127/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F665
-[/us/act/1911-03-03/ch231/s90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs90
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1116
 [/us/act/1912-02-05/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-02-05%2Fch28
 [/us/stat/37/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F59
@@ -134,19 +134,19 @@ Southern District
 [/us/stat/43/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F882
 [/us/act/1936-05-19/ch428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-19%2Fch428
 [/us/stat/49/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1362
-[/us/act/1939-05-08/ch116/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-08%2Fch116%2Fs1
+[/us/act/1939-05-08/ch116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-08%2Fch116
 [/us/stat/53/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F684
 [/us/pl/113/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F61
 [/us/pl/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188
 [/us/pl/108/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455
 [/us/pl/106/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F130
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
-[/us/pl/91/546/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546%2Fs3
-[/us/pl/91/546/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546%2Fs2
+[/us/pl/91/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546
+[/us/pl/91/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546
 [/us/pl/90/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F92
-[/us/pl/113/61/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F61%2Fs2
+[/us/pl/113/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F61
 [/us/stat/127/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F665
-[/us/pl/112/188/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs4
+[/us/pl/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188
 [/us/stat/126/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1434
 [/us/usc/t28/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs105
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408

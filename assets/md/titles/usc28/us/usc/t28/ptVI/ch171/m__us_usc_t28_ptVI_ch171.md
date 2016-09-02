@@ -111,9 +111,9 @@
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–506, § 9(b)][/us/pl/89/506/s9/b], July 18, 1966, [80 Stat. 308][/us/stat/80/308], substituted “claims” for “claims of $2,500 or less” in item 2672.
+    1966—[Pub. L. 89–506][/us/pl/89/506], § 9(b), July 18, 1966, [80 Stat. 308][/us/stat/80/308], substituted “claims” for “claims of $2,500 or less” in item 2672.
 
-    1959—[Pub. L. 86–238, § 1(2)][/us/pl/86/238/s1/2], Sept. 8, 1959, [73 Stat. 472][/us/stat/73/472], substituted “$2,500” for “$1,000” in item 2672.
+    1959—[Pub. L. 86–238][/us/pl/86/238], § 1(2), Sept. 8, 1959, [73 Stat. 472][/us/stat/73/472], substituted “$2,500” for “$1,000” in item 2672.
 
 ----------
 
@@ -122,9 +122,9 @@
 ----------
 ----------
 
-[/us/pl/89/506/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs9%2Fb
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/stat/80/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F308
-[/us/pl/86/238/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F238%2Fs1%2F2
+[/us/pl/86/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F238
 [/us/stat/73/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F472
 
 

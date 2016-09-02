@@ -47,13 +47,13 @@
 
     (f) Any witness who is incarcerated at the time that his or her testimony is given (except for a witness to whom the provisions of [section 3144 of title 18][/us/usc/t18/s3144] apply) may not receive fees or allowances under this section, regardless of whether such a witness is incarcerated at the time he or she makes a claim for fees or allowances under this section.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 950][/us/stat/62/950]; [May 10, 1949, ch. 96][/us/act/1949-05-10/ch96], [63 Stat. 65][/us/stat/63/65]; [May 24, 1949, ch. 139, § 94][/us/act/1949-05-24/ch139/s94], [63 Stat. 103][/us/stat/63/103]; [Oct. 31, 1951, ch. 655, § 51(a)][/us/act/1951-10-31/ch655/s51/a], [65 Stat. 727][/us/stat/65/727]; [Sept. 3, 1954, ch. 1263, § 45][/us/act/1954-09-03/ch1263/s45], [68 Stat. 1242][/us/stat/68/1242]; [Aug. 1, 1956, ch. 826][/us/act/1956-08-01/ch826], [70 Stat. 798][/us/stat/70/798]; [Pub. L. 90–274, § 102(b)][/us/pl/90/274/s102/b], Mar. 27, 1968, [82 Stat. 62][/us/stat/82/62]; [Pub. L. 95–535, § 1][/us/pl/95/535/s1], Oct. 27, 1978, [92 Stat. 2033][/us/stat/92/2033]; [Pub. L. 101–650, title III][/us/pl/101/650], §§ 314(a), 321, Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], 5117; [Pub. L. 102–417, § 2(a)][/us/pl/102/417/s2/a]–(c), Oct. 14, 1992, [106 Stat. 2138][/us/stat/106/2138]; [Pub. L. 104–208, div. C, title III, § 308(g)(5)(E)][/us/pl/104/208/s308/g/5/E], Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 950][/us/stat/62/950]; [May 10, 1949, ch. 96][/us/act/1949-05-10/ch96], [63 Stat. 65][/us/stat/63/65]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 94, [63 Stat. 103][/us/stat/63/103]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 51(a), [65 Stat. 727][/us/stat/65/727]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 45, [68 Stat. 1242][/us/stat/68/1242]; [Aug. 1, 1956, ch. 826][/us/act/1956-08-01/ch826], [70 Stat. 798][/us/stat/70/798]; [Pub. L. 90–274][/us/pl/90/274], § 102(b), Mar. 27, 1968, [82 Stat. 62][/us/stat/82/62]; [Pub. L. 95–535][/us/pl/95/535], § 1, Oct. 27, 1978, [92 Stat. 2033][/us/stat/92/2033]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], §§ 314(a), 321, Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], 5117; [Pub. L. 102–417][/us/pl/102/417], § 2(a)–(c), Oct. 14, 1992, [106 Stat. 2138][/us/stat/106/2138]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(g)(5)(E), Sept. 30, 1996, [110 Stat. 3009–623][/us/stat/110/3009-623].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 600c, [section 1115(a) of title 26][/us/usc/t26/s1115/a], U.S.C., 1940, Internal Revenue Code, and section 11–1514 of the D.C. Code, 1940 ed. (R.S. §§ 823, 848; [Apr. 26, 1926, ch. 183, § 3][/us/act/1926-04-26/ch183/s3], [44 Stat. 324][/us/stat/44/324]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [Feb. 10, 1939, ch. 2, § 1115(a)][/us/act/1939-02-10/ch2/s1115/a], [53 Stat. 160][/us/stat/53/160]; [Dec. 24, 1942, ch. 825, § 1][/us/act/1942-12-24/ch825/s1], [56 Stat. 1088][/us/stat/56/1088].
+    Based on title 28, U.S.C., 1940 ed., § 600c, [section 1115(a) of title 26][/us/usc/t26/s1115/a], U.S.C., 1940, Internal Revenue Code, and section 11–1514 of the D.C. Code, 1940 ed. (R.S. §§ 823, 848; [Apr. 26, 1926, ch. 183][/us/act/1926-04-26/ch183], § 3, [44 Stat. 324][/us/stat/44/324]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 1115(a), [53 Stat. 160][/us/stat/53/160]; [Dec. 24, 1942, ch. 825][/us/act/1942-12-24/ch825], § 1, [56 Stat. 1088][/us/stat/56/1088].
 
     Section consolidates part of [section 600c of title 28][/us/usc/t28/s600c], U.S.C., 1940 ed., with [section 1115(a) of title 26][/us/usc/t26/s1115/a], U.S.C., 1940 ed., and section 11–1514 of the D.C. Code, 1940 ed.
 
@@ -75,7 +75,7 @@
 
  __References in Text__ 
 
-    Subsection (c) of [section 5702 of title 5][/us/usc/t5/s5702], referred to in subsec. (d)(3), which related to conditions under which an employee could be reimbursed for actual and necessary expenses of official travel when the maximum per diem allowance was less than these expenses, was repealed, and subsec. (e) of [section 5702 of title 5][/us/usc/t5/s5702], was redesignated as subsec. (c), by [Pub. L. 99–234, title I, § 102][/us/pl/99/234/s102], Jan. 2, 1986, [99 Stat. 1756][/us/stat/99/1756].
+    Subsection (c) of [section 5702 of title 5][/us/usc/t5/s5702], referred to in subsec. (d)(3), which related to conditions under which an employee could be reimbursed for actual and necessary expenses of official travel when the maximum per diem allowance was less than these expenses, was repealed, and subsec. (e) of [section 5702 of title 5][/us/usc/t5/s5702], was redesignated as subsec. (c), by [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 102, Jan. 2, 1986, [99 Stat. 1756][/us/stat/99/1756].
 
     Section 240 of the Immigration and Nationality Act, referred to in subsec. (e), is classified to [section 1229a of Title 8][/us/usc/t8/s1229a], Aliens and Nationality.
 
@@ -83,11 +83,11 @@
 
     1996—Subsec. (e). [Pub. L. 104–208][/us/pl/104/208] substituted “section 240” for “section 242(b)”.
 
-    1992—Subsec. (d)(1). [Pub. L. 102–417, § 2(b)][/us/pl/102/417/s2/b], struck out “(other than a witness who is incarcerated)” after “paid to a witness”.
+    1992—Subsec. (d)(1). [Pub. L. 102–417][/us/pl/102/417], § 2(b), struck out “(other than a witness who is incarcerated)” after “paid to a witness”.
 
-    Subsec. (d)(4). [Pub. L. 102–417, § 2(c)][/us/pl/102/417/s2/c], substituted “3144” for “3149”.
+    Subsec. (d)(4). [Pub. L. 102–417][/us/pl/102/417], § 2(c), substituted “3144” for “3149”.
 
-    Subsec. (f). [Pub. L. 102–417, § 2(a)][/us/pl/102/417/s2/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–417][/us/pl/102/417], § 2(a), added subsec. (f).
 
     1990—Subsec. (b). [Pub. L. 101–650][/us/pl/101/650] substituted “$40” for “$30”.
 
@@ -115,13 +115,13 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–417, § 2(d)][/us/pl/102/417/s2/d], Oct. 14, 1992, [106 Stat. 2138][/us/stat/106/2138], provided that: 
+[Pub. L. 102–417][/us/pl/102/417], § 2(d), Oct. 14, 1992, [106 Stat. 2138][/us/stat/106/2138], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be effective on and after the date of the enactment of this act \[Oct. 14, 1992\] and shall apply to any witness who testified before such date and has not received any fee or allowance under [section 1821 of title 28][/us/usc/t28/s1821], United States Code, relating to such testi­mony.”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–535, § 2][/us/pl/95/535/s2], Oct. 27, 1978, [92 Stat. 2034][/us/stat/92/2034], provided that: 
+[Pub. L. 95–535][/us/pl/95/535], § 2, Oct. 27, 1978, [92 Stat. 2034][/us/stat/92/2034], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect on October 1, 1978, or on the date of enactment \[Oct. 27, 1978\], whichever occurs later.”
 
@@ -131,15 +131,15 @@
 
  __Payment of Fact Witness Fee to Incarcerated Person Prohibited__ 
 
-[Pub. L. 102–395, title I, § 108][/us/pl/102/395/s108], Oct. 6, 1992, [106 Stat. 1841][/us/stat/106/1841], provided that: 
+[Pub. L. 102–395, title I][/us/pl/102/395/tI], § 108, Oct. 6, 1992, [106 Stat. 1841][/us/stat/106/1841], provided that: 
 
 > “Notwithstanding [28 U.S.C. 1821][/us/usc/t28/s1821], no funds appropriated to the Department of Justice in fiscal year 1993 or any prior fiscal year, or any other funds available from the Treasury of the United States, shall be obligated or expended to pay a fact witness fee to a person who is incarcerated testifying as a fact witness in a court of the United States, as defined in [28 U.S.C. 1821(a)(2)][/us/usc/t28/s1821/a/2].”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–140, title I, § 110][/us/pl/102/140/s110], Oct. 28, 1991, [105 Stat. 795][/us/stat/105/795].
+    [Pub. L. 102–140, title I][/us/pl/102/140/tI], § 110, Oct. 28, 1991, [105 Stat. 795][/us/stat/105/795].
 
-    [Pub. L. 102–27, title II, § 102][/us/pl/102/27/s102], Apr. 10, 1991, [105 Stat. 136][/us/stat/105/136].
+    [Pub. L. 102–27, title II][/us/pl/102/27/tII], § 102, Apr. 10, 1991, [105 Stat. 136][/us/stat/105/136].
 
 ----------
 
@@ -160,34 +160,34 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/62/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F950
 [/us/act/1949-05-10/ch96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-10%2Fch96
 [/us/stat/63/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F65
-[/us/act/1949-05-24/ch139/s94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs94
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F103
-[/us/act/1951-10-31/ch655/s51/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs51%2Fa
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F727
-[/us/act/1954-09-03/ch1263/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs45
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1242
 [/us/act/1956-08-01/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch826
 [/us/stat/70/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F798
-[/us/pl/90/274/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs102%2Fb
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F62
-[/us/pl/95/535/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F535%2Fs1
+[/us/pl/95/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F535
 [/us/stat/92/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2033
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5115
-[/us/pl/102/417/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417%2Fs2%2Fa
+[/us/pl/102/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417
 [/us/stat/106/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2138
-[/us/pl/104/208/s308/g/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F5%2FE
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-623
 [/us/usc/t26/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1115%2Fa
-[/us/act/1926-04-26/ch183/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-26%2Fch183%2Fs3
+[/us/act/1926-04-26/ch183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-26%2Fch183
 [/us/stat/44/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F324
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
-[/us/act/1939-02-10/ch2/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs1115%2Fa
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F160
-[/us/act/1942-12-24/ch825/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-24%2Fch825%2Fs1
+[/us/act/1942-12-24/ch825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-24%2Fch825
 [/us/stat/56/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1088
 [/us/usc/t28/s600c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs600c
 [/us/usc/t26/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1115%2Fa
@@ -197,13 +197,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t26/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1115%2Fa
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
-[/us/pl/99/234/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs102
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1756
 [/us/usc/t8/s1229a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1229a
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/102/417/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417%2Fs2%2Fb
-[/us/pl/102/417/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417%2Fs2%2Fc
-[/us/pl/102/417/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417%2Fs2%2Fa
+[/us/pl/102/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417
+[/us/pl/102/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417
+[/us/pl/102/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/95/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F535
 [/us/usc/t5/s5704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5704
@@ -213,21 +213,21 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/102/417/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417%2Fs2%2Fd
+[/us/pl/102/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F417
 [/us/stat/106/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2138
 [/us/usc/t28/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821
-[/us/pl/95/535/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F535%2Fs2
+[/us/pl/95/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F535
 [/us/stat/92/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2034
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/pl/90/274/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs104
 [/us/usc/t28/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1861
-[/us/pl/102/395/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2Fs108
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1841
 [/us/usc/t28/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821
 [/us/usc/t28/s1821/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821%2Fa%2F2
-[/us/pl/102/140/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs110
+[/us/pl/102/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtI
 [/us/stat/105/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F795
-[/us/pl/102/27/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2Fs102
+[/us/pl/102/27/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2FtII
 [/us/stat/105/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F136
 
 

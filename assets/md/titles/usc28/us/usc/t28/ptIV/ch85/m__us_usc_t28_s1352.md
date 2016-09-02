@@ -17,7 +17,7 @@
 
     The district courts shall have original jurisdiction, concurrent with State courts, of any action on a bond executed under any law of the United States, except matters within the jurisdiction of the Court of International Trade under [section 1582 of this title][/us/usc/t28/s1582].
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 934][/us/stat/62/934]; [Pub. L. 96–417, title V, § 506][/us/pl/96/417/s506], Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 934][/us/stat/62/934]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 506, Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743].)
 
  __Historical and Revision Notes__ 
 
@@ -41,7 +41,7 @@
 [/us/usc/t28/s1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1582
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F934
-[/us/pl/96/417/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs506
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1743
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1582

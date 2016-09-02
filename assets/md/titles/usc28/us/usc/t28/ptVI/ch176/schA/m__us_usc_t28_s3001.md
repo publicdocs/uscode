@@ -31,11 +31,11 @@
 
     This chapter shall not apply with respect to an amount owing that is not a debt or to a claim for an amount owing that is not a debt.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4933][/us/stat/104/4933].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4933][/us/stat/104/4933].)
 
  __Effective Date__ 
 
-[Section 3631 of title XXXVI of Pub. L. 101–647][/us/pl/101/647/s3631] provided that:
+[Section 3631 of title XXXVI of Pub. L. 101–647][/us/pl/101/647/tXXXVI/s3631] provided that:
 
 >     “(a) Except as provided in subsection (b), this Act \[probably should be “title”, meaning title XXXVI of [Pub. L. 101–647][/us/pl/101/647], which enacted this chapter and [section 2044 of this title][/us/usc/t28/s2044], amended sections 550, 1962, 1963, and 2410 of this title, [section 523 of Title 11][/us/usc/t11/s523], Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under [section 1 of this title][/us/usc/t28/s1]\] and the amendments made by this Act \[title\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 29, 1990\].
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4933
-[/us/pl/101/647/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3631
+[/us/pl/101/647/tXXXVI/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI%2Fs3631
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t28/s2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2044
 [/us/usc/t11/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523

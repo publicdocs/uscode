@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 326, 499, 513, and 514 (R.S. §§ 783, 795; [Feb. 22, 1875, ch. 95, § 3][/us/act/1875-02-22/ch95/s3], [18 Stat. 333][/us/stat/18/333]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 220, 291, [36 Stat. 1152][/us/stat/36/1152], 1167).
+    Based on title 28, U.S.C., 1940 ed., §§ 326, 499, 513, and 514 (R.S. §§ 783, 795; [Feb. 22, 1875, ch. 95][/us/act/1875-02-22/ch95], § 3, [18 Stat. 333][/us/stat/18/333]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 220, 291, [36 Stat. 1152][/us/stat/36/1152], 1167).
 
     Sections 326, 499, 513, and 514 of title 28, U.S.C., 1940 ed., were consolidated. They related to the bonds of particular officers, namely the Clerk of the Supreme Court, the United States marshals, and the clerks of the district courts. The revised section eliminates all inconsistent provisions of such sections.
 
@@ -40,7 +40,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F947
-[/us/act/1875-02-22/ch95/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-22%2Fch95%2Fs3
+[/us/act/1875-02-22/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-22%2Fch95
 [/us/stat/18/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F333
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1152

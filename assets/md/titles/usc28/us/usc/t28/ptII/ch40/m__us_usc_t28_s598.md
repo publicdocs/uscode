@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
 
-(Added [Pub. L. 95–521, title VI, § 601(a)][/us/pl/95/521/s601/a], Oct. 26, 1978, [92 Stat. 1873][/us/stat/92/1873]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1)(A), 7, Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2042; [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1306][/us/stat/101/1306].)
+(Added [Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 601(a), Oct. 26, 1978, [92 Stat. 1873][/us/stat/92/1873]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1)(A), 7, Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2042; [Pub. L. 100–191][/us/pl/100/191], § 2, Dec. 15, 1987, [101 Stat. 1306][/us/stat/101/1306].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/95/521/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs601%2Fa
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1873
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/stat/96/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2039
-[/us/pl/100/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs2
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1306
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/usc/t28/s599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599

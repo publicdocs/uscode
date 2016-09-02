@@ -17,17 +17,17 @@
 
     (a) The Supreme Court may appoint and fix the compensation of a clerk and one or more deputy clerks. The clerk shall be subject to removal by the Court. Deputy clerks shall be subject to removal by the clerk with the approval of the Court or the Chief Justice of the United States.
 
-    \[(b) Repealed. [Pub. L. 92–310, title II, § 206(c)][/us/pl/92/310/s206/c], June 6, 1972, [86 Stat. 203][/us/stat/86/203].\]
+    \[(b) Repealed. [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 206(c), June 6, 1972, [86 Stat. 203][/us/stat/86/203].\]
 
     (c) The clerk may appoint and fix the compensation of necessary assistants and messengers with the approval of the Chief Justice of the United States.
 
     (d) The clerk shall pay into the Treasury all fees, costs, and other moneys collected by him. He shall make annual returns thereof to the Court under regulations prescribed by it.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 918][/us/stat/62/918]; [Pub. L. 88–279, § 1][/us/pl/88/279/s1], Mar. 10, 1964, [78 Stat. 158][/us/stat/78/158]; [Pub. L. 92–310, title II, § 206(c)][/us/pl/92/310/s206/c], June 6, 1972, [86 Stat. 203][/us/stat/86/203].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 918][/us/stat/62/918]; [Pub. L. 88–279][/us/pl/88/279], § 1, Mar. 10, 1964, [78 Stat. 158][/us/stat/78/158]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 206(c), June 6, 1972, [86 Stat. 203][/us/stat/86/203].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 325, 326, 327, 541 and 542 ([Feb. 22, 1875, ch. 95][/us/act/1875-02-22/ch95], §§ 2, 3, [18 Stat. 333][/us/stat/18/333]; [Mar. 3, 1883, ch. 143][/us/act/1883-03-03/ch143], [22 Stat. 631][/us/stat/22/631]; [Mar. 15, 1898, ch. 68, § 8][/us/act/1898-03-15/ch68/s8], [30 Stat. 317][/us/stat/30/317]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 219, 220, 221, 291, [36 Stat. 1152][/us/stat/36/1152], 1153, 1167; [June 10, 1921, ch. 18, § 304][/us/act/1921-06-10/ch18/s304], [42 Stat. 24][/us/stat/42/24]).
+    Based on title 28, U.S.C., 1940 ed., §§ 325, 326, 327, 541 and 542 ([Feb. 22, 1875, ch. 95][/us/act/1875-02-22/ch95], §§ 2, 3, [18 Stat. 333][/us/stat/18/333]; [Mar. 3, 1883, ch. 143][/us/act/1883-03-03/ch143], [22 Stat. 631][/us/stat/22/631]; [Mar. 15, 1898, ch. 68][/us/act/1898-03-15/ch68], § 8, [30 Stat. 317][/us/stat/30/317]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 219, 220, 221, 291, [36 Stat. 1152][/us/stat/36/1152], 1153, 1167; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], § 304, [42 Stat. 24][/us/stat/42/24]).
 
     This section consolidates sections 541 and 542 of title 28, U.S.C., 1940 ed., with parts of sections 325, 326 and 327 of such title.
 
@@ -65,13 +65,13 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–279, § 4][/us/pl/88/279/s4], Mar. 10, 1964, [78 Stat. 158][/us/stat/78/158], provided that: 
+[Pub. L. 88–279][/us/pl/88/279], § 4, Mar. 10, 1964, [78 Stat. 158][/us/stat/78/158], provided that: 
 
 > “The amendments proposed in this Act \[amending this section and [section 672 of this title][/us/usc/t28/s672]\] shall become effective only when funds have been appropriated and are available to pay the salaries and other expenses of the clerk’s office.”
 
  __Appropriations__ 
 
-[Pub. L. 88–279, § 3][/us/pl/88/279/s3], Mar. 10, 1964, [78 Stat. 158][/us/stat/78/158], provided that: 
+[Pub. L. 88–279][/us/pl/88/279], § 3, Mar. 10, 1964, [78 Stat. 158][/us/stat/78/158], provided that: 
 
 > “There are hereby authorized to be appropriated annually such sums as are necessary to carry out the provisions of this Act \[amending this section and [section 672 of this title][/us/usc/t28/s672]\].”
 
@@ -82,23 +82,23 @@
 ----------
 ----------
 
-[/us/pl/92/310/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs206%2Fc
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F918
-[/us/pl/88/279/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279%2Fs1
+[/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
 [/us/stat/78/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F158
-[/us/pl/92/310/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs206%2Fc
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
 [/us/act/1875-02-22/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-22%2Fch95
 [/us/stat/18/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F333
 [/us/act/1883-03-03/ch143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1883-03-03%2Fch143
 [/us/stat/22/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F631
-[/us/act/1898-03-15/ch68/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-03-15%2Fch68%2Fs8
+[/us/act/1898-03-15/ch68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-03-15%2Fch68
 [/us/stat/30/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F317
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1152
-[/us/act/1921-06-10/ch18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18%2Fs304
+[/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
 [/us/usc/t28/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs327
 [/us/usc/t28/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs954
@@ -115,10 +115,10 @@
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
 [/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
 [/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
-[/us/pl/88/279/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279%2Fs4
+[/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
 [/us/stat/78/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F158
 [/us/usc/t28/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs672
-[/us/pl/88/279/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279%2Fs3
+[/us/pl/88/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F279
 [/us/stat/78/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F158
 [/us/usc/t28/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs672
 

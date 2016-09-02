@@ -175,11 +175,11 @@
 
     (e) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 930][/us/stat/62/930]; [July 26, 1956, ch. 740][/us/act/1956-07-26/ch740], [70 Stat. 658][/us/stat/70/658]; [Pub. L. 85–554, § 2][/us/pl/85/554/s2], July 25, 1958, [72 Stat. 415][/us/stat/72/415]; [Pub. L. 88–439, § 1][/us/pl/88/439/s1], Aug. 14, 1964, [78 Stat. 445][/us/stat/78/445]; [Pub. L. 94–583, § 3][/us/pl/94/583/s3], Oct. 21, 1976, [90 Stat. 2891][/us/stat/90/2891]; [Pub. L. 100–702, title II][/us/pl/100/702], §§ 201(a), 202(a), 203(a), Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646]; [Pub. L. 104–317, title II, § 205(a)][/us/pl/104/317/s205/a], Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850]; [Pub. L. 109–2, § 4(a)][/us/pl/109/2/s4/a], Feb. 18, 2005, [119 Stat. 9][/us/stat/119/9]; [Pub. L. 112–63, title I][/us/pl/112/63], §§ 101, 102, Dec. 7, 2011, [125 Stat. 758][/us/stat/125/758].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 930][/us/stat/62/930]; [July 26, 1956, ch. 740][/us/act/1956-07-26/ch740], [70 Stat. 658][/us/stat/70/658]; [Pub. L. 85–554][/us/pl/85/554], § 2, July 25, 1958, [72 Stat. 415][/us/stat/72/415]; [Pub. L. 88–439][/us/pl/88/439], § 1, Aug. 14, 1964, [78 Stat. 445][/us/stat/78/445]; [Pub. L. 94–583][/us/pl/94/583], § 3, Oct. 21, 1976, [90 Stat. 2891][/us/stat/90/2891]; [Pub. L. 100–702, title II][/us/pl/100/702/tII], §§ 201(a), 202(a), 203(a), Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646]; [Pub. L. 104–317, title II][/us/pl/104/317/tII], § 205(a), Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850]; [Pub. L. 109–2][/us/pl/109/2], § 4(a), Feb. 18, 2005, [119 Stat. 9][/us/stat/119/9]; [Pub. L. 112–63, title I][/us/pl/112/63/tI], §§ 101, 102, Dec. 7, 2011, [125 Stat. 758][/us/stat/125/758].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 41(1) ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], par. 1, [36 Stat. 1091][/us/stat/36/1091]; [May 14, 1934, ch. 283, § 1][/us/act/1934-05-14/ch283/s1], [48 Stat. 775][/us/stat/48/775]; [Aug. 21, 1937, ch. 726, § 1][/us/act/1937-08-21/ch726/s1], [50 Stat. 738][/us/stat/50/738]; [Apr. 20, 1940, ch. 117][/us/act/1940-04-20/ch117], [54 Stat. 143][/us/stat/54/143]).
+    Based on title 28, U.S.C., 1940 ed., § 41(1) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, par. 1, [36 Stat. 1091][/us/stat/36/1091]; [May 14, 1934, ch. 283][/us/act/1934-05-14/ch283], § 1, [48 Stat. 775][/us/stat/48/775]; [Aug. 21, 1937, ch. 726][/us/act/1937-08-21/ch726], § 1, [50 Stat. 738][/us/stat/50/738]; [Apr. 20, 1940, ch. 117][/us/act/1940-04-20/ch117], [54 Stat. 143][/us/stat/54/143]).
 
     Other provisions of [section 41(1) of title 28][/us/usc/t28/s41/1], U.S.C., 1940 ed., are incorporated in sections 1331, 1341, 1342, 1345, 1354, and 1359 of this title. (See reviser’s notes under said sections.)
 
@@ -2455,23 +2455,23 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–63, § 101(1)][/us/pl/112/63/s101/1], struck out concluding provisions which read as follows: “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
+    2011—Subsec. (a). [Pub. L. 112–63][/us/pl/112/63], § 101(1), struck out concluding provisions which read as follows: “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
 
-    Subsec. (a)(2). [Pub. L. 112–63, § 101(2)][/us/pl/112/63/s101/2], inserted before semicolon at end “, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State”.
+    Subsec. (a)(2). [Pub. L. 112–63][/us/pl/112/63], § 101(2), inserted before semicolon at end “, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State”.
 
-    Subsec. (c)(1). [Pub. L. 112–63, § 102][/us/pl/112/63/s102], substituted “every State and foreign state” for “any State”, “it has been incorporated and of the State or foreign state” for “it has been incorporated and of the State”, and “such insurer shall be deemed a citizen of—” for “such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business; and” and added subpars. (A) to (C).
+    Subsec. (c)(1). [Pub. L. 112–63][/us/pl/112/63], § 102, substituted “every State and foreign state” for “any State”, “it has been incorporated and of the State or foreign state” for “it has been incorporated and of the State”, and “such insurer shall be deemed a citizen of—” for “such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business; and” and added subpars. (A) to (C).
 
     2005—Subsecs. (d), (e). [Pub. L. 109–2][/us/pl/109/2] added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1996—Subsecs. (a), (b). [Pub. L. 104–317][/us/pl/104/317] substituted “$75,000” for “$50,000”.
 
-    1988—Subsec. (a). [Pub. L. 100–702, § 201(a)][/us/pl/100/702/s201/a], substituted “$50,000” for “$10,000” in introductory text.
+    1988—Subsec. (a). [Pub. L. 100–702][/us/pl/100/702], § 201(a), substituted “$50,000” for “$10,000” in introductory text.
 
-    [Pub. L. 100–702, § 203(a)][/us/pl/100/702/s203/a], inserted at end “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
+    [Pub. L. 100–702][/us/pl/100/702], § 203(a), inserted at end “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
 
-    Subsec. (b). [Pub. L. 100–702, § 201(a)][/us/pl/100/702/s201/a], substituted “$50,000” for “$10,000”.
+    Subsec. (b). [Pub. L. 100–702][/us/pl/100/702], § 201(a), substituted “$50,000” for “$10,000”.
 
-    Subsec. (c). [Pub. L. 100–702, § 202(a)][/us/pl/100/702/s202/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and [section 1441 of this title][/us/usc/t28/s1441], a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: Provided further, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
+    Subsec. (c). [Pub. L. 100–702][/us/pl/100/702], § 202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and [section 1441 of this title][/us/usc/t28/s1441], a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: Provided further, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
 
     1976—Subsec. (a)(2). [Pub. L. 94–583][/us/pl/94/583] substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
 
@@ -2491,7 +2491,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–63, title I, § 105][/us/pl/112/63/s105], Dec. 7, 2011, [125 Stat. 762][/us/stat/125/762], provided that:
+[Pub. L. 112–63, title I][/us/pl/112/63/tI], § 105, Dec. 7, 2011, [125 Stat. 762][/us/stat/125/762], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -2503,27 +2503,27 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–2, § 9][/us/pl/109/2/s9], Feb. 18, 2005, [119 Stat. 14][/us/stat/119/14], provided that: 
+[Pub. L. 109–2][/us/pl/109/2], § 9, Feb. 18, 2005, [119 Stat. 14][/us/stat/119/14], provided that: 
 
 > “The amendments made by this Act \[enacting chapter 114 and [section 1453 of this title][/us/usc/t28/s1453] and amending this section and sections 1335 and 1603 of this title\] shall apply to any civil action commenced on or after the date of enactment of this Act \[Feb. 18, 2005\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–317, title II, § 205(b)][/us/pl/104/317/s205/b], Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850], provided that: 
+[Pub. L. 104–317, title II][/us/pl/104/317/tII], § 205(b), Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 19, 1996\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–702, title II, § 201(b)][/us/pl/100/702/s201/b], Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646], provided that: 
+[Pub. L. 100–702, title II][/us/pl/100/702/tII], § 201(b), Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any civil action commenced on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
-[Pub. L. 100–702, title II, § 202(b)][/us/pl/100/702/s202/b], Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646], provided that: 
+[Pub. L. 100–702, title II][/us/pl/100/702/tII], § 202(b), Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to any civil action commenced in or removed to a United States district court on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
-[Pub. L. 100–702, title II, § 203(b)][/us/pl/100/702/s203/b], Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646], provided that: 
+[Pub. L. 100–702, title II][/us/pl/100/702/tII], § 203(b), Nov. 19, 1988, [102 Stat. 4646][/us/stat/102/4646], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to claims in civil actions commenced in or removed to the United States district courts on or after the 180th day after the date of enactment of this title \[Nov. 19, 1988\].”
 
@@ -2533,7 +2533,7 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–439, § 2][/us/pl/88/439/s2], Aug. 14, 1964, [78 Stat. 445][/us/stat/78/445], provided that: 
+[Pub. L. 88–439][/us/pl/88/439], § 2, Aug. 14, 1964, [78 Stat. 445][/us/stat/78/445], provided that: 
 
 > “The amendment made by this Act to section 1332(c), title 28, United States Code, applies only to causes of action arising after the date of enactment of this Act \[Aug. 14, 1964\].”
 
@@ -2557,25 +2557,25 @@
 [/us/stat/62/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F930
 [/us/act/1956-07-26/ch740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-26%2Fch740
 [/us/stat/70/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F658
-[/us/pl/85/554/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554%2Fs2
+[/us/pl/85/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554
 [/us/stat/72/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F415
-[/us/pl/88/439/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F439%2Fs1
+[/us/pl/88/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F439
 [/us/stat/78/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F445
-[/us/pl/94/583/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs3
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2891
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtII
 [/us/stat/102/4646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4646
-[/us/pl/104/317/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs205%2Fa
+[/us/pl/104/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtII
 [/us/stat/110/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3850
-[/us/pl/109/2/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs4%2Fa
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F9
-[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtI
 [/us/stat/125/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F758
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1091
-[/us/act/1934-05-14/ch283/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-14%2Fch283%2Fs1
+[/us/act/1934-05-14/ch283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-14%2Fch283
 [/us/stat/48/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F775
-[/us/act/1937-08-21/ch726/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-21%2Fch726%2Fs1
+[/us/act/1937-08-21/ch726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-21%2Fch726
 [/us/stat/50/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F738
 [/us/act/1940-04-20/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-04-20%2Fch117
 [/us/stat/54/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F143
@@ -2587,15 +2587,15 @@
 [/us/usc/t28/s41/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41%2F1
 [/us/usc/t28/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41
 [/us/usc/t28/s41/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41%2F1
-[/us/pl/112/63/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs101%2F1
-[/us/pl/112/63/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs101%2F2
-[/us/pl/112/63/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs102
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
-[/us/pl/100/702/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs201%2Fa
-[/us/pl/100/702/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs203%2Fa
-[/us/pl/100/702/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs201%2Fa
-[/us/pl/100/702/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs202%2Fa
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t28/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1441
 [/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
@@ -2604,24 +2604,24 @@
 [/us/pl/85/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554
 [/us/pl/85/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554
 [/us/pl/85/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554
-[/us/pl/112/63/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs105
+[/us/pl/112/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtI
 [/us/stat/125/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F762
 [/us/usc/t28/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1455
-[/us/pl/109/2/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs9
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F14
 [/us/usc/t28/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1453
-[/us/pl/104/317/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs205%2Fb
+[/us/pl/104/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtII
 [/us/stat/110/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3850
-[/us/pl/100/702/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs201%2Fb
+[/us/pl/100/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtII
 [/us/stat/102/4646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4646
-[/us/pl/100/702/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs202%2Fb
+[/us/pl/100/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtII
 [/us/stat/102/4646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4646
-[/us/pl/100/702/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs203%2Fb
+[/us/pl/100/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtII
 [/us/stat/102/4646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4646
 [/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/pl/94/583/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs8
 [/us/usc/t28/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1602
-[/us/pl/88/439/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F439%2Fs2
+[/us/pl/88/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F439
 [/us/stat/78/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F445
 [/us/pl/85/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554
 [/us/pl/85/554/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554%2Fs3

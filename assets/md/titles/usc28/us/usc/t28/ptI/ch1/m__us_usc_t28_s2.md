@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 338 ([Mar. 3, 1911, ch. 231, § 230][/us/act/1911-03-03/ch231/s230], [36 Stat. 1156][/us/stat/36/1156]; [Sept. 6, 1916, ch. 448, § 1][/us/act/1916-09-06/ch448/s1], [39 Stat. 726][/us/stat/39/726]).
+    Based on title 28, U.S.C., 1940 ed., § 338 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 230, [36 Stat. 1156][/us/stat/36/1156]; [Sept. 6, 1916, ch. 448][/us/act/1916-09-06/ch448], § 1, [39 Stat. 726][/us/stat/39/726]).
 
     Minor changes in phraseology were made.
 
@@ -34,9 +34,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
-[/us/act/1911-03-03/ch231/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs230
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1156
-[/us/act/1916-09-06/ch448/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-06%2Fch448%2Fs1
+[/us/act/1916-09-06/ch448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-06%2Fch448
 [/us/stat/39/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F726
 
 

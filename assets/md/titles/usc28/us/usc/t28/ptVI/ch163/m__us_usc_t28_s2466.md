@@ -33,23 +33,23 @@
 
     (b) Subsection (a) may be applied to a claim filed by a corporation if any majority shareholder, or individual filing the claim on behalf of the corporation is a person to whom subsection (a) applies.
 
-(Added [Pub. L. 106–185, § 14(a)][/us/pl/106/185/s14/a], Apr. 25, 2000, [114 Stat. 219][/us/stat/114/219]; amended [Pub. L. 107–56, title III, § 322][/us/pl/107/56/s322], Oct. 26, 2001, [115 Stat. 315][/us/stat/115/315]; [Pub. L. 109–162, title XI, § 1171(c)][/us/pl/109/162/s1171/c], Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123]; [Pub. L. 109–177, title IV, § 406(a)(1)][/us/pl/109/177/s406/a/1], Mar. 9, 2006, [120 Stat. 244][/us/stat/120/244].)
+(Added [Pub. L. 106–185][/us/pl/106/185], § 14(a), Apr. 25, 2000, [114 Stat. 219][/us/stat/114/219]; amended [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 322, Oct. 26, 2001, [115 Stat. 315][/us/stat/115/315]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1171(c), Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123]; [Pub. L. 109–177, title IV][/us/pl/109/177/tIV], § 406(a)(1), Mar. 9, 2006, [120 Stat. 244][/us/stat/120/244].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–177][/us/pl/109/177] directed amendment of directory language of [Pub. L. 107–56, § 322][/us/pl/107/56/s322], identical to amendment by [Pub. L. 109–162][/us/pl/109/162]. See below.
+    2006—[Pub. L. 109–177][/us/pl/109/177] directed amendment of directory language of [Pub. L. 107–56][/us/pl/107/56], § 322, identical to amendment by [Pub. L. 109–162][/us/pl/109/162]. See below.
 
-    [Pub. L. 109–162][/us/pl/109/162] amended directory language of [Pub. L. 107–56, § 322][/us/pl/107/56/s322]. See 2001 Amendment note below.
+    [Pub. L. 109–162][/us/pl/109/162] amended directory language of [Pub. L. 107–56][/us/pl/107/56], § 322. See 2001 Amendment note below.
 
-    2001—[Pub. L. 107–56, § 322][/us/pl/107/56/s322], as amended by [Pub. L. 109–162][/us/pl/109/162], designated existing provisions as subsec. (a) and added subsec. (b).
+    2001—[Pub. L. 107–56][/us/pl/107/56], § 322, as amended by [Pub. L. 109–162][/us/pl/109/162], designated existing provisions as subsec. (a) and added subsec. (b).
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–162, title XI, § 1171(c)][/us/pl/109/162/s1171/c], Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123], provided in part that the amendment made by [section 1171(c) of Pub. L. 109–162][/us/pl/109/162/s1171/c] is effective Oct. 26, 2001.
+    [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1171(c), Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123], provided in part that the amendment made by [section 1171(c) of Pub. L. 109–162][/us/pl/109/162/s1171/c] is effective Oct. 26, 2001.
 
  __Effective Date__ 
 
-[Pub. L. 106–185, § 14(c)][/us/pl/106/185/s14/c], Apr. 25, 2000, [114 Stat. 219][/us/stat/114/219], provided that: 
+[Pub. L. 106–185][/us/pl/106/185], § 14(c), Apr. 25, 2000, [114 Stat. 219][/us/stat/114/219], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to any case pending on or after the date of the enactment of this Act \[Apr. 25, 2000\].”
 
@@ -60,25 +60,25 @@
 ----------
 ----------
 
-[/us/pl/106/185/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs14%2Fa
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F219
-[/us/pl/107/56/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs322
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F315
-[/us/pl/109/162/s1171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1171%2Fc
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3123
-[/us/pl/109/177/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs406%2Fa%2F1
+[/us/pl/109/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIV
 [/us/stat/120/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F244
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/107/56/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs322
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/107/56/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs322
-[/us/pl/107/56/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs322
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/109/162/s1171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1171%2Fc
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3123
 [/us/pl/109/162/s1171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1171%2Fc
-[/us/pl/106/185/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs14%2Fc
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F219
 
 

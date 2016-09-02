@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 143 ([June 20, 1910, ch. 310, § 31][/us/act/1910-06-20/ch310/s31], [36 Stat. 576][/us/stat/36/576]; [Oct. 3, 1913, ch. 17][/us/act/1913-10-03/ch17], §§ 1, 2, [38 Stat. 203][/us/stat/38/203]).
+    Based on title 28, U.S.C., 1940 ed., § 143 ([June 20, 1910, ch. 310][/us/act/1910-06-20/ch310], § 31, [36 Stat. 576][/us/stat/36/576]; [Oct. 3, 1913, ch. 17][/us/act/1913-10-03/ch17], §§ 1, 2, [38 Stat. 203][/us/stat/38/203]).
 
     A provision for transfer of causes, civil or criminal, from one place for holding court to another was omitted. Such provision, as to civil cases, is covered by [section 1404 of this title][/us/usc/t28/s1404], and, as to criminal cases, is rendered unnecessary because of inherent power of the court and Rules 18–20 of the Federal Rules of Criminal Procedure, relating to venue.
 
@@ -42,7 +42,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F874
-[/us/act/1910-06-20/ch310/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-20%2Fch310%2Fs31
+[/us/act/1910-06-20/ch310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-20%2Fch310
 [/us/stat/36/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F576
 [/us/act/1913-10-03/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-03%2Fch17
 [/us/stat/38/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F203

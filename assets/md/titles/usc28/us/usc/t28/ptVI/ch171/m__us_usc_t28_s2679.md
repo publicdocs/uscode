@@ -51,11 +51,11 @@
 
     (e) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677, and with the same effect.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 984][/us/stat/62/984]; [Pub. L. 87–258, § 1][/us/pl/87/258/s1], Sept. 21, 1961, [75 Stat. 539][/us/stat/75/539]; [Pub. L. 89–506, § 5(a)][/us/pl/89/506/s5/a], July 18, 1966, [80 Stat. 307][/us/stat/80/307]; [Pub. L. 100–694][/us/pl/100/694], §§ 5, 6, Nov. 18, 1988, [102 Stat. 4564][/us/stat/102/4564].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 984][/us/stat/62/984]; [Pub. L. 87–258][/us/pl/87/258], § 1, Sept. 21, 1961, [75 Stat. 539][/us/stat/75/539]; [Pub. L. 89–506][/us/pl/89/506], § 5(a), July 18, 1966, [80 Stat. 307][/us/stat/80/307]; [Pub. L. 100–694][/us/pl/100/694], §§ 5, 6, Nov. 18, 1988, [102 Stat. 4564][/us/stat/102/4564].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 945 ([Aug. 2, 1946, ch. 753, § 423][/us/act/1946-08-02/ch753/s423], [60 Stat. 846][/us/stat/60/846]).
+    Based on title 28, U.S.C., 1940 ed., § 945 ([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 423, [60 Stat. 846][/us/stat/60/846]).
 
     Changes were made in phraseology.
 
@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (b). [Pub. L. 100–694, § 5][/us/pl/100/694/s5], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property or personal injury or death, resulting from the operation by any employee of the Government of any motor vehicle while acting within the scope of his office or employment, shall hereafter be exclusive of any other civil action or proceeding by reason of the same subject matter against the employee or his estate whose act or omission gave rise to the claim.”
+    1988—Subsec. (b). [Pub. L. 100–694][/us/pl/100/694], § 5, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property or personal injury or death, resulting from the operation by any employee of the Government of any motor vehicle while acting within the scope of his office or employment, shall hereafter be exclusive of any other civil action or proceeding by reason of the same subject matter against the employee or his estate whose act or omission gave rise to the claim.”
 
-    Subsec. (d). [Pub. L. 100–694, § 6][/us/pl/100/694/s6], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Upon a certification by the Attorney General that the defendant employee was acting within the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division embracing the place wherein it is pending and the proceedings deemed a tort action brought against the United States under the provisions of this title and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (b) of this section is not available against the United States, the case shall be remanded to the State court.”
+    Subsec. (d). [Pub. L. 100–694][/us/pl/100/694], § 6, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Upon a certification by the Attorney General that the defendant employee was acting within the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division embracing the place wherein it is pending and the proceedings deemed a tort action brought against the United States under the provisions of this title and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (b) of this section is not available against the United States, the case shall be remanded to the State court.”
 
     1966—Subsec. (b). [Pub. L. 89–506][/us/pl/89/506] inserted reference to [section 2672 of this title][/us/usc/t28/s2672] and substituted “remedy” for “remedy by suit”.
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–694, § 8][/us/pl/100/694/s8], Nov. 18, 1988, [102 Stat. 4565][/us/stat/102/4565], provided that:
+[Pub. L. 100–694][/us/pl/100/694], § 8, Nov. 18, 1988, [102 Stat. 4565][/us/stat/102/4565], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -103,7 +103,7 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–258, § 2][/us/pl/87/258/s2], Sept. 21, 1961, [75 Stat. 539][/us/stat/75/539], provided that: 
+[Pub. L. 87–258][/us/pl/87/258], § 2, Sept. 21, 1961, [75 Stat. 539][/us/stat/75/539], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall be deemed to be in effect six months after the enactment hereof \[Sept. 21, 1961\] but any rights or liabilities then existing shall not be affected.”
 
@@ -120,20 +120,20 @@
 [/us/usc/t28/s2401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2401%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F984
-[/us/pl/87/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F258%2Fs1
+[/us/pl/87/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F258
 [/us/stat/75/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F539
-[/us/pl/89/506/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs5%2Fa
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/stat/80/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F307
 [/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/stat/102/4564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4564
-[/us/act/1946-08-02/ch753/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs423
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F846
-[/us/pl/100/694/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs5
-[/us/pl/100/694/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs6
+[/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
+[/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
 [/us/pl/87/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F258
-[/us/pl/100/694/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs8
+[/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/stat/102/4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4565
 [/us/usc/t16/s831c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831c%E2%80%932
 [/us/usc/t28/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2671
@@ -142,7 +142,7 @@
 [/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/pl/89/506/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs10
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
-[/us/pl/87/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F258%2Fs2
+[/us/pl/87/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F258
 [/us/stat/75/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F539
 
 

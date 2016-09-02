@@ -67,13 +67,13 @@
 
     (g)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Section does not contain a subsec. (f). </sup></sup>  Where the civil action or criminal prosecution that is removable under section 1442(a) is a proceeding in which a judicial order for testimony or documents is sought or issued or sought to be enforced, the 30-day requirement of subsection (b) of this section and paragraph (1) of section 1455(b) is satisfied if the person or entity desiring to remove the proceeding files the notice of removal not later than 30 days after receiving, through service, notice of any such proceeding.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 939][/us/stat/62/939]; [May 24, 1949, ch. 139, § 83][/us/act/1949-05-24/ch139/s83], [63 Stat. 101][/us/stat/63/101]; [Pub. L. 89–215][/us/pl/89/215], Sept. 29, 1965, [79 Stat. 887][/us/stat/79/887]; [Pub. L. 95–78, § 3][/us/pl/95/78/s3], July 30, 1977, [91 Stat. 321][/us/stat/91/321]; [Pub. L. 100–702, title X, § 1016(b)][/us/pl/100/702/s1016/b], Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669]; [Pub. L. 102–198, § 10(a)][/us/pl/102/198/s10/a], Dec. 9, 1991, [105 Stat. 1626][/us/stat/105/1626]; [Pub. L. 103–465, title III, § 321(b)(2)][/us/pl/103/465/s321/b/2], Dec. 8, 1994, [108 Stat. 4946][/us/stat/108/4946]; [Pub. L. 104–317, title VI, § 603][/us/pl/104/317/s603], Oct. 19, 1996, [110 Stat. 3857][/us/stat/110/3857]; [Pub. L. 112–51, § 2(c)][/us/pl/112/51/s2/c], Nov. 9, 2011, [125 Stat. 545][/us/stat/125/545]; [Pub. L. 112–63, title I][/us/pl/112/63], §§ 103(b), 104, Dec. 7, 2011, [125 Stat. 760][/us/stat/125/760], 762.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 939][/us/stat/62/939]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 83, [63 Stat. 101][/us/stat/63/101]; [Pub. L. 89–215][/us/pl/89/215], Sept. 29, 1965, [79 Stat. 887][/us/stat/79/887]; [Pub. L. 95–78][/us/pl/95/78], § 3, July 30, 1977, [91 Stat. 321][/us/stat/91/321]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1016(b), Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669]; [Pub. L. 102–198][/us/pl/102/198], § 10(a), Dec. 9, 1991, [105 Stat. 1626][/us/stat/105/1626]; [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 321(b)(2), Dec. 8, 1994, [108 Stat. 4946][/us/stat/108/4946]; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 603, Oct. 19, 1996, [110 Stat. 3857][/us/stat/110/3857]; [Pub. L. 112–51][/us/pl/112/51], § 2(c), Nov. 9, 2011, [125 Stat. 545][/us/stat/125/545]; [Pub. L. 112–63, title I][/us/pl/112/63/tI], §§ 103(b), 104, Dec. 7, 2011, [125 Stat. 760][/us/stat/125/760], 762.)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 72, 74, 75, 76 ([May 3, 1911, ch. 231][/us/act/1911-05-03/ch231], §§ 29, 31, 32, 33, [36 Stat. 1095][/us/stat/36/1095], 1097; [Aug. 23, 1916, ch. 399][/us/act/1916-08-23/ch399], [39 Stat. 532][/us/stat/39/532]; July 30, 1977, [Pub. L. 95–78, § 3][/us/pl/95/78/s3], [91 Stat. 321][/us/stat/91/321].)
+    Based on title 28, U.S.C., 1940 ed., §§ 72, 74, 75, 76 ([May 3, 1911, ch. 231][/us/act/1911-05-03/ch231], §§ 29, 31, 32, 33, [36 Stat. 1095][/us/stat/36/1095], 1097; [Aug. 23, 1916, ch. 399][/us/act/1916-08-23/ch399], [39 Stat. 532][/us/stat/39/532]; July 30, 1977, [Pub. L. 95–78][/us/pl/95/78], § 3, [91 Stat. 321][/us/stat/91/321].)
 
     Section consolidates portions of sections 74, 75, and 76 with [section 72 of title 28][/us/usc/t28/s72], U.S.C., 1940 ed., with important changes of substance and phraseology.
 
@@ -123,21 +123,21 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–63, § 103(b)(1)][/us/pl/112/63/s103/b/1], amended section catchline generally, substituting “Procedure for removal of civil actions” for “Procedure for removal”.
+    2011—[Pub. L. 112–63][/us/pl/112/63], § 103(b)(1), amended section catchline generally, substituting “Procedure for removal of civil actions” for “Procedure for removal”.
 
-    Subsec. (a). [Pub. L. 112–63, § 103(b)(2)][/us/pl/112/63/s103/b/2], inserted heading and struck out “or criminal prosecution” after “civil action” in text.
+    Subsec. (a). [Pub. L. 112–63][/us/pl/112/63], § 103(b)(2), inserted heading and struck out “or criminal prosecution” after “civil action” in text.
 
-    Subsec. (b). [Pub. L. 112–63, § 103(b)(3)(A)][/us/pl/112/63/s103/b/3/A], (B), inserted heading, designated first par. as par. (1), added pars. (2) and (3), and struck out second par. which read as follows: “If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by [section 1332 of this title][/us/usc/t28/s1332] more than 1 year after commencement of the action.”
+    Subsec. (b). [Pub. L. 112–63][/us/pl/112/63], § 103(b)(3)(A), (B), inserted heading, designated first par. as par. (1), added pars. (2) and (3), and struck out second par. which read as follows: “If the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable, except that a case may not be removed on the basis of jurisdiction conferred by [section 1332 of this title][/us/usc/t28/s1332] more than 1 year after commencement of the action.”
 
-    Subsec. (b)(1). [Pub. L. 112–63, § 103(b)(4)(B)][/us/pl/112/63/s103/b/4/B], substituted “30 days” for “thirty days” in two places.
+    Subsec. (b)(1). [Pub. L. 112–63][/us/pl/112/63], § 103(b)(4)(B), substituted “30 days” for “thirty days” in two places.
 
-    Subsec. (c). [Pub. L. 112–63, § 103(b)(3)(C)][/us/pl/112/63/s103/b/3/C], added subsec. (c) and struck out former subsec. (c) which related to notice of removal of a criminal prosecution.
+    Subsec. (c). [Pub. L. 112–63][/us/pl/112/63], § 103(b)(3)(C), added subsec. (c) and struck out former subsec. (c) which related to notice of removal of a criminal prosecution.
 
-    Subsec. (d). [Pub. L. 112–63, § 103(b)(4)(A)][/us/pl/112/63/s103/b/4/A], inserted heading.
+    Subsec. (d). [Pub. L. 112–63][/us/pl/112/63], § 103(b)(4)(A), inserted heading.
 
-    Subsecs. (e), (f). [Pub. L. 112–63, § 103(b)(4)(C)][/us/pl/112/63/s103/b/4/C], (D), redesignated subsec. (f) as (e), inserted heading, and struck out former subsec. (e) which read as follows: “If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court.”
+    Subsecs. (e), (f). [Pub. L. 112–63][/us/pl/112/63], § 103(b)(4)(C), (D), redesignated subsec. (f) as (e), inserted heading, and struck out former subsec. (e) which read as follows: “If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court.”
 
-    Subsec. (g). [Pub. L. 112–63, § 104][/us/pl/112/63/s104], substituted “subsection (b) of this section and paragraph (1) of section 1455(b)” for “subsections (b) and (c)”.
+    Subsec. (g). [Pub. L. 112–63][/us/pl/112/63], § 104, substituted “subsection (b) of this section and paragraph (1) of section 1455(b)” for “subsections (b) and (c)”.
 
     [Pub. L. 112–51][/us/pl/112/51] added subsec. (g).
 
@@ -145,29 +145,29 @@
 
     1994—Subsec. (f). [Pub. L. 103–465][/us/pl/103/465] added subsec. (f).
 
-    1991—Subsec. (c)(1). [Pub. L. 102–198, § 10(a)(1)][/us/pl/102/198/s10/a/1], (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
+    1991—Subsec. (c)(1). [Pub. L. 102–198][/us/pl/102/198], § 10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
 
-    Subsec. (c)(2). [Pub. L. 102–198, § 10(a)(1)][/us/pl/102/198/s10/a/1], (4), substituted “notice of” for “petition for” and substituted “notice” for “petition” in three places.
+    Subsec. (c)(2). [Pub. L. 102–198][/us/pl/102/198], § 10(a)(1), (4), substituted “notice of” for “petition for” and substituted “notice” for “petition” in three places.
 
-    Subsec. (c)(3). [Pub. L. 102–198, § 10(a)(1)][/us/pl/102/198/s10/a/1], (2), substituted “notice of” for “petition for” and “prosecution is first remanded” for “petition is first denied”.
+    Subsec. (c)(3). [Pub. L. 102–198][/us/pl/102/198], § 10(a)(1), (2), substituted “notice of” for “petition for” and “prosecution is first remanded” for “petition is first denied”.
 
-    Subsec. (c)(4), (5). [Pub. L. 102–198, § 10(a)(3)][/us/pl/102/198/s10/a/3], added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
+    Subsec. (c)(4), (5). [Pub. L. 102–198][/us/pl/102/198], § 10(a)(3), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
 
     “(4) The United States district court to which such petition is directed shall examine the petition promptly. If it clearly appears on the face of the petition and any exhibits annexed thereto that the petition for removal should not be granted, the court shall make an order for its summary dismissal.
 
     “(5) If the United States district court does not order the summary dismissal of such petition, it shall order an evidentiary hearing to be held promptly and after such hearing shall make such disposition of the petition as justice shall require. If the United States district court determines that such petition shall be granted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.”
 
-    Subsec. (d). [Pub. L. 102–198, § 10(a)(1)][/us/pl/102/198/s10/a/1], (4), (5), substituted “notice of removal” for “petition for the removal”, struck out “and bond” after “civil action”, and substituted “notice with” for “petition with”.
+    Subsec. (d). [Pub. L. 102–198][/us/pl/102/198], § 10(a)(1), (4), (5), substituted “notice of removal” for “petition for the removal”, struck out “and bond” after “civil action”, and substituted “notice with” for “petition with”.
 
-    1988—Subsec. (a). [Pub. L. 100–702, § 1016(b)(1)][/us/pl/100/702/s1016/b/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
+    1988—Subsec. (a). [Pub. L. 100–702][/us/pl/100/702], § 1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
 
-    Subsec. (b). [Pub. L. 100–702, § 1016(b)(2)][/us/pl/100/702/s1016/b/2], substituted “notice of removal” for “petition for removal” in two places and inserted before period at end of second par. “, except that a case may not be removed on the basis of jurisdiction conferred by [section 1332 of this title][/us/usc/t28/s1332] more than 1 year after commencement of the action”.
+    Subsec. (b). [Pub. L. 100–702][/us/pl/100/702], § 1016(b)(2), substituted “notice of removal” for “petition for removal” in two places and inserted before period at end of second par. “, except that a case may not be removed on the basis of jurisdiction conferred by [section 1332 of this title][/us/usc/t28/s1332] more than 1 year after commencement of the action”.
 
-    Subsecs. (d) to (f). [Pub. L. 100–702, § 1016(b)(3)][/us/pl/100/702/s1016/b/3], redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “Each petition for removal of a civil action or proceeding, except a petition in behalf of the United States, shall be accompanied by a bond with good and sufficient surety conditioned that the defendant or defendants will pay all costs and disbursements incurred by reason of the removal proceedings should it be determined that the case was not removable or was improperly removed.”
+    Subsecs. (d) to (f). [Pub. L. 100–702][/us/pl/100/702], § 1016(b)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “Each petition for removal of a civil action or proceeding, except a petition in behalf of the United States, shall be accompanied by a bond with good and sufficient surety conditioned that the defendant or defendants will pay all costs and disbursements incurred by reason of the removal proceedings should it be determined that the case was not removable or was improperly removed.”
 
-    1977—Subsec. (c). [Pub. L. 95–78, § 3(a)][/us/pl/95/78/s3/a], designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
+    1977—Subsec. (c). [Pub. L. 95–78][/us/pl/95/78], § 3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
 
-    Subsec. (e). [Pub. L. 95–78, § 3(b)][/us/pl/95/78/s3/b], inserted “for the removal of a civil action” after “filing of such petition”.
+    Subsec. (e). [Pub. L. 95–78][/us/pl/95/78], § 3(b), inserted “for the removal of a civil action” after “filing of such petition”.
 
     1965—Subsec. (b). [Pub. L. 89–215][/us/pl/89/215] substituted “thirty days” for “twenty days” wherever appearing.
 
@@ -196,29 +196,29 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F939
-[/us/act/1949-05-24/ch139/s83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs83
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F101
 [/us/pl/89/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F215
 [/us/stat/79/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F887
-[/us/pl/95/78/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs3
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F321
-[/us/pl/100/702/s1016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1016%2Fb
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4669
-[/us/pl/102/198/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs10%2Fa
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1626
-[/us/pl/103/465/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fb%2F2
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4946
-[/us/pl/104/317/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs603
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3857
-[/us/pl/112/51/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51%2Fs2%2Fc
+[/us/pl/112/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51
 [/us/stat/125/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F545
-[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtI
 [/us/stat/125/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F760
 [/us/act/1911-05-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-05-03%2Fch231
 [/us/stat/36/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1095
 [/us/act/1916-08-23/ch399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-23%2Fch399
 [/us/stat/39/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F532
-[/us/pl/95/78/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs3
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/stat/91/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F321
 [/us/usc/t28/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs72
 [/us/usc/t28/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs76
@@ -234,29 +234,29 @@
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
 [/us/usc/t28/s1446/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446%2Fe
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
-[/us/pl/112/63/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fb%2F1
-[/us/pl/112/63/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fb%2F2
-[/us/pl/112/63/s103/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fb%2F3%2FA
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/usc/t28/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1332
-[/us/pl/112/63/s103/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fb%2F4%2FB
-[/us/pl/112/63/s103/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fb%2F3%2FC
-[/us/pl/112/63/s103/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fb%2F4%2FA
-[/us/pl/112/63/s103/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fb%2F4%2FC
-[/us/pl/112/63/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs104
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/112/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F51
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/102/198/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs10%2Fa%2F1
-[/us/pl/102/198/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs10%2Fa%2F1
-[/us/pl/102/198/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs10%2Fa%2F1
-[/us/pl/102/198/s10/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs10%2Fa%2F3
-[/us/pl/102/198/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs10%2Fa%2F1
-[/us/pl/100/702/s1016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1016%2Fb%2F1
-[/us/pl/100/702/s1016/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1016%2Fb%2F2
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t28/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1332
-[/us/pl/100/702/s1016/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1016%2Fb%2F3
-[/us/pl/95/78/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs3%2Fa
-[/us/pl/95/78/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78%2Fs3%2Fb
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
+[/us/pl/95/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F78
 [/us/pl/89/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F215
 [/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/112/63/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs105

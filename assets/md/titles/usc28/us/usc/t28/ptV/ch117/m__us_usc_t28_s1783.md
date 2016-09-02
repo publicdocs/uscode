@@ -19,7 +19,7 @@
 
     (b) The subpoena shall designate the time and place for the appearance or for the production of the document or other thing. Service of the subpoena and any order to show cause, rule, judgment, or decree authorized by this section or by [section 1784 of this title][/us/usc/t28/s1784] shall be effected in accordance with the provisions of the Federal Rules of Civil Procedure relating to service of process on a person in a foreign country. The person serving the subpoena shall tender to the person to whom the subpoena is addressed his estimated necessary travel and attendance expenses, the amount of which shall be determined by the court and stated in the order directing the issuance of the subpoena.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 949][/us/stat/62/949]; [Pub. L. 88–619, § 10(a)][/us/pl/88/619/s10/a], Oct. 3, 1964, [78 Stat. 997][/us/stat/78/997].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 949][/us/stat/62/949]; [Pub. L. 88–619][/us/pl/88/619], § 10(a), Oct. 3, 1964, [78 Stat. 997][/us/stat/78/997].)
 
  __Historical and Revision Notes__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t28/s1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1784
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F949
-[/us/pl/88/619/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619%2Fs10%2Fa
+[/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F997
 [/us/act/1926-07-03/ch762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch762
 [/us/stat/44/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F835

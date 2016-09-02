@@ -17,7 +17,7 @@
 
     Subject to the approval of the United States Court of Federal Claims, the Director of the Administrative Office of the United States Courts is authorized to contract for the reporting of all proceedings had in open court, and in such contract to fix the terms and conditions under which such reporting services shall be performed, including the terms and conditions under which transcripts shall be supplied by the contractor to the court and to other persons, departments, and agencies.
 
-(Added [Pub. L. 91–272, § 15(a)][/us/pl/91/272/s15/a], June 2, 1970, [84 Stat. 298][/us/stat/84/298]; amended [Pub. L. 97–164, title I, § 121(e)][/us/pl/97/164/s121/e], Apr. 2, 1982, [96 Stat. 35][/us/stat/96/35]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 91–272][/us/pl/91/272], § 15(a), June 2, 1970, [84 Stat. 298][/us/stat/84/298]; amended [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 121(e), Apr. 2, 1982, [96 Stat. 35][/us/stat/96/35]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/91/272/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs15%2Fa
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/stat/84/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F298
-[/us/pl/97/164/s121/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs121%2Fe
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F35
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164

@@ -21,11 +21,11 @@
 
     (c) Such rules may define when a ruling of a district court is final for the purposes of appeal under [section 1291 of this title][/us/usc/t28/s1291].
 
-(Added [Pub. L. 100–702, title IV, § 401(a)][/us/pl/100/702/s401/a], Nov. 19, 1988, [102 Stat. 4648][/us/stat/102/4648]; amended [Pub. L. 101–650, title III][/us/pl/101/650], §§ 315, 321, Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], 5117.)
+(Added [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 401(a), Nov. 19, 1988, [102 Stat. 4648][/us/stat/102/4648]; amended [Pub. L. 101–650, title III][/us/pl/101/650/tIII], §§ 315, 321, Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], 5117.)
 
  __Prior Provisions__ 
 
-    A prior section 2072, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 961][/us/stat/62/961]; [May 24, 1949, ch. 139, § 103][/us/act/1949-05-24/ch139/s103], [63 Stat. 104][/us/stat/63/104]; [July 18, 1949, ch. 343, § 2][/us/act/1949-07-18/ch343/s2], [63 Stat. 446][/us/stat/63/446]; [May 10, 1950, ch. 174, § 2][/us/act/1950-05-10/ch174/s2], [64 Stat. 158][/us/stat/64/158]; July 7, 1958, [Pub. L. 85–508, § 12(m)][/us/pl/85/508/s12/m], [72 Stat. 348][/us/stat/72/348]; Nov. 6, 1966, [Pub. L. 89–773, § 1][/us/pl/89/773/s1], [80 Stat. 1323][/us/stat/80/1323], authorized the Supreme Court to prescribe rules of civil procedure, prior to repeal by [Pub. L. 100–702][/us/pl/100/702], §§ 401(a), 407, effective Dec. 1, 1988.
+    A prior section 2072, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 961][/us/stat/62/961]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 103, [63 Stat. 104][/us/stat/63/104]; [July 18, 1949, ch. 343][/us/act/1949-07-18/ch343], § 2, [63 Stat. 446][/us/stat/63/446]; [May 10, 1950, ch. 174][/us/act/1950-05-10/ch174], § 2, [64 Stat. 158][/us/stat/64/158]; July 7, 1958, [Pub. L. 85–508][/us/pl/85/508], § 12(m), [72 Stat. 348][/us/stat/72/348]; Nov. 6, 1966, [Pub. L. 89–773][/us/pl/89/773], § 1, [80 Stat. 1323][/us/stat/80/1323], authorized the Supreme Court to prescribe rules of civil procedure, prior to repeal by [Pub. L. 100–702][/us/pl/100/702], §§ 401(a), 407, effective Dec. 1, 1988.
 
  __Amendments__ 
 
@@ -55,21 +55,21 @@
 ----------
 
 [/us/usc/t28/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1291
-[/us/pl/100/702/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs401%2Fa
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4648
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5115
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F961
-[/us/act/1949-05-24/ch139/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs103
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F104
-[/us/act/1949-07-18/ch343/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-18%2Fch343%2Fs2
+[/us/act/1949-07-18/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-18%2Fch343
 [/us/stat/63/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F446
-[/us/act/1950-05-10/ch174/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch174%2Fs2
+[/us/act/1950-05-10/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch174
 [/us/stat/64/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F158
-[/us/pl/85/508/s12/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fm
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/89/773/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773%2Fs1
+[/us/pl/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773
 [/us/stat/80/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1323
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650

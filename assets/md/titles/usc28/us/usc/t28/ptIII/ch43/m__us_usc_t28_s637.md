@@ -17,7 +17,7 @@
 
     The Federal Judicial Center shall conduct periodic training programs and seminars for both full-time and part-time United States magistrate judges, including an introductory training program for new magistrate judges, to be held within one year after initial appointment.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 917][/us/stat/62/917]; [Pub. L. 90–578, title I, § 101][/us/pl/90/578/s101], Oct. 17, 1968, [82 Stat. 1114][/us/stat/82/1114]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 917][/us/stat/62/917]; [Pub. L. 90–578, title I][/us/pl/90/578/tI], § 101, Oct. 17, 1968, [82 Stat. 1114][/us/stat/82/1114]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F917
-[/us/pl/90/578/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs101
+[/us/pl/90/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtI
 [/us/stat/82/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1114
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
 [/us/usc/t28/s636/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636%2Fa%2F2

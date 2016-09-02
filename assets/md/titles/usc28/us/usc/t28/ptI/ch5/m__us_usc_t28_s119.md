@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on sections 863 and 864 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions ([Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], §§ 34, 35, [31 Stat. 84][/us/stat/31/84], 85; [Jan. 7, 1913, ch. 6][/us/act/1913-01-07/ch6], [37 Stat. 648][/us/stat/37/648]; [Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], §§ 41, 42, [39 Stat. 965][/us/stat/39/965], 966; [Mar. 4, 1921, ch. 161, § 1][/us/act/1921-03-04/ch161/s1], [41 Stat. 1412][/us/stat/41/1412]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], §§ 1, 13, [43 Stat. 936][/us/stat/43/936], 942; [Dec. 13, 1926, ch. 6, § 1][/us/act/1926-12-13/ch6/s1], [44 Stat. 919][/us/stat/44/919]; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Mar. 26, 1938, ch. 51, § 2][/us/act/1938-03-26/ch51/s2], [52 Stat. 118][/us/stat/52/118]).
+    Based on sections 863 and 864 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions ([Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], §§ 34, 35, [31 Stat. 84][/us/stat/31/84], 85; [Jan. 7, 1913, ch. 6][/us/act/1913-01-07/ch6], [37 Stat. 648][/us/stat/37/648]; [Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], §§ 41, 42, [39 Stat. 965][/us/stat/39/965], 966; [Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], § 1, [41 Stat. 1412][/us/stat/41/1412]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], §§ 1, 13, [43 Stat. 936][/us/stat/43/936], 942; [Dec. 13, 1926, ch. 6][/us/act/1926-12-13/ch6], § 1, [44 Stat. 919][/us/stat/44/919]; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Mar. 26, 1938, ch. 51][/us/act/1938-03-26/ch51], § 2, [52 Stat. 118][/us/stat/52/118]).
 
     Section consolidates parts of sections 863 and 864 of title 48, U.S.C., 1940 ed., with changes in phraseology necessary to effect consolidation.
 
@@ -56,17 +56,17 @@
 [/us/stat/37/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F648
 [/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F965
-[/us/act/1921-03-04/ch161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161%2Fs1
+[/us/act/1921-03-04/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161
 [/us/stat/41/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1412
 [/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F936
-[/us/act/1926-12-13/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6%2Fs1
+[/us/act/1926-12-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6
 [/us/stat/44/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F919
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
-[/us/act/1938-03-26/ch51/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-26%2Fch51%2Fs2
+[/us/act/1938-03-26/ch51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-26%2Fch51
 [/us/stat/52/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F118
 [/us/usc/t28/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs133
 [/us/usc/t28/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs134

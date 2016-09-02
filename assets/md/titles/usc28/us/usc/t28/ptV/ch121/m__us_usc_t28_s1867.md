@@ -27,11 +27,11 @@
 
     (f) The contents of records or papers used by the jury commission or clerk in connection with the jury selection process shall not be disclosed, except pursuant to the district court plan or as may be necessary in the preparation or presentation of a motion under subsection (a), (b), or (c) of this section, until after the master jury wheel has been emptied and refilled pursuant to [section 1863(b)(4) of this title][/us/usc/t28/s1863/b/4] and all persons selected to serve as jurors before the master wheel was emptied have completed such service. The parties in a case shall be allowed to inspect, reproduce, and copy such records or papers at all reasonable times during the preparation and pendency of such a motion. Any person who discloses the contents of any record or paper in violation of this subsection may be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 953][/us/stat/62/953]; [Pub. L. 85–259][/us/pl/85/259], Sept. 2, 1957, [71 Stat. 583][/us/stat/71/583]; [Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 59][/us/stat/82/59].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 953][/us/stat/62/953]; [Pub. L. 85–259][/us/pl/85/259], Sept. 2, 1957, [71 Stat. 583][/us/stat/71/583]; [Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 59][/us/stat/82/59].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 416 ([Mar. 3, 1911, ch. 231, § 279][/us/act/1911-03-03/ch231/s279], [36 Stat. 1165][/us/stat/36/1165]; [Jan. 31, 1929, ch. 126][/us/act/1929-01-31/ch126], [45 Stat. 1145][/us/stat/45/1145]).
+    Based on title 28, U.S.C., 1940 ed., § 416 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 279, [36 Stat. 1165][/us/stat/36/1165]; [Jan. 31, 1929, ch. 126][/us/act/1929-01-31/ch126], [45 Stat. 1145][/us/stat/45/1145]).
 
     Provisions for service by a disinterested person when marshal or his deputy is disqualified is incorporated in [section 1868 of this title][/us/usc/t28/s1868].
 
@@ -69,9 +69,9 @@
 [/us/stat/62/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F953
 [/us/pl/85/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F259
 [/us/stat/71/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F583
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F59
-[/us/act/1911-03-03/ch231/s279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs279
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1165
 [/us/act/1929-01-31/ch126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-31%2Fch126
 [/us/stat/45/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1145

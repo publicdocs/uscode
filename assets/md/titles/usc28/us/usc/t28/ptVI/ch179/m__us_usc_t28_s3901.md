@@ -23,7 +23,7 @@
 
     In an action described in subsection (a), any party may demand a jury trial where a jury trial would be available in an action against a private defendant under the relevant law made applicable by chapter 5 of title 3. In any case in which a violation of [section 411 of title 3][/us/usc/t3/s411] is alleged, the court shall not inform the jury of the maximum amount of compensatory damages available under section 411(b)(1) or 411(b)(3) of title 3.
 
-(Added [Pub. L. 104–331, § 3(c)][/us/pl/104/331/s3/c], Oct. 26, 1996, [110 Stat. 4070][/us/stat/110/4070].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 3(c), Oct. 26, 1996, [110 Stat. 4070][/us/stat/110/4070].)
 
  __Effective Date__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t28/s1346/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fg
 [/us/usc/t3/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs411
-[/us/pl/104/331/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fc
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4070
 [/us/pl/104/331/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fd
 [/us/usc/t28/s1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1296

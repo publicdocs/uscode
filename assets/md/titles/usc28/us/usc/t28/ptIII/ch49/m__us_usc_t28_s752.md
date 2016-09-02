@@ -17,11 +17,11 @@
 
     District judges may appoint necessary law clerks and secretaries subject to any limitation on the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 921][/us/stat/62/921]; [Pub. L. 86–221][/us/pl/86/221], Sept. 1, 1959, [73 Stat. 452][/us/stat/73/452]; [Pub. L. 100–702, title X, § 1003(a)(3)][/us/pl/100/702/s1003/a/3], Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 921][/us/stat/62/921]; [Pub. L. 86–221][/us/pl/86/221], Sept. 1, 1959, [73 Stat. 452][/us/stat/73/452]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1003(a)(3), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 5b and 128 ([Mar. 3, 1911, ch. 231, § 118b][/us/act/1911-03-03/ch231/s118b], as added [Feb. 17, 1936, ch. 75][/us/act/1936-02-17/ch75], [49 Stat. 1140][/us/stat/49/1140]; [May 14, 1940, ch. 189][/us/act/1940-05-14/ch189], title IV, [54 Stat. 210][/us/stat/54/210]; [June 28, 1941, ch. 258][/us/act/1941-06-28/ch258], title IV, [55 Stat. 301][/us/stat/55/301]; [July 2, 1942, ch. 472][/us/act/1942-07-02/ch472], title IV, [56 Stat. 504][/us/stat/56/504]).
+    Based on title 28, U.S.C., 1940 ed., §§ 5b and 128 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 118b, as added [Feb. 17, 1936, ch. 75][/us/act/1936-02-17/ch75], [49 Stat. 1140][/us/stat/49/1140]; [May 14, 1940, ch. 189][/us/act/1940-05-14/ch189], title IV, [54 Stat. 210][/us/stat/54/210]; [June 28, 1941, ch. 258][/us/act/1941-06-28/ch258], title IV, [55 Stat. 301][/us/stat/55/301]; [July 2, 1942, ch. 472][/us/act/1942-07-02/ch472], title IV, [56 Stat. 504][/us/stat/56/504]).
 
     This section consolidates provisions of sections 5b and 128 of title 28, U.S.C., 1940 ed., relating to appointment of law clerks for district judges.
 
@@ -56,9 +56,9 @@
 [/us/stat/62/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F921
 [/us/pl/86/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F221
 [/us/stat/73/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F452
-[/us/pl/100/702/s1003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1003%2Fa%2F3
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4665
-[/us/act/1911-03-03/ch231/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs118b
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/act/1936-02-17/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-17%2Fch75
 [/us/stat/49/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1140
 [/us/act/1940-05-14/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-14%2Fch189

@@ -79,7 +79,7 @@
 
             (H) the number of cases in which sanctions under rule 9011 of the Federal Rules of Bankruptcy Procedure were imposed against the debtor’s attorney or damages awarded under such Rule.
 
-(Added [Pub. L. 109–8, title VI, § 601(a)][/us/pl/109/8/s601/a], Apr. 20, 2005, [119 Stat. 119][/us/stat/119/119]; amended [Pub. L. 111–327, § 2(c)(2)][/us/pl/111/327/s2/c/2], Dec. 22, 2010, [124 Stat. 3563][/us/stat/124/3563].)
+(Added [Pub. L. 109–8, title VI][/us/pl/109/8/tVI], § 601(a), Apr. 20, 2005, [119 Stat. 119][/us/stat/119/119]; amended [Pub. L. 111–327][/us/pl/111/327], § 2(c)(2), Dec. 22, 2010, [124 Stat. 3563][/us/stat/124/3563].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–8, title VI, § 601(c)][/us/pl/109/8/s601/c], Apr. 20, 2005, [119 Stat. 120][/us/stat/119/120], provided that: 
+[Pub. L. 109–8, title VI][/us/pl/109/8/tVI], § 601(c), Apr. 20, 2005, [119 Stat. 120][/us/stat/119/120], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect 18 months after the date of enactment of this Act \[Apr. 20, 2005\].”
 
@@ -104,12 +104,12 @@
 
 [/us/usc/t28/s156/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs156%2Fb
 [/us/usc/t28/s2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2075
-[/us/pl/109/8/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs601%2Fa
+[/us/pl/109/8/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVI
 [/us/stat/119/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F119
-[/us/pl/111/327/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fc%2F2
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3563
 [/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
-[/us/pl/109/8/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs601%2Fc
+[/us/pl/109/8/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVI
 [/us/stat/119/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F120
 
 

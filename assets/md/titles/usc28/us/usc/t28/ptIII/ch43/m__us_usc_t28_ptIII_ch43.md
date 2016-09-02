@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    1972—[Pub. L. 92–239, § 3][/us/pl/92/239/s3], Mar. 1, 1972, [86 Stat. 47][/us/stat/86/47], substituted “Jurisdiction, powers, and temporary assignment” for “Jurisdiction and powers” in item 636.
+    1972—[Pub. L. 92–239][/us/pl/92/239], § 3, Mar. 1, 1972, [86 Stat. 47][/us/stat/86/47], substituted “Jurisdiction, powers, and temporary assignment” for “Jurisdiction and powers” in item 636.
 
-    1968—[Pub. L. 90–578, title I, § 101][/us/pl/90/578/s101], Oct. 17, 1968, [82 Stat. 1108][/us/stat/82/1108], substituted “MAGISTRATES” for “COMMISSIONERS” in chapter heading, and “Character of service” for “Park commissioners; jurisdiction and powers; procedure” in item 632, “Determination of number, locations, and salaries of magistrates” for “Fees and expenses” in item 633, “Compensation” for “Salaries of park commissioners; disposition of fees” in item 634, “Expenses” for “Park commissioners; residence” in item 635, “Jurisdiction and powers” for “Accounts” in item 636, “Training” for “Oaths, acknowledgments, affidavits and depositions” in item 637, “Dockets and forms; United States Code; seals” for “Seals” in item 638, and “Definitions” for “Dockets and forms; United States Code” in item 639.
+    1968—[Pub. L. 90–578, title I][/us/pl/90/578/tI], § 101, Oct. 17, 1968, [82 Stat. 1108][/us/stat/82/1108], substituted “MAGISTRATES” for “COMMISSIONERS” in chapter heading, and “Character of service” for “Park commissioners; jurisdiction and powers; procedure” in item 632, “Determination of number, locations, and salaries of magistrates” for “Fees and expenses” in item 633, “Compensation” for “Salaries of park commissioners; disposition of fees” in item 634, “Expenses” for “Park commissioners; residence” in item 635, “Jurisdiction and powers” for “Accounts” in item 636, “Training” for “Oaths, acknowledgments, affidavits and depositions” in item 637, “Dockets and forms; United States Code; seals” for “Seals” in item 638, and “Definitions” for “Dockets and forms; United States Code” in item 639.
 
-    1954—[Act Aug. 13, 1954, ch. 728, § 1(c)][/us/act/1954-08-13/ch728/s1/c], [68 Stat. 704][/us/stat/68/704], inserted “and expenses” after “Fees” in item 633.
+    1954—[Act Aug. 13, 1954, ch. 728][/us/act/1954-08-13/ch728], § 1(c), [68 Stat. 704][/us/stat/68/704], inserted “and expenses” after “Fees” in item 633.
 
  __Change of Name__ 
 
@@ -116,11 +116,11 @@
 ----------
 ----------
 
-[/us/pl/92/239/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F239%2Fs3
+[/us/pl/92/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F239
 [/us/stat/86/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F47
-[/us/pl/90/578/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs101
+[/us/pl/90/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtI
 [/us/stat/82/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1108
-[/us/act/1954-08-13/ch728/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch728%2Fs1%2Fc
+[/us/act/1954-08-13/ch728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch728
 [/us/stat/68/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F704
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

@@ -85,7 +85,7 @@
 
     The Comptroller General, in consultation with the Register of Copyrights, shall conduct a study of the conditions in the motion picture industry that gave rise to this section, and the impact of this section on the motion picture industry. The Comptroller General shall report the findings of the study to the Congress within 2 years after the effective date of this chapter.
 
-(Added [Pub. L. 105–304, title IV, § 406(a)][/us/pl/105/304/s406/a], Oct. 28, 1998, [112 Stat. 2903][/us/stat/112/2903].)
+(Added [Pub. L. 105–304, title IV][/us/pl/105/304/tIV], § 406(a), Oct. 28, 1998, [112 Stat. 2903][/us/stat/112/2903].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t17/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs205
 [/us/usc/t17/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs408
-[/us/pl/105/304/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs406%2Fa
+[/us/pl/105/304/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtIV
 [/us/stat/112/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2903
 [/us/usc/t17/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs108
 

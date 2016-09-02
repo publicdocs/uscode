@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 323 ([Mar. 3, 1911, ch. 231, § 217][/us/act/1911-03-03/ch231/s217], [36 Stat. 1152][/us/stat/36/1152]).
+    Based on title 28, U.S.C., 1940 ed., § 323 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 217, [36 Stat. 1152][/us/stat/36/1152]).
 
     The sentence, “This provision shall apply to every Associate Justice who succeeds to the office of Chief Justice”, was omitted as covered by last portion of revised section.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
-[/us/act/1911-03-03/ch231/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs217
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1152
 [/us/usc/t28/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs4
 

@@ -41,11 +41,11 @@
 
     Nothing in this chapter is deemed to affect any program in which arbitration is conducted pursuant to section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “section” probably should not appear. </sup></sup>  title IX of the Judicial Improvements and Access to Justice Act ([Public Law 100–702][/us/pl/100/702]), as amended by [section 1 of Public Law 105–53][/us/pl/105/53/s1].
 
-(Added [Pub. L. 100–702, title IX, § 901(a)][/us/pl/100/702/s901/a], Nov. 19, 1988, [102 Stat. 4660][/us/stat/102/4660]; amended [Pub. L. 105–315, § 6][/us/pl/105/315/s6], Oct. 30, 1998, [112 Stat. 2995][/us/stat/112/2995].)
+(Added [Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 901(a), Nov. 19, 1988, [102 Stat. 4660][/us/stat/102/4660]; amended [Pub. L. 105–315][/us/pl/105/315], § 6, Oct. 30, 1998, [112 Stat. 2995][/us/stat/112/2995].)
 
  __References in Text__ 
 
-    Title IX of the Judicial Improvements and Access to Justice Act ([Public Law 100–702][/us/pl/100/702]), as amended by [section 1 of Public Law 105–53][/us/pl/105/53/s1], referred to in subsec. (d), is title IX of [Pub. L. 100–702][/us/pl/100/702], Nov. 19, 1988, [102 Stat. 4659][/us/stat/102/4659], which enacted this chapter and provisions set out as notes under sections 651 and 652 of this title. [Section 1 of Pub. L. 105–53][/us/pl/105/53/s1], Oct. 6, 1997, [111 Stat. 1173][/us/stat/111/1173], amended [section 905 of title IX of Pub. L. 100–702][/us/pl/100/702/s905], which is set out as a note under [section 651 of this title][/us/usc/t28/s651].
+    Title IX of the Judicial Improvements and Access to Justice Act ([Public Law 100–702][/us/pl/100/702]), as amended by [section 1 of Public Law 105–53][/us/pl/105/53/s1], referred to in subsec. (d), is title IX of [Pub. L. 100–702][/us/pl/100/702], Nov. 19, 1988, [102 Stat. 4659][/us/stat/102/4659], which enacted this chapter and provisions set out as notes under sections 651 and 652 of this title. [Section 1 of Pub. L. 105–53][/us/pl/105/53/s1], Oct. 6, 1997, [111 Stat. 1173][/us/stat/111/1173], amended [section 905 of title IX of Pub. L. 100–702][/us/pl/100/702/tIX/s905], which is set out as a note under [section 651 of this title][/us/usc/t28/s651].
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 [/us/usc/t28/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1343
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/105/53/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F53%2Fs1
-[/us/pl/100/702/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs901%2Fa
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4660
-[/us/pl/105/315/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs6
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2995
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/105/53/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F53%2Fs1
@@ -71,7 +71,7 @@
 [/us/stat/102/4659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4659
 [/us/pl/105/53/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F53%2Fs1
 [/us/stat/111/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1173
-[/us/pl/100/702/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs905
+[/us/pl/100/702/tIX/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX%2Fs905
 [/us/usc/t28/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs651
 [/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 

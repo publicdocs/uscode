@@ -33,7 +33,7 @@
 
         (2) before the due date of the tax, an order of the court makes a finding of probable insufficiency of funds of the estate to pay in full the administrative expenses allowed under [section 503(b) of title 11][/us/usc/t11/s503/b] that have the same priority in distribution under [section 726(b) of title 11][/us/usc/t11/s726/b] as the priority of that tax.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 927][/us/stat/62/927]; [Pub. L. 109–8, title VII, § 712(a)][/us/pl/109/8/s712/a], Apr. 20, 2005, [119 Stat. 127][/us/stat/119/127].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 927][/us/stat/62/927]; [Pub. L. 109–8, title VII][/us/pl/109/8/tVII], § 712(a), Apr. 20, 2005, [119 Stat. 127][/us/stat/119/127].)
 
  __Historical and Revision Notes__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t11/s726/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs726%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F927
-[/us/pl/109/8/s712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs712%2Fa
+[/us/pl/109/8/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVII
 [/us/stat/119/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F127
 [/us/act/1934-06-18/ch585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch585
 [/us/stat/48/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F993

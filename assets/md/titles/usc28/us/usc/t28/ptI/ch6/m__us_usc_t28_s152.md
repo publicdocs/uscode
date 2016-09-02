@@ -1407,19 +1407,19 @@
 
     (e) A bankruptcy judge may be removed during the term for which such bankruptcy judge is appointed, only for incompetence, misconduct, neglect of duty, or physical or mental disability and only by the judicial council of the circuit in which the judge’s official duty station is located. Removal may not occur unless a majority of all of the judges of such council concur in the order of removal. Before any order of removal may be entered, a full specification of charges shall be furnished to such bankruptcy judge who shall be accorded an opportunity to be heard on such charges.
 
-(Added [Pub. L. 98–353, title I, § 104(a)][/us/pl/98/353/s104/a], July 10, 1984, [98 Stat. 336][/us/stat/98/336]; amended [Pub. L. 99–554, title I, § 101][/us/pl/99/554/s101], Oct. 27, 1986, [100 Stat. 3088][/us/stat/100/3088]; [Pub. L. 100–587][/us/pl/100/587], Nov. 3, 1988, [102 Stat. 2982][/us/stat/102/2982]; [Pub. L. 101–650, title III, § 304][/us/pl/101/650/s304], Dec. 1, 1990, [104 Stat. 5105][/us/stat/104/5105]; [Pub. L. 102–361][/us/pl/102/361], §§ 2, 4, Aug. 26, 1992, [106 Stat. 965][/us/stat/106/965], 966; [Pub. L. 109–8, title XII, § 1223(d)][/us/pl/109/8/s1223/d], Apr. 20, 2005, [119 Stat. 198][/us/stat/119/198]; [Pub. L. 109–63, § 2(c)][/us/pl/109/63/s2/c], Sept. 9, 2005, [119 Stat. 1994][/us/stat/119/1994].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 104(a), July 10, 1984, [98 Stat. 336][/us/stat/98/336]; amended [Pub. L. 99–554, title I][/us/pl/99/554/tI], § 101, Oct. 27, 1986, [100 Stat. 3088][/us/stat/100/3088]; [Pub. L. 100–587][/us/pl/100/587], Nov. 3, 1988, [102 Stat. 2982][/us/stat/102/2982]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 304, Dec. 1, 1990, [104 Stat. 5105][/us/stat/104/5105]; [Pub. L. 102–361][/us/pl/102/361], §§ 2, 4, Aug. 26, 1992, [106 Stat. 965][/us/stat/106/965], 966; [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1223(d), Apr. 20, 2005, [119 Stat. 198][/us/stat/119/198]; [Pub. L. 109–63][/us/pl/109/63], § 2(c), Sept. 9, 2005, [119 Stat. 1994][/us/stat/119/1994].)
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1). [Pub. L. 109–8, § 1223(d)(1)][/us/pl/109/8/s1223/d/1], substituted “Each bankruptcy judge to be appointed for a judicial district, as provided in paragraph (2), shall be appointed by the court of appeals of the United States for the circuit in which such district is located.” for “The United States court of appeals for the circuit shall appoint bankruptcy judges for the judicial districts established in paragraph (2) in such numbers as are established in such paragraph.”
+    2005—Subsec. (a)(1). [Pub. L. 109–8][/us/pl/109/8], § 1223(d)(1), substituted “Each bankruptcy judge to be appointed for a judicial district, as provided in paragraph (2), shall be appointed by the court of appeals of the United States for the circuit in which such district is located.” for “The United States court of appeals for the circuit shall appoint bankruptcy judges for the judicial districts established in paragraph (2) in such numbers as are established in such paragraph.”
 
-    Subsec. (a)(2). [Pub. L. 109–8, § 1223(d)(2)][/us/pl/109/8/s1223/d/2], substituted “3” for “2” in item relating to middle district of Georgia and struck out item relating to middle and southern districts of Georgia.
+    Subsec. (a)(2). [Pub. L. 109–8][/us/pl/109/8], § 1223(d)(2), substituted “3” for “2” in item relating to middle district of Georgia and struck out item relating to middle and southern districts of Georgia.
 
     Subsec. (c). [Pub. L. 109–63][/us/pl/109/63] designated existing provisions as par. (1) and added par. (2).
 
-    1992—Subsec. (a)(2). [Pub. L. 102–361, § 2][/us/pl/102/361/s2], in item relating to district of Arizona substituted “7” for “5”, in item relating to central district of California substituted “21” for “19”, in item relating to district of Connecticut substituted “3” for “2”, in item relating to middle district of Florida substituted “8” for “4”, in item relating to southern district of Florida substituted “5” for “3”, in item relating to northern district of Georgia substituted “8” for “6”, inserted item relating to middle and southern districts of Georgia, in item relating to district of Maryland substituted “4” for “3”, in item relating to district of Massachusetts substituted “5” for “4”, in item relating to district of New Jersey substituted “8” for “7”, in item relating to southern district of New York substituted “9” for “7”, in item relating to eastern district of Pennsylvania substituted “5” for “3”, in item relating to middle district of Tennessee substituted “3” for “2”, in item relating to western district of Tennessee substituted “4” for “3”, in item relating to northern district of Texas substituted “6” for “5”, and in item relating to eastern district of Virginia substituted “5” for “4”.
+    1992—Subsec. (a)(2). [Pub. L. 102–361][/us/pl/102/361], § 2, in item relating to district of Arizona substituted “7” for “5”, in item relating to central district of California substituted “21” for “19”, in item relating to district of Connecticut substituted “3” for “2”, in item relating to middle district of Florida substituted “8” for “4”, in item relating to southern district of Florida substituted “5” for “3”, in item relating to northern district of Georgia substituted “8” for “6”, inserted item relating to middle and southern districts of Georgia, in item relating to district of Maryland substituted “4” for “3”, in item relating to district of Massachusetts substituted “5” for “4”, in item relating to district of New Jersey substituted “8” for “7”, in item relating to southern district of New York substituted “9” for “7”, in item relating to eastern district of Pennsylvania substituted “5” for “3”, in item relating to middle district of Tennessee substituted “3” for “2”, in item relating to western district of Tennessee substituted “4” for “3”, in item relating to northern district of Texas substituted “6” for “5”, and in item relating to eastern district of Virginia substituted “5” for “4”.
 
-    Subsec. (b)(3). [Pub. L. 102–361, § 4][/us/pl/102/361/s4], added par. (3).
+    Subsec. (b)(3). [Pub. L. 102–361][/us/pl/102/361], § 4, added par. (3).
 
     1990—Subsec. (a)(1). [Pub. L. 101–650][/us/pl/101/650] inserted after third sentence “However, upon the expiration of the term, a bankruptcy judge may, with the approval of the judicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor.”
 
@@ -1429,7 +1429,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–8, title XII, § 1223(e)][/us/pl/109/8/s1223/e], Apr. 20, 2005, [119 Stat. 198][/us/stat/119/198], provided that: 
+[Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1223(e), Apr. 20, 2005, [119 Stat. 198][/us/stat/119/198], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\].”
 
@@ -1439,13 +1439,13 @@
 
  __Subsequent Reauthorization__ 
 
-[Pub. L. 112–121, § 4][/us/pl/112/121/s4], May 25, 2012, [126 Stat. 349][/us/stat/126/349], provided that: 
+[Pub. L. 112–121][/us/pl/112/121], § 4, May 25, 2012, [126 Stat. 349][/us/stat/126/349], provided that: 
 
 > “Prior to further reauthorization of any judgeship authorized by this Act \[See Short Title of 2012 Amendment note set out under [section 1 of this title][/us/usc/t28/s1]\], the Committee on the Judiciary of the Senate and House of Representatives shall conduct a review of the bankruptcy judgeships authorized by this Act to determine the need, if any, for continued reauthorization of each judgeship, to evaluate any changes in all bankruptcy case filings and their effect, if any, on filing fee revenue, and to require the Administrative Office of the Courts to submit a report to the Committee on the Judiciary of the Senate and House of Representatives on bankruptcy case workload, bankruptcy judgeship costs, and filing fee revenue.”
 
  __Temporary Appointment of Additional Judges__ 
 
-[Pub. L. 112–121, § 2][/us/pl/112/121/s2], May 25, 2012, [126 Stat. 346][/us/stat/126/346], provided that:
+[Pub. L. 112–121][/us/pl/112/121], § 2, May 25, 2012, [126 Stat. 346][/us/stat/126/346], provided that:
 
 >     “(a)  __Temporary Office of Bankruptcy Judges Authorized by Public Law __  __109–8.—__ 
 
@@ -1603,7 +1603,7 @@
 
 >         Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 ([28 U.S.C. 152][/us/usc/t28/s152] note) remain applicable to the temporary office of the bankruptcy judge referred to in paragraph (1).”
 
-[Pub. L. 109–8, title XII, § 1223(b)][/us/pl/109/8/s1223/b], (c), Apr. 20, 2005, [119 Stat. 196][/us/stat/119/196], 198, provided that:
+[Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1223(b), (c), Apr. 20, 2005, [119 Stat. 196][/us/stat/119/196], 198, provided that:
 
 >     “(b) __Temporary Judgeships.—__ 
 
@@ -1713,7 +1713,7 @@
 
 >         All other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 ([28 U.S.C. 152][/us/usc/t28/s152] note) remain applicable to the temporary office of bankruptcy judges referred to in this subsection.”
 
-[Pub. L. 102–361, § 3][/us/pl/102/361/s3], Aug. 26, 1992, [106 Stat. 965][/us/stat/106/965], as amended by [Pub. L. 104–317, title III, § 307][/us/pl/104/317/s307], Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852], provided that:
+[Pub. L. 102–361][/us/pl/102/361], § 3, Aug. 26, 1992, [106 Stat. 965][/us/stat/106/965], as amended by [Pub. L. 104–317, title III][/us/pl/104/317/tIII], § 307, Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852], provided that:
 
 >     “(a)  __Appointments__  __.—__ 
 
@@ -1745,13 +1745,13 @@
 
  __Extension and Termination of Term of Office of Part-Time Bankruptcy Judge Serving on__  __July 2, 1986__  __, in District of Oregon, Western District of Michigan, and Eastern District of Oklahoma__ 
 
-[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [100 Stat. 718][/us/stat/100/718], provided that: 
+[Pub. L. 99–349, title I][/us/pl/99/349/tI], July 2, 1986, [100 Stat. 718][/us/stat/100/718], provided that: 
 
 > “Notwithstanding the provisions of section 106(b)(1) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 \[[section 106(b)(1) of Pub. L. 98–353][/us/pl/98/353/s106/b/1], set out below\], a bankruptcy judge serving on a part-time basis on the date of enactment of this Act \[July 2, 1986\] may continue to serve as a part-time judge for such district until December 31, 1986, or until such time as a full-time bankruptcy judge for such district is appointed, whichever is earlier: Provided, That these provisions shall apply only to part-time bankruptcy judges serving in the district of Oregon, the western district of Michigan, and the eastern district of Oklahoma.”
 
  __Extension and Termination of Term of Office of Bankruptcy Judge and Part-Time Bankruptcy Judge Serving on__  __July 10, 1984__  __; Practice of Law by Part-Time Bankruptcy Judge__ 
 
-[Pub. L. 98–353, title I, § 106][/us/pl/98/353/s106], July 10, 1984, [98 Stat. 342][/us/stat/98/342], provided that:
+[Pub. L. 98–353, title I][/us/pl/98/353/tI], § 106, July 10, 1984, [98 Stat. 342][/us/stat/98/342], provided that:
 
 >     “(a) Notwithstanding [section 152 of title 28][/us/usc/t28/s152], United States Code, as added by this Act, the term of office of a bankruptcy judge who is serving on the date of enactment of this Act \[July 10, 1984\] is extended to and expires four years after the date such bankruptcy judge was last appointed to such office or on October 1, 1986, whichever is later.
 
@@ -1763,7 +1763,7 @@
 
  __Appointment To Fill Vacancies; Nominations; Qualifications__ 
 
-[Pub. L. 98–353, title I, § 120][/us/pl/98/353/s120], July 10, 1984, [98 Stat. 344][/us/stat/98/344], as amended by [Pub. L. 99–554, title I, § 102][/us/pl/99/554/s102], Oct. 27, 1986, [100 Stat. 3089][/us/stat/100/3089]; [Pub. L. 104–317, title III, § 303][/us/pl/104/317/s303], Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852], provided that:
+[Pub. L. 98–353, title I][/us/pl/98/353/tI], § 120, July 10, 1984, [98 Stat. 344][/us/stat/98/344], as amended by [Pub. L. 99–554, title I][/us/pl/99/554/tI], § 102, Oct. 27, 1986, [100 Stat. 3089][/us/stat/100/3089]; [Pub. L. 104–317, title III][/us/pl/104/317/tIII], § 303, Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852], provided that:
 
 >     “(a)
 
@@ -1800,37 +1800,37 @@
 ----------
 ----------
 
-[/us/pl/98/353/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs104%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F336
-[/us/pl/99/554/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs101
+[/us/pl/99/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtI
 [/us/stat/100/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3088
 [/us/pl/100/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F587
 [/us/stat/102/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2982
-[/us/pl/101/650/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs304
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5105
 [/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
 [/us/stat/106/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F965
-[/us/pl/109/8/s1223/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fd
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F198
-[/us/pl/109/63/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F63%2Fs2%2Fc
-[/us/stat/119/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1994
-[/us/pl/109/8/s1223/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fd%2F1
-[/us/pl/109/8/s1223/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fd%2F2
 [/us/pl/109/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F63
-[/us/pl/102/361/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361%2Fs2
-[/us/pl/102/361/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361%2Fs4
+[/us/stat/119/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1994
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F63
+[/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
+[/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/100/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F587
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
-[/us/pl/109/8/s1223/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fe
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F198
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/99/554/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs302%2Fb
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581
-[/us/pl/112/121/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F121%2Fs4
+[/us/pl/112/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F121
 [/us/stat/126/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F349
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
-[/us/pl/112/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F121%2Fs2
+[/us/pl/112/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F121
 [/us/stat/126/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F346
 [/us/pl/109/8/s1223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fb
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
@@ -1846,30 +1846,30 @@
 [/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
-[/us/pl/109/8/s1223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1223%2Fb
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F196
 [/us/usc/t28/s152/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152%2Fa%2F1
 [/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
-[/us/pl/102/361/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361%2Fs3
+[/us/pl/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F361
 [/us/stat/106/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F965
-[/us/pl/104/317/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs307
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3852
 [/us/usc/t28/s152/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152%2Fa%2F1
-[/us/pl/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349
+[/us/pl/99/349/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349%2FtI
 [/us/stat/100/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F718
 [/us/pl/98/353/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs106%2Fb%2F1
-[/us/pl/98/353/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs106
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F342
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
 [/us/usc/t28/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs153%2Fa
 [/us/usc/t28/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs153%2Fb
-[/us/pl/98/353/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs120
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F344
-[/us/pl/99/554/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs102
+[/us/pl/99/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtI
 [/us/stat/100/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3089
-[/us/pl/104/317/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs303
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3852
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
 

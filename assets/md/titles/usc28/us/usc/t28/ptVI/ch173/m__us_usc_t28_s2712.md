@@ -17,7 +17,7 @@
 
     Upon an order of a judge of a court, or, in his absence and upon the clerk’s own initiative, the clerk shall issue a warrant for the attachment of the property belonging to the person specified in the affidavit. The marshal shall execute the warrant forthwith and take the property attached, if personal, in his custody, subject to the interlocutory or final orders of the court.
 
-(Added [Pub. L. 86–682, § 9][/us/pl/86/682/s9], Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
+(Added [Pub. L. 86–682][/us/pl/86/682], § 9, Sept. 2, 1960, [74 Stat. 707][/us/stat/74/707].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/682/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs9
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F707
 [/us/usc/t39/s839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs839
 [/us/pl/86/682/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs12%2Fc

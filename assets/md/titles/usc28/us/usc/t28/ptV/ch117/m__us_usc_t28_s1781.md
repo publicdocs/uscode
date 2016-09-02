@@ -31,11 +31,11 @@
 
         (2) the transmittal of a letter rogatory or request directly from a tribunal in the United States to the foreign or international tribunal, officer, or agency to whom it is addressed and its return in the same manner.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 948][/us/stat/62/948]; [Pub. L. 88–619, § 8(a)][/us/pl/88/619/s8/a], Oct. 3, 1964, [78 Stat. 996][/us/stat/78/996].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 948][/us/stat/62/948]; [Pub. L. 88–619][/us/pl/88/619], § 8(a), Oct. 3, 1964, [78 Stat. 996][/us/stat/78/996].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 653 (R.S. § 875; [Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 241][/us/stat/19/241]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]).
+    Based on title 28, U.S.C., 1940 ed., § 653 (R.S. § 875; [Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 241][/us/stat/19/241]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]).
 
     Word “officer” was substituted for “commissioner” to obviate uncertainty as to the person to whom the letters or commissioned may be issued.
 
@@ -62,11 +62,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F948
-[/us/pl/88/619/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619%2Fs8%2Fa
+[/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F996
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F241
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/usc/t28/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs653
 [/us/usc/t26/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs653

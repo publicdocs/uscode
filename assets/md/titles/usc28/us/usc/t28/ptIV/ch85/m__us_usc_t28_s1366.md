@@ -17,7 +17,7 @@
 
     For the purposes of this chapter, references to laws of the United States or Acts of Congress do not include laws applicable exclusively to the District of Columbia.
 
-(Added [Pub. L. 91–358, title I, § 172(c)(1)][/us/pl/91/358/s172/c/1], July 29, 1970, [84 Stat. 590][/us/stat/84/590], § 1363; renumbered § 1364, [Pub. L. 95–572, § 6(b)(1)][/us/pl/95/572/s6/b/1], Nov. 2, 1978, [92 Stat. 2456][/us/stat/92/2456]; renumbered § 1366, [Pub. L. 99–336, § 6(a)(1)(C)][/us/pl/99/336/s6/a/1/C], June 19, 1986, [100 Stat. 639][/us/stat/100/639].)
+(Added [Pub. L. 91–358, title I][/us/pl/91/358/tI], § 172(c)(1), July 29, 1970, [84 Stat. 590][/us/stat/84/590], § 1363; renumbered § 1364, [Pub. L. 95–572][/us/pl/95/572], § 6(b)(1), Nov. 2, 1978, [92 Stat. 2456][/us/stat/92/2456]; renumbered § 1366, [Pub. L. 99–336][/us/pl/99/336], § 6(a)(1)(C), June 19, 1986, [100 Stat. 639][/us/stat/100/639].)
 
 ----------
 
@@ -26,11 +26,11 @@
 ----------
 ----------
 
-[/us/pl/91/358/s172/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs172%2Fc%2F1
+[/us/pl/91/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtI
 [/us/stat/84/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F590
-[/us/pl/95/572/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs6%2Fb%2F1
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/stat/92/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2456
-[/us/pl/99/336/s6/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs6%2Fa%2F1%2FC
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F639
 
 

@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 41(16) ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], par. 16, [36 Stat. 1092][/us/stat/36/1092]).
+    Based on title 28, U.S.C., 1940 ed., § 41(16) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, par. 16, [36 Stat. 1092][/us/stat/36/1092]).
 
     Words “any civil action” were substituted for “all cases,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -42,7 +42,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F933
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1092
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/usc/t31/s321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs321%2Fc%2F2

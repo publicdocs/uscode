@@ -41,11 +41,11 @@ Western District
 
     Court for the Northern Division shall be held at Marquette and Sault Sainte Marie.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 882][/us/stat/62/882]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6] § 2(b)(8), [68 Stat. 11][/us/stat/68/11]; [Pub. L. 87–36, § 3(d)][/us/pl/87/36/s3/d], May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 88–627][/us/pl/88/627], Oct. 6, 1964, [78 Stat. 1003][/us/stat/78/1003]; [Pub. L. 91–272, § 11][/us/pl/91/272/s11], June 2, 1970, [84 Stat. 298][/us/stat/84/298].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 882][/us/stat/62/882]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6] § 2(b)(8), [68 Stat. 11][/us/stat/68/11]; [Pub. L. 87–36][/us/pl/87/36], § 3(d), May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 88–627][/us/pl/88/627], Oct. 6, 1964, [78 Stat. 1003][/us/stat/78/1003]; [Pub. L. 91–272][/us/pl/91/272], § 11, June 2, 1970, [84 Stat. 298][/us/stat/84/298].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 168 ([Mar. 3, 1911, ch. 231, § 88][/us/act/1911-03-03/ch231/s88], [36 Stat. 1114][/us/stat/36/1114]; [July 9, 1912, ch. 222][/us/act/1912-07-09/ch222], [37 Stat. 190][/us/stat/37/190]; [Mar. 31, 1930, ch. 101][/us/act/1930-03-31/ch101], [46 Stat. 138][/us/stat/46/138]).
+    Based on title 28, U.S.C., 1940 ed., § 168 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 88, [36 Stat. 1114][/us/stat/36/1114]; [July 9, 1912, ch. 222][/us/act/1912-07-09/ch222], [37 Stat. 190][/us/stat/37/190]; [Mar. 31, 1930, ch. 101][/us/act/1930-03-31/ch101], [46 Stat. 138][/us/stat/46/138]).
 
     Provisions of [section 168 of title 28][/us/usc/t28/s168], U.S.C., 1940 ed., relating to venue, were omitted as covered by section 1391 et seq. of this title.
 
@@ -82,13 +82,13 @@ Western District
 [/us/stat/62/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F882
 [/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F11
-[/us/pl/87/36/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36%2Fs3%2Fd
+[/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/stat/75/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F83
 [/us/pl/88/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F627
 [/us/stat/78/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1003
-[/us/pl/91/272/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs11
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/stat/84/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F298
-[/us/act/1911-03-03/ch231/s88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs88
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1114
 [/us/act/1912-07-09/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-07-09%2Fch222
 [/us/stat/37/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F190

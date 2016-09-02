@@ -21,7 +21,7 @@
 
     (2) The term “State” includes the District of Columbia.
 
-(Added [Pub. L. 91–358, title I, § 172(d)(1)][/us/pl/91/358/s172/d/1], July 29, 1970, [84 Stat. 591][/us/stat/84/591].)
+(Added [Pub. L. 91–358, title I][/us/pl/91/358/tI], § 172(d)(1), July 29, 1970, [84 Stat. 591][/us/stat/84/591].)
 
  __Effective Date__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/91/358/s172/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs172%2Fd%2F1
+[/us/pl/91/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtI
 [/us/stat/84/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F591
 [/us/pl/91/358/s199/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs199%2Fa
 [/us/usc/t28/s1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257

@@ -23,7 +23,7 @@
 
     (c) to the extent that the counterclaim does not seek relief exceeding in amount or differing in kind from that sought by the foreign state.
 
-(Added [Pub. L. 94–583, § 4(a)][/us/pl/94/583/s4/a], Oct. 21, 1976, [90 Stat. 2894][/us/stat/90/2894]; amended [Pub. L. 110–181, div. A, title X, § 1083(b)(2)][/us/pl/110/181/s1083/b/2], Jan. 28, 2008, [122 Stat. 341][/us/stat/122/341].)
+(Added [Pub. L. 94–583][/us/pl/94/583], § 4(a), Oct. 21, 1976, [90 Stat. 2894][/us/stat/90/2894]; amended [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1083(b)(2), Jan. 28, 2008, [122 Stat. 341][/us/stat/122/341].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/94/583/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs4%2Fa
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2894
-[/us/pl/110/181/s1083/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1083%2Fb%2F2
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F341
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

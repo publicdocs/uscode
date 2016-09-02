@@ -61,7 +61,7 @@
 
         (2) limit the applicability of section 230 of the Communications Act of 1934 ([47 U.S.C. 230][/us/usc/t47/s230]) to causes of action for defamation.
 
-(Added [Pub. L. 111–223, § 3(a)][/us/pl/111/223/s3/a], Aug. 10, 2010, [124 Stat. 2381][/us/stat/124/2381].)
+(Added [Pub. L. 111–223][/us/pl/111/223], § 3(a), Aug. 10, 2010, [124 Stat. 2381][/us/stat/124/2381].)
 
 ----------
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t47/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs230
 [/us/usc/t47/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs230
-[/us/pl/111/223/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F223%2Fs3%2Fa
+[/us/pl/111/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F223
 [/us/stat/124/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2381
 
 

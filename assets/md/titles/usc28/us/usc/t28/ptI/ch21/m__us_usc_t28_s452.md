@@ -19,11 +19,11 @@
 
     The continued existence or expiration of a session of a court in no way affects the power of the court to do any act or take any proceeding.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 907][/us/stat/62/907]; [Pub. L. 88–139, § 2][/us/pl/88/139/s2], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 907][/us/stat/62/907]; [Pub. L. 88–139][/us/pl/88/139], § 2, Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 13 and 302 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 9, 189, [36 Stat. 1088][/us/stat/36/1088], 1143; [Mar. 2, 1929, ch. 488, § 1][/us/act/1929-03-02/ch488/s1], [45 Stat. 1475][/us/stat/45/1475]).
+    Based on title 28, U.S.C., 1940 ed., §§ 13 and 302 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 9, 189, [36 Stat. 1088][/us/stat/36/1088], 1143; [Mar. 2, 1929, ch. 488][/us/act/1929-03-02/ch488], § 1, [45 Stat. 1475][/us/stat/45/1475]).
 
     Sections 13 and 302 of title 28, U.S.C., 1940 ed., related only to district courts and the Court of Customs and Patent Appeals, and this section has been written to cover all other courts of the United States.
 
@@ -48,11 +48,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F907
-[/us/pl/88/139/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs2
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 [/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1088
-[/us/act/1929-03-02/ch488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488%2Fs1
+[/us/act/1929-03-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488
 [/us/stat/45/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1475
 [/us/usc/t28/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs302
 [/us/usc/t28/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs13

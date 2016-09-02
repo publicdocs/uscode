@@ -17,7 +17,7 @@
 
     Subject to existing international agreements to which the United States is a party at the time of enactment of this Act a foreign state shall be immune from the jurisdiction of the courts of the United States and of the States except as provided in sections 1605 to 1607 of this chapter.
 
-(Added [Pub. L. 94–583, § 4(a)][/us/pl/94/583/s4/a], Oct. 21, 1976, [90 Stat. 2892][/us/stat/90/2892].)
+(Added [Pub. L. 94–583][/us/pl/94/583], § 4(a), Oct. 21, 1976, [90 Stat. 2892][/us/stat/90/2892].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/583/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs4%2Fa
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2892
 [/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 

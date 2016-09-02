@@ -17,7 +17,7 @@
 
     In any proceeding under section 1296 or 1346(g) of this title in which the application of a regulation issued under chapter 5 of title 3 is at issue, the court may review the validity of the regulation in accordance with the provisions of subparagraphs (A) through (D) of [section 706(2) of title 5][/us/usc/t5/s706/2]. If the court determines that the regulation is invalid, the court shall apply, to the extent necessary and appropriate, the most relevant substantive executive agency regulation promulgated to implement the statutory provisions with respect to which the invalid regulation was issued. Except as provided in this section, the validity of regulations issued under this chapter is not subject to judicial review.
 
-(Added [Pub. L. 104–331, § 3(c)][/us/pl/104/331/s3/c], Oct. 26, 1996, [110 Stat. 4070][/us/stat/110/4070].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 3(c), Oct. 26, 1996, [110 Stat. 4070][/us/stat/110/4070].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2
-[/us/pl/104/331/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fc
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4070
 
 

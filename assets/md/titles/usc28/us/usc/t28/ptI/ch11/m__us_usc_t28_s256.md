@@ -19,7 +19,7 @@
 
     (b) Upon application of a party or upon his own initiative, and upon a showing that the interests of economy, efficiency, and justice will be served, the chief judge may issue an order authorizing a judge of the court to preside in an evidentiary hearing in a foreign country whose laws do not prohibit such a hearing: Provided, however, That an interlocutory appeal may be taken from such an order pursuant to the provisions of [section 1292(d)(1) of this title][/us/usc/t28/s1292/d/1], and the United States Court of Appeals for the Federal Circuit may, in its discretion, consider the appeal.
 
-(Added [Pub. L. 91–271, title I, § 109][/us/pl/91/271/s109], June 2, 1970, [84 Stat. 277][/us/stat/84/277]; amended [Pub. L. 97–164, title I, § 107][/us/pl/97/164/s107], Apr. 2, 1982, [96 Stat. 28][/us/stat/96/28].)
+(Added [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 109, June 2, 1970, [84 Stat. 277][/us/stat/84/277]; amended [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 107, Apr. 2, 1982, [96 Stat. 28][/us/stat/96/28].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–271, title I, § 122][/us/pl/91/271/s122], June 2, 1970, [84 Stat. 281][/us/stat/84/281], provided that:
+[Pub. L. 91–271, title I][/us/pl/91/271/tI], § 122, June 2, 1970, [84 Stat. 281][/us/stat/84/281], provided that:
 
 >     “(a) This title \[see Short Title of 1970 Amendment note set out under [section 1 of this title][/us/usc/t28/s1]\] shall become effective on October 1, 1970, and shall thereafter apply to all actions and proceedings in the Customs Court and the Court of Customs and Patent Appeals except those involving merchandise entered before the effective date for which trial has commenced by such effective date.
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t28/s1292/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1292%2Fd%2F1
-[/us/pl/91/271/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs109
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F277
-[/us/pl/97/164/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs107
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F28
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/usc/t28/s1292/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1292%2Fd%2F1
@@ -59,7 +59,7 @@
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/91/271/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs122
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F281
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500

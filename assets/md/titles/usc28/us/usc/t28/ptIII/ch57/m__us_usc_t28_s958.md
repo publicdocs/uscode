@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 527 ([May 28, 1896, ch. 252, § 20][/us/act/1896-05-28/ch252/s20], [29 Stat. 184][/us/stat/29/184]; [Dec. 28, 1945, ch. 592][/us/act/1945-12-28/ch592], [59 Stat. 659][/us/stat/59/659]).
+    Based on title 28, U.S.C., 1940 ed., § 527 ([May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], § 20, [29 Stat. 184][/us/stat/29/184]; [Dec. 28, 1945, ch. 592][/us/act/1945-12-28/ch592], [59 Stat. 659][/us/stat/59/659]).
 
     Provisions of [section 527 of title 28][/us/usc/t28/s527], U.S.C., 1940 ed., relating to ineligibility of various persons as United States commissioner appear as [section 631 of this title][/us/usc/t28/s631]. Words “janitor of any Government building” were omitted as covered by words “person holding any civil or military employment under the United States” used in the revised section.
 
@@ -40,7 +40,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F926
-[/us/act/1896-05-28/ch252/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs20
+[/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F184
 [/us/act/1945-12-28/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-28%2Fch592
 [/us/stat/59/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F659

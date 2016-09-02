@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, title XXVIII, § 280005(c)(1)][/us/pl/103/322/s280005/c/1], Sept. 13, 1994, [108 Stat. 2097][/us/stat/108/2097], substituted “Chair” for “Chairman” in item 993.
+    1994—[Pub. L. 103–322, title XXVIII][/us/pl/103/322/tXXVIII], § 280005(c)(1), Sept. 13, 1994, [108 Stat. 2097][/us/stat/108/2097], substituted “Chair” for “Chairman” in item 993.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s280005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fc%2F1
+[/us/pl/103/322/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVIII
 [/us/stat/108/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2097
 
 

@@ -49,7 +49,7 @@
 
         (3) The parties may stipulate that fewer documents, comments, or other information than those specified in paragraph (1) of this subsection shall be transmitted to the clerk of the court.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1733][/us/stat/94/1733]; amended [Pub. L. 103–182, title VI, § 684(d)][/us/pl/103/182/s684/d], Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1733][/us/stat/94/1733]; amended [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 684(d), Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2635, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 981][/us/stat/62/981]; June 2, 1970, [Pub. L. 91–271, title I, § 116][/us/pl/91/271/s116], [84 Stat. 280][/us/stat/84/280], related to burden of proof and evidence of value, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2639 of this title][/us/usc/t28/s2639].
+    A prior section 2635, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 981][/us/stat/62/981]; June 2, 1970, [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 116, [84 Stat. 280][/us/stat/84/280], related to burden of proof and evidence of value, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2639 of this title][/us/usc/t28/s2639].
 
  __Amendments__ 
 
@@ -100,16 +100,16 @@
 ----------
 ----------
 
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1733
-[/us/pl/103/182/s684/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs684%2Fd
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2219
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F981
-[/us/pl/91/271/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs116
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F280
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2639

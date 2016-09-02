@@ -21,7 +21,7 @@
 
     (2) out of amounts otherwise appropriated or available to the office involved, if it arises out of an appeal from an administrative proceeding under chapter 5 of title 3.
 
-(Added [Pub. L. 104–331, § 3(c)][/us/pl/104/331/s3/c], Oct. 26, 1996, [110 Stat. 4071][/us/stat/110/4071].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 3(c), Oct. 26, 1996, [110 Stat. 4071][/us/stat/110/4071].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/104/331/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fc
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4071
 
 

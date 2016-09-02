@@ -25,11 +25,11 @@
 
     (4) From the District Court of Guam, to the Court of Appeals for the Ninth Circuit.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 930][/us/stat/62/930]; [Oct. 31, 1951, ch. 655, § 50(a)][/us/act/1951-10-31/ch655/s50/a], [65 Stat. 727][/us/stat/65/727]; [Pub. L. 85–508, § 12(g)][/us/pl/85/508/s12/g], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 86–3, § 14(c)][/us/pl/86/3/s14/c], Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10]; [Pub. L. 87–189, § 5][/us/pl/87/189/s5], Aug. 30, 1961, [75 Stat. 417][/us/stat/75/417]; [Pub. L. 95–598, title II, § 237][/us/pl/95/598/s237], Nov. 6, 1978, [92 Stat. 2667][/us/stat/92/2667]; [Pub. L. 97–164, title I, § 126][/us/pl/97/164/s126], Apr. 2, 1982, [96 Stat. 37][/us/stat/96/37].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 930][/us/stat/62/930]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 50(a), [65 Stat. 727][/us/stat/65/727]; [Pub. L. 85–508][/us/pl/85/508], § 12(g), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 86–3][/us/pl/86/3], § 14(c), Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10]; [Pub. L. 87–189][/us/pl/87/189], § 5, Aug. 30, 1961, [75 Stat. 417][/us/stat/75/417]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 237, Nov. 6, 1978, [92 Stat. 2667][/us/stat/92/2667]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 126, Apr. 2, 1982, [96 Stat. 37][/us/stat/96/37].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 1141(b)(1)(2)(3) of title 26][/us/usc/t26/s1141/b/1/2/3], U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., § 225(d) and sections 645, 864, 865, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and [section 61 of title 7][/us/usc/t7/s61] of the Canal Zone Code ([Apr. 12, 1900, ch. 191, § 35][/us/act/1900-04-12/ch191/s35], [31 Stat. 85][/us/stat/31/85]; [Mar. 3, 1911, ch. 231, § 128][/us/act/1911-03-03/ch231/s128], [36 Stat. 1133][/us/stat/36/1133]; [Aug. 24, 1912, ch. 390, § 9][/us/act/1912-08-24/ch390/s9], [37 Stat. 566][/us/stat/37/566]; [Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], §§ 42, 43, [39 Stat. 966][/us/stat/39/966]; [Mar. 3, 1917, ch. 171, § 2][/us/act/1917-03-03/ch171/s2], [39 Stat. 1132][/us/stat/39/1132]; [Sept. 21, 1922, ch. 370, § 3][/us/act/1922-09-21/ch370/s3], [42 Stat. 1006][/us/stat/42/1006]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], §§ 1, 13, [43 Stat. 936][/us/stat/43/936], 942; [Feb. 26, 1926, ch. 27, § 1002][/us/act/1926-02-26/ch27/s1002], [44 Stat. 110][/us/stat/44/110]; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Feb. 16, 1933, ch. 91, § 3][/us/act/1933-02-16/ch91/s3], [47 Stat. 817][/us/stat/47/817]; [May 10, 1934, ch. 277, § 519][/us/act/1934-05-10/ch277/s519], [48 Stat. 760][/us/stat/48/760]; [Feb. 10, 1939, ch. 2, § 1141(b)(1)(2)(3)][/us/act/1939-02-10/ch2/s1141/b/1/2/3], [53 Stat. 164][/us/stat/53/164]).
+    Based on [section 1141(b)(1)(2)(3) of title 26][/us/usc/t26/s1141/b/1/2/3], U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., § 225(d) and sections 645, 864, 865, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and [section 61 of title 7][/us/usc/t7/s61] of the Canal Zone Code ([Apr. 12, 1900, ch. 191][/us/act/1900-04-12/ch191], § 35, [31 Stat. 85][/us/stat/31/85]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 128, [36 Stat. 1133][/us/stat/36/1133]; [Aug. 24, 1912, ch. 390][/us/act/1912-08-24/ch390], § 9, [37 Stat. 566][/us/stat/37/566]; [Mar. 2, 1917, ch. 145][/us/act/1917-03-02/ch145], §§ 42, 43, [39 Stat. 966][/us/stat/39/966]; [Mar. 3, 1917, ch. 171][/us/act/1917-03-03/ch171], § 2, [39 Stat. 1132][/us/stat/39/1132]; [Sept. 21, 1922, ch. 370][/us/act/1922-09-21/ch370], § 3, [42 Stat. 1006][/us/stat/42/1006]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], §§ 1, 13, [43 Stat. 936][/us/stat/43/936], 942; [Feb. 26, 1926, ch. 27][/us/act/1926-02-26/ch27], § 1002, [44 Stat. 110][/us/stat/44/110]; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Feb. 16, 1933, ch. 91][/us/act/1933-02-16/ch91], § 3, [47 Stat. 817][/us/stat/47/817]; [May 10, 1934, ch. 277][/us/act/1934-05-10/ch277], § 519, [48 Stat. 760][/us/stat/48/760]; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 1141(b)(1)(2)(3), [53 Stat. 164][/us/stat/53/164]).
 
     Section consolidates the venue provisions of sections 645, 864, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions with sections 1141(b)(1)(2)(3) to title 26, U.S.C., 1940 ed., Internal Revenue and sections 225(d) and 865 of said title 48. Other provisions of said section 864, not incorporated in this section and sections 41 and 119 of this title, were retained in title 48. Other provisions of said section 1356 are incorporated in [section 1291 of this title][/us/usc/t28/s1291]. Other provisions of said section 1392 were also retained in title 48.
 
@@ -121,7 +121,7 @@
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70/tII], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 ----------
 
@@ -132,45 +132,45 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F930
-[/us/act/1951-10-31/ch655/s50/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs50%2Fa
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F727
-[/us/pl/85/508/s12/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fg
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/86/3/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs14%2Fc
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F10
-[/us/pl/87/189/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F189%2Fs5
+[/us/pl/87/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F189
 [/us/stat/75/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F417
-[/us/pl/95/598/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs237
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2667
-[/us/pl/97/164/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs126
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F37
 [/us/usc/t26/s1141/b/1/2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1141%2Fb%2F1%2F2%2F3
 [/us/usc/t7/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs61
-[/us/act/1900-04-12/ch191/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs35
+[/us/act/1900-04-12/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191
 [/us/stat/31/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F85
-[/us/act/1911-03-03/ch231/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs128
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1133
-[/us/act/1912-08-24/ch390/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch390%2Fs9
+[/us/act/1912-08-24/ch390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch390
 [/us/stat/37/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F566
 [/us/act/1917-03-02/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145
 [/us/stat/39/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F966
-[/us/act/1917-03-03/ch171/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch171%2Fs2
+[/us/act/1917-03-03/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch171
 [/us/stat/39/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1132
-[/us/act/1922-09-21/ch370/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch370%2Fs3
+[/us/act/1922-09-21/ch370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch370
 [/us/stat/42/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1006
 [/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F936
-[/us/act/1926-02-26/ch27/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-02-26%2Fch27%2Fs1002
+[/us/act/1926-02-26/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-02-26%2Fch27
 [/us/stat/44/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F110
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
-[/us/act/1933-02-16/ch91/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-16%2Fch91%2Fs3
+[/us/act/1933-02-16/ch91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-16%2Fch91
 [/us/stat/47/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F817
-[/us/act/1934-05-10/ch277/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-10%2Fch277%2Fs519
+[/us/act/1934-05-10/ch277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-10%2Fch277
 [/us/stat/48/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F760
-[/us/act/1939-02-10/ch2/s1141/b/1/2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs1141%2Fb%2F1%2F2%2F3
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F164
 [/us/usc/t28/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1291
 [/us/usc/t26/s1141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1141%2Fb
@@ -205,7 +205,7 @@
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/usc/t28/s81A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs81A
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
 
 

@@ -187,7 +187,7 @@
 
     In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenance or repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
 
-(Added [Pub. L. 107–273, div. A, title II, § 201(a)][/us/pl/107/273/s201/a], Nov. 2, 2002, [116 Stat. 1767][/us/stat/116/1767]; amended [Pub. L. 108–199, div. B, title I][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 53][/us/stat/118/53]; [Pub. L. 112–265, § 2(a)][/us/pl/112/265/s2/a], Jan. 14, 2013, [126 Stat. 2435][/us/stat/126/2435].)
+(Added [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 201(a), Nov. 2, 2002, [116 Stat. 1767][/us/stat/116/1767]; amended [Pub. L. 108–199, div. B, title I][/us/pl/108/199/dB/tI], Jan. 23, 2004, [118 Stat. 53][/us/stat/118/53]; [Pub. L. 112–265][/us/pl/112/265], § 2(a), Jan. 14, 2013, [126 Stat. 2435][/us/stat/126/2435].)
 
  __References in Text__ 
 
@@ -199,9 +199,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1)(L)(i). [Pub. L. 112–265, § 2(a)(1)][/us/pl/112/265/s2/a/1], substituted “$3,000,000” for “$2,000,000” in introductory provisions.
+    2013—Subsec. (b)(1)(L)(i). [Pub. L. 112–265][/us/pl/112/265], § 2(a)(1), substituted “$3,000,000” for “$2,000,000” in introductory provisions.
 
-    Subsec. (b)(1)(M). [Pub. L. 112–265, § 2(a)(2)][/us/pl/112/265/s2/a/2], added subpar. (M).
+    Subsec. (b)(1)(M). [Pub. L. 112–265][/us/pl/112/265], § 2(a)(2), added subpar. (M).
 
     2004—Subsec. (b)(2)(A), (B). [Pub. L. 108–199][/us/pl/108/199] inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
 
@@ -211,7 +211,7 @@
 
  __Use of Federal Training Facilities__ 
 
- [Pub. L. 109–162, title XI, § 1173][/us/pl/109/162/s1173], Jan. 5, 2006, [119 Stat. 3124][/us/stat/119/3124], as amended by [Pub. L. 109–271, § 8(d)][/us/pl/109/271/s8/d], Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766], provided that:
+ [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1173, Jan. 5, 2006, [119 Stat. 3124][/us/stat/119/3124], as amended by [Pub. L. 109–271][/us/pl/109/271], § 8(d), Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766], provided that:
 
 >     “(a)  __Federal Training Facilities__  __.—__ 
 
@@ -241,11 +241,11 @@
 [/us/usc/t18/s2332f/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F6
 [/us/usc/t18/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4010
 [/us/pl/106/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110
-[/us/pl/107/273/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs201%2Fa
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1767
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtI
 [/us/stat/118/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F53
-[/us/pl/112/265/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265%2Fs2%2Fa
+[/us/pl/112/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265
 [/us/stat/126/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2435
 [/us/pl/102/395/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2Fs102%2Fb
 [/us/pl/102/395/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2Fs102%2Fb
@@ -259,13 +259,13 @@
 [/us/pl/106/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F110
 [/us/stat/113/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1497
 [/us/usc/t42/s3771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3771
-[/us/pl/112/265/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265%2Fs2%2Fa%2F1
-[/us/pl/112/265/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265%2Fs2%2Fa%2F2
+[/us/pl/112/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265
+[/us/pl/112/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/109/162/s1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1173
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3124
-[/us/pl/109/271/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fd
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F766
 
 

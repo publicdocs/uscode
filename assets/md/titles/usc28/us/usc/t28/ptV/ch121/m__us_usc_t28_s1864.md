@@ -19,11 +19,11 @@
 
     (b) Any person summoned pursuant to subsection (a) of this section who fails to appear as directed shall be ordered by the district court forthwith to appear and show cause for his failure to comply with the summons. Any person who fails to appear pursuant to such order or who fails to show good cause for noncompliance with the summons may be fined not more than $1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof. Any person who willfully misrepresents a material fact on a juror qualification form for the purpose of avoiding or securing service as a juror may be fined not more than $1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 57][/us/stat/82/57]; [Pub. L. 100–702, title VIII, § 803(a)][/us/pl/100/702/s803/a], Nov. 19, 1988, [102 Stat. 4658][/us/stat/102/4658]; [Pub. L. 110–406][/us/pl/110/406], §§ 5(a), 17(a), Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292], 4295.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 57][/us/stat/82/57]; [Pub. L. 100–702, title VIII][/us/pl/100/702/tVIII], § 803(a), Nov. 19, 1988, [102 Stat. 4658][/us/stat/102/4658]; [Pub. L. 110–406][/us/pl/110/406], §§ 5(a), 17(a), Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292], 4295.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 412, 412a ([Mar. 3, 1911, ch. 231, § 276][/us/act/1911-03-03/ch231/s276], [36 Stat. 1164][/us/stat/36/1164]; [Feb. 3, 1917, ch. 27][/us/act/1917-02-03/ch27], [39 Stat. 873][/us/stat/39/873]; [May 21, 1945, ch. 129][/us/act/1945-05-21/ch129], title IV, [59 Stat. 198][/us/stat/59/198]; [July 5, 1946, ch. 541][/us/act/1946-07-05/ch541], title IV, [60 Stat. 478][/us/stat/60/478]).
+    Based on title 28, U.S.C., 1940 ed., §§ 412, 412a ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 276, [36 Stat. 1164][/us/stat/36/1164]; [Feb. 3, 1917, ch. 27][/us/act/1917-02-03/ch27], [39 Stat. 873][/us/stat/39/873]; [May 21, 1945, ch. 129][/us/act/1945-05-21/ch129], title IV, [59 Stat. 198][/us/stat/59/198]; [July 5, 1946, ch. 541][/us/act/1946-07-05/ch541], title IV, [60 Stat. 478][/us/stat/60/478]).
 
     The words “The district court” were substituted for the phrase “the judge thereof, or by the judge senior in commission in districts having more than one judge” to conform to other sections authorizing appointment of court officers. See [section 751 of this title][/us/usc/t28/s751] relating to appointment of district court clerk.
 
@@ -35,13 +35,13 @@
 
  __Senate Revision Amendment__ 
 
-    As finally enacted, [act July 9, 1947, ch. 211][/us/act/1947-07-09/ch211], title IV, [61 Stat. 304][/us/stat/61/304], which was classified to Title 28, U.S.C., 1946 ed., § 412a, was also a source of this section. Accordingly such act was included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+    As finally enacted, [act July 9, 1947, ch. 211, title IV][/us/act/1947-07-09/ch211/tIV], [61 Stat. 304][/us/stat/61/304], which was classified to Title 28, U.S.C., 1946 ed., § 412a, was also a source of this section. Accordingly such act was included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–406, § 5(a)][/us/pl/110/406/s5/a], struck out “publicly” after “judge shall” in first sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn.” after first sentence.
+    2008—Subsec. (a). [Pub. L. 110–406][/us/pl/110/406], § 5(a), struck out “publicly” after “judge shall” in first sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn.” after first sentence.
 
-    Subsec. (b). [Pub. L. 110–406, § 17(a)][/us/pl/110/406/s17/a], substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.” in two places.
+    Subsec. (b). [Pub. L. 110–406][/us/pl/110/406], § 17(a), substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.” in two places.
 
     1988—Subsec. (a). [Pub. L. 100–702][/us/pl/100/702] amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shall prepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
 
@@ -61,13 +61,13 @@
 [/us/usc/t28/s1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1871
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F952
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F57
-[/us/pl/100/702/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs803%2Fa
+[/us/pl/100/702/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVIII
 [/us/stat/102/4658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4658
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4292
-[/us/act/1911-03-03/ch231/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs276
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1164
 [/us/act/1917-02-03/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-03%2Fch27
 [/us/stat/39/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F873
@@ -77,10 +77,10 @@
 [/us/stat/60/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F478
 [/us/usc/t28/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs751
 [/us/usc/t28/s412a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs412a
-[/us/act/1947-07-09/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-09%2Fch211
+[/us/act/1947-07-09/ch211/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-09%2Fch211%2FtIV
 [/us/stat/61/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F304
-[/us/pl/110/406/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs5%2Fa
-[/us/pl/110/406/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs17%2Fa
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274

@@ -69,11 +69,11 @@ Western District
 
     Court for the Hot Springs Division shall be held at Hot Springs.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 874][/us/stat/62/874]; [Pub. L. 87–36, § 5][/us/pl/87/36/s5], May 19, 1961, [75 Stat. 84][/us/stat/75/84]; [Pub. L. 108–455, § 3][/us/pl/108/455/s3], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 874][/us/stat/62/874]; [Pub. L. 87–36][/us/pl/87/36], § 5, May 19, 1961, [75 Stat. 84][/us/stat/75/84]; [Pub. L. 108–455][/us/pl/108/455], § 3, Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 144 ([Mar. 3, 1911, ch. 231, § 71][/us/act/1911-03-03/ch231/s71], [36 Stat. 1106][/us/stat/36/1106]; [Apr. 12, 1924, ch. 87, § 1][/us/act/1924-04-12/ch87/s1], [43 Stat. 90][/us/stat/43/90]; [Feb. 17, 1925, ch. 252][/us/act/1925-02-17/ch252], [43 Stat. 948][/us/stat/43/948]; [Apr. 16, 1926, ch. 147, § 1][/us/act/1926-04-16/ch147/s1], [44 Stat. 296][/us/stat/44/296]; [Apr. 21, 1926, ch. 168][/us/act/1926-04-21/ch168], [44 Stat. 304][/us/stat/44/304]; [Feb. 7, 1928, ch. 29, § 1][/us/act/1928-02-07/ch29/s1], [45 Stat. 58][/us/stat/45/58]; [Apr. 17, 1940, ch. 100][/us/act/1940-04-17/ch100], [54 Stat. 109][/us/stat/54/109]; [June 11, 1940, ch. 321, § 1][/us/act/1940-06-11/ch321/s1], [54 Stat. 302][/us/stat/54/302]).
+    Based on title 28, U.S.C., 1940 ed., § 144 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 71, [36 Stat. 1106][/us/stat/36/1106]; [Apr. 12, 1924, ch. 87][/us/act/1924-04-12/ch87], § 1, [43 Stat. 90][/us/stat/43/90]; [Feb. 17, 1925, ch. 252][/us/act/1925-02-17/ch252], [43 Stat. 948][/us/stat/43/948]; [Apr. 16, 1926, ch. 147][/us/act/1926-04-16/ch147], § 1, [44 Stat. 296][/us/stat/44/296]; [Apr. 21, 1926, ch. 168][/us/act/1926-04-21/ch168], [44 Stat. 304][/us/stat/44/304]; [Feb. 7, 1928, ch. 29][/us/act/1928-02-07/ch29], § 1, [45 Stat. 58][/us/stat/45/58]; [Apr. 17, 1940, ch. 100][/us/act/1940-04-17/ch100], [54 Stat. 109][/us/stat/54/109]; [June 11, 1940, ch. 321][/us/act/1940-06-11/ch321], § 1, [54 Stat. 302][/us/stat/54/302]).
 
     A provision making inoperative the terms of the last paragraph of this section, whenever court accommodations shall be provided in Federal buildings was omitted as unnecessary. When such buildings become available the Director of the Administrative Office of the United States Courts will, under [section 604 of this title][/us/usc/t28/s604], provide court accommodations therein.
 
@@ -100,25 +100,25 @@ Western District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F874
-[/us/pl/87/36/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36%2Fs5
+[/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/stat/75/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F84
-[/us/pl/108/455/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455%2Fs3
+[/us/pl/108/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455
 [/us/stat/118/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3628
-[/us/act/1911-03-03/ch231/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs71
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1106
-[/us/act/1924-04-12/ch87/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-12%2Fch87%2Fs1
+[/us/act/1924-04-12/ch87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-12%2Fch87
 [/us/stat/43/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F90
 [/us/act/1925-02-17/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-17%2Fch252
 [/us/stat/43/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F948
-[/us/act/1926-04-16/ch147/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-16%2Fch147%2Fs1
+[/us/act/1926-04-16/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-16%2Fch147
 [/us/stat/44/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F296
 [/us/act/1926-04-21/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-21%2Fch168
 [/us/stat/44/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F304
-[/us/act/1928-02-07/ch29/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-07%2Fch29%2Fs1
+[/us/act/1928-02-07/ch29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-07%2Fch29
 [/us/stat/45/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F58
 [/us/act/1940-04-17/ch100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-04-17%2Fch100
 [/us/stat/54/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F109
-[/us/act/1940-06-11/ch321/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch321%2Fs1
+[/us/act/1940-06-11/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch321
 [/us/stat/54/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F302
 [/us/usc/t28/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604
 [/us/usc/t28/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs142

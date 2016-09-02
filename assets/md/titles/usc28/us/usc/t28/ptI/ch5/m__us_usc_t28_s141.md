@@ -61,11 +61,11 @@
 
         (5) If a district court issues an order exercising its authority under paragraph (1), the court shall direct the United States marshal of the district where the court is meeting to furnish transportation and subsistence to the same extent as that provided in sections 4282 and 4285 of title 18.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139, § 1][/us/pl/88/139/s1], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248]; [Pub. L. 109–63, § 2(b)][/us/pl/109/63/s2/b], Sept. 9, 2005, [119 Stat. 1994][/us/stat/119/1994]; [Pub. L. 109–162, title XI, § 1198(a)][/us/pl/109/162/s1198/a], Jan. 5, 2006, [119 Stat. 3132][/us/stat/119/3132].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139][/us/pl/88/139], § 1, Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248]; [Pub. L. 109–63][/us/pl/109/63], § 2(b), Sept. 9, 2005, [119 Stat. 1994][/us/stat/119/1994]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1198(a), Jan. 5, 2006, [119 Stat. 3132][/us/stat/119/3132].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 15 ([Mar. 3, 1911, ch. 231, § 11][/us/act/1911-03-03/ch231/s11], [36 Stat. 1089][/us/stat/36/1089]).
+    Based on title 28, U.S.C., 1940 ed., § 15 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 11, [36 Stat. 1089][/us/stat/36/1089]).
 
     Section was rewritten to include provision that notice of special terms should conform to rules approved by the judicial council of the circuit, thus insuring a uniform practice among the courts for convening special terms.
 
@@ -88,13 +88,13 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F897
-[/us/pl/88/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs1
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 [/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
-[/us/pl/109/63/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F63%2Fs2%2Fb
+[/us/pl/109/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F63
 [/us/stat/119/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1994
-[/us/pl/109/162/s1198/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1198%2Fa
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3132
-[/us/act/1911-03-03/ch231/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs11
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1089
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F63

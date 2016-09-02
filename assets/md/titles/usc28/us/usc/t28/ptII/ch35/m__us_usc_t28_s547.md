@@ -27,7 +27,7 @@
 
     (5) make such reports as the Attorney General may direct.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618].)
 
 <table>
 
@@ -87,7 +87,7 @@ Statutes at Large  </td>
 
  __1948__  __Act__ 
 
-    Prior section 507.—Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of [section 305e of title 25][/us/usc/t25/s305e], U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§ 485, 486, 487, 488, 489 (R.S. §§ 362, 363, 373, 374, 377, 379–381, 771–775, 838; [Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 241][/us/stat/19/241]; [Apr. 9, 1910, ch. 152][/us/act/1910-04-09/ch152], [36 Stat. 294][/us/stat/36/294]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [May 10, 1934, ch. 277, § 512][/us/act/1934-05-10/ch277/s512], [48 Stat. 758][/us/stat/48/758]; [Aug. 27, 1935, ch. 748, § 6][/us/act/1935-08-27/ch748/s6], [49 Stat. 893][/us/stat/49/893]).
+    Prior section 507.—Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of [section 305e of title 25][/us/usc/t25/s305e], U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§ 485, 486, 487, 488, 489 (R.S. §§ 362, 363, 373, 374, 377, 379–381, 771–775, 838; [Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 241][/us/stat/19/241]; [Apr. 9, 1910, ch. 152][/us/act/1910-04-09/ch152], [36 Stat. 294][/us/stat/36/294]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [May 10, 1934, ch. 277][/us/act/1934-05-10/ch277], § 512, [48 Stat. 758][/us/stat/48/758]; [Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 6, [49 Stat. 893][/us/stat/49/893]).
 
     This section consolidates provisions of the sections enumerated above.
 
@@ -121,7 +121,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 547, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912]; Oct. 18, 1962, [Pub. L. 87–845, § 8][/us/pl/87/845/s8], [76A Stat. 699][/us/stat/76A/699], related to powers and duties of marshals, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 569 of this title][/us/usc/t28/s569] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 547, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 912][/us/stat/62/912]; Oct. 18, 1962, [Pub. L. 87–845][/us/pl/87/845], § 8, [76A Stat. 699][/us/stat/76A/699], related to powers and duties of marshals, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 569 of this title][/us/usc/t28/s569] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
 ----------
 
@@ -130,18 +130,18 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F618
 [/us/usc/t25/s305e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305e
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F241
 [/us/act/1910-04-09/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-04-09%2Fch152
 [/us/stat/36/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F294
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
-[/us/act/1934-05-10/ch277/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-10%2Fch277%2Fs512
+[/us/act/1934-05-10/ch277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-10%2Fch277
 [/us/stat/48/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F758
-[/us/act/1935-08-27/ch748/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs6
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F893
 [/us/usc/t5/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs312
 [/us/usc/t25/s305e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305e
@@ -160,9 +160,9 @@ Statutes at Large  </td>
 [/us/usc/t5/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs331
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F912
-[/us/pl/87/845/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs8
+[/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/stat/76A/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76A%2F699
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs569
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 

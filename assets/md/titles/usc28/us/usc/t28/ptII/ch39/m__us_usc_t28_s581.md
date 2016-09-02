@@ -65,7 +65,7 @@
 
     (c) Each United States trustee is subject to removal by the Attorney General.
 
-(Added [Pub. L. 95–598, title II, § 224(a)][/us/pl/95/598/s224/a], Nov. 6, 1978, [92 Stat. 2662][/us/stat/92/2662]; amended [Pub. L. 99–554, title I, § 111(a)][/us/pl/99/554/s111/a]–(c), Oct. 27, 1986, [100 Stat. 3090][/us/stat/100/3090], 3091.)
+(Added [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 224(a), Nov. 6, 1978, [92 Stat. 2662][/us/stat/92/2662]; amended [Pub. L. 99–554, title I][/us/pl/99/554/tI], § 111(a)–(c), Oct. 27, 1986, [100 Stat. 3090][/us/stat/100/3090], 3091.)
 
  __Codification__ 
 
@@ -73,7 +73,7 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–554, § 111(a)][/us/pl/99/554/s111/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
+    1986—Subsec. (a). [Pub. L. 99–554][/us/pl/99/554], § 111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
 
     “(1) District of Maine, District of New Hampshire, District of Massachusetts, and District of Rhode Island.
 
@@ -95,13 +95,13 @@
 
     “(10) District of Colorado and District of Kansas.”
 
-    Subsec. (b). [Pub. L. 99–554, § 111(b)][/us/pl/99/554/s111/b], substituted “five years” for “seven years” and “office” for “Office”.
+    Subsec. (b). [Pub. L. 99–554][/us/pl/99/554], § 111(b), substituted “five years” for “seven years” and “office” for “Office”.
 
-    Subsec. (c). [Pub. L. 99–554, § 111(c)][/us/pl/99/554/s111/c], struck out “for cause” after “removal”.
+    Subsec. (c). [Pub. L. 99–554][/us/pl/99/554], § 111(c), struck out “for cause” after “removal”.
 
  __Effective Date of 1986 Amendment; Transition and Administrative Provisions__ 
 
-[Pub. L. 99–554, title III][/us/pl/99/554], Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118], as amended by [Pub. L. 101–650, title III, § 317(a)][/us/pl/101/650/s317/a], (c), Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], 5116; [Pub. L. 103–65, § 1][/us/pl/103/65/s1], Aug. 6, 1993, [107 Stat. 311][/us/stat/107/311]; [Pub. L. 106–518, title V, § 501][/us/pl/106/518/s501], Nov. 13, 2000, [114 Stat. 2421][/us/stat/114/2421]; [Pub. L. 109–8, title X, § 1001(c)][/us/pl/109/8/s1001/c], Apr. 20, 2005, [119 Stat. 186][/us/stat/119/186], provided that:
+[Pub. L. 99–554, title III][/us/pl/99/554/tIII], Oct. 27, 1986, [100 Stat. 3118][/us/stat/100/3118], as amended by [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 317(a), (c), Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], 5116; [Pub. L. 103–65][/us/pl/103/65], § 1, Aug. 6, 1993, [107 Stat. 311][/us/stat/107/311]; [Pub. L. 106–518, title V][/us/pl/106/518/tV], § 501, Nov. 13, 2000, [114 Stat. 2421][/us/stat/114/2421]; [Pub. L. 109–8, title X][/us/pl/109/8/tX], § 1001(c), Apr. 20, 2005, [119 Stat. 186][/us/stat/119/186], provided that:
 
 > “SEC. 301. __INCUMBENT UNITED STATES TRUSTEES.__ 
 
@@ -549,13 +549,13 @@
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–554, § 1][/us/pl/99/554/s1], Oct. 27, 1986, [100 Stat. 3088][/us/stat/100/3088], provided: 
+[Pub. L. 99–554][/us/pl/99/554], § 1, Oct. 27, 1986, [100 Stat. 3088][/us/stat/100/3088], provided: 
 
 > “That this Act \[enacting [section 589a of this title][/us/usc/t28/s589a] and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and [section 589 of this title][/us/usc/t28/s589], amending provisions set out as notes preceding this section and under [section 152 of this title][/us/usc/t28/s152], and repealing provisions set out as a note preceding this section\] may be cited as the ‘Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
 
  __Bankruptcy Crimes__ 
 
-[Pub. L. 109–162, title XI, § 1175][/us/pl/109/162/s1175], Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125], provided that: 
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1175, Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125], provided that: 
 
 > “The Director of the Executive Office for United States Trustees shall prepare an annual report to the Congress detailing—
 
@@ -574,25 +574,25 @@
 ----------
 ----------
 
-[/us/pl/95/598/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs224%2Fa
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2662
-[/us/pl/99/554/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs111%2Fa
+[/us/pl/99/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtI
 [/us/stat/100/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3090
 [/us/pl/95/598/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs408%2Fc
 [/us/pl/99/554/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs307%2Fb
 [/us/usc/t28/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581
-[/us/pl/99/554/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs111%2Fa
-[/us/pl/99/554/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs111%2Fb
-[/us/pl/99/554/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs111%2Fc
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
+[/us/pl/99/554/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtIII
 [/us/stat/100/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3118
-[/us/pl/101/650/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs317%2Fa
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5115
-[/us/pl/103/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F65%2Fs1
+[/us/pl/103/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F65
 [/us/stat/107/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F311
-[/us/pl/106/518/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs501
+[/us/pl/106/518/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtV
 [/us/stat/114/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2421
-[/us/pl/109/8/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1001%2Fc
+[/us/pl/109/8/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtX
 [/us/stat/119/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F186
 [/us/usc/t28/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581%2Fa
 [/us/usc/t28/s581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs581%2Fb
@@ -654,12 +654,12 @@
 [/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/pl/95/598/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fc
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/99/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs1
+[/us/pl/99/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554
 [/us/stat/100/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3088
 [/us/usc/t28/s589a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs589a
 [/us/usc/t28/s589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs589
 [/us/usc/t28/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs152
-[/us/pl/109/162/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1175
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3125
 
 

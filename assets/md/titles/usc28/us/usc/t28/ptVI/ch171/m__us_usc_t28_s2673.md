@@ -21,11 +21,11 @@
 
  __Repeal__ 
 
-    [Pub. L. 89–348, § 1(1)][/us/pl/89/348/s1/1], Nov. 8, 1965, [79 Stat. 1310][/us/stat/79/1310], repealed the requirement that an annual report to Congress be made of the administrative adjustment of tort claims of $2,500 or less, stating the name of each claimant, the amount claimed, the amount awarded, and a brief description of the claim.
+    [Pub. L. 89–348][/us/pl/89/348], § 1(1), Nov. 8, 1965, [79 Stat. 1310][/us/stat/79/1310], repealed the requirement that an annual report to Congress be made of the administrative adjustment of tort claims of $2,500 or less, stating the name of each claimant, the amount claimed, the amount awarded, and a brief description of the claim.
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 922 ([Aug. 2, 1946, ch. 753, § 404][/us/act/1946-08-02/ch753/s404], [60 Stat. 843][/us/stat/60/843]).
+    Based on title 28, U.S.C., 1940 ed., § 922 ([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 404, [60 Stat. 843][/us/stat/60/843]).
 
     Changes were made in phraseology.
 
@@ -39,9 +39,9 @@
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F983
-[/us/pl/89/348/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348%2Fs1%2F1
+[/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/stat/79/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1310
-[/us/act/1946-08-02/ch753/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs404
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F843
 
 

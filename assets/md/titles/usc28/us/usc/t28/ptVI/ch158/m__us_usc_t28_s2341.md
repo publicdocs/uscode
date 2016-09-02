@@ -35,7 +35,7 @@
 
         (E) the Board, when the order was entered by the Surface Transportation Board.
 
-(Added [Pub. L. 89–554, § 4(e)][/us/pl/89/554/s4/e], Sept. 6, 1966, [80 Stat. 622][/us/stat/80/622]; amended [Pub. L. 93–584, § 3][/us/pl/93/584/s3], Jan. 2, 1975, [88 Stat. 1917][/us/stat/88/1917]; [Pub. L. 100–430, § 11(b)][/us/pl/100/430/s11/b], Sept. 13, 1988, [102 Stat. 1635][/us/stat/102/1635]; [Pub. L. 102–365, § 5(c)(1)][/us/pl/102/365/s5/c/1], Sept. 3, 1992, [106 Stat. 975][/us/stat/106/975]; [Pub. L. 104–88, title III, § 305(d)(1)][/us/pl/104/88/s305/d/1]–(4), Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(e), Sept. 6, 1966, [80 Stat. 622][/us/stat/80/622]; amended [Pub. L. 93–584][/us/pl/93/584], § 3, Jan. 2, 1975, [88 Stat. 1917][/us/stat/88/1917]; [Pub. L. 100–430][/us/pl/100/430], § 11(b), Sept. 13, 1988, [102 Stat. 1635][/us/stat/102/1635]; [Pub. L. 102–365][/us/pl/102/365], § 5(c)(1), Sept. 3, 1992, [106 Stat. 975][/us/stat/106/975]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 305(d)(1)–(4), Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945].)
 
 <table>
 
@@ -109,9 +109,9 @@ Aug. 30, 1954, ch. 1073, § 2(a), 68 Stat. 961.  </td>
 
  __Amendments__ 
 
-    1995—Par. (3)(A). [Pub. L. 104–88, § 305(d)(1)][/us/pl/104/88/s305/d/1], struck out “the Interstate Commerce Commission,” after “Maritime Commission,”.
+    1995—Par. (3)(A). [Pub. L. 104–88][/us/pl/104/88], § 305(d)(1), struck out “the Interstate Commerce Commission,” after “Maritime Commission,”.
 
-    Par. (3)(E). [Pub. L. 104–88, § 305(d)(2)][/us/pl/104/88/s305/d/2]–(4), added subpar. (E).
+    Par. (3)(E). [Pub. L. 104–88][/us/pl/104/88], § 305(d)(2)–(4), added subpar. (E).
 
     1992—Par. (3)(B). [Pub. L. 102–365][/us/pl/102/365] inserted “or the Secretary of Transportation” after “Secretary of Agriculture”.
 
@@ -142,22 +142,22 @@ Aug. 30, 1954, ch. 1073, § 2(a), 68 Stat. 961.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F622
-[/us/pl/93/584/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584%2Fs3
+[/us/pl/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584
 [/us/stat/88/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1917
-[/us/pl/100/430/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs11%2Fb
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1635
-[/us/pl/102/365/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F365%2Fs5%2Fc%2F1
+[/us/pl/102/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F365
 [/us/stat/106/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F975
-[/us/pl/104/88/s305/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs305%2Fd%2F1
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F945
 [/us/usc/t5/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1031
 [/us/stat/64/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1277
 [/us/stat/75/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F840
 [/us/usc/t42/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3612
-[/us/pl/104/88/s305/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs305%2Fd%2F1
-[/us/pl/104/88/s305/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs305%2Fd%2F2
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/102/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F365
 [/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/pl/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584

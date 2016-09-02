@@ -41,7 +41,7 @@
 
     (e) In any proceeding involving assessment or collection of a monetary penalty under section 641(b)(6) or 641(d)(2)(A) of the Tariff Act of 1930, the court may not render judgment in an amount greater than that sought in the initial pleading of the United States, and may render judgment in such lesser amount as shall seem proper and just to the court.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1737][/us/stat/94/1737]; amended [Pub. L. 98–573, title II, § 212(b)(6)][/us/pl/98/573/s212/b/6], Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984]; [Pub. L. 100–449, title IV, § 402(b)][/us/pl/100/449/s402/b], Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 103–182, title IV, § 414(b)][/us/pl/103/182/s414/b], Dec. 8, 1993, [107 Stat. 2147][/us/stat/107/2147].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1737][/us/stat/94/1737]; amended [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 212(b)(6), Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984]; [Pub. L. 100–449, title IV][/us/pl/100/449/tIV], § 402(b), Sept. 28, 1988, [102 Stat. 1884][/us/stat/102/1884]; [Pub. L. 103–182, title IV][/us/pl/103/182/tIV], § 414(b), Dec. 8, 1993, [107 Stat. 2147][/us/stat/107/2147].)
 
  __Amendment of Section__ 
 
@@ -94,13 +94,13 @@
 
 [/us/usc/t28/s1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1583
 [/us/usc/t28/s1581/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1581%2Fh
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1737
-[/us/pl/98/573/s212/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F6
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2984
-[/us/pl/100/449/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs402%2Fb
+[/us/pl/100/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2FtIV
 [/us/stat/102/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1884
-[/us/pl/103/182/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs414%2Fb
+[/us/pl/103/182/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIV
 [/us/stat/107/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2147
 [/us/pl/100/449/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs501%2Fc
 [/us/usc/t19/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371

@@ -17,7 +17,7 @@
 
     Retired judges of the United States are not subject to restrictions as to residence. The place where a retired judge maintains the actual abode in which he customarily lives shall be deemed to be his official station for the purposes of [section 456 of this title][/us/usc/t28/s456]. The place where a judge or magistrate judge recalled under section 155, 375, 636, or 797 of this title maintains the actual abode in which the judge or magistrate judge customarily lives shall be deemed to be the official station of such judge or magistrate judge for purposes of [section 604(a)(7) of this title][/us/usc/t28/s604/a/7].
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 904][/us/stat/62/904]; [Pub. L. 86–312, § 1][/us/pl/86/312/s1], Sept. 21, 1959, [73 Stat. 587][/us/stat/73/587]; [Pub. L. 99–651, title II, § 202(b)][/us/pl/99/651/s202/b], Nov. 14, 1986, [100 Stat. 3648][/us/stat/100/3648]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 904][/us/stat/62/904]; [Pub. L. 86–312][/us/pl/86/312], § 1, Sept. 21, 1959, [73 Stat. 587][/us/stat/73/587]; [Pub. L. 99–651, title II][/us/pl/99/651/tII], § 202(b), Nov. 14, 1986, [100 Stat. 3648][/us/stat/100/3648]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
@@ -52,11 +52,11 @@
 [/us/usc/t28/s604/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604%2Fa%2F7
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F904
-[/us/pl/86/312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F312%2Fs1
+[/us/pl/86/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F312
 [/us/stat/73/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F587
-[/us/pl/99/651/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2Fs202%2Fb
+[/us/pl/99/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2FtII
 [/us/stat/100/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3648
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/act/1938-02-11/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-11%2Fch23
 [/us/stat/52/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F28

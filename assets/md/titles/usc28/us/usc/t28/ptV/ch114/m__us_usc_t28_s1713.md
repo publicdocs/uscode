@@ -17,7 +17,7 @@
 
     The court may approve a proposed settlement under which any class member is obligated to pay sums to class counsel that would result in a net loss to the class member only if the court makes a written finding that nonmonetary benefits to the class member substantially outweigh the monetary loss.
 
-(Added [Pub. L. 109–2, § 3(a)][/us/pl/109/2/s3/a], Feb. 18, 2005, [119 Stat. 7][/us/stat/119/7].)
+(Added [Pub. L. 109–2][/us/pl/109/2], § 3(a), Feb. 18, 2005, [119 Stat. 7][/us/stat/119/7].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/2/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs3%2Fa
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F7
 
 

@@ -29,7 +29,7 @@
 
     (c) If one of the conditions in subsection (b) has occurred, no Federal court thereafter shall have the authority to enter a stay of execution in the case, unless the court of appeals approves the filing of a second or successive application under section 2244(b).
 
-(Added [Pub. L. 104–132, title I, § 107(a)][/us/pl/104/132/s107/a], Apr. 24, 1996, [110 Stat. 1222][/us/stat/110/1222].)
+(Added [Pub. L. 104–132, title I][/us/pl/104/132/tI], § 107(a), Apr. 24, 1996, [110 Stat. 1222][/us/stat/110/1222].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/104/132/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs107%2Fa
+[/us/pl/104/132/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtI
 [/us/stat/110/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1222
 
 

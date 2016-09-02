@@ -19,11 +19,11 @@
 
     Court shall be held at Lincoln, North Platte, and Omaha.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 884][/us/stat/62/884]; [Aug. 9, 1955, ch. 627, § 1][/us/act/1955-08-09/ch627/s1], [69 Stat. 546][/us/stat/69/546].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 884][/us/stat/62/884]; [Aug. 9, 1955, ch. 627][/us/act/1955-08-09/ch627], § 1, [69 Stat. 546][/us/stat/69/546].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 173 ([Mar. 3, 1911, ch. 231, § 93][/us/act/1911-03-03/ch231/s93], [36 Stat. 1118][/us/stat/36/1118]).
+    Based on title 28, U.S.C., 1940 ed., § 173 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 93, [36 Stat. 1118][/us/stat/36/1118]).
 
     Provisions for furnishing rooms and accommodations at the various places for holding court were omitted as obsolete upon advice of Director of the Administrative Office of the United States Courts that Federal accommodations are now available at such places.
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1955 Amendment__ 
 
-[Act Aug. 9, 1955, ch. 627, § 2][/us/act/1955-08-09/ch627/s2], [69 Stat. 546][/us/stat/69/546], provided that: 
+[Act Aug. 9, 1955, ch. 627][/us/act/1955-08-09/ch627], § 2, [69 Stat. 546][/us/stat/69/546], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall take effect on September 1, 1955.”
 
@@ -52,12 +52,12 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F884
-[/us/act/1955-08-09/ch627/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch627%2Fs1
+[/us/act/1955-08-09/ch627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch627
 [/us/stat/69/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F546
-[/us/act/1911-03-03/ch231/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs93
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1118
 [/us/usc/t28/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs751
-[/us/act/1955-08-09/ch627/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch627%2Fs2
+[/us/act/1955-08-09/ch627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch627
 [/us/stat/69/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F546
 
 

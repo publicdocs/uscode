@@ -23,7 +23,7 @@
 
     (3) in a case other than those specified in paragraph (1) or (2), in which venue will be consistent with the interests of justice and the convenience of the parties, having regard to the relief sought by the foreign representative.
 
-(Added [Pub. L. 98–353, title I, § 102(a)][/us/pl/98/353/s102/a], July 10, 1984, [98 Stat. 335][/us/stat/98/335]; amended [Pub. L. 109–8, title VIII, § 802(c)(4)][/us/pl/109/8/s802/c/4], Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 102(a), July 10, 1984, [98 Stat. 335][/us/stat/98/335]; amended [Pub. L. 109–8, title VIII][/us/pl/109/8/tVIII], § 802(c)(4), Apr. 20, 2005, [119 Stat. 146][/us/stat/119/146].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/98/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs102%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F335
-[/us/pl/109/8/s802/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs802%2Fc%2F4
+[/us/pl/109/8/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVIII
 [/us/stat/119/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F146
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/usc/t11/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs304

@@ -17,7 +17,7 @@
 
     The United States Court of Federal Claims shall have jurisdiction of any claim against the United States accruing after August 13, 1946, in favor of any tribe, band, or other identifiable group of American Indians residing within the territorial limits of the United States or Alaska whenever such claim is one arising under the Constitution, laws or treaties of the United States, or Executive orders of the President, or is one which otherwise would be cognizable in the Court of Federal Claims if the claimant were not an Indian tribe, band or group.
 
-(Added [May 24, 1949, ch. 139, § 89(a)][/us/act/1949-05-24/ch139/s89/a], [63 Stat. 102][/us/stat/63/102]; amended [Pub. L. 97–164, title I, § 133(g)][/us/pl/97/164/s133/g], Apr. 2, 1982, [96 Stat. 41][/us/stat/96/41]; [Pub. L. 102–572, title IX, § 902(a)][/us/pl/102/572/s902/a], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 89(a), [63 Stat. 102][/us/stat/63/102]; amended [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 133(g), Apr. 2, 1982, [96 Stat. 41][/us/stat/96/41]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/act/1949-05-24/ch139/s89/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs89%2Fa
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F102
-[/us/pl/97/164/s133/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs133%2Fg
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F41
-[/us/pl/102/572/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/stat/60/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1055
 [/us/usc/t28/s250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs250

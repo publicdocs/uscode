@@ -19,11 +19,11 @@
 
     The affidavit shall state the facts and the reasons for the belief that bias or prejudice exists, and shall be filed not less than ten days before the beginning of the term at which the proceeding is to be heard, or good cause shall be shown for failure to file it within such time. A party may file only one such affidavit in any case. It shall be accompanied by a certificate of counsel of record stating that it is made in good faith.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 898][/us/stat/62/898]; [May 24, 1949, ch. 139, § 65][/us/act/1949-05-24/ch139/s65], [63 Stat. 99][/us/stat/63/99].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 898][/us/stat/62/898]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 65, [63 Stat. 99][/us/stat/63/99].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 25 ([Mar. 3, 1911, ch. 231, § 21][/us/act/1911-03-03/ch231/s21], [36 Stat. 1090][/us/stat/36/1090]).
+    Based on title 28, U.S.C., 1940 ed., § 25 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 21, [36 Stat. 1090][/us/stat/36/1090]).
 
     The provision that the same procedure shall be had when the presiding judge disqualifies himself was omitted as unnecessary. (See section 291 et seq. and [section 455 of this title][/us/usc/t28/s455].)
 
@@ -52,9 +52,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F898
-[/us/act/1949-05-24/ch139/s65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs65
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F99
-[/us/act/1911-03-03/ch231/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs21
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1090
 [/us/usc/t28/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs455
 [/us/usc/t28/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs144

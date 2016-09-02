@@ -21,11 +21,11 @@
 
     (c) The district courts shall not have jurisdiction under this section of any matter within the exclusive jurisdiction of the Court of International Trade under chapter 95 of this title.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 931][/us/stat/62/931]; [Pub. L. 95–486, § 9(a)][/us/pl/95/486/s9/a], Oct. 20, 1978, [92 Stat. 1633][/us/stat/92/1633]; [Pub. L. 96–417, title V, § 505][/us/pl/96/417/s505], Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743]; [Pub. L. 97–449, § 5(f)][/us/pl/97/449/s5/f], Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 104–88, title III, § 305(a)(3)][/us/pl/104/88/s305/a/3], Dec. 29, 1995, [109 Stat. 944][/us/stat/109/944].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 931][/us/stat/62/931]; [Pub. L. 95–486][/us/pl/95/486], § 9(a), Oct. 20, 1978, [92 Stat. 1633][/us/stat/92/1633]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 505, Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743]; [Pub. L. 97–449][/us/pl/97/449], § 5(f), Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 305(a)(3), Dec. 29, 1995, [109 Stat. 944][/us/stat/109/944].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 41(8), (23) ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], pars. 8, 23, [36 Stat. 1092][/us/stat/36/1092], 1093; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], [38 Stat. 219][/us/stat/38/219]).
+    Based on title 28, U.S.C., 1940 ed., § 41(8), (23) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, pars. 8, 23, [36 Stat. 1092][/us/stat/36/1092], 1093; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], [38 Stat. 219][/us/stat/38/219]).
 
     Words “civil action” were substituted for “suits”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -58,15 +58,15 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F931
-[/us/pl/95/486/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486%2Fs9%2Fa
+[/us/pl/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486
 [/us/stat/92/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1633
-[/us/pl/96/417/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs505
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1743
-[/us/pl/97/449/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs5%2Ff
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2442
-[/us/pl/104/88/s305/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs305%2Fa%2F3
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F944
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1092
 [/us/act/1913-10-22/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-22%2Fch32
 [/us/stat/38/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F219

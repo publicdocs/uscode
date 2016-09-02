@@ -131,15 +131,15 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–690, title VII, § 7608(a)(3)][/us/pl/100/690/s7608/a/3], Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514], substituted in chapter heading “Marshals Service” for “Marshals” and amended chapter analysis generally, substituting items 561 to 569 for former items 561 to 576.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7608(a)(3), Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514], substituted in chapter heading “Marshals Service” for “Marshals” and amended chapter analysis generally, substituting items 561 to 569 for former items 561 to 576.
 
-    1984—[Pub. L. 98–473, title II, § 1211(c)][/us/pl/98/473/s1211/c], Oct. 12, 1984, [98 Stat. 2163][/us/stat/98/2163], added item 576.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1211(c), Oct. 12, 1984, [98 Stat. 2163][/us/stat/98/2163], added item 576.
 
-    1982—[Pub. L. 97–258, § 2(g)(3)(A)][/us/pl/97/258/s2/g/3/A], Sept. 13, 1982, [96 Stat. 1060][/us/stat/96/1060], added item 572a.
+    1982—[Pub. L. 97–258][/us/pl/97/258], § 2(g)(3)(A), Sept. 13, 1982, [96 Stat. 1060][/us/stat/96/1060], added item 572a.
 
-    1972—[Pub. L. 92–310, title II, § 206(a)(2)][/us/pl/92/310/s206/a/2], June 6, 1972, [86 Stat. 203][/us/stat/86/203], struck out item 564 “Bond”.
+    1972—[Pub. L. 92–310, title II][/us/pl/92/310/tII], § 206(a)(2), June 6, 1972, [86 Stat. 203][/us/stat/86/203], struck out item 564 “Bond”.
 
-    1966—[Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 619][/us/stat/80/619], added chapter 37 and items 561 to 575.
+    1966—[Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 619][/us/stat/80/619], added chapter 37 and items 561 to 575.
 
 ----------
 
@@ -148,15 +148,15 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7608/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F3
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4514
-[/us/pl/98/473/s1211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1211%2Fc
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2163
-[/us/pl/97/258/s2/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fg%2F3%2FA
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1060
-[/us/pl/92/310/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs206%2Fa%2F2
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F619
 
 

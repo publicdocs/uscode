@@ -57,11 +57,11 @@ Western District
 
     Court for the Southern Division shall be held at Springfield.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 884][/us/stat/62/884]; [Pub. L. 87–461][/us/pl/87/461], May 31, 1962, [76 Stat. 85][/us/stat/76/85]; [Pub. L. 96–462, § 4(a)][/us/pl/96/462/s4/a], Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053]; [Pub. L. 112–188, § 2][/us/pl/112/188/s2], Oct. 5, 2012, [126 Stat. 1433][/us/stat/126/1433].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 884][/us/stat/62/884]; [Pub. L. 87–461][/us/pl/87/461], May 31, 1962, [76 Stat. 85][/us/stat/76/85]; [Pub. L. 96–462][/us/pl/96/462], § 4(a), Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053]; [Pub. L. 112–188][/us/pl/112/188], § 2, Oct. 5, 2012, [126 Stat. 1433][/us/stat/126/1433].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 171 ([Mar. 3, 1911, ch. 231, § 91][/us/act/1911-03-03/ch231/s91], [36 Stat. 1117][/us/stat/36/1117]; [Dec. 22, 1911, ch. 8][/us/act/1911-12-22/ch8], [37 Stat. 51][/us/stat/37/51]).
+    Based on title 28, U.S.C., 1940 ed., § 171 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 91, [36 Stat. 1117][/us/stat/36/1117]; [Dec. 22, 1911, ch. 8][/us/act/1911-12-22/ch8], [37 Stat. 51][/us/stat/37/51]).
 
     Provisions for furnishing rooms and accommodations at Chillicothe were omitted as obsolete upon advice of Director of the Administrative Office of the United States Courts that Federal accommodations are now available in such place.
 
@@ -73,13 +73,13 @@ Western District
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–188, § 2(1)][/us/pl/112/188/s2/1], struck out “Iron,” after “Gasconade,” and “Saint Genevieve,” after “Saint Francois,”.
+    2012—Subsec. (a)(1). [Pub. L. 112–188][/us/pl/112/188], § 2(1), struck out “Iron,” after “Gasconade,” and “Saint Genevieve,” after “Saint Francois,”.
 
-    Subsec. (a)(3). [Pub. L. 112–188, § 2(2)][/us/pl/112/188/s2/2], inserted “Iron,” after “Dunklin,” and “Saint Genevieve,” after “Ripley,”.
+    Subsec. (a)(3). [Pub. L. 112–188][/us/pl/112/188], § 2(2), inserted “Iron,” after “Dunklin,” and “Saint Genevieve,” after “Ripley,”.
 
-    1980—Subsec. (a)(1). [Pub. L. 96–462, § 4(a)(1)][/us/pl/96/462/s4/a/1], struck out references to Audrain and Montgomery counties in the list of counties comprising the Eastern Division of the Eastern District.
+    1980—Subsec. (a)(1). [Pub. L. 96–462][/us/pl/96/462], § 4(a)(1), struck out references to Audrain and Montgomery counties in the list of counties comprising the Eastern Division of the Eastern District.
 
-    Subsec. (a)(2). [Pub. L. 96–462, § 4(a)(2)][/us/pl/96/462/s4/a/2], added Audrain and Montgomery counties to the Northern Division of the Eastern District.
+    Subsec. (a)(2). [Pub. L. 96–462][/us/pl/96/462], § 4(a)(2), added Audrain and Montgomery counties to the Northern Division of the Eastern District.
 
     1962—Subsec. (b). [Pub. L. 87–461][/us/pl/87/461] transferred the counties of Caldwell, Grundy, Livingston, Mercer, Putnam, and Sullivan from the Western Division to the Saint Joseph Division, and omitted Chillicothe as a place for holding court.
 
@@ -91,7 +91,7 @@ Western District
 
     Amendment by [Pub. L. 96–462][/us/pl/96/462] effective Oct. 1, 1981, but not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on Oct. 1, 1981, see [section 7 of Pub. L. 96–462][/us/pl/96/462/s7], set out as a note under [section 84 of this title][/us/usc/t28/s84].
 
-[Pub. L. 96–462, § 4(b)][/us/pl/96/462/s4/b], Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053], provided that: 
+[Pub. L. 96–462][/us/pl/96/462], § 4(b), Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not apply to any action commenced before the effective date of such amendments \[Oct. 1, 1981\] and pending in the United States District Court for the Eastern District of Missouri on such date.”
 
@@ -106,18 +106,18 @@ Western District
 [/us/stat/62/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F884
 [/us/pl/87/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F461
 [/us/stat/76/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F85
-[/us/pl/96/462/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs4%2Fa
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/stat/94/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2053
-[/us/pl/112/188/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs2
+[/us/pl/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188
 [/us/stat/126/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1433
-[/us/act/1911-03-03/ch231/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs91
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1117
 [/us/act/1911-12-22/ch8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-12-22%2Fch8
 [/us/stat/37/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F51
-[/us/pl/112/188/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs2%2F1
-[/us/pl/112/188/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs2%2F2
-[/us/pl/96/462/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs4%2Fa%2F1
-[/us/pl/96/462/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs4%2Fa%2F2
+[/us/pl/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188
+[/us/pl/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/pl/87/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F461
 [/us/pl/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188
 [/us/pl/112/188/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs4
@@ -125,7 +125,7 @@ Western District
 [/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/pl/96/462/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs7
 [/us/usc/t28/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs84
-[/us/pl/96/462/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs4%2Fb
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/stat/94/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2053
 
 

@@ -37,39 +37,39 @@
 
     (h) The Judicial Conference of the United States may promulgate regulations to implement this section.
 
-(Added [Pub. L. 99–651, title II, § 201(b)(1)][/us/pl/99/651/s201/b/1], Nov. 14, 1986, [100 Stat. 3647][/us/stat/100/3647]; amended [Pub. L. 100–659, § 4(b)][/us/pl/100/659/s4/b], Nov. 15, 1988, [102 Stat. 3918][/us/stat/102/3918]; [Pub. L. 101–650, title III][/us/pl/101/650], §§ 321, 325(b)(2), Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], 5121; [Pub. L. 102–572, title IX, § 904(a)][/us/pl/102/572/s904/a], Oct. 29, 1992, [106 Stat. 4517][/us/stat/106/4517]; [Pub. L. 107–273, div. C, title I, § 11043(d)][/us/pl/107/273/s11043/d], Nov. 2, 2002, [116 Stat. 1855][/us/stat/116/1855].)
+(Added [Pub. L. 99–651, title II][/us/pl/99/651/tII], § 201(b)(1), Nov. 14, 1986, [100 Stat. 3647][/us/stat/100/3647]; amended [Pub. L. 100–659][/us/pl/100/659], § 4(b), Nov. 15, 1988, [102 Stat. 3918][/us/stat/102/3918]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], §§ 321, 325(b)(2), Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], 5121; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 904(a), Oct. 29, 1992, [106 Stat. 4517][/us/stat/106/4517]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11043(d), Nov. 2, 2002, [116 Stat. 1855][/us/stat/116/1855].)
 
  __Prior Provisions__ 
 
-    A prior section 375, added [Aug. 28, 1954, ch. 1053, § 1][/us/act/1954-08-28/ch1053/s1], [68 Stat. 918][/us/stat/68/918]; amended [Aug. 3, 1956, ch. 944, § 1(b)][/us/act/1956-08-03/ch944/s1/b], [70 Stat. 1021][/us/stat/70/1021]; Aug. 22, 1972, [Pub. L. 92–397, § 1][/us/pl/92/397/s1], [86 Stat. 579][/us/stat/86/579], provided for annuities to widows of justices, prior to repeal by [Pub. L. 96–504, § 5][/us/pl/96/504/s5], Dec. 5, 1980, [94 Stat. 2742][/us/stat/94/2742].
+    A prior section 375, added [Aug. 28, 1954, ch. 1053][/us/act/1954-08-28/ch1053], § 1, [68 Stat. 918][/us/stat/68/918]; amended [Aug. 3, 1956, ch. 944][/us/act/1956-08-03/ch944], § 1(b), [70 Stat. 1021][/us/stat/70/1021]; Aug. 22, 1972, [Pub. L. 92–397][/us/pl/92/397], § 1, [86 Stat. 579][/us/stat/86/579], provided for annuities to widows of justices, prior to repeal by [Pub. L. 96–504][/us/pl/96/504], § 5, Dec. 5, 1980, [94 Stat. 2742][/us/stat/94/2742].
 
  __Amendments__ 
 
     2002—Subsec. (d). [Pub. L. 107–273][/us/pl/107/273] substituted “chapter 16” for “section 372(c)”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–572, § 904(a)(1)][/us/pl/102/572/s904/a/1], struck out “, a judge of the Claims Court,” after “A bankruptcy judge” and “, judge of the Claims Court,” after “a bankruptcy judge”.
+    1992—Subsec. (a)(1). [Pub. L. 102–572][/us/pl/102/572], § 904(a)(1), struck out “, a judge of the Claims Court,” after “A bankruptcy judge” and “, judge of the Claims Court,” after “a bankruptcy judge”.
 
-    Subsec. (a)(2). [Pub. L. 102–572, § 904(a)(2)][/us/pl/102/572/s904/a/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1) of this subsection, a certification may be made—
+    Subsec. (a)(2). [Pub. L. 102–572][/us/pl/102/572], § 904(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1) of this subsection, a certification may be made—
 
     “(A) in the case of a bankruptcy judge or a United States magistrate, by the judicial council of the circuit in which the official duty station of the judge or magistrate at the time of retirement was located; and
 
     “(B) in the case of a judge of the Claims Court, by the chief judge of the United States Claims Court.”
 
-    Subsec. (a)(3). [Pub. L. 102–572, § 904(a)(3)][/us/pl/102/572/s904/a/3], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this section—
+    Subsec. (a)(3). [Pub. L. 102–572][/us/pl/102/572], § 904(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this section—
 
     “(A) the term ‘bankruptcy judge’ means a bankruptcy judge appointed under chapter 6 of this title or serving as a bankruptcy judge on March 31, 1984; and
 
     “(B) the term ‘judge of the Claims Court’ means a judge of the United States Claims Court who is appointed under chapter 7 of this title or who has served under section 167 of the Federal Courts Improvement Act of 1982.”
 
-    Subsec. (f). [Pub. L. 102–572, § 904(a)(4)][/us/pl/102/572/s904/a/4], struck out “, a judge of the Claims Court,” after “bankruptcy judge” and “, a commissioner of the Court of Claims,” after “referee in bankruptcy”.
+    Subsec. (f). [Pub. L. 102–572][/us/pl/102/572], § 904(a)(4), struck out “, a judge of the Claims Court,” after “bankruptcy judge” and “, a commissioner of the Court of Claims,” after “referee in bankruptcy”.
 
     1990—Subsec. (a)(1). [Pub. L. 101–650][/us/pl/101/650] substituted “[section 377 of this title][/us/usc/t28/s377]” for “section 377 of title”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–659, § 4(b)(1)][/us/pl/100/659/s4/b/1], inserted “under the provisions of section 377 of title or” after “has retired”.
+    1988—Subsec. (a)(1). [Pub. L. 100–659][/us/pl/100/659], § 4(b)(1), inserted “under the provisions of section 377 of title or” after “has retired”.
 
-    Subsec. (c). [Pub. L. 100–659, § 4(b)(2)][/us/pl/100/659/s4/b/2], inserted “under the provisions of [section 377 of this title][/us/usc/t28/s377] or” after “annuity provided” and inserted at end “The annuity of a bankruptcy judge or magistrate who completes that 5-year period of service, whose certification is not renewed, and who retired under [section 377 of this title][/us/usc/t28/s377] shall be equal to the salary in effect, at the end of that 5-year period, for the office from which he or she retired.”
+    Subsec. (c). [Pub. L. 100–659][/us/pl/100/659], § 4(b)(2), inserted “under the provisions of [section 377 of this title][/us/usc/t28/s377] or” after “annuity provided” and inserted at end “The annuity of a bankruptcy judge or magistrate who completes that 5-year period of service, whose certification is not renewed, and who retired under [section 377 of this title][/us/usc/t28/s377] shall be equal to the salary in effect, at the end of that 5-year period, for the office from which he or she retired.”
 
-    Subsec. (g). [Pub. L. 100–659, § 4(b)(3)][/us/pl/100/659/s4/b/3], inserted “who retired under the applicable provisions of title 5” after “section”.
+    Subsec. (g). [Pub. L. 100–659][/us/pl/100/659], § 4(b)(3), inserted “who retired under the applicable provisions of title 5” after “section”.
 
  __Change of Name__ 
 
@@ -98,36 +98,36 @@
 [/us/usc/t28/s371/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fc
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
-[/us/pl/99/651/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2Fs201%2Fb%2F1
+[/us/pl/99/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2FtII
 [/us/stat/100/3647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3647
-[/us/pl/100/659/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs4%2Fb
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/stat/102/3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3918
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/102/572/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs904%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4517
-[/us/pl/107/273/s11043/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Fd
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1855
-[/us/act/1954-08-28/ch1053/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1053%2Fs1
+[/us/act/1954-08-28/ch1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-28%2Fch1053
 [/us/stat/68/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F918
-[/us/act/1956-08-03/ch944/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944%2Fs1%2Fb
+[/us/act/1956-08-03/ch944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944
 [/us/stat/70/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1021
-[/us/pl/92/397/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F397%2Fs1
+[/us/pl/92/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F397
 [/us/stat/86/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F579
-[/us/pl/96/504/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F504%2Fs5
+[/us/pl/96/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F504
 [/us/stat/94/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2742
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/102/572/s904/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs904%2Fa%2F1
-[/us/pl/102/572/s904/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs904%2Fa%2F2
-[/us/pl/102/572/s904/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs904%2Fa%2F3
-[/us/pl/102/572/s904/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs904%2Fa%2F4
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
-[/us/pl/100/659/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs4%2Fb%2F1
-[/us/pl/100/659/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs4%2Fb%2F2
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
-[/us/pl/100/659/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs4%2Fb%2F3
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

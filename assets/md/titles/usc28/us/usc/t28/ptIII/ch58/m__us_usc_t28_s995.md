@@ -81,25 +81,25 @@
 
     (e) Except as otherwise provided by law, the Commission shall maintain and make available for public inspection a record of the final vote of each member on any action taken by it.
 
-(Added [Pub. L. 98–473, title II, § 217(a)][/us/pl/98/473/s217/a], Oct. 12, 1984, [98 Stat. 2024][/us/stat/98/2024]; amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7104, 7105, 7106(b), Nov. 18, 1988, [102 Stat. 4418][/us/stat/102/4418]; [Pub. L. 101–650, title III, § 325(b)(5)][/us/pl/101/650/s325/b/5], Dec. 1, 1990, [104 Stat. 5121][/us/stat/104/5121]; [Pub. L. 103–322, title XXVIII, § 280005(c)(1)][/us/pl/103/322/s280005/c/1], Sept. 13, 1994, [108 Stat. 2097][/us/stat/108/2097]; [Pub. L. 110–177, title V, § 501(a)][/us/pl/110/177/s501/a], Jan. 7, 2008, [121 Stat. 2541][/us/stat/121/2541].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 217(a), Oct. 12, 1984, [98 Stat. 2024][/us/stat/98/2024]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7104, 7105, 7106(b), Nov. 18, 1988, [102 Stat. 4418][/us/stat/102/4418]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 325(b)(5), Dec. 1, 1990, [104 Stat. 5121][/us/stat/104/5121]; [Pub. L. 103–322, title XXVIII][/us/pl/103/322/tXXVIII], § 280005(c)(1), Sept. 13, 1994, [108 Stat. 2097][/us/stat/108/2097]; [Pub. L. 110–177, title V][/us/pl/110/177/tV], § 501(a), Jan. 7, 2008, [121 Stat. 2541][/us/stat/121/2541].)
 
  __Amendments__ 
 
-    2008—Subsec. (f). [Pub. L. 110–177, § 501][/us/pl/110/177/s501], temporarily added subsec. (f). See Termination Date of 2008 Amendment note below.
+    2008—Subsec. (f). [Pub. L. 110–177][/us/pl/110/177], § 501, temporarily added subsec. (f). See Termination Date of 2008 Amendment note below.
 
     1994—Subsec. (a)(3). [Pub. L. 103–322][/us/pl/103/322] substituted “Chair” for “Chairman”.
 
     1990—Subsec. (a)(22). [Pub. L. 101–650][/us/pl/101/650] struck out “and” after semicolon at end.
 
-    1988—Subsec. (a)(2). [Pub. L. 100–690, § 7105][/us/pl/100/690/s7105], substituted “Level 6 of the Senior Executive Service Schedule ([5 U.S.C. 5382][/us/usc/t5/s5382])” for “grade 18 of the General Schedule pay rates ([5 U.S.C. 5332][/us/usc/t5/s5332])”.
+    1988—Subsec. (a)(2). [Pub. L. 100–690][/us/pl/100/690], § 7105, substituted “Level 6 of the Senior Executive Service Schedule ([5 U.S.C. 5382][/us/usc/t5/s5382])” for “grade 18 of the General Schedule pay rates ([5 U.S.C. 5332][/us/usc/t5/s5332])”.
 
-    Subsec. (a)(23). [Pub. L. 100–690, § 7104][/us/pl/100/690/s7104], added par. (23).
+    Subsec. (a)(23). [Pub. L. 100–690][/us/pl/100/690], § 7104, added par. (23).
 
-    Subsec. (a)(24). [Pub. L. 100–690, § 7106(b)][/us/pl/100/690/s7106/b], added par. (24).
+    Subsec. (a)(24). [Pub. L. 100–690][/us/pl/100/690], § 7106(b), added par. (24).
 
  __Termination Date of 2008 Amendment__ 
 
-[Pub. L. 110–177, title V, § 501(b)][/us/pl/110/177/s501/b], Jan. 7, 2008, [121 Stat. 2542][/us/stat/121/2542], provided that: 
+[Pub. L. 110–177, title V][/us/pl/110/177/tV], § 501(b), Jan. 7, 2008, [121 Stat. 2542][/us/stat/121/2542], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall cease to have force and effect on September 30, 2010.”
 
@@ -117,25 +117,25 @@
 [/us/usc/t18/s3553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553%2Fa
 [/us/usc/t18/s3553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553%2Fa
 [/us/usc/t18/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202%2Fa
-[/us/pl/98/473/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs217%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2024
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4418
-[/us/pl/101/650/s325/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs325%2Fb%2F5
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5121
-[/us/pl/103/322/s280005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fc%2F1
+[/us/pl/103/322/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVIII
 [/us/stat/108/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2097
-[/us/pl/110/177/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs501%2Fa
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2541
-[/us/pl/110/177/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs501
+[/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
-[/us/pl/100/690/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7105
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/100/690/s7104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7104
-[/us/pl/100/690/s7106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7106%2Fb
-[/us/pl/110/177/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs501%2Fb
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2542
 
 

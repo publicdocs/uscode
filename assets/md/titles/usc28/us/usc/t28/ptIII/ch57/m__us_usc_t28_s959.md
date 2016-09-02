@@ -19,7 +19,7 @@
 
     (b) Except as provided in [section 1166 of title 11][/us/usc/t11/s1166], a trustee, receiver or manager appointed in any cause pending in any court of the United States, including a debtor in possession, shall manage and operate the property in his possession as such trustee, receiver or manager according to the requirements of the valid laws of the State in which such property is situated, in the same manner that the owner or possessor thereof would be bound to do if in possession thereof.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 926][/us/stat/62/926]; [Pub. L. 95–598, title II, § 235][/us/pl/95/598/s235], Nov. 6, 1978, [92 Stat. 2667][/us/stat/92/2667].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 926][/us/stat/62/926]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 235, Nov. 6, 1978, [92 Stat. 2667][/us/stat/92/2667].)
 
  __Historical and Revision Notes__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t11/s1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1166
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F926
-[/us/pl/95/598/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs235
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2667
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1104

@@ -19,7 +19,7 @@
 
     (b) Under such regulations as the Director shall prescribe with the approval of the conference, the Director shall reimburse part-time magistrate judges for actual expenses necessarily incurred by them in the performance of their duties under this chapter. Such reimbursement may be made, at rates not exceeding those prescribed by such regulations, for expenses incurred by such part-time magistrate judges for clerical and secretarial assistance, stationery, telephone and other communications services, travel, and such other expenses as may be determined to be necessary for the proper performance of the duties of such officers: Provided, however, That no reimbursement shall be made for all or any portion of the expense incurred by such part-time magistrate judges for the procurement of office space.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 917][/us/stat/62/917]; [Pub. L. 90–578, title I, § 101][/us/pl/90/578/s101], Oct. 17, 1968, [82 Stat. 1112][/us/stat/82/1112]; [Pub. L. 96–82, § 8(a)][/us/pl/96/82/s8/a], Oct. 10, 1979, [93 Stat. 646][/us/stat/93/646]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 917][/us/stat/62/917]; [Pub. L. 90–578, title I][/us/pl/90/578/tI], § 101, Oct. 17, 1968, [82 Stat. 1112][/us/stat/82/1112]; [Pub. L. 96–82][/us/pl/96/82], § 8(a), Oct. 10, 1979, [93 Stat. 646][/us/stat/93/646]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
@@ -54,11 +54,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F917
-[/us/pl/90/578/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs101
+[/us/pl/90/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtI
 [/us/stat/82/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1112
-[/us/pl/96/82/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F82%2Fs8%2Fa
+[/us/pl/96/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F82
 [/us/stat/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F646
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F184

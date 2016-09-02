@@ -17,7 +17,7 @@
 
     Except as expressly provided in this chapter, nothing in this chapter shall be construed to affect any other provision of this title, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the Federal Rules of Appellate Procedure, or the Federal Rules of Evidence.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11042(a)][/us/pl/107/273/s11042/a], Nov. 2, 2002, [116 Stat. 1854][/us/stat/116/1854].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11042(a), Nov. 2, 2002, [116 Stat. 1854][/us/stat/116/1854].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11042%2Fa
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1854
 
 

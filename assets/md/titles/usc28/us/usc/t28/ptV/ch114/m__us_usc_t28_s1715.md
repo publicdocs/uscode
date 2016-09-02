@@ -95,7 +95,7 @@
 
     Nothing in this section shall be construed to expand the authority of, or impose any obligations, duties, or responsibilities upon, Federal or State officials.
 
-(Added [Pub. L. 109–2, § 3(a)][/us/pl/109/2/s3/a], Feb. 18, 2005, [119 Stat. 7][/us/stat/119/7].)
+(Added [Pub. L. 109–2][/us/pl/109/2], § 3(a), Feb. 18, 2005, [119 Stat. 7][/us/stat/119/7].)
 
 ----------
 
@@ -107,7 +107,7 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/109/2/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs3%2Fa
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F7
 
 

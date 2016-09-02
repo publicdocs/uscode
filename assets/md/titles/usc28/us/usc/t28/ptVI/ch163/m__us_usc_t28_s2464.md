@@ -25,7 +25,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 754 (R.S. § 941; [Mar. 3, 1899, ch. 441][/us/act/1899-03-03/ch441], [30 Stat. 1354][/us/stat/30/1354]; [Aug. 3, 1935, ch. 431, § 3][/us/act/1935-08-03/ch431/s3], [49 Stat. 513][/us/stat/49/513]).
+    Based on title 28, U.S.C., 1940 ed., § 754 (R.S. § 941; [Mar. 3, 1899, ch. 441][/us/act/1899-03-03/ch441], [30 Stat. 1354][/us/stat/30/1354]; [Aug. 3, 1935, ch. 431][/us/act/1935-08-03/ch431], § 3, [49 Stat. 513][/us/stat/49/513]).
 
     Changes were made in phraseology.
 
@@ -44,7 +44,7 @@
 [/us/stat/62/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F974
 [/us/act/1899-03-03/ch441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch441
 [/us/stat/30/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1354
-[/us/act/1935-08-03/ch431/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-03%2Fch431%2Fs3
+[/us/act/1935-08-03/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-03%2Fch431
 [/us/stat/49/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F513
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

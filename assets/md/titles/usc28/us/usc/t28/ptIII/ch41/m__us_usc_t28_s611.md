@@ -25,33 +25,33 @@
 
     (e) Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by [section 8340 of title 5][/us/usc/t5/s8340].
 
-(Added [Pub. L. 90–219, title II, § 201(a)][/us/pl/90/219/s201/a], Dec. 20, 1967, [81 Stat. 668][/us/stat/81/668]; amended [Pub. L. 100–702, title X][/us/pl/100/702], §§ 1004(a), 1006(a)(1), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665], 4666; [Pub. L. 106–518, title III, § 301(a)][/us/pl/106/518/s301/a], Nov. 13, 2000, [114 Stat. 2416][/us/stat/114/2416].)
+(Added [Pub. L. 90–219, title II][/us/pl/90/219/tII], § 201(a), Dec. 20, 1967, [81 Stat. 668][/us/stat/81/668]; amended [Pub. L. 100–702, title X][/us/pl/100/702/tX], §§ 1004(a), 1006(a)(1), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665], 4666; [Pub. L. 106–518, title III][/us/pl/106/518/tIII], § 301(a), Nov. 13, 2000, [114 Stat. 2416][/us/stat/114/2416].)
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–518, § 301(a)(2)][/us/pl/106/518/s301/a/2], substituted “who has at least fifteen years of service and has” for “who has served at least fifteen years and” in first par. and “who has at least ten years of service,” for “who has served at least ten years,” in second par.
+    2000—Subsec. (b). [Pub. L. 106–518][/us/pl/106/518], § 301(a)(2), substituted “who has at least fifteen years of service and has” for “who has served at least fifteen years and” in first par. and “who has at least ten years of service,” for “who has served at least ten years,” in second par.
 
-    Subsec. (c). [Pub. L. 106–518, § 301(a)(3)][/us/pl/106/518/s301/a/3], substituted “at least fifteen years of service,” for “served at least fifteen years,” and “less than fifteen years of service,” for “served less than fifteen years,”.
+    Subsec. (c). [Pub. L. 106–518][/us/pl/106/518], § 301(a)(3), substituted “at least fifteen years of service,” for “served at least fifteen years,” and “less than fifteen years of service,” for “served less than fifteen years,”.
 
-    Subsec. (d). [Pub. L. 106–518, § 301(a)(1)][/us/pl/106/518/s301/a/1], inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
+    Subsec. (d). [Pub. L. 106–518][/us/pl/106/518], § 301(a)(1), inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
 
-    1988—Subsec. (a). [Pub. L. 100–702, § 1006(a)(1)][/us/pl/100/702/s1006/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director may, by written election filed with the Chief Justice of the United States within six months after the date on which he takes office, waive coverage under subchapter III (relating to civil service retirement) of chapter 83, Title 5, United States Code, and bring himself within the purview of this section. Such waiver and election shall not operate to foreclose to the Director, upon separation from service other than by retirement, such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by [section 8334 of title 5][/us/usc/t5/s8334], United States Code.”
+    1988—Subsec. (a). [Pub. L. 100–702][/us/pl/100/702], § 1006(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director may, by written election filed with the Chief Justice of the United States within six months after the date on which he takes office, waive coverage under subchapter III (relating to civil service retirement) of chapter 83, Title 5, United States Code, and bring himself within the purview of this section. Such waiver and election shall not operate to foreclose to the Director, upon separation from service other than by retirement, such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by [section 8334 of title 5][/us/usc/t5/s8334], United States Code.”
 
-    Subsec. (e). [Pub. L. 100–702, § 1004(a)][/us/pl/100/702/s1004/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–702][/us/pl/100/702], § 1004(a), added subsec. (e).
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–702, title X, § 1004(b)][/us/pl/100/702/s1004/b], Nov. 19, 1988, [102 Stat. 4666][/us/stat/102/4666], provided that: 
+[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1004(b), Nov. 19, 1988, [102 Stat. 4666][/us/stat/102/4666], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 627 of this title][/us/usc/t28/s627]\] shall apply to cost-of-living increases that go into effect on or after the date of enactment of this title \[Nov. 19, 1988\] with respect to any annuity being paid or becoming payable on or after such date.”
 
-[Pub. L. 100–702, title X, § 1006(b)][/us/pl/100/702/s1006/b], Nov. 19, 1988, [102 Stat. 4667][/us/stat/102/4667], provided that: 
+[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1006(b), Nov. 19, 1988, [102 Stat. 4667][/us/stat/102/4667], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 627 of this title][/us/usc/t28/s627]\] shall apply to persons holding the offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title \[Nov. 19, 1988\].”
 
  __Retroactive Effect__ 
 
-[Pub. L. 90–219, title II, § 205][/us/pl/90/219/s205], Dec. 20, 1967, [81 Stat. 669][/us/stat/81/669], provided that:
+[Pub. L. 90–219, title II][/us/pl/90/219/tII], § 205, Dec. 20, 1967, [81 Stat. 669][/us/stat/81/669], provided that:
 
 >     “(a) Except as provided in subsection (b), the amendments made by this title \[enacting this section and amending sections 376 and 604 of this title\], insofar as they relate to retirement and survivorship benefits of the Director of the Administrative Office of the United States Courts, shall be applicable only with respect to persons first appointed to such office after the date of enactment of this Act \[Dec. 20, 1967\].
 
@@ -68,25 +68,25 @@
 [/us/usc/t5/s8422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8422%2Fa
 [/us/usc/t5/s8334/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334%2Fe
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340
-[/us/pl/90/219/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs201%2Fa
+[/us/pl/90/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtII
 [/us/stat/81/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F668
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4665
-[/us/pl/106/518/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs301%2Fa
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2416
-[/us/pl/106/518/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs301%2Fa%2F2
-[/us/pl/106/518/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs301%2Fa%2F3
-[/us/pl/106/518/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs301%2Fa%2F1
-[/us/pl/100/702/s1006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1006%2Fa%2F1
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
-[/us/pl/100/702/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1004%2Fa
-[/us/pl/100/702/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1004%2Fb
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4666
 [/us/usc/t28/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs627
-[/us/pl/100/702/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1006%2Fb
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4667
 [/us/usc/t28/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs627
-[/us/pl/90/219/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs205
+[/us/pl/90/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtII
 [/us/stat/81/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F669
 
 

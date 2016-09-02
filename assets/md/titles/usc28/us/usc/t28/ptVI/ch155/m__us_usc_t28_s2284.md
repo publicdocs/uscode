@@ -27,11 +27,11 @@
 
         (3) A single judge may conduct all proceedings except the trial, and enter all orders permitted by the rules of civil procedure except as provided in this subsection. He may grant a temporary restraining order on a specific finding, based on evidence submitted, that specified irreparable damage will result if the order is not granted, which order, unless previously revoked by the district judge, shall remain in force only until the hearing and determination by the district court of three judges of an application for a preliminary injunction. A single judge shall not appoint a master, or order a reference, or hear and determine any application for a preliminary or permanent injunction or motion to vacate such an injunction, or enter judgment on the merits. Any action of a single judge may be reviewed by the full court at any time before final judgment.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 968][/us/stat/62/968]; [Pub. L. 86–507, § 1(19)][/us/pl/86/507/s1/19], June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 94–381, § 3][/us/pl/94/381/s3], Aug. 12, 1976, [90 Stat. 1119][/us/stat/90/1119]; [Pub. L. 98–620, title IV, § 402(29)(E)][/us/pl/98/620/s402/29/E], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 968][/us/stat/62/968]; [Pub. L. 86–507][/us/pl/86/507], § 1(19), June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 94–381][/us/pl/94/381], § 3, Aug. 12, 1976, [90 Stat. 1119][/us/stat/90/1119]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(29)(E), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 380, 380a, and 792 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 210, 266, [36 Stat. 1150][/us/stat/36/1150], 1162; [Mar. 4, 1943, ch. 160][/us/act/1943-03-04/ch160], [37 Stat. 1013][/us/stat/37/1013]; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], [38 Stat. 220][/us/stat/38/220]; [Feb. 13, 1925, ch. 229, § 1][/us/act/1925-02-13/ch229/s1], [43 Stat. 938][/us/stat/43/938]; [Aug. 24, 1937, ch. 754, § 3][/us/act/1937-08-24/ch754/s3], [50 Stat. 752][/us/stat/50/752]; [Apr. 6, 1942, ch. 210, § 3][/us/act/1942-04-06/ch210/s3], [56 Stat. 199][/us/stat/56/199]).
+    Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 380, 380a, and 792 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 210, 266, [36 Stat. 1150][/us/stat/36/1150], 1162; [Mar. 4, 1943, ch. 160][/us/act/1943-03-04/ch160], [37 Stat. 1013][/us/stat/37/1013]; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], [38 Stat. 220][/us/stat/38/220]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 1, [43 Stat. 938][/us/stat/43/938]; [Aug. 24, 1937, ch. 754][/us/act/1937-08-24/ch754], § 3, [50 Stat. 752][/us/stat/50/752]; [Apr. 6, 1942, ch. 210][/us/act/1942-04-06/ch210], § 3, [56 Stat. 199][/us/stat/56/199]).
 
     Provisions of sections 47, 47a, 380, and 380a of title 28, U.S.C., 1940 ed., relating to the Supreme Court’s jurisdiction of direct appeals appear in [section 1253 of this title][/us/usc/t28/s1253].
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–381, § 7][/us/pl/94/381/s7], Aug. 12, 1976, [90 Stat. 1120][/us/stat/90/1120], provided that: 
+[Pub. L. 94–381][/us/pl/94/381], § 7, Aug. 12, 1976, [90 Stat. 1120][/us/stat/90/1120], provided that: 
 
 > “This Act \[amending this section and [section 2403 of this title][/us/usc/t28/s2403] and repealing sections 2281 and 2282 of this title\] shall not apply to any action commenced on or before the date of enactment \[Aug. 12, 1976\].”
 
@@ -84,11 +84,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F968
-[/us/pl/86/507/s1/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F19
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
-[/us/pl/94/381/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs3
+[/us/pl/94/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381
 [/us/stat/90/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1119
-[/us/pl/98/620/s402/29/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F29%2FE
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1150
@@ -96,11 +96,11 @@
 [/us/stat/37/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F1013
 [/us/act/1913-10-22/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-22%2Fch32
 [/us/stat/38/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F220
-[/us/act/1925-02-13/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs1
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F938
-[/us/act/1937-08-24/ch754/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754%2Fs3
+[/us/act/1937-08-24/ch754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754
 [/us/stat/50/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F752
-[/us/act/1942-04-06/ch210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-06%2Fch210%2Fs3
+[/us/act/1942-04-06/ch210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-06%2Fch210
 [/us/stat/56/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F199
 [/us/usc/t28/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1253
 [/us/usc/t28/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2101
@@ -113,7 +113,7 @@
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657
-[/us/pl/94/381/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs7
+[/us/pl/94/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381
 [/us/stat/90/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1120
 [/us/usc/t28/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2403
 

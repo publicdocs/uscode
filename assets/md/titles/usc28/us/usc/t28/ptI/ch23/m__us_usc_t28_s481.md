@@ -31,7 +31,7 @@
 
     (c) Each United States district court shall record information as prescribed pursuant to subsection (b) of this section.
 
-(Added [Pub. L. 101–650, title I, § 103(a)][/us/pl/101/650/s103/a], Dec. 1, 1990, [104 Stat. 5095][/us/stat/104/5095].)
+(Added [Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(a), Dec. 1, 1990, [104 Stat. 5095][/us/stat/104/5095].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/650/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fa
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5095
 
 

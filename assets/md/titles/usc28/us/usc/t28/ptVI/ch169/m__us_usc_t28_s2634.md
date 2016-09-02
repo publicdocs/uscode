@@ -17,11 +17,11 @@
 
     Reasonable notice of the time and place of trial or hearing before the Court of International Trade shall be given to all parties to any civil action, as prescribed by the rules of the court.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1733][/us/stat/94/1733].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1733][/us/stat/94/1733].)
 
  __Prior Provisions__ 
 
-    A prior section 2634, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 981][/us/stat/62/981]; June 2, 1970, [Pub. L. 91–271, title I, § 115][/us/pl/91/271/s115], [84 Stat. 280][/us/stat/84/280], related to notice, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2634 of this title][/us/usc/t28/s2634].
+    A prior section 2634, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 981][/us/stat/62/981]; June 2, 1970, [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 115, [84 Stat. 280][/us/stat/84/280], related to notice, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See [section 2634 of this title][/us/usc/t28/s2634].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1733
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F981
-[/us/pl/91/271/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs115
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F280
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t28/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2634

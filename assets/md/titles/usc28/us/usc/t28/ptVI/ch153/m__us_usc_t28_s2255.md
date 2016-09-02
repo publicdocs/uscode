@@ -47,7 +47,7 @@
 
         (2) a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 967][/us/stat/62/967]; [May 24, 1949, ch. 139, § 114][/us/act/1949-05-24/ch139/s114], [63 Stat. 105][/us/stat/63/105]; [Pub. L. 104–132, title I, § 105][/us/pl/104/132/s105], Apr. 24, 1996, [110 Stat. 1220][/us/stat/110/1220]; [Pub. L. 110–177, title V, § 511][/us/pl/110/177/s511], Jan. 7, 2008, [121 Stat. 2545][/us/stat/121/2545].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 967][/us/stat/62/967]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 114, [63 Stat. 105][/us/stat/63/105]; [Pub. L. 104–132, title I][/us/pl/104/132/tI], § 105, Apr. 24, 1996, [110 Stat. 1220][/us/stat/110/1220]; [Pub. L. 110–177, title V][/us/pl/110/177/tV], § 511, Jan. 7, 2008, [121 Stat. 2545][/us/stat/121/2545].)
 
  __Historical and Revision Notes__ 
 
@@ -275,7 +275,7 @@ Rule 2. The Motion
 
     (d) Separate Motions for Separate Judgments. A moving party who seeks relief from more than one judgment must file a separate motion covering each judgment.
 
-    (As amended [Pub. L. 94–426, § 2(3)][/us/pl/94/426/s2/3], (4), Sept. 28, 1976, [90 Stat. 1334][/us/stat/90/1334]; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
+    (As amended [Pub. L. 94–426][/us/pl/94/426], § 2(3), (4), Sept. 28, 1976, [90 Stat. 1334][/us/stat/90/1334]; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
  __Advisory Committee Note__ 
 
@@ -347,9 +347,9 @@ Rule 2. The Motion
 
  __Amendments__ 
 
-    1976—Subd. (b). [Pub. L. 94–426, § 2(3)][/us/pl/94/426/s2/3], inserted “substantially” after “The motion shall be in”, and struck out requirement that the motion follow the prescribed form.
+    1976—Subd. (b). [Pub. L. 94–426][/us/pl/94/426], § 2(3), inserted “substantially” after “The motion shall be in”, and struck out requirement that the motion follow the prescribed form.
 
-    Subd. (d). [Pub. L. 94–426, § 2(4)][/us/pl/94/426/s2/4], inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a motion for noncompliance without a judge so directing.
+    Subd. (d). [Pub. L. 94–426][/us/pl/94/426], § 2(4), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a motion for noncompliance without a judge so directing.
 
 Rule 3. Filing the Motion; Inmate Filing
 
@@ -551,7 +551,7 @@ Rule 8. Evidentiary Hearing
 
     (d) Producing a Statement. Federal Rule of Criminal Procedure 26.2(a)–(d) and (f) applies at a hearing under this rule. If a party does not comply with a Rule 26.2(a) order to produce a witness’s statement, the court must not consider that witness’s testimony.
 
-    (As amended [Pub. L. 94–426, § 2(6)][/us/pl/94/426/s2/6], Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; [Pub. L. 94–577, § 2(a)(2)][/us/pl/94/577/s2/a/2], (b)(2), Oct. 21, 1976, [90 Stat. 2730][/us/stat/90/2730], 2731; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 2004, eff. Dec. 1, 2004; Mar. 26, 2009, eff. Dec. 1, 2009.)
+    (As amended [Pub. L. 94–426][/us/pl/94/426], § 2(6), Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; [Pub. L. 94–577][/us/pl/94/577], § 2(a)(2), (b)(2), Oct. 21, 1976, [90 Stat. 2730][/us/stat/90/2730], 2731; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 2004, eff. Dec. 1, 2004; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
  __Advisory Committee Note__ 
 
@@ -579,9 +579,9 @@ Rule 8. Evidentiary Hearing
 
  __Amendments by Public Law__ 
 
-    1976—Subd. (b). [Pub. L. 94–577, § 2(a)(2)][/us/pl/94/577/s2/a/2], substituted provisions which authorized magistrates, when designated to do so in accordance with [section 636(b) of this title][/us/usc/t28/s636/b], to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
+    1976—Subd. (b). [Pub. L. 94–577][/us/pl/94/577], § 2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with [section 636(b) of this title][/us/usc/t28/s636/b], to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
-    Subd. (c). [Pub. L. 94–577, § 2(b)(2)][/us/pl/94/577/s2/b/2], substituted “and the hearing shall be conducted” for “and shall conduct the hearing.”
+    Subd. (c). [Pub. L. 94–577][/us/pl/94/577], § 2(b)(2), substituted “and the hearing shall be conducted” for “and shall conduct the hearing.”
 
     [Pub. L. 94–426][/us/pl/94/426] provided that these rules not limit the appointment of counsel under [section 3006A of title 18][/us/usc/t18/s3006A], if the interest of justice so require.
 
@@ -593,7 +593,7 @@ Rule 9. Second or Successive Motions
 
     Before presenting a second or successive motion, the moving party must obtain an order from the appropriate court of appeals authorizing the district court to consider the motion, as required by 28 U.S.C. § 2255, para. 8.
 
-    (As amended [Pub. L. 94–426, § 2(9)][/us/pl/94/426/s2/9], (10), Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; Apr. 26, 2004, eff. Dec. 1, 2004.)
+    (As amended [Pub. L. 94–426][/us/pl/94/426], § 2(9), (10), Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
  __Advisory Committee Note__ 
 
@@ -675,15 +675,15 @@ Rule 9. Second or Successive Motions
 
  __Amendments by Public Law__ 
 
-    1976—Subd. (a). [Pub. L. 94–426, § 2(9)][/us/pl/94/426/s2/9], struck out provision which established a rebuttable presumption of prejudice to government if the petition was filed more than five years after conviction.
+    1976—Subd. (a). [Pub. L. 94–426][/us/pl/94/426], § 2(9), struck out provision which established a rebuttable presumption of prejudice to government if the petition was filed more than five years after conviction.
 
-    Subd. (b). [Pub. L. 94–426, § 2(10)][/us/pl/94/426/s2/10], substituted “constituted an abuse of the procedure governed by these rules” for “is not excusable”.
+    Subd. (b). [Pub. L. 94–426][/us/pl/94/426], § 2(10), substituted “constituted an abuse of the procedure governed by these rules” for “is not excusable”.
 
 Rule 10. Powers of a Magistrate Judge
 
     A magistrate judge may perform the duties of a district judge under these rules, as authorized by 28 U.S.C. § 636.
 
-    (As amended [Pub. L. 94–426, § 2(12)][/us/pl/94/426/s2/12], Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004.)
+    (As amended [Pub. L. 94–426][/us/pl/94/426], § 2(12), Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
  __Advisory Committee Note__ 
 
@@ -903,11 +903,11 @@ Institution   
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F967
-[/us/act/1949-05-24/ch139/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs114
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F105
-[/us/pl/104/132/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs105
+[/us/pl/104/132/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtI
 [/us/stat/110/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1220
-[/us/pl/110/177/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs511
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2545
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
 [/us/usc/t21/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs848
@@ -924,30 +924,30 @@ Institution   
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
 [/us/pl/94/426/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs1
 [/us/usc/t28/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2074
-[/us/pl/94/426/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F3
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/90/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1334
 [/us/stat/110/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1214
-[/us/pl/94/426/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F3
-[/us/pl/94/426/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F4
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/110/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1214
-[/us/pl/94/426/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F6
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/90/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1335
-[/us/pl/94/577/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577%2Fs2%2Fa%2F2
+[/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/stat/90/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2730
-[/us/pl/94/577/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577%2Fs2%2Fa%2F2
+[/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/usc/t28/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636%2Fb
-[/us/pl/94/577/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577%2Fs2%2Fb%2F2
+[/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
 [/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
 [/us/pl/94/577/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577%2Fs2%2Fc
 [/us/usc/t28/s2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2254
-[/us/pl/94/426/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F9
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/90/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1335
-[/us/pl/94/426/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F9
-[/us/pl/94/426/s2/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F10
-[/us/pl/94/426/s2/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F12
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/90/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1335
 [/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 

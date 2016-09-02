@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t28/ptVI/ch158/m__us_usc_t28_s2352.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch159/m__us_usc_t28_ptVI_ch159.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2353)
 
-## \[§ 2353. Repealed. [Pub. L. 97–164, title I, § 138][/us/pl/97/164/s138], Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]\]
+## \[§ 2353. Repealed. [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 138, Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]\]
 
-    Section, added [Pub. L. 91–577, title III, § 143(c)][/us/pl/91/577/s143/c], Dec. 24, 1970, [84 Stat. 1559][/us/stat/84/1559], gave the court of appeals nonexclusive jurisdiction to hear appeals under section 71 of the Plant Variety Protection Act ([7 U.S.C. 2461][/us/usc/t7/s2461]). See [section 1295(a)(8) of this title][/us/usc/t28/s1295/a/8].
+    Section, added [Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 143(c), Dec. 24, 1970, [84 Stat. 1559][/us/stat/84/1559], gave the court of appeals nonexclusive jurisdiction to hear appeals under section 71 of the Plant Variety Protection Act ([7 U.S.C. 2461][/us/usc/t7/s2461]). See [section 1295(a)(8) of this title][/us/usc/t28/s1295/a/8].
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/97/164/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs138
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F42
-[/us/pl/91/577/s143/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs143%2Fc
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1559
 [/us/usc/t7/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2461
 [/us/usc/t28/s1295/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295%2Fa%2F8

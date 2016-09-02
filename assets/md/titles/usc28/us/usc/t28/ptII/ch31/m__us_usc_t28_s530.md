@@ -17,7 +17,7 @@
 
     The Attorney General or the Attorney General’s designee is authorized to pay the travel expenses of newly appointed special agents and the transportation expenses of their families and household goods and personal effects from place of residence at time of selection to the first duty station, to the extent such payments are authorized by [section 5723 of title 5][/us/usc/t5/s5723] for new appointees who may receive payments under that section.
 
-(Added [Pub. L. 98–86, § 1][/us/pl/98/86/s1], Aug. 26, 1983, [97 Stat. 492][/us/stat/97/492].)
+(Added [Pub. L. 98–86][/us/pl/98/86], § 1, Aug. 26, 1983, [97 Stat. 492][/us/stat/97/492].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s5723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5723
-[/us/pl/98/86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F86%2Fs1
+[/us/pl/98/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F86
 [/us/stat/97/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F492
 
 

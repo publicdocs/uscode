@@ -21,13 +21,13 @@
 
     “Acting within the scope of his office or employment”, in the case of a member of the military or naval forces of the United States or a member of the National Guard as defined in [section 101(3) of title 32][/us/usc/t32/s101/3], means acting in line of duty.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 982][/us/stat/62/982]; [May 24, 1949, ch. 139, § 124][/us/act/1949-05-24/ch139/s124], [63 Stat. 106][/us/stat/63/106]; [Pub. L. 89–506, § 8][/us/pl/89/506/s8], July 18, 1966, [80 Stat. 307][/us/stat/80/307]; [Pub. L. 97–124, § 1][/us/pl/97/124/s1], Dec. 29, 1981, [95 Stat. 1666][/us/stat/95/1666]; [Pub. L. 100–694, § 3][/us/pl/100/694/s3], Nov. 18, 1988, [102 Stat. 4564][/us/stat/102/4564]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 665(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169; [Pub. L. 106–518, title IV, § 401][/us/pl/106/518/s401], Nov. 13, 2000, [114 Stat. 2421][/us/stat/114/2421].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 982][/us/stat/62/982]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 124, [63 Stat. 106][/us/stat/63/106]; [Pub. L. 89–506][/us/pl/89/506], § 8, July 18, 1966, [80 Stat. 307][/us/stat/80/307]; [Pub. L. 97–124][/us/pl/97/124], § 1, Dec. 29, 1981, [95 Stat. 1666][/us/stat/95/1666]; [Pub. L. 100–694][/us/pl/100/694], § 3, Nov. 18, 1988, [102 Stat. 4564][/us/stat/102/4564]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 665(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169; [Pub. L. 106–518, title IV][/us/pl/106/518/tIV], § 401, Nov. 13, 2000, [114 Stat. 2421][/us/stat/114/2421].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 941 ([Aug. 2, 1946, ch. 753, § 402][/us/act/1946-08-02/ch753/s402], [60 Stat. 842][/us/stat/60/842]).
+    Based on title 28, U.S.C., 1940 ed., § 941 ([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 402, [60 Stat. 842][/us/stat/60/842]).
 
     Changes were made in phraseology.
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 665(c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 665(c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169, provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply with respect to acts and omissions occurring before, on, or after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -73,13 +73,13 @@
 
  __Severability__ 
 
-[Pub. L. 100–694, § 7][/us/pl/100/694/s7], Nov. 18, 1988, [102 Stat. 4565][/us/stat/102/4565], provided that: 
+[Pub. L. 100–694][/us/pl/100/694], § 7, Nov. 18, 1988, [102 Stat. 4565][/us/stat/102/4565], provided that: 
 
 > “If any provision of this Act \[see Short Title of 1988 Amendment note under [section 1 of this title][/us/usc/t28/s1]\] or the amendments made by this Act or the application of the provision to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of the provision to any other person or circumstance shall not be affected by that invalidation.”
 
  __Law Enforcement Officer Acting Within Scope of Office or Employment__ 
 
-[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 627\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–519, as amended by [Pub. L. 106–58, title VI, § 623][/us/pl/106/58/s623], Sept. 29, 1999, [113 Stat. 471][/us/stat/113/471], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 627\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–519, as amended by [Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 623, Sept. 29, 1999, [113 Stat. 471][/us/stat/113/471], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Congressional Findings and Purposes__ 
 
-[Pub. L. 100–694, § 2][/us/pl/100/694/s2], Nov. 18, 1988, [102 Stat. 4563][/us/stat/102/4563], provided that:
+[Pub. L. 100–694][/us/pl/100/694], § 2, Nov. 18, 1988, [102 Stat. 4563][/us/stat/102/4563], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -136,19 +136,19 @@
 [/us/usc/t32/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs101%2F3
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F982
-[/us/act/1949-05-24/ch139/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs124
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F106
-[/us/pl/89/506/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506%2Fs8
+[/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
 [/us/stat/80/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F307
-[/us/pl/97/124/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F124%2Fs1
+[/us/pl/97/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F124
 [/us/stat/95/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1666
-[/us/pl/100/694/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs3
+[/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/stat/102/4564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4564
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/518/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs401
+[/us/pl/106/518/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIV
 [/us/stat/114/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2421
-[/us/act/1946-08-02/ch753/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs402
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F842
 [/us/usc/t28/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2671
 [/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
@@ -157,7 +157,7 @@
 [/us/pl/97/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F124
 [/us/usc/t32/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs101%2F3
 [/us/pl/89/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F506
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/pl/100/694/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs8
@@ -172,16 +172,16 @@
 [/us/stat/60/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F842
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
-[/us/pl/100/694/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs7
+[/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/stat/102/4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4565
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/106/58/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs623
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F471
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
 [/us/usc/t5/s8401/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401%2F17
-[/us/pl/100/694/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs2
+[/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/stat/102/4563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4563
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 

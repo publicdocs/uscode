@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t28/ptIII/ch51/m__us_usc_t28_s791.md) | [Next](./../../../../..//us/usc/t28/ptIII/ch51/m__us_usc_t28_s793.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs792)
 
-## \[§ 792. Repealed. [Pub. L. 97–164, title I, § 121(b)][/us/pl/97/164/s121/b], Apr. 2, 1982, [96 Stat. 34][/us/stat/96/34]\]
+## \[§ 792. Repealed. [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 121(b), Apr. 2, 1982, [96 Stat. 34][/us/stat/96/34]\]
 
-    Section, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 923][/us/stat/62/923]; [July 28, 1953, ch. 253, § 4(a)][/us/act/1953-07-28/ch253/s4/a], [67 Stat. 226][/us/stat/67/226]; [Sept. 3, 1954, ch. 1263, § 41][/us/act/1954-09-03/ch1263/s41], [68 Stat. 1240][/us/stat/68/1240]; Aug. 14, 1964, [Pub. L. 88–426, title IV, § 403(h)][/us/pl/88/426/s403/h], [78 Stat. 434][/us/stat/78/434]; Oct. 15, 1966, [Pub. L. 89–681, § 3][/us/pl/89/681/s3], [80 Stat. 959][/us/stat/80/959]; Dec. 16, 1967, [Pub. L. 90–206, title II, § 213(e)][/us/pl/90/206/s213/e], [81 Stat. 635][/us/stat/81/635]; Aug. 9, 1975, [Pub. L. 94–82, title II, § 205(b)(7)][/us/pl/94/82/s205/b/7], [89 Stat. 423][/us/stat/89/423]; July 20, 1977, [Pub. L. 95–69, § 3][/us/pl/95/69/s3], [91 Stat. 274][/us/stat/91/274], provided for appointment by Court of Claims and compensation of sixteen commissioners.
+    Section, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 923][/us/stat/62/923]; [July 28, 1953, ch. 253][/us/act/1953-07-28/ch253], § 4(a), [67 Stat. 226][/us/stat/67/226]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 41, [68 Stat. 1240][/us/stat/68/1240]; Aug. 14, 1964, [Pub. L. 88–426, title IV][/us/pl/88/426/tIV], § 403(h), [78 Stat. 434][/us/stat/78/434]; Oct. 15, 1966, [Pub. L. 89–681][/us/pl/89/681], § 3, [80 Stat. 959][/us/stat/80/959]; Dec. 16, 1967, [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 213(e), [81 Stat. 635][/us/stat/81/635]; Aug. 9, 1975, [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 205(b)(7), [89 Stat. 423][/us/stat/89/423]; July 20, 1977, [Pub. L. 95–69][/us/pl/95/69], § 3, [91 Stat. 274][/us/stat/91/274], provided for appointment by Court of Claims and compensation of sixteen commissioners.
 
  __Effective Date of Repeal__ 
 
@@ -28,23 +28,23 @@
 ----------
 ----------
 
-[/us/pl/97/164/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs121%2Fb
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F34
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F923
-[/us/act/1953-07-28/ch253/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch253%2Fs4%2Fa
+[/us/act/1953-07-28/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-28%2Fch253
 [/us/stat/67/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F226
-[/us/act/1954-09-03/ch1263/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs41
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1240
-[/us/pl/88/426/s403/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs403%2Fh
+[/us/pl/88/426/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIV
 [/us/stat/78/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F434
-[/us/pl/89/681/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F681%2Fs3
+[/us/pl/89/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F681
 [/us/stat/80/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F959
-[/us/pl/90/206/s213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs213%2Fe
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F635
-[/us/pl/94/82/s205/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs205%2Fb%2F7
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F423
-[/us/pl/95/69/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F69%2Fs3
+[/us/pl/95/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F69
 [/us/stat/91/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F274
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171

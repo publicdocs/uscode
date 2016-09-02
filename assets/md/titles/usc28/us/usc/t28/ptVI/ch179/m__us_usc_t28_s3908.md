@@ -17,7 +17,7 @@
 
     For purposes of applying this chapter, the terms “employing office” and “covered employee” have the meanings given those terms in [section 401 of title 3][/us/usc/t3/s401].
 
-(Added [Pub. L. 104–331, § 3(c)][/us/pl/104/331/s3/c], Oct. 26, 1996, [110 Stat. 4071][/us/stat/110/4071].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 3(c), Oct. 26, 1996, [110 Stat. 4071][/us/stat/110/4071].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t3/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs401
-[/us/pl/104/331/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fc
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4071
 
 

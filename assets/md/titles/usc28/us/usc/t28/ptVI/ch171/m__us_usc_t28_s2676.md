@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 931(b) ([Aug. 2, 1946, ch. 753, § 410(b)][/us/act/1946-08-02/ch753/s410/b], [60 Stat. 844][/us/stat/60/844]).
+    Based on title 28, U.S.C., 1940 ed., § 931(b) ([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 410(b), [60 Stat. 844][/us/stat/60/844]).
 
     Section constitutes the first sentence of [section 931(b) of title 28][/us/usc/t28/s931/b], U.S.C., 1940 ed. Other provisions of such section 931(b) are incorporated in [section 2675 of this title][/us/usc/t28/s2675].
 
@@ -41,7 +41,7 @@
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F984
-[/us/act/1946-08-02/ch753/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs410%2Fb
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F844
 [/us/usc/t28/s931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs931%2Fb
 [/us/usc/t28/s2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2675

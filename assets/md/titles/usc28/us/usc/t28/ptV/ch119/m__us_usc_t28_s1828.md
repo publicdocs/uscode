@@ -23,7 +23,7 @@
 
     (d) Appropriations available to the Director shall be available to provide services in accordance with subsection (b) of this section, and moneys collected by the Director under that subsection may be used to reimburse the appropriations charged for such services. A presiding judicial officer, in such officer’s discretion, may order that all or part of the expenses shall be apportioned between or among the parties or shall be taxed as costs in the action.
 
-(Added [Pub. L. 95–539, § 2(a)][/us/pl/95/539/s2/a], Oct. 28, 1978, [92 Stat. 2042][/us/stat/92/2042]; amended [Pub. L. 97–258, § 3(g)][/us/pl/97/258/s3/g], Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065].)
+(Added [Pub. L. 95–539][/us/pl/95/539], § 2(a), Oct. 28, 1978, [92 Stat. 2042][/us/stat/92/2042]; amended [Pub. L. 97–258][/us/pl/97/258], § 3(g), Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/pl/95/539/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs2%2Fa
+[/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/stat/92/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2042
-[/us/pl/97/258/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fg
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1065
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701

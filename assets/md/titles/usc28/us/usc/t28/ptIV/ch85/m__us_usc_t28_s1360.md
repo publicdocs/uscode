@@ -109,7 +109,7 @@
 
     (c) Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, or community in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
 
-(Added [Aug. 15, 1953, ch. 505, § 4][/us/act/1953-08-15/ch505/s4], [67 Stat. 589][/us/stat/67/589]; amended [Aug. 24, 1954, ch. 910, § 2][/us/act/1954-08-24/ch910/s2], [68 Stat. 795][/us/stat/68/795]; [Pub. L. 85–615, § 2][/us/pl/85/615/s2], Aug. 8, 1958, [72 Stat. 545][/us/stat/72/545]; [Pub. L. 95–598, title II, § 239][/us/pl/95/598/s239], Nov. 6, 1978, [92 Stat. 2668][/us/stat/92/2668]; [Pub. L. 98–353, title I, § 110][/us/pl/98/353/s110], July 10, 1984, [98 Stat. 342][/us/stat/98/342].)
+(Added [Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], § 4, [67 Stat. 589][/us/stat/67/589]; amended [Aug. 24, 1954, ch. 910][/us/act/1954-08-24/ch910], § 2, [68 Stat. 795][/us/stat/68/795]; [Pub. L. 85–615][/us/pl/85/615], § 2, Aug. 8, 1958, [72 Stat. 545][/us/stat/72/545]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 239, Nov. 6, 1978, [92 Stat. 2668][/us/stat/92/2668]; [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 110, July 10, 1984, [98 Stat. 342][/us/stat/98/342].)
 
  __Amendments__ 
 
@@ -131,13 +131,13 @@
 
  __Amendment of State Constitutions To Remove Legal Impediment; Effective Date__ 
 
-[Act Aug. 15, 1953, ch. 505, § 6][/us/act/1953-08-15/ch505/s6], [67 Stat. 590][/us/stat/67/590], provided that: 
+[Act Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], § 6, [67 Stat. 590][/us/stat/67/590], provided that: 
 
 > “Notwithstanding the provisions of any Enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of this Act \[adding this section and [section 1162 of Title 18][/us/usc/t18/s1162], Crimes and Criminal Procedure\]: Provided, That the provisions of this Act shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes as the case may be.”
 
  __Consent of United States to Other States To Assume Jurisdiction__ 
 
-    [Act Aug. 15, 1953, ch. 505, § 7][/us/act/1953-08-15/ch505/s7], [67 Stat. 590][/us/stat/67/590], which gave consent of the United States to any other State not having jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in this section and [section 1162 of Title 18][/us/usc/t18/s1162], Crimes and Criminal Procedure, to assume jurisdiction at such time and in such manner as the people of the State shall, by legislative action, obligate and bind the State to assumption thereof, was repealed by [section 403(b) of Pub. L. 90–284][/us/pl/90/284/s403/b], title IV, Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79], such repeal not to affect any cession of jurisdiction made pursuant to such section prior to its repeal.
+    [Act Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], § 7, [67 Stat. 590][/us/stat/67/590], which gave consent of the United States to any other State not having jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in this section and [section 1162 of Title 18][/us/usc/t18/s1162], Crimes and Criminal Procedure, to assume jurisdiction at such time and in such manner as the people of the State shall, by legislative action, obligate and bind the State to assumption thereof, was repealed by [section 403(b) of Pub. L. 90–284][/us/pl/90/284/s403/b], title IV, Apr. 11, 1968, [82 Stat. 79][/us/stat/82/79], such repeal not to affect any cession of jurisdiction made pursuant to such section prior to its repeal.
 
     Retrocession of jurisdiction by State acquired by State pursuant to section 7 of Act Aug. 15, 1953, prior to its repeal, see [section 1323 of Title 25][/us/usc/t25/s1323], Indians.
 
@@ -148,15 +148,15 @@
 ----------
 ----------
 
-[/us/act/1953-08-15/ch505/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505%2Fs4
+[/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505
 [/us/stat/67/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F589
-[/us/act/1954-08-24/ch910/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch910%2Fs2
+[/us/act/1954-08-24/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch910
 [/us/stat/68/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F795
-[/us/pl/85/615/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F615%2Fs2
+[/us/pl/85/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F615
 [/us/stat/72/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F545
-[/us/pl/95/598/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs239
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2668
-[/us/pl/98/353/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs110
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F342
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
@@ -169,10 +169,10 @@
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
-[/us/act/1953-08-15/ch505/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505%2Fs6
+[/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505
 [/us/stat/67/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F590
 [/us/usc/t18/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162
-[/us/act/1953-08-15/ch505/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505%2Fs7
+[/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505
 [/us/stat/67/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F590
 [/us/usc/t18/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162
 [/us/pl/90/284/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs403%2Fb

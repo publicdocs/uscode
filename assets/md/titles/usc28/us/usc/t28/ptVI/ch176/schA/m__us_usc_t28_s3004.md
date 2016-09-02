@@ -35,7 +35,7 @@
 
     At such time as counsel for the United States considers appropriate, but not later than the time a prejudgment or postjudgment remedy is put into effect under this chapter, counsel for the United States shall exercise reasonable diligence to serve on the debtor and any person who the United States believes, after exercising due diligence, has possession, custody, or control of the property, a copy of the application for such remedy, the order granting such remedy, and the notice required by section 3101(d) or 3202(b).
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4936][/us/stat/104/4936].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4936][/us/stat/104/4936].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4936
 
 

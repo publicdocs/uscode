@@ -97,11 +97,11 @@
 
     This section does not affect the authority of the Metropolitan Police Force of the District of Columbia with respect to FBI buildings and grounds.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11024(a)][/us/pl/107/273/s11024/a], Nov. 2, 2002, [116 Stat. 1830][/us/stat/116/1830].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11024(a), Nov. 2, 2002, [116 Stat. 1830][/us/stat/116/1830].)
 
  __Prior Provisions__ 
 
-    Another section 540C, added [Pub. L. 107–306, title VIII, § 824(a)][/us/pl/107/306/s824/a], Nov. 27, 2002, [116 Stat. 2428][/us/stat/116/2428], related to annual report on activities of Federal Bureau of Investigation personnel outside the United States. [Pub. L. 108–177, title III, § 361(i)][/us/pl/108/177/s361/i], (n), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625], 2626, which, under the heading “Annual Report on Activities of FBI Personnel Outside the United States”, directed the repeal of [section 540C of title 28][/us/usc/t28/s540C], effective Dec. 31, 2003, was executed by repealing the section 540C added by [Pub. L. 107–306][/us/pl/107/306], to reflect the probable intent of Congress.
+    Another section 540C, added [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 824(a), Nov. 27, 2002, [116 Stat. 2428][/us/stat/116/2428], related to annual report on activities of Federal Bureau of Investigation personnel outside the United States. [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 361(i), (n), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625], 2626, which, under the heading “Annual Report on Activities of FBI Personnel Outside the United States”, directed the repeal of [section 540C of title 28][/us/usc/t28/s540C], effective Dec. 31, 2003, was executed by repealing the section 540C added by [Pub. L. 107–306][/us/pl/107/306], to reflect the probable intent of Congress.
 
  __Transfer of Functions__ 
 
@@ -114,11 +114,11 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11024%2Fa
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1830
-[/us/pl/107/306/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs824%2Fa
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2428
-[/us/pl/108/177/s361/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361%2Fi
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2625
 [/us/usc/t28/s540C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs540C
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306

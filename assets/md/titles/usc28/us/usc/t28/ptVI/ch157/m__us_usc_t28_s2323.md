@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2322.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch158/m__us_usc_t28_ptVI_ch158.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2323)
+[Previous](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2322.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2324 _us_usc_t28_s2325.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2323)
 
 ## § 2323. Duties of Attorney General; intervenors
 
@@ -23,7 +23,7 @@
 
     The Attorney General shall not dispose of or discontinue said action or proceeding over the objection of such party or intervenor, who may prosecute, defend, or continue said action or proceeding unaffected by the action or nonaction of the Attorney General therein.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 970][/us/stat/62/970]; [May 24, 1949, ch. 139, § 116][/us/act/1949-05-24/ch139/s116], [63 Stat. 105][/us/stat/63/105]; [Pub. L. 93–584, § 6][/us/pl/93/584/s6], Jan. 2, 1975, [88 Stat. 1917][/us/stat/88/1917]; [Pub. L. 95–473, § 2(a)(3)(C)][/us/pl/95/473/s2/a/3/C], Oct. 17, 1978, [92 Stat. 1465][/us/stat/92/1465]; [Pub. L. 104–88, title III, § 305(c)(1)(C)][/us/pl/104/88/s305/c/1/C], (D), Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 970][/us/stat/62/970]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 116, [63 Stat. 105][/us/stat/63/105]; [Pub. L. 93–584][/us/pl/93/584], § 6, Jan. 2, 1975, [88 Stat. 1917][/us/stat/88/1917]; [Pub. L. 95–473][/us/pl/95/473], § 2(a)(3)(C), Oct. 17, 1978, [92 Stat. 1465][/us/stat/92/1465]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 305(c)(1)(C), (D), Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945].)
 
  __Historical and Revision Notes__ 
 
@@ -61,19 +61,9 @@
 
     Amendment by [Pub. L. 93–584][/us/pl/93/584] not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see [section 10 of Pub. L. 93–584][/us/pl/93/584/s10], set out as a note under [section 2321 of this title][/us/usc/t28/s2321].
 
-\[§§ 2324, 2325. __Repealed.__  __[__  __Pub. L. 93–584, § 7__  __][/us/pl/93/584/s7]__  __,__  __Jan. 2, 1975__  __,__  __[__  __88 Stat. 1918__  __][/us/stat/88/1918]__  __\]__ 
-
-    Section 2324, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 970][/us/stat/62/970], related to power of court to restrain or suspend operation of orders of Interstate Commerce Commission pending final hearing and determination of action.
-
-    Section 2325, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 970][/us/stat/62/970], related to requirement of a three judge district court to hear and determine interlocutory or permanent injunctions restraining enforcement, operation or execution of orders of Interstate Commerce Commission.
-
- __Effective Date of Repeal__ 
-
-    Repeal applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this repeal becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see [section 10 of Pub. L. 93–584][/us/pl/93/584/s10], set out as an Effective Date of 1975 Amendment note under [section 2321 of this title][/us/usc/t28/s2321].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2322.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch158/m__us_usc_t28_ptVI_ch158.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2323)
+[Previous](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2322.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2324 _us_usc_t28_s2325.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2323)
 
 ----------
 ----------
@@ -81,13 +71,13 @@
 [/us/usc/t28/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2321
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F970
-[/us/act/1949-05-24/ch139/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs116
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F105
-[/us/pl/93/584/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584%2Fs6
+[/us/pl/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584
 [/us/stat/88/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1917
-[/us/pl/95/473/s2/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs2%2Fa%2F3%2FC
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1465
-[/us/pl/104/88/s305/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs305%2Fc%2F1%2FC
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F945
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1150
@@ -113,14 +103,6 @@
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/93/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584
-[/us/pl/93/584/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584%2Fs10
-[/us/usc/t28/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2321
-[/us/pl/93/584/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584%2Fs7
-[/us/stat/88/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1918
-[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
-[/us/stat/62/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F970
-[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
-[/us/stat/62/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F970
 [/us/pl/93/584/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F584%2Fs10
 [/us/usc/t28/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2321
 

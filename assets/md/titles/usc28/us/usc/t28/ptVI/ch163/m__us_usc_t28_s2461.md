@@ -21,7 +21,7 @@
 
     (c) If a person is charged in a criminal case with a violation of an Act of Congress for which the civil or criminal forfeiture of property is authorized, the Government may include notice of the forfeiture in the indictment or information pursuant to the Federal Rules of Criminal Procedure. If the defendant is convicted of the offense giving rise to the forfeiture, the court shall order the forfeiture of the property as part of the sentence in the criminal case pursuant to to  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  the Federal Rules of Criminal Procedure and [section 3554 of title 18][/us/usc/t18/s3554], United States Code. The procedures in section 413 of the Controlled Substances Act ([21 U.S.C. 853][/us/usc/t21/s853]) apply to all stages of a criminal forfeiture proceeding, except that subsection (d) of such section applies only in cases in which the defendant is convicted of a violation of such Act.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 974][/us/stat/62/974]; [Pub. L. 106–185, § 16][/us/pl/106/185/s16], Apr. 25, 2000, [114 Stat. 221][/us/stat/114/221]; [Pub. L. 109–177, title IV, § 410][/us/pl/109/177/s410], Mar. 9, 2006, [120 Stat. 246][/us/stat/120/246].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 974][/us/stat/62/974]; [Pub. L. 106–185][/us/pl/106/185], § 16, Apr. 25, 2000, [114 Stat. 221][/us/stat/114/221]; [Pub. L. 109–177, title IV][/us/pl/109/177/tIV], § 410, Mar. 9, 2006, [120 Stat. 246][/us/stat/120/246].)
 
  __Historical and Revision Notes__ 
 
@@ -59,7 +59,7 @@
 
  __Federal Civil Penalties Inflation Adjustment__ 
 
-[Pub. L. 101–410][/us/pl/101/410], Oct. 5, 1990, [104 Stat. 890][/us/stat/104/890], as amended by [Pub. L. 104–134, title III, § 31001(s)(1)][/us/pl/104/134/s31001/s/1], Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373]; [Pub. L. 105–362, title XIII, § 1301(a)][/us/pl/105/362/s1301/a], Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 114–74, title VII, § 701(b)][/us/pl/114/74/s701/b], Nov. 2, 2015, [129 Stat. 599][/us/stat/129/599], provided that:
+[Pub. L. 101–410][/us/pl/101/410], Oct. 5, 1990, [104 Stat. 890][/us/stat/104/890], as amended by [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(s)(1), Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373]; [Pub. L. 105–362, title XIII][/us/pl/105/362/tXIII], § 1301(a), Nov. 10, 1998, [112 Stat. 3293][/us/stat/112/3293]; [Pub. L. 114–74, title VII][/us/pl/114/74/tVII], § 701(b), Nov. 2, 2015, [129 Stat. 599][/us/stat/129/599], provided that:
 
 >  __“short title__ 
 
@@ -209,7 +209,7 @@
 
 >     The Comptroller General of the United States shall annually submit to Congress a report assessing the compliance of agencies with the inflation adjustments required under this Act, which may be included as part of another report submitted to Congress.”
 
-    \[[Pub. L. 104–134, title III, § 31001(s)(2)][/us/pl/104/134/s31001/s/2], Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373], which provided that the first adjustment of a civil monetary penalty made pursuant to the amendment by [§ 31001(s)(1) of Pub. L. 104–134][/us/pl/104/134/s31001/s/1] (amending [Pub. L. 101–410][/us/pl/101/410], set out above) could not exceed 10 percent of the penalty, was repealed by [Pub. L. 114–74, title VII, § 701(c)][/us/pl/114/74/s701/c], Nov. 2, 2015, [129 Stat. 601][/us/stat/129/601].\]
+    \[[Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(s)(2), Apr. 26, 1996, [110 Stat. 1321–373][/us/stat/110/1321-373], which provided that the first adjustment of a civil monetary penalty made pursuant to the amendment by § 31001(s)(1) of [Pub. L. 104–134][/us/pl/104/134] (amending [Pub. L. 101–410][/us/pl/101/410], set out above) could not exceed 10 percent of the penalty, was repealed by [Pub. L. 114–74, title VII][/us/pl/114/74/tVII], § 701(c), Nov. 2, 2015, [129 Stat. 601][/us/stat/129/601].\]
 
     \[For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, [Pub. L. 101–410][/us/pl/101/410], set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see [section 404 of Pub. L. 103–356][/us/pl/103/356/s404], set out as a note under [section 501 of Title 31][/us/usc/t31/s501], Money and Finance.\]
 
@@ -224,9 +224,9 @@
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F974
-[/us/pl/106/185/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs16
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F221
-[/us/pl/109/177/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs410
+[/us/pl/109/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIV
 [/us/stat/120/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F246
 [/us/usc/t12/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs567
 [/us/usc/t14/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs64
@@ -243,21 +243,21 @@
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
 [/us/pl/101/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F410
 [/us/stat/104/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F890
-[/us/pl/104/134/s31001/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fs%2F1
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-373
-[/us/pl/105/362/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1301%2Fa
+[/us/pl/105/362/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXIII
 [/us/stat/112/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3293
-[/us/pl/114/74/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs701%2Fb
+[/us/pl/114/74/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVII
 [/us/stat/129/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F599
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/104/134/s31001/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fs%2F2
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-373
-[/us/pl/104/134/s31001/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fs%2F1
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/101/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F410
-[/us/pl/114/74/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs701%2Fc
+[/us/pl/114/74/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVII
 [/us/stat/129/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F601
 [/us/pl/101/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F410
 [/us/pl/103/356/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs404

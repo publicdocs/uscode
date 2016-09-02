@@ -17,13 +17,13 @@
 
     Except as otherwise provided in [section 255 of this title][/us/usc/t28/s255], the judicial power of the Court of International Trade with respect to any action, suit or proceeding shall be exercised by a single judge, who may preside alone and hold a regular or special session of court at the same time other sessions are held by other judges.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 900][/us/stat/62/900]; [May 24, 1949, ch. 139, § 66][/us/act/1949-05-24/ch139/s66], [63 Stat. 99][/us/stat/63/99]; [Pub. L. 91–271, title I, § 106][/us/pl/91/271/s106], June 2, 1970, [84 Stat. 277][/us/stat/84/277]; [Pub. L. 96–417, title V, § 501(4)][/us/pl/96/417/s501/4], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 900][/us/stat/62/900]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 66, [63 Stat. 99][/us/stat/63/99]; [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 106, June 2, 1970, [84 Stat. 277][/us/stat/84/277]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(4), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 296 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], 187(a), as added [Oct. 10, 1940, ch. 843, § 1][/us/act/1940-10-10/ch843/s1], [54 Stat. 1101][/us/stat/54/1101]).
+    Based on title 28, U.S.C., 1940 ed., § 296 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], 187(a), as added [Oct. 10, 1940, ch. 843][/us/act/1940-10-10/ch843], § 1, [54 Stat. 1101][/us/stat/54/1101]).
 
     This section contains a part of [section 296 of title 28][/us/usc/t28/s296], U.S.C., 1940 ed. Other provisions of such section are incorporated in sections 251, 252, 253, 456, 1581, 2071, 2639, and 2640 of this title.
 
@@ -73,14 +73,14 @@
 [/us/usc/t28/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs255
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F900
-[/us/act/1949-05-24/ch139/s66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs66
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F99
-[/us/pl/91/271/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs106
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F277
-[/us/pl/96/417/s501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F4
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
-[/us/act/1940-10-10/ch843/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843%2Fs1
+[/us/act/1940-10-10/ch843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843
 [/us/stat/54/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1101
 [/us/usc/t28/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs296
 [/us/usc/t28/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs136

@@ -35,7 +35,7 @@
 
     (e) A “commercial activity carried on in the United States by a foreign state” means commercial activity carried on by such state and having substantial contact with the United States.
 
-(Added [Pub. L. 94–583, § 4(a)][/us/pl/94/583/s4/a], Oct. 21, 1976, [90 Stat. 2892][/us/stat/90/2892]; amended [Pub. L. 109–2, § 4(b)(2)][/us/pl/109/2/s4/b/2], Feb. 18, 2005, [119 Stat. 12][/us/stat/119/12].)
+(Added [Pub. L. 94–583][/us/pl/94/583], § 4(a), Oct. 21, 1976, [90 Stat. 2892][/us/stat/90/2892]; amended [Pub. L. 109–2][/us/pl/109/2], § 4(b)(2), Feb. 18, 2005, [119 Stat. 12][/us/stat/119/12].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t28/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1608
-[/us/pl/94/583/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs4%2Fa
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2892
-[/us/pl/109/2/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs4%2Fb%2F2
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F12
 [/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2

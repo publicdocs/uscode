@@ -17,11 +17,11 @@
 
     The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim for damages to oyster growers on private or leased lands or bottoms arising from dredging operations or use of other machinery and equipment in making river and harbor improvements authorized by Act of Congress.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [Pub. L. 97–164, title I, § 133(c)][/us/pl/97/164/s133/c], Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 133(c), Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 250a ([Aug. 30, 1935, ch. 831, § 13][/us/act/1935-08-30/ch831/s13], [49 Stat. 1049][/us/stat/49/1049]; [July 13, 1943, ch. 231][/us/act/1943-07-13/ch231], [57 Stat. 553][/us/stat/57/553]).
+    Based on title 28, U.S.C., 1940 ed., § 250a ([Aug. 30, 1935, ch. 831][/us/act/1935-08-30/ch831], § 13, [49 Stat. 1049][/us/stat/49/1049]; [July 13, 1943, ch. 231][/us/act/1943-07-13/ch231], [57 Stat. 553][/us/stat/57/553]).
 
     The proviso at the end of [section 250a of title 28][/us/usc/t28/s250a], U.S.C., 1940 ed., is incorporated in [section 2501 of this title][/us/usc/t28/s2501].
 
@@ -52,11 +52,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F941
-[/us/pl/97/164/s133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs133%2Fc
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F40
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1935-08-30/ch831/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831%2Fs13
+[/us/act/1935-08-30/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831
 [/us/stat/49/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1049
 [/us/act/1943-07-13/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-13%2Fch231
 [/us/stat/57/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F553

@@ -159,9 +159,9 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–598, title II, § 250(b)][/us/pl/95/598/s250/b], Nov. 6, 1978, [92 Stat. 2672][/us/stat/92/2672], directed the addition of item 2256 “Habeas corpus from bankruptcy courts”, which amendment did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
+    1978—[Pub. L. 95–598, title II][/us/pl/95/598/tII], § 250(b), Nov. 6, 1978, [92 Stat. 2672][/us/stat/92/2672], directed the addition of item 2256 “Habeas corpus from bankruptcy courts”, which amendment did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
 
-    1966—[Pub. L. 89–711, § 3][/us/pl/89/711/s3], Nov. 2, 1966, [80 Stat. 1106][/us/stat/80/1106], substituted “Federal courts” for “State Courts” in item 2254.
+    1966—[Pub. L. 89–711][/us/pl/89/711], § 3, Nov. 2, 1966, [80 Stat. 1106][/us/stat/80/1106], substituted “Federal courts” for “State Courts” in item 2254.
 
 ----------
 
@@ -170,11 +170,11 @@
 ----------
 ----------
 
-[/us/pl/95/598/s250/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs250%2Fb
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2672
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/89/711/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F711%2Fs3
+[/us/pl/89/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F711
 [/us/stat/80/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1106
 
 

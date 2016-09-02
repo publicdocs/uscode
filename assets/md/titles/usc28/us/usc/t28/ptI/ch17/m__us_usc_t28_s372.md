@@ -27,7 +27,7 @@
 
     (b) Whenever any judge of the United States appointed to hold office during good behavior who is eligible to retire under this section does not do so and a certificate of his disability signed by a majority of the members of the Judicial Council of his circuit in the case of a circuit or district judge, or by the Chief Justice of the United States in the case of the Chief Judge of the Court of International Trade, or by the chief judge of his court in the case of a judge of the Court of International Trade, is presented to the President and the President finds that such judge is unable to discharge efficiently all the duties of his office by reason of permanent mental or physical disability and that the appointment of an additional judge is necessary for the efficient dispatch of business, the President may make such appointment by and with the advice and consent of the Senate. Whenever any such additional judge is appointed, the vacancy subsequently caused by the death, resignation, or retirement of the disabled judge shall not be filled. Any judge whose disability causes the appointment of an additional judge shall, for purpose of precedence, service as chief judge, or temporary performance of the duties of that office, be treated as junior in commission to the other judges of the circuit, district, or court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 903][/us/stat/62/903]; [May 24, 1949, ch. 139, § 67][/us/act/1949-05-24/ch139/s67], [63 Stat. 99][/us/stat/63/99]; [Feb. 10, 1954, ch. 6, § 4(a)][/us/act/1954-02-10/ch6/s4/a], [68 Stat. 12][/us/stat/68/12]; [Pub. L. 85–261][/us/pl/85/261], Sept. 2, 1957, [71 Stat. 586][/us/stat/71/586]; [Pub. L. 96–417, title V, § 501(9)][/us/pl/96/417/s501/9], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 96–458, § 3(a)][/us/pl/96/458/s3/a], (b), Oct. 15, 1980, [94 Stat. 2036][/us/stat/94/2036], 2040; [Pub. L. 97–164, title I, § 112][/us/pl/97/164/s112], Apr. 2, 1982, [96 Stat. 29][/us/stat/96/29]; [Pub. L. 98–353, title I, § 107][/us/pl/98/353/s107], July 10, 1984, [98 Stat. 342][/us/stat/98/342]; [Pub. L. 100–702, title IV, § 403(c)][/us/pl/100/702/s403/c], Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651]; [Pub. L. 101–650, title IV, § 402][/us/pl/101/650/s402], Dec. 1, 1990, [104 Stat. 5122][/us/stat/104/5122]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 107–273, div. C, title I, § 11043(a)(1)][/us/pl/107/273/s11043/a/1], Nov. 2, 2002, [116 Stat. 1855][/us/stat/116/1855].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 903][/us/stat/62/903]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 67, [63 Stat. 99][/us/stat/63/99]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6], § 4(a), [68 Stat. 12][/us/stat/68/12]; [Pub. L. 85–261][/us/pl/85/261], Sept. 2, 1957, [71 Stat. 586][/us/stat/71/586]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(9), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 96–458][/us/pl/96/458], § 3(a), (b), Oct. 15, 1980, [94 Stat. 2036][/us/stat/94/2036], 2040; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 112, Apr. 2, 1982, [96 Stat. 29][/us/stat/96/29]; [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 107, July 10, 1984, [98 Stat. 342][/us/stat/98/342]; [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 403(c), Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651]; [Pub. L. 101–650, title IV][/us/pl/101/650/tIV], § 402, Dec. 1, 1990, [104 Stat. 5122][/us/stat/104/5122]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11043(a)(1), Nov. 2, 2002, [116 Stat. 1855][/us/stat/116/1855].)
 
  __Historical and Revision Notes__ 
 
@@ -55,55 +55,55 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–273, § 11043(a)(1)(A)][/us/pl/107/273/s11043/a/1/A], struck out “; judicial discipline” after “failure to retire” in section catchline.
+    2002—[Pub. L. 107–273][/us/pl/107/273], § 11043(a)(1)(A), struck out “; judicial discipline” after “failure to retire” in section catchline.
 
-    Subsec. (c). [Pub. L. 107–273, § 11043(a)(1)(B)][/us/pl/107/273/s11043/a/1/B], struck out subsec. (c), which had authorized complaints against circuit, district, bankruptcy, and magistrate judges, and set forth procedures for investigation and disposition of complaints. See chapter 16 of this title.
+    Subsec. (c). [Pub. L. 107–273][/us/pl/107/273], § 11043(a)(1)(B), struck out subsec. (c), which had authorized complaints against circuit, district, bankruptcy, and magistrate judges, and set forth procedures for investigation and disposition of complaints. See chapter 16 of this title.
 
     1992—Subsec. (c)(18). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    1990—Subsec. (c)(1). [Pub. L. 101–650, § 402(a)][/us/pl/101/650/s402/a], inserted at end “In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.”
+    1990—Subsec. (c)(1). [Pub. L. 101–650][/us/pl/101/650], § 402(a), inserted at end “In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.”
 
-    Subsec. (c)(3)(B). [Pub. L. 101–650, § 402(f)][/us/pl/101/650/s402/f], inserted before period at end “or that action on the complaint is no longer necessary because of intervening events”.
+    Subsec. (c)(3)(B). [Pub. L. 101–650][/us/pl/101/650], § 402(f), inserted before period at end “or that action on the complaint is no longer necessary because of intervening events”.
 
-    Subsec. (c)(4). [Pub. L. 101–650, § 402(b)][/us/pl/101/650/s402/b], inserted at end “A judge appointed to a special committee under this paragraph may continue to serve on that committee after becoming a senior judge or, in the case of the chief judge of the circuit, after his or her term as chief judge terminates under subsection (a)(3) or (c) of [section 45 of this title][/us/usc/t28/s45]. If a judge appointed to a committee under this paragraph dies, or retires from office under [section 371(a) of this title][/us/usc/t28/s371/a], while serving on the committee, the chief judge of the circuit may appoint another circuit or district judge, as the case may be, to the committee.”
+    Subsec. (c)(4). [Pub. L. 101–650][/us/pl/101/650], § 402(b), inserted at end “A judge appointed to a special committee under this paragraph may continue to serve on that committee after becoming a senior judge or, in the case of the chief judge of the circuit, after his or her term as chief judge terminates under subsection (a)(3) or (c) of [section 45 of this title][/us/usc/t28/s45]. If a judge appointed to a committee under this paragraph dies, or retires from office under [section 371(a) of this title][/us/usc/t28/s371/a], while serving on the committee, the chief judge of the circuit may appoint another circuit or district judge, as the case may be, to the committee.”
 
-    Subsec. (c)(6). [Pub. L. 101–650, § 402(g)][/us/pl/101/650/s402/g], added subpar. (C) and redesignated former subpar. (C) as (D).
+    Subsec. (c)(6). [Pub. L. 101–650][/us/pl/101/650], § 402(g), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (c)(7)(B). [Pub. L. 101–650, § 402(i)(1)][/us/pl/101/650/s402/i/1], substituted “may have engaged in conduct” for “has engaged in conduct” in introductory provisions and “article II” for “article I” in cl. (i).
+    Subsec. (c)(7)(B). [Pub. L. 101–650][/us/pl/101/650], § 402(i)(1), substituted “may have engaged in conduct” for “has engaged in conduct” in introductory provisions and “article II” for “article I” in cl. (i).
 
-    Subsec. (c)(8). [Pub. L. 101–650, § 402(d)][/us/pl/101/650/s402/d], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (c)(8). [Pub. L. 101–650][/us/pl/101/650], § 402(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    [Pub. L. 101–650, § 402(c)(1)][/us/pl/101/650/s402/c/1], inserted at end “Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination.”
+    [Pub. L. 101–650][/us/pl/101/650], § 402(c)(1), inserted at end “Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination.”
 
-    Subsec. (c)(11). [Pub. L. 101–650, § 402(e)][/us/pl/101/650/s402/e], inserted at end “No rule promulgated under this subsection may limit the period of time within which a person may file a complaint under this subsection.”
+    Subsec. (c)(11). [Pub. L. 101–650][/us/pl/101/650], § 402(e), inserted at end “No rule promulgated under this subsection may limit the period of time within which a person may file a complaint under this subsection.”
 
-    Subsec. (c)(14). [Pub. L. 101–650, § 402(c)(2)(A)][/us/pl/101/650/s402/c/2/A], (B), substituted “Except as provided in paragraph (8), all” for “All” and “except to the extent that” for “unless” in introductory provisions.
+    Subsec. (c)(14). [Pub. L. 101–650][/us/pl/101/650], § 402(c)(2)(A), (B), substituted “Except as provided in paragraph (8), all” for “All” and “except to the extent that” for “unless” in introductory provisions.
 
-    Subsec. (c)(14)(A). [Pub. L. 101–650, § 402(c)(2)(E)][/us/pl/101/650/s402/c/2/E], added subpar. (A). Former subpar. (A) redesignated (B).
+    Subsec. (c)(14)(A). [Pub. L. 101–650][/us/pl/101/650], § 402(c)(2)(E), added subpar. (A). Former subpar. (A) redesignated (B).
 
-    Subsec. (c)(14)(B). [Pub. L. 101–650, § 402(c)(2)(D)][/us/pl/101/650/s402/c/2/D], redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+    Subsec. (c)(14)(B). [Pub. L. 101–650][/us/pl/101/650], § 402(c)(2)(D), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
 
-    [Pub. L. 101–650, § 402(c)(2)(C)][/us/pl/101/650/s402/c/2/C], inserted “such disclosure is” before “authorized”.
+    [Pub. L. 101–650][/us/pl/101/650], § 402(c)(2)(C), inserted “such disclosure is” before “authorized”.
 
-    Subsec. (c)(14)(C). [Pub. L. 101–650, § 402(c)(2)(D)][/us/pl/101/650/s402/c/2/D], (i)(2), redesignated subpar. (B) as (C) and substituted “subject of the complaint” for “subject to the complaint”.
+    Subsec. (c)(14)(C). [Pub. L. 101–650][/us/pl/101/650], § 402(c)(2)(D), (i)(2), redesignated subpar. (B) as (C) and substituted “subject of the complaint” for “subject to the complaint”.
 
-    Subsec. (c)(16) to (18). [Pub. L. 101–650, § 402(h)][/us/pl/101/650/s402/h], added par. (16) and redesignated former pars. (16) and (17) as (17) and (18), respectively.
+    Subsec. (c)(16) to (18). [Pub. L. 101–650][/us/pl/101/650], § 402(h), added par. (16) and redesignated former pars. (16) and (17) as (17) and (18), respectively.
 
     1988—Subsec. (c)(11). [Pub. L. 100–702][/us/pl/100/702] inserted before last sentence “Any such rule shall be made or amended only after giving appropriate public notice and an opportunity for comment.”
 
     1984—Subsec. (c)(6)(B)(vii). [Pub. L. 98–353][/us/pl/98/353] substituted “section 152” for “section 153”.
 
-    1982—Subsec. (a). [Pub. L. 97–164, § 112(a)][/us/pl/97/164/s112/a], struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” in third and fifth pars.
+    1982—Subsec. (a). [Pub. L. 97–164][/us/pl/97/164], § 112(a), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” in third and fifth pars.
 
-    Subsec. (b). [Pub. L. 97–164, § 112(b)][/us/pl/97/164/s112/b], struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” wherever appearing.
+    Subsec. (b). [Pub. L. 97–164][/us/pl/97/164], § 112(b), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” wherever appearing.
 
-    Subsec. (c)(17). [Pub. L. 97–164, § 112(c)][/us/pl/97/164/s112/c], substituted “United States Claims Court, the Court of International Trade, and the Court of Appeals for the Federal Circuit” for “Court of Claims, the Court of Customs and Patent Appeals, and the Customs Court”.
+    Subsec. (c)(17). [Pub. L. 97–164][/us/pl/97/164], § 112(c), substituted “United States Claims Court, the Court of International Trade, and the Court of Appeals for the Federal Circuit” for “Court of Claims, the Court of Customs and Patent Appeals, and the Customs Court”.
 
-    1980—[Pub. L. 96–458, § 3(b)][/us/pl/96/458/s3/b], inserted “judicial discipline” in section catchline.
+    1980—[Pub. L. 96–458][/us/pl/96/458], § 3(b), inserted “judicial discipline” in section catchline.
 
     Subsecs. (a), (b). [Pub. L. 96–417][/us/pl/96/417] redesignated the Customs Court as the Court of International Trade.
 
-    Subsec. (c). [Pub. L. 96–458, § 3(a)][/us/pl/96/458/s3/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–458][/us/pl/96/458], § 3(a), added subsec. (c).
 
     1957—Subsec. (b). [Pub. L. 85–261][/us/pl/85/261] added subsec. (b).
 
@@ -139,9 +139,9 @@
 
  __National Commission on Judicial Discipline and Removal__ 
 
-    [Pub. L. 102–368, title I][/us/pl/102/368], Sept. 23, 1992, [106 Stat. 1118][/us/stat/106/1118], provided in part that the National Commission on Judicial Discipline and Removal was to submit to Congress, the Chief Justice of the United States, and the President, the report mandated in subtitle II of title IV of [Pub. L. 101–650][/us/pl/101/650] no later than Aug. 1, 1993.
+    [Pub. L. 102–368, title I][/us/pl/102/368/tI], Sept. 23, 1992, [106 Stat. 1118][/us/stat/106/1118], provided in part that the National Commission on Judicial Discipline and Removal was to submit to Congress, the Chief Justice of the United States, and the President, the report mandated in subtitle II of title IV of [Pub. L. 101–650][/us/pl/101/650] no later than Aug. 1, 1993.
 
-    Subtitle II of title IV of [Pub. L. 101–650][/us/pl/101/650], Dec. 1, 1990, [104 Stat. 5124][/us/stat/104/5124], as amended by [Pub. L. 102–198, § 8(a)][/us/pl/102/198/s8/a], (b)(2), Dec. 9, 1991, [105 Stat. 1625][/us/stat/105/1625], 1626, known as the National Commission on Judicial Discipline and Removal Act, established the National Commission on Judicial Discipline and Removal to study the problems involved in the tenure of article III judges and submit to Congress, the Chief Justice of the United States, and the President, not later than one year after the Commission’s first meeting, a report of its findings, conclusions, and recommendations, and provided that the Commission was to terminate 30 days after submission of the report.
+    Subtitle II of title IV of [Pub. L. 101–650][/us/pl/101/650], Dec. 1, 1990, [104 Stat. 5124][/us/stat/104/5124], as amended by [Pub. L. 102–198][/us/pl/102/198], § 8(a), (b)(2), Dec. 9, 1991, [105 Stat. 1625][/us/stat/105/1625], 1626, known as the National Commission on Judicial Discipline and Removal Act, established the National Commission on Judicial Discipline and Removal to study the problems involved in the tenure of article III judges and submit to Congress, the Chief Justice of the United States, and the President, not later than one year after the Commission’s first meeting, a report of its findings, conclusions, and recommendations, and provided that the Commission was to terminate 30 days after submission of the report.
 
  __Computation of Judicial Service, District of Alaska__ 
 
@@ -160,27 +160,27 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F903
-[/us/act/1949-05-24/ch139/s67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs67
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F99
-[/us/act/1954-02-10/ch6/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6%2Fs4%2Fa
+[/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F12
 [/us/pl/85/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F261
 [/us/stat/71/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F586
-[/us/pl/96/417/s501/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F9
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
-[/us/pl/96/458/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458%2Fs3%2Fa
+[/us/pl/96/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458
 [/us/stat/94/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2036
-[/us/pl/97/164/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs112
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F29
-[/us/pl/98/353/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs107
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F342
-[/us/pl/100/702/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs403%2Fc
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4651
-[/us/pl/101/650/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402
+[/us/pl/101/650/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIV
 [/us/stat/104/5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5122
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/107/273/s11043/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Fa%2F1
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1855
 [/us/act/1939-08-05/ch433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch433
 [/us/stat/53/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1204
@@ -191,33 +191,33 @@
 [/us/usc/t28/s375c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs375c
 [/us/usc/t28/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs372
 [/us/usc/t28/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs372
-[/us/pl/107/273/s11043/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Fa%2F1%2FA
-[/us/pl/107/273/s11043/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11043%2Fa%2F1%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/101/650/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fa
-[/us/pl/101/650/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Ff
-[/us/pl/101/650/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fb
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t28/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs45
 [/us/usc/t28/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fa
-[/us/pl/101/650/s402/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fg
-[/us/pl/101/650/s402/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fi%2F1
-[/us/pl/101/650/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fd
-[/us/pl/101/650/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fc%2F1
-[/us/pl/101/650/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fe
-[/us/pl/101/650/s402/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fc%2F2%2FA
-[/us/pl/101/650/s402/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fc%2F2%2FE
-[/us/pl/101/650/s402/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fc%2F2%2FD
-[/us/pl/101/650/s402/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fc%2F2%2FC
-[/us/pl/101/650/s402/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fc%2F2%2FD
-[/us/pl/101/650/s402/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs402%2Fh
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/97/164/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs112%2Fa
-[/us/pl/97/164/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs112%2Fb
-[/us/pl/97/164/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs112%2Fc
-[/us/pl/96/458/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458%2Fs3%2Fb
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/96/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
-[/us/pl/96/458/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458%2Fs3%2Fa
+[/us/pl/96/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F458
 [/us/pl/85/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F261
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
@@ -240,12 +240,12 @@
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/96/417/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs701%2Fa
 [/us/usc/t28/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs251
-[/us/pl/102/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F368
+[/us/pl/102/368/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F368%2FtI
 [/us/stat/106/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1118
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/stat/104/5124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5124
-[/us/pl/102/198/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs8%2Fa
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1625
 [/us/pl/89/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F70
 [/us/usc/t28/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371

@@ -17,7 +17,7 @@
 
     All positions in the Federal Bureau of Investigation are excepted from the competitive service, and the incumbents of such positions occupy positions in the excepted service.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 617][/us/stat/80/617].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 617][/us/stat/80/617].)
 
 <table>
 
@@ -92,7 +92,7 @@ July 28, 1950, ch. 503, § 5 (last sentence), 4 Stat. 380.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F617
 [/us/stat/64/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F380
 [/us/usc/t5/s300d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs300d

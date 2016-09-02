@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 577 (R.S. § 846; [Feb. 18, 1875, ch. 80, § 1][/us/act/1875-02-18/ch80/s1], Stat. 318; [May 28, 1896, ch. 252, § 13][/us/act/1896-05-28/ch252/s13], [29 Stat. 183][/us/stat/29/183]; [May 27, 1908, ch. 200, § 1][/us/act/1908-05-27/ch200/s1], [35 Stat. 375][/us/stat/35/375]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [Feb. 26, 1919, ch. 49, § 7][/us/act/1919-02-26/ch49/s7], [40 Stat. 1182][/us/stat/40/1182]; [Oct. 13, 1941, ch. 431, § 1][/us/act/1941-10-13/ch431/s1], [55 Stat. 736][/us/stat/55/736]).
+    Based on title 28, U.S.C., 1940 ed., § 577 (R.S. § 846; [Feb. 18, 1875, ch. 80][/us/act/1875-02-18/ch80], § 1, Stat. 318; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], § 13, [29 Stat. 183][/us/stat/29/183]; [May 27, 1908, ch. 200][/us/act/1908-05-27/ch200], § 1, [35 Stat. 375][/us/stat/35/375]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [Feb. 26, 1919, ch. 49][/us/act/1919-02-26/ch49], § 7, [40 Stat. 1182][/us/stat/40/1182]; [Oct. 13, 1941, ch. 431][/us/act/1941-10-13/ch431], § 1, [55 Stat. 736][/us/stat/55/736]).
 
     Provision for payment of expenses under [section 577 of title 28][/us/usc/t28/s577], U.S.C., 1940 ed., from appropriations for expenses of the judiciary was omitted as unnecessary. Such expenses are carried in the Judiciary Appropriation Acts and will continue without this provision.
 
@@ -40,16 +40,16 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F957
-[/us/act/1875-02-18/ch80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80%2Fs1
-[/us/act/1896-05-28/ch252/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs13
+[/us/act/1875-02-18/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-02-18%2Fch80
+[/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F183
-[/us/act/1908-05-27/ch200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200%2Fs1
+[/us/act/1908-05-27/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200
 [/us/stat/35/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F375
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
-[/us/act/1919-02-26/ch49/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch49%2Fs7
+[/us/act/1919-02-26/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch49
 [/us/stat/40/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1182
-[/us/act/1941-10-13/ch431/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-10-13%2Fch431%2Fs1
+[/us/act/1941-10-13/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-10-13%2Fch431
 [/us/stat/55/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F736
 [/us/usc/t28/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs577
 [/us/usc/t28/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs551

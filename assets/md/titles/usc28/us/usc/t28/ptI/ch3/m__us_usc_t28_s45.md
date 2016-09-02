@@ -47,11 +47,11 @@
 
     (d) If a chief judge is temporarily unable to perform his duties as such, they shall be performed by the circuit judge in active service, present in the circuit and able and qualified to act, who is next in precedence.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 871][/us/stat/62/871]; [Oct. 31, 1951, ch. 655, § 35][/us/act/1951-10-31/ch655/s35], [65 Stat. 723][/us/stat/65/723]; [Pub. L. 85–593, § 1][/us/pl/85/593/s1], Aug. 6, 1958, [72 Stat. 497][/us/stat/72/497]; [Pub. L. 97–164, title II][/us/pl/97/164], §§ 201, 204, Apr. 2, 1982, [96 Stat. 51][/us/stat/96/51], 53.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 871][/us/stat/62/871]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 35, [65 Stat. 723][/us/stat/65/723]; [Pub. L. 85–593][/us/pl/85/593], § 1, Aug. 6, 1958, [72 Stat. 497][/us/stat/72/497]; [Pub. L. 97–164, title II][/us/pl/97/164/tII], §§ 201, 204, Apr. 2, 1982, [96 Stat. 51][/us/stat/96/51], 53.)
 
  __Historical and Revision Notes__ 
 
-    Based on sections 216 and 216a of title 28, U.S.C., 1940 ed. ([Mar. 3, 1911, ch. 231, § 120][/us/act/1911-03-03/ch231/s120], [36 Stat. 1132][/us/stat/36/1132]; [May 23, 1934, ch. 339][/us/act/1934-05-23/ch339], [48 Stat. 796][/us/stat/48/796]).
+    Based on sections 216 and 216a of title 28, U.S.C., 1940 ed. ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 120, [36 Stat. 1132][/us/stat/36/1132]; [May 23, 1934, ch. 339][/us/act/1934-05-23/ch339], [48 Stat. 796][/us/stat/48/796]).
 
     Subsection (a), providing for “chief judge,” is new. Such term is adopted to replace the term “senior circuit judge” in recognition of the great increase in administrative duties of such judge.
 
@@ -69,11 +69,11 @@
 
  __Amendments__ 
 
-    1982—Subsec. (a). [Pub. L. 97–164, § 201(a)][/us/pl/97/164/s201/a], designated existing first sentence of subsec. (a) as par. (1), substituted “The chief judge of the circuit shall be the circuit judge in regular active service who is senior in commission of those judges who—(A) are sixty-four years of age or under; (B) have served for one year or more as a circuit judge; and (C) have not served previously as chief judge” for “The circuit judge in regular active service who is senior in commission and under seventy years of age shall be the chief judge of the circuit” in par. (1) as so designated, designated existing second sentence of subsec. (a) as par. (2)(A), substituted “In any case in which no circuit judge meets the qualifications of paragraph (1), the youngest circuit judge in regular active service who is sixty-five years of age or over and who has served as circuit judge for one year or more shall act as the chief judge” for “If all the circuit judges in regular active service are seventy years of age or older the youngest shall act as chief judge until a judge has been appointed and qualified who is under seventy years of age, but a judge may not act as chief judge until he has served as a circuit judge for one year” in par. (2)(A) as so designated, and added pars. (2)(B) and (3).
+    1982—Subsec. (a). [Pub. L. 97–164][/us/pl/97/164], § 201(a), designated existing first sentence of subsec. (a) as par. (1), substituted “The chief judge of the circuit shall be the circuit judge in regular active service who is senior in commission of those judges who—(A) are sixty-four years of age or under; (B) have served for one year or more as a circuit judge; and (C) have not served previously as chief judge” for “The circuit judge in regular active service who is senior in commission and under seventy years of age shall be the chief judge of the circuit” in par. (1) as so designated, designated existing second sentence of subsec. (a) as par. (2)(A), substituted “In any case in which no circuit judge meets the qualifications of paragraph (1), the youngest circuit judge in regular active service who is sixty-five years of age or over and who has served as circuit judge for one year or more shall act as the chief judge” for “If all the circuit judges in regular active service are seventy years of age or older the youngest shall act as chief judge until a judge has been appointed and qualified who is under seventy years of age, but a judge may not act as chief judge until he has served as a circuit judge for one year” in par. (2)(A) as so designated, and added pars. (2)(B) and (3).
 
-    Subsec. (b). [Pub. L. 97–164, § 204][/us/pl/97/164/s204], inserted “of the court in regular active service” after “circuit judges” in second sentence.
+    Subsec. (b). [Pub. L. 97–164][/us/pl/97/164], § 204, inserted “of the court in regular active service” after “circuit judges” in second sentence.
 
-    Subsec. (c). [Pub. L. 97–164, § 201(b)][/us/pl/97/164/s201/b], amended subsec. (c) generally, substituting “the chief judge of the circuit shall be such other circuit judge who is qualified to serve or act as chief judge under subsection (a)” for “the circuit judge in active service next in precedence and willing to serve shall be designated by the Chief Justice as the chief judge of the circuit”.
+    Subsec. (c). [Pub. L. 97–164][/us/pl/97/164], § 201(b), amended subsec. (c) generally, substituting “the chief judge of the circuit shall be such other circuit judge who is qualified to serve or act as chief judge under subsection (a)” for “the circuit judge in active service next in precedence and willing to serve shall be designated by the Chief Justice as the chief judge of the circuit”.
 
     1958—Subsec. (a). [Pub. L. 85–593][/us/pl/85/593] provided that chief judges of circuit courts cease to serve as such upon reaching the age of seventy, that the youngest circuit judge act as chief judge where all circuit judges in regular active service are seventy years or older until a judge under seventy has been appointed and qualified, and that circuit judge must have served one year before acting as chief judge.
 
@@ -85,13 +85,13 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–593, § 3][/us/pl/85/593/s3], Aug. 6, 1958, [72 Stat. 497][/us/stat/72/497], as amended by [Pub. L. 95–486, § 4][/us/pl/95/486/s4], Oct. 20, 1978, [92 Stat. 1632][/us/stat/92/1632], provided that: 
+[Pub. L. 85–593][/us/pl/85/593], § 3, Aug. 6, 1958, [72 Stat. 497][/us/stat/72/497], as amended by [Pub. L. 95–486][/us/pl/95/486], § 4, Oct. 20, 1978, [92 Stat. 1632][/us/stat/92/1632], provided that: 
 
 > “The amendments to sections 45 and 136 of title 28 of the United States Code made by this Act shall take effect at the expiration of one year from the date of enactment of this Act \[Aug. 6, 1958\].”
 
  __Savings Provision__ 
 
-[Pub. L. 97–164, title II, § 203][/us/pl/97/164/s203], Apr. 2, 1982, [96 Stat. 53][/us/stat/96/53], provided that:
+[Pub. L. 97–164, title II][/us/pl/97/164/tII], § 203, Apr. 2, 1982, [96 Stat. 53][/us/stat/96/53], provided that:
 
 >     “(a) The amendments to [section 45 of title 28][/us/usc/t28/s45], United States Code, and to section 136 of such title, made by sections 201 and 202 of this Act, shall not apply to or affect any person serving as chief judge on the effective date of this Act \[Oct. 1, 1982\].
 
@@ -99,13 +99,13 @@
 
  __Appointment of Chief Judge of Court of Appeals for the Federal Circuit__ 
 
-[Pub. L. 97–164, title I, § 166][/us/pl/97/164/s166], Apr. 2, 1982, [96 Stat. 50][/us/stat/96/50], provided that: 
+[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 166, Apr. 2, 1982, [96 Stat. 50][/us/stat/96/50], provided that: 
 
 > “Notwithstanding the provisions of [section 45(a) of title 28][/us/usc/t28/s45/a], United States Code, the first chief judge of the United States Court of Appeals for the Federal Circuit shall be the Chief Judge of the United States Court of Claims or the Chief Judge of the United States Court of Customs and Patent Appeals, whoever has served longer as chief judge of his court. Notwithstanding [section 45 of title 28][/us/usc/t28/s45], United States Code, whichever of the two chief judges does not become the first chief judge of the United States Court of Appeals for the Federal Circuit under the preceding sentence shall, while in active service, have precedence and be deemed senior in commission over all the circuit judges of the United States Court of Appeals for the Federal Circuit (other than the first chief judge of that circuit). When the person who first serves as chief judge of the United States Court of Appeals for the Federal Circuit vacates that position, the position shall be filled in accordance with [section 45(a) of title 28][/us/usc/t28/s45/a], United States Code, as modified by the preceding sentence of this section.”
 
  __Chief Judge of Court of Appeals for District of Columbia__ 
 
-    [Act June 25, 1948, ch. 646, § 2(a)][/us/act/1948-06-25/ch646/s2/a], [62 Stat. 985][/us/stat/62/985], provided in part that the Chief Justice of the Court of Appeals for the District of Columbia in office on Sept. 1, 1948, shall thereafter be known as the Chief Judge.
+    [Act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 2(a), [62 Stat. 985][/us/stat/62/985], provided in part that the Chief Justice of the Court of Appeals for the District of Columbia in office on Sept. 1, 1948, shall thereafter be known as the Chief Judge.
 
 ----------
 
@@ -116,13 +116,13 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F871
-[/us/act/1951-10-31/ch655/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs35
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F723
-[/us/pl/85/593/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F593%2Fs1
+[/us/pl/85/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F593
 [/us/stat/72/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F497
-[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtII
 [/us/stat/96/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F51
-[/us/act/1911-03-03/ch231/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs120
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1132
 [/us/act/1934-05-23/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-23%2Fch339
 [/us/stat/48/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F796
@@ -131,28 +131,28 @@
 [/us/usc/t28/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs216
 [/us/usc/t28/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs47
 [/us/usc/t28/s216a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs216a
-[/us/pl/97/164/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs201%2Fa
-[/us/pl/97/164/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs204
-[/us/pl/97/164/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs201%2Fb
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/85/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F593
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/85/593/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F593%2Fs3
+[/us/pl/85/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F593
 [/us/stat/72/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F497
-[/us/pl/95/486/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486%2Fs4
+[/us/pl/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486
 [/us/stat/92/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1632
-[/us/pl/97/164/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs203
+[/us/pl/97/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtII
 [/us/stat/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F53
 [/us/usc/t28/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs45
 [/us/usc/t28/s45/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs45%2Fa
 [/us/usc/t28/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs136%2Fa
-[/us/pl/97/164/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs166
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F50
 [/us/usc/t28/s45/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs45%2Fa
 [/us/usc/t28/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs45
 [/us/usc/t28/s45/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs45%2Fa
-[/us/act/1948-06-25/ch646/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs2%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F985
 
 

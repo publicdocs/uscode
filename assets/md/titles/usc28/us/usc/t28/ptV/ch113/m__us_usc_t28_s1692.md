@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 117 ([Mar. 3, 1911, ch. 231, § 56][/us/act/1911-03-03/ch231/s56], [36 Stat. 1102][/us/stat/36/1102]).
+    Based on title 28, U.S.C., 1940 ed., § 117 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 56, [36 Stat. 1102][/us/stat/36/1102]).
 
     Provisions of [section 117 of title 28][/us/usc/t28/s117], U.S.C., 1940 ed., as to jurisdiction and control of a receiver of property in several districts are the basis of [section 754 of this title][/us/usc/t28/s754].
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F945
-[/us/act/1911-03-03/ch231/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs56
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1102
 [/us/usc/t28/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs117
 [/us/usc/t28/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs754

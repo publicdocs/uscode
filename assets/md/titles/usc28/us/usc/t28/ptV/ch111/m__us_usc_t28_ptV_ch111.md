@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–465, title III, § 321(b)(1)(B)][/us/pl/103/465/s321/b/1/B], Dec. 8, 1994, [108 Stat. 4946][/us/stat/108/4946], added item 1659.
+    1994—[Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 321(b)(1)(B), Dec. 8, 1994, [108 Stat. 4946][/us/stat/108/4946], added item 1659.
 
-    1990—[Pub. L. 101–650, title III, § 313(b)][/us/pl/101/650/s313/b], Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], added item 1658.
+    1990—[Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 313(b), Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], added item 1658.
 
-    1984—[Pub. L. 98–620, title IV, § 401(b)][/us/pl/98/620/s401/b], Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357], added item 1657.
+    1984—[Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 401(b), Nov. 8, 1984, [98 Stat. 3357][/us/stat/98/3357], added item 1657.
 
 ----------
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/103/465/s321/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fb%2F1%2FB
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4946
-[/us/pl/101/650/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs313%2Fb
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5115
-[/us/pl/98/620/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs401%2Fb
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3357
 
 

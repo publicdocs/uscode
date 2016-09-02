@@ -179,21 +179,21 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(15)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584, which directed the amendment of item 1744 by substituting “United States Patent and Trademark Office” for “Patent Office”, was executed by making the substitution for “patent office” to reflect the probable intent of Congress.
+    1999—[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(15)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584, which directed the amendment of item 1744 by substituting “United States Patent and Trademark Office” for “Patent Office”, was executed by making the substitution for “patent office” to reflect the probable intent of Congress.
 
-    1996—[Pub. L. 104–199, § 2(b)][/us/pl/104/199/s2/b], Sept. 21, 1996, [110 Stat. 2419][/us/stat/110/2419], added item 1738C.
+    1996—[Pub. L. 104–199][/us/pl/104/199], § 2(b), Sept. 21, 1996, [110 Stat. 2419][/us/stat/110/2419], added item 1738C.
 
-    1994—[Pub. L. 103–383, § 3(b)][/us/pl/103/383/s3/b], Oct. 20, 1994, [108 Stat. 4066][/us/stat/108/4066], added item 1738B.
+    1994—[Pub. L. 103–383][/us/pl/103/383], § 3(b), Oct. 20, 1994, [108 Stat. 4066][/us/stat/108/4066], added item 1738B.
 
-    1980—[Pub. L. 96–611, § 8(b)][/us/pl/96/611/s8/b], Dec. 28, 1980, [94 Stat. 3571][/us/stat/94/3571], added item 1738A.
+    1980—[Pub. L. 96–611][/us/pl/96/611], § 8(b), Dec. 28, 1980, [94 Stat. 3571][/us/stat/94/3571], added item 1738A.
 
-    1976—[Pub. L. 94–550, § 1(b)][/us/pl/94/550/s1/b], Oct. 18, 1976, [90 Stat. 2534][/us/stat/90/2534], added item 1746.
+    1976—[Pub. L. 94–550][/us/pl/94/550], § 1(b), Oct. 18, 1976, [90 Stat. 2534][/us/stat/90/2534], added item 1746.
 
     1964—[Pub. L. 88–619][/us/pl/88/619], §§ 5(b), 6(b), 7(b), Oct. 3, 1964, [78 Stat. 996][/us/stat/78/996], substituted “official documents” for “documents generally; copies” in item 1741, inserted “\[Repealed\]” in item 1742, and substituted “documents” for “specifications and drawings” in item 1745.
 
-    1951—[Act Aug. 28, 1951, ch. 351, § 2][/us/act/1951-08-28/ch351/s2], [65 Stat. 206][/us/stat/65/206], inserted “; photographic copies” in item 1732.
+    1951—[Act Aug. 28, 1951, ch. 351][/us/act/1951-08-28/ch351], § 2, [65 Stat. 206][/us/stat/65/206], inserted “; photographic copies” in item 1732.
 
-    1949—[Act May 24, 1949, ch. 139, § 92(a)][/us/act/1949-05-24/ch139/s92/a], [63 Stat. 103][/us/stat/63/103], struck out item 1745 “Printed copies of patient specifications and drawings” and renumbered item 1746 as 1745.
+    1949—[Act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 92(a), [63 Stat. 103][/us/stat/63/103], struck out item 1745 “Printed copies of patient specifications and drawings” and renumbered item 1746 as 1745.
 
 ----------
 
@@ -202,21 +202,21 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/104/199/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199%2Fs2%2Fb
+[/us/pl/104/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199
 [/us/stat/110/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2419
-[/us/pl/103/383/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F383%2Fs3%2Fb
+[/us/pl/103/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F383
 [/us/stat/108/4066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4066
-[/us/pl/96/611/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs8%2Fb
+[/us/pl/96/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611
 [/us/stat/94/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3571
-[/us/pl/94/550/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550%2Fs1%2Fb
+[/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550
 [/us/stat/90/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2534
 [/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F996
-[/us/act/1951-08-28/ch351/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-28%2Fch351%2Fs2
+[/us/act/1951-08-28/ch351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-28%2Fch351
 [/us/stat/65/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F206
-[/us/act/1949-05-24/ch139/s92/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs92%2Fa
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F103
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2323.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch158/m__us_usc_t28_s2341.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch158)
+[Previous](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2324 _us_usc_t28_s2325.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch158/m__us_usc_t28_s2341.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch158)
 
 ### CHAPTER 158—ORDERS OF FEDERAL AGENCIES; REVIEW
 
@@ -123,20 +123,20 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–164, title I, § 138][/us/pl/97/164/s138], Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42], struck out item 2353 “Decision of the Plant Variety Protection Office”.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 138, Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42], struck out item 2353 “Decision of the Plant Variety Protection Office”.
 
-    1966—[Pub. L. 89–773, § 4][/us/pl/89/773/s4], Nov. 6, 1966, [80 Stat. 1323][/us/stat/80/1323], struck out item 2352 “Rules”.
-
-----------
-
-[Previous](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2323.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch158/m__us_usc_t28_s2341.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch158)
+    1966—[Pub. L. 89–773][/us/pl/89/773], § 4, Nov. 6, 1966, [80 Stat. 1323][/us/stat/80/1323], struck out item 2352 “Rules”.
 
 ----------
+
+[Previous](./../../../../..//us/usc/t28/ptVI/ch157/m__us_usc_t28_s2324 _us_usc_t28_s2325.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch158/m__us_usc_t28_s2341.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch158)
+
+----------
 ----------
 
-[/us/pl/97/164/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs138
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F42
-[/us/pl/89/773/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773%2Fs4
+[/us/pl/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773
 [/us/stat/80/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1323
 
 

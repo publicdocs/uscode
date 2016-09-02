@@ -169,19 +169,19 @@
 
  __Amendments__ 
 
-    1980—[Pub. L. 96–481, title II, § 204(b)][/us/pl/96/481/s204/b], Oct. 21, 1980, [94 Stat. 2329][/us/stat/94/2329], substituted “Costs and fees” for “Costs” in item 2412.
+    1980—[Pub. L. 96–481, title II][/us/pl/96/481/tII], § 204(b), Oct. 21, 1980, [94 Stat. 2329][/us/stat/94/2329], substituted “Costs and fees” for “Costs” in item 2412.
 
-    1976—[Pub. L. 94–381, § 6][/us/pl/94/381/s6], Aug. 12, 1976, [90 Stat. 1120][/us/stat/90/1120], inserted “or a State” after “United States” in item 2403.
+    1976—[Pub. L. 94–381][/us/pl/94/381], § 6, Aug. 12, 1976, [90 Stat. 1120][/us/stat/90/1120], inserted “or a State” after “United States” in item 2403.
 
-    1972—[Pub. L. 92–562, § 3(b)][/us/pl/92/562/s3/b], Oct. 25, 1972, [86 Stat. 1177][/us/stat/86/1177], added item 2409a.
+    1972—[Pub. L. 92–562][/us/pl/92/562], § 3(b), Oct. 25, 1972, [86 Stat. 1177][/us/stat/86/1177], added item 2409a.
 
-    1966—[Pub. L. 89–505, § 2][/us/pl/89/505/s2], July 18, 1966, [80 Stat. 305][/us/stat/80/305], added items 2415 and 2416.
+    1966—[Pub. L. 89–505][/us/pl/89/505], § 2, July 18, 1966, [80 Stat. 305][/us/stat/80/305], added items 2415 and 2416.
 
-    1961—[Pub. L. 87–187, § 2][/us/pl/87/187/s2], Aug. 30, 1961, [75 Stat. 416][/us/stat/75/416], substituted “and compromise settlements” for “against the United States” in item 2414.
+    1961—[Pub. L. 87–187][/us/pl/87/187], § 2, Aug. 30, 1961, [75 Stat. 416][/us/stat/75/416], substituted “and compromise settlements” for “against the United States” in item 2414.
 
-    1954—[Act July 30, 1954, ch. 648, § 2(b)][/us/act/1954-07-30/ch648/s2/b], [68 Stat. 589][/us/stat/68/589], struck out “denied” in item 2402.
+    1954—[Act July 30, 1954, ch. 648][/us/act/1954-07-30/ch648], § 2(b), [68 Stat. 589][/us/stat/68/589], struck out “denied” in item 2402.
 
-    1949—[Act May 24, 1949, ch. 139, § 118][/us/act/1949-05-24/ch139/s118], [63 Stat. 105][/us/stat/63/105], substituted “Interest” for “Interest on judgments against United States” in item 2411.
+    1949—[Act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 118, [63 Stat. 105][/us/stat/63/105], substituted “Interest” for “Interest on judgments against United States” in item 2411.
 
 ----------
 
@@ -190,19 +190,19 @@
 ----------
 ----------
 
-[/us/pl/96/481/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs204%2Fb
+[/us/pl/96/481/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtII
 [/us/stat/94/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2329
-[/us/pl/94/381/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs6
+[/us/pl/94/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381
 [/us/stat/90/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1120
-[/us/pl/92/562/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F562%2Fs3%2Fb
+[/us/pl/92/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F562
 [/us/stat/86/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1177
-[/us/pl/89/505/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F505%2Fs2
+[/us/pl/89/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F505
 [/us/stat/80/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F305
-[/us/pl/87/187/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F187%2Fs2
+[/us/pl/87/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F187
 [/us/stat/75/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F416
-[/us/act/1954-07-30/ch648/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-30%2Fch648%2Fs2%2Fb
+[/us/act/1954-07-30/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-30%2Fch648
 [/us/stat/68/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F589
-[/us/act/1949-05-24/ch139/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs118
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F105
 
 

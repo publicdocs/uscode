@@ -23,11 +23,11 @@
 
     (d) A civil action in any State court arising under section 40302 of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 939][/us/stat/62/939]; [Pub. L. 85–554, § 5][/us/pl/85/554/s5], July 25, 1958, [72 Stat. 415][/us/stat/72/415]; [Pub. L. 95–473, § 2(a)(3)(A)][/us/pl/95/473/s2/a/3/A], Oct. 17, 1978, [92 Stat. 1465][/us/stat/92/1465]; [Pub. L. 95–486, § 9(b)][/us/pl/95/486/s9/b], Oct. 20, 1978, [92 Stat. 1634][/us/stat/92/1634]; [Pub. L. 103–322, title IV, § 40302(e)(5)][/us/pl/103/322/s40302/e/5], Sept. 13, 1994, [108 Stat. 1942][/us/stat/108/1942]; [Pub. L. 104–88, title III, § 305(b)][/us/pl/104/88/s305/b], Dec. 29, 1995, [109 Stat. 944][/us/stat/109/944]; [Pub. L. 104–287, § 3][/us/pl/104/287/s3], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 939][/us/stat/62/939]; [Pub. L. 85–554][/us/pl/85/554], § 5, July 25, 1958, [72 Stat. 415][/us/stat/72/415]; [Pub. L. 95–473][/us/pl/95/473], § 2(a)(3)(A), Oct. 17, 1978, [92 Stat. 1465][/us/stat/92/1465]; [Pub. L. 95–486][/us/pl/95/486], § 9(b), Oct. 20, 1978, [92 Stat. 1634][/us/stat/92/1634]; [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40302(e)(5), Sept. 13, 1994, [108 Stat. 1942][/us/stat/108/1942]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 305(b), Dec. 29, 1995, [109 Stat. 944][/us/stat/109/944]; [Pub. L. 104–287][/us/pl/104/287], § 3, Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 71 ([Mar. 3, 1911, ch. 231, § 28][/us/act/1911-03-03/ch231/s28], [36 Stat. 1094][/us/stat/36/1094]; [Jan. 20, 1914, ch. 11][/us/act/1914-01-20/ch11], [38 Stat. 278][/us/stat/38/278]; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]).
+    Based on title 28, U.S.C., 1940 ed., § 71 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 28, [36 Stat. 1094][/us/stat/36/1094]; [Jan. 20, 1914, ch. 11][/us/act/1914-01-20/ch11], [38 Stat. 278][/us/stat/38/278]; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]).
 
     The words “or its receivers or trustees” were inserted in both subsections to make clear that nonremovable actions against a carrier do not become removable under [section 1442 of this title][/us/usc/t28/s1442] when filed against court receivers or trustees.
 
@@ -79,23 +79,23 @@
 [/us/usc/t45/s51–54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs51%E2%80%9354
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F939
-[/us/pl/85/554/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554%2Fs5
+[/us/pl/85/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F554
 [/us/stat/72/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F415
-[/us/pl/95/473/s2/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs2%2Fa%2F3%2FA
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1465
-[/us/pl/95/486/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486%2Fs9%2Fb
+[/us/pl/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486
 [/us/stat/92/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1634
-[/us/pl/103/322/s40302/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40302%2Fe%2F5
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1942
-[/us/pl/104/88/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs305%2Fb
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F944
-[/us/pl/104/287/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs3
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3388
-[/us/act/1911-03-03/ch231/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs28
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1094
 [/us/act/1914-01-20/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-01-20%2Fch11
 [/us/stat/38/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F278
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/usc/t28/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1442
 [/us/act/1916-08-23/ch399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-23%2Fch399

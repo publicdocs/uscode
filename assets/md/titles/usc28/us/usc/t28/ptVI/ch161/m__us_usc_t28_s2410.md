@@ -47,7 +47,7 @@
 
     (e) Whenever any person has a lien upon any real or personal property, duly recorded in the jurisdiction in which the property is located, and a junior lien, other than a tax lien, in favor of the United States attaches to such property, such person may make a written request to the officer charged with the administration of the laws in respect of which the lien of the United States arises, to have the same extinguished. If after appropriate investigation, it appears to such officer that the proceeds from the sale of the property would be insufficient to wholly or partly satisfy the lien of the United States, or that the claim of the United States has been satisfied or by lapse of time or otherwise has become unenforceable, such officer may issue a certificate releasing the property from such lien.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 972][/us/stat/62/972]; [May 24, 1949, ch. 139, § 119][/us/act/1949-05-24/ch139/s119], [63 Stat. 105][/us/stat/63/105]; [Pub. L. 85–508, § 12(h)][/us/pl/85/508/s12/h], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 86–507, § 1(20)][/us/pl/86/507/s1/20], June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 89–719, title II, § 201][/us/pl/89/719/s201], Nov. 2, 1966, [80 Stat. 1147][/us/stat/80/1147]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–647, title XXXVI, § 3630][/us/pl/101/647/s3630], Nov. 29, 1990, [104 Stat. 4966][/us/stat/104/4966]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–316, title I, § 114][/us/pl/104/316/s114], Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 972][/us/stat/62/972]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 119, [63 Stat. 105][/us/stat/63/105]; [Pub. L. 85–508][/us/pl/85/508], § 12(h), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 86–507][/us/pl/86/507], § 1(20), June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 89–719, title II][/us/pl/89/719/tII], § 201, Nov. 2, 1966, [80 Stat. 1147][/us/stat/80/1147]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3630, Nov. 29, 1990, [104 Stat. 4966][/us/stat/104/4966]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 114, Oct. 19, 1996, [110 Stat. 3834][/us/stat/110/3834].)
 
  __Historical and Revision Notes__ 
 
@@ -129,21 +129,21 @@
 [/us/usc/t38/s3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3720
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F972
-[/us/act/1949-05-24/ch139/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs119
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F105
-[/us/pl/85/508/s12/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fh
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/86/507/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F20
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
-[/us/pl/89/719/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs201
+[/us/pl/89/719/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtII
 [/us/stat/80/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1147
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/101/647/s3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3630
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4966
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/104/316/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs114
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3834
 [/us/act/1931-03-04/ch515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-04%2Fch515
 [/us/stat/46/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1528

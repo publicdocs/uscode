@@ -19,7 +19,7 @@
 
     (b) The provisions of [section 1254(2) of this title][/us/usc/t28/s1254/2], regarding certification, and of [section 2101(f) of this title][/us/usc/t28/s2101/f], regarding stays, also apply to proceedings under this chapter.
 
-(Added [Pub. L. 89–554, § 4(e)][/us/pl/89/554/s4/e], Sept. 6, 1966, [80 Stat. 624][/us/stat/80/624]; amended [Pub. L. 100–352, § 5(e)][/us/pl/100/352/s5/e], June 27, 1988, [102 Stat. 663][/us/stat/102/663].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(e), Sept. 6, 1966, [80 Stat. 624][/us/stat/80/624]; amended [Pub. L. 100–352][/us/pl/100/352], § 5(e), June 27, 1988, [102 Stat. 663][/us/stat/102/663].)
 
 <table>
 
@@ -69,7 +69,7 @@ Dec. 29, 1950, ch. 1189, § 10, 64 Stat. 1132.  </td>
 
     The words “of the United States” following “Supreme Court” are omitted as unnecessary because the term “Supreme Court” as used in title 28 means the Supreme Court of the United States.
 
-    The words “[section 2101(f) of this title][/us/usc/t28/s2101/f]” are substituted for “[section 2101(e) of Title 28][/us/usc/t28/s2101/e]” on authority of the [Act of May 24, 1949, ch. 139, § 106(b)][/us/act/1949-05-24/ch139/s106/b], [63 Stat. 104][/us/stat/63/104], which redesignated subsection (e) of section 2101 as subsection (f).
+    The words “[section 2101(f) of this title][/us/usc/t28/s2101/f]” are substituted for “[section 2101(e) of Title 28][/us/usc/t28/s2101/e]” on authority of the [Act of May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 106(b), [63 Stat. 104][/us/stat/63/104], which redesignated subsection (e) of section 2101 as subsection (f).
 
  __Amendments__ 
 
@@ -90,13 +90,13 @@ Dec. 29, 1950, ch. 1189, § 10, 64 Stat. 1132.  </td>
 [/us/usc/t28/s1254/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254%2F1
 [/us/usc/t28/s1254/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254%2F2
 [/us/usc/t28/s2101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2101%2Ff
-[/us/pl/89/554/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fe
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F624
-[/us/pl/100/352/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs5%2Fe
+[/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/stat/102/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F663
 [/us/usc/t28/s2101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2101%2Ff
 [/us/usc/t28/s2101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2101%2Fe
-[/us/act/1949-05-24/ch139/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs106%2Fb
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F104
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t28/ptIV/ch87/m__us_usc_t28_s1391.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch87/m__us_usc_t28_s1393.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1392)
 
-## \[§ 1392. Repealed. [Pub. L. 112–63, § 203][/us/pl/112/63/s203], Dec. 7, 2011, [125 Stat. 764][/us/stat/125/764]\]
+## \[§ 1392. Repealed. [Pub. L. 112–63][/us/pl/112/63], § 203, Dec. 7, 2011, [125 Stat. 764][/us/stat/125/764]\]
 
-    Section, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 935][/us/stat/62/935]; [Pub. L. 104–220, § 1][/us/pl/104/220/s1], Oct. 1, 1996, [110 Stat. 3023][/us/stat/110/3023], related to defendants or property in different districts in the same State.
+    Section, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 935][/us/stat/62/935]; [Pub. L. 104–220][/us/pl/104/220], § 1, Oct. 1, 1996, [110 Stat. 3023][/us/stat/110/3023], related to defendants or property in different districts in the same State.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/112/63/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs203
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/stat/125/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F764
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F935
-[/us/pl/104/220/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F220%2Fs1
+[/us/pl/104/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F220
 [/us/stat/110/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3023
 [/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/112/63/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs205

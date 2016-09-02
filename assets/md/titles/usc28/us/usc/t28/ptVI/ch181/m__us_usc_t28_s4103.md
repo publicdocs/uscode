@@ -25,7 +25,7 @@
 
     may be removed by any defendant to the district court of the United States for the district and division embracing the place where such action is pending without regard to the amount in controversy between the parties.
 
-(Added [Pub. L. 111–223, § 3(a)][/us/pl/111/223/s3/a], Aug. 10, 2010, [124 Stat. 2383][/us/stat/124/2383].)
+(Added [Pub. L. 111–223][/us/pl/111/223], § 3(a), Aug. 10, 2010, [124 Stat. 2383][/us/stat/124/2383].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/223/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F223%2Fs3%2Fa
+[/us/pl/111/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F223
 [/us/stat/124/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2383
 
 

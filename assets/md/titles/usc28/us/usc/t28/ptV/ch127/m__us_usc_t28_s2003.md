@@ -19,7 +19,7 @@
 
     Whenever any such contingency arises after a marshal has sold any realty or interest therein and before a deed is executed, the court may, on application by the purchaser, or the plaintiff in whose action the sale was made, setting forth the facts of the case and the reason why the title was not perfected by such marshal, order the succeeding marshal to perfect the title and execute a deed to the purchaser, upon payment of the purchase money and unpaid costs.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 959][/us/stat/62/959]; [May 24, 1949, ch. 139, § 101][/us/act/1949-05-24/ch139/s101], [63 Stat. 104][/us/stat/63/104].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 959][/us/stat/62/959]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 101, [63 Stat. 104][/us/stat/63/104].)
 
  __Historical and Revision Notes__ 
 
@@ -50,7 +50,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F959
-[/us/act/1949-05-24/ch139/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs101
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F104
 [/us/usc/t28/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2003
 

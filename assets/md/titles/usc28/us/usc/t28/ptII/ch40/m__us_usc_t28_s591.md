@@ -73,25 +73,25 @@
 
         Before personally making any other determination under this chapter with respect to information received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
 
-(Added [Pub. L. 95–521, title VI, § 601(a)][/us/pl/95/521/s601/a], Oct. 26, 1978, [92 Stat. 1867][/us/stat/92/1867]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 3, 4(a), Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2040; [Pub. L. 98–473, title II, § 228(b)][/us/pl/98/473/s228/b], Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030]; [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1293][/us/stat/101/1293]; [Pub. L. 103–270][/us/pl/103/270], §§ 3(j), (k), 4, June 30, 1994, [108 Stat. 735][/us/stat/108/735], 736.)
+(Added [Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 601(a), Oct. 26, 1978, [92 Stat. 1867][/us/stat/92/1867]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 3, 4(a), Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2040; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 228(b), Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030]; [Pub. L. 100–191][/us/pl/100/191], § 2, Dec. 15, 1987, [101 Stat. 1293][/us/stat/101/1293]; [Pub. L. 103–270][/us/pl/103/270], §§ 3(j), (k), 4, June 30, 1994, [108 Stat. 735][/us/stat/108/735], 736.)
 
  __Amendments__ 
 
-    1994—Subsec. (b)(6) to (8). [Pub. L. 103–270, § 4(b)][/us/pl/103/270/s4/b], redesignated par. (8) as (6) and substituted “; and” for the period at end, added par. (7), and struck out former pars. (6) and (7) which read as follows:
+    1994—Subsec. (b)(6) to (8). [Pub. L. 103–270][/us/pl/103/270], § 4(b), redesignated par. (8) as (6) and substituted “; and” for the period at end, added par. (7), and struck out former pars. (6) and (7) which read as follows:
 
     “(6) any individual who leaves any office or position described in any of paragraphs (1) through (5) of this subsection, during the incumbency of the President under whom such individual served in the office or position plus one year after such incumbency, but in no event longer than a period of three years after the individual leaves the office or position;
 
     “(7) any individual who held an office or position described in any of paragraphs (1) through (5) of this subsection during the incumbency of one President and who continued to hold the office or position for not more than 90 days into the term of the next President, during the 1-year period after the individual leaves the office or position; and”.
 
-    Subsec. (c). [Pub. L. 103–270, § 4(a)][/us/pl/103/270/s4/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Preliminary Investigation With Respect to Persons Not Listed in Subsection (b).—The Attorney General may conduct a preliminary investigation in accordance with section 592 if—
+    Subsec. (c). [Pub. L. 103–270][/us/pl/103/270], § 4(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Preliminary Investigation With Respect to Persons Not Listed in Subsection (b).—The Attorney General may conduct a preliminary investigation in accordance with section 592 if—
 
     “(1) the Attorney General receives information sufficient to constitute grounds to investigate whether any person other than a person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction; and
 
     “(2) the Attorney General determines that an investigation or prosecution of the person, with respect to the information received, by the Attorney General or other officer of the Department of Justice may result in a personal, financial, or political conflict of interest.”
 
-    Subsec. (d)(2). [Pub. L. 103–270, § 3(j)][/us/pl/103/270/s3/j], substituted “30” for “15” wherever appearing.
+    Subsec. (d)(2). [Pub. L. 103–270][/us/pl/103/270], § 3(j), substituted “30” for “15” wherever appearing.
 
-    Subsec. (e). [Pub. L. 103–270, § 3(k)][/us/pl/103/270/s3/k], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “(e) Recusal of Attorney General.—
+    Subsec. (e). [Pub. L. 103–270][/us/pl/103/270], § 3(k), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “(e) Recusal of Attorney General.—
 
     “(1) When recusal is required.—If information received under this chapter involves the Attorney General or a person with whom the Attorney General has a current or recent personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior officer in the Department of Justice whom that information does not involve and who does not have a current or recent personal or financial relationship with such person to perform the duties assigned under this chapter to the Attorney General with respect to that information.
 
@@ -101,19 +101,19 @@
 
     1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473] substituted “Class B or C misdemeanor or an infraction” for “petty offense”.
 
-    1983—Subsec. (a). [Pub. L. 97–409, § 4(a)(1)][/us/pl/97/409/s4/a/1], substituted “information sufficient to constitute grounds to investigate” for “specific information” after “the Attorney General receives”.
+    1983—Subsec. (a). [Pub. L. 97–409][/us/pl/97/409], § 4(a)(1), substituted “information sufficient to constitute grounds to investigate” for “specific information” after “the Attorney General receives”.
 
-    Subsec. (b)(3). [Pub. L. 97–409, § 3][/us/pl/97/409/s3], substituted “who is compensated at or above a rate equivalent to level II” for “and compensated at a rate not less than the annual rate of basic pay provided for level IV”.
+    Subsec. (b)(3). [Pub. L. 97–409][/us/pl/97/409], § 3, substituted “who is compensated at or above a rate equivalent to level II” for “and compensated at a rate not less than the annual rate of basic pay provided for level IV”.
 
-    Subsec. (b)(4), (5). [Pub. L. 97–409, § 3][/us/pl/97/409/s3], redesignated as par. (5) “the Director of Central Intelligence” and all that followed through end of par. (4). Former par. (5) redesignated (6).
+    Subsec. (b)(4), (5). [Pub. L. 97–409][/us/pl/97/409], § 3, redesignated as par. (5) “the Director of Central Intelligence” and all that followed through end of par. (4). Former par. (5) redesignated (6).
 
-    Subsec. (b)(6). [Pub. L. 97–409, § 3][/us/pl/97/409/s3], redesignated former par. (5) as (6) and substituted “through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;” for “through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of the same political party as the incumbent President; and”. Former par. (6) redesignated (8).
+    Subsec. (b)(6). [Pub. L. 97–409][/us/pl/97/409], § 3, redesignated former par. (5) as (6) and substituted “through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;” for “through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of the same political party as the incumbent President; and”. Former par. (6) redesignated (8).
 
-    Subsec. (b)(7). [Pub. L. 97–409, § 3][/us/pl/97/409/s3], added par. (7).
+    Subsec. (b)(7). [Pub. L. 97–409][/us/pl/97/409], § 3, added par. (7).
 
-    Subsec. (b)(8). [Pub. L. 97–409, § 3][/us/pl/97/409/s3], redesignated former par. (6) as (8) and substituted “the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, and any officer of the campaign exercising authority at the national level, such as the campaign manager or director, during the incumbency of the President” for “any officer of the principal national campaign committee seeking the election or reelection of the President”.
+    Subsec. (b)(8). [Pub. L. 97–409][/us/pl/97/409], § 3, redesignated former par. (6) as (8) and substituted “the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, and any officer of the campaign exercising authority at the national level, such as the campaign manager or director, during the incumbency of the President” for “any officer of the principal national campaign committee seeking the election or reelection of the President”.
 
-    Subsec. (c). [Pub. L. 97–409, § 4(a)(2)][/us/pl/97/409/s4/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 97–409][/us/pl/97/409], § 4(a)(2), added subsec. (c).
 
  __Change of Name__ 
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 1994 Amendment; Transition Provisions__ 
 
-[Pub. L. 103–270, § 7][/us/pl/103/270/s7], June 30, 1994, [108 Stat. 737][/us/stat/108/737], provided that:
+[Pub. L. 103–270][/us/pl/103/270], § 7, June 30, 1994, [108 Stat. 737][/us/stat/108/737], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -161,7 +161,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–191, § 6][/us/pl/100/191/s6], Dec. 15, 1987, [101 Stat. 1307][/us/stat/101/1307], provided that:
+[Pub. L. 100–191][/us/pl/100/191], § 6, Dec. 15, 1987, [101 Stat. 1307][/us/stat/101/1307], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -197,11 +197,11 @@
 
  __Effective Date of 1984 Amendment__ 
 
-    [Pub. L. 98–473, title II, § 235(a)(1)(B)(ii)(IV)][/us/pl/98/473/s235/a/1/B/ii/IV], Oct. 12, 1984, [98 Stat. 2032][/us/stat/98/2032], provided that the amendment made by [Pub. L. 98–473][/us/pl/98/473] is effective Oct. 12, 1984.
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 235(a)(1)(B)(ii)(IV), Oct. 12, 1984, [98 Stat. 2032][/us/stat/98/2032], provided that the amendment made by [Pub. L. 98–473][/us/pl/98/473] is effective Oct. 12, 1984.
 
  __Effective Date__ 
 
-[Pub. L. 95–521, title VI, § 604][/us/pl/95/521/s604], Oct. 26, 1978, [92 Stat. 1875][/us/stat/92/1875], provided that: 
+[Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 604, Oct. 26, 1978, [92 Stat. 1875][/us/stat/92/1875], provided that: 
 
 > “Except as provided in this section, the amendments made by this title \[enacting this chapter and sections 49, 528, and 529 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1978\]. The provisions of chapter 39 of title 28 of the United States Code, as added by section 601 of this Act, shall not apply to specific information received by the Attorney General pursuant to section 591 of such title 28, if the Attorney General determines that—
 
@@ -213,13 +213,13 @@
 
  __Permanent Appropriation for Expenses of Independent Counsels__ 
 
-[Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title II\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–9, as amended by [Pub. L. 111–68, div. A, title I, § 1501(d)][/us/pl/111/68/s1501/d], Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041], provided: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title II\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–9, as amended by [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1501(d), Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041], provided: 
 
 > “That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of [28 U.S.C. 591][/us/usc/t28/s591] et seq. or other law”.
 
  __Contingency Fund for Independent Counsels__ 
 
-[Pub. L. 95–521, title VI, § 601(c)][/us/pl/95/521/s601/c], Oct. 26, 1978, [92 Stat. 1873][/us/stat/92/1873], as amended by [Pub. L. 97–409, § 2(c)(2)][/us/pl/97/409/s2/c/2], Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039]; [Pub. L. 100–191, § 5(b)][/us/pl/100/191/s5/b], Dec. 15, 1987, [101 Stat. 1307][/us/stat/101/1307], provided that: 
+[Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 601(c), Oct. 26, 1978, [92 Stat. 1873][/us/stat/92/1873], as amended by [Pub. L. 97–409][/us/pl/97/409], § 2(c)(2), Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039]; [Pub. L. 100–191][/us/pl/100/191], § 5(b), Dec. 15, 1987, [101 Stat. 1307][/us/stat/101/1307], provided that: 
 
 > “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
 
@@ -233,39 +233,39 @@
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/95/521/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs601%2Fa
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1867
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/stat/96/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2039
-[/us/pl/98/473/s228/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs228%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2030
-[/us/pl/100/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs2
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1293
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/stat/108/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F735
-[/us/pl/103/270/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs4%2Fb
-[/us/pl/103/270/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs4%2Fa
-[/us/pl/103/270/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fj
-[/us/pl/103/270/s3/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fk
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/97/409/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs4%2Fa%2F1
-[/us/pl/97/409/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs3
-[/us/pl/97/409/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs3
-[/us/pl/97/409/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs3
-[/us/pl/97/409/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs3
-[/us/pl/97/409/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs3
-[/us/pl/97/409/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs4%2Fa%2F2
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/103/270/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs7
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/stat/108/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F737
 [/us/usc/t28/s594/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs594%2Fb
 [/us/usc/t28/s594/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs594%2Fc
 [/us/usc/t28/s596/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs596%2Fb%2F2
 [/us/usc/t28/s593/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs593%2Fb%2F2
 [/us/usc/t3/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs113
-[/us/pl/100/191/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs6
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1307
 [/us/usc/t28/s599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
@@ -276,21 +276,21 @@
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t18/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202
 [/us/usc/t28/s594/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs594%2Fj
-[/us/pl/98/473/s235/a/1/B/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1%2FB%2Fii%2FIV
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/95/521/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs604
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1875
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
-[/us/pl/111/68/s1501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1501%2Fd
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2041
 [/us/usc/t28/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs591
-[/us/pl/95/521/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs601%2Fc
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1873
-[/us/pl/97/409/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fc%2F2
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/stat/96/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2039
-[/us/pl/100/191/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs5%2Fb
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1307
 
 

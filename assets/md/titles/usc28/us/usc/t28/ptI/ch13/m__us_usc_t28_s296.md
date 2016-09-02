@@ -21,11 +21,11 @@
 
     A justice or judge who has sat by designation and assignment in another district or circuit may, notwithstanding his absence from such district or circuit or the expiration of the period of his designation and assignment, decide or join in the decision and final disposition of all matters submitted to him during such period and in the consideration and disposition of applications for rehearing or further proceedings in such matters.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 901][/us/stat/62/901]; [Pub. L. 110–177, title V, § 503][/us/pl/110/177/s503], Jan. 7, 2008, [121 Stat. 2542][/us/stat/121/2542].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 901][/us/stat/62/901]; [Pub. L. 110–177, title V][/us/pl/110/177/tV], § 503, Jan. 7, 2008, [121 Stat. 2542][/us/stat/121/2542].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 17, 18, 22, 23, 301 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 13, 14, 18, 19, 188, [36 Stat. 1089][/us/stat/36/1089], 1143; [Oct. 3, 1913, ch. 18][/us/act/1913-10-03/ch18], [38 Stat. 203][/us/stat/38/203]; [Feb. 25, 1919, ch. 29][/us/act/1919-02-25/ch29], §§ 2, 5, [40 Stat. 1156][/us/stat/40/1156], 1157; [Sept. 14, 1922, ch. 306][/us/act/1922-09-14/ch306], §§ 3, 4, 5, [42 Stat. 839][/us/stat/42/839]; [Dec. 13, 1926, ch. 6, § 1][/us/act/1926-12-13/ch6/s1], [44 Stat. 919][/us/stat/44/919]; [Mar. 2, 1929, ch. 488, § 1][/us/act/1929-03-02/ch488/s1], [45 Stat. 1475][/us/stat/45/1475]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [Aug. 24, 1937, ch. 754, § 4][/us/act/1937-08-24/ch754/s4], [50 Stat. 753][/us/stat/50/753]; [Dec. 29, 1942, ch. 835][/us/act/1942-12-29/ch835], §§ 1, 2, 5, 6, [56 Stat. 1094][/us/stat/56/1094], 1095).
+    Based on title 28, U.S.C., 1940 ed., §§ 17, 18, 22, 23, 301 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 13, 14, 18, 19, 188, [36 Stat. 1089][/us/stat/36/1089], 1143; [Oct. 3, 1913, ch. 18][/us/act/1913-10-03/ch18], [38 Stat. 203][/us/stat/38/203]; [Feb. 25, 1919, ch. 29][/us/act/1919-02-25/ch29], §§ 2, 5, [40 Stat. 1156][/us/stat/40/1156], 1157; [Sept. 14, 1922, ch. 306][/us/act/1922-09-14/ch306], §§ 3, 4, 5, [42 Stat. 839][/us/stat/42/839]; [Dec. 13, 1926, ch. 6][/us/act/1926-12-13/ch6], § 1, [44 Stat. 919][/us/stat/44/919]; [Mar. 2, 1929, ch. 488][/us/act/1929-03-02/ch488], § 1, [45 Stat. 1475][/us/stat/45/1475]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [Aug. 24, 1937, ch. 754][/us/act/1937-08-24/ch754], § 4, [50 Stat. 753][/us/stat/50/753]; [Dec. 29, 1942, ch. 835][/us/act/1942-12-29/ch835], §§ 1, 2, 5, 6, [56 Stat. 1094][/us/stat/56/1094], 1095).
 
     Section simplifies provisions of sections 17, 18, paragraphs (b) and (c) of section 22, and sections 23 and 301 of title 28, U.S.C., 1940 ed., relating to powers and duties of designated judges.
 
@@ -53,7 +53,7 @@
 [/us/usc/t28/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F901
-[/us/pl/110/177/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs503
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2542
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1089
@@ -63,15 +63,15 @@
 [/us/stat/40/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1156
 [/us/act/1922-09-14/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306
 [/us/stat/42/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F839
-[/us/act/1926-12-13/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6%2Fs1
+[/us/act/1926-12-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6
 [/us/stat/44/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F919
-[/us/act/1929-03-02/ch488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488%2Fs1
+[/us/act/1929-03-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488
 [/us/stat/45/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1475
 [/us/act/1934-06-07/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-07%2Fch426
 [/us/stat/48/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F926
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
-[/us/act/1937-08-24/ch754/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754%2Fs4
+[/us/act/1937-08-24/ch754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754
 [/us/stat/50/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F753
 [/us/act/1942-12-29/ch835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-29%2Fch835
 [/us/stat/56/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1094

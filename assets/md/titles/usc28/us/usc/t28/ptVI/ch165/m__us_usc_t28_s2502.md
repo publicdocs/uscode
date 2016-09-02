@@ -19,11 +19,11 @@
 
     (b) See section 7422(f) of the Internal Revenue Code of 1986 for exception with respect to suits involving internal revenue taxes.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 976][/us/stat/62/976]; [Pub. L. 89–713, § 3(b)][/us/pl/89/713/s3/b], Nov. 2, 1966, [80 Stat. 1108][/us/stat/80/1108]; [Pub. L. 97–164, title I, § 139(a)][/us/pl/97/164/s139/a], Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 976][/us/stat/62/976]; [Pub. L. 89–713][/us/pl/89/713], § 3(b), Nov. 2, 1966, [80 Stat. 1108][/us/stat/80/1108]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(a), Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 261 ([Mar. 3, 1911, ch. 231, § 155][/us/act/1911-03-03/ch231/s155], [36 Stat. 1139][/us/stat/36/1139]).
+    Based on title 28, U.S.C., 1940 ed., § 261 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 155, [36 Stat. 1139][/us/stat/36/1139]).
 
     Changes were made in phraseology.
 
@@ -62,15 +62,15 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F976
-[/us/pl/89/713/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713%2Fs3%2Fb
+[/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
 [/us/stat/80/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1108
-[/us/pl/97/164/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fa
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F42
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1911-03-03/ch231/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs155
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1139
 [/us/usc/t26/s7422/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7422%2Ff
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

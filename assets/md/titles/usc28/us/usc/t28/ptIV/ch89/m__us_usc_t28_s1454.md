@@ -39,7 +39,7 @@
 
         (2) may, under the circumstances specified in section 1367(c), remand any claims within the supplemental jurisdiction of the district court under section 1367.
 
-(Added [Pub. L. 112–29, § 19(c)(1)][/us/pl/112/29/s19/c/1], Sept. 16, 2011, [125 Stat. 332][/us/stat/125/332].)
+(Added [Pub. L. 112–29][/us/pl/112/29], § 19(c)(1), Sept. 16, 2011, [125 Stat. 332][/us/stat/125/332].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/112/29/s19/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs19%2Fc%2F1
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F332
 [/us/pl/112/29/s19/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs19%2Fe
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295

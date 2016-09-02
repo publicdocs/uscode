@@ -19,7 +19,7 @@
 
     (b) This section does not preclude service of such a document without an order of court.
 
-(Added [Pub. L. 88–619, § 4(a)][/us/pl/88/619/s4/a], Oct. 3, 1964, [78 Stat. 995][/us/stat/78/995].)
+(Added [Pub. L. 88–619][/us/pl/88/619], § 4(a), Oct. 3, 1964, [78 Stat. 995][/us/stat/78/995].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/88/619/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619%2Fs4%2Fa
+[/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F995
 
 

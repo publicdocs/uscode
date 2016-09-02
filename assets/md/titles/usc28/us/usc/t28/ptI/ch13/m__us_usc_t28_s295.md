@@ -21,11 +21,11 @@
 
     The Chief Justice of the United States, a circuit justice or a chief judge of a circuit may make new designation and assignments in accordance with the provisions of this chapter and may revoke those previously made by him.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 901][/us/stat/62/901]; [Sept. 3, 1954, ch. 1263, § 39(d)][/us/act/1954-09-03/ch1263/s39/d], [68 Stat. 1240][/us/stat/68/1240]; [July 14, 1956, ch. 589, § 3(b)][/us/act/1956-07-14/ch589/s3/b], [70 Stat. 532][/us/stat/70/532]; [Pub. L. 85–755, § 6][/us/pl/85/755/s6], Aug. 25, 1958, [72 Stat. 850][/us/stat/72/850]; [Pub. L. 95–598, title II, § 207][/us/pl/95/598/s207], Nov. 6, 1978, [92 Stat. 2660][/us/stat/92/2660].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 901][/us/stat/62/901]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 39(d), [68 Stat. 1240][/us/stat/68/1240]; [July 14, 1956, ch. 589][/us/act/1956-07-14/ch589], § 3(b), [70 Stat. 532][/us/stat/70/532]; [Pub. L. 85–755][/us/pl/85/755], § 6, Aug. 25, 1958, [72 Stat. 850][/us/stat/72/850]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 207, Nov. 6, 1978, [92 Stat. 2660][/us/stat/92/2660].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 17, 20 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 13, 16, [36 Stat. 1089][/us/stat/36/1089]; [Sept. 14, 1922, ch. 306, § 3][/us/act/1922-09-14/ch306/s3], [42 Stat. 839][/us/stat/42/839]; [Aug. 24, 1937, ch. 754, § 4][/us/act/1937-08-24/ch754/s4], [50 Stat. 753][/us/stat/50/753]; [Dec. 29, 1942, ch. 835][/us/act/1942-12-29/ch835], §§ 1, 4, [56 Stat. 1094][/us/stat/56/1094], 1095).
+    Based on title 28, U.S.C., 1940 ed., §§ 17, 20 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 13, 16, [36 Stat. 1089][/us/stat/36/1089]; [Sept. 14, 1922, ch. 306][/us/act/1922-09-14/ch306], § 3, [42 Stat. 839][/us/stat/42/839]; [Aug. 24, 1937, ch. 754][/us/act/1937-08-24/ch754], § 4, [50 Stat. 753][/us/stat/50/753]; [Dec. 29, 1942, ch. 835][/us/act/1942-12-29/ch835], §§ 1, 4, [56 Stat. 1094][/us/stat/56/1094], 1095).
 
     This section consolidates and simplifies provisions of sections 17 and 20 of title 28, U.S.C., 1940 ed., relating to conditions upon designation and assignment as well as those applicable to filing, revoking and making new designations.
 
@@ -66,19 +66,19 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F901
-[/us/act/1954-09-03/ch1263/s39/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs39%2Fd
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1240
-[/us/act/1956-07-14/ch589/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch589%2Fs3%2Fb
+[/us/act/1956-07-14/ch589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch589
 [/us/stat/70/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F532
-[/us/pl/85/755/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F755%2Fs6
+[/us/pl/85/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F755
 [/us/stat/72/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F850
-[/us/pl/95/598/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs207
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2660
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1089
-[/us/act/1922-09-14/ch306/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306%2Fs3
+[/us/act/1922-09-14/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306
 [/us/stat/42/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F839
-[/us/act/1937-08-24/ch754/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754%2Fs4
+[/us/act/1937-08-24/ch754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754
 [/us/stat/50/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F753
 [/us/act/1942-12-29/ch835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-29%2Fch835
 [/us/stat/56/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1094

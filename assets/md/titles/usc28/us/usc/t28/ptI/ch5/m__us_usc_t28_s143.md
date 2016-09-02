@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 26 ([Mar. 3, 1911, ch. 231, § 22][/us/act/1911-03-03/ch231/s22], [36 Stat. 1090][/us/stat/36/1090]).
+    Based on title 28, U.S.C., 1940 ed., § 26 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 22, [36 Stat. 1090][/us/stat/36/1090]).
 
     The last clause of [section 26 of title 28][/us/usc/t28/s26], U.S.C., 1940, ed., prescribing the powers of a designated judge was omitted as covered by [section 296 of this title][/us/usc/t28/s296].
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F898
-[/us/act/1911-03-03/ch231/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs22
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1090
 [/us/usc/t28/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs26
 [/us/usc/t28/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs296

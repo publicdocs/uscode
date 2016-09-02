@@ -17,7 +17,7 @@
 
     The district courts shall have original jurisdiction of any civil action based on a counterclaim raised pursuant to section 337(c) of the Tariff Act of 1930, to the extent that it arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim in the proceeding under section 337(a) of that Act.
 
-(Added [Pub. L. 103–465, title III, § 321(b)(3)(A)][/us/pl/103/465/s321/b/3/A], Dec. 8, 1994, [108 Stat. 4946][/us/stat/108/4946].)
+(Added [Pub. L. 103–465, title III][/us/pl/103/465/tIII], § 321(b)(3)(A), Dec. 8, 1994, [108 Stat. 4946][/us/stat/108/4946].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/465/s321/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs321%2Fb%2F3%2FA
+[/us/pl/103/465/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtIII
 [/us/stat/108/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4946
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337
 [/us/usc/t19/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337

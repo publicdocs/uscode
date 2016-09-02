@@ -49,11 +49,11 @@
 
     (e) If a chief judge is temporarily unable to perform his duties as such, they shall be performed by the district judge in active service, present in the district and able and qualified to act, who is next in precedence.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Oct. 31, 1951, ch. 655, § 37][/us/act/1951-10-31/ch655/s37], [65 Stat. 723][/us/stat/65/723]; [Pub. L. 85–593, § 2][/us/pl/85/593/s2], Aug. 6, 1958, [72 Stat. 497][/us/stat/72/497]; [Pub. L. 97–164, title II, § 202][/us/pl/97/164/s202], Apr. 2, 1982, [96 Stat. 52][/us/stat/96/52].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 37, [65 Stat. 723][/us/stat/65/723]; [Pub. L. 85–593][/us/pl/85/593], § 2, Aug. 6, 1958, [72 Stat. 497][/us/stat/72/497]; [Pub. L. 97–164, title II][/us/pl/97/164/tII], § 202, Apr. 2, 1982, [96 Stat. 52][/us/stat/96/52].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 375 and District of Columbia Code, 1940 ed., § 11–301 ([Mar. 3, 1901, ch. 854][/us/act/1901-03-03/ch854], §§ 60, 61, [31 Stat. 1199][/us/stat/31/1199]; [Mar. 3, 1911, ch. 231, § 260][/us/act/1911-03-03/ch231/s260], [36 Stat. 1161][/us/stat/36/1161]; [Mar. 3, 1911, ch. 231, § 289][/us/act/1911-03-03/ch231/s289], [32 Stat. 1167][/us/stat/32/1167]; [Feb. 25, 1919, ch. 29, § 6][/us/act/1919-02-25/ch29/s6], [40 Stat. 1157][/us/stat/40/1157]; [Dec. 20, 1928, ch. 41][/us/act/1928-12-20/ch41], [45 Stat. 1056][/us/stat/45/1056]; [Mar. 1, 1929, ch. 419][/us/act/1929-03-01/ch419], [45 Stat. 1422][/us/stat/45/1422]; [June 19, 1930, ch. 537][/us/act/1930-06-19/ch537], [46 Stat. 785][/us/stat/46/785]; [May 31, 1938, ch. 290, § 5][/us/act/1938-05-31/ch290/s5], [52 Stat. 584][/us/stat/52/584]).
+    Based on title 28, U.S.C., 1940 ed., § 375 and District of Columbia Code, 1940 ed., § 11–301 ([Mar. 3, 1901, ch. 854][/us/act/1901-03-03/ch854], §§ 60, 61, [31 Stat. 1199][/us/stat/31/1199]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 260, [36 Stat. 1161][/us/stat/36/1161]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 289, [32 Stat. 1167][/us/stat/32/1167]; [Feb. 25, 1919, ch. 29][/us/act/1919-02-25/ch29], § 6, [40 Stat. 1157][/us/stat/40/1157]; [Dec. 20, 1928, ch. 41][/us/act/1928-12-20/ch41], [45 Stat. 1056][/us/stat/45/1056]; [Mar. 1, 1929, ch. 419][/us/act/1929-03-01/ch419], [45 Stat. 1422][/us/stat/45/1422]; [June 19, 1930, ch. 537][/us/act/1930-06-19/ch537], [46 Stat. 785][/us/stat/46/785]; [May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], § 5, [52 Stat. 584][/us/stat/52/584]).
 
     Section consolidates portions of [section 375 of title 28][/us/usc/t28/s375], U.S.C., 1940 ed., and section 11–301 of the District of Columbia Code, 1940 ed. The provisions of said section 375 relating to resignation and retirement of judges, and appointment of court officers, are incorporated in sections 294, 371, and 756 of this title. Other provisions of said section 11–301 of the District of Columbia Code are incorporated in [section 133 of this title][/us/usc/t28/s133].
 
@@ -71,9 +71,9 @@
 
  __Amendments__ 
 
-    1982—Subsec. (a). [Pub. L. 97–164, § 202(a)][/us/pl/97/164/s202/a], designated existing first sentence of subsec. (a) as par. (1), substituted “In any district having more than one district judge, the chief judge of the district shall be the district judge in regular active service who is senior in commission of those judges who—(A) are sixty-four years of age or under; (B) have served for one year or more as a district judge; and (C) have not served previously as chief judge” for “In each district having more than one judge the district judge in regular active service who is senior in commission and under seventy years of age shall be the chief judge of the district court” in par. (1) as so designated, designated existing second sentence of subsec. (a) as par. (2)(A), substituted “In any case in which no district judge meets the qualifications of paragraph (1), the youngest district judge in regular active service who is sixty-five years of age or over and who has served as district judge for one year or more shall act as the chief judge” for “If all the district judges in regular active service are seventy years of age or older the youngest shall act as chief judge until a judge has been appointed and qualified who is under seventy years of age, but a judge may not act as chief judge until he has served as a district judge for one year” in par. (2)(A) as so designated, and added pars. (2)(B) and (3).
+    1982—Subsec. (a). [Pub. L. 97–164][/us/pl/97/164], § 202(a), designated existing first sentence of subsec. (a) as par. (1), substituted “In any district having more than one district judge, the chief judge of the district shall be the district judge in regular active service who is senior in commission of those judges who—(A) are sixty-four years of age or under; (B) have served for one year or more as a district judge; and (C) have not served previously as chief judge” for “In each district having more than one judge the district judge in regular active service who is senior in commission and under seventy years of age shall be the chief judge of the district court” in par. (1) as so designated, designated existing second sentence of subsec. (a) as par. (2)(A), substituted “In any case in which no district judge meets the qualifications of paragraph (1), the youngest district judge in regular active service who is sixty-five years of age or over and who has served as district judge for one year or more shall act as the chief judge” for “If all the district judges in regular active service are seventy years of age or older the youngest shall act as chief judge until a judge has been appointed and qualified who is under seventy years of age, but a judge may not act as chief judge until he has served as a district judge for one year” in par. (2)(A) as so designated, and added pars. (2)(B) and (3).
 
-    Subsec. (d). [Pub. L. 97–164, § 202(b)][/us/pl/97/164/s202/b], substituted “and thereafter, the chief judge of the district shall be such other district judge who is qualified to serve or act as chief judge under subsection (a)” for “and thereafter the district judge in active service next in precedence and willing to serve shall be designated by the Chief Justice as the chief judge of the district court”.
+    Subsec. (d). [Pub. L. 97–164][/us/pl/97/164], § 202(b), substituted “and thereafter, the chief judge of the district shall be such other district judge who is qualified to serve or act as chief judge under subsection (a)” for “and thereafter the district judge in active service next in precedence and willing to serve shall be designated by the Chief Justice as the chief judge of the district court”.
 
     1958—Subsec. (a). [Pub. L. 85–593][/us/pl/85/593] provided that chief judges of district courts cease to serve as such upon reaching the age of seventy, that the youngest district judge act as chief judge where all district judges in regular active service are seventy years or older until a judge under seventy has been appointed and qualified, and that district judge must have served one year before acting as chief judge.
 
@@ -100,19 +100,19 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F897
-[/us/act/1951-10-31/ch655/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs37
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F723
-[/us/pl/85/593/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F593%2Fs2
+[/us/pl/85/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F593
 [/us/stat/72/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F497
-[/us/pl/97/164/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs202
+[/us/pl/97/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtII
 [/us/stat/96/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F52
 [/us/act/1901-03-03/ch854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch854
 [/us/stat/31/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1199
-[/us/act/1911-03-03/ch231/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs260
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1161
-[/us/act/1911-03-03/ch231/s289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs289
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/32/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F1167
-[/us/act/1919-02-25/ch29/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-25%2Fch29%2Fs6
+[/us/act/1919-02-25/ch29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-25%2Fch29
 [/us/stat/40/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1157
 [/us/act/1928-12-20/ch41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-12-20%2Fch41
 [/us/stat/45/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1056
@@ -120,15 +120,15 @@
 [/us/stat/45/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1422
 [/us/act/1930-06-19/ch537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-19%2Fch537
 [/us/stat/46/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F785
-[/us/act/1938-05-31/ch290/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290%2Fs5
+[/us/act/1938-05-31/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290
 [/us/stat/52/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F584
 [/us/usc/t28/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs375
 [/us/usc/t28/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs133
 [/us/usc/t28/s88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs88
 [/us/usc/t28/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs375
 [/us/usc/t28/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs44
-[/us/pl/97/164/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs202%2Fa
-[/us/pl/97/164/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs202%2Fb
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/85/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F593
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402

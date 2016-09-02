@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 110 ([Mar. 3, 1911, ch. 231, § 49][/us/act/1911-03-03/ch231/s49], [36 Stat. 1100][/us/stat/36/1100]).
+    Based on title 28, U.S.C., 1940 ed., § 110 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 49, [36 Stat. 1100][/us/stat/36/1100]).
 
     Words “Any civil action” were substituted for “All proceedings,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -40,7 +40,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F935
-[/us/act/1911-03-03/ch231/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs49
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1100
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/usc/t31/s321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs321%2Fc%2F2

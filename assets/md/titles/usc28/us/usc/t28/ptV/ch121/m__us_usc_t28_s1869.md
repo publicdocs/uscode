@@ -39,11 +39,11 @@
 
     (k) “jury summons” shall mean a summons issued by a clerk of court, jury commission, or their duly designated deputies, containing either a preprinted or stamped seal of court, and containing the name of the issuing clerk imprinted in preprinted, type, or facsimile manner on the summons or the envelopes transmitting the summons.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 953][/us/stat/62/953]; [Pub. L. 88–139, § 2][/us/pl/88/139/s2], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248]; [Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 61][/us/stat/82/61]; [Pub. L. 91–358, title I, § 172(b)][/us/pl/91/358/s172/b], July 29, 1970, [84 Stat. 590][/us/stat/84/590]; [Pub. L. 92–437, § 1][/us/pl/92/437/s1], Sept. 29, 1972, [86 Stat. 740][/us/stat/86/740]; [Pub. L. 95–572][/us/pl/95/572], §§ 3(b), 4, Nov. 2, 1978, [92 Stat. 2453][/us/stat/92/2453]; [Pub. L. 95–598, title II, § 243][/us/pl/95/598/s243], Nov. 6, 1978, [92 Stat. 2671][/us/stat/92/2671]; [Pub. L. 99–650, § 3][/us/pl/99/650/s3], Nov. 14, 1986, [100 Stat. 3641][/us/stat/100/3641]; [Pub. L. 100–702, title VIII][/us/pl/100/702], §§ 802(a), 804, Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657], 4658; [Pub. L. 110–406, § 5(c)][/us/pl/110/406/s5/c], Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 953][/us/stat/62/953]; [Pub. L. 88–139][/us/pl/88/139], § 2, Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248]; [Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 61][/us/stat/82/61]; [Pub. L. 91–358, title I][/us/pl/91/358/tI], § 172(b), July 29, 1970, [84 Stat. 590][/us/stat/84/590]; [Pub. L. 92–437][/us/pl/92/437], § 1, Sept. 29, 1972, [86 Stat. 740][/us/stat/86/740]; [Pub. L. 95–572][/us/pl/95/572], §§ 3(b), 4, Nov. 2, 1978, [92 Stat. 2453][/us/stat/92/2453]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 243, Nov. 6, 1978, [92 Stat. 2671][/us/stat/92/2671]; [Pub. L. 99–650][/us/pl/99/650], § 3, Nov. 14, 1986, [100 Stat. 3641][/us/stat/100/3641]; [Pub. L. 100–702, title VIII][/us/pl/100/702/tVIII], §§ 802(a), 804, Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657], 4658; [Pub. L. 110–406][/us/pl/110/406], § 5(c), Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 423 ([Mar. 3, 1911, ch. 231, § 286][/us/act/1911-03-03/ch231/s286], [36 Stat. 1166][/us/stat/36/1166]). Changes were made in phraseology.
+    Based on title 28, U.S.C., 1940 ed., § 423 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 286, [36 Stat. 1166][/us/stat/36/1166]). Changes were made in phraseology.
 
  __References in Text__ 
 
@@ -53,17 +53,17 @@
 
     2008—Subsecs. (j) to (l). [Pub. L. 110–406][/us/pl/110/406] inserted “and” at end of subsec. (j), redesignated subsec. (l) as (k), and struck out former subsec. (k) which defined “publicly draw”.
 
-    1988—Subsec. (a). [Pub. L. 100–702, § 802(a)][/us/pl/100/702/s802/a], amended subsec. (a) generally, substituting “, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter” for “or any authorized deputy clerk”.
+    1988—Subsec. (a). [Pub. L. 100–702][/us/pl/100/702], § 802(a), amended subsec. (a) generally, substituting “, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter” for “or any authorized deputy clerk”.
 
-    Subsec. (f). [Pub. L. 100–702, § 804][/us/pl/100/702/s804], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “ ‘district court of the United States’, ‘district court’, and ‘court’ shall mean courts constituted under chapter 5 of title 28, United States Code, section 22 of the Organic Act of Guam, as amended ([64 Stat. 389][/us/stat/64/389]; [48 U.S.C. 1424][/us/usc/t48/s1424]), section 21 of the Revised Organic Act of the Virgin Islands ([68 Stat. 506][/us/stat/68/506]; [48 U.S.C. 1611][/us/usc/t48/s1611]), and [section 1 of title 3][/us/usc/t3/s1], Canal Zone Code;;”.
+    Subsec. (f). [Pub. L. 100–702][/us/pl/100/702], § 804, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “ ‘district court of the United States’, ‘district court’, and ‘court’ shall mean courts constituted under chapter 5 of title 28, United States Code, section 22 of the Organic Act of Guam, as amended ([64 Stat. 389][/us/stat/64/389]; [48 U.S.C. 1424][/us/usc/t48/s1424]), section 21 of the Revised Organic Act of the Virgin Islands ([68 Stat. 506][/us/stat/68/506]; [48 U.S.C. 1611][/us/usc/t48/s1611]), and [section 1 of title 3][/us/usc/t3/s1], Canal Zone Code;;”.
 
     1986—Subsec. (f). [Pub. L. 99–650][/us/pl/99/650] struck out “except that for purposes of sections 1861, 1862, 1866(c), 1866(d), and 1867 of this chapter such terms shall include the Superior Court of the District of Columbia” after “Canal Zone Code;”.
 
     1978—Subsec. (f). [Pub. L. 95–598][/us/pl/95/598] directed the amendment of subsec. (f) by inserting “chapter 6 of title 28, United States Code,” after “chapter 5 of title 28, United States Code,”, which amendment did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
 
-    Subsec. (h). [Pub. L. 95–572, § 3(b)][/us/pl/95/572/s3/b], struck out “by pardon or amnesty” after “civil rights restored”.
+    Subsec. (h). [Pub. L. 95–572][/us/pl/95/572], § 3(b), struck out “by pardon or amnesty” after “civil rights restored”.
 
-    Subsecs. (j) to (l). [Pub. L. 95–572, § 4][/us/pl/95/572/s4], added subsecs. (j) to (l).
+    Subsecs. (j) to (l). [Pub. L. 95–572][/us/pl/95/572], § 4, added subsecs. (j) to (l).
 
     1972—Subsec. (h). [Pub. L. 92–437][/us/pl/92/437] added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out “race and occupation of a potential juror”, and in information to be contained in the form, struck out “race, color” and “occupation” from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual’s qualification for jury service.
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–650, § 4(a)][/us/pl/99/650/s4/a], Nov. 14, 1986, [100 Stat. 3641][/us/stat/100/3641], provided in part that: 
+[Pub. L. 99–650][/us/pl/99/650], § 4(a), Nov. 14, 1986, [100 Stat. 3641][/us/stat/100/3641], provided in part that: 
 
 > “The provisions of this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 14, 1986\]”.
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–437, § 2][/us/pl/92/437/s2], Sept. 29, 1972, [86 Stat. 741][/us/stat/86/741], provided that: 
+[Pub. L. 92–437][/us/pl/92/437], § 2, Sept. 29, 1972, [86 Stat. 741][/us/stat/86/741], provided that: 
 
 > “This Act \[amending this section\] shall take effect on the sixtieth day after the date of its enactment \[Sept. 29, 1972\].”
 
@@ -99,7 +99,7 @@
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and [Pub. L. 96–70, title II][/us/pl/96/70], §§ 2101, 2202–2203, Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], 494, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and [Pub. L. 96–70, title II][/us/pl/96/70/tII], §§ 2101, 2202–2203, Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], 494, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 ----------
 
@@ -110,31 +110,31 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F953
-[/us/pl/88/139/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs2
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 [/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F61
-[/us/pl/91/358/s172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs172%2Fb
+[/us/pl/91/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtI
 [/us/stat/84/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F590
-[/us/pl/92/437/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F437%2Fs1
+[/us/pl/92/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F437
 [/us/stat/86/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F740
 [/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/stat/92/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2453
-[/us/pl/95/598/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs243
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2671
-[/us/pl/99/650/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F650%2Fs3
+[/us/pl/99/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F650
 [/us/stat/100/3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3641
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVIII
 [/us/stat/102/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4657
-[/us/pl/110/406/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs5%2Fc
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4292
-[/us/act/1911-03-03/ch231/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs286
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1166
 [/us/pl/89/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F110
 [/us/stat/79/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F437
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
-[/us/pl/100/702/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs802%2Fa
-[/us/pl/100/702/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs804
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/stat/64/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F389
 [/us/usc/t48/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1424
 [/us/stat/68/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F506
@@ -144,18 +144,18 @@
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/95/572/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs3%2Fb
-[/us/pl/95/572/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs4
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/pl/92/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F437
 [/us/pl/91/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
-[/us/pl/99/650/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F650%2Fs4%2Fa
+[/us/pl/99/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F650
 [/us/stat/100/3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3641
 [/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/pl/95/572/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs7%2Fa
 [/us/usc/t28/s1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1363
-[/us/pl/92/437/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F437%2Fs2
+[/us/pl/92/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F437
 [/us/stat/86/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F741
 [/us/pl/91/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358
 [/us/pl/91/358/s199/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs199%2Fa
@@ -163,7 +163,7 @@
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/pl/90/274/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs104
 [/us/usc/t28/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1861
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
 
 

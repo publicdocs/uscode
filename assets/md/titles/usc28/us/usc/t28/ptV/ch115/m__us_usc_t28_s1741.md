@@ -17,13 +17,13 @@
 
     An official record or document of a foreign country may be evidenced by a copy, summary, or excerpt authenticated as provided in the Federal Rules of Civil Procedure.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 948][/us/stat/62/948]; [May 24, 1949, ch. 139, § 92(b)][/us/act/1949-05-24/ch139/s92/b], [63 Stat. 103][/us/stat/63/103]; [Pub. L. 88–619, § 5(a)][/us/pl/88/619/s5/a], Oct. 3, 1964, [78 Stat. 996][/us/stat/78/996].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 948][/us/stat/62/948]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 92(b), [63 Stat. 103][/us/stat/63/103]; [Pub. L. 88–619][/us/pl/88/619], § 5(a), Oct. 3, 1964, [78 Stat. 996][/us/stat/78/996].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 695e ([June 20, 1936, ch. 640, § 6][/us/act/1936-06-20/ch640/s6], [49 Stat. 1563][/us/stat/49/1563]).
+    Based on title 28, U.S.C., 1940 ed., § 695e ([June 20, 1936, ch. 640][/us/act/1936-06-20/ch640], § 6, [49 Stat. 1563][/us/stat/49/1563]).
 
     Words “Nothing contained in this section shall be deemed to alter, amend, or repeal [section 689 of this title][/us/usc/t28/s689],” at the end of [section 695e of title 28][/us/usc/t28/s695e], U.S.C., 1940 ed., were omitted. Although significant in the original Act, such words are unnecessary in a revision wherein both sections in question, as revised, are enacted at the same time.
 
@@ -52,11 +52,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F948
-[/us/act/1949-05-24/ch139/s92/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs92%2Fb
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F103
-[/us/pl/88/619/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619%2Fs5%2Fa
+[/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F996
-[/us/act/1936-06-20/ch640/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640%2Fs6
+[/us/act/1936-06-20/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640
 [/us/stat/49/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1563
 [/us/usc/t28/s689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs689
 [/us/usc/t28/s695e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs695e

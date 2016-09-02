@@ -33,7 +33,7 @@
 
     (g) Any person summoned for jury service who fails to appear as directed may be ordered by the district court to appear forthwith and show cause for failure to comply with the summons. Any person who fails to show good cause for noncompliance with a summons may be fined not more than $1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [May 24, 1949, ch. 179, § 96][/us/act/1949-05-24/ch179/s96], [63 Stat. 103][/us/stat/63/103]; [Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 58][/us/stat/82/58]; [Pub. L. 91–543][/us/pl/91/543], Dec. 11, 1970, [84 Stat. 1408][/us/stat/84/1408]; [Pub. L. 95–572, § 2(b)][/us/pl/95/572/s2/b], Nov. 2, 1978, [92 Stat. 2453][/us/stat/92/2453]; [Pub. L. 97–463, § 2][/us/pl/97/463/s2], Jan. 12, 1983, [96 Stat. 2531][/us/stat/96/2531]; [Pub. L. 100–702, title VIII, § 801][/us/pl/100/702/s801], Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657]; [Pub. L. 110–406][/us/pl/110/406], §§ 4, 5(b), 17(b), Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292], 4295.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [May 24, 1949, ch. 179][/us/act/1949-05-24/ch179], § 96, [63 Stat. 103][/us/stat/63/103]; [Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 58][/us/stat/82/58]; [Pub. L. 91–543][/us/pl/91/543], Dec. 11, 1970, [84 Stat. 1408][/us/stat/84/1408]; [Pub. L. 95–572][/us/pl/95/572], § 2(b), Nov. 2, 1978, [92 Stat. 2453][/us/stat/92/2453]; [Pub. L. 97–463][/us/pl/97/463], § 2, Jan. 12, 1983, [96 Stat. 2531][/us/stat/96/2531]; [Pub. L. 100–702, title VIII][/us/pl/100/702/tVIII], § 801, Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657]; [Pub. L. 110–406][/us/pl/110/406], §§ 4, 5(b), 17(b), Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292], 4295.)
 
  __Historical and Revision Notes__ 
 
@@ -51,15 +51,15 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–406, § 5(b)][/us/pl/110/406/s5/b], struck out “publicly” after “clerk shall” in second sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn.” after second sentence.
+    2008—Subsec. (a). [Pub. L. 110–406][/us/pl/110/406], § 5(b), struck out “publicly” after “clerk shall” in second sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn.” after second sentence.
 
-    Subsec. (g). [Pub. L. 110–406, § 17(b)][/us/pl/110/406/s17/b], substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.”
+    Subsec. (g). [Pub. L. 110–406][/us/pl/110/406], § 17(b), substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.”
 
-    [Pub. L. 110–406, § 4][/us/pl/110/406/s4], substituted “may be ordered” for “shall be ordered” and struck out “his” before “failure to comply”.
+    [Pub. L. 110–406][/us/pl/110/406], § 4, substituted “may be ordered” for “shall be ordered” and struck out “his” before “failure to comply”.
 
     1988—Subsec. (c)(1). [Pub. L. 100–702][/us/pl/100/702] amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “excused by the court, upon a showing of undue hardship or extreme inconvenience, for such period as the court deems necessary, at the conclusion of which such person shall be summoned again for jury service under subsections (b) and (c) of this section, or”.
 
-    1983—Subsec. (b). [Pub. L. 97–463, § 2][/us/pl/97/463/s2], inserted provision in second par. authorizing service by first-class mail of persons drawn for jury service, substituted in fourth par. “If such service is made by mail, the summons may be served by the marshal or by the clerk, the jury commission or their duly designated deputies, who shall make affidavit of service and shall attach thereto any receipt from the addressee for a registered or certified summons” for “If such service is made by registered or certified mail, the summons may be served by the clerk or jury commission or their duly designated deputies who shall make affidavit of service and shall file with such affidavit the addressee’s receipt for the registered or certified summons” and struck out provision requiring the marshal, if service was made by the marshal, to attach to his return the addressee’s receipt for the registered or certified mail.
+    1983—Subsec. (b). [Pub. L. 97–463][/us/pl/97/463], § 2, inserted provision in second par. authorizing service by first-class mail of persons drawn for jury service, substituted in fourth par. “If such service is made by mail, the summons may be served by the marshal or by the clerk, the jury commission or their duly designated deputies, who shall make affidavit of service and shall attach thereto any receipt from the addressee for a registered or certified summons” for “If such service is made by registered or certified mail, the summons may be served by the clerk or jury commission or their duly designated deputies who shall make affidavit of service and shall file with such affidavit the addressee’s receipt for the registered or certified summons” and struck out provision requiring the marshal, if service was made by the marshal, to attach to his return the addressee’s receipt for the registered or certified mail.
 
     1978—Subsec. (c). [Pub. L. 95–572][/us/pl/95/572] struck out introductory text reference to par. (7) of [section 1863(b) of this title][/us/usc/t28/s1863/b].
 
@@ -92,17 +92,17 @@
 [/us/usc/t28/s1863/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1863%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F952
-[/us/act/1949-05-24/ch179/s96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch179%2Fs96
+[/us/act/1949-05-24/ch179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch179
 [/us/stat/63/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F103
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F58
 [/us/pl/91/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F543
 [/us/stat/84/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1408
-[/us/pl/95/572/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs2%2Fb
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/stat/92/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2453
-[/us/pl/97/463/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs2
+[/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
 [/us/stat/96/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2531
-[/us/pl/100/702/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs801
+[/us/pl/100/702/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVIII
 [/us/stat/102/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4657
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4292
@@ -110,11 +110,11 @@
 [/us/stat/36/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1165
 [/us/usc/t28/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs418
 [/us/usc/t28/s1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1866
-[/us/pl/110/406/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs5%2Fb
-[/us/pl/110/406/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs17%2Fb
-[/us/pl/110/406/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs4
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
-[/us/pl/97/463/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs2
+[/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
 [/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/usc/t28/s1863/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1863%2Fb
 [/us/pl/91/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F543

@@ -23,7 +23,7 @@
 
     (d) The librarian shall certify to the marshal for payment vouchers covering expenditures for the purchase of such books and other material, and for binding, rebinding and repairing the same.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 919][/us/stat/62/919]; [Pub. L. 92–310, title II, § 206(d)][/us/pl/92/310/s206/d], June 6, 1972, [86 Stat. 203][/us/stat/86/203].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 919][/us/stat/62/919]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 206(d), June 6, 1972, [86 Stat. 203][/us/stat/86/203].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F919
-[/us/pl/92/310/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs206%2Fd
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
 

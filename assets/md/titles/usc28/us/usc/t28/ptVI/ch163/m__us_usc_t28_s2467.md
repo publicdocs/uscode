@@ -125,7 +125,7 @@
 
     The rate of exchange in effect at the time the suit to enforce is filed by the foreign nation shall be used in calculating the amount stated in any forfeiture or confiscation judgment requiring the payment of a sum of money submitted for registration.
 
-(Added [Pub. L. 106–185, § 15(a)][/us/pl/106/185/s15/a], Apr. 25, 2000, [114 Stat. 219][/us/stat/114/219]; amended [Pub. L. 107–56, title III, § 323][/us/pl/107/56/s323], Oct. 26, 2001, [115 Stat. 315][/us/stat/115/315]; [Pub. L. 111–342, § 2][/us/pl/111/342/s2], Dec. 22, 2010, [124 Stat. 3607][/us/stat/124/3607].)
+(Added [Pub. L. 106–185][/us/pl/106/185], § 15(a), Apr. 25, 2000, [114 Stat. 219][/us/stat/114/219]; amended [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 323, Oct. 26, 2001, [115 Stat. 315][/us/stat/115/315]; [Pub. L. 111–342][/us/pl/111/342], § 2, Dec. 22, 2010, [124 Stat. 3607][/us/stat/124/3607].)
 
  __References in Text__ 
 
@@ -135,13 +135,13 @@
 
     2010—Subsec. (d)(3)(A). [Pub. L. 111–342][/us/pl/111/342] amended subpar. (A) generally. Prior to amendment, text read as follows: “To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to [section 983(j) of title 18][/us/usc/t18/s983/j], at any time before or after an application is filed pursuant to subsection (c)(1) of this section.”
 
-    2001—Subsec. (a)(2)(A). [Pub. L. 107–56, § 323(4)][/us/pl/107/56/s323/4], inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
+    2001—Subsec. (a)(2)(A). [Pub. L. 107–56][/us/pl/107/56], § 323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
 
-    Subsec. (b)(1)(C). [Pub. L. 107–56, § 323(2)][/us/pl/107/56/s323/2], substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
+    Subsec. (b)(1)(C). [Pub. L. 107–56][/us/pl/107/56], § 323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
 
-    Subsec. (d)(1)(D). [Pub. L. 107–56, § 323(3)][/us/pl/107/56/s323/3], substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
+    Subsec. (d)(1)(D). [Pub. L. 107–56][/us/pl/107/56], § 323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
 
-    Subsec. (d)(3). [Pub. L. 107–56, § 323(1)][/us/pl/107/56/s323/1], added par. (3).
+    Subsec. (d)(3). [Pub. L. 107–56][/us/pl/107/56], § 323(1), added par. (3).
 
  __Effective Date__ 
 
@@ -156,18 +156,18 @@
 
 [/us/usc/t18/s1956/c/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1956%2Fc%2F7%2FB
 [/us/usc/t18/s983/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983%2Fj
-[/us/pl/106/185/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs15%2Fa
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F219
-[/us/pl/107/56/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs323
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F315
-[/us/pl/111/342/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F342%2Fs2
+[/us/pl/111/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F342
 [/us/stat/124/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3607
 [/us/pl/111/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F342
 [/us/usc/t18/s983/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983%2Fj
-[/us/pl/107/56/s323/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs323%2F4
-[/us/pl/107/56/s323/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs323%2F2
-[/us/pl/107/56/s323/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs323%2F3
-[/us/pl/107/56/s323/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs323%2F1
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/106/185/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs21
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
 

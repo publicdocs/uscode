@@ -59,7 +59,7 @@
 
     (e) No judgment by default shall be entered by a court of the United States or of a State against a foreign state, a political subdivision thereof, or an agency or instrumentality of a foreign state, unless the claimant establishes his claim or right to relief by evidence satisfactory to the court. A copy of any such default judgment shall be sent to the foreign state or political subdivision in the manner prescribed for service in this section.
 
-(Added [Pub. L. 94–583, § 4(a)][/us/pl/94/583/s4/a], Oct. 21, 1976, [90 Stat. 2894][/us/stat/90/2894].)
+(Added [Pub. L. 94–583][/us/pl/94/583], § 4(a), Oct. 21, 1976, [90 Stat. 2894][/us/stat/90/2894].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/94/583/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs4%2Fa
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2894
 
 

@@ -21,7 +21,7 @@
 
     (c) As used in this section, the term “district court” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands, and the term “district” includes the territorial jurisdiction of each such court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 937][/us/stat/62/937]; [May 24, 1949, ch. 139, § 81][/us/act/1949-05-24/ch139/s81], [63 Stat. 101][/us/stat/63/101]; [Pub. L. 86–770, § 1][/us/pl/86/770/s1], Sept. 13, 1960, [74 Stat. 912][/us/stat/74/912]; [Pub. L. 87–845, § 10][/us/pl/87/845/s10], Oct. 18, 1962, [76A Stat. 699][/us/stat/76A/699]; [Pub. L. 97–164, title I, § 132][/us/pl/97/164/s132], Apr. 2, 1982, [96 Stat. 39][/us/stat/96/39]; [Pub. L. 104–317, title VI, § 610(b)][/us/pl/104/317/s610/b], Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 937][/us/stat/62/937]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 81, [63 Stat. 101][/us/stat/63/101]; [Pub. L. 86–770][/us/pl/86/770], § 1, Sept. 13, 1960, [74 Stat. 912][/us/stat/74/912]; [Pub. L. 87–845][/us/pl/87/845], § 10, Oct. 18, 1962, [76A Stat. 699][/us/stat/76A/699]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 132, Apr. 2, 1982, [96 Stat. 39][/us/stat/96/39]; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 610(b), Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860].)
 
  __Historical and Revision Notes__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–770, § 4][/us/pl/86/770/s4], Sept. 13, 1960, [74 Stat. 913][/us/stat/74/913], provided in part that: 
+[Pub. L. 86–770][/us/pl/86/770], § 4, Sept. 13, 1960, [74 Stat. 913][/us/stat/74/913], provided in part that: 
 
 > “The amendments made by sections 1 and 2 of this Act \[adding subsec. (c) of this section and [section 1506 of this title][/us/usc/t28/s1506]\] shall apply to any case or proceeding pending on, or brought after, the date of enactment of this Act \[Sept. 13, 1960\] in the district courts or the Court of Claims.”
 
@@ -74,15 +74,15 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F937
-[/us/act/1949-05-24/ch139/s81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs81
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F101
-[/us/pl/86/770/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F770%2Fs1
+[/us/pl/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F770
 [/us/stat/74/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F912
-[/us/pl/87/845/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs10
+[/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/stat/76A/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76A%2F699
-[/us/pl/97/164/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs132
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F39
-[/us/pl/104/317/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs610%2Fb
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3860
 [/us/usc/t28/s1406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1406%2Fa
 [/us/usc/t28/s1406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1406%2Fa
@@ -99,7 +99,7 @@
 [/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/pl/87/845/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs25
 [/us/usc/t28/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs414
-[/us/pl/86/770/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F770%2Fs4
+[/us/pl/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F770
 [/us/stat/74/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F913
 [/us/usc/t28/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1506
 

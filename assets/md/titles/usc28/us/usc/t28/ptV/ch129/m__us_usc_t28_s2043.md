@@ -17,7 +17,7 @@
 
     Except for public moneys deposited under [section 2041 of this title][/us/usc/t28/s2041], each clerk of the United States courts shall deposit public moneys that the clerk collects into a checking account in the Treasury, subject to disbursement by the clerk. At the end of each accounting period, the earned part of public moneys accruing to the United States shall be deposited in the Treasury to the credit of the appropriate receipt accounts.
 
-(Added [Pub. L. 97–258, § 2(g)(4)(E)][/us/pl/97/258/s2/g/4/E], Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(g)(4)(E), Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061].)
 
 <table>
 
@@ -73,7 +73,7 @@ June 26, 1934, ch. 756, § 23(b)(related to clerks), 48 Stat. 1236; restated D
 ----------
 
 [/us/usc/t28/s2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2041
-[/us/pl/97/258/s2/g/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fg%2F4%2FE
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1061
 [/us/usc/t28/s2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2041
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

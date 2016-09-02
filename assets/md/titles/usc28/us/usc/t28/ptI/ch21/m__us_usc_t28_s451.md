@@ -31,7 +31,7 @@
 
     The term “agency” includes any department, independent establishment, commission, administration, authority, board or bureau of the United States or any corporation in which the United States has a proprietary interest, unless the context shows that such term was intended to be used in a more limited sense.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 907][/us/stat/62/907]; [Pub. L. 86–3, § 10][/us/pl/86/3/s10], Mar. 18, 1959, [73 Stat. 9][/us/stat/73/9]; [Pub. L. 89–571, § 3][/us/pl/89/571/s3], Sept. 12, 1966, [80 Stat. 764][/us/stat/80/764]; [Pub. L. 95–598, title II, § 213][/us/pl/95/598/s213], Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 96–417, title V, § 501(10)][/us/pl/96/417/s501/10], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 97–164, title I, § 114][/us/pl/97/164/s114], Apr. 2, 1982, [96 Stat. 29][/us/stat/96/29].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 907][/us/stat/62/907]; [Pub. L. 86–3][/us/pl/86/3], § 10, Mar. 18, 1959, [73 Stat. 9][/us/stat/73/9]; [Pub. L. 89–571][/us/pl/89/571], § 3, Sept. 12, 1966, [80 Stat. 764][/us/stat/80/764]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 213, Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(10), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 114, Apr. 2, 1982, [96 Stat. 29][/us/stat/96/29].)
 
  __Historical and Revisions Notes__ 
 
@@ -69,11 +69,11 @@
 
  __Effective Date of 1959 Amendment__ 
 
-    [Pub. L. 86–3, § 10][/us/pl/86/3/s10], Mar. 18, 1959, [73 Stat. 9][/us/stat/73/9], provided that the amendment made by [section 10 of Pub. L. 86–3][/us/pl/86/3/s10] shall be effective on admission of the State of Hawaii into the Union. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of [Pub. L. 86–3][/us/pl/86/3], Mar. 18, 1959, [73 Stat. 4][/us/stat/73/4], set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
+    [Pub. L. 86–3][/us/pl/86/3], § 10, Mar. 18, 1959, [73 Stat. 9][/us/stat/73/9], provided that the amendment made by [section 10 of Pub. L. 86–3][/us/pl/86/3/s10] shall be effective on admission of the State of Hawaii into the Union. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of [Pub. L. 86–3][/us/pl/86/3], Mar. 18, 1959, [73 Stat. 4][/us/stat/73/4], set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
 
 “Circuit Court of Appeals;” “Senior Circuit Judge,” Etc. Defined
 
-[Act June 25, 1948, ch. 646, § 32][/us/act/1948-06-25/ch646/s32], [62 Stat. 991][/us/stat/62/991], as amended by [act May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107], provided that:
+[Act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32, [62 Stat. 991][/us/stat/62/991], as amended by [act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107], provided that:
 
 >     “(a) All laws of the United States in force on September 1, 1948, in which reference is made to a ‘circuit court of appeals’; ‘senior circuit judge’; ‘senior district judge’; ‘presiding judge’; ‘chief justice’, except when reference to the Chief Justice of the United States is intended; or ‘justice’, except when used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice, are hereby amended by substituting ‘court of appeals’ for ‘circuit court of appeals’; ‘chief judge of the circuit’ for ‘senior circuit judge’; ‘chief judge of the district court’ for ‘senior district judge’; ‘chief judge’ for ‘presiding judge’; ‘chief judge’ for ‘chief justice’, except when reference to the Chief Justice of the United States is intended; and ‘judge’ for ‘justice’, except when the latter term is used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice.
 
@@ -85,11 +85,11 @@
 
  __Judges of the United States__ 
 
-[Act June 25, 1948, ch. 646, § 2(a)][/us/act/1948-06-25/ch646/s2/a], [62 Stat. 985][/us/stat/62/985], as amended by [act Sept. 3, 1954, ch. 1263, § 51(a)][/us/act/1954-09-03/ch1263/s51/a], [68 Stat. 1245][/us/stat/68/1245], provided that: 
+[Act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 2(a), [62 Stat. 985][/us/stat/62/985], as amended by [act Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 51(a), [68 Stat. 1245][/us/stat/68/1245], provided that: 
 
 > “The Chief Justices of the United States Court of Appeals for the District of Columbia, the District Court of the United States for the District of Columbia, and the Court of Claims \[now United States Court of Federal Claims\], and the presiding judge of the Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], in office on the effective date of this Act shall be the chief judges of their respective courts. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, the Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, the Chief Justice of the Court of Claims \[now United States Court of Federal Claims\], and the presiding judge of the Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], in office on the effective date of this Act, shall be judges of the United States within the meaning of [Section 451 of Title 28][/us/usc/t28/s451], Judiciary and Judicial Procedure, of the United States Code, set out in Section 1 of this Act. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, in office on the effective date of this Act, shall be circuit judges of the District of Columbia Circuit and vested with all the rights, powers, and duties thereof, and the said Chief Justice of the United States Court of Appeals for the District of Columbia shall be Chief Judge of said Circuit. The Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, in office on the effective date of this Act, shall be district judges for the District of Columbia and vested with all the rights, powers, and duties thereof.”
 
-    [Act Sept. 3, 1954, ch. 1263, § 51(b)][/us/act/1954-09-03/ch1263/s51/b], [68 Stat. 1246][/us/stat/68/1246], provided that this amendment should take effect as of Sept. 1, 1948.
+    [Act Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 51(b), [68 Stat. 1246][/us/stat/68/1246], provided that this amendment should take effect as of Sept. 1, 1948.
 
 ----------
 
@@ -101,15 +101,15 @@
 [/us/usc/t5/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F907
-[/us/pl/86/3/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs10
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F9
-[/us/pl/89/571/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F571%2Fs3
+[/us/pl/89/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F571
 [/us/stat/80/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F764
-[/us/pl/95/598/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs213
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2661
-[/us/pl/96/417/s501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F10
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
-[/us/pl/97/164/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs114
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F29
 [/us/usc/t5/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
@@ -126,21 +126,21 @@
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/96/417/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs701%2Fa
 [/us/usc/t28/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs251
-[/us/pl/86/3/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs10
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F9
 [/us/pl/86/3/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs10
 [/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F4
-[/us/act/1948-06-25/ch646/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/act/1948-06-25/ch646/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs2%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F985
-[/us/act/1954-09-03/ch1263/s51/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs51%2Fa
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1245
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
-[/us/act/1954-09-03/ch1263/s51/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs51%2Fb
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1246
 
 

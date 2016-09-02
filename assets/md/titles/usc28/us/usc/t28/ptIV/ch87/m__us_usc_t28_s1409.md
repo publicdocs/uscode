@@ -25,7 +25,7 @@
 
     (e) A proceeding arising under title 11 or arising in or related to a case under title 11, based on a claim arising after the commencement of such case from the operation of the business of the debtor, may be commenced against the representative of the estate in such case in the district court for the district where the State or Federal court sits in which the party commencing such proceeding may, under applicable nonbankruptcy venue provisions, have brought an action on such claim, or in the district court in which such case is pending.
 
-(Added [Pub. L. 98–353, title I, § 102(a)][/us/pl/98/353/s102/a], July 10, 1984, [98 Stat. 334][/us/stat/98/334]; amended [Pub. L. 109–8, title IV, § 410][/us/pl/109/8/s410], Apr. 20, 2005, [119 Stat. 106][/us/stat/119/106].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 102(a), July 10, 1984, [98 Stat. 334][/us/stat/98/334]; amended [Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 410, Apr. 20, 2005, [119 Stat. 106][/us/stat/119/106].)
 
  __Adjustment of Dollar Amounts__ 
 
@@ -47,7 +47,9 @@
 
     The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of Title 11][/us/usc/t11/s104], Bankruptcy, as follows:
 
-    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amounts “1,175”, “17,575”, and “11,725” were adjusted to “1,250”, “18,675”, and “12,475”, respectively. See notice of the Judicial Conference of the United States set out as a note under [section 104 of Title 11][/us/usc/t11/s104].
+    By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amounts “1,250”, “18,675”, and “12,475” were adjusted to “1,300”, “19,250”, and “12,850”, respectively. See notice of the Judicial Conference of the United States set out as a note under [section 104 of Title 11][/us/usc/t11/s104].
+
+    By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amounts “1,175”, “17,575”, and “11,725” were adjusted to “1,250”, “18,675”, and “12,475”, respectively.
 
     By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b), dollar amounts “1,100”, “16,425”, and “10,950” were adjusted to “1,175”, “17,575”, and “11,725”, respectively.
 
@@ -60,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/98/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs102%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F334
-[/us/pl/109/8/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs410
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F106
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

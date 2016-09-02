@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 677 (R.S. § 896; [Apr. 5, 1906, ch. 1366, § 3][/us/act/1906-04-05/ch1366/s3], [34 Stat. 100][/us/stat/34/100]).
+    Based on title 28, U.S.C., 1940 ed., § 677 (R.S. § 896; [Apr. 5, 1906, ch. 1366][/us/act/1906-04-05/ch1366], § 3, [34 Stat. 100][/us/stat/34/100]).
 
     Words “authenticated by the consul or vice consul” were substituted for “certified under the hand and seal of such officer”, for clarity. Words “in the courts of the United States”, were omitted after “admissible”. Such papers should be so admitted in all courts consistently with sections 1738 and 1739 of this title.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F947
-[/us/act/1906-04-05/ch1366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366%2Fs3
+[/us/act/1906-04-05/ch1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366
 [/us/stat/34/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F100
 
 

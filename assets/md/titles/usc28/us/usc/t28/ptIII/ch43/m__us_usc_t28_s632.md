@@ -19,7 +19,7 @@
 
     (b) Part-time United States magistrate judges shall render such service as judicial officers as is required by law. While so serving they may engage in the practice of law, but may not serve as counsel in any criminal action in any court of the United States, nor act in any capacity that is, under such regulations as the conference may establish, inconsistent with the proper discharge of their office. Within such restrictions, they may engage in any other business, occupation, or employment which is not inconsistent with the expeditious, proper, and impartial performance of their duties as judicial officers.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 916][/us/stat/62/916]; [Pub. L. 90–578, title I, § 101][/us/pl/90/578/s101], Oct. 17, 1968, [82 Stat. 1110][/us/stat/82/1110]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 916][/us/stat/62/916]; [Pub. L. 90–578, title I][/us/pl/90/578/tI], § 101, Oct. 17, 1968, [82 Stat. 1110][/us/stat/82/1110]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F916
-[/us/pl/90/578/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs101
+[/us/pl/90/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtI
 [/us/stat/82/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1110
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
 [/us/usc/t28/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636

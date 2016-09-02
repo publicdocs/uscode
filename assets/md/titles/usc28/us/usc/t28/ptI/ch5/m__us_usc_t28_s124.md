@@ -141,11 +141,11 @@ Western District
 
     Court for the Midland-Odessa Division shall be held at Midland. Court may be held, in the discretion of the court, in Odessa, when courtroom facilities are made available at no expense to the Government.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 891][/us/stat/62/891]; [Feb. 10, 1954, ch. 6, § 2(b)(9)(a)][/us/act/1954-02-10/ch6/s2/b/9/a], (b), [68 Stat. 11][/us/stat/68/11]; [Pub. L. 85–298][/us/pl/85/298], §§ 1, 2, Sept. 4, 1957, [71 Stat. 618][/us/stat/71/618]; [Pub. L. 87–352][/us/pl/87/352], Oct. 4, 1961, [75 Stat. 772][/us/stat/75/772]; [Pub. L. 88–282][/us/pl/88/282], Mar. 11, 1964, [78 Stat. 163][/us/stat/78/163]; [Pub. L. 88–512][/us/pl/88/512], Aug. 30, 1964, [78 Stat. 695][/us/stat/78/695]; [Pub. L. 90–216][/us/pl/90/216], Dec. 18, 1967, [81 Stat. 661][/us/stat/81/661]; [Pub. L. 96–462, § 6][/us/pl/96/462/s6], Oct. 15, 1980, [94 Stat. 2054][/us/stat/94/2054]; [Pub. L. 98–620, title IV, § 407(a)][/us/pl/98/620/s407/a], Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362]; [Pub. L. 108–157, § 1(a)][/us/pl/108/157/s1/a], Dec. 3, 2003, [117 Stat. 1947][/us/stat/117/1947]; [Pub. L. 108–455, § 3][/us/pl/108/455/s3], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 891][/us/stat/62/891]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6], § 2(b)(9)(a), (b), [68 Stat. 11][/us/stat/68/11]; [Pub. L. 85–298][/us/pl/85/298], §§ 1, 2, Sept. 4, 1957, [71 Stat. 618][/us/stat/71/618]; [Pub. L. 87–352][/us/pl/87/352], Oct. 4, 1961, [75 Stat. 772][/us/stat/75/772]; [Pub. L. 88–282][/us/pl/88/282], Mar. 11, 1964, [78 Stat. 163][/us/stat/78/163]; [Pub. L. 88–512][/us/pl/88/512], Aug. 30, 1964, [78 Stat. 695][/us/stat/78/695]; [Pub. L. 90–216][/us/pl/90/216], Dec. 18, 1967, [81 Stat. 661][/us/stat/81/661]; [Pub. L. 96–462][/us/pl/96/462], § 6, Oct. 15, 1980, [94 Stat. 2054][/us/stat/94/2054]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 407(a), Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362]; [Pub. L. 108–157][/us/pl/108/157], § 1(a), Dec. 3, 2003, [117 Stat. 1947][/us/stat/117/1947]; [Pub. L. 108–455][/us/pl/108/455], § 3, Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 189 ([Mar. 3, 1911, ch. 231, § 108][/us/act/1911-03-03/ch231/s108], [36 Stat. 1125][/us/stat/36/1125]; [May 29, 1912, ch. 144][/us/act/1912-05-29/ch144], [37 Stat. 120][/us/stat/37/120]; [Feb. 5, 1913, ch. 28][/us/act/1913-02-05/ch28], §§ 1, 2, [37 Stat. 663][/us/stat/37/663]; [Feb. 26, 1917, ch. 122][/us/act/1917-02-26/ch122], [39 Stat. 939][/us/stat/39/939]; [Mar. 1, 1919, ch. 87][/us/act/1919-03-01/ch87], [40 Stat. 1270][/us/stat/40/1270]; [Mar. 2, 1923, ch. 172][/us/act/1923-03-02/ch172], §§ 1, 2, [42 Stat. 1373][/us/stat/42/1373]; [Apr. 3, 1924, ch. 82][/us/act/1924-04-03/ch82], [43 Stat. 64][/us/stat/43/64]; [May 29, 1924, ch. 211][/us/act/1924-05-29/ch211], §§ 1, 2, [43 Stat. 244][/us/stat/43/244]; [May 26, 1928, ch. 752, § 1][/us/act/1928-05-26/ch752/s1], [45 Stat. 747][/us/stat/45/747]; [June 6, 1930, ch. 408][/us/act/1930-06-06/ch408], [46 Stat. 521][/us/stat/46/521]; [June 24, 1930, ch. 596][/us/act/1930-06-24/ch596], [46 Stat. 807][/us/stat/46/807]; [Feb. 20, 1932, ch. 51][/us/act/1932-02-20/ch51], [47 Stat. 52][/us/stat/47/52]; [July 25, 1939, ch. 356, § 1][/us/act/1939-07-25/ch356/s1], [53 Stat. 1082][/us/stat/53/1082]; [June 6, 1940, ch. 252][/us/act/1940-06-06/ch252], [54 Stat. 241][/us/stat/54/241].)
+    Based on title 28, U.S.C., 1940 ed., § 189 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 108, [36 Stat. 1125][/us/stat/36/1125]; [May 29, 1912, ch. 144][/us/act/1912-05-29/ch144], [37 Stat. 120][/us/stat/37/120]; [Feb. 5, 1913, ch. 28][/us/act/1913-02-05/ch28], §§ 1, 2, [37 Stat. 663][/us/stat/37/663]; [Feb. 26, 1917, ch. 122][/us/act/1917-02-26/ch122], [39 Stat. 939][/us/stat/39/939]; [Mar. 1, 1919, ch. 87][/us/act/1919-03-01/ch87], [40 Stat. 1270][/us/stat/40/1270]; [Mar. 2, 1923, ch. 172][/us/act/1923-03-02/ch172], §§ 1, 2, [42 Stat. 1373][/us/stat/42/1373]; [Apr. 3, 1924, ch. 82][/us/act/1924-04-03/ch82], [43 Stat. 64][/us/stat/43/64]; [May 29, 1924, ch. 211][/us/act/1924-05-29/ch211], §§ 1, 2, [43 Stat. 244][/us/stat/43/244]; [May 26, 1928, ch. 752][/us/act/1928-05-26/ch752], § 1, [45 Stat. 747][/us/stat/45/747]; [June 6, 1930, ch. 408][/us/act/1930-06-06/ch408], [46 Stat. 521][/us/stat/46/521]; [June 24, 1930, ch. 596][/us/act/1930-06-24/ch596], [46 Stat. 807][/us/stat/46/807]; [Feb. 20, 1932, ch. 51][/us/act/1932-02-20/ch51], [47 Stat. 52][/us/stat/47/52]; [July 25, 1939, ch. 356][/us/act/1939-07-25/ch356], § 1, [53 Stat. 1082][/us/stat/53/1082]; [June 6, 1940, ch. 252][/us/act/1940-06-06/ch252], [54 Stat. 241][/us/stat/54/241].)
 
     Words “and all prosecutions against persons for offenses committed in the county of Reagan shall be tried in the court at San Angelo: Provided, That no civil or criminal cause begun and pending prior to May 29, 1924, shall be in any way affected,” words “and all prosecutions against persons for offenses committed in the county of Pecos shall be tried in the district court at El Paso, or Pecos City: Provided, That no civil or criminal cause begun and pending prior to March 2, 1923, shall be in any way affected,” and words “Provided, That no civil or criminal cause commenced prior to June 24, 1930, shall be in any way affected,” were all deleted as superseded by Federal Rules of Criminal Procedure, Rules 18–22, and as obsolete, in view of the lapse of time after the dates included in such provisions.
 
@@ -165,43 +165,43 @@ Western District
 
     2004—Subsec. (c)(5). [Pub. L. 108–455][/us/pl/108/455] inserted “, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas” after “held at Texarkana”.
 
-    2003—Subsec. (c)(3). [Pub. L. 108–157, § 1(a)(1)][/us/pl/108/157/s1/a/1], substituted “Delta, Denton, Fannin, Grayson, Hopkins, and Lamar” for “Denton, and Grayson” and inserted “and Plano” after “held at Sherman”.
+    2003—Subsec. (c)(3). [Pub. L. 108–157][/us/pl/108/157], § 1(a)(1), substituted “Delta, Denton, Fannin, Grayson, Hopkins, and Lamar” for “Denton, and Grayson” and inserted “and Plano” after “held at Sherman”.
 
-    Subsec. (c)(4) to (7). [Pub. L. 108–157, § 1(a)(2)][/us/pl/108/157/s1/a/2], (3), redesignated pars. (5) to (7) as (4) to (6), respectively, in par. (5) inserted “Red River,” after “Franklin,”, and struck out former par. (4) which read “The Paris Division comprises the counties of Delta, Fannin, Hopkins, Lamar, and Red River.
+    Subsec. (c)(4) to (7). [Pub. L. 108–157][/us/pl/108/157], § 1(a)(2), (3), redesignated pars. (5) to (7) as (4) to (6), respectively, in par. (5) inserted “Red River,” after “Franklin,”, and struck out former par. (4) which read “The Paris Division comprises the counties of Delta, Fannin, Hopkins, Lamar, and Red River.
 
     “Court for the Paris Division shall be held at Paris.”
 
-    1984—Subsec. (b). [Pub. L. 98–620, § 407(a)(1)][/us/pl/98/620/s407/a/1], substituted “seven” for “six” in provisions preceding par. (1).
+    1984—Subsec. (b). [Pub. L. 98–620][/us/pl/98/620], § 407(a)(1), substituted “seven” for “six” in provisions preceding par. (1).
 
-    Subsec. (b)(4). [Pub. L. 98–620, § 407(a)(2)][/us/pl/98/620/s407/a/2], struck out references to Hidalgo and Starr counties from the counties comprising the Brownsville Division of the Southern District.
+    Subsec. (b)(4). [Pub. L. 98–620][/us/pl/98/620], § 407(a)(2), struck out references to Hidalgo and Starr counties from the counties comprising the Brownsville Division of the Southern District.
 
-    Subsec. (b)(7). [Pub. L. 98–620, § 407(a)(3)][/us/pl/98/620/s407/a/3], added par. (7).
+    Subsec. (b)(7). [Pub. L. 98–620][/us/pl/98/620], § 407(a)(3), added par. (7).
 
-    1980—Subsec. (b)(2). [Pub. L. 96–462, § 6(a)][/us/pl/96/462/s6/a], struck out references to Polk and Trinity counties in list of counties comprising Houston Division of Southern District.
+    1980—Subsec. (b)(2). [Pub. L. 96–462][/us/pl/96/462], § 6(a), struck out references to Polk and Trinity counties in list of counties comprising Houston Division of Southern District.
 
-    Subsec. (c). [Pub. L. 96–462, § 6(b)][/us/pl/96/462/s6/b], in provisions preceding par. (1) substituted “seven” for “six”; in par. (1) struck out references to Angelina, Houston, Nacogdoches, and Shelby counties in list of counties comprising Tyler Division of Eastern District; in par. (2) struck out references to Sabine, San Augustine, and Tyler counties in list of counties comprising Beaumont Division of Eastern District; and added par. (7).
+    Subsec. (c). [Pub. L. 96–462][/us/pl/96/462], § 6(b), in provisions preceding par. (1) substituted “seven” for “six”; in par. (1) struck out references to Angelina, Houston, Nacogdoches, and Shelby counties in list of counties comprising Tyler Division of Eastern District; in par. (2) struck out references to Sabine, San Augustine, and Tyler counties in list of counties comprising Beaumont Division of Eastern District; and added par. (7).
 
-    1967—Subsec. (d). [Pub. L. 90–216, § 1(4)][/us/pl/90/216/s1/4], enlarged from six to seven the number of divisions comprising Western District.
+    1967—Subsec. (d). [Pub. L. 90–216][/us/pl/90/216], § 1(4), enlarged from six to seven the number of divisions comprising Western District.
 
-    Subsec. (d)(3). [Pub. L. 90–216, § 1(1)][/us/pl/90/216/s1/1], transferred counties of Brewster, Culberson, Hudspeth, and Presidio from El Paso Division to Pecos Division.
+    Subsec. (d)(3). [Pub. L. 90–216][/us/pl/90/216], § 1(1), transferred counties of Brewster, Culberson, Hudspeth, and Presidio from El Paso Division to Pecos Division.
 
-    Subsec. (d)(6). [Pub. L. 90–216, § 1(2)][/us/pl/90/216/s1/2], added counties of Brewster, Culberson, Hudspeth, and Presidio to Pecos Division from El Paso Division, and transferred counties of Andrews, Crane, Ector, Martin, Midland, and Upton from Pecos Division to Midland-Odessa Division.
+    Subsec. (d)(6). [Pub. L. 90–216][/us/pl/90/216], § 1(2), added counties of Brewster, Culberson, Hudspeth, and Presidio to Pecos Division from El Paso Division, and transferred counties of Andrews, Crane, Ector, Martin, Midland, and Upton from Pecos Division to Midland-Odessa Division.
 
-    Subsec. (d)(7). [Pub. L. 90–216, § 1(3)][/us/pl/90/216/s1/3], added par. (7), which created Midland-Odessa Division, comprised of counties of Andrews, Crane, Ector, Martin, Midland, and Upton, transferred from Pecos Division.
+    Subsec. (d)(7). [Pub. L. 90–216][/us/pl/90/216], § 1(3), added par. (7), which created Midland-Odessa Division, comprised of counties of Andrews, Crane, Ector, Martin, Midland, and Upton, transferred from Pecos Division.
 
-    1964—Subsec. (b)(1). [Pub. L. 88–282, § 1(a)][/us/pl/88/282/s1/a], struck out Austin, Fort Bend, and Wharton counties from list comprising Galveston Division.
+    1964—Subsec. (b)(1). [Pub. L. 88–282][/us/pl/88/282], § 1(a), struck out Austin, Fort Bend, and Wharton counties from list comprising Galveston Division.
 
-    Subsec. (b)(2). [Pub. L. 88–282, § 1(b)][/us/pl/88/282/s1/b], added Austin, Fort Bend, and Wharton counties to list comprising Houston Division.
+    Subsec. (b)(2). [Pub. L. 88–282][/us/pl/88/282], § 1(b), added Austin, Fort Bend, and Wharton counties to list comprising Houston Division.
 
-    Subsec. (c)(4). [Pub. L. 88–512, § 1(a)][/us/pl/88/512/s1/a], added county of Hopkins to Paris Division.
+    Subsec. (c)(4). [Pub. L. 88–512][/us/pl/88/512], § 1(a), added county of Hopkins to Paris Division.
 
-    Subsec. (c)(5). [Pub. L. 88–512, § 1(b)][/us/pl/88/512/s1/b], struck out county of Hopkins from Marshall Division.
+    Subsec. (c)(5). [Pub. L. 88–512][/us/pl/88/512], § 1(b), struck out county of Hopkins from Marshall Division.
 
     1961—Subsec. (c)(5). [Pub. L. 87–352][/us/pl/87/352] changed the name of Division from Jefferson to Marshall, and provided for holding court at Marshall.
 
-    1957—Subsec. (c)(1). [Pub. L. 85–298, § 2][/us/pl/85/298/s2], inserted Shelby County in list of counties comprising Tyler Division.
+    1957—Subsec. (c)(1). [Pub. L. 85–298][/us/pl/85/298], § 2, inserted Shelby County in list of counties comprising Tyler Division.
 
-    Subsec. (c)(2). [Pub. L. 85–298, § 1][/us/pl/85/298/s1], struck out Shelby County from list of counties comprising Beaumont Division.
+    Subsec. (c)(2). [Pub. L. 85–298][/us/pl/85/298], § 1, struck out Shelby County from list of counties comprising Beaumont Division.
 
     1954—Subsec. (d)(4). Act Feb. 10, 1954, § 2(b)(9)(a), struck out Edwards County from list of counties comprising San Antonio Division of Western District.
 
@@ -209,7 +209,7 @@ Western District
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–157, § 1(b)][/us/pl/108/157/s1/b], Dec. 3, 2003, [117 Stat. 1947][/us/stat/117/1947], provided that:
+[Pub. L. 108–157][/us/pl/108/157], § 1(b), Dec. 3, 2003, [117 Stat. 1947][/us/stat/117/1947], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -225,7 +225,7 @@ Western District
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–620, title IV, § 407(b)][/us/pl/98/620/s407/b], Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362], provided that: 
+[Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 407(b), Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall apply to any action commenced in the United States District Court for the Southern District of Texas on or after the effective date of this subtitle \[Jan. 1, 1985\], and shall not affect any action pending in such court on such effective date.”
 
@@ -244,7 +244,7 @@ Western District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F891
-[/us/act/1954-02-10/ch6/s2/b/9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6%2Fs2%2Fb%2F9%2Fa
+[/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F11
 [/us/pl/85/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F298
 [/us/stat/71/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F618
@@ -256,15 +256,15 @@ Western District
 [/us/stat/78/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F695
 [/us/pl/90/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216
 [/us/stat/81/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F661
-[/us/pl/96/462/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs6
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/stat/94/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2054
-[/us/pl/98/620/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs407%2Fa
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3362
-[/us/pl/108/157/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F157%2Fs1%2Fa
+[/us/pl/108/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F157
 [/us/stat/117/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1947
-[/us/pl/108/455/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455%2Fs3
+[/us/pl/108/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455
 [/us/stat/118/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3628
-[/us/act/1911-03-03/ch231/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs108
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1125
 [/us/act/1912-05-29/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-05-29%2Fch144
 [/us/stat/37/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F120
@@ -280,7 +280,7 @@ Western District
 [/us/stat/43/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F64
 [/us/act/1924-05-29/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-29%2Fch211
 [/us/stat/43/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F244
-[/us/act/1928-05-26/ch752/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-26%2Fch752%2Fs1
+[/us/act/1928-05-26/ch752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-26%2Fch752
 [/us/stat/45/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F747
 [/us/act/1930-06-06/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-06%2Fch408
 [/us/stat/46/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F521
@@ -288,34 +288,34 @@ Western District
 [/us/stat/46/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F807
 [/us/act/1932-02-20/ch51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-20%2Fch51
 [/us/stat/47/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F52
-[/us/act/1939-07-25/ch356/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-25%2Fch356%2Fs1
+[/us/act/1939-07-25/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-25%2Fch356
 [/us/stat/53/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1082
 [/us/act/1940-06-06/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-06%2Fch252
 [/us/stat/54/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F241
 [/us/usc/t28/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs141
 [/us/usc/t28/s189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs189
 [/us/pl/108/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455
-[/us/pl/108/157/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F157%2Fs1%2Fa%2F1
-[/us/pl/108/157/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F157%2Fs1%2Fa%2F2
-[/us/pl/98/620/s407/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs407%2Fa%2F1
-[/us/pl/98/620/s407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs407%2Fa%2F2
-[/us/pl/98/620/s407/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs407%2Fa%2F3
-[/us/pl/96/462/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs6%2Fa
-[/us/pl/96/462/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462%2Fs6%2Fb
-[/us/pl/90/216/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216%2Fs1%2F4
-[/us/pl/90/216/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216%2Fs1%2F1
-[/us/pl/90/216/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216%2Fs1%2F2
-[/us/pl/90/216/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216%2Fs1%2F3
-[/us/pl/88/282/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F282%2Fs1%2Fa
-[/us/pl/88/282/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F282%2Fs1%2Fb
-[/us/pl/88/512/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F512%2Fs1%2Fa
-[/us/pl/88/512/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F512%2Fs1%2Fb
+[/us/pl/108/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F157
+[/us/pl/108/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F157
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
+[/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
+[/us/pl/90/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216
+[/us/pl/90/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216
+[/us/pl/90/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216
+[/us/pl/90/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F216
+[/us/pl/88/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F282
+[/us/pl/88/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F282
+[/us/pl/88/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F512
+[/us/pl/88/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F512
 [/us/pl/87/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F352
-[/us/pl/85/298/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F298%2Fs2
-[/us/pl/85/298/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F298%2Fs1
-[/us/pl/108/157/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F157%2Fs1%2Fb
+[/us/pl/85/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F298
+[/us/pl/85/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F298
+[/us/pl/108/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F157
 [/us/stat/117/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1947
-[/us/pl/98/620/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs407%2Fb
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3362
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs411

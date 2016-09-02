@@ -23,11 +23,11 @@
 
     (b) Such an action may be entertained although the titles or claims of the conflicting claimants do not have a common origin, or are not identical, but are adverse to and independent of one another.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 931][/us/stat/62/931]; [Pub. L. 109–2, § 4(b)(1)][/us/pl/109/2/s4/b/1], Feb. 18, 2005, [119 Stat. 12][/us/stat/119/12].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 931][/us/stat/62/931]; [Pub. L. 109–2][/us/pl/109/2], § 4(b)(1), Feb. 18, 2005, [119 Stat. 12][/us/stat/119/12].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 41(26) ([Mar. 3, 1911, ch. 231, § 24][/us/act/1911-03-03/ch231/s24], par. 26, as added [Jan. 20, 1936, ch. 13, § 1][/us/act/1936-01-20/ch13/s1], [49 Stat. 1096][/us/stat/49/1096]).
+    Based on title 28, U.S.C., 1940 ed., § 41(26) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 24, par. 26, as added [Jan. 20, 1936, ch. 13][/us/act/1936-01-20/ch13], § 1, [49 Stat. 1096][/us/stat/49/1096]).
 
     Words “civil action” were substituted for “suits in equity”; word “plaintiff” was substituted for “complainant”; and word “judgment” was substituted for “decree,” in order to make the language of this section conform with the Federal Rules of Civil Procedure.
 
@@ -59,10 +59,10 @@
 [/us/usc/t28/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1332
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F931
-[/us/pl/109/2/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs4%2Fb%2F1
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F12
-[/us/act/1911-03-03/ch231/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs24
-[/us/act/1936-01-20/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-01-20%2Fch13%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1936-01-20/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-01-20%2Fch13
 [/us/stat/49/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1096
 [/us/usc/t28/s41/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41%2F26
 [/us/usc/t28/s41/26/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41%2F26%2Fb

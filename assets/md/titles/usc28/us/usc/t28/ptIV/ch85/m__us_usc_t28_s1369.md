@@ -61,11 +61,11 @@
 
     A district court in which an action under this section is pending shall promptly notify the judicial panel on multidistrict litigation of the pendency of the action.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11020(b)(1)(A)][/us/pl/107/273/s11020/b/1/A], Nov. 2, 2002, [116 Stat. 1826][/us/stat/116/1826].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11020(b)(1)(A), Nov. 2, 2002, [116 Stat. 1826][/us/stat/116/1826].)
 
  __Effective Date__ 
 
-[Pub. L. 107–273, div. C, title I, § 11020(c)][/us/pl/107/273/s11020/c], Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829], provided that: 
+[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11020(c), Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829], provided that: 
 
 > “The amendments made by subsection (b) \[enacting this section and sections 1697 and 1785 of this title and amending sections 1391 and 1441 of this title\] shall apply to a civil action if the accident giving rise to the cause of action occurred on or after the 90th day after the date of the enactment of this Act \[Nov. 2, 2002\].”
 
@@ -77,9 +77,9 @@
 ----------
 
 [/us/usc/t28/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1603%2Fa
-[/us/pl/107/273/s11020/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11020%2Fb%2F1%2FA
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1826
-[/us/pl/107/273/s11020/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11020%2Fc
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1829
 
 

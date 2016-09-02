@@ -243,7 +243,7 @@
 
             (C) There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
 
-(Added [Pub. L. 101–650, title III, § 306(a)(1)][/us/pl/101/650/s306/a/1], Dec. 1, 1990, [104 Stat. 5105][/us/stat/104/5105]; amended [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–198, § 7(a)][/us/pl/102/198/s7/a], Dec. 9, 1991, [105 Stat. 1624][/us/stat/105/1624]; [Pub. L. 102–572, title IX, § 902(a)][/us/pl/102/572/s902/a], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 306(a)(1), Dec. 1, 1990, [104 Stat. 5105][/us/stat/104/5105]; amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(2), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–198][/us/pl/102/198], § 7(a), Dec. 9, 1991, [105 Stat. 1624][/us/stat/105/1624]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __References in Text__ 
 
@@ -253,15 +253,15 @@
 
     1992—[Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
 
-    1991—Subsec. (f)(2)(A). [Pub. L. 102–198, § 7(a)(1)][/us/pl/102/198/s7/a/1], inserted “(except for subchapters III and VII)” after “chapter 84”.
+    1991—Subsec. (f)(2)(A). [Pub. L. 102–198][/us/pl/102/198], § 7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
 
     Subsec. (f)(2)(D). [Pub. L. 102–40][/us/pl/102/40] substituted “[section 7296 of title 38][/us/usc/t38/s7296]” for “[section 4096 of title 38][/us/usc/t38/s4096]”.
 
-    Subsec. (j)(1). [Pub. L. 102–198, § 7(a)(2)(A)][/us/pl/102/198/s7/a/2/A], substituted “paragraph (4)” for “paragraph (2)” and “engages in any such activity” for “so practices law”.
+    Subsec. (j)(1). [Pub. L. 102–198][/us/pl/102/198], § 7(a)(2)(A), substituted “paragraph (4)” for “paragraph (2)” and “engages in any such activity” for “so practices law”.
 
-    Subsec. (j)(2). [Pub. L. 102–198, § 7(a)(2)(B)][/us/pl/102/198/s7/a/2/B], substituted “Subject to paragraph (4), if” for “If”.
+    Subsec. (j)(2). [Pub. L. 102–198][/us/pl/102/198], § 7(a)(2)(B), substituted “Subject to paragraph (4), if” for “If”.
 
-    Subsec. (j)(3). [Pub. L. 102–198, § 7(a)(2)(C)][/us/pl/102/198/s7/a/2/C], inserted “for” after “(other than”.
+    Subsec. (j)(3). [Pub. L. 102–198][/us/pl/102/198], § 7(a)(2)(C), inserted “for” after “(other than”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -283,23 +283,23 @@
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t31/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9503
 [/us/usc/t31/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9503
-[/us/pl/101/650/s306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs306%2Fa%2F1
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5105
-[/us/pl/102/40/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/198/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs7%2Fa
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1624
-[/us/pl/102/572/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/usc/t26/s7447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7447
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/102/198/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs7%2Fa%2F1
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s7296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296
 [/us/usc/t38/s4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4096
-[/us/pl/102/198/s7/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs7%2Fa%2F2%2FA
-[/us/pl/102/198/s7/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs7%2Fa%2F2%2FB
-[/us/pl/102/198/s7/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs7%2Fa%2F2%2FC
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171

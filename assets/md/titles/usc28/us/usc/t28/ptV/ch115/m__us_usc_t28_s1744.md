@@ -19,11 +19,11 @@
 
     Any person making application and paying the required fee may obtain such certified copies.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 948][/us/stat/62/948]; [May 24, 1949, ch. 139, § 92(c)][/us/act/1949-05-24/ch139/s92/c], [63 Stat. 103][/us/stat/63/103]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(15)(B), (C)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 948][/us/stat/62/948]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 92(c), [63 Stat. 103][/us/stat/63/103]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(15)(B), (C)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584.)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 127 of title 15][/us/usc/t15/s127], U.S.C., 1940 ed., Commerce and Trade, and title 28, U.S.C., 1940 ed., § 673 (R.S. § 892; [Mar. 19, 1920, ch. 104, § 7][/us/act/1920-03-19/ch104/s7], [41 Stat. 535][/us/stat/41/535]; [Mar. 4, 1925, ch. 535, § 2][/us/act/1925-03-04/ch535/s2], [43 Stat. 1269][/us/stat/43/1269]).
+    Based on [section 127 of title 15][/us/usc/t15/s127], U.S.C., 1940 ed., Commerce and Trade, and title 28, U.S.C., 1940 ed., § 673 (R.S. § 892; [Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], § 7, [41 Stat. 535][/us/stat/41/535]; [Mar. 4, 1925, ch. 535][/us/act/1925-03-04/ch535], § 2, [43 Stat. 1269][/us/stat/43/1269]).
 
     For purposes of uniformity, words “written or printed,” at the beginning of the section, were omitted. Similar sections in this chapter do not contain such words.
 
@@ -50,14 +50,14 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F948
-[/us/act/1949-05-24/ch139/s92/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs92%2Fc
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F103
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t15/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs127
-[/us/act/1920-03-19/ch104/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104%2Fs7
+[/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F535
-[/us/act/1925-03-04/ch535/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch535%2Fs2
+[/us/act/1925-03-04/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch535
 [/us/stat/43/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1269
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

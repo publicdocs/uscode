@@ -61,7 +61,7 @@
 
             (D) If the court enters judgment in part for the claimant and in part for the Government, the court shall reduce the award of costs and attorney fees accordingly.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 975][/us/stat/62/975]; [Pub. L. 106–185, § 4(a)][/us/pl/106/185/s4/a], Apr. 25, 2000, [114 Stat. 211][/us/stat/114/211].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 975][/us/stat/62/975]; [Pub. L. 106–185][/us/pl/106/185], § 4(a), Apr. 25, 2000, [114 Stat. 211][/us/stat/114/211].)
 
  __Historical and Revision Notes__ 
 
@@ -93,7 +93,7 @@
 [/us/usc/t28/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1961
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F975
-[/us/pl/106/185/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs4%2Fa
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F211
 [/us/usc/t28/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs827
 [/us/usc/t28/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2006

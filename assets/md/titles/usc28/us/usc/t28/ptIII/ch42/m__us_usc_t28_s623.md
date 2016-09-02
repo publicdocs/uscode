@@ -35,7 +35,7 @@
 
     (b) The Board shall transmit to Congress and to the Attorney General of the United States copies of all reports and recommendations submitted to the Judicial Conference of the United States. The Board shall also keep the Committees on the Judiciary of the United States Senate and House of Representatives fully and currently informed with respect to the activities of the Center.
 
-(Added [Pub. L. 90–219, title I, § 101][/us/pl/90/219/s101], Dec. 20, 1967, [81 Stat. 665][/us/stat/81/665]; amended [Pub. L. 100–702, title III, § 302][/us/pl/100/702/s302], Nov. 19, 1988, [102 Stat. 4648][/us/stat/102/4648].)
+(Added [Pub. L. 90–219, title I][/us/pl/90/219/tI], § 101, Dec. 20, 1967, [81 Stat. 665][/us/stat/81/665]; amended [Pub. L. 100–702, title III][/us/pl/100/702/tIII], § 302, Nov. 19, 1988, [102 Stat. 4648][/us/stat/102/4648].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/90/219/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs101
+[/us/pl/90/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtI
 [/us/stat/81/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F665
-[/us/pl/100/702/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs302
+[/us/pl/100/702/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIII
 [/us/stat/102/4648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4648
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

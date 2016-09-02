@@ -39,7 +39,7 @@
 
     An independent counsel shall advise the House of Representatives of any substantial and credible information which such independent counsel receives, in carrying out the independent counsel’s responsibilities under this chapter, that may constitute grounds for an impeachment. Nothing in this chapter or [section 49 of this title][/us/usc/t28/s49] shall prevent the Congress or either House thereof from obtaining information in the course of an impeachment proceeding.
 
-(Added [Pub. L. 95–521, title VI, § 601(a)][/us/pl/95/521/s601/a], Oct. 26, 1978, [92 Stat. 1871][/us/stat/92/1871]; amended [Pub. L. 97–409, § 2(a)(1)][/us/pl/97/409/s2/a/1], Jan. 3, 1983, [96 Stat. 2139][/us/stat/96/2139]; [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1304][/us/stat/101/1304]; [Pub. L. 103–270, § 3(g)][/us/pl/103/270/s3/g], June 30, 1994, [108 Stat. 734][/us/stat/108/734].)
+(Added [Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 601(a), Oct. 26, 1978, [92 Stat. 1871][/us/stat/92/1871]; amended [Pub. L. 97–409][/us/pl/97/409], § 2(a)(1), Jan. 3, 1983, [96 Stat. 2139][/us/stat/96/2139]; [Pub. L. 100–191][/us/pl/100/191], § 2, Dec. 15, 1987, [101 Stat. 1304][/us/stat/101/1304]; [Pub. L. 103–270][/us/pl/103/270], § 3(g), June 30, 1994, [108 Stat. 734][/us/stat/108/734].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
     1987—[Pub. L. 100–191][/us/pl/100/191] amended section generally, substituting subsecs. (a) to (c) relating to congressional oversight for former subsecs. (a) to (e) relating to reporting and congressional oversight.
 
-    1983—[Pub. L. 97–409, § 2(a)(1)][/us/pl/97/409/s2/a/1], substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
+    1983—[Pub. L. 97–409][/us/pl/97/409], § 2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel’s” for “special prosecutor’s” wherever appearing.
 
  __Effective Date of 1994 Amendment; Transition Provisions__ 
 
@@ -65,17 +65,17 @@
 ----------
 
 [/us/usc/t28/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs49
-[/us/pl/95/521/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs601%2Fa
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1871
-[/us/pl/97/409/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/stat/96/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2139
-[/us/pl/100/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs2
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1304
-[/us/pl/103/270/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270%2Fs3%2Fg
+[/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/stat/108/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F734
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
-[/us/pl/97/409/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270

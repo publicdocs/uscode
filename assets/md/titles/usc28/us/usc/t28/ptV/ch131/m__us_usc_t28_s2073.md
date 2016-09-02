@@ -33,17 +33,17 @@
 
     (e) Failure to comply with this section does not invalidate a rule prescribed under section 2072 or 2075 of this title.
 
-(Added [Pub. L. 100–702, title IV, § 401(a)][/us/pl/100/702/s401/a], Nov. 19, 1988, [102 Stat. 4649][/us/stat/102/4649]; amended [Pub. L. 103–394, title I, § 104(e)][/us/pl/103/394/s104/e], Oct. 22, 1994, [108 Stat. 4110][/us/stat/108/4110].)
+(Added [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 401(a), Nov. 19, 1988, [102 Stat. 4649][/us/stat/102/4649]; amended [Pub. L. 103–394, title I][/us/pl/103/394/tI], § 104(e), Oct. 22, 1994, [108 Stat. 4110][/us/stat/108/4110].)
 
  __Prior Provisions__ 
 
-    A prior section 2073, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 961][/us/stat/62/961]; [May 24, 1949, ch. 139, § 104][/us/act/1949-05-24/ch139/s104], [63 Stat. 104][/us/stat/63/104]; [May 10, 1950, ch. 174, § 3][/us/act/1950-05-10/ch174/s3], [64 Stat. 158][/us/stat/64/158], empowered the Supreme Court to prescribe, by general rules, the practice and procedure in admiralty and maritime cases in the district courts, prior to repeal by [Pub. L. 89–773, § 2][/us/pl/89/773/s2], Nov. 6, 1966, [80 Stat. 1323][/us/stat/80/1323].
+    A prior section 2073, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 961][/us/stat/62/961]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 104, [63 Stat. 104][/us/stat/63/104]; [May 10, 1950, ch. 174][/us/act/1950-05-10/ch174], § 3, [64 Stat. 158][/us/stat/64/158], empowered the Supreme Court to prescribe, by general rules, the practice and procedure in admiralty and maritime cases in the district courts, prior to repeal by [Pub. L. 89–773][/us/pl/89/773], § 2, Nov. 6, 1966, [80 Stat. 1323][/us/stat/80/1323].
 
  __Amendments__ 
 
-    1994—Subsec. (a)(2). [Pub. L. 103–394, § 104(e)(1)][/us/pl/103/394/s104/e/1], substituted “sections 2072 and 2075” for “section 2072”.
+    1994—Subsec. (a)(2). [Pub. L. 103–394][/us/pl/103/394], § 104(e)(1), substituted “sections 2072 and 2075” for “section 2072”.
 
-    Subsecs. (d), (e). [Pub. L. 103–394, § 104(e)(2)][/us/pl/103/394/s104/e/2], inserted “or 2075” after “2072”.
+    Subsecs. (d), (e). [Pub. L. 103–394][/us/pl/103/394], § 104(e)(2), inserted “or 2075” after “2072”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -55,7 +55,7 @@
 
  __More Complete Information Regarding Assets of the Estate__ 
 
-[Pub. L. 109–8, title IV, § 419][/us/pl/109/8/s419], Apr. 20, 2005, [119 Stat. 109][/us/stat/119/109], provided that:
+[Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 419, Apr. 20, 2005, [119 Stat. 109][/us/stat/119/109], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -73,7 +73,7 @@
 
  __Standard Form Disclosure Statement and Plan__ 
 
-[Pub. L. 109–8, title IV, § 433][/us/pl/109/8/s433], Apr. 20, 2005, [119 Stat. 110][/us/stat/119/110], provided that: 
+[Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 433, Apr. 20, 2005, [119 Stat. 110][/us/stat/119/110], provided that: 
 
 > “Within a reasonable period of time after the date of enactment of this Act \[Apr. 20, 2005\], the Judicial Conference of the United States shall prescribe in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] official standard form disclosure statements and plans of reorganization for small business debtors (as defined in [section 101 of title 11][/us/usc/t11/s101], United States Code, as amended by this Act), designed to achieve a practical balance between—
 
@@ -83,7 +83,7 @@
 
  __Uniform Reporting Rules and Forms for Small Business Cases__ 
 
-[Pub. L. 109–8, title IV, § 435][/us/pl/109/8/s435], Apr. 20, 2005, [119 Stat. 111][/us/stat/119/111], provided that:
+[Pub. L. 109–8, title IV][/us/pl/109/8/tIV], § 435, Apr. 20, 2005, [119 Stat. 111][/us/stat/119/111], provided that:
 
 >     “(a)  __Proposal of Rules and Forms__  __.—__ 
 
@@ -112,32 +112,32 @@
 ----------
 ----------
 
-[/us/pl/100/702/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs401%2Fa
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4649
-[/us/pl/103/394/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fe
+[/us/pl/103/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtI
 [/us/stat/108/4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4110
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F961
-[/us/act/1949-05-24/ch139/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs104
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F104
-[/us/act/1950-05-10/ch174/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch174%2Fs3
+[/us/act/1950-05-10/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch174
 [/us/stat/64/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F158
-[/us/pl/89/773/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773%2Fs2
+[/us/pl/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773
 [/us/stat/80/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1323
-[/us/pl/103/394/s104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fe%2F1
-[/us/pl/103/394/s104/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs104%2Fe%2F2
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
+[/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394
 [/us/pl/103/394/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs702
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 [/us/pl/100/702/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs407
 [/us/usc/t28/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2071
-[/us/pl/109/8/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs419
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F109
 [/us/usc/t28/s2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2075
-[/us/pl/109/8/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs433
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F110
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/109/8/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs435
+[/us/pl/109/8/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIV
 [/us/stat/119/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F111
 [/us/usc/t28/s2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2073
 

@@ -31,13 +31,13 @@
 
     (f) No rule may be prescribed by a district court other than under this section.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 961][/us/stat/62/961]; [May 24, 1949, ch. 139, § 102][/us/act/1949-05-24/ch139/s102], [63 Stat. 104][/us/stat/63/104]; [Pub. L. 100–702, title IV, § 403(a)(1)][/us/pl/100/702/s403/a/1], Nov. 19, 1988, [102 Stat. 4650][/us/stat/102/4650].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 961][/us/stat/62/961]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 102, [63 Stat. 104][/us/stat/63/104]; [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 403(a)(1), Nov. 19, 1988, [102 Stat. 4650][/us/stat/102/4650].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 219, 263, 296, 307, 723, 731, and 761, and [section 1111 of title 26][/us/usc/t26/s1111], U.S.C., 1940 ed., Internal Revenue Code (R.S. §§ 913, 918; [Mar. 3, 1887, ch. 359, § 4][/us/act/1887-03-03/ch359/s4], [24 Stat. 506][/us/stat/24/506]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 122, 157, 194, 291, 297, [36 Stat. 1132][/us/stat/36/1132], 1139, 1145, 1167, 1168; [Mar. 3, 1911, ch. 231, § 187(a)][/us/act/1911-03-03/ch231/s187/a], as added [Oct. 10, 1940, ch. 843, § 1][/us/act/1940-10-10/ch843/s1], [54 Stat. 1101][/us/stat/54/1101]; [Feb. 13, 1925, ch. 229, § 13][/us/act/1925-02-13/ch229/s13], [43 Stat. 941][/us/stat/43/941]; [Mar. 2, 1929, ch. 488, § 1][/us/act/1929-03-02/ch488/s1], [45 Stat. 1475][/us/stat/45/1475]; [Feb. 10, 1939, ch. 2, § 1111][/us/act/1939-02-10/ch2/s1111], [53 Stat. 160][/us/stat/53/160]; [Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title V, § 504(a), (c), [56 Stat. 957][/us/stat/56/957]).
+    Based on title 28, U.S.C., 1940 ed., §§ 219, 263, 296, 307, 723, 731, and 761, and [section 1111 of title 26][/us/usc/t26/s1111], U.S.C., 1940 ed., Internal Revenue Code (R.S. §§ 913, 918; [Mar. 3, 1887, ch. 359][/us/act/1887-03-03/ch359], § 4, [24 Stat. 506][/us/stat/24/506]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 122, 157, 194, 291, 297, [36 Stat. 1132][/us/stat/36/1132], 1139, 1145, 1167, 1168; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 187(a), as added [Oct. 10, 1940, ch. 843][/us/act/1940-10-10/ch843], § 1, [54 Stat. 1101][/us/stat/54/1101]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 13, [43 Stat. 941][/us/stat/43/941]; [Mar. 2, 1929, ch. 488][/us/act/1929-03-02/ch488], § 1, [45 Stat. 1475][/us/stat/45/1475]; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 1111, [53 Stat. 160][/us/stat/53/160]; [Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title V, § 504(a), (c), [56 Stat. 957][/us/stat/56/957]).
 
     Sections 219, 263, 296, 307, 723, and 731 of title 28, U.S.C., 1940 ed., gave specified courts, other than the Supreme Court, power to make rules. Section 761 of such title related to rules established in the district courts and Court of Claims. [Section 1111 of title 26][/us/usc/t26/s1111], U.S.C., 1940 ed., related to Tax Court. This section consolidates all such provisions. For other provisions of such sections, see Distribution Table.
 
@@ -67,37 +67,37 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–702, title IV, § 407][/us/pl/100/702/s407], Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652], provided that: 
+[Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 407, Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652], provided that: 
 
 > “This title \[enacting sections 2072 to 2074 of this title, amending this section, sections 331, 332, 372, 604, 636, and 2077 of this title, [section 460n–8 of Title 16][/us/usc/t16/s460n–8], Conservation, and [section 3402 of Title 18][/us/usc/t18/s3402], Crimes and Criminal Procedure, repealing former section 2072 and [section 2076 of this title][/us/usc/t28/s2076] and sections 3771 and 3772 of Title 18, and enacting provisions set out as notes under this section\] shall take effect on December 1, 1988.”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–462, § 4][/us/pl/97/462/s4], Jan. 12, 1983, [96 Stat. 2530][/us/stat/96/2530], provided that: 
+[Pub. L. 97–462][/us/pl/97/462], § 4, Jan. 12, 1983, [96 Stat. 2530][/us/stat/96/2530], provided that: 
 
 > “The amendments made by this Act \[enacting provisions set out as notes below, amending Rule 4 of the Federal Rules of Civil Procedure, set out in the Appendix to this title, adding Form 18–A in the Appendix of Forms, and amending [section 951 of Title 18][/us/usc/t18/s951], Crimes and Criminal Procedure\] shall take effect 45 days after the enactment of this Act \[Jan. 12, 1983\].”
 
  __Short Title of 1983 Amendment__ 
 
-[Pub. L. 97–462, § 1][/us/pl/97/462/s1], Jan. 12, 1983, [96 Stat. 2527][/us/stat/96/2527], provided: 
+[Pub. L. 97–462][/us/pl/97/462], § 1, Jan. 12, 1983, [96 Stat. 2527][/us/stat/96/2527], provided: 
 
 > “That this Act \[enacting provisions set out as notes below, amending Rule 4 of the Federal Rules of Civil Procedure, set out in the Appendix to this title, adding Form 18–A in the Appendix of Forms, and amending [section 951 of Title 18][/us/usc/t18/s951], Crimes and Criminal Procedure\] may be cited as the ‘Federal Rules of Civil Procedure Amendments Act of 1982’.”
 
  __Savings Provision__ 
 
-[Pub. L. 100–702, title IV, § 406][/us/pl/100/702/s406], Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652], provided that: 
+[Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 406, Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652], provided that: 
 
 > “The rules prescribed in accordance with law before the effective date of this title \[Dec. 1, 1988\] and in effect on the date of such effective date shall remain in force until changed pursuant to the law as amended by this title \[see Effective Date of 1988 Amendment note above\].”
 
  __Rulemaking Authority of Supreme Court and Judicial Conference__ 
 
-[Pub. L. 109–2, § 8][/us/pl/109/2/s8], Feb. 18, 2005, [119 Stat. 14][/us/stat/119/14], provided that: 
+[Pub. L. 109–2][/us/pl/109/2], § 8, Feb. 18, 2005, [119 Stat. 14][/us/stat/119/14], provided that: 
 
 > “Nothing in this Act \[see Short Title of 2005 Amendments note set out under [section 1 of this title][/us/usc/t28/s1]\] shall restrict in any way the authority of the Judicial Conference and the Supreme Court to propose and prescribe general rules of practice and procedure under chapter 131 of title 28, United States Code.”
 
  __Tax Court Rulemaking Not Affected__ 
 
-[Pub. L. 100–702, title IV, § 405][/us/pl/100/702/s405], Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652], provided that: 
+[Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 405, Nov. 19, 1988, [102 Stat. 4652][/us/stat/102/4652], provided that: 
 
 > “The amendments made by this title \[see Effective Date of 1988 Amendment note above\] shall not affect the authority of the Tax Court to prescribe rules under section 7453 of the Internal Revenue Code of 1986 \[[26 U.S.C. 7453][/us/usc/t26/s7453]\].”
 
@@ -115,23 +115,23 @@
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F961
-[/us/act/1949-05-24/ch139/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs102
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F104
-[/us/pl/100/702/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs403%2Fa%2F1
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4650
 [/us/usc/t26/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1111
-[/us/act/1887-03-03/ch359/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fch359%2Fs4
+[/us/act/1887-03-03/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fch359
 [/us/stat/24/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F506
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1132
-[/us/act/1911-03-03/ch231/s187/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs187%2Fa
-[/us/act/1940-10-10/ch843/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1940-10-10/ch843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843
 [/us/stat/54/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1101
-[/us/act/1925-02-13/ch229/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs13
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F941
-[/us/act/1929-03-02/ch488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488%2Fs1
+[/us/act/1929-03-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488
 [/us/stat/45/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1475
-[/us/act/1939-02-10/ch2/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs1111
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F160
 [/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
 [/us/stat/56/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F957
@@ -143,23 +143,23 @@
 [/us/usc/t28/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2071
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
-[/us/pl/100/702/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs407
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4652
 [/us/usc/t16/s460n–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460n%E2%80%938
 [/us/usc/t18/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3402
 [/us/usc/t28/s2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2076
-[/us/pl/97/462/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F462%2Fs4
+[/us/pl/97/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F462
 [/us/stat/96/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2530
 [/us/usc/t18/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs951
-[/us/pl/97/462/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F462%2Fs1
+[/us/pl/97/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F462
 [/us/stat/96/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2527
 [/us/usc/t18/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs951
-[/us/pl/100/702/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs406
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4652
-[/us/pl/109/2/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2%2Fs8
+[/us/pl/109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F2
 [/us/stat/119/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F14
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
-[/us/pl/100/702/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs405
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4652
 [/us/usc/t26/s7453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7453
 

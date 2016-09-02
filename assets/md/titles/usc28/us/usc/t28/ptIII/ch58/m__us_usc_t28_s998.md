@@ -25,7 +25,7 @@
 
     (d) “rules and regulations” means rules and regulations promulgated by the Commission pursuant to [section 995 of this title][/us/usc/t28/s995].
 
-(Added [Pub. L. 98–473, title II, § 217(a)][/us/pl/98/473/s217/a], Oct. 12, 1984, [98 Stat. 2026][/us/stat/98/2026].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 217(a), Oct. 12, 1984, [98 Stat. 2026][/us/stat/98/2026].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t28/s994/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa
 [/us/usc/t28/s995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs995
-[/us/pl/98/473/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs217%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2026
 
 

@@ -35,25 +35,25 @@
 
     (d) The provisions of this section are not applicable to proceedings to review decisions of the Tax Court of the United States or to proceedings to review or enforce those orders of administrative agencies, boards, commissions, or officers which are by law reviewable or enforceable by the district courts.
 
-(Added [Pub. L. 85–791, § 2][/us/pl/85/791/s2], Aug. 28, 1958, [72 Stat. 941][/us/stat/72/941]; amended [Pub. L. 89–773, § 5(a)][/us/pl/89/773/s5/a], (b), Nov. 6, 1966, [80 Stat. 1323][/us/stat/80/1323]; [Pub. L. 100–236, § 1][/us/pl/100/236/s1], Jan. 8, 1988, [101 Stat. 1731][/us/stat/101/1731].)
+(Added [Pub. L. 85–791][/us/pl/85/791], § 2, Aug. 28, 1958, [72 Stat. 941][/us/stat/72/941]; amended [Pub. L. 89–773][/us/pl/89/773], § 5(a), (b), Nov. 6, 1966, [80 Stat. 1323][/us/stat/80/1323]; [Pub. L. 100–236][/us/pl/100/236], § 1, Jan. 8, 1988, [101 Stat. 1731][/us/stat/101/1731].)
 
  __Amendments__ 
 
     1988—Subsec. (a). [Pub. L. 100–236][/us/pl/100/236] substituted “If proceedings are instituted in two or more courts of appeals with respect to the same order, the following shall apply:” and pars. (1) to (5) for “If proceedings have been instituted in two or more courts of appeals with respect to the same order the agency, board, commission, or officer concerned shall file the record in that one of such courts in which a proceeding with respect to such order was first instituted. The other courts in which such proceedings are pending shall thereupon transfer them to the court of appeals in which the record has been filed. For the convenience of the parties in the interest of justice such court may thereafter transfer all the proceedings with respect to such order to any other court of appeals.”
 
-    1966—Subsec. (a). [Pub. L. 89–773, § 5(a)][/us/pl/89/773/s5/a], substituted “The rules prescribed under the authority of [section 2072 of this title][/us/usc/t28/s2072] may provide for the time and manner of filing” for “The several courts of appeal shall have power to adopt, with the approval of the Judicial Conference of the United States, rules, which so far as practicable shall be uniform in all such courts prescribing the time and manner of filing.” See [section 2072 of this title][/us/usc/t28/s2072].
+    1966—Subsec. (a). [Pub. L. 89–773][/us/pl/89/773], § 5(a), substituted “The rules prescribed under the authority of [section 2072 of this title][/us/usc/t28/s2072] may provide for the time and manner of filing” for “The several courts of appeal shall have power to adopt, with the approval of the Judicial Conference of the United States, rules, which so far as practicable shall be uniform in all such courts prescribing the time and manner of filing.” See [section 2072 of this title][/us/usc/t28/s2072].
 
-    Subsec. (b). [Pub. L. 89–773, § 5(b)][/us/pl/89/773/s5/b], substituted “the rules prescribed under the authority of [section 2072 of this title][/us/usc/t28/s2072]” for “the said rules of the court of appeals” and for “the rules of such court”.
+    Subsec. (b). [Pub. L. 89–773][/us/pl/89/773], § 5(b), substituted “the rules prescribed under the authority of [section 2072 of this title][/us/usc/t28/s2072]” for “the said rules of the court of appeals” and for “the rules of such court”.
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–236, § 3][/us/pl/100/236/s3], Jan. 8, 1988, [101 Stat. 1732][/us/stat/101/1732], provided that: 
+[Pub. L. 100–236][/us/pl/100/236], § 3, Jan. 8, 1988, [101 Stat. 1732][/us/stat/101/1732], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 1369 of Title 33][/us/usc/t33/s1369], Navigation and Navigable Waters\] take effect 180 days after the date of the enactment of this Act \[Jan 8, 1988\], except that the judicial panel on multidistrict litigation may issue rules pursuant to subsection (a)(3) of [section 2112 of title 28][/us/usc/t28/s2112], United States Code (as added by section 1), on or after such date of enactment.”
 
  __Savings Provision__ 
 
-[Pub. L. 89–773, § 5(c)][/us/pl/89/773/s5/c], Nov. 6, 1966, [80 Stat. 1323][/us/stat/80/1323], provided that: 
+[Pub. L. 89–773][/us/pl/89/773], § 5(c), Nov. 6, 1966, [80 Stat. 1323][/us/stat/80/1323], provided that: 
 
 > “The amendments of [section 2112 of title 28][/us/usc/t28/s2112] of the United States Code made by this Act shall not operate to invalidate or repeal rules adopted under the authority of that section prior to the enactment of this Act \[Nov. 6, 1966\], which rules shall remain in effect until superseded by rules prescribed under the authority of [section 2072 of title 28][/us/usc/t28/s2072] of the United States Code as amended by this Act.”
 
@@ -68,23 +68,23 @@
 [/us/usc/t28/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1407
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
-[/us/pl/85/791/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs2
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F941
-[/us/pl/89/773/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773%2Fs5%2Fa
+[/us/pl/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773
 [/us/stat/80/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1323
-[/us/pl/100/236/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236%2Fs1
+[/us/pl/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236
 [/us/stat/101/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1731
 [/us/pl/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236
-[/us/pl/89/773/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773%2Fs5%2Fa
+[/us/pl/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
-[/us/pl/89/773/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773%2Fs5%2Fb
+[/us/pl/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072
-[/us/pl/100/236/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236%2Fs3
+[/us/pl/100/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F236
 [/us/stat/101/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1732
 [/us/usc/t33/s1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1369
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/pl/89/773/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773%2Fs5%2Fc
+[/us/pl/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F773
 [/us/stat/80/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1323
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2072

@@ -29,11 +29,11 @@
 
     (g) Each circuit or district judge whose official duty station is not fixed expressly by this section shall notify the Director of the Administrative Office of the United States Courts in writing of his actual abode and official duty station upon his appointment and from time to time thereafter as his official duty station may change.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 908][/us/stat/62/908]; [Aug. 8, 1953, ch. 376][/us/act/1953-08-08/ch376], [67 Stat. 488][/us/stat/67/488]; [Pub. L. 86–138][/us/pl/86/138], Aug. 7, 1959, [73 Stat. 285][/us/stat/73/285]; [Pub. L. 95–598, title II, § 215][/us/pl/95/598/s215], Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 96–417, title V, § 501(11)][/us/pl/96/417/s501/11], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 97–164, title I, § 115(a)(1)][/us/pl/97/164/s115/a/1], Apr. 2, 1982, [96 Stat. 30][/us/stat/96/30]; [Pub. L. 99–234, title I, § 107(d)][/us/pl/99/234/s107/d], Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 908][/us/stat/62/908]; [Aug. 8, 1953, ch. 376][/us/act/1953-08-08/ch376], [67 Stat. 488][/us/stat/67/488]; [Pub. L. 86–138][/us/pl/86/138], Aug. 7, 1959, [73 Stat. 285][/us/stat/73/285]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 215, Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(11), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 115(a)(1), Apr. 2, 1982, [96 Stat. 30][/us/stat/96/30]; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 107(d), Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 1102(d) of title 26][/us/usc/t26/s1102/d], U.S.C., 1940 ed., Internal Revenue Code, and title 28, U.S.C., 1940 ed., §§ 218, 270, 296, 296a, 302, 374, 449 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 189, 259, [36 Stat. 1143][/us/stat/36/1143], 1161, and § 187(a) as added [Oct. 10, 1940, ch. 843, § 1][/us/act/1940-10-10/ch843/s1], [54 Stat. 1101][/us/stat/54/1101]; and section 307 as added [Aug. 7, 1939, ch. 501, § 1][/us/act/1939-08-07/ch501/s1], [53 Stat. 1224][/us/stat/53/1224]; [Sept. 14, 1922, ch. 306, § 2][/us/act/1922-09-14/ch306/s2], [42 Stat. 838][/us/stat/42/838]; [Feb. 24, 1925, ch. 301, § 2][/us/act/1925-02-24/ch301/s2], [43 Stat. 965][/us/stat/43/965]; [May 29, 1928, ch. 852, § 711][/us/act/1928-05-29/ch852/s711], [45 Stat. 882][/us/stat/45/882]; [Mar. 2, 1929, ch. 488, § 1][/us/act/1929-03-02/ch488/s1], [45 Stat. 1475][/us/stat/45/1475]; [June 23, 1930, ch. 573, § 1][/us/act/1930-06-23/ch573/s1], [46 Stat. 799][/us/stat/46/799]; [Feb. 10, 1939, ch. 2, § 1102(d)][/us/act/1939-02-10/ch2/s1102/d], [53 Stat. 159][/us/stat/53/159]; [Apr. 22, 1940, ch. 126][/us/act/1940-04-22/ch126], [54 Stat. 149][/us/stat/54/149]; [May 3, 1945, ch. 106][/us/act/1945-05-03/ch106], title I, § 1, [59 Stat. 127][/us/stat/59/127]; [May 21, 1945, ch. 129][/us/act/1945-05-21/ch129], title IV, [59 Stat. 197][/us/stat/59/197]; [July 5, 1946, ch. 541][/us/act/1946-07-05/ch541], title IV, [60 Stat. 477][/us/stat/60/477]).
+    Based on [section 1102(d) of title 26][/us/usc/t26/s1102/d], U.S.C., 1940 ed., Internal Revenue Code, and title 28, U.S.C., 1940 ed., §§ 218, 270, 296, 296a, 302, 374, 449 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 189, 259, [36 Stat. 1143][/us/stat/36/1143], 1161, and § 187(a) as added [Oct. 10, 1940, ch. 843][/us/act/1940-10-10/ch843], § 1, [54 Stat. 1101][/us/stat/54/1101]; and section 307 as added [Aug. 7, 1939, ch. 501][/us/act/1939-08-07/ch501], § 1, [53 Stat. 1224][/us/stat/53/1224]; [Sept. 14, 1922, ch. 306][/us/act/1922-09-14/ch306], § 2, [42 Stat. 838][/us/stat/42/838]; [Feb. 24, 1925, ch. 301][/us/act/1925-02-24/ch301], § 2, [43 Stat. 965][/us/stat/43/965]; [May 29, 1928, ch. 852][/us/act/1928-05-29/ch852], § 711, [45 Stat. 882][/us/stat/45/882]; [Mar. 2, 1929, ch. 488][/us/act/1929-03-02/ch488], § 1, [45 Stat. 1475][/us/stat/45/1475]; [June 23, 1930, ch. 573][/us/act/1930-06-23/ch573], § 1, [46 Stat. 799][/us/stat/46/799]; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 1102(d), [53 Stat. 159][/us/stat/53/159]; [Apr. 22, 1940, ch. 126][/us/act/1940-04-22/ch126], [54 Stat. 149][/us/stat/54/149]; [May 3, 1945, ch. 106][/us/act/1945-05-03/ch106], title I, § 1, [59 Stat. 127][/us/stat/59/127]; [May 21, 1945, ch. 129][/us/act/1945-05-21/ch129], title IV, [59 Stat. 197][/us/stat/59/197]; [July 5, 1946, ch. 541][/us/act/1946-07-05/ch541], title IV, [60 Stat. 477][/us/stat/60/477]).
 
     [Section 270 of title 28][/us/usc/t28/s270], U.S.C., 1940 ed., related to the Chief Justice and each judge of the Court of Claims and provided for payment of expenses on order of court.
 
@@ -69,7 +69,7 @@
 
     Those provisions of this section which related to the Tax Court were eliminated by Senate amendment, therefore [section 1102(d) of title 26][/us/usc/t26/s1102/d], U.S.C., was not one of the sources of this section as finally enacted.
 
-    As finally enacted, part of [act July 9, 1947, ch. 211][/us/act/1947-07-09/ch211], title IV, [61 Stat. 303][/us/stat/61/303], which was classified to title 28, U.S.C., 1946 ed., § 296a, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
+    As finally enacted, part of [act July 9, 1947, ch. 211, title IV][/us/act/1947-07-09/ch211/tIV], [61 Stat. 303][/us/stat/61/303], which was classified to title 28, U.S.C., 1946 ed., § 296a, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
 
  __Amendments__ 
 
@@ -111,7 +111,7 @@
 
  __Report on Transportation Needs__ 
 
-    [Pub. L. 99–550, § 3][/us/pl/99/550/s3], Oct. 27, 1986, [100 Stat. 3070][/us/stat/100/3070], directed Director of Administrative Office of United States Courts, within one year after Oct. 27, 1986, to prepare, in consultation with Marshal of Supreme Court of United States, Clerk of United States Court of Military Appeals, and Court Administrator of United States Tax Court, and transmit to Congress, appropriate recommendations concerning transportation needs of judicial branch and of courts established pursuant to Article I of the Constitution.
+    [Pub. L. 99–550][/us/pl/99/550], § 3, Oct. 27, 1986, [100 Stat. 3070][/us/stat/100/3070], directed Director of Administrative Office of United States Courts, within one year after Oct. 27, 1986, to prepare, in consultation with Marshal of Supreme Court of United States, Clerk of United States Court of Military Appeals, and Court Administrator of United States Tax Court, and transmit to Congress, appropriate recommendations concerning transportation needs of judicial branch and of courts established pursuant to Article I of the Constitution.
 
  __Promulgation of Regulations by Director__ 
 
@@ -133,32 +133,32 @@
 [/us/stat/67/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F488
 [/us/pl/86/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F138
 [/us/stat/73/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F285
-[/us/pl/95/598/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs215
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2661
-[/us/pl/96/417/s501/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F11
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
-[/us/pl/97/164/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs115%2Fa%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F30
-[/us/pl/99/234/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs107%2Fd
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1759
 [/us/usc/t26/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1102%2Fd
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1143
-[/us/act/1940-10-10/ch843/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843%2Fs1
+[/us/act/1940-10-10/ch843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch843
 [/us/stat/54/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1101
-[/us/act/1939-08-07/ch501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501%2Fs1
+[/us/act/1939-08-07/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501
 [/us/stat/53/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1224
-[/us/act/1922-09-14/ch306/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306%2Fs2
+[/us/act/1922-09-14/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306
 [/us/stat/42/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F838
-[/us/act/1925-02-24/ch301/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch301%2Fs2
+[/us/act/1925-02-24/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch301
 [/us/stat/43/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F965
-[/us/act/1928-05-29/ch852/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch852%2Fs711
+[/us/act/1928-05-29/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch852
 [/us/stat/45/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F882
-[/us/act/1929-03-02/ch488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488%2Fs1
+[/us/act/1929-03-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488
 [/us/stat/45/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1475
-[/us/act/1930-06-23/ch573/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch573%2Fs1
+[/us/act/1930-06-23/ch573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch573
 [/us/stat/46/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F799
-[/us/act/1939-02-10/ch2/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs1102%2Fd
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F159
 [/us/act/1940-04-22/ch126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-04-22%2Fch126
 [/us/stat/54/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F149
@@ -185,7 +185,7 @@
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 [/us/usc/t26/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1102%2Fd
 [/us/usc/t26/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1102%2Fd
-[/us/act/1947-07-09/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-09%2Fch211
+[/us/act/1947-07-09/ch211/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-09%2Fch211%2FtIV
 [/us/stat/61/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F303
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
@@ -217,7 +217,7 @@
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/96/417/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs701%2Fa
 [/us/usc/t28/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs251
-[/us/pl/99/550/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550%2Fs3
+[/us/pl/99/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550
 [/us/stat/100/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3070
 [/us/pl/87/139/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F139%2Fs6
 [/us/stat/75/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F340

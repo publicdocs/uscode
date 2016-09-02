@@ -29,7 +29,7 @@
 
     (e) Subsections (b) and (c) of this section apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [May 24, 1949, ch. 139, § 87][/us/act/1949-05-24/ch139/s87], [63 Stat. 102][/us/stat/63/102]; [Oct. 31, 1951, ch. 655, § 50(c)][/us/act/1951-10-31/ch655/s50/c], [65 Stat. 727][/us/stat/65/727]; [July 17, 1952, ch. 930][/us/act/1952-07-17/ch930], [66 Stat. 757][/us/stat/66/757]; [Pub. L. 86–726][/us/pl/86/726], §§ 1, 4, Sept. 8, 1960, [74 Stat. 855][/us/stat/74/855], 856; [Pub. L. 91–577, title III, § 143(d)][/us/pl/91/577/s143/d], Dec. 24, 1970, [84 Stat. 1559][/us/stat/84/1559]; [Pub. L. 94–553, title I, § 105(c)][/us/pl/94/553/s105/c], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599]; [Pub. L. 97–164, title I, § 133(d)][/us/pl/97/164/s133/d], Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 100–702, title X, § 1020(a)(6)][/us/pl/100/702/s1020/a/6], Nov. 19, 1988, [102 Stat. 4671][/us/stat/102/4671]; [Pub. L. 102–572, title IX, § 902(a)][/us/pl/102/572/s902/a], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–308, § 1(a)][/us/pl/104/308/s1/a], Oct. 19, 1996, [110 Stat. 3814][/us/stat/110/3814]; [Pub. L. 105–147, § 3][/us/pl/105/147/s3], Dec. 16, 1997, [111 Stat. 2680][/us/stat/111/2680]; [Pub. L. 105–304, title V, § 503(d)][/us/pl/105/304/s503/d], Oct. 28, 1998, [112 Stat. 2917][/us/stat/112/2917].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 941][/us/stat/62/941]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 87, [63 Stat. 102][/us/stat/63/102]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 50(c), [65 Stat. 727][/us/stat/65/727]; [July 17, 1952, ch. 930][/us/act/1952-07-17/ch930], [66 Stat. 757][/us/stat/66/757]; [Pub. L. 86–726][/us/pl/86/726], §§ 1, 4, Sept. 8, 1960, [74 Stat. 855][/us/stat/74/855], 856; [Pub. L. 91–577, title III][/us/pl/91/577/tIII], § 143(d), Dec. 24, 1970, [84 Stat. 1559][/us/stat/84/1559]; [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 105(c), Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 133(d), Apr. 2, 1982, [96 Stat. 40][/us/stat/96/40]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1020(a)(6), Nov. 19, 1988, [102 Stat. 4671][/us/stat/102/4671]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 104–308][/us/pl/104/308], § 1(a), Oct. 19, 1996, [110 Stat. 3814][/us/stat/110/3814]; [Pub. L. 105–147][/us/pl/105/147], § 3, Dec. 16, 1997, [111 Stat. 2680][/us/stat/111/2680]; [Pub. L. 105–304, title V][/us/pl/105/304/tV], § 503(d), Oct. 28, 1998, [112 Stat. 2917][/us/stat/112/2917].)
 
  __Historical and Revision Notes__ 
 
@@ -57,27 +57,27 @@
 
     1998—Subsec. (e). [Pub. L. 105–304][/us/pl/105/304] inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
 
-    1997—Subsec. (b). [Pub. L. 105–147, § 3][/us/pl/105/147/s3], substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
+    1997—Subsec. (b). [Pub. L. 105–147][/us/pl/105/147], § 3, substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
 
     1996—Subsec. (a). [Pub. L. 104–308][/us/pl/104/308] inserted at end of first par. “Reasonable and entire compensation shall include the owner’s reasonable costs, including reasonable fees for expert witnesses and attorneys, in pursuing the action if the owner is an independent inventor, a nonprofit organization, or an entity that had no more than 500 employees at any time during the 5-year period preceding the use or manufacture of the patented invention by or for the United States. Nothwithstanding the preceding sentences, unless the action has been pending for more than 10 years from the time of filing to the time that the owner applies for such costs and fees, reasonable and entire compensation shall not include such costs and fees if the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.”
 
-    1992—Subsec. (a). [Pub. L. 102–572, § 902(a)(1)][/us/pl/102/572/s902/a/1], substituted “United States Court of Federal Claims” for “United States Claims Court”.
+    1992—Subsec. (a). [Pub. L. 102–572][/us/pl/102/572], § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    Subsecs. (b), (d). [Pub. L. 102–572, § 902(a)(2)][/us/pl/102/572/s902/a/2], substituted “Court of Federal Claims” for “Claims Court”.
+    Subsecs. (b), (d). [Pub. L. 102–572][/us/pl/102/572], § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
     1988—Subsec. (e). [Pub. L. 100–702][/us/pl/100/702] added subsec. (e).
 
-    1982—Subsec. (a). [Pub. L. 97–168, § 133(d)(1)][/us/pl/97/168/s133/d/1], substituted “United States Claims Court” for “Court of Claims”.
+    1982—Subsec. (a). [Pub. L. 97–168][/us/pl/97/168], § 133(d)(1), substituted “United States Claims Court” for “Court of Claims”.
 
-    Subsecs. (b), (d). [Pub. L. 97–164, § 133(d)(2)][/us/pl/97/164/s133/d/2], substituted “Claims Court” for “Court of Claims”.
+    Subsecs. (b), (d). [Pub. L. 97–164][/us/pl/97/164], § 133(d)(2), substituted “Claims Court” for “Court of Claims”.
 
     1976—Subsec. (b). [Pub. L. 94–553][/us/pl/94/553] substituted “[section 504(c) of title 17][/us/usc/t17/s504/c]” for “[section 101(b) of title 17][/us/usc/t17/s101/b]”.
 
     1970—Subsec. (d). [Pub. L. 91–577][/us/pl/91/577] added subsec. (d).
 
-    1960—[Pub. L. 86–726, § 4][/us/pl/86/726/s4], substituted “Patent and copyright cases” for “Patent cases” in section catchline.
+    1960—[Pub. L. 86–726][/us/pl/86/726], § 4, substituted “Patent and copyright cases” for “Patent cases” in section catchline.
 
-    [Pub. L. 86–726, § 1][/us/pl/86/726/s1], designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+    [Pub. L. 86–726][/us/pl/86/726], § 1, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
     1952—Act July 17, 1952, allowed Government employees to maintain patent suits against the United States in certain instances.
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–308, § 1(b)][/us/pl/104/308/s1/b], Oct. 19, 1996, [110 Stat. 3814][/us/stat/110/3814], provided that: 
+[Pub. L. 104–308][/us/pl/104/308], § 1(b), Oct. 19, 1996, [110 Stat. 3814][/us/stat/110/3814], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to actions under [section 1498(a) of title 28][/us/usc/t28/s1498/a], United States Code, that are pending on, or brought on or after, the date of the enactment of this Act \[Oct. 19, 1996\].”
 
@@ -109,7 +109,7 @@
 
  __Waiver of Immunity for Members of Congress__ 
 
-[Pub. L. 86–726, § 2][/us/pl/86/726/s2], Sept. 8, 1960, [74 Stat. 855][/us/stat/74/855], provided that: 
+[Pub. L. 86–726][/us/pl/86/726], § 2, Sept. 8, 1960, [74 Stat. 855][/us/stat/74/855], provided that: 
 
 > “Nothing in this Act \[amending this section and [section 2386 of Title 10][/us/usc/t10/s2386], Armed Forces\] shall be construed to in any way waive any immunity provided for Members of Congress under article I of section 6 of the Constitution of the United States.”
 
@@ -123,29 +123,29 @@
 [/us/usc/t17/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs504%2Fc
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F941
-[/us/act/1949-05-24/ch139/s87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs87
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F102
-[/us/act/1951-10-31/ch655/s50/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs50%2Fc
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F727
 [/us/act/1952-07-17/ch930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch930
 [/us/stat/66/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F757
 [/us/pl/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726
 [/us/stat/74/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F855
-[/us/pl/91/577/s143/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs143%2Fd
+[/us/pl/91/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2FtIII
 [/us/stat/84/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1559
-[/us/pl/94/553/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs105%2Fc
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2599
-[/us/pl/97/164/s133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs133%2Fd
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F40
-[/us/pl/100/702/s1020/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1020%2Fa%2F6
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4671
-[/us/pl/102/572/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/104/308/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F308%2Fs1%2Fa
+[/us/pl/104/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F308
 [/us/stat/110/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3814
-[/us/pl/105/147/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147%2Fs3
+[/us/pl/105/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147
 [/us/stat/111/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2680
-[/us/pl/105/304/s503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2Fs503%2Fd
+[/us/pl/105/304/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304%2FtV
 [/us/stat/112/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2917
 [/us/usc/t35/s68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs68
 [/us/act/1910-06-25/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch423
@@ -157,20 +157,20 @@
 [/us/pl/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726
 [/us/pl/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577
 [/us/pl/105/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F304
-[/us/pl/105/147/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147%2Fs3
+[/us/pl/105/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147
 [/us/pl/104/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F308
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
-[/us/pl/102/572/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F2
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
-[/us/pl/97/168/s133/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F168%2Fs133%2Fd%2F1
-[/us/pl/97/164/s133/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs133%2Fd%2F2
+[/us/pl/97/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F168
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/usc/t17/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs504%2Fc
 [/us/usc/t17/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101%2Fb
 [/us/pl/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577
-[/us/pl/86/726/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726%2Fs4
-[/us/pl/86/726/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726%2Fs1
-[/us/pl/104/308/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F308%2Fs1%2Fb
+[/us/pl/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726
+[/us/pl/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726
+[/us/pl/104/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F308
 [/us/stat/110/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3814
 [/us/usc/t28/s1498/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1498%2Fa
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
@@ -185,7 +185,7 @@
 [/us/pl/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577
 [/us/pl/91/577/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs141
 [/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
-[/us/pl/86/726/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726%2Fs2
+[/us/pl/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726
 [/us/stat/74/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F855
 [/us/usc/t10/s2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2386
 

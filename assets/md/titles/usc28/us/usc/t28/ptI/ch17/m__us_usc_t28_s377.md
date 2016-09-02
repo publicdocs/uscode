@@ -243,7 +243,7 @@
 
             (C) There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
 
-(Added [Pub. L. 100–659, § 2(a)][/us/pl/100/659/s2/a], Nov. 15, 1988, [102 Stat. 3910][/us/stat/102/3910]; amended [Pub. L. 101–650, title III][/us/pl/101/650], §§ 321, 325(b)(3), Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], 5121; [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239].)
+(Added [Pub. L. 100–659][/us/pl/100/659], § 2(a), Nov. 15, 1988, [102 Stat. 3910][/us/stat/102/3910]; amended [Pub. L. 101–650, title III][/us/pl/101/650/tIII], §§ 321, 325(b)(3), Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], 5121; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(2), May 7, 1991, [105 Stat. 239][/us/stat/105/239].)
 
  __References in Text__ 
 
@@ -251,15 +251,15 @@
 
     Section 34 of the Bankruptcy Act, referred to in subsec. (h)(1)(B), was classified to section 62 of former Title 11, Bankruptcy. The Bankruptcy Act was repealed effective Oct. 1, 1979, by [Pub. L. 95–598][/us/pl/95/598], §§ 401(a), 402(a), Nov. 6, 1978, [92 Stat. 2682][/us/stat/92/2682], section 101 of which enacted revised Title 11.
 
-    [Section 404 of the Act of November 6, 1978][/us/act/1978-11-06/s404] ([Public Law 95–598][/us/pl/95/598]; [92 Stat. 2549][/us/stat/92/2549]), referred to in subsec. (h)(1)(C), was set out as a note preceding [section 151 of this title][/us/usc/t28/s151] prior to repeal by [Pub. L. 98–353, title I, § 114][/us/pl/98/353/s114], July 10, 1984, [98 Stat. 343][/us/stat/98/343].
+    [Section 404 of the Act of November 6, 1978][/us/act/1978-11-06/s404] ([Public Law 95–598][/us/pl/95/598]; [92 Stat. 2549][/us/stat/92/2549]), referred to in subsec. (h)(1)(C), was set out as a note preceding [section 151 of this title][/us/usc/t28/s151] prior to repeal by [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 114, July 10, 1984, [98 Stat. 343][/us/stat/98/343].
 
  __Amendments__ 
 
     1991—Subsec. (f)(4). [Pub. L. 102–40][/us/pl/102/40] substituted “[section 7296 of title 38][/us/usc/t38/s7296]” for “[section 4096 of title 38][/us/usc/t38/s4096]”.
 
-    1990—Subsec. (f). [Pub. L. 101–650, § 325(b)(3)(A)][/us/pl/101/650/s325/b/3/A], substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
+    1990—Subsec. (f). [Pub. L. 101–650][/us/pl/101/650], § 325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
 
-    Subsec. (h). [Pub. L. 101–650, § 325(b)(3)(B)][/us/pl/101/650/s325/b/3/B], substituted “on or after” for “in or after” in concluding provisions.
+    Subsec. (h). [Pub. L. 101–650][/us/pl/101/650], § 325(b)(3)(B), substituted “on or after” for “in or after” in concluding provisions.
 
  __Change of Name__ 
 
@@ -267,7 +267,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–659, § 9][/us/pl/100/659/s9], Nov. 15, 1988, [102 Stat. 3921][/us/stat/102/3921], as amended by [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], provided that:
+[Pub. L. 100–659][/us/pl/100/659], § 9, Nov. 15, 1988, [102 Stat. 3921][/us/stat/102/3921], as amended by [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -279,7 +279,7 @@
 
  __Annuity of Qualified Magistrate Judge__ 
 
-[Pub. L. 107–116, title V, § 515][/us/pl/107/116/s515], Jan. 10, 2002, [115 Stat. 2220][/us/stat/115/2220], provided that:
+[Pub. L. 107–116, title V][/us/pl/107/116/tV], § 515, Jan. 10, 2002, [115 Stat. 2220][/us/stat/115/2220], provided that:
 
 >     “(a)
 
@@ -309,7 +309,7 @@
 
  __Retirement Annuities for Incumbent Bankruptcy Judges and Magistrate Judges__ 
 
-[Pub. L. 100–659, § 2(c)][/us/pl/100/659/s2/c], Nov. 15, 1988, [102 Stat. 3916][/us/stat/102/3916], as amended by [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], provided that:
+[Pub. L. 100–659][/us/pl/100/659], § 2(c), Nov. 15, 1988, [102 Stat. 3916][/us/stat/102/3916], as amended by [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], provided that:
 
 >     “(1)  __Retirement annuity under title 5 and __  __[__  __section 377 of title 28__  __][/us/usc/t28/s377]__  __.—__ 
 
@@ -345,7 +345,7 @@
 
  __Report to Congress on Financial Operation of Retirement Annuity Program__ 
 
-[Pub. L. 100–659, § 8][/us/pl/100/659/s8], Nov. 15, 1988, [102 Stat. 3920][/us/stat/102/3920], provided that: 
+[Pub. L. 100–659][/us/pl/100/659], § 8, Nov. 15, 1988, [102 Stat. 3920][/us/stat/102/3920], provided that: 
 
 > “The Director of the Administrative Office of the United States Courts shall, not later than 5 years after the date of the enactment of this Act \[Nov. 15, 1988\], submit a report to the Congress on the financial operation of the retirement annuity program established under this Act and the amendments made by this Act \[see Effective Date note above\]. The report shall, in particular, include a discussion of the deductions from salary and deposits made for contributions to the annuity program and the need for continuing the deductions at the level established under the amendments made by this Act.”
 
@@ -370,11 +370,11 @@
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t31/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9503
 [/us/usc/t31/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9503
-[/us/pl/100/659/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs2%2Fa
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/stat/102/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3910
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/102/40/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
 [/us/usc/t26/s7447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7447
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
@@ -383,26 +383,26 @@
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2549
 [/us/usc/t28/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs151
-[/us/pl/98/353/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs114
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F343
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s7296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7296
 [/us/usc/t38/s4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4096
-[/us/pl/101/650/s325/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs325%2Fb%2F3%2FA
-[/us/pl/101/650/s325/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs325%2Fb%2F3%2FB
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
-[/us/pl/100/659/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs9
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/stat/102/3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3921
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/107/116/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs515
+[/us/pl/107/116/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtV
 [/us/stat/115/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2220
 [/us/usc/t28/s636/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636%2Fh
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
-[/us/pl/100/659/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs2%2Fc
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/stat/102/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3916
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
@@ -411,7 +411,7 @@
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs375
 [/us/usc/t28/s377/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377%2Fm%2F3
-[/us/pl/100/659/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs8
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/stat/102/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3920
 
 

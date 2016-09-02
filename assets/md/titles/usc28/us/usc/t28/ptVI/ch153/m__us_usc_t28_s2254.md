@@ -71,7 +71,7 @@
 
     (i) The ineffectiveness or incompetence of counsel during Federal or State collateral post-conviction proceedings shall not be a ground for relief in a proceeding arising under section 2254.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 967][/us/stat/62/967]; [Pub. L. 89–711, § 2][/us/pl/89/711/s2], Nov. 2, 1966, [80 Stat. 1105][/us/stat/80/1105]; [Pub. L. 104–132, title I, § 104][/us/pl/104/132/s104], Apr. 24, 1996, [110 Stat. 1218][/us/stat/110/1218].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 967][/us/stat/62/967]; [Pub. L. 89–711][/us/pl/89/711], § 2, Nov. 2, 1966, [80 Stat. 1105][/us/stat/80/1105]; [Pub. L. 104–132, title I][/us/pl/104/132/tI], § 104, Apr. 24, 1996, [110 Stat. 1218][/us/stat/110/1218].)
 
  __Historical and Revision Notes__ 
 
@@ -93,17 +93,17 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–132, § 104(1)][/us/pl/104/132/s104/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court shall not be granted unless it appears that the applicant has exhausted the remedies available in the courts of the State, or that there is either an absence of available State corrective process or the existence of circumstances rendering such process ineffective to protect the rights of the prisoner.”
+    1996—Subsec. (b). [Pub. L. 104–132][/us/pl/104/132], § 104(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court shall not be granted unless it appears that the applicant has exhausted the remedies available in the courts of the State, or that there is either an absence of available State corrective process or the existence of circumstances rendering such process ineffective to protect the rights of the prisoner.”
 
-    Subsec. (d). [Pub. L. 104–132, § 104(3)][/us/pl/104/132/s104/3], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 104–132][/us/pl/104/132], § 104(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 104–132, § 104(4)][/us/pl/104/132/s104/4], amended subsec. (e) generally, substituting present provisions for provisions which stated that presumption of correctness existed unless applicant were to establish or it otherwise appeared or respondent were to admit that any of several enumerated factors applied to invalidate State determination or else that factual determination by State court was clearly erroneous.
+    Subsec. (e). [Pub. L. 104–132][/us/pl/104/132], § 104(4), amended subsec. (e) generally, substituting present provisions for provisions which stated that presumption of correctness existed unless applicant were to establish or it otherwise appeared or respondent were to admit that any of several enumerated factors applied to invalidate State determination or else that factual determination by State court was clearly erroneous.
 
-    [Pub. L. 104–132, § 104(2)][/us/pl/104/132/s104/2], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 104–132][/us/pl/104/132], § 104(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsecs. (f), (g). [Pub. L. 104–132, § 104(2)][/us/pl/104/132/s104/2], redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (f), (g). [Pub. L. 104–132][/us/pl/104/132], § 104(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-    Subsecs. (h), (i). [Pub. L. 104–132, § 104(5)][/us/pl/104/132/s104/5], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 104–132][/us/pl/104/132], § 104(5), added subsecs. (h) and (i).
 
     1966—[Pub. L. 89–711][/us/pl/89/711] substituted “Federal courts” for “State Courts” in section catchline, added subsec. (a), designated existing paragraphs as subsecs. (b) and (c), and added subsecs. (d) to (f).
 
@@ -315,7 +315,7 @@ Rule 2. The Petition
 
     (e) Separate Petitions for Judgments of Separate Courts. A petitioner who seeks relief from judgments of more than one state court must file a separate petition covering the judgment or judgments of each court.
 
-    (As amended [Pub. L. 94–426, § 2(1)][/us/pl/94/426/s2/1], (2), Sept. 28, 1976, [90 Stat. 1334][/us/stat/90/1334]; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
+    (As amended [Pub. L. 94–426][/us/pl/94/426], § 2(1), (2), Sept. 28, 1976, [90 Stat. 1334][/us/stat/90/1334]; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
  __Advisory Committee Note__ 
 
@@ -393,9 +393,9 @@ Rule 2. The Petition
 
  __Amendments by Public Law__ 
 
-    1976—Subd. (c). [Pub. L. 94–426, § 2(1)][/us/pl/94/426/s2/1], inserted “substantially” after “The petition shall be in”, and struck out requirement that the petition follow the prescribed form.
+    1976—Subd. (c). [Pub. L. 94–426][/us/pl/94/426], § 2(1), inserted “substantially” after “The petition shall be in”, and struck out requirement that the petition follow the prescribed form.
 
-    Subd. (e). [Pub. L. 94–426, § 2(2)][/us/pl/94/426/s2/2], inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a petition for noncompliance without a judge so directing.
+    Subd. (e). [Pub. L. 94–426][/us/pl/94/426], § 2(2), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a petition for noncompliance without a judge so directing.
 
 Rule 3. Filing the Petition; Inmate Filing
 
@@ -651,7 +651,7 @@ Rule 8. Evidentiary Hearing
 
     (c) Appointing Counsel; Time of Hearing. If an evidentiary hearing is warranted, the judge must appoint an attorney to represent a petitioner who qualifies to have counsel appointed under 18 U.S.C. § 3006A. The judge must conduct the hearing as soon as practicable after giving the attorneys adequate time to investigate and prepare. These rules do not limit the appointment of counsel under § 3006A at any stage of the proceeding.
 
-    (As amended [Pub. L. 94–426, § 2(5)][/us/pl/94/426/s2/5], Sept. 28, 1976, [90 Stat. 1334][/us/stat/90/1334]; [Pub. L. 94–577, § 2(a)(1)][/us/pl/94/577/s2/a/1], (b)(1), Oct. 21, 1976, [90 Stat. 2730][/us/stat/90/2730], 2731; Apr. 26, 2004, eff. Dec. 1, 2004; Mar. 26, 2009, eff. Dec. 1, 2009.)
+    (As amended [Pub. L. 94–426][/us/pl/94/426], § 2(5), Sept. 28, 1976, [90 Stat. 1334][/us/stat/90/1334]; [Pub. L. 94–577][/us/pl/94/577], § 2(a)(1), (b)(1), Oct. 21, 1976, [90 Stat. 2730][/us/stat/90/2730], 2731; Apr. 26, 2004, eff. Dec. 1, 2004; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
  __Advisory Committee Note__ 
 
@@ -725,15 +725,15 @@ Rule 8. Evidentiary Hearing
 
  __Amendments by Public Law__ 
 
-    1976—Subd. (b). [Pub. L. 94–577, § 2(a)(1)][/us/pl/94/577/s2/a/1], substituted provisions which authorized magistrates, when designated to do so in accordance with [section 636(b) of this title][/us/usc/t28/s636/b], to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
+    1976—Subd. (b). [Pub. L. 94–577][/us/pl/94/577], § 2(a)(1), substituted provisions which authorized magistrates, when designated to do so in accordance with [section 636(b) of this title][/us/usc/t28/s636/b], to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
-    Subd. (c). [Pub. L. 94–577, § 2(b)(1)][/us/pl/94/577/s2/b/1], substituted “and the hearing shall be conducted” for “and shall conduct the hearing”.
+    Subd. (c). [Pub. L. 94–577][/us/pl/94/577], § 2(b)(1), substituted “and the hearing shall be conducted” for “and shall conduct the hearing”.
 
     [Pub. L. 94–426][/us/pl/94/426] provided that these rules not limit the appointment of counsel under [section 3006A of title 18][/us/usc/t18/s3006A], if the interest of justice so require.
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–577, § 2(c)][/us/pl/94/577/s2/c], Oct. 21, 1976, [90 Stat. 2731][/us/stat/90/2731], provided that: 
+[Pub. L. 94–577][/us/pl/94/577], § 2(c), Oct. 21, 1976, [90 Stat. 2731][/us/stat/90/2731], provided that: 
 
 > “The amendments made by this section \[amending subdivs. (b) and (c) of this rule and Rule 8(b), (c) of the Rules Governing Proceedings Under [Section 2255 of this title][/us/usc/t28/s2255]\] shall take effect with respect to petitions under section 2254 and motions under [section 2255 of title 28][/us/usc/t28/s2255] of the United States Code filed on or after February 1, 1977.”
 
@@ -741,7 +741,7 @@ Rule 9. Second or Successive Petitions
 
     Before presenting a second or successive petition, the petitioner must obtain an order from the appropriate court of appeals authorizing the district court to consider the petition as required by 28 U.S.C. § 2244(b)(3) and (4).
 
-    (As amended [Pub. L. 94–426, § 2(7)][/us/pl/94/426/s2/7], (8), Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; Apr. 26, 2004, eff. Dec. 1, 2004.)
+    (As amended [Pub. L. 94–426][/us/pl/94/426], § 2(7), (8), Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
  __Advisory Committee Note__ 
 
@@ -847,15 +847,15 @@ Rule 9. Second or Successive Petitions
 
  __Amendments by Public Law__ 
 
-    1976—Subd. (a). [Pub. L. 94–426, § 2(7)][/us/pl/94/426/s2/7], struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
+    1976—Subd. (a). [Pub. L. 94–426][/us/pl/94/426], § 2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
 
-    Subd. (b). [Pub. L. 94–426, § 2(8)][/us/pl/94/426/s2/8], substituted “constituted an abuse of the writ” for “is not excusable”.
+    Subd. (b). [Pub. L. 94–426][/us/pl/94/426], § 2(8), substituted “constituted an abuse of the writ” for “is not excusable”.
 
 Rule 10. Powers of a Magistrate Judge
 
     A magistrate judge may perform the duties of a district judge under these rules, as authorized under 28 U.S.C. § 636.
 
-    (As amended [Pub. L. 94–426, § 2(11)][/us/pl/94/426/s2/11], Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004.)
+    (As amended [Pub. L. 94–426][/us/pl/94/426], § 2(11), Sept. 28, 1976, [90 Stat. 1335][/us/stat/90/1335]; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
  __Advisory Committee Note__ 
 
@@ -1101,17 +1101,17 @@ Institution    
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F967
-[/us/pl/89/711/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F711%2Fs2
+[/us/pl/89/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F711
 [/us/stat/80/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1105
-[/us/pl/104/132/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs104
+[/us/pl/104/132/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtI
 [/us/stat/110/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1218
 [/us/usc/t21/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs848
-[/us/pl/104/132/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs104%2F1
-[/us/pl/104/132/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs104%2F3
-[/us/pl/104/132/s104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs104%2F4
-[/us/pl/104/132/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs104%2F2
-[/us/pl/104/132/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs104%2F2
-[/us/pl/104/132/s104/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs104%2F5
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/89/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F711
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
 [/us/pl/94/426/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs1
@@ -1124,30 +1124,30 @@ Institution    
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
 [/us/pl/94/426/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs1
 [/us/usc/t28/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2074
-[/us/pl/94/426/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F1
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/90/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1334
 [/us/stat/110/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1214
-[/us/pl/94/426/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F1
-[/us/pl/94/426/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F2
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/110/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1214
-[/us/pl/94/426/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F5
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/90/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1334
-[/us/pl/94/577/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577%2Fs2%2Fa%2F1
+[/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/stat/90/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2730
-[/us/pl/94/577/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577%2Fs2%2Fa%2F1
+[/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/usc/t28/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636%2Fb
-[/us/pl/94/577/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577%2Fs2%2Fb%2F1
+[/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
-[/us/pl/94/577/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577%2Fs2%2Fc
+[/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/stat/90/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2731
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
-[/us/pl/94/426/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F7
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/90/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1335
-[/us/pl/94/426/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F7
-[/us/pl/94/426/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F8
-[/us/pl/94/426/s2/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426%2Fs2%2F11
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
+[/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426
 [/us/stat/90/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1335
 [/us/pl/94/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F577
 [/us/pl/94/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F426

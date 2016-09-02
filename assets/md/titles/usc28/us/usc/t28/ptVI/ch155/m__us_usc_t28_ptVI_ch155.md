@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptVI/ch154/m__us_usc_t28_s2266.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch155/m__us_usc_t28_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch155)
+[Previous](./../../../../..//us/usc/t28/ptVI/ch154/m__us_usc_t28_s2266.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch155/m__us_usc_t28_s2281 _us_usc_t28_s2282.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch155)
 
 ### CHAPTER 155—INJUNCTIONS; THREE-JUDGE COURTS
 
@@ -59,34 +59,16 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–381, § 4][/us/pl/94/381/s4], Aug. 12, 1976, [90 Stat. 1119][/us/stat/90/1119], struck out item 2281 “Injunction against enforcement of State statute; three-judge court required”, item 2282 “Injunction against enforcement of Federal statute; three-judge court required”, and inserted “when required” after “district court” in item 2284.
-
-\[§§ 2281, 2282. __Repealed.__  __[__  __Pub. L. 94–381__  __][/us/pl/94/381]__  __, §§ 1, 2,__  __Aug. 12, 1976__  __,__  __[__  __90 Stat. 1119__  __][/us/stat/90/1119]__  __\]__ 
-
-    Section 2281, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 968][/us/stat/62/968], provided that an interlocutory or permanent injunction restraining the enforcement, operation or execution of a State statute on grounds of unconstitutionality should not be granted unless the application has been heard and determined by a three-judge district court.
-
-    Section 2282, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 968][/us/stat/62/968], provided that an interlocutory or permanent injunction restraining the enforcement, operation or execution of any Act of Congress on grounds of unconstitutionality should not be granted unless the application therefor has been heard and determined by a three-judge district court.
-
- __Effective Date of Repeal__ 
-
-    Repeal not applicable to any action commenced on or before Aug. 12, 1976, see [section 7 of Pub. L. 94–381][/us/pl/94/381/s7] set out as an Effective Date of 1976 Amendment note under [section 2284 of this title][/us/usc/t28/s2284].
+    1976—[Pub. L. 94–381][/us/pl/94/381], § 4, Aug. 12, 1976, [90 Stat. 1119][/us/stat/90/1119], struck out item 2281 “Injunction against enforcement of State statute; three-judge court required”, item 2282 “Injunction against enforcement of Federal statute; three-judge court required”, and inserted “when required” after “district court” in item 2284.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptVI/ch154/m__us_usc_t28_s2266.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch155/m__us_usc_t28_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch155)
+[Previous](./../../../../..//us/usc/t28/ptVI/ch154/m__us_usc_t28_s2266.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch155/m__us_usc_t28_s2281 _us_usc_t28_s2282.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch155)
 
 ----------
 ----------
 
-[/us/pl/94/381/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs4
-[/us/stat/90/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1119
 [/us/pl/94/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381
 [/us/stat/90/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1119
-[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
-[/us/stat/62/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F968
-[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
-[/us/stat/62/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F968
-[/us/pl/94/381/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F381%2Fs7
-[/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
 
 

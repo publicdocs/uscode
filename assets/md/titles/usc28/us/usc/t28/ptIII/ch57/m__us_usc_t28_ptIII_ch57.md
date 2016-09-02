@@ -135,13 +135,13 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–317, title II, § 204(b)][/us/pl/104/317/s204/b], Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850], substituted “Vacancy in clerk position; absence of clerk” for “Death of clerk; duties of deputies” in item 954.
+    1996—[Pub. L. 104–317, title II][/us/pl/104/317/tII], § 204(b), Oct. 19, 1996, [110 Stat. 3850][/us/stat/110/3850], substituted “Vacancy in clerk position; absence of clerk” for “Death of clerk; duties of deputies” in item 954.
 
-    1972—[Pub. L. 92–310, title II, § 206(e)(2)][/us/pl/92/310/s206/e/2], (f)(2), June 6, 1972, [86 Stat. 203][/us/stat/86/203], struck out item 952 “Bonds of clerks and deputies”, and struck out “and remedies against” before “deputies” in item 954.
+    1972—[Pub. L. 92–310, title II][/us/pl/92/310/tII], § 206(e)(2), (f)(2), June 6, 1972, [86 Stat. 203][/us/stat/86/203], struck out item 952 “Bonds of clerks and deputies”, and struck out “and remedies against” before “deputies” in item 954.
 
-    1968—[Pub. L. 90–623, § 4][/us/pl/90/623/s4], Oct. 22, 1968, [82 Stat. 1315][/us/stat/82/1315], struck out item 962 “Traveling expenses”.
+    1968—[Pub. L. 90–623][/us/pl/90/623], § 4, Oct. 22, 1968, [82 Stat. 1315][/us/stat/82/1315], struck out item 962 “Traveling expenses”.
 
-    1949—[Act May 24, 1949, ch. 139, § 78a][/us/act/1949-05-24/ch139/s78a], [63 Stat. 101][/us/stat/63/101], struck out “by clerks” after “law” in item 955.
+    1949—[Act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 78a, [63 Stat. 101][/us/stat/63/101], struck out “by clerks” after “law” in item 955.
 
 ----------
 
@@ -150,13 +150,13 @@
 ----------
 ----------
 
-[/us/pl/104/317/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs204%2Fb
+[/us/pl/104/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtII
 [/us/stat/110/3850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3850
-[/us/pl/92/310/s206/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs206%2Fe%2F2
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
-[/us/pl/90/623/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs4
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1315
-[/us/act/1949-05-24/ch139/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs78a
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F101
 
 

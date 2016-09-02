@@ -17,7 +17,7 @@
 
     The President shall appoint, by and with the advice and consent of the Senate, an Attorney General of the United States. The Attorney General is the head of the Department of Justice.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612].)
 
 <table>
 
@@ -69,11 +69,11 @@ R.S. § 346 (last 10 words).  </td>
 
  __Prior Provisions__ 
 
-    A prior section 503, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 909][/us/stat/62/909], related to appointment of attorneys to assist United States attorneys, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 543 of this title][/us/usc/t28/s543] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 503, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 909][/us/stat/62/909], related to appointment of attorneys to assist United States attorneys, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 543 of this title][/us/usc/t28/s543] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
  __Actions Challenging Appointment of Attorney General on Grounds of Violation of Constitutional Provisions Governing Compensation and Other Emoluments__ 
 
-[Pub. L. 93–178, § 2][/us/pl/93/178/s2], Dec. 10, 1973, [87 Stat. 697][/us/stat/87/697], provided that:
+[Pub. L. 93–178][/us/pl/93/178], § 2, Dec. 10, 1973, [87 Stat. 697][/us/stat/87/697], provided that:
 
 >     “(a) Any person aggrieved by an action of the Attorney General may bring a civil action in the appropriate district court to contest the constitutionality of the appointment and continuance in office of the Attorney General on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States district courts shall have exclusive jurisdiction, without regard to the sum or value of the matter in controversy, to determine the validity of such appointment and continuance in office.
 
@@ -88,14 +88,14 @@ R.S. § 346 (last 10 words).  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F612
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs543
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
-[/us/pl/93/178/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F178%2Fs2
+[/us/pl/93/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F178
 [/us/stat/87/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F697
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
 

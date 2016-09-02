@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 831 (R.S. § 984; [June 10, 1921, ch. 18, § 304][/us/act/1921-06-10/ch18/s304], [42 Stat. 24][/us/stat/42/24]).
+    Based on title 28, U.S.C., 1940 ed., § 831 (R.S. § 984; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], § 304, [42 Stat. 24][/us/stat/42/24]).
 
     Section as revised conforms to existing Federal Practice. See note to subdivision (d) of Rule 54 of the Federal Rules of Civil Procedure. For discussion as to verification of bill of costs under existing practice, see—8 Hughes, Federal Practice, Jurisdiction and Procedure—Civil and Criminal, § 6441.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F957
-[/us/act/1921-06-10/ch18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18%2Fs304
+[/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
 
 

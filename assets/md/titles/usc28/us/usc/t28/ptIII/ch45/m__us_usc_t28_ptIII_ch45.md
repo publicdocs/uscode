@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–402, § 1(b)(3)(B)][/us/pl/110/402/s1/b/3/B], Oct. 13, 2008, [122 Stat. 4254][/us/stat/122/4254], added item 677 and struck out former item 677 “Administrative Assistant to the Chief Justice”.
+    2008—[Pub. L. 110–402][/us/pl/110/402], § 1(b)(3)(B), Oct. 13, 2008, [122 Stat. 4254][/us/stat/122/4254], added item 677 and struck out former item 677 “Administrative Assistant to the Chief Justice”.
 
-    1972—[Pub. L. 92–238, § 2][/us/pl/92/238/s2], Mar. 1, 1972, [86 Stat. 46][/us/stat/86/46], added item 677.
+    1972—[Pub. L. 92–238][/us/pl/92/238], § 2, Mar. 1, 1972, [86 Stat. 46][/us/stat/86/46], added item 677.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/110/402/s1/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402%2Fs1%2Fb%2F3%2FB
+[/us/pl/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402
 [/us/stat/122/4254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4254
-[/us/pl/92/238/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F238%2Fs2
+[/us/pl/92/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F238
 [/us/stat/86/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F46
 
 

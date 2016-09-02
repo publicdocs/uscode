@@ -19,7 +19,7 @@
 
     (b) The marshal’s accounts of fees and costs paid to a witness or juror on certificate of attendance issued as provided by sections 1825 and 1871 of this title may not be reexamined to charge him for an erroneous payment of the fees or costs.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 621][/us/stat/80/621], § 572; renumbered § 567, [Pub. L. 100–690, title VII, § 7608(a)(2)(B)][/us/pl/100/690/s7608/a/2/B], Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 621][/us/stat/80/621], § 572; renumbered § 567, [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7608(a)(2)(B), Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514].)
 
 <table>
 
@@ -79,7 +79,7 @@ Statutes at Large  </td>
 
  __1948__  __Act__ 
 
-    Prior section 551.—Based on title 28, U.S.C., 1940 ed., §§ 577, 578a (R.S. § 846; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], §§ 6, 13, 24, [29 Stat. 179][/us/stat/29/179], 183, 186; [May 27, 1908, ch. 200, § 1][/us/act/1908-05-27/ch200/s1], [35 Stat. 375][/us/stat/35/375]; [June 6, 1930, ch. 409][/us/act/1930-06-06/ch409], [46 Stat. 522][/us/stat/46/522]; [Oct. 13, 1941, ch. 431, § 1][/us/act/1941-10-13/ch431/s1], [55 Stat. 736][/us/stat/55/736]).
+    Prior section 551.—Based on title 28, U.S.C., 1940 ed., §§ 577, 578a (R.S. § 846; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], §§ 6, 13, 24, [29 Stat. 179][/us/stat/29/179], 183, 186; [May 27, 1908, ch. 200][/us/act/1908-05-27/ch200], § 1, [35 Stat. 375][/us/stat/35/375]; [June 6, 1930, ch. 409][/us/act/1930-06-06/ch409], [46 Stat. 522][/us/stat/46/522]; [Oct. 13, 1941, ch. 431][/us/act/1941-10-13/ch431], § 1, [55 Stat. 736][/us/stat/55/736]).
 
     Section consolidates first sentence of section 577 with [section 578a of title 28][/us/usc/t28/s578a], U.S.C., 1940 ed., with changes of phraseology necessary to effect consolidation. Other provisions of said section 577 are incorporated in [section 1929 of this title][/us/usc/t28/s1929].
 
@@ -91,7 +91,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 567, added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 620][/us/stat/80/620], related to expenses of marshals, prior to repeal by [Pub. L. 100–690, § 7608(a)(1)][/us/pl/100/690/s7608/a/1]. See [section 565 of this title][/us/usc/t28/s565].
+    A prior section 567, added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 620][/us/stat/80/620], related to expenses of marshals, prior to repeal by [Pub. L. 100–690][/us/pl/100/690], § 7608(a)(1). See [section 565 of this title][/us/usc/t28/s565].
 
  __Amendments__ 
 
@@ -104,17 +104,17 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F621
-[/us/pl/100/690/s7608/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F2%2FB
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4514
 [/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F179
-[/us/act/1908-05-27/ch200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200%2Fs1
+[/us/act/1908-05-27/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200
 [/us/stat/35/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F375
 [/us/act/1930-06-06/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-06%2Fch409
 [/us/stat/46/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F522
-[/us/act/1941-10-13/ch431/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-10-13%2Fch431%2Fs1
+[/us/act/1941-10-13/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-10-13%2Fch431
 [/us/stat/55/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F736
 [/us/usc/t28/s578a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs578a
 [/us/usc/t28/s1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1929
@@ -123,9 +123,9 @@ Statutes at Large  </td>
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
 [/us/usc/t28/s578a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs578a
 [/us/usc/t31/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs495
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F620
-[/us/pl/100/690/s7608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t28/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs565
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t28/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs572

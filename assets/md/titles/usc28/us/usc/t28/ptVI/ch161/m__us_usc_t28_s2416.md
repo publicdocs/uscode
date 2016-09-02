@@ -25,7 +25,7 @@
 
     (d) the United States is in a state of war declared pursuant to article I, section 8, of the Constitution of the United States.
 
-(Added [Pub. L. 89–505, § 1][/us/pl/89/505/s1], July 18, 1966, [80 Stat. 305][/us/stat/80/305].)
+(Added [Pub. L. 89–505][/us/pl/89/505], § 1, July 18, 1966, [80 Stat. 305][/us/stat/80/305].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/89/505/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F505%2Fs1
+[/us/pl/89/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F505
 [/us/stat/80/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F305
 
 

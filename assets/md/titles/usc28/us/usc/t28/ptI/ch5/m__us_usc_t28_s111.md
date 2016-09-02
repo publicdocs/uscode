@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 177 ([June 20, 1910, ch. 310, § 13][/us/act/1910-06-20/ch310/s13], [36 Stat. 565][/us/stat/36/565]; [Mar. 4, 1921, ch. 149][/us/act/1921-03-04/ch149], [41 Stat. 1361][/us/stat/41/1361]; [June 7, 1924, ch. 332][/us/act/1924-06-07/ch332], [43 Stat. 642][/us/stat/43/642]).
+    Based on title 28, U.S.C., 1940 ed., § 177 ([June 20, 1910, ch. 310][/us/act/1910-06-20/ch310], § 13, [36 Stat. 565][/us/stat/36/565]; [Mar. 4, 1921, ch. 149][/us/act/1921-03-04/ch149], [41 Stat. 1361][/us/stat/41/1361]; [June 7, 1924, ch. 332][/us/act/1924-06-07/ch332], [43 Stat. 642][/us/stat/43/642]).
 
     The reference to Raton as a place of holding court was omitted on advice of the clerk that court is no longer held there.
 
@@ -48,7 +48,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F885
-[/us/act/1910-06-20/ch310/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-20%2Fch310%2Fs13
+[/us/act/1910-06-20/ch310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-20%2Fch310
 [/us/stat/36/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F565
 [/us/act/1921-03-04/ch149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch149
 [/us/stat/41/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1361

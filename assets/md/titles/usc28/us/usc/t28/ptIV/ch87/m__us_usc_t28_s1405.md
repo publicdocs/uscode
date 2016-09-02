@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 121 ([Mar. 3, 1911, ch. 231, § 59][/us/act/1911-03-03/ch231/s59], [36 Stat. 1103][/us/stat/36/1103]).
+    Based on title 28, U.S.C., 1940 ed., § 121 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 59, [36 Stat. 1103][/us/stat/36/1103]).
 
     Enforcement of liens in like circumstances is provided by [section 1656 of this title][/us/usc/t28/s1656].
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F937
-[/us/act/1911-03-03/ch231/s59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs59
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1103
 [/us/usc/t28/s1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1656
 [/us/usc/t28/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs121

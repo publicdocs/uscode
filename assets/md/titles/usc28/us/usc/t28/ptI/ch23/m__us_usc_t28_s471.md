@@ -17,7 +17,7 @@
 
     There shall be implemented by each United States district court, in accordance with this chapter, a civil justice expense and delay reduction plan. The plan may be a plan developed by such district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and in­expensive resolutions of civil disputes.
 
-(Added [Pub. L. 101–650, title I, § 103(a)][/us/pl/101/650/s103/a], Dec. 1, 1990, [104 Stat. 5090][/us/stat/104/5090]; amended [Pub. L. 102–198, § 2(1)][/us/pl/102/198/s2/1], Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623].)
+(Added [Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(a), Dec. 1, 1990, [104 Stat. 5090][/us/stat/104/5090]; amended [Pub. L. 102–198][/us/pl/102/198], § 2(1), Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Congressional Statement of Findings__ 
 
-[Pub. L. 101–650, title I, § 102][/us/pl/101/650/s102], Dec. 1, 1990, [104 Stat. 5089][/us/stat/104/5089], provided that: 
+[Pub. L. 101–650, title I][/us/pl/101/650/tI], § 102, Dec. 1, 1990, [104 Stat. 5089][/us/stat/104/5089], provided that: 
 
 > “The Congress makes the following findings:
 
@@ -53,7 +53,7 @@
 
  __Implementation of Plans__ 
 
-[Pub. L. 101–650, title I, § 103(b)][/us/pl/101/650/s103/b], (c), Dec. 1, 1990, [104 Stat. 5096][/us/stat/104/5096], as amended by [Pub. L. 102–572, title V, § 505][/us/pl/102/572/s505], Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513]; [Pub. L. 105–53, § 2][/us/pl/105/53/s2], Oct. 6, 1997, [111 Stat. 1173][/us/stat/111/1173]; [Pub. L. 106–518, title II, § 206][/us/pl/106/518/s206], Nov. 13, 2000, [114 Stat. 2414][/us/stat/114/2414], provided that:
+[Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(b), (c), Dec. 1, 1990, [104 Stat. 5096][/us/stat/104/5096], as amended by [Pub. L. 102–572, title V][/us/pl/102/572/tV], § 505, Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513]; [Pub. L. 105–53][/us/pl/105/53], § 2, Oct. 6, 1997, [111 Stat. 1173][/us/stat/111/1173]; [Pub. L. 106–518, title II][/us/pl/106/518/tII], § 206, Nov. 13, 2000, [114 Stat. 2414][/us/stat/114/2414], provided that:
 
 >     “(b)  __Implementation__  __.—__ 
 
@@ -69,7 +69,7 @@
 
 >         “(1) Any United States district court that, no earlier than June 30, 1991, and no later than December 31, 1991, develops and implements a civil justice expense and delay reduction plan under chapter 23 of title 28, United States Code, as added by subsection (a), shall be designated by the Judicial Conference of the United States as an Early Implementation District Court.
 
->         “(2) The chief judge of a district so designated may apply to the Judicial Conference for additional resources, including technological and personnel support and information systems, necessary to implement its civil justice expense and delay reduction plan. The Judicial Conference may provide such resources out of funds appropriated pursuant to section 106(a) \[[Pub. L. 101–650, title I][/us/pl/101/650], Dec. 1, 1990, [104 Stat. 5098][/us/stat/104/5098]\].
+>         “(2) The chief judge of a district so designated may apply to the Judicial Conference for additional resources, including technological and personnel support and information systems, necessary to implement its civil justice expense and delay reduction plan. The Judicial Conference may provide such resources out of funds appropriated pursuant to section 106(a) \[[Pub. L. 101–650, title I][/us/pl/101/650/tI], Dec. 1, 1990, [104 Stat. 5098][/us/stat/104/5098]\].
 
 >         “(3) Within 18 months after the date of the enactment of this title \[Dec. 1, 1990\], the Judicial Conference shall prepare a report on the plans developed and implemented by the Early Implementation District Courts.
 
@@ -85,7 +85,7 @@
 
  __Demonstration Program__ 
 
-[Pub. L. 101–650, title I, § 104][/us/pl/101/650/s104], Dec. 1, 1990, [104 Stat. 5097][/us/stat/104/5097], as amended by [Pub. L. 104–33, § 1][/us/pl/104/33/s1], Oct. 3, 1995, [109 Stat. 292][/us/stat/109/292]; [Pub. L. 104–317, title VI, § 608(a)][/us/pl/104/317/s608/a], Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860], provided that:
+[Pub. L. 101–650, title I][/us/pl/101/650/tI], § 104, Dec. 1, 1990, [104 Stat. 5097][/us/stat/104/5097], as amended by [Pub. L. 104–33][/us/pl/104/33], § 1, Oct. 3, 1995, [109 Stat. 292][/us/stat/109/292]; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 608(a), Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -109,7 +109,7 @@
 
  __Pilot Program__ 
 
-[Pub. L. 101–650, title I, § 105][/us/pl/101/650/s105], Dec. 1, 1990, [104 Stat. 5097][/us/stat/104/5097], as amended by [Pub. L. 103–420, § 4][/us/pl/103/420/s4], Oct. 25, 1994, [108 Stat. 4345][/us/stat/108/4345]; [Pub. L. 104–317, title VI, § 608(b)][/us/pl/104/317/s608/b], Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860], provided that:
+[Pub. L. 101–650, title I][/us/pl/101/650/tI], § 105, Dec. 1, 1990, [104 Stat. 5097][/us/stat/104/5097], as amended by [Pub. L. 103–420][/us/pl/103/420], § 4, Oct. 25, 1994, [108 Stat. 4345][/us/stat/108/4345]; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 608(b), Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -144,37 +144,37 @@
 ----------
 ----------
 
-[/us/pl/101/650/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fa
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5090
-[/us/pl/102/198/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs2%2F1
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1623
 [/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
-[/us/pl/101/650/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs102
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5089
-[/us/pl/101/650/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fb
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5096
-[/us/pl/102/572/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs505
+[/us/pl/102/572/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtV
 [/us/stat/106/4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4513
-[/us/pl/105/53/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F53%2Fs2
+[/us/pl/105/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F53
 [/us/stat/111/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1173
-[/us/pl/106/518/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs206
+[/us/pl/106/518/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtII
 [/us/stat/114/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2414
 [/us/usc/t28/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs471
 [/us/usc/t28/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs476
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5098
 [/us/usc/t28/s472/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs472%2Fd
-[/us/pl/101/650/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs104
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5097
-[/us/pl/104/33/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F33%2Fs1
+[/us/pl/104/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F33
 [/us/stat/109/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F292
-[/us/pl/104/317/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs608%2Fa
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3860
-[/us/pl/101/650/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs105
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5097
-[/us/pl/103/420/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F420%2Fs4
+[/us/pl/103/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F420
 [/us/stat/108/4345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4345
-[/us/pl/104/317/s608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs608%2Fb
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3860
 [/us/usc/t28/s473/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs473%2Fa
 [/us/usc/t28/s473/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs473%2Fa

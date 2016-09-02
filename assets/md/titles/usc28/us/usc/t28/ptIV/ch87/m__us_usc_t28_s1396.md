@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 105, and [section 3744 of title 26][/us/usc/t26/s3744], U.S.C., 1940 ed., Internal Revenue Code ([Mar. 3, 1911, ch. 231, § 44][/us/act/1911-03-03/ch231/s44], [36 Stat. 1100][/us/stat/36/1100]; [Feb. 10, 1939, ch. 2, § 3744][/us/act/1939-02-10/ch2/s3744], [53 Stat. 460][/us/stat/53/460]).
+    Based on title 28, U.S.C., 1940 ed., § 105, and [section 3744 of title 26][/us/usc/t26/s3744], U.S.C., 1940 ed., Internal Revenue Code ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 44, [36 Stat. 1100][/us/stat/36/1100]; [Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], § 3744, [53 Stat. 460][/us/stat/53/460]).
 
     Section consolidates [section 3744 of title 26][/us/usc/t26/s3744], U.S.C., 1940 ed., Internal Revenue Code, with [section 105 of title 28][/us/usc/t28/s105], U.S.C., 1940 ed.
 
@@ -43,9 +43,9 @@
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F936
 [/us/usc/t26/s3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3744
-[/us/act/1911-03-03/ch231/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs44
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1100
-[/us/act/1939-02-10/ch2/s3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2%2Fs3744
+[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F460
 [/us/usc/t26/s3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3744
 [/us/usc/t28/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs105

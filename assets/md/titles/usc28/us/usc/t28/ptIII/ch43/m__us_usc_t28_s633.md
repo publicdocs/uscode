@@ -31,7 +31,7 @@
 
     Except as otherwise provided in this chapter, the conference may, from time to time, in the light of the recommendations of the Director, the district courts, and the councils, change the number, locations, and salaries of full-time and part-time magistrate judges, as the expeditious administration of justice may require.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 916][/us/stat/62/916]; [Aug. 13, 1954, ch. 728, § 1(a)][/us/act/1954-08-13/ch728/s1/a], (b), [68 Stat. 704][/us/stat/68/704]; [Pub. L. 85–276][/us/pl/85/276], §§ 1, 2, Sept. 2, 1957, [71 Stat. 600][/us/stat/71/600]; [Pub. L. 90–578, title I, § 101][/us/pl/90/578/s101], Oct. 17, 1968, [82 Stat. 1111][/us/stat/82/1111]; [Pub. L. 96–82, § 4][/us/pl/96/82/s4], Oct. 10, 1979, [93 Stat. 645][/us/stat/93/645]; [Pub. L. 99–651, title II, § 202(d)][/us/pl/99/651/s202/d], Nov. 14, 1986, [100 Stat. 3648][/us/stat/100/3648]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 916][/us/stat/62/916]; [Aug. 13, 1954, ch. 728][/us/act/1954-08-13/ch728], § 1(a), (b), [68 Stat. 704][/us/stat/68/704]; [Pub. L. 85–276][/us/pl/85/276], §§ 1, 2, Sept. 2, 1957, [71 Stat. 600][/us/stat/71/600]; [Pub. L. 90–578, title I][/us/pl/90/578/tI], § 101, Oct. 17, 1968, [82 Stat. 1111][/us/stat/82/1111]; [Pub. L. 96–82][/us/pl/96/82], § 4, Oct. 10, 1979, [93 Stat. 645][/us/stat/93/645]; [Pub. L. 99–651, title II][/us/pl/99/651/tII], § 202(d), Nov. 14, 1986, [100 Stat. 3648][/us/stat/100/3648]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
     1968—[Pub. L. 90–578][/us/pl/90/578] substituted provisions for determination of number, locations, and salaries of magistrates, comprising subsecs. (a) to (c) of this section, relating to: surveys by the Director; determination by the conference; and changes in number, locations, and salaries”, respectively, for prior provisions for fees and expenses of United States commissioners, prescribing in undesignated introductory provisions a $10,500 limitation for any one calendar year for certain enumerated services rendered, and in former subsec. (c) for actual and necessary office expenses, including compensation of a necessary clerical assistant, of United States commissioners performing full time duty in office and not engaged in practice of law, now covered in sections 634 and 635 of this title.
 
-    1957—Subsec. (a). [Pub. L. 85–276, § 1][/us/pl/85/276/s1], placed in subsec. (a) provisions of former subsec. (b) relating to limitation of compensation of commissioners and, among other charges, increased fees and compensation of commissioners.
+    1957—Subsec. (a). [Pub. L. 85–276][/us/pl/85/276], § 1, placed in subsec. (a) provisions of former subsec. (b) relating to limitation of compensation of commissioners and, among other charges, increased fees and compensation of commissioners.
 
-    Subsec. (b). [Pub. L. 85–276, § 2][/us/pl/85/276/s2], repealed subsec. (b) which limited compensation of commissioners.
+    Subsec. (b). [Pub. L. 85–276][/us/pl/85/276], § 2, repealed subsec. (b) which limited compensation of commissioners.
 
     1954—Act Aug. 13, 1954, inserted “and expenses” after “Fees” in section catchline.
 
@@ -76,24 +76,24 @@
 [/us/usc/t28/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs634
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F916
-[/us/act/1954-08-13/ch728/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch728%2Fs1%2Fa
+[/us/act/1954-08-13/ch728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch728
 [/us/stat/68/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F704
 [/us/pl/85/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F276
 [/us/stat/71/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F600
-[/us/pl/90/578/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs101
+[/us/pl/90/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtI
 [/us/stat/82/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1111
-[/us/pl/96/82/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F82%2Fs4
+[/us/pl/96/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F82
 [/us/stat/93/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F645
-[/us/pl/99/651/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2Fs202%2Fd
+[/us/pl/99/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651%2FtII
 [/us/stat/100/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3648
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
 [/us/pl/99/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F651
 [/us/pl/96/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F82
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
-[/us/pl/85/276/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F276%2Fs1
-[/us/pl/85/276/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F276%2Fs2
+[/us/pl/85/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F276
+[/us/pl/85/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F276
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578

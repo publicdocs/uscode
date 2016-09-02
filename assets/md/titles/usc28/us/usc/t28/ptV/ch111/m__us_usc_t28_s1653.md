@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 399 ([Mar. 3, 1911, ch. 231, § 274c][/us/act/1911-03-03/ch231/s274c], as added [Mar. 3, 1915, ch. 90][/us/act/1915-03-03/ch90], [38 Stat. 956][/us/stat/38/956]).
+    Based on title 28, U.S.C., 1940 ed., § 399 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 274c, as added [Mar. 3, 1915, ch. 90][/us/act/1915-03-03/ch90], [38 Stat. 956][/us/stat/38/956]).
 
     Section was extended to permit amendment of all jurisdictional allegations instead of merely allegations of diversity of citizenship as provided by [section 399 of title 28][/us/usc/t28/s399], U.S.C., 1940 ed.
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F944
-[/us/act/1911-03-03/ch231/s274c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs274c
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/act/1915-03-03/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-03%2Fch90
 [/us/stat/38/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F956
 [/us/usc/t28/s399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs399

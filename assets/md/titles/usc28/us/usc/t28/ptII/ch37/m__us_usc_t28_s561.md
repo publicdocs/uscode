@@ -49,11 +49,11 @@
 
         (4) experience in or with county, State, and Federal court systems or experience with protection of court personnel, jurors, and witnesses.
 
-(Added [Pub. L. 100–690, title VII, § 7608(a)(1)][/us/pl/100/690/s7608/a/1], Nov. 18, 1988, [102 Stat. 4512][/us/stat/102/4512]; amended [Pub. L. 107–273, div. A, title III, § 301(b)][/us/pl/107/273/s301/b], Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781]; [Pub. L. 109–177, title V, § 505][/us/pl/109/177/s505], Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7608(a)(1), Nov. 18, 1988, [102 Stat. 4512][/us/stat/102/4512]; amended [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 301(b), Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 505, Mar. 9, 2006, [120 Stat. 247][/us/stat/120/247].)
 
  __Prior Provisions__ 
 
-    A prior section 561, added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 619][/us/stat/80/619]; amended [Pub. L. 95–530, § 2][/us/pl/95/530/s2], Oct. 27, 1978, [92 Stat. 2028][/us/stat/92/2028], related to appointment, term, and residence of United States marshals, prior to repeal by [Pub. L. 100–690, § 7608(a)(1)][/us/pl/100/690/s7608/a/1].
+    A prior section 561, added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 619][/us/stat/80/619]; amended [Pub. L. 95–530][/us/pl/95/530], § 2, Oct. 27, 1978, [92 Stat. 2028][/us/stat/92/2028], related to appointment, term, and residence of United States marshals, prior to repeal by [Pub. L. 100–690][/us/pl/100/690], § 7608(a)(1).
 
  __Amendments__ 
 
@@ -68,17 +68,17 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4512
-[/us/pl/107/273/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs301%2Fb
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
-[/us/pl/109/177/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs505
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F247
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F619
-[/us/pl/95/530/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F530%2Fs2
+[/us/pl/95/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F530
 [/us/stat/92/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2028
-[/us/pl/100/690/s7608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 

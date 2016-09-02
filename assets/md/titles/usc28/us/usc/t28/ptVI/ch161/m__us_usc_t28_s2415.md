@@ -33,13 +33,13 @@
 
     (i) The provisions of this section shall not prevent the United States or an officer or agency thereof from collecting any claim of the United States by means of administrative offset, in accordance with [section 3716 of title 31][/us/usc/t31/s3716].
 
-(Added [Pub. L. 89–505, § 1][/us/pl/89/505/s1], July 18, 1966, [80 Stat. 304][/us/stat/80/304]; amended [Pub. L. 92–353][/us/pl/92/353], July 18, 1972, [86 Stat. 499][/us/stat/86/499]; [Pub. L. 92–485][/us/pl/92/485], Oct. 13, 1972, [86 Stat. 803][/us/stat/86/803]; [Pub. L. 95–64][/us/pl/95/64], July 11, 1977, [91 Stat. 268][/us/stat/91/268]; [Pub. L. 95–103][/us/pl/95/103], Aug. 15, 1977, [91 Stat. 842][/us/stat/91/842]; [Pub. L. 96–217, § 1][/us/pl/96/217/s1], Mar. 27, 1980, [94 Stat. 126][/us/stat/94/126]; [Pub. L. 97–365, § 9][/us/pl/97/365/s9], Oct. 25, 1982, [96 Stat. 1754][/us/stat/96/1754]; [Pub. L. 97–394, title I, § 2][/us/pl/97/394/s2], Dec. 30, 1982, [96 Stat. 1976][/us/stat/96/1976]; [Pub. L. 97–452, § 2(d)(2)][/us/pl/97/452/s2/d/2], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–250, § 4(a)][/us/pl/98/250/s4/a], Apr. 3, 1984, [98 Stat. 118][/us/stat/98/118].)
+(Added [Pub. L. 89–505][/us/pl/89/505], § 1, July 18, 1966, [80 Stat. 304][/us/stat/80/304]; amended [Pub. L. 92–353][/us/pl/92/353], July 18, 1972, [86 Stat. 499][/us/stat/86/499]; [Pub. L. 92–485][/us/pl/92/485], Oct. 13, 1972, [86 Stat. 803][/us/stat/86/803]; [Pub. L. 95–64][/us/pl/95/64], July 11, 1977, [91 Stat. 268][/us/stat/91/268]; [Pub. L. 95–103][/us/pl/95/103], Aug. 15, 1977, [91 Stat. 842][/us/stat/91/842]; [Pub. L. 96–217][/us/pl/96/217], § 1, Mar. 27, 1980, [94 Stat. 126][/us/stat/94/126]; [Pub. L. 97–365][/us/pl/97/365], § 9, Oct. 25, 1982, [96 Stat. 1754][/us/stat/96/1754]; [Pub. L. 97–394, title I][/us/pl/97/394/tI], § 2, Dec. 30, 1982, [96 Stat. 1976][/us/stat/96/1976]; [Pub. L. 97–452][/us/pl/97/452], § 2(d)(2), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–250][/us/pl/98/250], § 4(a), Apr. 3, 1984, [98 Stat. 118][/us/stat/98/118].)
 
  __References in Text__ 
 
     The date of enactment of this Act, referred to in subsecs. (a), (b), and (g), means the date of enactment of [Pub. L. 89–505][/us/pl/89/505], which was approved July 18, 1966.
 
-    The Indian Claims Limitation Act of 1982, referred to in subsecs. (a) and (b), is [Pub. L. 97–394, title I][/us/pl/97/394], §§ 2–6, Dec. 30, 1982, [96 Stat. 1976–1978][/us/stat/96/1976-1978], which amended this section and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 1982 Amendment note set out below and Tables.
+    The Indian Claims Limitation Act of 1982, referred to in subsecs. (a) and (b), is [Pub. L. 97–394, title I][/us/pl/97/394/tI], §§ 2–6, Dec. 30, 1982, [96 Stat. 1976–1978][/us/stat/96/1976-1978], which amended this section and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 1982 Amendment note set out below and Tables.
 
     This Act, referred to in subsec. (h), probably means [Pub. L. 89–505][/us/pl/89/505], July 18, 1966, [80 Stat. 304][/us/stat/80/304], which enacted this section and [section 2416 of this title][/us/usc/t28/s2416]. For complete classification of this Act to the Code, see Tables.
 
@@ -49,41 +49,41 @@
 
     1983—Subsec. (i). [Pub. L. 97–452][/us/pl/97/452] substituted “[section 3716 of title 31][/us/usc/t31/s3716]” for “section 5 of the Federal Claims Collection Act of 1966”.
 
-    1982—Subsec. (a). [Pub. L. 97–394, § 2(a)][/us/pl/97/394/s2/a], substituted “sixty days after the date of publication of the list required by section 4(c) of the Indian Claims Act of 1982: Provided, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the date the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “after December 31, 1982” in third proviso.
+    1982—Subsec. (a). [Pub. L. 97–394][/us/pl/97/394], § 2(a), substituted “sixty days after the date of publication of the list required by section 4(c) of the Indian Claims Act of 1982: Provided, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the date the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “after December 31, 1982” in third proviso.
 
-    Subsec. (b). [Pub. L. 97–394, § 2(b)][/us/pl/97/394/s2/b], substituted “sixty days after the date of the publication of the list required by section 4(c) of the Indian Claims Act of 1982: Provided, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “December 31, 1982” at end of proviso.
+    Subsec. (b). [Pub. L. 97–394][/us/pl/97/394], § 2(b), substituted “sixty days after the date of the publication of the list required by section 4(c) of the Indian Claims Act of 1982: Provided, That, for those claims that are on either of the two lists published pursuant to the Indian Claims Act of 1982, any right of action shall be barred unless the complaint is filed within (1) one year after the Secretary of the Interior has published in the Federal Register a notice rejecting such claim or (2) three years after the Secretary of the Interior has submitted legislation or legislative report to Congress to resolve such claim” for “December 31, 1982” at end of proviso.
 
     Subsec. (i). [Pub. L. 97–365][/us/pl/97/365] added subsec. (i).
 
-    1980—Subsec. (a). [Pub. L. 96–217, § 1(a)][/us/pl/96/217/s1/a], substituted “December 31, 1982” for “April 30, 1980”.
+    1980—Subsec. (a). [Pub. L. 96–217][/us/pl/96/217], § 1(a), substituted “December 31, 1982” for “April 30, 1980”.
 
-    Subsec. (b). [Pub. L. 96–217, § 1(b)][/us/pl/96/217/s1/b], substituted “December 31, 1982” for “April 1, 1980”.
+    Subsec. (b). [Pub. L. 96–217][/us/pl/96/217], § 1(b), substituted “December 31, 1982” for “April 1, 1980”.
 
-    1977—Subsec. (a). [Pub. L. 95–103, § 1(a)][/us/pl/95/103/s1/a], substituted “after April 1, 1980” for “after August 18, 1977”.
+    1977—Subsec. (a). [Pub. L. 95–103][/us/pl/95/103], § 1(a), substituted “after April 1, 1980” for “after August 18, 1977”.
 
-    [Pub. L. 95–64, § 1(a)][/us/pl/95/64/s1/a], substituted “unless the complaint is filed after August 18, 1977” for “unless the complaint is filed more than eleven years after the right of action accrued” in proviso covering actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
+    [Pub. L. 95–64][/us/pl/95/64], § 1(a), substituted “unless the complaint is filed after August 18, 1977” for “unless the complaint is filed more than eleven years after the right of action accrued” in proviso covering actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
 
-    Subsec. (b). [Pub. L. 95–103, § 1(b)][/us/pl/95/103/s1/b], substituted “on or before April 1, 1980” for “on or before August 18, 1977”.
+    Subsec. (b). [Pub. L. 95–103][/us/pl/95/103], § 1(b), substituted “on or before April 1, 1980” for “on or before August 18, 1977”.
 
-    [Pub. L. 95–64, § 1(b)][/us/pl/95/64/s1/b], substituted “may be brought on or before August 18, 1977” for “may be brought within eleven years after the right of action accrues” in proviso covering actions for or on behalf of recognized tribes, bands, or groups of American Indians, including actions related to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
+    [Pub. L. 95–64][/us/pl/95/64], § 1(b), substituted “may be brought on or before August 18, 1977” for “may be brought within eleven years after the right of action accrues” in proviso covering actions for or on behalf of recognized tribes, bands, or groups of American Indians, including actions related to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status based upon rights of action which accrued on July 18, 1966, in accordance with subsec. (g).
 
-    1972—Subsec. (a). [Pub. L. 92–485, § 1(a)][/us/pl/92/485/s1/a], inserted proviso relating to actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status.
+    1972—Subsec. (a). [Pub. L. 92–485][/us/pl/92/485], § 1(a), inserted proviso relating to actions for money damages brought by the United States for or on behalf of a recognized tribe, band, or group of American Indians, or on behalf of an individual Indian whose land is held in trust or restricted status.
 
-    [Pub. L. 92–353, § 1(a)][/us/pl/92/353/s1/a], inserted proviso that an action for money damages brought by the United States on behalf of American Indians shall not be barred unless the complaint is filed more than six years and ninety days after the right of action accrued.
+    [Pub. L. 92–353][/us/pl/92/353], § 1(a), inserted proviso that an action for money damages brought by the United States on behalf of American Indians shall not be barred unless the complaint is filed more than six years and ninety days after the right of action accrued.
 
-    Subsec. (b). [Pub. L. 92–485, § 1(b)][/us/pl/92/485/s1/b], inserted exception relating to actions for or on behalf of a recognized tribe, band, or group of American Indians, including actions relating to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status.
+    Subsec. (b). [Pub. L. 92–485][/us/pl/92/485], § 1(b), inserted exception relating to actions for or on behalf of a recognized tribe, band, or group of American Indians, including actions relating to allotted trust or restricted Indian lands, or on behalf of an individual Indian whose land is held in trust or restricted status.
 
-    [Pub. L. 92–353, § 1(b)][/us/pl/92/353/s1/b], increased the period of limitation to six years and ninety days for actions brought by the United States under the subsection for or on behalf of American Indians.
+    [Pub. L. 92–353][/us/pl/92/353], § 1(b), increased the period of limitation to six years and ninety days for actions brought by the United States under the subsection for or on behalf of American Indians.
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–394, title I, § 1][/us/pl/97/394/s1], Dec. 30, 1982, [96 Stat. 1976][/us/stat/96/1976], as amended by [Pub. L. 98–250, § 4(b)][/us/pl/98/250/s4/b], Apr. 3, 1984, [98 Stat. 119][/us/stat/98/119], provided in part that: 
+[Pub. L. 97–394, title I][/us/pl/97/394/tI], § 1, Dec. 30, 1982, [96 Stat. 1976][/us/stat/96/1976], as amended by [Pub. L. 98–250][/us/pl/98/250], § 4(b), Apr. 3, 1984, [98 Stat. 119][/us/stat/98/119], provided in part that: 
 
 > “Sections 2 through 6 of this Act \[amending this section and enacting provisions set out below\] may be cited as the ‘Indian Claims Limitation Act of 1982’.”
 
  __Publication of List of Indian Claims; Additional Claims; Time To Commence Action; Rejection of Claims; Claims Resolved By Legislation__ 
 
-[Pub. L. 97–394, title I][/us/pl/97/394], §§ 3–6, Dec. 30, 1982, [96 Stat. 1977][/us/stat/96/1977], 1978, provided that:
+[Pub. L. 97–394, title I][/us/pl/97/394/tI], §§ 3–6, Dec. 30, 1982, [96 Stat. 1977][/us/stat/96/1977], 1978, provided that:
 
 > “Sec. 3.
 
@@ -132,7 +132,7 @@
 [/us/usc/t28/s2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2416
 [/us/usc/t28/s2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2416
 [/us/usc/t31/s3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3716
-[/us/pl/89/505/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F505%2Fs1
+[/us/pl/89/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F505
 [/us/stat/80/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F304
 [/us/pl/92/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F353
 [/us/stat/86/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F499
@@ -142,18 +142,18 @@
 [/us/stat/91/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F268
 [/us/pl/95/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F103
 [/us/stat/91/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F842
-[/us/pl/96/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F217%2Fs1
+[/us/pl/96/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F217
 [/us/stat/94/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F126
-[/us/pl/97/365/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F365%2Fs9
+[/us/pl/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F365
 [/us/stat/96/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1754
-[/us/pl/97/394/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2Fs2
+[/us/pl/97/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2FtI
 [/us/stat/96/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1976
-[/us/pl/97/452/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fd%2F2
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
-[/us/pl/98/250/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F250%2Fs4%2Fa
+[/us/pl/98/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F250
 [/us/stat/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F118
 [/us/pl/89/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F505
-[/us/pl/97/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394
+[/us/pl/97/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2FtI
 [/us/stat/96/1976-1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1976-1978
 [/us/pl/89/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F505
 [/us/stat/80/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F304
@@ -161,24 +161,24 @@
 [/us/pl/98/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F250
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/usc/t31/s3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3716
-[/us/pl/97/394/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2Fs2%2Fa
-[/us/pl/97/394/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2Fs2%2Fb
-[/us/pl/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F365
-[/us/pl/96/217/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F217%2Fs1%2Fa
-[/us/pl/96/217/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F217%2Fs1%2Fb
-[/us/pl/95/103/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F103%2Fs1%2Fa
-[/us/pl/95/64/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F64%2Fs1%2Fa
-[/us/pl/95/103/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F103%2Fs1%2Fb
-[/us/pl/95/64/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F64%2Fs1%2Fb
-[/us/pl/92/485/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F485%2Fs1%2Fa
-[/us/pl/92/353/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F353%2Fs1%2Fa
-[/us/pl/92/485/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F485%2Fs1%2Fb
-[/us/pl/92/353/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F353%2Fs1%2Fb
-[/us/pl/97/394/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2Fs1
-[/us/stat/96/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1976
-[/us/pl/98/250/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F250%2Fs4%2Fb
-[/us/stat/98/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F119
 [/us/pl/97/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394
+[/us/pl/97/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394
+[/us/pl/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F365
+[/us/pl/96/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F217
+[/us/pl/96/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F217
+[/us/pl/95/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F103
+[/us/pl/95/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F64
+[/us/pl/95/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F103
+[/us/pl/95/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F64
+[/us/pl/92/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F485
+[/us/pl/92/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F353
+[/us/pl/92/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F485
+[/us/pl/92/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F353
+[/us/pl/97/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2FtI
+[/us/stat/96/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1976
+[/us/pl/98/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F250
+[/us/stat/98/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F119
+[/us/pl/97/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2FtI
 [/us/stat/96/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1977
 [/us/usc/t28/s2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2415
 [/us/usc/t28/s2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2415

@@ -17,11 +17,11 @@
 
     Every judgment rendered by a district court within a State shall be a lien on the property located in such State in the same manner, to the same extent and under the same conditions as a judgment of a court of general jurisdiction in such State, and shall cease to be a lien in the same manner and time. This section does not apply to judgments entered in favor of the United States. Whenever the law of any State requires a judgment of a State court to be registered, recorded, docketed or indexed, or any other act to be done, in a particular manner, or in a certain office or county or parish before such lien attaches, such requirements shall apply only if the law of such State authorizes the judgment of a court of the United States to be registered, recorded, docketed, indexed or otherwise conformed to rules and requirements relating to judgments of the courts of the State.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 958][/us/stat/62/958]; [Pub. L. 101–647, title XXXVI, § 3627][/us/pl/101/647/s3627], Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 958][/us/stat/62/958]; [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3627, Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 812 and 814 (R.S. § 967; [Aug. 1, 1888, ch. 729, § 1][/us/act/1888-08-01/ch729/s1], [25 Stat. 357][/us/stat/25/357]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [Aug. 17, 1912, ch. 300][/us/act/1912-08-17/ch300], [37 Stat. 311][/us/stat/37/311]).
+    Based on title 28, U.S.C., 1940 ed., §§ 812 and 814 (R.S. § 967; [Aug. 1, 1888, ch. 729][/us/act/1888-08-01/ch729], § 1, [25 Stat. 357][/us/stat/25/357]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [Aug. 17, 1912, ch. 300][/us/act/1912-08-17/ch300], [37 Stat. 311][/us/stat/37/311]).
 
     Section consolidates sections 812 and 814 of title 28, U.S.C., 1940 ed., with changes in phraseology necessary to effect consolidation and to clarify the meaning of such sections.
 
@@ -48,11 +48,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F958
-[/us/pl/101/647/s3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3627
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4965
-[/us/act/1888-08-01/ch729/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-01%2Fch729%2Fs1
+[/us/act/1888-08-01/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-01%2Fch729
 [/us/stat/25/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F357
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/act/1912-08-17/ch300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-17%2Fch300
 [/us/stat/37/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F311

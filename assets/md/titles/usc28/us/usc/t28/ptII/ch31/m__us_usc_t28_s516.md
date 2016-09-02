@@ -17,7 +17,7 @@
 
     Except as otherwise authorized by law, the conduct of litigation in which the United States, an agency, or officer thereof is a party, or is interested, and securing evidence therefor, is reserved to officers of the Department of Justice, under the direction of the Attorney General.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 613][/us/stat/80/613].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 613][/us/stat/80/613].)
 
 <table>
 
@@ -94,7 +94,7 @@ Sept. 3, 1954, ch. 1263, § 11, 68 Stat. 1229.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F613
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t10/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1037

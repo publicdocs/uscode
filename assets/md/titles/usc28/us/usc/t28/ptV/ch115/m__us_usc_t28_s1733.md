@@ -21,11 +21,11 @@
 
     (c) This section does not apply to cases, actions, and proceedings to which the Federal Rules of Evidence apply.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 946][/us/stat/62/946]; [Pub. L. 93–595, § 2(c)][/us/pl/93/595/s2/c], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 946][/us/stat/62/946]; [Pub. L. 93–595][/us/pl/93/595], § 2(c), Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 661–667, 671 (R.S. §§ 882–886, 889; [July 31, 1894, ch. 174][/us/act/1894-07-31/ch174], §§ 17, 22, [28 Stat. 210][/us/stat/28/210]; [Mar. 2, 1895, ch. 177, § 10][/us/act/1895-03-02/ch177/s10], [28 Stat. 809][/us/stat/28/809]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], §§ 301, 302, 304, 310, [42 Stat. 23–25][/us/stat/42/23-25]; [May 10, 1934, ch. 277, § 512][/us/act/1934-05-10/ch277/s512], [48 Stat. 758][/us/stat/48/758]; [June 19, 1934, ch. 653, § 6(a)][/us/act/1934-06-19/ch653/s6/a], [48 Stat. 1109][/us/stat/48/1109]).
+    Based on title 28, U.S.C., 1940 ed., §§ 661–667, 671 (R.S. §§ 882–886, 889; [July 31, 1894, ch. 174][/us/act/1894-07-31/ch174], §§ 17, 22, [28 Stat. 210][/us/stat/28/210]; [Mar. 2, 1895, ch. 177][/us/act/1895-03-02/ch177], § 10, [28 Stat. 809][/us/stat/28/809]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], §§ 301, 302, 304, 310, [42 Stat. 23–25][/us/stat/42/23-25]; [May 10, 1934, ch. 277][/us/act/1934-05-10/ch277], § 512, [48 Stat. 758][/us/stat/48/758]; [June 19, 1934, ch. 653][/us/act/1934-06-19/ch653], § 6(a), [48 Stat. 1109][/us/stat/48/1109]).
 
     The consolidation of sections 661–667 and 671 of title 28, U.S.C., 1940 ed., permitted omission of obsolete, unnecessary and repetitive provisions in such sections. For example, the provision in [section 665 of title 28][/us/usc/t28/s665], U.S.C., 1940 ed., authorizing the court to require production of documents on a plea of non est factum, was omitted. Such plea is obsolete in Federal practice.
 
@@ -54,17 +54,17 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F946
-[/us/pl/93/595/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F595%2Fs2%2Fc
+[/us/pl/93/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F595
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
 [/us/act/1894-07-31/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-31%2Fch174
 [/us/stat/28/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F210
-[/us/act/1895-03-02/ch177/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177%2Fs10
+[/us/act/1895-03-02/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177
 [/us/stat/28/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F809
 [/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/23-25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F23-25
-[/us/act/1934-05-10/ch277/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-10%2Fch277%2Fs512
+[/us/act/1934-05-10/ch277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-10%2Fch277
 [/us/stat/48/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F758
-[/us/act/1934-06-19/ch653/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch653%2Fs6%2Fa
+[/us/act/1934-06-19/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch653
 [/us/stat/48/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1109
 [/us/usc/t28/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs665
 [/us/usc/t73/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft73%2Fs499

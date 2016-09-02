@@ -23,7 +23,7 @@
 
     In a civil action brought to recover on account of an injury sustained in a place described in subsection (a), the rights of the parties shall be governed by the law of the State in which the place is located.
 
-(Added [Pub. L. 113–287, § 4(b)(1)][/us/pl/113/287/s4/b/1], Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261].)
+(Added [Pub. L. 113–287][/us/pl/113/287], § 4(b)(1), Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261].)
 
 <table>
 
@@ -80,7 +80,7 @@ Feb. 1, 1928, ch. 15, 45 Stat. 54.  </td>
 ----------
 ----------
 
-[/us/pl/113/287/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fb%2F1
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3261
 
 

@@ -77,7 +77,7 @@
 
         (7) plans of reorganization filed and confirmed and, with respect thereto, by class, the recoveries of the holders, expressed in aggregate dollar values and, in the case of claims, as a percentage of total claims of the class allowed.
 
-(Added [Pub. L. 109–8, title VI, § 602(a)][/us/pl/109/8/s602/a], Apr. 20, 2005, [119 Stat. 120][/us/stat/119/120].)
+(Added [Pub. L. 109–8, title VI][/us/pl/109/8/tVI], § 602(a), Apr. 20, 2005, [119 Stat. 120][/us/stat/119/120].)
 
  __References in Text__ 
 
@@ -94,7 +94,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs602%2Fa
+[/us/pl/109/8/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtVI
 [/us/stat/119/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F120
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

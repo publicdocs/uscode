@@ -55,11 +55,11 @@
 
     (g) If, upon the advice of the chief judge of any district court within the circuit, the judicial council of any circuit determines that the number of court reporters provided such district court pursuant to subsection (a) of this section is insufficient to meet temporary demands and needs and that the services of additional court reporters for such district court should be provided the judges of such district court (including the senior judges thereof when such senior judges are performing substantial judicial services for such court) on a contract basis, rather than by appointment of court reporters as otherwise provided in this section, and such judicial council notifies the Director of the Administrative Office, in writing, of such determination, the Director of the Administrative Office is authorized to and shall contract, without regard to section 6101(b) to (d) of title 41, with any suitable person, firm, association, or corporation for the providing of court reporters to serve such district court under such terms and conditions as the Director of the Administrative Office finds, after consultation with the chief judge of the district court, will best serve the needs of such district court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 921][/us/stat/62/921]; [Oct. 31, 1951, ch. 655, § 46][/us/act/1951-10-31/ch655/s46], [65 Stat. 726][/us/stat/65/726]; [June 28, 1955, ch. 189, § 3(c)][/us/act/1955-06-28/ch189/s3/c], [69 Stat. 176][/us/stat/69/176]; [Pub. L. 85–462, § 3(c)][/us/pl/85/462/s3/c], June 20, 1958, [72 Stat. 207][/us/stat/72/207]; [Pub. L. 85–508, § 12(e)][/us/pl/85/508/s12/e], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 86–568, title I, § 116(c)][/us/pl/86/568/s116/c], July 1, 1960, [74 Stat. 303][/us/stat/74/303]; [Pub. L. 89–163][/us/pl/89/163], Sept. 2, 1965, [79 Stat. 619][/us/stat/79/619]; [Pub. L. 89–167][/us/pl/89/167], Sept. 2, 1965, [79 Stat. 647][/us/stat/79/647]; [Pub. L. 91–272, § 14][/us/pl/91/272/s14], June 2, 1970, [84 Stat. 298][/us/stat/84/298]; [Pub. L. 91–545][/us/pl/91/545], Dec. 11, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 97–164, title IV, § 401(a)][/us/pl/97/164/s401/a], Apr. 2, 1982, [96 Stat. 56][/us/stat/96/56]; [Pub. L. 104–317, title III, § 305][/us/pl/104/317/s305], Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852]; [Pub. L. 111–350, § 5(g)(4)][/us/pl/111/350/s5/g/4], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 921][/us/stat/62/921]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 46, [65 Stat. 726][/us/stat/65/726]; [June 28, 1955, ch. 189][/us/act/1955-06-28/ch189], § 3(c), [69 Stat. 176][/us/stat/69/176]; [Pub. L. 85–462][/us/pl/85/462], § 3(c), June 20, 1958, [72 Stat. 207][/us/stat/72/207]; [Pub. L. 85–508][/us/pl/85/508], § 12(e), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 86–568, title I][/us/pl/86/568/tI], § 116(c), July 1, 1960, [74 Stat. 303][/us/stat/74/303]; [Pub. L. 89–163][/us/pl/89/163], Sept. 2, 1965, [79 Stat. 619][/us/stat/79/619]; [Pub. L. 89–167][/us/pl/89/167], Sept. 2, 1965, [79 Stat. 647][/us/stat/79/647]; [Pub. L. 91–272][/us/pl/91/272], § 14, June 2, 1970, [84 Stat. 298][/us/stat/84/298]; [Pub. L. 91–545][/us/pl/91/545], Dec. 11, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 97–164, title IV][/us/pl/97/164/tIV], § 401(a), Apr. 2, 1982, [96 Stat. 56][/us/stat/96/56]; [Pub. L. 104–317, title III][/us/pl/104/317/tIII], § 305, Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852]; [Pub. L. 111–350][/us/pl/111/350], § 5(g)(4), Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 9a(a), (b), (c), (d), and [section 644 of title 48][/us/usc/t48/s644], U.S.C., 1940 ed., Territories and Insular Possessions ([Apr. 30, 1900, ch. 339, § 86][/us/act/1900-04-30/ch339/s86], [31 Stat. 158][/us/stat/31/158]; [Mar. 3, 1909, ch. 269, § 1][/us/act/1909-03-03/ch269/s1], [35 Stat. 838][/us/stat/35/838]; [Mar. 3, 1911, ch. 231, § 5a][/us/act/1911-03-03/ch231/s5a], as added [Jan. 20, 1944, ch. 3, § 1(a)][/us/act/1944-01-20/ch3/s1/a], (b), (c), (d), [58 Stat. 5][/us/stat/58/5], 6, 7; [Mar. 4, 1921, ch. 161, § 1][/us/act/1921-03-04/ch161/s1], [41 Stat. 1412][/us/stat/41/1412]; [July 9, 1921, ch. 42, § 313][/us/act/1921-07-09/ch42/s313], [42 Stat. 119][/us/stat/42/119]; [June 1, 1922, ch. 204][/us/act/1922-06-01/ch204], title II, [42 Stat. 614][/us/stat/42/614], 616; [Jan. 3, 1923, ch. 21][/us/act/1923-01-03/ch21], title II, [52 Stat. 1084][/us/stat/52/1084]; [Feb. 12, 1925, ch. 220][/us/act/1925-02-12/ch220], [43 Stat. 890][/us/stat/43/890]).
+    Based on title 28, U.S.C., 1940 ed., § 9a(a), (b), (c), (d), and [section 644 of title 48][/us/usc/t48/s644], U.S.C., 1940 ed., Territories and Insular Possessions ([Apr. 30, 1900, ch. 339][/us/act/1900-04-30/ch339], § 86, [31 Stat. 158][/us/stat/31/158]; [Mar. 3, 1909, ch. 269][/us/act/1909-03-03/ch269], § 1, [35 Stat. 838][/us/stat/35/838]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 5a, as added [Jan. 20, 1944, ch. 3][/us/act/1944-01-20/ch3], § 1(a), (b), (c), (d), [58 Stat. 5][/us/stat/58/5], 6, 7; [Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], § 1, [41 Stat. 1412][/us/stat/41/1412]; [July 9, 1921, ch. 42][/us/act/1921-07-09/ch42], § 313, [42 Stat. 119][/us/stat/42/119]; [June 1, 1922, ch. 204][/us/act/1922-06-01/ch204], title II, [42 Stat. 614][/us/stat/42/614], 616; [Jan. 3, 1923, ch. 21][/us/act/1923-01-03/ch21], title II, [52 Stat. 1084][/us/stat/52/1084]; [Feb. 12, 1925, ch. 220][/us/act/1925-02-12/ch220], [43 Stat. 890][/us/stat/43/890]).
 
     Section consolidates section 9a(a), (b), (c), (d) of title 28, U.S.C., 1940 ed., and part of [section 644 of title 48][/us/usc/t48/s644], U.S.C., 1940 ed., relating to reporters.
 
@@ -85,11 +85,11 @@
 
     1982—Subsec. (b). [Pub. L. 97–164][/us/pl/97/164], amended subsec. (b) generally, substituting provisions permitting proceedings to be recorded using electronic sound recording, or any other method, subject to the approval and authorization of the Judicial Conference and of the presiding judge, for provisions requiring that an official court reporter attend each session of the court and every other proceeding designated by rule or order of the court or one of the judges.
 
-    1970—Subsec. (e). [Pub. L. 91–272, § 14(1)][/us/pl/91/272/s14/1], struck out provisions limiting to the $3,000 to $7,630 range the annual salary paid to reporters.
+    1970—Subsec. (e). [Pub. L. 91–272][/us/pl/91/272], § 14(1), struck out provisions limiting to the $3,000 to $7,630 range the annual salary paid to reporters.
 
     Subsec. (f). [Pub. L. 91–545][/us/pl/91/545] restricted authorization of United States to pay fees for transcripts furnished in criminal proceedings to transcripts furnished to persons proceeding under the Criminal Justice Act.
 
-    Subsec. (g). [Pub. L. 91–272, § 14(2)][/us/pl/91/272/s14/2], added subsec. (g)
+    Subsec. (g). [Pub. L. 91–272][/us/pl/91/272], § 14(2), added subsec. (g)
 
     1965—Subsec. (b). [Pub. L. 89–163][/us/pl/89/163] made provision for recording of proceedings in United States District Courts by means of electronic sound recording devices, made subject to the Judicial Conference the types of electronic sound recording means used by the reporters, made electronic sound recordings of proceedings on arraignment, plea, and sentence in a criminal case when properly certified by the court reporter admissible evidence to establish the record of that part of the proceedings, required the transcribing of arraignments in addition to the criminal proceedings already required to be transcribed, and waived the transcribing requirement for arraignments, pleas, and sentencing proceedings when such proceedings have been electronically recorded and such records certified and filed as provided in this subsection.
 
@@ -119,25 +119,25 @@
 
  __Savings Provision__ 
 
-[Pub. L. 97–164, title IV, § 401(b)][/us/pl/97/164/s401/b], Apr. 2, 1982, [96 Stat. 57][/us/stat/96/57], provided that: 
+[Pub. L. 97–164, title IV][/us/pl/97/164/tIV], § 401(b), Apr. 2, 1982, [96 Stat. 57][/us/stat/96/57], provided that: 
 
 > “The regulations promulgated by the Judicial Conference pursuant to subsection (b) of [section 753 of title 28][/us/usc/t28/s753], as amended by subsection (a) of this section, shall not take effect before one year after the effective date of this Act \[Oct. 1, 1982\]. During the one-year period after the date of the enactment of this Act \[Apr. 2, 1982\], the Judicial Conference shall experiment with the different methods of recording court proceedings. Prior to the effective date of such regulations, the law and regulations in effect the day before the date of enactment of this Act shall remain in full force and effect.”
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of [Pub. L. 96–70, title II][/us/pl/96/70/tII], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
  __Salary Limitation for Court Reporters__ 
 
-    1967—[Pub. L. 90–206, title II, § 213(c)][/us/pl/90/206/s213/c], Dec. 16, 1967, [81 Stat. 635][/us/stat/81/635], inserted a new salary limitation for court reporters effective the first pay period which begins on or after Oct. 1, 1967, which reflected the respective applicable pay increases provided by [section 202(a) of Pub. L. 90–206][/us/pl/90/206/s202/a] in corresponding rates of compensation for particular officers and employees of the government.
+    1967—[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 213(c), Dec. 16, 1967, [81 Stat. 635][/us/stat/81/635], inserted a new salary limitation for court reporters effective the first pay period which begins on or after Oct. 1, 1967, which reflected the respective applicable pay increases provided by [section 202(a) of Pub. L. 90–206][/us/pl/90/206/s202/a] in corresponding rates of compensation for particular officers and employees of the government.
 
-    1966—[Pub. L. 89–504, title II, § 202(c)][/us/pl/89/504/s202/c], July 18, 1966, [80 Stat. 294][/us/stat/80/294], inserted a new salary limitation for court reporters effective the first pay period which begins on or after July 1, 1966, which reflected the respective applicable pay increases provided by [section 102(a) of title I of Pub. L. 89–504][/us/pl/89/504/s102/a] in corresponding rates of compensation for particular officers and employees of the government.
+    1966—[Pub. L. 89–504, title II][/us/pl/89/504/tII], § 202(c), July 18, 1966, [80 Stat. 294][/us/stat/80/294], inserted a new salary limitation for court reporters effective the first pay period which begins on or after July 1, 1966, which reflected the respective applicable pay increases provided by [section 102(a) of title I of Pub. L. 89–504][/us/pl/89/504/tI/s102/a] in corresponding rates of compensation for particular officers and employees of the government.
 
-    1965—[Pub. L. 89–301, § 12(c)][/us/pl/89/301/s12/c], Oct. 29, 1965, [79 Stat. 1122][/us/stat/79/1122], inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by [section 2(a) of Pub. L. 89–301][/us/pl/89/301/s2/a] in corresponding rates of compensation for particular government officers and employees.
+    1965—[Pub. L. 89–301][/us/pl/89/301], § 12(c), Oct. 29, 1965, [79 Stat. 1122][/us/stat/79/1122], inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by [section 2(a) of Pub. L. 89–301][/us/pl/89/301/s2/a] in corresponding rates of compensation for particular government officers and employees.
 
-    1964—[Pub. L. 88–426, title IV, § 402(c)][/us/pl/88/426/s402/c], Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434], inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by title I of [Pub. L. 88–426][/us/pl/88/426] in corresponding rates of compensation for particular government officers and employees.
+    1964—[Pub. L. 88–426, title IV][/us/pl/88/426/tIV], § 402(c), Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434], inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by title I of [Pub. L. 88–426][/us/pl/88/426] in corresponding rates of compensation for particular government officers and employees.
 
-    1962—[Pub. L. 87–793, title VI, § 1004(c)][/us/pl/87/793/s1004/c], Oct. 11, 1962, [76 Stat. 866][/us/stat/76/866], inserted a new salary limitation for court reporters effective for the pay period beginning on or after Oct. 11, 1962, and ending immediately prior to the first pay period beginning on or after Jan. 1, 1964, and provided for a second salary limitation effective for the first pay period beginning on or after Jan. 1, 1964, which reflected applicable pay increases provided by title II of [Pub. L. 87–793][/us/pl/87/793] in corresponding rates of compensation for particular government officers and employees.
+    1962—[Pub. L. 87–793, title VI][/us/pl/87/793/tVI], § 1004(c), Oct. 11, 1962, [76 Stat. 866][/us/stat/76/866], inserted a new salary limitation for court reporters effective for the pay period beginning on or after Oct. 11, 1962, and ending immediately prior to the first pay period beginning on or after Jan. 1, 1964, and provided for a second salary limitation effective for the first pay period beginning on or after Jan. 1, 1964, which reflected applicable pay increases provided by title II of [Pub. L. 87–793][/us/pl/87/793] in corresponding rates of compensation for particular government officers and employees.
 
 ----------
 
@@ -150,41 +150,41 @@
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F921
-[/us/act/1951-10-31/ch655/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs46
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F726
-[/us/act/1955-06-28/ch189/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs3%2Fc
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F176
-[/us/pl/85/462/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462%2Fs3%2Fc
+[/us/pl/85/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462
 [/us/stat/72/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F207
-[/us/pl/85/508/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fe
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/86/568/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2Fs116%2Fc
+[/us/pl/86/568/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2FtI
 [/us/stat/74/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F303
 [/us/pl/89/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F163
 [/us/stat/79/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F619
 [/us/pl/89/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F167
 [/us/stat/79/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F647
-[/us/pl/91/272/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs14
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/stat/84/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F298
 [/us/pl/91/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F545
 [/us/stat/84/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1412
-[/us/pl/97/164/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs401%2Fa
+[/us/pl/97/164/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtIV
 [/us/stat/96/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F56
-[/us/pl/104/317/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs305
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3852
-[/us/pl/111/350/s5/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F4
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3848
 [/us/usc/t48/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644
-[/us/act/1900-04-30/ch339/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs86
+[/us/act/1900-04-30/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339
 [/us/stat/31/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F158
-[/us/act/1909-03-03/ch269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-03%2Fch269%2Fs1
+[/us/act/1909-03-03/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-03%2Fch269
 [/us/stat/35/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F838
-[/us/act/1911-03-03/ch231/s5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs5a
-[/us/act/1944-01-20/ch3/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-01-20%2Fch3%2Fs1%2Fa
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1944-01-20/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-01-20%2Fch3
 [/us/stat/58/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F5
-[/us/act/1921-03-04/ch161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161%2Fs1
+[/us/act/1921-03-04/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161
 [/us/stat/41/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1412
-[/us/act/1921-07-09/ch42/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42%2Fs313
+[/us/act/1921-07-09/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42
 [/us/stat/42/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F119
 [/us/act/1922-06-01/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-01%2Fch204
 [/us/stat/42/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F614
@@ -208,9 +208,9 @@
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
-[/us/pl/91/272/s14/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs14%2F1
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/pl/91/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F545
-[/us/pl/91/272/s14/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs14%2F2
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/pl/89/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F163
 [/us/pl/89/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F167
 [/us/usc/t28/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2255
@@ -227,24 +227,24 @@
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
-[/us/pl/97/164/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs401%2Fb
+[/us/pl/97/164/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtIV
 [/us/stat/96/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F57
 [/us/usc/t28/s753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs753
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
-[/us/pl/90/206/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs213%2Fc
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F635
 [/us/pl/90/206/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs202%2Fa
-[/us/pl/89/504/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2Fs202%2Fc
+[/us/pl/89/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2FtII
 [/us/stat/80/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F294
-[/us/pl/89/504/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2Fs102%2Fa
-[/us/pl/89/301/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301%2Fs12%2Fc
+[/us/pl/89/504/tI/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2FtI%2Fs102%2Fa
+[/us/pl/89/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301
 [/us/stat/79/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1122
 [/us/pl/89/301/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301%2Fs2%2Fa
-[/us/pl/88/426/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs402%2Fc
+[/us/pl/88/426/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIV
 [/us/stat/78/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F434
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
-[/us/pl/87/793/s1004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1004%2Fc
+[/us/pl/87/793/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2FtVI
 [/us/stat/76/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F866
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 

@@ -19,7 +19,7 @@
 
     (b) Each attorney specially retained under authority of the Department of Justice shall be commissioned as special assistant to the Attorney General or special attorney, and shall take the oath required by law. Foreign counsel employed in special cases are not required to take the oath. The Attorney General shall fix the annual salary of a special assistant or special attorney.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 613][/us/stat/80/613]; amended [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 107–273, div. A, title II, § 203(b)][/us/pl/107/273/s203/b], Nov. 2, 2002, [116 Stat. 1775][/us/stat/116/1775].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 613][/us/stat/80/613]; amended [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 203(b), Nov. 2, 2002, [116 Stat. 1775][/us/stat/116/1775].)
 
 <table>
 
@@ -147,7 +147,7 @@ July 2, 1954, ch. 456, § 202 (as applicable to special assistants and special
 
 </table>
 
-    In subsection (a), the words “or counselor” are omitted as redundant. The words “United States attorneys” are substituted for “district attorneys” on authority of the [Act of June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909]. The words “any provision of” are omitted as unnecessary.
+    In subsection (a), the words “or counselor” are omitted as redundant. The words “United States attorneys” are substituted for “district attorneys” on authority of the [Act of June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909]. The words “any provision of” are omitted as unnecessary.
 
  __Amendments__ 
 
@@ -164,13 +164,13 @@ July 2, 1954, ch. 456, § 202 (as applicable to special assistants and special
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F613
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/107/273/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs203%2Fb
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1775
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

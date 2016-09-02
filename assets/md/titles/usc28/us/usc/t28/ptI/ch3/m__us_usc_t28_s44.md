@@ -197,17 +197,17 @@
 
     (d) Each circuit judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 ([2 U.S.C. 351–361][/us/usc/t2/s351–361]), as adjusted by [section 461 of this title][/us/usc/t28/s461].
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 871][/us/stat/62/871]; [Aug. 3, 1949, ch. 387, § 1][/us/act/1949-08-03/ch387/s1], [63 Stat. 493][/us/stat/63/493]; [Feb. 10, 1954, ch. 6, § 1][/us/act/1954-02-10/ch6/s1], [68 Stat. 8][/us/stat/68/8]; [Mar. 2, 1955, ch. 9, § 1(b)][/us/act/1955-03-02/ch9/s1/b], [69 Stat. 10][/us/stat/69/10]; [Pub. L. 87–36, § 1(b)][/us/pl/87/36/s1/b], May 19, 1961, [75 Stat. 80][/us/stat/75/80]; [Pub. L. 88–426, title IV, § 403(b)][/us/pl/88/426/s403/b], Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434]; [Pub. L. 89–372, § 1(b)][/us/pl/89/372/s1/b], Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75]; [Pub. L. 90–347, § 3][/us/pl/90/347/s3], June 18, 1968, [82 Stat. 184][/us/stat/82/184]; [Pub. L. 94–82, title II, § 205(b)(2)][/us/pl/94/82/s205/b/2], Aug. 9, 1975, [89 Stat. 422][/us/stat/89/422]; [Pub. L. 95–486, § 3(b)][/us/pl/95/486/s3/b], Oct. 20, 1978, [92 Stat. 1632][/us/stat/92/1632]; [Pub. L. 96–452, § 3][/us/pl/96/452/s3], Oct. 14, 1980, [94 Stat. 1994][/us/stat/94/1994]; [Pub. L. 97–164, title I, § 102][/us/pl/97/164/s102], Apr. 2, 1982, [96 Stat. 25][/us/stat/96/25]; [Pub. L. 98–353, title II, § 201(b)][/us/pl/98/353/s201/b], July 10, 1984, [98 Stat. 346][/us/stat/98/346]; [Pub. L. 101–650, title II, § 202(b)][/us/pl/101/650/s202/b], Dec. 1, 1990, [104 Stat. 5099][/us/stat/104/5099]; [Pub. L. 102–198, § 10(c)][/us/pl/102/198/s10/c], Dec. 9, 1991, [105 Stat. 1626][/us/stat/105/1626]; [Pub. L. 105–119, title III, § 307][/us/pl/105/119/s307], Nov. 26, 1997, [111 Stat. 2493][/us/stat/111/2493]; [Pub. L. 110–177, title V, § 509(a)][/us/pl/110/177/s509/a], Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 871][/us/stat/62/871]; [Aug. 3, 1949, ch. 387][/us/act/1949-08-03/ch387], § 1, [63 Stat. 493][/us/stat/63/493]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6], § 1, [68 Stat. 8][/us/stat/68/8]; [Mar. 2, 1955, ch. 9][/us/act/1955-03-02/ch9], § 1(b), [69 Stat. 10][/us/stat/69/10]; [Pub. L. 87–36][/us/pl/87/36], § 1(b), May 19, 1961, [75 Stat. 80][/us/stat/75/80]; [Pub. L. 88–426, title IV][/us/pl/88/426/tIV], § 403(b), Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434]; [Pub. L. 89–372][/us/pl/89/372], § 1(b), Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75]; [Pub. L. 90–347][/us/pl/90/347], § 3, June 18, 1968, [82 Stat. 184][/us/stat/82/184]; [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 205(b)(2), Aug. 9, 1975, [89 Stat. 422][/us/stat/89/422]; [Pub. L. 95–486][/us/pl/95/486], § 3(b), Oct. 20, 1978, [92 Stat. 1632][/us/stat/92/1632]; [Pub. L. 96–452][/us/pl/96/452], § 3, Oct. 14, 1980, [94 Stat. 1994][/us/stat/94/1994]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 102, Apr. 2, 1982, [96 Stat. 25][/us/stat/96/25]; [Pub. L. 98–353, title II][/us/pl/98/353/tII], § 201(b), July 10, 1984, [98 Stat. 346][/us/stat/98/346]; [Pub. L. 101–650, title II][/us/pl/101/650/tII], § 202(b), Dec. 1, 1990, [104 Stat. 5099][/us/stat/104/5099]; [Pub. L. 102–198][/us/pl/102/198], § 10(c), Dec. 9, 1991, [105 Stat. 1626][/us/stat/105/1626]; [Pub. L. 105–119, title III][/us/pl/105/119/tIII], § 307, Nov. 26, 1997, [111 Stat. 2493][/us/stat/111/2493]; [Pub. L. 110–177, title V][/us/pl/110/177/tV], § 509(a), Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 213, and sections 11–201, 11–202, District of Columbia Code, 1940 ed. ([Feb. 9, 1893, ch. 74, § 1][/us/act/1893-02-09/ch74/s1], [27 Stat. 434][/us/stat/27/434]; [Mar. 3, 1901, ch. 854][/us/act/1901-03-03/ch854], §§ 221, 222, [31 Stat. 1224][/us/stat/31/1224]; [Mar. 3, 1911, ch. 231, § 118][/us/act/1911-03-03/ch231/s118], [36 Stat. 1131][/us/stat/36/1131]; [Jan. 13, 1912, ch. 9][/us/act/1912-01-13/ch9], [37 Stat. 52][/us/stat/37/52]; [Feb. 25, 1919, ch. 29, § 2][/us/act/1919-02-25/ch29/s2], [40 Stat. 1156][/us/stat/40/1156]; [Sept. 14, 1922, ch. 306, § 6][/us/act/1922-09-14/ch306/s6], [42 Stat. 840][/us/stat/42/840]; [Mar. 3, 1925, ch. 437][/us/act/1925-03-03/ch437], [43 Stat. 1116][/us/stat/43/1116]; [Dec. 13, 1926, ch. 6, § 1][/us/act/1926-12-13/ch6/s1], [44 Stat. 919][/us/stat/44/919]; [Feb. 28, 1929, ch. 363, § 2][/us/act/1929-02-28/ch363/s2], [45 Stat. 1347][/us/stat/45/1347]; [Mar. 1, 1929, ch. 413][/us/act/1929-03-01/ch413], §§ 1, 2, [45 Stat. 1414][/us/stat/45/1414]; [June 10, 1930, ch. 437][/us/act/1930-06-10/ch437], [46 Stat. 538][/us/stat/46/538]; [June 10, 1930, ch. 438][/us/act/1930-06-10/ch438], [46 Stat. 538][/us/stat/46/538]; [June 19, 1930, ch. 538][/us/act/1930-06-19/ch538], [46 Stat. 785][/us/stat/46/785]; [June 16, 1933, ch. 102][/us/act/1933-06-16/ch102], [48 Stat. 310][/us/stat/48/310]; [Aug. 2, 1935, ch. 425, § 1][/us/act/1935-08-02/ch425/s1], [49 Stat. 508][/us/stat/49/508]; [June 24, 1936, ch. 735, § 1][/us/act/1936-06-24/ch735/s1], [49 Stat. 1903][/us/stat/49/1903]; [Apr. 14, 1937, ch. 80][/us/act/1937-04-14/ch80], [50 Stat. 64][/us/stat/50/64]; [May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], §§ 1, 3, [52 Stat. 584][/us/stat/52/584], 585; [May 24, 1940, ch. 209, § 1][/us/act/1940-05-24/ch209/s1], [54 Stat. 219][/us/stat/54/219]; [Dec. 14, 1942, ch. 731][/us/act/1942-12-14/ch731], [56 Stat. 1050][/us/stat/56/1050]; [Dec. 7, 1944, ch. 521, § 1][/us/act/1944-12-07/ch521/s1], [58 Stat. 796][/us/stat/58/796]; [July 31, 1946, ch. 704, § 1][/us/act/1946-07-31/ch704/s1], [60 Stat. 716][/us/stat/60/716]).
+    Based on title 28, U.S.C., 1940 ed., § 213, and sections 11–201, 11–202, District of Columbia Code, 1940 ed. ([Feb. 9, 1893, ch. 74][/us/act/1893-02-09/ch74], § 1, [27 Stat. 434][/us/stat/27/434]; [Mar. 3, 1901, ch. 854][/us/act/1901-03-03/ch854], §§ 221, 222, [31 Stat. 1224][/us/stat/31/1224]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 118, [36 Stat. 1131][/us/stat/36/1131]; [Jan. 13, 1912, ch. 9][/us/act/1912-01-13/ch9], [37 Stat. 52][/us/stat/37/52]; [Feb. 25, 1919, ch. 29][/us/act/1919-02-25/ch29], § 2, [40 Stat. 1156][/us/stat/40/1156]; [Sept. 14, 1922, ch. 306][/us/act/1922-09-14/ch306], § 6, [42 Stat. 840][/us/stat/42/840]; [Mar. 3, 1925, ch. 437][/us/act/1925-03-03/ch437], [43 Stat. 1116][/us/stat/43/1116]; [Dec. 13, 1926, ch. 6][/us/act/1926-12-13/ch6], § 1, [44 Stat. 919][/us/stat/44/919]; [Feb. 28, 1929, ch. 363][/us/act/1929-02-28/ch363], § 2, [45 Stat. 1347][/us/stat/45/1347]; [Mar. 1, 1929, ch. 413][/us/act/1929-03-01/ch413], §§ 1, 2, [45 Stat. 1414][/us/stat/45/1414]; [June 10, 1930, ch. 437][/us/act/1930-06-10/ch437], [46 Stat. 538][/us/stat/46/538]; [June 10, 1930, ch. 438][/us/act/1930-06-10/ch438], [46 Stat. 538][/us/stat/46/538]; [June 19, 1930, ch. 538][/us/act/1930-06-19/ch538], [46 Stat. 785][/us/stat/46/785]; [June 16, 1933, ch. 102][/us/act/1933-06-16/ch102], [48 Stat. 310][/us/stat/48/310]; [Aug. 2, 1935, ch. 425][/us/act/1935-08-02/ch425], § 1, [49 Stat. 508][/us/stat/49/508]; [June 24, 1936, ch. 735][/us/act/1936-06-24/ch735], § 1, [49 Stat. 1903][/us/stat/49/1903]; [Apr. 14, 1937, ch. 80][/us/act/1937-04-14/ch80], [50 Stat. 64][/us/stat/50/64]; [May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], §§ 1, 3, [52 Stat. 584][/us/stat/52/584], 585; [May 24, 1940, ch. 209][/us/act/1940-05-24/ch209], § 1, [54 Stat. 219][/us/stat/54/219]; [Dec. 14, 1942, ch. 731][/us/act/1942-12-14/ch731], [56 Stat. 1050][/us/stat/56/1050]; [Dec. 7, 1944, ch. 521][/us/act/1944-12-07/ch521], § 1, [58 Stat. 796][/us/stat/58/796]; [July 31, 1946, ch. 704][/us/act/1946-07-31/ch704], § 1, [60 Stat. 716][/us/stat/60/716]).
 
     This section includes the members of the United States Court of Appeals for the District of Columbia and designates them as “judges” rather than as “justices”, thus harmonizing it with the provisions of [section 41 of this title][/us/usc/t28/s41], which specifically designates the District of Columbia as a judicial circuit of the United States. In doing so it consolidates sections 11–201, 11–202 of the District of Columbia Code, 1940 ed., which provided for one “chief justice” and five associate “justices.”
 
     Act February 9, 1893, established a court of appeals for the District of Columbia to consist of one chief justice and two associate justices whose jurisdiction was almost entirely to review the judgments of the Supreme Court of the District of Columbia, the name of which was changed in 1936 to the District Court of the United States for the District of Columbia. Circuit courts were established by the first Judiciary Act of September 24, 1789, § 4, and R.S. § 608, enacted June 22, 1874. R.S. § 605 provided that the words “circuit justice” and “justice of a circuit” should designate the justice of the Supreme Court of the United States allotted to any circuit; that “judge” when applied to any circuit included such justice.
 
-    The Judiciary Appropriation Act, 1945, [Act June 26, 1944, ch. 277, § 202][/us/act/1944-06-26/ch277/s202], [58 Stat. 358][/us/stat/58/358], provided that as used in that Act, “the term ‘circuit court of appeals’ includes the United States Court of Appeals for the District of Columbia; the term ‘senior circuit judge’ includes the Chief Justice of the United States Court of Appeals for the District of Columbia; and the term ‘circuit judge’ includes associate justice of the United States Court of Appeals for the District of Columbia; and the term ‘judge’ includes justice.”
+    The Judiciary Appropriation Act, 1945, [Act June 26, 1944, ch. 277][/us/act/1944-06-26/ch277], § 202, [58 Stat. 358][/us/stat/58/358], provided that as used in that Act, “the term ‘circuit court of appeals’ includes the United States Court of Appeals for the District of Columbia; the term ‘senior circuit judge’ includes the Chief Justice of the United States Court of Appeals for the District of Columbia; and the term ‘circuit judge’ includes associate justice of the United States Court of Appeals for the District of Columbia; and the term ‘judge’ includes justice.”
 
     Provisions in section 11–202 of the District of Columbia Code, 1940 ed., and [section 213 of title 28][/us/usc/t28/s213], U.S.C., 1940 ed., for payment of salaries in monthly installments were omitted, since time of payment is a matter of administrative convenience (20 Comp. Gen. 834).
 
@@ -229,9 +229,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–177, § 509(a)(2)][/us/pl/110/177/s509/a/2], substituted “29” for “28” in item relating to Ninth Circuit.
+    2008—Subsec. (a). [Pub. L. 110–177][/us/pl/110/177], § 509(a)(2), substituted “29” for “28” in item relating to Ninth Circuit.
 
-    [Pub. L. 110–177, § 509(a)(1)][/us/pl/110/177/s509/a/1], substituted “11” for “12” in item relating to District of Columbia Circuit.
+    [Pub. L. 110–177][/us/pl/110/177], § 509(a)(1), substituted “11” for “12” in item relating to District of Columbia Circuit.
 
     1997—Subsec. (c). [Pub. L. 105–119][/us/pl/105/119] inserted at end “In each circuit (other than the Federal judicial circuit) there shall be at least one circuit judge in regular active service appointed from the residents of each state in that circuit.”
 
@@ -585,9 +585,9 @@ Federal  </td>
 
 </table>
 
-    1982—Subsec. (a). [Pub. L. 97–164, § 102(a)][/us/pl/97/164/s102/a], inserted item relating to Federal circuit with 12 judges.
+    1982—Subsec. (a). [Pub. L. 97–164][/us/pl/97/164], § 102(a), inserted item relating to Federal circuit with 12 judges.
 
-    Subsec. (c). [Pub. L. 97–164, § 102(b)][/us/pl/97/164/s102/b], inserted provision relating to requirement that judges of Federal judicial circuit reside within fifty miles of the District of Columbia.
+    Subsec. (c). [Pub. L. 97–164][/us/pl/97/164], § 102(b), inserted provision relating to requirement that judges of Federal judicial circuit reside within fifty miles of the District of Columbia.
 
     1980—Subsec. (a). [Pub. L. 96–452][/us/pl/96/452] substituted “14” for “26” in item relating to Fifth Circuit, and added item relating to Eleventh Circuit.
 
@@ -807,13 +807,13 @@ Tenth  </td>
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–177, title V, § 509(b)][/us/pl/110/177/s509/b], Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543], provided that: 
+[Pub. L. 110–177, title V][/us/pl/110/177/tV], § 509(b), Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543], provided that: 
 
 > “The amendments made by subsection (a)(2) \[amending this section\] shall take effect on January 21, 2009.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–650, title II, § 206][/us/pl/101/650/s206], Dec. 1, 1990, [104 Stat. 5104][/us/stat/104/5104], provided that: 
+[Pub. L. 101–650, title II][/us/pl/101/650/tII], § 206, Dec. 1, 1990, [104 Stat. 5104][/us/stat/104/5104], provided that: 
 
 > “This title \[amending this section and [section 133 of this title][/us/usc/t28/s133] and enacting provisions set out as notes under this section and sections 133 and 331 of this title\] shall take effect on the date of the enactment of this title \[Dec. 1, 1990\].”
 
@@ -835,17 +835,17 @@ Tenth  </td>
 
  __Nomination to Federal Judgeship on Nondiscriminatory Basis__ 
 
-[Pub. L. 98–353, title II, § 211][/us/pl/98/353/s211], July 10, 1984, [98 Stat. 351][/us/stat/98/351], provided that: 
+[Pub. L. 98–353, title II][/us/pl/98/353/tII], § 211, July 10, 1984, [98 Stat. 351][/us/stat/98/351], provided that: 
 
 > “It is the sense of the Congress that the President, in selecting individuals for nomination to the Federal judgeships created by this Act \[see Short Title of 1984 Amendment note set out under [section 151 of this title][/us/usc/t28/s151]\], shall give due consideration to qualified individuals without regard to race, color, sex, religion, or national origin.”
 
  __Continued Service of Judges__ 
 
-    [Pub. L. 97–164, title I, § 165][/us/pl/97/164/s165], Apr. 2, 1982, [96 Stat. 50][/us/stat/96/50], provided that judges of United States Court of Claims and of United States Court of Customs and Patent Appeals in regular active service on Oct. 1, 1982, would continue in office as judges of United States Court of Appeals for the Federal Circuit and senior judges of United States Court of Claims and of United States Court of Customs and Patent Appeals on Oct. 1, 1982, would continue in office as senior judges of United States Court of Appeals for the Federal Circuit.
+    [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 165, Apr. 2, 1982, [96 Stat. 50][/us/stat/96/50], provided that judges of United States Court of Claims and of United States Court of Customs and Patent Appeals in regular active service on Oct. 1, 1982, would continue in office as judges of United States Court of Appeals for the Federal Circuit and senior judges of United States Court of Claims and of United States Court of Customs and Patent Appeals on Oct. 1, 1982, would continue in office as senior judges of United States Court of Appeals for the Federal Circuit.
 
  __Congressional Statement Regarding Appointment of Judges__ 
 
-[Pub. L. 97–164, title I, § 168][/us/pl/97/164/s168], Apr. 2, 1982, [96 Stat. 51][/us/stat/96/51], provided that: 
+[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 168, Apr. 2, 1982, [96 Stat. 51][/us/stat/96/51], provided that: 
 
 > “The Congress—
 
@@ -861,69 +861,69 @@ Tenth  </td>
 
     For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under [section 5318 of Title 5][/us/usc/t5/s5318], Government Organization and Employees.
 
-    Salaries of circuit judges increased from $12,500 to $17,500 a year by [act July 31, 1946, ch. 704, § 1][/us/act/1946-07-31/ch704/s1], [60 Stat. 716][/us/stat/60/716].
+    Salaries of circuit judges increased from $12,500 to $17,500 a year by [act July 31, 1946, ch. 704][/us/act/1946-07-31/ch704], § 1, [60 Stat. 716][/us/stat/60/716].
 
-    Salaries of circuit judges increased from $8,500 to $12,500 a year by [act Dec. 13, 1926, ch. 6, § 1][/us/act/1926-12-13/ch6/s1], [44 Stat. 919][/us/stat/44/919].
+    Salaries of circuit judges increased from $8,500 to $12,500 a year by [act Dec. 13, 1926, ch. 6][/us/act/1926-12-13/ch6], § 1, [44 Stat. 919][/us/stat/44/919].
 
-    Salaries of circuit judges increased from $7,000 to $8,500 a year by [act Feb. 25, 1919, ch. 29, § 1][/us/act/1919-02-25/ch29/s1], [40 Stat. 1156][/us/stat/40/1156].
+    Salaries of circuit judges increased from $7,000 to $8,500 a year by [act Feb. 25, 1919, ch. 29][/us/act/1919-02-25/ch29], § 1, [40 Stat. 1156][/us/stat/40/1156].
 
-    Salaries of circuit court judges set at $7,000 a year by the Judicial Code of 1911, [act Mar. 3, 1911, ch. 231, § 1][/us/act/1911-03-03/ch231/s1], [36 Stat. 1131][/us/stat/36/1131].
+    Salaries of circuit court judges set at $7,000 a year by the Judicial Code of 1911, [act Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 1, [36 Stat. 1131][/us/stat/36/1131].
 
  __Additional Judges__ 
 
 Since 1925, the appointment of additional judges was authorized by the following acts:
 
-    Second circuit. [Act May 31, 1938, ch. 290, § 1][/us/act/1938-05-31/ch290/s1], [52 Stat. 584][/us/stat/52/584].
+    Second circuit. [Act May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], § 1, [52 Stat. 584][/us/stat/52/584].
 
-    Third circuit. [Act Aug. 3, 1949, ch. 387, § 1][/us/act/1949-08-03/ch387/s1], [63 Stat. 493][/us/stat/63/493]; [act Dec. 7, 1944, ch. 521, § 1][/us/act/1944-12-07/ch521/s1], [58 Stat. 796][/us/stat/58/796]; [act June 10, 1930, ch. 438][/us/act/1930-06-10/ch438], [46 Stat. 538][/us/stat/46/538]; [act June 24, 1936, ch. 735, § 1][/us/act/1936-06-24/ch735/s1], [49 Stat. 1903][/us/stat/49/1903], repealed by [act May 31, 1938, ch. 290, § 3][/us/act/1938-05-31/ch290/s3], [52 Stat. 585][/us/stat/52/585].
+    Third circuit. [Act Aug. 3, 1949, ch. 387][/us/act/1949-08-03/ch387], § 1, [63 Stat. 493][/us/stat/63/493]; [act Dec. 7, 1944, ch. 521][/us/act/1944-12-07/ch521], § 1, [58 Stat. 796][/us/stat/58/796]; [act June 10, 1930, ch. 438][/us/act/1930-06-10/ch438], [46 Stat. 538][/us/stat/46/538]; [act June 24, 1936, ch. 735][/us/act/1936-06-24/ch735], § 1, [49 Stat. 1903][/us/stat/49/1903], repealed by [act May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], § 3, [52 Stat. 585][/us/stat/52/585].
 
-    Fifth circuit. [Act Dec. 14, 1942, ch. 731][/us/act/1942-12-14/ch731], [56 Stat. 1050][/us/stat/56/1050]; [act May 31, 1938, ch. 290, § 1][/us/act/1938-05-31/ch290/s1], [52 Stat. 584][/us/stat/52/584]; [act June 10, 1930, ch. 437][/us/act/1930-06-10/ch437], [46 Stat. 538][/us/stat/46/538].
+    Fifth circuit. [Act Dec. 14, 1942, ch. 731][/us/act/1942-12-14/ch731], [56 Stat. 1050][/us/stat/56/1050]; [act May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], § 1, [52 Stat. 584][/us/stat/52/584]; [act June 10, 1930, ch. 437][/us/act/1930-06-10/ch437], [46 Stat. 538][/us/stat/46/538].
 
-    Sixth circuit. [Act May 24, 1940, ch. 209, § 1][/us/act/1940-05-24/ch209/s1], [54 Stat. 219][/us/stat/54/219]; [act May 31, 1938, ch. 290, § 1][/us/act/1938-05-31/ch290/s1], [52 Stat. 584][/us/stat/52/584].
+    Sixth circuit. [Act May 24, 1940, ch. 209][/us/act/1940-05-24/ch209], § 1, [54 Stat. 219][/us/stat/54/219]; [act May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], § 1, [52 Stat. 584][/us/stat/52/584].
 
-    Seventh circuit. [Act Aug. 3, 1949, ch. 387, § 1][/us/act/1949-08-03/ch387/s1], [63 Stat. 493][/us/stat/63/493]; [act May 31, 1938, ch. 290, § 1][/us/act/1938-05-31/ch290/s1], [52 Stat. 584][/us/stat/52/584].
+    Seventh circuit. [Act Aug. 3, 1949, ch. 387][/us/act/1949-08-03/ch387], § 1, [63 Stat. 493][/us/stat/63/493]; [act May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], § 1, [52 Stat. 584][/us/stat/52/584].
 
-    Eighth circuit. [Act May 24, 1940, ch. 209, § 1][/us/act/1940-05-24/ch209/s1], [54 Stat. 219][/us/stat/54/219]; [act Mar. 3, 1925, ch. 436][/us/act/1925-03-03/ch436], [43 Stat. 1116][/us/stat/43/1116].
+    Eighth circuit. [Act May 24, 1940, ch. 209][/us/act/1940-05-24/ch209], § 1, [54 Stat. 219][/us/stat/54/219]; [act Mar. 3, 1925, ch. 436][/us/act/1925-03-03/ch436], [43 Stat. 1116][/us/stat/43/1116].
 
-    Ninth circuit. [Act Apr. 14, 1937, ch. 80][/us/act/1937-04-14/ch80], [50 Stat. 64][/us/stat/50/64]; [act Aug. 2, 1935, ch. 425, § 1][/us/act/1935-08-02/ch425/s1], [49 Stat. 508][/us/stat/49/508]; [act June 16, 1933, ch. 102][/us/act/1933-06-16/ch102], [48 Stat. 310][/us/stat/48/310] (removing limitation on filling of vacancy); [act Mar. 1, 1929, ch. 413][/us/act/1929-03-01/ch413], [45 Stat. 1414][/us/stat/45/1414].
+    Ninth circuit. [Act Apr. 14, 1937, ch. 80][/us/act/1937-04-14/ch80], [50 Stat. 64][/us/stat/50/64]; [act Aug. 2, 1935, ch. 425][/us/act/1935-08-02/ch425], § 1, [49 Stat. 508][/us/stat/49/508]; [act June 16, 1933, ch. 102][/us/act/1933-06-16/ch102], [48 Stat. 310][/us/stat/48/310] (removing limitation on filling of vacancy); [act Mar. 1, 1929, ch. 413][/us/act/1929-03-01/ch413], [45 Stat. 1414][/us/stat/45/1414].
 
-    Tenth circuit. [Act Aug. 3, 1949, ch. 387, § 1][/us/act/1949-08-03/ch387/s1], [63 Stat. 493][/us/stat/63/493].
+    Tenth circuit. [Act Aug. 3, 1949, ch. 387][/us/act/1949-08-03/ch387], § 1, [63 Stat. 493][/us/stat/63/493].
 
-    District of Columbia Court of Appeals. [Act Aug. 3, 1949, ch. 387, § 1][/us/act/1949-08-03/ch387/s1], [63 Stat. 493][/us/stat/63/493]; [act May 31, 1938, ch. 290, § 2][/us/act/1938-05-31/ch290/s2], [52 Stat. 584][/us/stat/52/584]; [act June 19, 1930, ch. 538][/us/act/1930-06-19/ch538], [46 Stat. 785][/us/stat/46/785].
+    District of Columbia Court of Appeals. [Act Aug. 3, 1949, ch. 387][/us/act/1949-08-03/ch387], § 1, [63 Stat. 493][/us/stat/63/493]; [act May 31, 1938, ch. 290][/us/act/1938-05-31/ch290], § 2, [52 Stat. 584][/us/stat/52/584]; [act June 19, 1930, ch. 538][/us/act/1930-06-19/ch538], [46 Stat. 785][/us/stat/46/785].
 
-    [Act Feb. 28, 1929, ch. 363, § 2][/us/act/1929-02-28/ch363/s2], [45 Stat. 1346][/us/stat/45/1346], 1347 provided that “There shall be in the sixth, seventh, and tenth circuits, respectively, four circuit judges; and in the second and eighth circuits, respectively, five circuit judges; and, in each of the other circuits three circuit judges, to be appointed by the President, by and with the advice and consent of the Senate.”
+    [Act Feb. 28, 1929, ch. 363][/us/act/1929-02-28/ch363], § 2, [45 Stat. 1346][/us/stat/45/1346], 1347 provided that “There shall be in the sixth, seventh, and tenth circuits, respectively, four circuit judges; and in the second and eighth circuits, respectively, five circuit judges; and, in each of the other circuits three circuit judges, to be appointed by the President, by and with the advice and consent of the Senate.”
 
-    Another part of [act Feb. 10, 1954, ch. 6, § 1][/us/act/1954-02-10/ch6/s1], [68 Stat. 8][/us/stat/68/8], which amended subsec. (a) of this section, provided for the appointment by the President, by and with the advice and consent of the Senate, of the additional judges for the Fifth and Ninth Circuits, provided for in such amendment.
+    Another part of [act Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6], § 1, [68 Stat. 8][/us/stat/68/8], which amended subsec. (a) of this section, provided for the appointment by the President, by and with the advice and consent of the Senate, of the additional judges for the Fifth and Ninth Circuits, provided for in such amendment.
 
-[Pub. L. 87–36, § 1(a)][/us/pl/87/36/s1/a], May 19, 1961, [75 Stat. 80][/us/stat/75/80], provided that: 
+[Pub. L. 87–36][/us/pl/87/36], § 1(a), May 19, 1961, [75 Stat. 80][/us/stat/75/80], provided that: 
 
 > “The President shall appoint, by and with the advice and consent of the Senate, three additional circuit judges for the second circuit, one additional circuit judge for the third circuit, two additional circuit judges for the fourth circuit, two additional circuit judges for the fifth circuit, one additional circuit judge for the seventh circuit, and one additional circuit judge for the tenth circuit.”
 
-[Pub. L. 89–372, § 1(a)][/us/pl/89/372/s1/a], Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75], provided that: 
+[Pub. L. 89–372][/us/pl/89/372], § 1(a), Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75], provided that: 
 
 > “The President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the fourth circuit, two additional circuit judges for the sixth circuit, one additional circuit judge for the seventh circuit, and one additional circuit judge for the eighth circuit.”
 
-[Pub. L. 89–372, § 1(c)][/us/pl/89/372/s1/c], Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75], as amended by [Pub. L. 90–347, § 2][/us/pl/90/347/s2], June 18, 1968, [82 Stat. 183][/us/stat/82/183], provided that: 
+[Pub. L. 89–372][/us/pl/89/372], § 1(c), Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75], as amended by [Pub. L. 90–347][/us/pl/90/347], § 2, June 18, 1968, [82 Stat. 183][/us/stat/82/183], provided that: 
 
 > “The President shall appoint, by and with the advice and consent of the Senate, four additional circuit judges for the fifth circuit.”
 
  The second sentence of [section 1(c) of Pub. L. 89–372][/us/pl/89/372/s1/c] which provided that the first four vacancies occurring in the office of circuit judge in the fifth circuit shall not be filled was deleted by [section 2 of Pub. L. 90–347][/us/pl/90/347/s2], which also made those judgeships permanent and further provided that the present incumbents of such judgeships shall henceforth hold their offices under this section.
 
-[Pub. L. 90–347, § 1][/us/pl/90/347/s1], June 18, 1968, [82 Stat. 184][/us/stat/82/184], provided: 
+[Pub. L. 90–347][/us/pl/90/347], § 1, June 18, 1968, [82 Stat. 184][/us/stat/82/184], provided: 
 
 > “That the President shall appoint, by and with the advice and consent of the Senate, one additional circuit judge for the third circuit, two additional circuit judges for the fifth circuit, one additional circuit judge for the sixth circuit, four additional circuit judges for the ninth circuit, and one additional circuit judge for the tenth circuit.”
 
-[Pub. L. 95–486, § 3(a)][/us/pl/95/486/s3/a], Oct. 20, 1978, [92 Stat. 1632][/us/stat/92/1632], provided that: 
+[Pub. L. 95–486][/us/pl/95/486], § 3(a), Oct. 20, 1978, [92 Stat. 1632][/us/stat/92/1632], provided that: 
 
 > “The President shall appoint, by and with the advice and consent of the Senate, one additional circuit judgeship for the first circuit, two additional circuit judgeships for the second circuit, one additional circuit judgeship for the third circuit, three additional circuit judgeships for the fourth circuit, eleven additional circuit judgeships for the fifth circuit, two additional circuit judgeships for the sixth circuit, one additional circuit judgeship for the seventh circuit, one additional circuit judgeship for the eighth circuit, ten additional circuit judgeships for the ninth circuit, one additional circuit judgeship for the tenth circuit, and two additional circuit judgeships for the District of Columbia.”
 
-[Pub. L. 98–353, title II, § 201(a)][/us/pl/98/353/s201/a], July 10, 1984, [98 Stat. 346][/us/stat/98/346], provided that:
+[Pub. L. 98–353, title II][/us/pl/98/353/tII], § 201(a), July 10, 1984, [98 Stat. 346][/us/stat/98/346], provided that:
 
 >     “(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
 
 >     “(2) The President shall appoint, by and with the advice and consent of the Senate, no more than 11 of such judges prior to January 21, 1985.”
 
-[Pub. L. 101–650, title II, § 202(a)][/us/pl/101/650/s202/a], Dec. 1, 1990, [104 Stat. 5098][/us/stat/104/5098], provided that: 
+[Pub. L. 101–650, title II][/us/pl/101/650/tII], § 202(a), Dec. 1, 1990, [104 Stat. 5098][/us/stat/104/5098], provided that: 
 
 > “The President shall appoint, by and with the advice and consent of the Senate—
 
@@ -976,55 +976,55 @@ Since 1925, the appointment of additional judges was authorized by the following
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F871
-[/us/act/1949-08-03/ch387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387%2Fs1
+[/us/act/1949-08-03/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387
 [/us/stat/63/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F493
-[/us/act/1954-02-10/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6%2Fs1
+[/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F8
-[/us/act/1955-03-02/ch9/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9%2Fs1%2Fb
+[/us/act/1955-03-02/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9
 [/us/stat/69/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F10
-[/us/pl/87/36/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36%2Fs1%2Fb
+[/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/stat/75/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F80
-[/us/pl/88/426/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs403%2Fb
+[/us/pl/88/426/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIV
 [/us/stat/78/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F434
-[/us/pl/89/372/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372%2Fs1%2Fb
+[/us/pl/89/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372
 [/us/stat/80/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F75
-[/us/pl/90/347/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F347%2Fs3
+[/us/pl/90/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F347
 [/us/stat/82/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F184
-[/us/pl/94/82/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs205%2Fb%2F2
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F422
-[/us/pl/95/486/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486%2Fs3%2Fb
+[/us/pl/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486
 [/us/stat/92/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1632
-[/us/pl/96/452/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452%2Fs3
+[/us/pl/96/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452
 [/us/stat/94/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1994
-[/us/pl/97/164/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs102
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F25
-[/us/pl/98/353/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs201%2Fb
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F346
-[/us/pl/101/650/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs202%2Fb
+[/us/pl/101/650/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtII
 [/us/stat/104/5099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5099
-[/us/pl/102/198/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs10%2Fc
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1626
-[/us/pl/105/119/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs307
+[/us/pl/105/119/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtIII
 [/us/stat/111/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2493
-[/us/pl/110/177/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs509%2Fa
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2543
-[/us/act/1893-02-09/ch74/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-09%2Fch74%2Fs1
+[/us/act/1893-02-09/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-09%2Fch74
 [/us/stat/27/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F434
 [/us/act/1901-03-03/ch854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch854
 [/us/stat/31/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1224
-[/us/act/1911-03-03/ch231/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs118
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1131
 [/us/act/1912-01-13/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-01-13%2Fch9
 [/us/stat/37/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F52
-[/us/act/1919-02-25/ch29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-25%2Fch29%2Fs2
+[/us/act/1919-02-25/ch29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-25%2Fch29
 [/us/stat/40/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1156
-[/us/act/1922-09-14/ch306/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306%2Fs6
+[/us/act/1922-09-14/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-14%2Fch306
 [/us/stat/42/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F840
 [/us/act/1925-03-03/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch437
 [/us/stat/43/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1116
-[/us/act/1926-12-13/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6%2Fs1
+[/us/act/1926-12-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6
 [/us/stat/44/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F919
-[/us/act/1929-02-28/ch363/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch363%2Fs2
+[/us/act/1929-02-28/ch363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch363
 [/us/stat/45/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1347
 [/us/act/1929-03-01/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch413
 [/us/stat/45/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1414
@@ -1036,24 +1036,24 @@ Since 1925, the appointment of additional judges was authorized by the following
 [/us/stat/46/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F785
 [/us/act/1933-06-16/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch102
 [/us/stat/48/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F310
-[/us/act/1935-08-02/ch425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-02%2Fch425%2Fs1
+[/us/act/1935-08-02/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-02%2Fch425
 [/us/stat/49/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F508
-[/us/act/1936-06-24/ch735/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch735%2Fs1
+[/us/act/1936-06-24/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch735
 [/us/stat/49/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1903
 [/us/act/1937-04-14/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-14%2Fch80
 [/us/stat/50/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F64
 [/us/act/1938-05-31/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290
 [/us/stat/52/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F584
-[/us/act/1940-05-24/ch209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-24%2Fch209%2Fs1
+[/us/act/1940-05-24/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-24%2Fch209
 [/us/stat/54/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F219
 [/us/act/1942-12-14/ch731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-14%2Fch731
 [/us/stat/56/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1050
-[/us/act/1944-12-07/ch521/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-07%2Fch521%2Fs1
+[/us/act/1944-12-07/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-07%2Fch521
 [/us/stat/58/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F796
-[/us/act/1946-07-31/ch704/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704%2Fs1
+[/us/act/1946-07-31/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704
 [/us/stat/60/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F716
 [/us/usc/t28/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs41
-[/us/act/1944-06-26/ch277/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-26%2Fch277%2Fs202
+[/us/act/1944-06-26/ch277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-26%2Fch277
 [/us/stat/58/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F358
 [/us/usc/t28/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs213
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
@@ -1065,14 +1065,14 @@ Since 1925, the appointment of additional judges was authorized by the following
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
 [/us/pl/90/206/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225
 [/us/stat/81/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F642
-[/us/pl/110/177/s509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs509%2Fa%2F2
-[/us/pl/110/177/s509/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs509%2Fa%2F1
+[/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
+[/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
-[/us/pl/97/164/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs102%2Fa
-[/us/pl/97/164/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs102%2Fb
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/96/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F452
 [/us/pl/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486
 [/us/pl/94/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82
@@ -1081,9 +1081,9 @@ Since 1925, the appointment of additional judges was authorized by the following
 [/us/pl/89/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
-[/us/pl/110/177/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs509%2Fb
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2543
-[/us/pl/101/650/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs206
+[/us/pl/101/650/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtII
 [/us/stat/104/5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5104
 [/us/usc/t28/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs133
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
@@ -1096,91 +1096,91 @@ Since 1925, the appointment of additional judges was authorized by the following
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc
 [/us/pl/88/426/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501
 [/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
-[/us/pl/98/353/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs211
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F351
 [/us/usc/t28/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs151
-[/us/pl/97/164/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs165
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F50
-[/us/pl/97/164/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs168
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F51
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
-[/us/act/1946-07-31/ch704/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704%2Fs1
+[/us/act/1946-07-31/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch704
 [/us/stat/60/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F716
-[/us/act/1926-12-13/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6%2Fs1
+[/us/act/1926-12-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-13%2Fch6
 [/us/stat/44/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F919
-[/us/act/1919-02-25/ch29/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-25%2Fch29%2Fs1
+[/us/act/1919-02-25/ch29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-25%2Fch29
 [/us/stat/40/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1156
-[/us/act/1911-03-03/ch231/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1131
-[/us/act/1938-05-31/ch290/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290%2Fs1
+[/us/act/1938-05-31/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290
 [/us/stat/52/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F584
-[/us/act/1949-08-03/ch387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387%2Fs1
+[/us/act/1949-08-03/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387
 [/us/stat/63/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F493
-[/us/act/1944-12-07/ch521/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-07%2Fch521%2Fs1
+[/us/act/1944-12-07/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-07%2Fch521
 [/us/stat/58/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F796
 [/us/act/1930-06-10/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch438
 [/us/stat/46/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F538
-[/us/act/1936-06-24/ch735/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch735%2Fs1
+[/us/act/1936-06-24/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-24%2Fch735
 [/us/stat/49/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1903
-[/us/act/1938-05-31/ch290/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290%2Fs3
+[/us/act/1938-05-31/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290
 [/us/stat/52/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F585
 [/us/act/1942-12-14/ch731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-14%2Fch731
 [/us/stat/56/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1050
-[/us/act/1938-05-31/ch290/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290%2Fs1
+[/us/act/1938-05-31/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290
 [/us/stat/52/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F584
 [/us/act/1930-06-10/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch437
 [/us/stat/46/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F538
-[/us/act/1940-05-24/ch209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-24%2Fch209%2Fs1
+[/us/act/1940-05-24/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-24%2Fch209
 [/us/stat/54/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F219
-[/us/act/1938-05-31/ch290/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290%2Fs1
+[/us/act/1938-05-31/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290
 [/us/stat/52/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F584
-[/us/act/1949-08-03/ch387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387%2Fs1
+[/us/act/1949-08-03/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387
 [/us/stat/63/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F493
-[/us/act/1938-05-31/ch290/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290%2Fs1
+[/us/act/1938-05-31/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290
 [/us/stat/52/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F584
-[/us/act/1940-05-24/ch209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-24%2Fch209%2Fs1
+[/us/act/1940-05-24/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-24%2Fch209
 [/us/stat/54/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F219
 [/us/act/1925-03-03/ch436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch436
 [/us/stat/43/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1116
 [/us/act/1937-04-14/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-14%2Fch80
 [/us/stat/50/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F64
-[/us/act/1935-08-02/ch425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-02%2Fch425%2Fs1
+[/us/act/1935-08-02/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-02%2Fch425
 [/us/stat/49/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F508
 [/us/act/1933-06-16/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch102
 [/us/stat/48/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F310
 [/us/act/1929-03-01/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch413
 [/us/stat/45/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1414
-[/us/act/1949-08-03/ch387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387%2Fs1
+[/us/act/1949-08-03/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387
 [/us/stat/63/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F493
-[/us/act/1949-08-03/ch387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387%2Fs1
+[/us/act/1949-08-03/ch387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-03%2Fch387
 [/us/stat/63/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F493
-[/us/act/1938-05-31/ch290/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290%2Fs2
+[/us/act/1938-05-31/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-31%2Fch290
 [/us/stat/52/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F584
 [/us/act/1930-06-19/ch538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-19%2Fch538
 [/us/stat/46/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F785
-[/us/act/1929-02-28/ch363/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch363%2Fs2
+[/us/act/1929-02-28/ch363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch363
 [/us/stat/45/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1346
-[/us/act/1954-02-10/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6%2Fs1
+[/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F8
-[/us/pl/87/36/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36%2Fs1%2Fa
+[/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/stat/75/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F80
-[/us/pl/89/372/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372%2Fs1%2Fa
+[/us/pl/89/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372
 [/us/stat/80/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F75
-[/us/pl/89/372/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372%2Fs1%2Fc
+[/us/pl/89/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372
 [/us/stat/80/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F75
-[/us/pl/90/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F347%2Fs2
+[/us/pl/90/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F347
 [/us/stat/82/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F183
 [/us/pl/89/372/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372%2Fs1%2Fc
 [/us/pl/90/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F347%2Fs2
-[/us/pl/90/347/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F347%2Fs1
+[/us/pl/90/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F347
 [/us/stat/82/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F184
-[/us/pl/95/486/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486%2Fs3%2Fa
+[/us/pl/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486
 [/us/stat/92/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1632
-[/us/pl/98/353/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs201%2Fa
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F346
-[/us/pl/101/650/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs202%2Fa
+[/us/pl/101/650/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtII
 [/us/stat/104/5098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5098
 
 

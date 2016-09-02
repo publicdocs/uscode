@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 380 and 380a ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 210, 266, [36 Stat. 1150][/us/stat/36/1150], 1162; [Mar. 4, 1913, ch. 160][/us/act/1913-03-04/ch160], [37 Stat. 1013][/us/stat/37/1013]; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], 38, Stat. 220; [Feb. 13, 1925, ch. 229, § 1][/us/act/1925-02-13/ch229/s1], [43 Stat. 938][/us/stat/43/938]; [Aug. 24, 1937, ch. 754, § 3][/us/act/1937-08-24/ch754/s3], [50 Stat. 752][/us/stat/50/752]).
+    Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 380 and 380a ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 210, 266, [36 Stat. 1150][/us/stat/36/1150], 1162; [Mar. 4, 1913, ch. 160][/us/act/1913-03-04/ch160], [37 Stat. 1013][/us/stat/37/1013]; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], 38, Stat. 220; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 1, [43 Stat. 938][/us/stat/43/938]; [Aug. 24, 1937, ch. 754][/us/act/1937-08-24/ch754], § 3, [50 Stat. 752][/us/stat/50/752]).
 
     This section consolidates the provisions of sections 47, 47a, 380, and 380a of title 28, U.S.C., 1940 ed., relating to direct appeals from decisions of three-judge courts involving orders of the Interstate Commerce Commission or holding State or Federal laws repugnant to the Constitution of the United States.
 
@@ -53,9 +53,9 @@
 [/us/act/1913-03-04/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch160
 [/us/stat/37/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F1013
 [/us/act/1913-10-22/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-22%2Fch32
-[/us/act/1925-02-13/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs1
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F938
-[/us/act/1937-08-24/ch754/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754%2Fs3
+[/us/act/1937-08-24/ch754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-24%2Fch754
 [/us/stat/50/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F752
 [/us/usc/t28/s380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs380
 [/us/usc/t28/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2281

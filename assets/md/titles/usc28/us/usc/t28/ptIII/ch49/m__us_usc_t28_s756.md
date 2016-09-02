@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 375 ([Mar. 3, 1911, ch. 231, § 260][/us/act/1911-03-03/ch231/s260], [36 Stat. 1161][/us/stat/36/1161]; Feb. 25, 1919, ch.29, § 6, [40 Stat. 1157][/us/stat/40/1157]; [Mar. 1, 1929, ch. 419][/us/act/1929-03-01/ch419], [45 Stat. 1422][/us/stat/45/1422]; [May 11, 1944, ch. 192][/us/act/1944-05-11/ch192], §§ 1, 3, [58 Stat. 218][/us/stat/58/218], 219).
+    Based on title 28, U.S.C., 1940 ed., § 375 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 260, [36 Stat. 1161][/us/stat/36/1161]; Feb. 25, 1919, ch.29, § 6, [40 Stat. 1157][/us/stat/40/1157]; [Mar. 1, 1929, ch. 419][/us/act/1929-03-01/ch419], [45 Stat. 1422][/us/stat/45/1422]; [May 11, 1944, ch. 192][/us/act/1944-05-11/ch192], §§ 1, 3, [58 Stat. 218][/us/stat/58/218], 219).
 
     Only part of [section 375 of title 28][/us/usc/t28/s375], U.S.C., 1940 ed., appears in this section. The remainder is incorporated in sections 136, 294 and 371 of this title.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F923
-[/us/act/1911-03-03/ch231/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs260
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1161
 [/us/stat/40/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1157
 [/us/act/1929-03-01/ch419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch419

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 109 ([Mar. 3, 1911, ch. 231, § 48][/us/act/1911-03-03/ch231/s48], [36 Stat. 1100][/us/stat/36/1100]).
+    Based on title 28, U.S.C., 1940 ed., § 109 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 48, [36 Stat. 1100][/us/stat/36/1100]).
 
     Venue provisions of [section 109 of title 28][/us/usc/t28/s109], U.S.C., 1940 ed., appear in [section 1400 of this title][/us/usc/t28/s1400].
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F945
-[/us/act/1911-03-03/ch231/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs48
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1100
 [/us/usc/t28/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs109
 [/us/usc/t28/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1400

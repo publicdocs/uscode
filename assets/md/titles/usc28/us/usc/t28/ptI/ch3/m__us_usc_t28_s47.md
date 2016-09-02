@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 216, and District of Columbia Code, 1940 ed., § 11–205 ([Feb. 9, 1893, ch. 74, § 6][/us/act/1893-02-09/ch74/s6], [27 Stat. 435][/us/stat/27/435]; [July 30, 1894, ch. 172, § 2][/us/act/1894-07-30/ch172/s2], [28 Stat. 161][/us/stat/28/161]; [Mar. 3, 1901, ch. 854, § 225][/us/act/1901-03-03/ch854/s225], [31 Stat. 1225][/us/stat/31/1225]; [Mar. 3, 1911, ch. 231, § 120][/us/act/1911-03-03/ch231/s120], [36 Stat. 1132][/us/stat/36/1132]).
+    Based on title 28, U.S.C., 1940 ed., § 216, and District of Columbia Code, 1940 ed., § 11–205 ([Feb. 9, 1893, ch. 74][/us/act/1893-02-09/ch74], § 6, [27 Stat. 435][/us/stat/27/435]; [July 30, 1894, ch. 172][/us/act/1894-07-30/ch172], § 2, [28 Stat. 161][/us/stat/28/161]; [Mar. 3, 1901, ch. 854][/us/act/1901-03-03/ch854], § 225, [31 Stat. 1225][/us/stat/31/1225]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 120, [36 Stat. 1132][/us/stat/36/1132]).
 
     The provision in section 11–205 of the District of Columbia Code, 1940 ed., that a justice of the district court while on the bench of the Court of Appeals in the District of Columbia shall not sit in review of judgment, order, or decree rendered by him below, was consolidated with a similar provision of [section 216 of title 28][/us/usc/t28/s216], U.S.C., 1940 ed. The consolidation simplifies the language without change of substance.
 
@@ -48,13 +48,13 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F872
-[/us/act/1893-02-09/ch74/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-09%2Fch74%2Fs6
+[/us/act/1893-02-09/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-09%2Fch74
 [/us/stat/27/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F435
-[/us/act/1894-07-30/ch172/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-30%2Fch172%2Fs2
+[/us/act/1894-07-30/ch172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-30%2Fch172
 [/us/stat/28/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F161
-[/us/act/1901-03-03/ch854/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch854%2Fs225
+[/us/act/1901-03-03/ch854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch854
 [/us/stat/31/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1225
-[/us/act/1911-03-03/ch231/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs120
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1132
 [/us/usc/t28/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs216
 [/us/usc/t28/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs48

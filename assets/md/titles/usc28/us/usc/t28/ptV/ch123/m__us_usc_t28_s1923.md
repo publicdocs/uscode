@@ -37,11 +37,11 @@
 
         $75 where the amount involved is over $5,000.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 956][/us/stat/62/956]; [June 18, 1954, ch. 304][/us/act/1954-06-18/ch304], [68 Stat. 253][/us/stat/68/253]; [Pub. L. 95–598, title II, § 245][/us/pl/95/598/s245], Nov. 6, 1978, [92 Stat. 2671][/us/stat/92/2671].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 956][/us/stat/62/956]; [June 18, 1954, ch. 304][/us/act/1954-06-18/ch304], [68 Stat. 253][/us/stat/68/253]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 245, Nov. 6, 1978, [92 Stat. 2671][/us/stat/92/2671].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 571, 572, and 578 (R.S. §§ 823, 824; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], §§ 6, 24, [29 Stat. 179][/us/stat/29/179], 186; [Feb. 26, 1919, ch. 49, § 1][/us/act/1919-02-26/ch49/s1], [40 Stat. 1182][/us/stat/40/1182]; [July 19, 1919, ch. 24, § 1][/us/act/1919-07-19/ch24/s1], [41 Stat. 209][/us/stat/41/209]; [Feb. 11, 1921, ch. 46][/us/act/1921-02-11/ch46], [41 Stat. 1099][/us/stat/41/1099]; [June 6, 1930, ch. 409][/us/act/1930-06-06/ch409], [46 Stat. 522][/us/stat/46/522]; [Aug. 3, 1935, ch. 431, § 1][/us/act/1935-08-03/ch431/s1], [49 Stat. 513][/us/stat/49/513]).
+    Based on title 28, U.S.C., 1940 ed., §§ 571, 572, and 578 (R.S. §§ 823, 824; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], §§ 6, 24, [29 Stat. 179][/us/stat/29/179], 186; [Feb. 26, 1919, ch. 49][/us/act/1919-02-26/ch49], § 1, [40 Stat. 1182][/us/stat/40/1182]; [July 19, 1919, ch. 24][/us/act/1919-07-19/ch24], § 1, [41 Stat. 209][/us/stat/41/209]; [Feb. 11, 1921, ch. 46][/us/act/1921-02-11/ch46], [41 Stat. 1099][/us/stat/41/1099]; [June 6, 1930, ch. 409][/us/act/1930-06-06/ch409], [46 Stat. 522][/us/stat/46/522]; [Aug. 3, 1935, ch. 431][/us/act/1935-08-03/ch431], § 1, [49 Stat. 513][/us/stat/49/513]).
 
     Section consolidates sections 571, 572, and 578 of title 28, U.S.C., 1940 ed.
 
@@ -55,7 +55,7 @@
 
  __Codification__ 
 
-    [Pub. L. 95–598, title IV, § 408(c)][/us/pl/95/598/s408/c], Nov. 6, 1978, [92 Stat. 2687][/us/stat/92/2687], as amended by [Pub. L. 98–166, title II, § 200][/us/pl/98/166/s200], Nov. 28, 1983, [97 Stat. 1081][/us/stat/97/1081]; [Pub. L. 98–353, title III, § 323][/us/pl/98/353/s323], July 10, 1984, [98 Stat. 358][/us/stat/98/358]; [Pub. L. 99–429][/us/pl/99/429], Sept. 30, 1986, [100 Stat. 985][/us/stat/100/985]; [Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title II, § 200\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–45, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title II, § 200\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–45; [Pub. L. 99–554, title III, § 307(a)][/us/pl/99/554/s307/a], Oct. 27, 1986, [100 Stat. 3125][/us/stat/100/3125], which provided for the deletion of any references to United States Trustees in this title at a prospective date, was repealed by [Pub. L. 99–554, title III, § 307(b)][/us/pl/99/554/s307/b], Oct. 27, 1986, [100 Stat. 3125][/us/stat/100/3125].
+    [Pub. L. 95–598, title IV][/us/pl/95/598/tIV], § 408(c), Nov. 6, 1978, [92 Stat. 2687][/us/stat/92/2687], as amended by [Pub. L. 98–166, title II][/us/pl/98/166/tII], § 200, Nov. 28, 1983, [97 Stat. 1081][/us/stat/97/1081]; [Pub. L. 98–353, title III][/us/pl/98/353/tIII], § 323, July 10, 1984, [98 Stat. 358][/us/stat/98/358]; [Pub. L. 99–429][/us/pl/99/429], Sept. 30, 1986, [100 Stat. 985][/us/stat/100/985]; [Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title II, § 200\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–45, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title II, § 200\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–45; [Pub. L. 99–554, title III][/us/pl/99/554/tIII], § 307(a), Oct. 27, 1986, [100 Stat. 3125][/us/stat/100/3125], which provided for the deletion of any references to United States Trustees in this title at a prospective date, was repealed by [Pub. L. 99–554, title III][/us/pl/99/554/tIII], § 307(b), Oct. 27, 1986, [100 Stat. 3125][/us/stat/100/3125].
 
  __Amendments__ 
 
@@ -78,36 +78,36 @@
 [/us/stat/62/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F956
 [/us/act/1954-06-18/ch304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-18%2Fch304
 [/us/stat/68/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F253
-[/us/pl/95/598/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs245
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2671
 [/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F179
-[/us/act/1919-02-26/ch49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch49%2Fs1
+[/us/act/1919-02-26/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch49
 [/us/stat/40/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1182
-[/us/act/1919-07-19/ch24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-19%2Fch24%2Fs1
+[/us/act/1919-07-19/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-07-19%2Fch24
 [/us/stat/41/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F209
 [/us/act/1921-02-11/ch46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-11%2Fch46
 [/us/stat/41/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1099
 [/us/act/1930-06-06/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-06%2Fch409
 [/us/stat/46/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F522
-[/us/act/1935-08-03/ch431/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-03%2Fch431%2Fs1
+[/us/act/1935-08-03/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-03%2Fch431
 [/us/stat/49/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F513
 [/us/usc/t28/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs572
-[/us/pl/95/598/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs408%2Fc
+[/us/pl/95/598/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIV
 [/us/stat/92/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2687
-[/us/pl/98/166/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F166%2Fs200
+[/us/pl/98/166/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F166%2FtII
 [/us/stat/97/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1081
-[/us/pl/98/353/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs323
+[/us/pl/98/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtIII
 [/us/stat/98/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F358
 [/us/pl/99/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F429
 [/us/stat/100/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F985
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
-[/us/pl/99/554/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs307%2Fa
+[/us/pl/99/554/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtIII
 [/us/stat/100/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3125
-[/us/pl/99/554/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs307%2Fb
+[/us/pl/99/554/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtIII
 [/us/stat/100/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3125
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598

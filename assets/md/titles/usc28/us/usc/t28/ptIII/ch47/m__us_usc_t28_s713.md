@@ -19,13 +19,13 @@
 
     (b) The librarian, with the approval of the court, may appoint necessary library assistants in such numbers as the Director of the Administrative Office of the United States Courts may approve. The librarian may remove such library assistants with the approval of the court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 920][/us/stat/62/920]; [May 24, 1949, ch. 139, § 75][/us/act/1949-05-24/ch139/s75], [63 Stat. 100][/us/stat/63/100]; [Pub. L. 97–164, title I, § 120(b)(1)][/us/pl/97/164/s120/b/1], Apr. 2, 1982, [96 Stat. 33][/us/stat/96/33].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 920][/us/stat/62/920]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 75, [63 Stat. 100][/us/stat/63/100]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 120(b)(1), Apr. 2, 1982, [96 Stat. 33][/us/stat/96/33].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 547, and section 11–204 of District of Columbia Code, 1940 ed., ([Mar. 3, 1891, ch. 517, § 9][/us/act/1891-03-03/ch517/s9], [26 Stat. 829][/us/stat/26/829]; [Feb. 9, 1893, ch. 74, § 4][/us/act/1893-02-09/ch74/s4], [27 Stat. 435][/us/stat/27/435]; [July 30, 1894, ch. 172, § 1][/us/act/1894-07-30/ch172/s1], [28 Stat. 160][/us/stat/28/160]; [Mar. 3, 1901, ch. 854, § 224][/us/act/1901-03-03/ch854/s224], [31 Stat. 1224][/us/stat/31/1224]; [June 30, 1902, ch. 1329][/us/act/1902-06-30/ch1329], [32 Stat. 528][/us/stat/32/528]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [Aug. 23, 1912, ch. 350][/us/act/1912-08-23/ch350], [37 Stat. 412][/us/stat/37/412]; [Feb. 22, 1921, ch. 70, § 7][/us/act/1921-02-22/ch70/s7], [41 Stat. 1144][/us/stat/41/1144]; [Mar. 4, 1923, ch. 265][/us/act/1923-03-04/ch265], [42 Stat. 1488][/us/stat/42/1488]; [May 21, 1928, ch. 659][/us/act/1928-05-21/ch659], [45 Stat. 645][/us/stat/45/645]).
+    Based on title 28, U.S.C., 1940 ed., § 547, and section 11–204 of District of Columbia Code, 1940 ed., ([Mar. 3, 1891, ch. 517][/us/act/1891-03-03/ch517], § 9, [26 Stat. 829][/us/stat/26/829]; [Feb. 9, 1893, ch. 74][/us/act/1893-02-09/ch74], § 4, [27 Stat. 435][/us/stat/27/435]; [July 30, 1894, ch. 172][/us/act/1894-07-30/ch172], § 1, [28 Stat. 160][/us/stat/28/160]; [Mar. 3, 1901, ch. 854][/us/act/1901-03-03/ch854], § 224, [31 Stat. 1224][/us/stat/31/1224]; [June 30, 1902, ch. 1329][/us/act/1902-06-30/ch1329], [32 Stat. 528][/us/stat/32/528]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [Aug. 23, 1912, ch. 350][/us/act/1912-08-23/ch350], [37 Stat. 412][/us/stat/37/412]; [Feb. 22, 1921, ch. 70][/us/act/1921-02-22/ch70], § 7, [41 Stat. 1144][/us/stat/41/1144]; [Mar. 4, 1923, ch. 265][/us/act/1923-03-04/ch265], [42 Stat. 1488][/us/stat/42/1488]; [May 21, 1928, ch. 659][/us/act/1928-05-21/ch659], [45 Stat. 645][/us/stat/45/645]).
 
     Section consolidates parts of section 11–204 of the District of Columbia Code, 1940 ed., and [section 547 of title 28][/us/usc/t28/s547], U.S.C., 1940 ed.
 
@@ -67,7 +67,7 @@
 
  __Continuation of Service of Marshal for Court of Appeals for District of Columbia; Applicability of Other Law to Court During Such Individual’s Service__ 
 
-[Pub. L. 98–620, title IV, § 415][/us/pl/98/620/s415], Nov. 8, 1984, [98 Stat. 3364][/us/stat/98/3364], provided that: 
+[Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 415, Nov. 8, 1984, [98 Stat. 3364][/us/stat/98/3364], provided that: 
 
 > “Any individual who, on the date of the enactment of the Federal Courts Improvement Act of 1982 \[[Pub. L. 97–164][/us/pl/97/164], enacted Apr. 2, 1982\], was serving as marshal for the Court of Appeals for the District of Columbia under [section 713(c) of title 28][/us/usc/t28/s713/c], United States Code, may, after the date of the enactment of this Act \[Nov. 8, 1984\], so serve under that section as in effect on the date of the enactment of the Federal Courts Improvement Act of 1982. While such individual so serves, the provisions of [section 714(a) of title 28][/us/usc/t28/s714/a], United States Code, shall not apply to the Court of Appeals for the District of Columbia.”
 
@@ -80,25 +80,25 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F920
-[/us/act/1949-05-24/ch139/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs75
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F100
-[/us/pl/97/164/s120/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs120%2Fb%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F33
-[/us/act/1891-03-03/ch517/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch517%2Fs9
+[/us/act/1891-03-03/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch517
 [/us/stat/26/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F829
-[/us/act/1893-02-09/ch74/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-09%2Fch74%2Fs4
+[/us/act/1893-02-09/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-09%2Fch74
 [/us/stat/27/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F435
-[/us/act/1894-07-30/ch172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-30%2Fch172%2Fs1
+[/us/act/1894-07-30/ch172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-30%2Fch172
 [/us/stat/28/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F160
-[/us/act/1901-03-03/ch854/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch854%2Fs224
+[/us/act/1901-03-03/ch854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch854
 [/us/stat/31/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1224
 [/us/act/1902-06-30/ch1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-30%2Fch1329
 [/us/stat/32/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F528
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/act/1912-08-23/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350
 [/us/stat/37/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F412
-[/us/act/1921-02-22/ch70/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-22%2Fch70%2Fs7
+[/us/act/1921-02-22/ch70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-02-22%2Fch70
 [/us/stat/41/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1144
 [/us/act/1923-03-04/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch265
 [/us/stat/42/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1488
@@ -121,7 +121,7 @@
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/98/620/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs415
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3364
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/usc/t28/s713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs713%2Fc

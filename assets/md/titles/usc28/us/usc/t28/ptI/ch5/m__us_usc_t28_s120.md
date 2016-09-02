@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 185 ([Mar. 3, 1911, ch. 231, § 104][/us/act/1911-03-03/ch231/s104], [36 Stat. 1123][/us/stat/36/1123]; [Feb. 1, 1912, ch. 27][/us/act/1912-02-01/ch27], [37 Stat. 59][/us/stat/37/59]).
+    Based on title 28, U.S.C., 1940 ed., § 185 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 104, [36 Stat. 1123][/us/stat/36/1123]; [Feb. 1, 1912, ch. 27][/us/act/1912-02-01/ch27], [37 Stat. 59][/us/stat/37/59]).
 
     Changes in phraseology were made.
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F889
-[/us/act/1911-03-03/ch231/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs104
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1123
 [/us/act/1912-02-01/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-02-01%2Fch27
 [/us/stat/37/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F59

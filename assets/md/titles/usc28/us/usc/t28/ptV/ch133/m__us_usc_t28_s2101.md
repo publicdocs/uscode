@@ -29,13 +29,13 @@
 
     (g) The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces shall be as prescribed by rules of the Supreme Court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 961][/us/stat/62/961]; [May 24, 1949, ch. 139, § 106][/us/act/1949-05-24/ch139/s106], [63 Stat. 104][/us/stat/63/104]; [Pub. L. 98–209, § 10(b)][/us/pl/98/209/s10/b], Dec. 6, 1983, [97 Stat. 1406][/us/stat/97/1406]; [Pub. L. 100–352, § 5(b)][/us/pl/100/352/s5/b], June 27, 1988, [102 Stat. 663][/us/stat/102/663]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(C)][/us/pl/103/337/s924/d/1/C], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 961][/us/stat/62/961]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 106, [63 Stat. 104][/us/stat/63/104]; [Pub. L. 98–209][/us/pl/98/209], § 10(b), Dec. 6, 1983, [97 Stat. 1406][/us/stat/97/1406]; [Pub. L. 100–352][/us/pl/100/352], § 5(b), June 27, 1988, [102 Stat. 663][/us/stat/102/663]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(d)(1)(C), Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 349a, 350, 380, 380a, [section 29 of title 15][/us/usc/t15/s29], U.S.C., 1940 ed., Commerce and Trade, and [section 45 of title 49][/us/usc/t49/s45], U.S.C., 1940 ed., Transportation ([Feb. 11, 1903, ch. 544, § 2][/us/act/1903-02-11/ch544/s2], [32 Stat. 1167][/us/stat/32/1167]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 210, 266, 291, [36 Stat. 1150][/us/stat/36/1150], 1162, 1167; [Mar. 4, 1913, ch. 160][/us/act/1913-03-04/ch160], [37 Stat. 1013][/us/stat/37/1013]; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], [38 Stat. 220][/us/stat/38/220]; [Sept. 6, 1916, ch. 448, § 6][/us/act/1916-09-06/ch448/s6], [39 Stat. 727][/us/stat/39/727]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], §§ 1, 8 (a, b, d), [43 Stat. 938][/us/stat/43/938], 940; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 936][/us/stat/48/936]; [Aug. 24, 1937, ch. 754][/us/act/1937-08-24/ch754], §§ 2, 3, [50 Stat. 752][/us/stat/50/752]; [June 9, 1944, ch. 239][/us/act/1944-06-09/ch239], [58 Stat. 272][/us/stat/58/272]).
+    Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 349a, 350, 380, 380a, [section 29 of title 15][/us/usc/t15/s29], U.S.C., 1940 ed., Commerce and Trade, and [section 45 of title 49][/us/usc/t49/s45], U.S.C., 1940 ed., Transportation ([Feb. 11, 1903, ch. 544][/us/act/1903-02-11/ch544], § 2, [32 Stat. 1167][/us/stat/32/1167]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 210, 266, 291, [36 Stat. 1150][/us/stat/36/1150], 1162, 1167; [Mar. 4, 1913, ch. 160][/us/act/1913-03-04/ch160], [37 Stat. 1013][/us/stat/37/1013]; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], [38 Stat. 220][/us/stat/38/220]; [Sept. 6, 1916, ch. 448][/us/act/1916-09-06/ch448], § 6, [39 Stat. 727][/us/stat/39/727]; [Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], §§ 1, 8 (a, b, d), [43 Stat. 938][/us/stat/43/938], 940; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 936][/us/stat/48/936]; [Aug. 24, 1937, ch. 754][/us/act/1937-08-24/ch754], §§ 2, 3, [50 Stat. 752][/us/stat/50/752]; [June 9, 1944, ch. 239][/us/act/1944-06-09/ch239], [58 Stat. 272][/us/stat/58/272]).
 
     Section consolidates [section 350 of title 28][/us/usc/t28/s350], U.S.C., 1940 ed., with those portions of sections 47, 47a, 349a, 380, and 380a, of said title 28, section 29, of title 15, U.S.C., 1940 ed., and [section 45 of title 49][/us/usc/t49/s45], U.S.C., 1940 ed., respective time for taking direct appeal. (For disposition of other provisions of said sections, see Distribution Table.)
 
@@ -93,17 +93,17 @@
 [/us/usc/t28/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1253
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F961
-[/us/act/1949-05-24/ch139/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs106
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F104
-[/us/pl/98/209/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs10%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1406
-[/us/pl/100/352/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs5%2Fb
+[/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/stat/102/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F663
-[/us/pl/103/337/s924/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fd%2F1%2FC
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
 [/us/usc/t15/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs29
 [/us/usc/t49/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs45
-[/us/act/1903-02-11/ch544/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-11%2Fch544%2Fs2
+[/us/act/1903-02-11/ch544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-11%2Fch544
 [/us/stat/32/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F1167
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1150
@@ -111,11 +111,11 @@
 [/us/stat/37/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F1013
 [/us/act/1913-10-22/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-22%2Fch32
 [/us/stat/38/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F220
-[/us/act/1916-09-06/ch448/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-06%2Fch448%2Fs6
+[/us/act/1916-09-06/ch448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-06%2Fch448
 [/us/stat/39/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F727
 [/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F938
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/act/1934-06-07/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-07%2Fch426
 [/us/stat/48/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F936

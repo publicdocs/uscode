@@ -17,7 +17,7 @@
 
     The Attorney General shall give his advice and opinion on questions of law when required by the President.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612].)
 
 <table>
 
@@ -88,7 +88,7 @@ Feb. 27, 1877, ch. 69, § 1 (8th full par. on p. 241), 19 Stat. 241.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F612
 
 

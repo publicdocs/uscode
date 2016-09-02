@@ -19,7 +19,7 @@
 
     (b) The Attorney General may determine the official stations of United States attorneys and assistant United States attorneys within the districts for which they are appointed.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618]; amended [Pub. L. 95–530, § 1][/us/pl/95/530/s1], Oct. 27, 1978, [92 Stat. 2028][/us/stat/92/2028]; [Pub. L. 96–91][/us/pl/96/91], Oct. 25, 1979, [93 Stat. 700][/us/stat/93/700]; [Pub. L. 103–322, title XXXII, § 320932][/us/pl/103/322/s320932], Sept. 13, 1994, [108 Stat. 2135][/us/stat/108/2135]; [Pub. L. 109–177, title V, § 501(a)][/us/pl/109/177/s501/a], Mar. 9, 2006, [120 Stat. 246][/us/stat/120/246].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 618][/us/stat/80/618]; amended [Pub. L. 95–530][/us/pl/95/530], § 1, Oct. 27, 1978, [92 Stat. 2028][/us/stat/92/2028]; [Pub. L. 96–91][/us/pl/96/91], Oct. 25, 1979, [93 Stat. 700][/us/stat/93/700]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320932, Sept. 13, 1994, [108 Stat. 2135][/us/stat/108/2135]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 501(a), Mar. 9, 2006, [120 Stat. 246][/us/stat/120/246].)
 
 <table>
 
@@ -79,7 +79,7 @@ Statutes at Large  </td>
 
  __1948__  __Act__ 
 
-    Prior section 505.—Based on title 28, U.S.C., 1940 ed., § 524 ([June 20, 1874, ch. 328, § 2][/us/act/1874-06-20/ch328/s2], [18 Stat. 109][/us/stat/18/109]; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], §§ 8, 12, [29 Stat. 181][/us/stat/29/181], 183; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [June 14, 1941, ch. 203][/us/act/1941-06-14/ch203], §§ 1, 2, [55 Stat. 251][/us/stat/55/251]).
+    Prior section 505.—Based on title 28, U.S.C., 1940 ed., § 524 ([June 20, 1874, ch. 328][/us/act/1874-06-20/ch328], § 2, [18 Stat. 109][/us/stat/18/109]; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], §§ 8, 12, [29 Stat. 181][/us/stat/29/181], 183; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [June 14, 1941, ch. 203][/us/act/1941-06-14/ch203], §§ 1, 2, [55 Stat. 251][/us/stat/55/251]).
 
     The provisions of [section 524 of title 28][/us/usc/t28/s524], U.S.C., 1940 ed., that the United States attorney shall give his personal attention to the duties of his office and declaring the office of United States attorney vacant upon his removal from his district or neglect of duty, were omitted as unnecessary and inconsistent with section 507(b) \[now 519\] of this title, charging the Attorney General with the duty of supervising the United States attorneys in the performance of their duties.
 
@@ -93,7 +93,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 545, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 911][/us/stat/62/911], related to vacancies in the office of the United States Marshal, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 565 of this title][/us/usc/t28/s565] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 545, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 911][/us/stat/62/911], related to vacancies in the office of the United States Marshal, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 565 of this title][/us/usc/t28/s565] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
  __Amendments__ 
 
@@ -107,7 +107,7 @@ Statutes at Large  </td>
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–177, title V, § 501(b)][/us/pl/109/177/s501/b], Mar. 9, 2006, [120 Stat. 246][/us/stat/120/246], provided that: 
+[Pub. L. 109–177, title V][/us/pl/109/177/tV], § 501(b), Mar. 9, 2006, [120 Stat. 246][/us/stat/120/246], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as of February 1, 2005.”
 
@@ -118,21 +118,21 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F618
-[/us/pl/95/530/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F530%2Fs1
+[/us/pl/95/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F530
 [/us/stat/92/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2028
 [/us/pl/96/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F91
 [/us/stat/93/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F700
-[/us/pl/103/322/s320932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320932
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2135
-[/us/pl/109/177/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs501%2Fa
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F246
-[/us/act/1874-06-20/ch328/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch328%2Fs2
+[/us/act/1874-06-20/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch328
 [/us/stat/18/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F109
 [/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F181
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/act/1941-06-14/ch203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-14%2Fch203
 [/us/stat/55/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F251
@@ -140,14 +140,14 @@ Statutes at Large  </td>
 [/us/usc/t28/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs524
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F911
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs565
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/96/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F91
 [/us/pl/95/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F530
-[/us/pl/109/177/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs501%2Fb
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F246
 
 

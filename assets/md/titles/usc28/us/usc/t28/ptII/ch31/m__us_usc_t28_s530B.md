@@ -21,11 +21,11 @@
 
     (c) As used in this section, the term “attorney for the Government” includes any attorney described in section 77.2(a) of part 77 of title 28 of the Code of Federal Regulations and also includes any independent counsel, or employee of such a counsel, appointed under chapter 40.
 
-(Added [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title VIII, § 801(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–118.)
+(Added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title VIII, § 801(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–118.)
 
  __Effective Date__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title VIII, § 801(c)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–119, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title VIII, § 801(c)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–119, provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 21, 1998\] and shall apply during that portion of fiscal year 1999 that follows that taking effect, and in each succeeding fiscal year.”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 
 

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 48 ([Mar. 3, 1911, ch. 231, § 211][/us/act/1911-03-03/ch231/s211], [36 Stat. 1150][/us/stat/36/1150]; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], [38 Stat. 219][/us/stat/38/219]).
+    Based on title 28, U.S.C., 1940 ed., § 48 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 211, [36 Stat. 1150][/us/stat/36/1150]; [Oct. 22, 1913, ch. 32][/us/act/1913-10-22/ch32], [38 Stat. 219][/us/stat/38/219]).
 
     Word “actions” was substituted for “cases and proceedings”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -37,7 +37,7 @@
 [/us/usc/t28/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2321
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F969
-[/us/act/1911-03-03/ch231/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs211
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1150
 [/us/act/1913-10-22/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-10-22%2Fch32
 [/us/stat/38/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F219

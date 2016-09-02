@@ -17,7 +17,7 @@
 
     The district court shall not hold formal terms.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139, § 1][/us/pl/88/139/s1], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139][/us/pl/88/139], § 1, Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248].)
 
  __Historical and Revision Notes__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F897
-[/us/pl/88/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs1
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 [/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
 [/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 

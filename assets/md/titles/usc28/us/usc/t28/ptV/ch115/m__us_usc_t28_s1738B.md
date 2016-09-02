@@ -143,11 +143,11 @@
 
     If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
 
-(Added [Pub. L. 103–383, § 3(a)][/us/pl/103/383/s3/a], Oct. 20, 1994, [108 Stat. 4064][/us/stat/108/4064]; amended [Pub. L. 104–193, title III, § 322][/us/pl/104/193/s322], Aug. 22, 1996, [110 Stat. 2221][/us/stat/110/2221]; [Pub. L. 105–33, title V, § 5554][/us/pl/105/33/s5554], Aug. 5, 1997, [111 Stat. 636][/us/stat/111/636]; [Pub. L. 113–183, title III, § 301(f)(2)][/us/pl/113/183/s301/f/2], Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
+(Added [Pub. L. 103–383][/us/pl/103/383], § 3(a), Oct. 20, 1994, [108 Stat. 4064][/us/stat/108/4064]; amended [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 322, Aug. 22, 1996, [110 Stat. 2221][/us/stat/110/2221]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5554, Aug. 5, 1997, [111 Stat. 636][/us/stat/111/636]; [Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(f)(2), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 113–183, title III, § 301(f)(2)(A)][/us/pl/113/183/s301/f/2/A], (B), (3)(B)(i), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944], 1945, provided that, effective on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States, this section is amended as follows:
+    [Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(f)(2)(A), (B), (3)(B)(i), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944], 1945, provided that, effective on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States, this section is amended as follows:
 
     (1) in subsection (d), by striking “individual contestant” and inserting “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,”; and
 
@@ -157,47 +157,47 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–183, § 301(f)(2)(C)][/us/pl/113/183/s301/f/2/C], inserted designations for pars. (1) to (9) and “The term” after each designation.
+    2014—Subsec. (b). [Pub. L. 113–183][/us/pl/113/183], § 301(f)(2)(C), inserted designations for pars. (1) to (9) and “The term” after each designation.
 
-    Subsec. (d). [Pub. L. 113–183, § 301(f)(2)(A)][/us/pl/113/183/s301/f/2/A], substituted “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,” for “individual contestant”.
+    Subsec. (d). [Pub. L. 113–183][/us/pl/113/183], § 301(f)(2)(A), substituted “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,” for “individual contestant”.
 
-    Subsec. (e)(2)(A). [Pub. L. 113–183, § 301(f)(2)(B)][/us/pl/113/183/s301/f/2/B], substituted “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order” for “individual contestant”.
+    Subsec. (e)(2)(A). [Pub. L. 113–183][/us/pl/113/183], § 301(f)(2)(B), substituted “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order” for “individual contestant”.
 
-    1997—Subsec. (f)(4). [Pub. L. 105–33, § 5554(1)][/us/pl/105/33/s5554/1], substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
+    1997—Subsec. (f)(4). [Pub. L. 105–33][/us/pl/105/33], § 5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
 
-    Subsec. (f)(5). [Pub. L. 105–33, § 5554(2)][/us/pl/105/33/s5554/2], inserted “under subsection (d)” after “jurisdiction”.
+    Subsec. (f)(5). [Pub. L. 105–33][/us/pl/105/33], § 5554(2), inserted “under subsection (d)” after “jurisdiction”.
 
-    1996—Subsec. (a)(2). [Pub. L. 104–193, § 322(1)][/us/pl/104/193/s322/1], substituted “subsections (e), (f), and (i)” for “subsection (e)”.
+    1996—Subsec. (a)(2). [Pub. L. 104–193][/us/pl/104/193], § 322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
 
-    Subsec. (b). [Pub. L. 104–193, § 322(2)][/us/pl/104/193/s322/2], inserted par. defining “child’s home State”.
+    Subsec. (b). [Pub. L. 104–193][/us/pl/104/193], § 322(2), inserted par. defining “child’s home State”.
 
-    Subsec. (c). [Pub. L. 104–193, § 322(3)][/us/pl/104/193/s322/3], inserted “by a court of a State” before “is made” in introductory provisions.
+    Subsec. (c). [Pub. L. 104–193][/us/pl/104/193], § 322(3), inserted “by a court of a State” before “is made” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 104–193, § 322(4)][/us/pl/104/193/s322/4], inserted “and subsections (e), (f), and (g)” after “located”.
+    Subsec. (c)(1). [Pub. L. 104–193][/us/pl/104/193], § 322(4), inserted “and subsections (e), (f), and (g)” after “located”.
 
-    Subsec. (d). [Pub. L. 104–193, § 322(5)][/us/pl/104/193/s322/5], inserted “individual” before “contestant” and substituted “subsections (e) and (f)” for “subsection (e)”.
+    Subsec. (d). [Pub. L. 104–193][/us/pl/104/193], § 322(5), inserted “individual” before “contestant” and substituted “subsections (e) and (f)” for “subsection (e)”.
 
-    Subsec. (e). [Pub. L. 104–193, § 322(6)][/us/pl/104/193/s322/6], substituted “modify a child support order issued” for “make a modification of a child support order with respect to a child that is made” in introductory provisions.
+    Subsec. (e). [Pub. L. 104–193][/us/pl/104/193], § 322(6), substituted “modify a child support order issued” for “make a modification of a child support order with respect to a child that is made” in introductory provisions.
 
-    Subsec. (e)(1). [Pub. L. 104–193, § 322(7)][/us/pl/104/193/s322/7], inserted “pursuant to subsection (i)” after “order”.
+    Subsec. (e)(1). [Pub. L. 104–193][/us/pl/104/193], § 322(7), inserted “pursuant to subsection (i)” after “order”.
 
-    Subsec. (e)(2). [Pub. L. 104–193, § 322(8)][/us/pl/104/193/s322/8], inserted “individual” before “contestant” in subpars. (A) and (B) and substituted “with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume” for “to that court’s making the modification and assuming” in subpar. (B).
+    Subsec. (e)(2). [Pub. L. 104–193][/us/pl/104/193], § 322(8), inserted “individual” before “contestant” in subpars. (A) and (B) and substituted “with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume” for “to that court’s making the modification and assuming” in subpar. (B).
 
-    Subsec. (f). [Pub. L. 104–193, § 322(10)][/us/pl/104/193/s322/10], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 104–193][/us/pl/104/193], § 322(10), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 104–193, § 322(11)][/us/pl/104/193/s322/11], substituted “Modified” for “Prior” in heading and “subsections (e) and (f)” for “subsection (e)” in text.
+    Subsec. (g). [Pub. L. 104–193][/us/pl/104/193], § 322(11), substituted “Modified” for “Prior” in heading and “subsections (e) and (f)” for “subsection (e)” in text.
 
-    [Pub. L. 104–193, § 322(9)][/us/pl/104/193/s322/9], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    [Pub. L. 104–193][/us/pl/104/193], § 322(9), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 104–193, § 322(12)][/us/pl/104/193/s322/12], inserted “including the duration of current payments and other obligations of support” before comma in par. (2) and “arrears under” after “enforce” in par. (3).
+    Subsec. (h). [Pub. L. 104–193][/us/pl/104/193], § 322(12), inserted “including the duration of current payments and other obligations of support” before comma in par. (2) and “arrears under” after “enforce” in par. (3).
 
-    [Pub. L. 104–193, § 322(9)][/us/pl/104/193/s322/9], redesignated subsec. (g) as (h).
+    [Pub. L. 104–193][/us/pl/104/193], § 322(9), redesignated subsec. (g) as (h).
 
-    Subsec. (i). [Pub. L. 104–193, § 322(13)][/us/pl/104/193/s322/13], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–193][/us/pl/104/193], § 322(13), added subsec. (i).
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–183, title III, § 301(f)(3)(B)][/us/pl/113/183/s301/f/3/B], Sept. 29, 2014, [128 Stat. 1945][/us/stat/128/1945], provided that:
+[Pub. L. 113–183, title III][/us/pl/113/183/tIII], § 301(f)(3)(B), Sept. 29, 2014, [128 Stat. 1945][/us/stat/128/1945], provided that:
 
 >     “(i) The amendments made by subparagraphs (A) and (B) of paragraph (2) \[amending this section\] shall take effect on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States.
 
@@ -213,7 +213,7 @@
 
  __Congressional Findings and Declaration of Purpose__ 
 
-[Pub. L. 103–383, § 2][/us/pl/103/383/s2], Oct. 20, 1994, [108 Stat. 4063][/us/stat/108/4063], provided that:
+[Pub. L. 103–383][/us/pl/103/383], § 2, Oct. 20, 1994, [108 Stat. 4063][/us/stat/108/4063], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -271,36 +271,36 @@
 ----------
 
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/103/383/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F383%2Fs3%2Fa
+[/us/pl/103/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F383
 [/us/stat/108/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4064
-[/us/pl/104/193/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2221
-[/us/pl/105/33/s5554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5554
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F636
-[/us/pl/113/183/s301/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
-[/us/pl/113/183/s301/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2%2FA
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
-[/us/pl/113/183/s301/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2%2FC
-[/us/pl/113/183/s301/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2%2FA
-[/us/pl/113/183/s301/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2%2FB
-[/us/pl/105/33/s5554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5554%2F1
-[/us/pl/105/33/s5554/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5554%2F2
-[/us/pl/104/193/s322/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F1
-[/us/pl/104/193/s322/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F2
-[/us/pl/104/193/s322/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F3
-[/us/pl/104/193/s322/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F4
-[/us/pl/104/193/s322/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F5
-[/us/pl/104/193/s322/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F6
-[/us/pl/104/193/s322/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F7
-[/us/pl/104/193/s322/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F8
-[/us/pl/104/193/s322/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F10
-[/us/pl/104/193/s322/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F11
-[/us/pl/104/193/s322/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F9
-[/us/pl/104/193/s322/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F12
-[/us/pl/104/193/s322/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F9
-[/us/pl/104/193/s322/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F13
-[/us/pl/113/183/s301/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F3%2FB
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/113/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2FtIII
 [/us/stat/128/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1945
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
@@ -309,7 +309,7 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/103/383/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F383%2Fs2
+[/us/pl/103/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F383
 [/us/stat/108/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4063
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 

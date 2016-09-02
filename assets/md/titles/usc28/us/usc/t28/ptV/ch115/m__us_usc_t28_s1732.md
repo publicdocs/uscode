@@ -17,11 +17,11 @@
 
     If any business, institution, member of a profession or calling, or any department or agency of government, in the regular course of business or activity has kept or recorded any memorandum, writing, entry, print, representation or combination thereof, of any act, transaction, occurrence, or event, and in the regular course of business has caused any or all of the same to be recorded, copied, or reproduced by any photographic, photostatic, microfilm, micro-card, miniature photographic, or other process which accurately reproduces or forms a durable medium for so reproducing the original, the original may be destroyed in the regular course of business unless its preservation is required by law. Such reproduction, when satisfactorily identified, is as admissible in evidence as the original itself in any judicial or administrative proceeding whether the original is in existence or not and an enlargement or facsimile of such reproduction is likewise admissible in evidence if the original reproduction is in existence and available for inspection under direction of court. The introduction of a reproduced record, enlargement, or facsimile does not preclude admission of the original. This subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  shall not be construed to exclude from evidence any document or copy thereof which is otherwise admissible under the rules of evidence.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 945][/us/stat/62/945]; [Aug. 28, 1951, ch. 351][/us/act/1951-08-28/ch351], §§ 1, 3, [65 Stat. 205][/us/stat/65/205], 206; [Pub. L. 87–183][/us/pl/87/183], Aug. 30, 1961, [75 Stat. 413][/us/stat/75/413]; [Pub. L. 93–595, § 2(b)][/us/pl/93/595/s2/b], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 945][/us/stat/62/945]; [Aug. 28, 1951, ch. 351][/us/act/1951-08-28/ch351], §§ 1, 3, [65 Stat. 205][/us/stat/65/205], 206; [Pub. L. 87–183][/us/pl/87/183], Aug. 30, 1961, [75 Stat. 413][/us/stat/75/413]; [Pub. L. 93–595][/us/pl/93/595], § 2(b), Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 695 ([June 20, 1936, ch. 640, § 1][/us/act/1936-06-20/ch640/s1], [49 Stat. 1561][/us/stat/49/1561]).
+    Based on title 28, U.S.C., 1940 ed., § 695 ([June 20, 1936, ch. 640][/us/act/1936-06-20/ch640], § 1, [49 Stat. 1561][/us/stat/49/1561]).
 
     Changes in phraseology were made.
 
@@ -48,9 +48,9 @@
 [/us/stat/65/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F205
 [/us/pl/87/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F183
 [/us/stat/75/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F413
-[/us/pl/93/595/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F595%2Fs2%2Fb
+[/us/pl/93/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F595
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/act/1936-06-20/ch640/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640%2Fs1
+[/us/act/1936-06-20/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640
 [/us/stat/49/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1561
 [/us/pl/93/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F595
 [/us/pl/87/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F183

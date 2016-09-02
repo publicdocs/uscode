@@ -21,7 +21,7 @@
 
     (2) members of a mission or members of their families (as such terms are defined in section 2 of the Diplomatic Relations Act).
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 934][/us/stat/62/934]; [May 24, 1949, ch. 139, § 80(c)][/us/act/1949-05-24/ch139/s80/c], [63 Stat. 101][/us/stat/63/101]; [Pub. L. 95–393, § 8(a)(1)][/us/pl/95/393/s8/a/1], Sept. 30, 1978, [92 Stat. 810][/us/stat/92/810].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 934][/us/stat/62/934]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 80(c), [63 Stat. 101][/us/stat/63/101]; [Pub. L. 95–393][/us/pl/95/393], § 8(a)(1), Sept. 30, 1978, [92 Stat. 810][/us/stat/92/810].)
 
  __Historical and Revision Notes__ 
 
@@ -54,9 +54,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F934
-[/us/act/1949-05-24/ch139/s80/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs80%2Fc
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F101
-[/us/pl/95/393/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs8%2Fa%2F1
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F810
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1093

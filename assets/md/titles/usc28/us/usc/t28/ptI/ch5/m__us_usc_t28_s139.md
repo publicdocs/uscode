@@ -17,7 +17,7 @@
 
     The times for commencing regular sessions of the district court for transacting judicial business at the places fixed by this chapter shall be determined by the rules or orders of the court. Such rules or orders may provide that at one or more of such places the court shall be in continuous session for such purposes on all business days throughout the year. At other places a session of the court shall continue for such purposes until terminated by order of final adjournment or by commencement of the next regular session at the same place.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139, § 1][/us/pl/88/139/s1], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 897][/us/stat/62/897]; [Pub. L. 88–139][/us/pl/88/139], § 1, Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248].)
 
  __Historical and Revision Notes__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F897
-[/us/pl/88/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs1
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 [/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
 [/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 

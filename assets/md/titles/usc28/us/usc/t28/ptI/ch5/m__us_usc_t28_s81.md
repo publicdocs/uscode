@@ -77,11 +77,11 @@ Southern District
 
     Court for the Southern Division shall be held at Mobile.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 873][/us/stat/62/873]; [Pub. L. 87–36, § 3(a)][/us/pl/87/36/s3/a], May 19, 1961, [75 Stat. 83][/us/stat/75/83].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 873][/us/stat/62/873]; [Pub. L. 87–36][/us/pl/87/36], § 3(a), May 19, 1961, [75 Stat. 83][/us/stat/75/83].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed. § 142 ([Mar. 3, 1911, ch. 231, § 70][/us/act/1911-03-03/ch231/s70], [36 Stat. 1105][/us/stat/36/1105]; [Feb. 28, 1913, ch. 89][/us/act/1913-02-28/ch89], [37 Stat. 698][/us/stat/37/698]; [June 27, 1922, ch. 247][/us/act/1922-06-27/ch247], [42 Stat. 667][/us/stat/42/667]).
+    Based on title 28, U.S.C., 1940 ed. § 142 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 70, [36 Stat. 1105][/us/stat/36/1105]; [Feb. 28, 1913, ch. 89][/us/act/1913-02-28/ch89], [37 Stat. 698][/us/stat/37/698]; [June 27, 1922, ch. 247][/us/act/1922-06-27/ch247], [42 Stat. 667][/us/stat/42/667]).
 
     Provisions relating to the places for the maintenance of the clerks’ offices were omitted as covered by [section 751 of this title][/us/usc/t28/s751], providing that deputy clerks may be designated to reside and maintain offices at such places for holding court as the judge may determine.
 
@@ -106,9 +106,9 @@ Southern District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F873
-[/us/pl/87/36/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36%2Fs3%2Fa
+[/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/stat/75/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F83
-[/us/act/1911-03-03/ch231/s70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs70
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1105
 [/us/act/1913-02-28/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-28%2Fch89
 [/us/stat/37/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F698

@@ -35,11 +35,11 @@ Western District
 
     Court for the Western District shall be held at Alexandria, Lafayette, Lake Charles, Monroe, Opelousas, and Shreveport.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 881][/us/stat/62/881]; [Pub. L. 87–36, § 4][/us/pl/87/36/s4], May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 92–208, § 3(a)][/us/pl/92/208/s3/a], Dec. 18, 1971, [85 Stat. 741][/us/stat/85/741]; [Pub. L. 95–408, § 3(a)][/us/pl/95/408/s3/a], Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883]; [Pub. L. 98–353, title II, § 203(b)][/us/pl/98/353/s203/b], July 10, 1984, [98 Stat. 350][/us/stat/98/350].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 881][/us/stat/62/881]; [Pub. L. 87–36][/us/pl/87/36], § 4, May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 92–208][/us/pl/92/208], § 3(a), Dec. 18, 1971, [85 Stat. 741][/us/stat/85/741]; [Pub. L. 95–408][/us/pl/95/408], § 3(a), Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883]; [Pub. L. 98–353, title II][/us/pl/98/353/tII], § 203(b), July 10, 1984, [98 Stat. 350][/us/stat/98/350].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 159 ([Mar. 3, 1911, ch. 231, § 84][/us/act/1911-03-03/ch231/s84], [36 Stat. 1113][/us/stat/36/1113]).
+    Based on title 28, U.S.C., 1940 ed., § 159 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 84, [36 Stat. 1113][/us/stat/36/1113]).
 
     Provisions relating to the maintenance of offices by the clerks were omitted as covered by sections 452 and 751 of this title.
 
@@ -63,13 +63,13 @@ Western District
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 92–208, § 3(f)][/us/pl/92/208/s3/f], Dec. 18, 1971, [85 Stat. 742][/us/stat/85/742], provided that: 
+[Pub. L. 92–208][/us/pl/92/208], § 3(f), Dec. 18, 1971, [85 Stat. 742][/us/stat/85/742], provided that: 
 
 > “The provisions of this section \[amending this section and sections 133 and 134 of this title and enacting provisions set out below\] shall become effective one hundred and twenty days after the date of enactment of this Act \[Dec. 18, 1971\].”
 
  __District Judge, United States Attorney, and United States Marshal for Middle District; Designation; Tenure; Appointment__ 
 
-[Pub. L. 92–208, § 3(b)][/us/pl/92/208/s3/b], (c), Dec. 18, 1971, [85 Stat. 742][/us/stat/85/742], provided that:
+[Pub. L. 92–208][/us/pl/92/208], § 3(b), (c), Dec. 18, 1971, [85 Stat. 742][/us/stat/85/742], provided that:
 
 >     “(b) The district judge for the Eastern District of Louisiana holding office on the day immediately prior to the effective date of this section \[see Effective Date of 1971 Amendment Note above\], and whose official station on such date is Baton Rouge, shall, on and after such date, be the district judge for the Middle District of Louisiana. All other district judges for the Eastern District of Louisiana holding office on the day immediately prior to the effective date of this section shall be district judges for the Eastern District of Louisiana as constituted by this section.
 
@@ -88,15 +88,15 @@ Western District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F881
-[/us/pl/87/36/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36%2Fs4
+[/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/stat/75/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F83
-[/us/pl/92/208/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F208%2Fs3%2Fa
+[/us/pl/92/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F208
 [/us/stat/85/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F741
-[/us/pl/95/408/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs3%2Fa
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/stat/92/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F883
-[/us/pl/98/353/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs203%2Fb
+[/us/pl/98/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtII
 [/us/stat/98/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F350
-[/us/act/1911-03-03/ch231/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs84
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1113
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
@@ -105,9 +105,9 @@ Western District
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/pl/95/408/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs5
 [/us/usc/t28/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs89
-[/us/pl/92/208/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F208%2Fs3%2Ff
+[/us/pl/92/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F208
 [/us/stat/85/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F742
-[/us/pl/92/208/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F208%2Fs3%2Fb
+[/us/pl/92/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F208
 [/us/stat/85/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F742
 
 

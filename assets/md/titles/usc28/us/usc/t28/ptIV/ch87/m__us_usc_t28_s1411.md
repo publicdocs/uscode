@@ -19,7 +19,7 @@
 
     (b) The district court may order the issues arising under [section 303 of title 11][/us/usc/t11/s303] to be tried without a jury.
 
-(Added [Pub. L. 98–353, title I, § 102(a)][/us/pl/98/353/s102/a], July 10, 1984, [98 Stat. 335][/us/stat/98/335].)
+(Added [Pub. L. 98–353, title I][/us/pl/98/353/tI], § 102(a), July 10, 1984, [98 Stat. 335][/us/stat/98/335].)
 
  __Effective Date__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t11/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs303
-[/us/pl/98/353/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs102%2Fa
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F335
 [/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
 [/us/usc/t28/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs151

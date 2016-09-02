@@ -227,11 +227,11 @@
 
     (y) The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs to the Government of any imprisonment, supervised release, or probation sentence that is ordered.
 
-(Added [Pub. L. 98–473, title II, § 217(a)][/us/pl/98/473/s217/a], Oct. 12, 1984, [98 Stat. 2019][/us/stat/98/2019]; amended [Pub. L. 99–217, § 3][/us/pl/99/217/s3], Dec. 26, 1985, [99 Stat. 1728][/us/stat/99/1728]; [Pub. L. 99–363, § 2][/us/pl/99/363/s2], July 11, 1986, [100 Stat. 770][/us/stat/100/770]; [Pub. L. 99–570, title I][/us/pl/99/570], §§ 1006(b), 1008, Oct. 27, 1986, [100 Stat. 3207–7][/us/stat/100/3207-7]; [Pub. L. 99–646][/us/pl/99/646], §§ 6(b), 56, Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592], 3611; [Pub. L. 100–182][/us/pl/100/182], §§ 16(b), 23, Dec. 7, 1987, [101 Stat. 1269][/us/stat/101/1269], 1271; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7083, 7103(b), 7109, Nov. 18, 1988, [102 Stat. 4408][/us/stat/102/4408], 4417, 4419; [Pub. L. 103–322, title II, § 20403(b)][/us/pl/103/322/s20403/b], title XXVIII, § 280005(c)(4), title XXXIII, § 330003(f)(1), Sept. 13, 1994, [108 Stat. 1825][/us/stat/108/1825], 2097, 2141; [Pub. L. 108–21, title IV, § 401(h)][/us/pl/108/21/s401/h], (k), Apr. 30, 2003, [117 Stat. 672][/us/stat/117/672], 674; [Pub. L. 109–177, title VII, § 735][/us/pl/109/177/s735], Mar. 9, 2006, [120 Stat. 271][/us/stat/120/271]; [Pub. L. 109–304, § 17(f)(1)][/us/pl/109/304/s17/f/1], Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 217(a), Oct. 12, 1984, [98 Stat. 2019][/us/stat/98/2019]; amended [Pub. L. 99–217][/us/pl/99/217], § 3, Dec. 26, 1985, [99 Stat. 1728][/us/stat/99/1728]; [Pub. L. 99–363][/us/pl/99/363], § 2, July 11, 1986, [100 Stat. 770][/us/stat/100/770]; [Pub. L. 99–570, title I][/us/pl/99/570/tI], §§ 1006(b), 1008, Oct. 27, 1986, [100 Stat. 3207–7][/us/stat/100/3207-7]; [Pub. L. 99–646][/us/pl/99/646], §§ 6(b), 56, Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592], 3611; [Pub. L. 100–182][/us/pl/100/182], §§ 16(b), 23, Dec. 7, 1987, [101 Stat. 1269][/us/stat/101/1269], 1271; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7083, 7103(b), 7109, Nov. 18, 1988, [102 Stat. 4408][/us/stat/102/4408], 4417, 4419; [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20403(b), title XXVIII, § 280005(c)(4), title XXXIII, § 330003(f)(1), Sept. 13, 1994, [108 Stat. 1825][/us/stat/108/1825], 2097, 2141; [Pub. L. 108–21, title IV][/us/pl/108/21/tIV], § 401(h), (k), Apr. 30, 2003, [117 Stat. 672][/us/stat/117/672], 674; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 735, Mar. 9, 2006, [120 Stat. 271][/us/stat/120/271]; [Pub. L. 109–304][/us/pl/109/304], § 17(f)(1), Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708].)
 
  __References in Text__ 
 
-    Paragraphs (6) and (11) of [section 3563(b) of title 18][/us/usc/t18/s3563/b], referred to in subsec. (a)(1)(E), were renumbered paragraphs (5) and (10), respectively, of section 3563(b) by [Pub. L. 104–132, title II, § 203(2)(B)][/us/pl/104/132/s203/2/B], Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227].
+    Paragraphs (6) and (11) of [section 3563(b) of title 18][/us/usc/t18/s3563/b], referred to in subsec. (a)(1)(E), were renumbered paragraphs (5) and (10), respectively, of section 3563(b) by [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 203(2)(B), Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227].
 
     The Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)(E), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -239,57 +239,57 @@
 
     2006—Subsec. (h)(1)(B), (2)(B). [Pub. L. 109–304][/us/pl/109/304] substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-    Subsec. (w)(1). [Pub. L. 109–177, § 735(1)(A)][/us/pl/109/177/s735/1/A], (C), inserted “, in a format approved and required by the Commission,” after “submits to the Commission” in introductory provisions and inserted concluding provisions.
+    Subsec. (w)(1). [Pub. L. 109–177][/us/pl/109/177], § 735(1)(A), (C), inserted “, in a format approved and required by the Commission,” after “submits to the Commission” in introductory provisions and inserted concluding provisions.
 
-    Subsec. (w)(1)(B). [Pub. L. 109–177, § 735(1)(B)][/us/pl/109/177/s735/1/B], inserted “written” before “statement of reasons for the sentence imposed” and “and which shall be stated on the written statement of reasons form issued by the Judicial Conference and approved by the United States Sentencing Commission” after “applicable guideline range”.
+    Subsec. (w)(1)(B). [Pub. L. 109–177][/us/pl/109/177], § 735(1)(B), inserted “written” before “statement of reasons for the sentence imposed” and “and which shall be stated on the written statement of reasons form issued by the Judicial Conference and approved by the United States Sentencing Commission” after “applicable guideline range”.
 
-    Subsec. (w)(4). [Pub. L. 109–177, § 735(2)][/us/pl/109/177/s735/2], substituted “itself may assemble or maintain in electronic form as a result of the” for “may assemble or maintain in electronic form that include any”.
+    Subsec. (w)(4). [Pub. L. 109–177][/us/pl/109/177], § 735(2), substituted “itself may assemble or maintain in electronic form as a result of the” for “may assemble or maintain in electronic form that include any”.
 
-    2003—Subsec. (a). [Pub. L. 108–21, § 401(k)][/us/pl/108/21/s401/k], substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
+    2003—Subsec. (a). [Pub. L. 108–21][/us/pl/108/21], § 401(k), substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
 
-    Subsec. (w). [Pub. L. 108–21, § 401(h)][/us/pl/108/21/s401/h], amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.”
+    Subsec. (w). [Pub. L. 108–21][/us/pl/108/21], § 401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.”
 
-    1994—Subsec. (h)(1)(B), (2)(B). [Pub. L. 103–322, § 330003(f)(1)][/us/pl/103/322/s330003/f/1], substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “[section 1 of the Act of September 15, 1980][/us/act/1980-09-15/s1] ([21 U.S.C. 955a][/us/usc/t21/s955a])”.
+    1994—Subsec. (h)(1)(B), (2)(B). [Pub. L. 103–322][/us/pl/103/322], § 330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “[section 1 of the Act of September 15, 1980][/us/act/1980-09-15/s1] ([21 U.S.C. 955a][/us/usc/t21/s955a])”.
 
-    Subsec. (i)(2). [Pub. L. 103–322, § 280005(c)(4)][/us/pl/103/322/s280005/c/4], substituted “the defendant” for “he” and “the defendant’s” for “his”.
+    Subsec. (i)(2). [Pub. L. 103–322][/us/pl/103/322], § 280005(c)(4), substituted “the defendant” for “he” and “the defendant’s” for “his”.
 
-    Subsec. (y). [Pub. L. 103–322, § 20403(b)][/us/pl/103/322/s20403/b], added subsec. (y).
+    Subsec. (y). [Pub. L. 103–322][/us/pl/103/322], § 20403(b), added subsec. (y).
 
-    1988—Subsec. (a)(1)(E). [Pub. L. 100–690, § 7103(b)][/us/pl/100/690/s7103/b], added subpar. (E).
+    1988—Subsec. (a)(1)(E). [Pub. L. 100–690][/us/pl/100/690], § 7103(b), added subpar. (E).
 
-    Subsec. (n). [Pub. L. 100–690, § 7083][/us/pl/100/690/s7083], substituted “as a minimum sentence” for “as minimum sentence”.
+    Subsec. (n). [Pub. L. 100–690][/us/pl/100/690], § 7083, substituted “as a minimum sentence” for “as minimum sentence”.
 
-    Subsec. (p). [Pub. L. 100–690, § 7109][/us/pl/100/690/s7109], amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress.”
+    Subsec. (p). [Pub. L. 100–690][/us/pl/100/690], § 7109, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress.”
 
-    1987—Subsec. (r). [Pub. L. 100–182, § 23(a)][/us/pl/100/182/s23/a], substituted “two years” for “one year”.
+    1987—Subsec. (r). [Pub. L. 100–182][/us/pl/100/182], § 23(a), substituted “two years” for “one year”.
 
-    Subsec. (s). [Pub. L. 100–182, § 23(b)][/us/pl/100/182/s23/b], struck out at end: “Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices.”
+    Subsec. (s). [Pub. L. 100–182][/us/pl/100/182], § 23(b), struck out at end: “Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices.”
 
-    Subsec. (w). [Pub. L. 100–182, § 16(b)][/us/pl/100/182/s16/b], inserted “(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)” after “each sentence imposed”.
+    Subsec. (w). [Pub. L. 100–182][/us/pl/100/182], § 16(b), inserted “(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)” after “each sentence imposed”.
 
-    1986—Subsec. (a)(2)(C). [Pub. L. 99–363, § 2(1)(B)][/us/pl/99/363/s2/1/B], amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
+    1986—Subsec. (a)(2)(C). [Pub. L. 99–363][/us/pl/99/363], § 2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
 
-    Subsec. (a)(2)(D) to (F). [Pub. L. 99–363, § 2(1)(A)][/us/pl/99/363/s2/1/A], (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+    Subsec. (a)(2)(D) to (F). [Pub. L. 99–363][/us/pl/99/363], § 2(1)(A), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-    Subsec. (a)(3). [Pub. L. 99–570, § 1006(b)][/us/pl/99/570/s1006/b], inserted “and revocation of supervised release” after “supervised release”.
+    Subsec. (a)(3). [Pub. L. 99–570][/us/pl/99/570], § 1006(b), inserted “and revocation of supervised release” after “supervised release”.
 
-    [Pub. L. 99–363, § 2(2)][/us/pl/99/363/s2/2], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “guidelines or general policy statements regarding the appropriate use of the probation revocation provisions set forth in [section 3565 of title 18][/us/usc/t18/s3565], and the provisions for modification of the term or conditions of probation or supervised release set forth in sections 3563(c), 3564(d), and 3583(e) of title 18.”
+    [Pub. L. 99–363][/us/pl/99/363], § 2(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “guidelines or general policy statements regarding the appropriate use of the probation revocation provisions set forth in [section 3565 of title 18][/us/usc/t18/s3565], and the provisions for modification of the term or conditions of probation or supervised release set forth in sections 3563(c), 3564(d), and 3583(e) of title 18.”
 
-    Subsec. (b). [Pub. L. 99–363, § 2(3)][/us/pl/99/363/s2/3], designated existing provisions as pars. (1) and (2), and in par. (2) substituted “the greater of 25 percent or 6 months, except that, if the maximum term of the range is 30 years or more, the maximum may be life imprisonment” for “25 per centum”.
+    Subsec. (b). [Pub. L. 99–363][/us/pl/99/363], § 2(3), designated existing provisions as pars. (1) and (2), and in par. (2) substituted “the greater of 25 percent or 6 months, except that, if the maximum term of the range is 30 years or more, the maximum may be life imprisonment” for “25 per centum”.
 
-    Subsec. (b)(2). [Pub. L. 99–646, § 56][/us/pl/99/646/s56], substituted “that, if the minimum” for “that, if the maximum”.
+    Subsec. (b)(2). [Pub. L. 99–646][/us/pl/99/646], § 56, substituted “that, if the minimum” for “that, if the maximum”.
 
-    Subsec. (h). [Pub. L. 99–646, § 6(b)(1)][/us/pl/99/646/s6/b/1], (2), substituted “guidelines specify” for “guidelines will specify” and struck out “by [section 3581(b) of title 18][/us/usc/t18/s3581/b], United States Code,” after “term authorized” in introductory text.
+    Subsec. (h). [Pub. L. 99–646][/us/pl/99/646], § 6(b)(1), (2), substituted “guidelines specify” for “guidelines will specify” and struck out “by [section 3581(b) of title 18][/us/usc/t18/s3581/b], United States Code,” after “term authorized” in introductory text.
 
-    Subsec. (i). [Pub. L. 99–646, § 6(b)(2)][/us/pl/99/646/s6/b/2], substituted “guidelines specify” for “guidelines will specify”.
+    Subsec. (i). [Pub. L. 99–646][/us/pl/99/646], § 6(b)(2), substituted “guidelines specify” for “guidelines will specify”.
 
-    Subsecs. (n) to (t). [Pub. L. 99–570, § 1008(1)][/us/pl/99/570/s1008/1], (2), added subsec. (n) and redesignated former subsecs. (n) to (t) as (o) to (u), respectively.
+    Subsecs. (n) to (t). [Pub. L. 99–570][/us/pl/99/570], § 1008(1), (2), added subsec. (n) and redesignated former subsecs. (n) to (t) as (o) to (u), respectively.
 
-    Subsec. (u). [Pub. L. 99–646, § 6(b)(3)][/us/pl/99/646/s6/b/3], which directed that subsec. (t) be amended by inserting “in what circumstances and” after “specify” and striking out “that are outside the applicable guideline ranges” after “terms of imprisonment”, was executed to subsec. (u) to reflect the probable intent of Congress and the intervening redesignation of subsec. (t) as (u) by [Pub. L. 99–570][/us/pl/99/570].
+    Subsec. (u). [Pub. L. 99–646][/us/pl/99/646], § 6(b)(3), which directed that subsec. (t) be amended by inserting “in what circumstances and” after “specify” and striking out “that are outside the applicable guideline ranges” after “terms of imprisonment”, was executed to subsec. (u) to reflect the probable intent of Congress and the intervening redesignation of subsec. (t) as (u) by [Pub. L. 99–570][/us/pl/99/570].
 
-    [Pub. L. 99–570, § 1008(2)][/us/pl/99/570/s1008/2], redesignated subsec. (t) as (u).
+    [Pub. L. 99–570][/us/pl/99/570], § 1008(2), redesignated subsec. (t) as (u).
 
-    Subsecs. (v) to (x). [Pub. L. 99–570, § 1008(2)][/us/pl/99/570/s1008/2], redesignated former subsecs. (u) to (w) as (v) to (x), respectively.
+    Subsecs. (v) to (x). [Pub. L. 99–570][/us/pl/99/570], § 1008(2), redesignated former subsecs. (u) to (w) as (v) to (x), respectively.
 
     1985—Subsec. (q). [Pub. L. 99–217][/us/pl/99/217] substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
 
@@ -303,197 +303,197 @@
 
  __Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines__ 
 
-    [Pub. L. 112–269, § 3][/us/pl/112/269/s3], Jan. 14, 2013, [126 Stat. 2442][/us/stat/126/2442].—Transmission or attempted transmission of stolen trade secrets outside of the United States; economic espionage.
+    [Pub. L. 112–269][/us/pl/112/269], § 3, Jan. 14, 2013, [126 Stat. 2442][/us/stat/126/2442].—Transmission or attempted transmission of stolen trade secrets outside of the United States; economic espionage.
 
-    [Pub. L. 112–206, § 3(b)][/us/pl/112/206/s3/b], Dec. 7, 2012, [126 Stat. 1492][/us/stat/126/1492].—Higher penalties for sex crimes involving children and for harassment and intimidation in order to obstruct the administration of justice regarding such crimes.
+    [Pub. L. 112–206][/us/pl/112/206], § 3(b), Dec. 7, 2012, [126 Stat. 1492][/us/stat/126/1492].—Higher penalties for sex crimes involving children and for harassment and intimidation in order to obstruct the administration of justice regarding such crimes.
 
-    [Pub. L. 112–186, § 7][/us/pl/112/186/s7], Oct. 5, 2012, [126 Stat. 1430][/us/stat/126/1430].—Theft of pre-retail medical products.
+    [Pub. L. 112–186][/us/pl/112/186], § 7, Oct. 5, 2012, [126 Stat. 1430][/us/stat/126/1430].—Theft of pre-retail medical products.
 
-    [Pub. L. 112–144, title VII, § 717(b)][/us/pl/112/144/s717/b], July 9, 2012, [126 Stat. 1076][/us/stat/126/1076].—Counterfeit drug trafficking.
+    [Pub. L. 112–144, title VII][/us/pl/112/144/tVII], § 717(b), July 9, 2012, [126 Stat. 1076][/us/stat/126/1076].—Counterfeit drug trafficking.
 
-    [Pub. L. 111–273, § 4][/us/pl/111/273/s4], Oct. 12, 2010, [124 Stat. 2860][/us/stat/124/2860].—Drug offense resulting from authorization to receive scheduled substances from ultimate user or long-term care facility.
+    [Pub. L. 111–273][/us/pl/111/273], § 4, Oct. 12, 2010, [124 Stat. 2860][/us/stat/124/2860].—Drug offense resulting from authorization to receive scheduled substances from ultimate user or long-term care facility.
 
     [Pub. L. 111–220][/us/pl/111/220], §§ 5–8, Aug. 3, 2010, [124 Stat. 2373][/us/stat/124/2373], 2374.—Violence during drug trafficking offenses; increased emphasis on defendant’s role; aggravating and mitigating factors.
 
-    [Pub. L. 111–203, title X, § 1079A(a)][/us/pl/111/203/s1079A/a], July 21, 2010, [124 Stat. 2077][/us/stat/124/2077].—Securities fraud and financial institutions fraud.
+    [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1079A(a), July 21, 2010, [124 Stat. 2077][/us/stat/124/2077].—Securities fraud and financial institutions fraud.
 
-    [Pub. L. 111–148, title X, § 10606(a)][/us/pl/111/148/s10606/a], Mar. 23, 2010, [124 Stat. 1006][/us/stat/124/1006].—Health care fraud.
+    [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10606(a), Mar. 23, 2010, [124 Stat. 1006][/us/stat/124/1006].—Health care fraud.
 
-    [Pub. L. 110–457, title II, § 222(g)][/us/pl/110/457/s222/g], Dec. 23, 2008, [122 Stat. 5071][/us/stat/122/5071].—Alien harboring in furtherance of prostitution.
+    [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 222(g), Dec. 23, 2008, [122 Stat. 5071][/us/stat/122/5071].—Alien harboring in furtherance of prostitution.
 
-    [Pub. L. 110–425, § 3(k)(2)][/us/pl/110/425/s3/k/2], Oct. 15, 2008, [122 Stat. 4833][/us/stat/122/4833].—Offenses involving dispensing of controlled substances by means of the Internet.
+    [Pub. L. 110–425][/us/pl/110/425], § 3(k)(2), Oct. 15, 2008, [122 Stat. 4833][/us/stat/122/4833].—Offenses involving dispensing of controlled substances by means of the Internet.
 
-    [Pub. L. 110–407, title I, § 103][/us/pl/110/407/s103], Oct. 13, 2008, [122 Stat. 4298][/us/stat/122/4298].—Operating or embarking in a submersible or semi-submersible vessel without nationality.
+    [Pub. L. 110–407, title I][/us/pl/110/407/tI], § 103, Oct. 13, 2008, [122 Stat. 4298][/us/stat/122/4298].—Operating or embarking in a submersible or semi-submersible vessel without nationality.
 
     [Pub. L. 110–384][/us/pl/110/384], Oct. 10, 2008, [122 Stat. 4094][/us/stat/122/4094].—Desecration or theft of veterans’ grave markers.
 
-    [Pub. L. 110–326, title II, § 209][/us/pl/110/326/s209], Sept. 26, 2008, [122 Stat. 3564][/us/stat/122/3564].—Identity theft, computer fraud, illegal wiretapping, and unlawful access to stored information.
+    [Pub. L. 110–326, title II][/us/pl/110/326/tII], § 209, Sept. 26, 2008, [122 Stat. 3564][/us/stat/122/3564].—Identity theft, computer fraud, illegal wiretapping, and unlawful access to stored information.
 
-    [Pub. L. 110–179, § 5][/us/pl/110/179/s5], Jan. 7, 2008, [121 Stat. 2557][/us/stat/121/2557].—Fraud or theft in connection with major disasters or emergencies.
+    [Pub. L. 110–179][/us/pl/110/179], § 5, Jan. 7, 2008, [121 Stat. 2557][/us/stat/121/2557].—Fraud or theft in connection with major disasters or emergencies.
 
-    [Pub. L. 110–177, title II, § 209][/us/pl/110/177/s209], Jan. 7, 2008, [121 Stat. 2538][/us/stat/121/2538].—Online threats against United States officials, judges, or law enforcement officers and immediate family members.
+    [Pub. L. 110–177, title II][/us/pl/110/177/tII], § 209, Jan. 7, 2008, [121 Stat. 2538][/us/stat/121/2538].—Online threats against United States officials, judges, or law enforcement officers and immediate family members.
 
-    [Pub. L. 109–476, § 4][/us/pl/109/476/s4], Jan. 12, 2007, [120 Stat. 3571][/us/stat/120/3571].—Fraud in obtaining confidential phone records information of covered entity.
+    [Pub. L. 109–476][/us/pl/109/476], § 4, Jan. 12, 2007, [120 Stat. 3571][/us/stat/120/3571].—Fraud in obtaining confidential phone records information of covered entity.
 
-    [Pub. L. 109–295, title V, § 551(d)][/us/pl/109/295/s551/d], Oct. 4, 2006, [120 Stat. 1390][/us/stat/120/1390]; [Pub. L. 110–161, div. E, title V, § 553(c)][/us/pl/110/161/s553/c], Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].—Offenses involving border tunnels and passages.
+    [Pub. L. 109–295, title V][/us/pl/109/295/tV], § 551(d), Oct. 4, 2006, [120 Stat. 1390][/us/stat/120/1390]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 553(c), Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].—Offenses involving border tunnels and passages.
 
-    [Pub. L. 109–248, title I, § 141(b)][/us/pl/109/248/s141/b], July 27, 2006, [120 Stat. 602][/us/stat/120/602].—Offenses committed by person who fails to register as sex offender.
+    [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 141(b), July 27, 2006, [120 Stat. 602][/us/stat/120/602].—Offenses committed by person who fails to register as sex offender.
 
-    [Pub. L. 109–181, § 1(c)][/us/pl/109/181/s1/c], Mar. 16, 2006, [120 Stat. 287][/us/stat/120/287].—Trafficking in counterfeit goods, services, labels, documentation, and packaging.
+    [Pub. L. 109–181][/us/pl/109/181], § 1(c), Mar. 16, 2006, [120 Stat. 287][/us/stat/120/287].—Trafficking in counterfeit goods, services, labels, documentation, and packaging.
 
-    [Pub. L. 109–177, title III, § 307(c)][/us/pl/109/177/s307/c], Mar. 9, 2006, [120 Stat. 240][/us/stat/120/240].—Theft of interstate and foreign shipments.
+    [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 307(c), Mar. 9, 2006, [120 Stat. 240][/us/stat/120/240].—Theft of interstate and foreign shipments.
 
-    [Pub. L. 109–162, title XI, § 1191(c)][/us/pl/109/162/s1191/c], Jan. 5, 2006, [119 Stat. 3129][/us/stat/119/3129].—Offenses committed while wearing illicitly received public employee insignia or uniform.
+    [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1191(c), Jan. 5, 2006, [119 Stat. 3129][/us/stat/119/3129].—Offenses committed while wearing illicitly received public employee insignia or uniform.
 
-    [Pub. L. 109–76, § 3][/us/pl/109/76/s3], Sept. 29, 2005, [119 Stat. 2035][/us/stat/119/2035].—False testimony and obstruction of justice involving international or domestic terrorism or anabolic steroids.
+    [Pub. L. 109–76][/us/pl/109/76], § 3, Sept. 29, 2005, [119 Stat. 2035][/us/stat/119/2035].—False testimony and obstruction of justice involving international or domestic terrorism or anabolic steroids.
 
-    [Pub. L. 109–9, title I, § 105][/us/pl/109/9/s105], Apr. 27, 2005, [119 Stat. 222][/us/stat/119/222].—Intellectual property rights crimes.
+    [Pub. L. 109–9, title I][/us/pl/109/9/tI], § 105, Apr. 27, 2005, [119 Stat. 222][/us/stat/119/222].—Intellectual property rights crimes.
 
-    [Pub. L. 108–482, title II, § 204(b)][/us/pl/108/482/s204/b], Dec. 23, 2004, [118 Stat. 3917][/us/stat/118/3917].—Online felony offenses involving use of a domain name registered with materially false contact information.
+    [Pub. L. 108–482, title II][/us/pl/108/482/tII], § 204(b), Dec. 23, 2004, [118 Stat. 3917][/us/stat/118/3917].—Online felony offenses involving use of a domain name registered with materially false contact information.
 
-    [Pub. L. 108–458, title VI, § 6703(b)][/us/pl/108/458/s6703/b], Dec. 17, 2004, [118 Stat. 3766][/us/stat/118/3766].—False testimony and obstruction of justice involving international or domestic terrorism.
+    [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6703(b), Dec. 17, 2004, [118 Stat. 3766][/us/stat/118/3766].—False testimony and obstruction of justice involving international or domestic terrorism.
 
-    [Pub. L. 108–358, § 3][/us/pl/108/358/s3], Oct. 22, 2004, [118 Stat. 1664][/us/stat/118/1664].—Offenses involving anabolic steroids.
+    [Pub. L. 108–358][/us/pl/108/358], § 3, Oct. 22, 2004, [118 Stat. 1664][/us/stat/118/1664].—Offenses involving anabolic steroids.
 
-    [Pub. L. 108–275, § 5][/us/pl/108/275/s5], July 15, 2004, [118 Stat. 833][/us/stat/118/833].—Identity theft involving abuse of authority.
+    [Pub. L. 108–275][/us/pl/108/275], § 5, July 15, 2004, [118 Stat. 833][/us/stat/118/833].—Identity theft involving abuse of authority.
 
-    [Pub. L. 108–187, § 4(b)][/us/pl/108/187/s4/b], Dec. 16, 2003, [117 Stat. 2705][/us/stat/117/2705].—Fraud and related activity in connection with electronic mail.
+    [Pub. L. 108–187][/us/pl/108/187], § 4(b), Dec. 16, 2003, [117 Stat. 2705][/us/stat/117/2705].—Fraud and related activity in connection with electronic mail.
 
-    [Pub. L. 108–21, title I, § 104(a)][/us/pl/108/21/s104/a], Apr. 30, 2003, [117 Stat. 653][/us/stat/117/653].—Kidnapping.
+    [Pub. L. 108–21, title I][/us/pl/108/21/tI], § 104(a), Apr. 30, 2003, [117 Stat. 653][/us/stat/117/653].—Kidnapping.
 
-    [Pub. L. 108–21, title IV, § 401(b)][/us/pl/108/21/s401/b], (g), (i), (j)(1)–(4), (m), Apr. 30, 2003, [117 Stat. 668][/us/stat/117/668], 671–673, 675.—Child crimes and sexual offenses, child pornography, downward departures, and acceptance of responsibility.
+    [Pub. L. 108–21, title IV][/us/pl/108/21/tIV], § 401(b), (g), (i), (j)(1)–(4), (m), Apr. 30, 2003, [117 Stat. 668][/us/stat/117/668], 671–673, 675.—Child crimes and sexual offenses, child pornography, downward departures, and acceptance of responsibility.
 
-    [Pub. L. 108–21, title V, § 504(c)(2)][/us/pl/108/21/s504/c/2], Apr. 30, 2003, [117 Stat. 682][/us/stat/117/682].—Obscene visual representations of the sexual abuse of children.
+    [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 504(c)(2), Apr. 30, 2003, [117 Stat. 682][/us/stat/117/682].—Obscene visual representations of the sexual abuse of children.
 
-    [Pub. L. 108–21, title V, § 512][/us/pl/108/21/s512], Apr. 30, 2003, [117 Stat. 685][/us/stat/117/685].—Interstate travel to engage in sexual act with a juvenile.
+    [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 512, Apr. 30, 2003, [117 Stat. 685][/us/stat/117/685].—Interstate travel to engage in sexual act with a juvenile.
 
-    [Pub. L. 108–21, title V, § 513(c)][/us/pl/108/21/s513/c], Apr. 30, 2003, [117 Stat. 685][/us/stat/117/685].—Activities relating to material constituting or containing child pornography.
+    [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 513(c), Apr. 30, 2003, [117 Stat. 685][/us/stat/117/685].—Activities relating to material constituting or containing child pornography.
 
-    [Pub. L. 108–21, title VI, § 608(e)][/us/pl/108/21/s608/e], Apr. 30, 2003, [117 Stat. 691][/us/stat/117/691].—Offenses involving gamma hydroxybutyric acid (GHB).
+    [Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 608(e), Apr. 30, 2003, [117 Stat. 691][/us/stat/117/691].—Offenses involving gamma hydroxybutyric acid (GHB).
 
-    [Pub. L. 107–296, title II, § 225(b)][/us/pl/107/296/s225/b], Nov. 25, 2002, [116 Stat. 2156][/us/stat/116/2156].—Computer fraud.
+    [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225(b), Nov. 25, 2002, [116 Stat. 2156][/us/stat/116/2156].—Computer fraud.
 
-    [Pub. L. 107–273, div. C, title I, § 11008(e)][/us/pl/107/273/s11008/e], Nov. 2, 2002, [116 Stat. 1819][/us/stat/116/1819].—Assaults and threats against Federal judges and certain other Federal officials and employees.
+    [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11008(e), Nov. 2, 2002, [116 Stat. 1819][/us/stat/116/1819].—Assaults and threats against Federal judges and certain other Federal officials and employees.
 
-    [Pub. L. 107–204, title VIII, § 805][/us/pl/107/204/s805], July 30, 2002, [116 Stat. 802][/us/stat/116/802].—Obstruction of justice and extensive criminal fraud.
+    [Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], § 805, July 30, 2002, [116 Stat. 802][/us/stat/116/802].—Obstruction of justice and extensive criminal fraud.
 
-    [Pub. L. 107–204, title IX, § 905][/us/pl/107/204/s905], July 30, 2002, [116 Stat. 805][/us/stat/116/805].—Certain white collar offenses.
+    [Pub. L. 107–204, title IX][/us/pl/107/204/tIX], § 905, July 30, 2002, [116 Stat. 805][/us/stat/116/805].—Certain white collar offenses.
 
-    [Pub. L. 107–204, title XI, § 1104][/us/pl/107/204/s1104], July 30, 2002, [116 Stat. 808][/us/stat/116/808].—Securities and accounting fraud and related offenses.
+    [Pub. L. 107–204, title XI][/us/pl/107/204/tXI], § 1104, July 30, 2002, [116 Stat. 808][/us/stat/116/808].—Securities and accounting fraud and related offenses.
 
-    [Pub. L. 107–155, title III, § 314][/us/pl/107/155/s314], Mar. 27, 2002, [116 Stat. 107][/us/stat/116/107].—Violations of Federal Election Campaign Act of 1971 and related election laws.
+    [Pub. L. 107–155, title III][/us/pl/107/155/tIII], § 314, Mar. 27, 2002, [116 Stat. 107][/us/stat/116/107].—Violations of Federal Election Campaign Act of 1971 and related election laws.
 
-    [Pub. L. 107–56, title VIII, § 814(f)][/us/pl/107/56/s814/f], Oct. 26, 2001, [115 Stat. 384][/us/stat/115/384].—Computer fraud and abuse.
+    [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 814(f), Oct. 26, 2001, [115 Stat. 384][/us/stat/115/384].—Computer fraud and abuse.
 
-    [Pub. L. 106–420, § 3][/us/pl/106/420/s3], Nov. 1, 2000, [114 Stat. 1868][/us/stat/114/1868].—Higher education financial assistance fraud.
+    [Pub. L. 106–420][/us/pl/106/420], § 3, Nov. 1, 2000, [114 Stat. 1868][/us/stat/114/1868].—Higher education financial assistance fraud.
 
-    [Pub. L. 106–386, div. B, title I, § 1107(b)(2)][/us/pl/106/386/s1107/b/2], Oct. 28, 2000, [114 Stat. 1498][/us/stat/114/1498].—Interstate stalking.
+    [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1107(b)(2), Oct. 28, 2000, [114 Stat. 1498][/us/stat/114/1498].—Interstate stalking.
 
-    [Pub. L. 106–310, div. B, title XXXVI, § 3611][/us/pl/106/310/s3611], Oct. 17, 2000, [114 Stat. 1228][/us/stat/114/1228].—Manufacture of and trafficking in amphetamine.
+    [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3611, Oct. 17, 2000, [114 Stat. 1228][/us/stat/114/1228].—Manufacture of and trafficking in amphetamine.
 
-    [Pub. L. 106–310, div. B, title XXXVI, § 3612][/us/pl/106/310/s3612], Oct. 17, 2000, [114 Stat. 1228][/us/stat/114/1228].—Manufacture of amphetamine or methamphetamine.
+    [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3612, Oct. 17, 2000, [114 Stat. 1228][/us/stat/114/1228].—Manufacture of amphetamine or methamphetamine.
 
-    [Pub. L. 106–310, div. B, title XXXVI, § 3651][/us/pl/106/310/s3651], Oct. 17, 2000, [114 Stat. 1238][/us/stat/114/1238].—Trafficking in list I chemicals.
+    [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3651, Oct. 17, 2000, [114 Stat. 1238][/us/stat/114/1238].—Trafficking in list I chemicals.
 
-    [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310], §§ 3663, 3664, Oct. 17, 2000, [114 Stat. 1242][/us/stat/114/1242], 1244.—Manufacture of or trafficking in Ecstasy.
+    [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], §§ 3663, 3664, Oct. 17, 2000, [114 Stat. 1242][/us/stat/114/1242], 1244.—Manufacture of or trafficking in Ecstasy.
 
-    [Pub. L. 106–160, § 3][/us/pl/106/160/s3], Dec. 9, 1999, [113 Stat. 1774][/us/stat/113/1774].—Electronic theft offenses.
+    [Pub. L. 106–160][/us/pl/106/160], § 3, Dec. 9, 1999, [113 Stat. 1774][/us/stat/113/1774].—Electronic theft offenses.
 
-    [Pub. L. 105–318, § 4][/us/pl/105/318/s4], Oct. 30, 1998, [112 Stat. 3009][/us/stat/112/3009].—Fraud and related activity in connection with identification documents and information.
+    [Pub. L. 105–318][/us/pl/105/318], § 4, Oct. 30, 1998, [112 Stat. 3009][/us/stat/112/3009].—Fraud and related activity in connection with identification documents and information.
 
-    [Pub. L. 105–314, title V][/us/pl/105/314], Oct. 30, 1998, [112 Stat. 2980][/us/stat/112/2980].—Sexual abuse, transportation for illegal sexual activity, and distribution of pornography.
+    [Pub. L. 105–314, title V][/us/pl/105/314/tV], Oct. 30, 1998, [112 Stat. 2980][/us/stat/112/2980].—Sexual abuse, transportation for illegal sexual activity, and distribution of pornography.
 
-    [Pub. L. 105–184, § 6][/us/pl/105/184/s6], June 23, 1998, [112 Stat. 521][/us/stat/112/521].—Telemarketing fraud.
+    [Pub. L. 105–184][/us/pl/105/184], § 6, June 23, 1998, [112 Stat. 521][/us/stat/112/521].—Telemarketing fraud.
 
-    [Pub. L. 105–172, § 2(e)][/us/pl/105/172/s2/e], Apr. 24, 1998, [112 Stat. 55][/us/stat/112/55].—Wireless telephone cloning.
+    [Pub. L. 105–172][/us/pl/105/172], § 2(e), Apr. 24, 1998, [112 Stat. 55][/us/stat/112/55].—Wireless telephone cloning.
 
-    [Pub. L. 105–147, § 2(g)][/us/pl/105/147/s2/g], Dec. 16, 1997, [111 Stat. 2680][/us/stat/111/2680].—Crimes against intellectual property.
+    [Pub. L. 105–147][/us/pl/105/147], § 2(g), Dec. 16, 1997, [111 Stat. 2680][/us/stat/111/2680].—Crimes against intellectual property.
 
-    [Pub. L. 105–101][/us/pl/105/101], Nov. 19, 1997, [111 Stat. 2202][/us/stat/111/2202]; [Pub. L. 105–368, title IV, § 403(d)(1)][/us/pl/105/368/s403/d/1], Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339].—Offenses against property at national cemeteries.
+    [Pub. L. 105–101][/us/pl/105/101], Nov. 19, 1997, [111 Stat. 2202][/us/stat/111/2202]; [Pub. L. 105–368, title IV][/us/pl/105/368/tIV], § 403(d)(1), Nov. 11, 1998, [112 Stat. 3339][/us/stat/112/3339].—Offenses against property at national cemeteries.
 
-    [Pub. L. 104–305, § 2(b)(3)][/us/pl/104/305/s2/b/3], Oct. 13, 1996, [110 Stat. 3808][/us/stat/110/3808].—Offenses involving flunitrazepam.
+    [Pub. L. 104–305][/us/pl/104/305], § 2(b)(3), Oct. 13, 1996, [110 Stat. 3808][/us/stat/110/3808].—Offenses involving flunitrazepam.
 
-    [Pub. L. 104–237, title II, § 203(b)][/us/pl/104/237/s203/b], Oct. 3, 1996, [110 Stat. 3102][/us/stat/110/3102].—Manufacture of methamphetamine.
+    [Pub. L. 104–237, title II][/us/pl/104/237/tII], § 203(b), Oct. 3, 1996, [110 Stat. 3102][/us/stat/110/3102].—Manufacture of methamphetamine.
 
-    [Pub. L. 104–237, title III, § 301][/us/pl/104/237/s301], Oct. 3, 1996, [110 Stat. 3105][/us/stat/110/3105].—Manufacture of and trafficking in methamphetamine.
+    [Pub. L. 104–237, title III][/us/pl/104/237/tIII], § 301, Oct. 3, 1996, [110 Stat. 3105][/us/stat/110/3105].—Manufacture of and trafficking in methamphetamine.
 
-    [Pub. L. 104–237, title III, § 302(c)][/us/pl/104/237/s302/c], Oct. 3, 1996, [110 Stat. 3105][/us/stat/110/3105].—Offenses involving list I chemicals.
+    [Pub. L. 104–237, title III][/us/pl/104/237/tIII], § 302(c), Oct. 3, 1996, [110 Stat. 3105][/us/stat/110/3105].—Offenses involving list I chemicals.
 
-    [Pub. L. 104–237, title III, § 303][/us/pl/104/237/s303], Oct. 3, 1996, [110 Stat. 3106][/us/stat/110/3106].—Dangerous handling of controlled substances.
+    [Pub. L. 104–237, title III][/us/pl/104/237/tIII], § 303, Oct. 3, 1996, [110 Stat. 3106][/us/stat/110/3106].—Dangerous handling of controlled substances.
 
-    [Pub. L. 104–208, div. C, title II, § 203(e)][/us/pl/104/208/s203/e], Sept. 30, 1996, [110 Stat. 3009–566][/us/stat/110/3009-566].—Smuggling, transporting, harboring, and inducing aliens.
+    [Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 203(e), Sept. 30, 1996, [110 Stat. 3009–566][/us/stat/110/3009-566].—Smuggling, transporting, harboring, and inducing aliens.
 
-    [Pub. L. 104–208, div. C, title II, § 211(b)][/us/pl/104/208/s211/b], Sept. 30, 1996, [110 Stat. 3009–569][/us/stat/110/3009-569].—Fraudulent acquisition and use of government-issued documents.
+    [Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 211(b), Sept. 30, 1996, [110 Stat. 3009–569][/us/stat/110/3009-569].—Fraudulent acquisition and use of government-issued documents.
 
-    [Pub. L. 104–208, div. C, title II, § 218(b)][/us/pl/104/208/s218/b], (c), Sept. 30, 1996, [110 Stat. 3009–573][/us/stat/110/3009-573], 3009–574.—Involuntary servitude.
+    [Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 218(b), (c), Sept. 30, 1996, [110 Stat. 3009–573][/us/stat/110/3009-573], 3009–574.—Involuntary servitude.
 
-    [Pub. L. 104–208, div. C, title III, § 333][/us/pl/104/208/s333], Sept. 30, 1996, [110 Stat. 3009–634][/us/stat/110/3009-634].—Conspiring with or assisting an alien to import, export, possess, manufacture, or distribute a controlled substance.
+    [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 333, Sept. 30, 1996, [110 Stat. 3009–634][/us/stat/110/3009-634].—Conspiring with or assisting an alien to import, export, possess, manufacture, or distribute a controlled substance.
 
-    [Pub. L. 104–208, div. C, title III, § 334][/us/pl/104/208/s334], Sept. 30, 1996, [110 Stat. 3009–635][/us/stat/110/3009-635].—Failure to depart, illegal reentry, and passport and visa fraud.
+    [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 334, Sept. 30, 1996, [110 Stat. 3009–635][/us/stat/110/3009-635].—Failure to depart, illegal reentry, and passport and visa fraud.
 
-    [Pub. L. 104–201, div. A, title XIV, § 1423][/us/pl/104/201/s1423], Sept. 23, 1996, [110 Stat. 2725][/us/stat/110/2725]; [Pub. L. 105–261, div. A, title X, § 1069(c)(1)][/us/pl/105/261/s1069/c/1], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].—Offenses relating to importation and exportation of nuclear, biological, or chemical weapons or technologies.
+    [Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1423, Sept. 23, 1996, [110 Stat. 2725][/us/stat/110/2725]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(c)(1), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].—Offenses relating to importation and exportation of nuclear, biological, or chemical weapons or technologies.
 
-    [Pub. L. 104–132, title II, § 208][/us/pl/104/132/s208], Apr. 24, 1996, [110 Stat. 1240][/us/stat/110/1240].—Mandatory victim restitution.
+    [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 208, Apr. 24, 1996, [110 Stat. 1240][/us/stat/110/1240].—Mandatory victim restitution.
 
-    [Pub. L. 104–132, title VII, § 730][/us/pl/104/132/s730], Apr. 24, 1996, [110 Stat. 1303][/us/stat/110/1303].—International terrorism.
+    [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 730, Apr. 24, 1996, [110 Stat. 1303][/us/stat/110/1303].—International terrorism.
 
-    [Pub. L. 104–132, title VIII, § 805][/us/pl/104/132/s805], Apr. 24, 1996, [110 Stat. 1305][/us/stat/110/1305].—Terrorist activity damaging Federal interest computer.
+    [Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 805, Apr. 24, 1996, [110 Stat. 1305][/us/stat/110/1305].—Terrorist activity damaging Federal interest computer.
 
-    [Pub. L. 104–132, title VIII, § 807(h)][/us/pl/104/132/s807/h], Apr. 24, 1996, [110 Stat. 1308][/us/stat/110/1308].—International counterfeiting of United States currency.
+    [Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 807(h), Apr. 24, 1996, [110 Stat. 1308][/us/stat/110/1308].—International counterfeiting of United States currency.
 
     [Pub. L. 104–71][/us/pl/104/71], §§ 1–4, Dec. 23, 1995, [109 Stat. 774][/us/stat/109/774].—Sex crimes against children.
 
-    [Pub. L. 103–322, title IV, § 40111(b)][/us/pl/103/322/s40111/b], Sept. 13, 1994, [108 Stat. 1903][/us/stat/108/1903].—Sexual abuse by repeat sex offender.
+    [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40111(b), Sept. 13, 1994, [108 Stat. 1903][/us/stat/108/1903].—Sexual abuse by repeat sex offender.
 
-    [Pub. L. 103–322, title IV, § 40112][/us/pl/103/322/s40112], Sept. 13, 1994, [108 Stat. 1903][/us/stat/108/1903].—Aggravated sexual abuse or sexual abuse.
+    [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40112, Sept. 13, 1994, [108 Stat. 1903][/us/stat/108/1903].—Aggravated sexual abuse or sexual abuse.
 
-    [Pub. L. 103–322, title IV, § 40503(c)][/us/pl/103/322/s40503/c], Sept. 13, 1994, [108 Stat. 1947][/us/stat/108/1947].—Intentional transmission of HIV.
+    [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40503(c), Sept. 13, 1994, [108 Stat. 1947][/us/stat/108/1947].—Intentional transmission of HIV.
 
-    [Pub. L. 103–322, title VIII, § 80001(b)][/us/pl/103/322/s80001/b], Sept. 13, 1994, [108 Stat. 1986][/us/stat/108/1986].—Importing, exporting, possessing, manufacturing, and distributing a controlled substance.
+    [Pub. L. 103–322, title VIII][/us/pl/103/322/tVIII], § 80001(b), Sept. 13, 1994, [108 Stat. 1986][/us/stat/108/1986].—Importing, exporting, possessing, manufacturing, and distributing a controlled substance.
 
-    [Pub. L. 103–322, title IX, § 90102][/us/pl/103/322/s90102], Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987].—Drug-dealing in “drug-free” zones.
+    [Pub. L. 103–322, title IX][/us/pl/103/322/tIX], § 90102, Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987].—Drug-dealing in “drug-free” zones.
 
-    [Pub. L. 103–322, title IX, § 90103(b)][/us/pl/103/322/s90103/b], Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987].—Use or distribution of illegal drugs in the Federal prisons.
+    [Pub. L. 103–322, title IX][/us/pl/103/322/tIX], § 90103(b), Sept. 13, 1994, [108 Stat. 1987][/us/stat/108/1987].—Use or distribution of illegal drugs in the Federal prisons.
 
-    [Pub. L. 103–322, title XI, § 110501][/us/pl/103/322/s110501], Sept. 13, 1994, [108 Stat. 2015][/us/stat/108/2015].—Use of semiautomatic firearm during crime of violence or drug trafficking.
+    [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110501, Sept. 13, 1994, [108 Stat. 2015][/us/stat/108/2015].—Use of semiautomatic firearm during crime of violence or drug trafficking.
 
-    [Pub. L. 103–322, title XI, § 110502][/us/pl/103/322/s110502], Sept. 13, 1994, [108 Stat. 2015][/us/stat/108/2015].—Second offense of using explosive to commit felony.
+    [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110502, Sept. 13, 1994, [108 Stat. 2015][/us/stat/108/2015].—Second offense of using explosive to commit felony.
 
-    [Pub. L. 103–322, title XI, § 110512][/us/pl/103/322/s110512], Sept. 13, 1994, [108 Stat. 2019][/us/stat/108/2019].—Using firearm in commission of counterfeiting or forgery.
+    [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110512, Sept. 13, 1994, [108 Stat. 2019][/us/stat/108/2019].—Using firearm in commission of counterfeiting or forgery.
 
-    [Pub. L. 103–322, title XI, § 110513][/us/pl/103/322/s110513], Sept. 13, 1994, [108 Stat. 2019][/us/stat/108/2019].—Firearms possession by violent felons and serious drug offenders.
+    [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110513, Sept. 13, 1994, [108 Stat. 2019][/us/stat/108/2019].—Firearms possession by violent felons and serious drug offenders.
 
-    [Pub. L. 103–322, title XII, § 120004][/us/pl/103/322/s120004], Sept. 13, 1994, [108 Stat. 2022][/us/stat/108/2022].—Felonies promoting international terrorism.
+    [Pub. L. 103–322, title XII][/us/pl/103/322/tXII], § 120004, Sept. 13, 1994, [108 Stat. 2022][/us/stat/108/2022].—Felonies promoting international terrorism.
 
-    [Pub. L. 103–322, title XIV, § 140008][/us/pl/103/322/s140008], Sept. 13, 1994, [108 Stat. 2033][/us/stat/108/2033].—Solicitation of minor to commit crime.
+    [Pub. L. 103–322, title XIV][/us/pl/103/322/tXIV], § 140008, Sept. 13, 1994, [108 Stat. 2033][/us/stat/108/2033].—Solicitation of minor to commit crime.
 
-    [Pub. L. 103–322, title XVIII, § 180201(c)][/us/pl/103/322/s180201/c], Sept. 13, 1994, [108 Stat. 2047][/us/stat/108/2047].—Possession or distribution of drugs at truck stops or safety rest areas.
+    [Pub. L. 103–322, title XVIII][/us/pl/103/322/tXVIII], § 180201(c), Sept. 13, 1994, [108 Stat. 2047][/us/stat/108/2047].—Possession or distribution of drugs at truck stops or safety rest areas.
 
-    [Pub. L. 103–322, title XXIV, § 240002][/us/pl/103/322/s240002], Sept. 13, 1994, [108 Stat. 2081][/us/stat/108/2081].—Crimes against elderly victims.
+    [Pub. L. 103–322, title XXIV][/us/pl/103/322/tXXIV], § 240002, Sept. 13, 1994, [108 Stat. 2081][/us/stat/108/2081].—Crimes against elderly victims.
 
-    [Pub. L. 103–322, title XXV, § 250003][/us/pl/103/322/s250003], Sept. 13, 1994, [108 Stat. 2085][/us/stat/108/2085].—Fraud against older victims.
+    [Pub. L. 103–322, title XXV][/us/pl/103/322/tXXV], § 250003, Sept. 13, 1994, [108 Stat. 2085][/us/stat/108/2085].—Fraud against older victims.
 
-    [Pub. L. 103–322, title XXVIII, § 280003][/us/pl/103/322/s280003], Sept. 13, 1994, [108 Stat. 2096][/us/stat/108/2096]; [Pub. L. 111–84, div. E, § 4703(a)][/us/pl/111/84/s4703/a], Oct. 28, 2009, [123 Stat. 2836][/us/stat/123/2836].—Hate crimes.
+    [Pub. L. 103–322, title XXVIII][/us/pl/103/322/tXXVIII], § 280003, Sept. 13, 1994, [108 Stat. 2096][/us/stat/108/2096]; [Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4703(a), Oct. 28, 2009, [123 Stat. 2836][/us/stat/123/2836].—Hate crimes.
 
-    [Pub. L. 102–141, title VI, § 632][/us/pl/102/141/s632], Oct. 28, 1991, [105 Stat. 876][/us/stat/105/876].—Sexual abuse or exploitation of minors.
+    [Pub. L. 102–141, title VI][/us/pl/102/141/tVI], § 632, Oct. 28, 1991, [105 Stat. 876][/us/stat/105/876].—Sexual abuse or exploitation of minors.
 
-    [Pub. L. 101–647, title III, § 321][/us/pl/101/647/s321], Nov. 29, 1990, [104 Stat. 4817][/us/stat/104/4817].—Sexual crimes against children.
+    [Pub. L. 101–647, title III][/us/pl/101/647/tIII], § 321, Nov. 29, 1990, [104 Stat. 4817][/us/stat/104/4817].—Sexual crimes against children.
 
-    [Pub. L. 101–647, title XXV, § 2507][/us/pl/101/647/s2507], Nov. 29, 1990, [104 Stat. 4862][/us/stat/104/4862].—Major bank crimes.
+    [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2507, Nov. 29, 1990, [104 Stat. 4862][/us/stat/104/4862].—Major bank crimes.
 
-    [Pub. L. 101–647, title XXVII, § 2701][/us/pl/101/647/s2701], Nov. 29, 1990, [104 Stat. 4912][/us/stat/104/4912].—Methamphetamine offenses.
+    [Pub. L. 101–647, title XXVII][/us/pl/101/647/tXXVII], § 2701, Nov. 29, 1990, [104 Stat. 4912][/us/stat/104/4912].—Methamphetamine offenses.
 
-    [Pub. L. 101–73, title IX, § 961(m)][/us/pl/101/73/s961/m], Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501].—Offenses substantially jeopardizing safety and soundness of federally insured financial institutions.
+    [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 961(m), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501].—Offenses substantially jeopardizing safety and soundness of federally insured financial institutions.
 
-    [Pub. L. 100–700, § 2(b)][/us/pl/100/700/s2/b], Nov. 19, 1988, [102 Stat. 4631][/us/stat/102/4631].—Major fraud against the United States.
+    [Pub. L. 100–700][/us/pl/100/700], § 2(b), Nov. 19, 1988, [102 Stat. 4631][/us/stat/102/4631].—Major fraud against the United States.
 
-    [Pub. L. 100–690, title VI, § 6453][/us/pl/100/690/s6453], Nov. 18, 1988, [102 Stat. 4371][/us/stat/102/4371].—Importation of controlled substances by aircraft and other vessels.
+    [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6453, Nov. 18, 1988, [102 Stat. 4371][/us/stat/102/4371].—Importation of controlled substances by aircraft and other vessels.
 
-    [Pub. L. 100–690, title VI, § 6454][/us/pl/100/690/s6454], Nov. 18, 1988, [102 Stat. 4372][/us/stat/102/4372].—Drug offenses involving children.
+    [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6454, Nov. 18, 1988, [102 Stat. 4372][/us/stat/102/4372].—Drug offenses involving children.
 
-    [Pub. L. 100–690, title VI, § 6468(c)][/us/pl/100/690/s6468/c], (d), Nov. 18, 1988, [102 Stat. 4376][/us/stat/102/4376].—Drug offenses within Federal prisons.
+    [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6468(c), (d), Nov. 18, 1988, [102 Stat. 4376][/us/stat/102/4376].—Drug offenses within Federal prisons.
 
-    [Pub. L. 100–690, title VI, § 6482(c)][/us/pl/100/690/s6482/c], Nov. 18, 1988, [102 Stat. 4382][/us/stat/102/4382].—Common carrier operation under influence of alcohol or drugs.
+    [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6482(c), Nov. 18, 1988, [102 Stat. 4382][/us/stat/102/4382].—Common carrier operation under influence of alcohol or drugs.
 
  __Cocaine and Crack Sentences and Sentences for Money Laundering and Other Unlawful Activity; Reduction of Sentencing Disparities__ 
 
@@ -529,7 +529,7 @@
 
  __Studies of Impact and Operation of Sentencing Guideline System; Reporting Requirements__ 
 
-    [Pub. L. 98–473, title II, § 236][/us/pl/98/473/s236], Oct. 12, 1984, [98 Stat. 2033][/us/stat/98/2033], provided that, four years after the sentencing guidelines promulgated pursuant to [section 994(a)(1) of this title][/us/usc/t28/s994/a/1] and sections 3581, 3583, and 3624 of title 18 went into effect, the General Accounting Office was to undertake a study of the guidelines to determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of such undertaking, report the results to Congress; provided that, within one month of the start of the study, the United States Sentencing Commission was to submit a report detailing the operation of the sentencing guideline system and discussing any problems with the system or reforms needed; and provided that Congress was to review the study.
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 236, Oct. 12, 1984, [98 Stat. 2033][/us/stat/98/2033], provided that, four years after the sentencing guidelines promulgated pursuant to [section 994(a)(1) of this title][/us/usc/t28/s994/a/1] and sections 3581, 3583, and 3624 of title 18 went into effect, the General Accounting Office was to undertake a study of the guidelines to determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of such undertaking, report the results to Congress; provided that, within one month of the start of the study, the United States Sentencing Commission was to submit a report detailing the operation of the sentencing guideline system and discussing any problems with the system or reforms needed; and provided that Congress was to review the study.
 
 ----------
 
@@ -554,268 +554,268 @@
 [/us/usc/t18/s3553/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553%2Fa%2F2
 [/us/usc/t18/s3582/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3582%2Fc%2F1%2FA
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/98/473/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs217%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2019
-[/us/pl/99/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F217%2Fs3
+[/us/pl/99/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F217
 [/us/stat/99/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1728
-[/us/pl/99/363/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363%2Fs2
+[/us/pl/99/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363
 [/us/stat/100/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F770
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-7
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3592
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1269
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4408
-[/us/pl/103/322/s20403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20403%2Fb
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1825
-[/us/pl/108/21/s401/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fh
+[/us/pl/108/21/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIV
 [/us/stat/117/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F672
-[/us/pl/109/177/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs735
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F271
-[/us/pl/109/304/s17/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Ff%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1708
 [/us/usc/t18/s3563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3563%2Fb
-[/us/pl/104/132/s203/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F2%2FB
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1227
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
-[/us/pl/109/177/s735/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs735%2F1%2FA
-[/us/pl/109/177/s735/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs735%2F1%2FB
-[/us/pl/109/177/s735/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs735%2F2
-[/us/pl/108/21/s401/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fk
-[/us/pl/108/21/s401/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fh
-[/us/pl/103/322/s330003/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330003%2Ff%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/act/1980-09-15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1980-09-15%2Fs1
 [/us/usc/t21/s955a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs955a
-[/us/pl/103/322/s280005/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fc%2F4
-[/us/pl/103/322/s20403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20403%2Fb
-[/us/pl/100/690/s7103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7103%2Fb
-[/us/pl/100/690/s7083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7083
-[/us/pl/100/690/s7109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7109
-[/us/pl/100/182/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs23%2Fa
-[/us/pl/100/182/s23/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs23%2Fb
-[/us/pl/100/182/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs16%2Fb
-[/us/pl/99/363/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363%2Fs2%2F1%2FB
-[/us/pl/99/363/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363%2Fs2%2F1%2FA
-[/us/pl/99/570/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1006%2Fb
-[/us/pl/99/363/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363%2Fs2%2F2
-[/us/usc/t18/s3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3565
-[/us/pl/99/363/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363%2Fs2%2F3
-[/us/pl/99/646/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs56
-[/us/pl/99/646/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs6%2Fb%2F1
-[/us/usc/t18/s3581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3581%2Fb
-[/us/pl/99/646/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs6%2Fb%2F2
-[/us/pl/99/570/s1008/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1008%2F1
-[/us/pl/99/646/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs6%2Fb%2F3
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/99/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363
+[/us/pl/99/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/99/570/s1008/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1008%2F2
-[/us/pl/99/570/s1008/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1008%2F2
+[/us/pl/99/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363
+[/us/usc/t18/s3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3565
+[/us/pl/99/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F363
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/usc/t18/s3581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3581%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/pl/99/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F217
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/pl/100/182/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs26
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/112/269/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F269%2Fs3
+[/us/pl/112/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F269
 [/us/stat/126/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2442
-[/us/pl/112/206/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs3%2Fb
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/stat/126/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1492
-[/us/pl/112/186/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186%2Fs7
+[/us/pl/112/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186
 [/us/stat/126/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1430
-[/us/pl/112/144/s717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs717%2Fb
+[/us/pl/112/144/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtVII
 [/us/stat/126/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1076
-[/us/pl/111/273/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273%2Fs4
+[/us/pl/111/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F273
 [/us/stat/124/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2860
 [/us/pl/111/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F220
 [/us/stat/124/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2373
-[/us/pl/111/203/s1079A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1079A%2Fa
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2077
-[/us/pl/111/148/s10606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10606%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1006
-[/us/pl/110/457/s222/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fg
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5071
-[/us/pl/110/425/s3/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fk%2F2
+[/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4833
-[/us/pl/110/407/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs103
+[/us/pl/110/407/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2FtI
 [/us/stat/122/4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4298
 [/us/pl/110/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F384
 [/us/stat/122/4094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4094
-[/us/pl/110/326/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs209
+[/us/pl/110/326/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2FtII
 [/us/stat/122/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3564
-[/us/pl/110/179/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F179%2Fs5
+[/us/pl/110/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F179
 [/us/stat/121/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2557
-[/us/pl/110/177/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs209
+[/us/pl/110/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtII
 [/us/stat/121/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2538
-[/us/pl/109/476/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F476%2Fs4
+[/us/pl/109/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F476
 [/us/stat/120/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3571
-[/us/pl/109/295/s551/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs551%2Fd
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1390
-[/us/pl/110/161/s553/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs553%2Fc
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2082
-[/us/pl/109/248/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs141%2Fb
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F602
-[/us/pl/109/181/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F181%2Fs1%2Fc
+[/us/pl/109/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F181
 [/us/stat/120/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F287
-[/us/pl/109/177/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs307%2Fc
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F240
-[/us/pl/109/162/s1191/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fc
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3129
-[/us/pl/109/76/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F76%2Fs3
+[/us/pl/109/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F76
 [/us/stat/119/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2035
-[/us/pl/109/9/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs105
+[/us/pl/109/9/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtI
 [/us/stat/119/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F222
-[/us/pl/108/482/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs204%2Fb
+[/us/pl/108/482/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2FtII
 [/us/stat/118/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3917
-[/us/pl/108/458/s6703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6703%2Fb
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3766
-[/us/pl/108/358/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358%2Fs3
+[/us/pl/108/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F358
 [/us/stat/118/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1664
-[/us/pl/108/275/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275%2Fs5
+[/us/pl/108/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275
 [/us/stat/118/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F833
-[/us/pl/108/187/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs4%2Fb
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2705
-[/us/pl/108/21/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs104%2Fa
+[/us/pl/108/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtI
 [/us/stat/117/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F653
-[/us/pl/108/21/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fb
+[/us/pl/108/21/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIV
 [/us/stat/117/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F668
-[/us/pl/108/21/s504/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs504%2Fc%2F2
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F682
-[/us/pl/108/21/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs512
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F685
-[/us/pl/108/21/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs513%2Fc
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F685
-[/us/pl/108/21/s608/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs608%2Fe
+[/us/pl/108/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtVI
 [/us/stat/117/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F691
-[/us/pl/107/296/s225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fb
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2156
-[/us/pl/107/273/s11008/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11008%2Fe
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1819
-[/us/pl/107/204/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs805
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F802
-[/us/pl/107/204/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs905
+[/us/pl/107/204/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIX
 [/us/stat/116/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F805
-[/us/pl/107/204/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs1104
+[/us/pl/107/204/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtXI
 [/us/stat/116/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F808
-[/us/pl/107/155/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs314
+[/us/pl/107/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2FtIII
 [/us/stat/116/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F107
-[/us/pl/107/56/s814/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Ff
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F384
-[/us/pl/106/420/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420%2Fs3
+[/us/pl/106/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420
 [/us/stat/114/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1868
-[/us/pl/106/386/s1107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1107%2Fb%2F2
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1498
-[/us/pl/106/310/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3611
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1228
-[/us/pl/106/310/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3612
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1228
-[/us/pl/106/310/s3651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3651
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1238
-[/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1242
-[/us/pl/106/160/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160%2Fs3
+[/us/pl/106/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F160
 [/us/stat/113/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1774
-[/us/pl/105/318/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs4
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/stat/112/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3009
-[/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
+[/us/pl/105/314/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtV
 [/us/stat/112/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2980
-[/us/pl/105/184/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184%2Fs6
+[/us/pl/105/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184
 [/us/stat/112/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F521
-[/us/pl/105/172/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172%2Fs2%2Fe
+[/us/pl/105/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172
 [/us/stat/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F55
-[/us/pl/105/147/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147%2Fs2%2Fg
+[/us/pl/105/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147
 [/us/stat/111/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2680
 [/us/pl/105/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F101
 [/us/stat/111/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2202
-[/us/pl/105/368/s403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs403%2Fd%2F1
+[/us/pl/105/368/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtIV
 [/us/stat/112/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3339
-[/us/pl/104/305/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305%2Fs2%2Fb%2F3
+[/us/pl/104/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F305
 [/us/stat/110/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3808
-[/us/pl/104/237/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs203%2Fb
+[/us/pl/104/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtII
 [/us/stat/110/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3102
-[/us/pl/104/237/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs301
+[/us/pl/104/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtIII
 [/us/stat/110/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3105
-[/us/pl/104/237/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs302%2Fc
+[/us/pl/104/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtIII
 [/us/stat/110/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3105
-[/us/pl/104/237/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2Fs303
+[/us/pl/104/237/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F237%2FtIII
 [/us/stat/110/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3106
-[/us/pl/104/208/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs203%2Fe
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-566
-[/us/pl/104/208/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs211%2Fb
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-569
-[/us/pl/104/208/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs218%2Fb
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-573
-[/us/pl/104/208/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs333
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-634
-[/us/pl/104/208/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs334
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-635
-[/us/pl/104/201/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1423
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2725
-[/us/pl/105/261/s1069/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fc%2F1
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
-[/us/pl/104/132/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs208
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1240
-[/us/pl/104/132/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs730
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1303
-[/us/pl/104/132/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs805
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1305
-[/us/pl/104/132/s807/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs807%2Fh
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1308
 [/us/pl/104/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F71
 [/us/stat/109/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F774
-[/us/pl/103/322/s40111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40111%2Fb
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1903
-[/us/pl/103/322/s40112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40112
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1903
-[/us/pl/103/322/s40503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40503%2Fc
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1947
-[/us/pl/103/322/s80001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs80001%2Fb
+[/us/pl/103/322/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVIII
 [/us/stat/108/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1986
-[/us/pl/103/322/s90102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90102
+[/us/pl/103/322/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIX
 [/us/stat/108/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1987
-[/us/pl/103/322/s90103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90103%2Fb
+[/us/pl/103/322/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIX
 [/us/stat/108/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1987
-[/us/pl/103/322/s110501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110501
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2015
-[/us/pl/103/322/s110502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110502
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2015
-[/us/pl/103/322/s110512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110512
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2019
-[/us/pl/103/322/s110513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110513
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2019
-[/us/pl/103/322/s120004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs120004
+[/us/pl/103/322/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXII
 [/us/stat/108/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2022
-[/us/pl/103/322/s140008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs140008
+[/us/pl/103/322/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIV
 [/us/stat/108/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2033
-[/us/pl/103/322/s180201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs180201%2Fc
+[/us/pl/103/322/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVIII
 [/us/stat/108/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2047
-[/us/pl/103/322/s240002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs240002
+[/us/pl/103/322/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXIV
 [/us/stat/108/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2081
-[/us/pl/103/322/s250003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250003
+[/us/pl/103/322/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXV
 [/us/stat/108/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2085
-[/us/pl/103/322/s280003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280003
+[/us/pl/103/322/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVIII
 [/us/stat/108/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2096
-[/us/pl/111/84/s4703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4703%2Fa
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2836
-[/us/pl/102/141/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2Fs632
+[/us/pl/102/141/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2FtVI
 [/us/stat/105/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F876
-[/us/pl/101/647/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs321
+[/us/pl/101/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtIII
 [/us/stat/104/4817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4817
-[/us/pl/101/647/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2507
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4862
-[/us/pl/101/647/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2701
+[/us/pl/101/647/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXVII
 [/us/stat/104/4912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4912
-[/us/pl/101/73/s961/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs961%2Fm
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F501
-[/us/pl/100/700/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700%2Fs2%2Fb
+[/us/pl/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700
 [/us/stat/102/4631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4631
-[/us/pl/100/690/s6453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6453
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4371
-[/us/pl/100/690/s6454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6454
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4372
-[/us/pl/100/690/s6468/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6468%2Fc
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4376
-[/us/pl/100/690/s6482/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6482%2Fc
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4382
 [/us/pl/104/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F38
 [/us/stat/109/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F334
@@ -826,7 +826,7 @@
 [/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
 [/us/pl/98/473/s235/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1%2FB%2Fii
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/98/473/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs236
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2033
 [/us/usc/t28/s994/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa%2F1
 

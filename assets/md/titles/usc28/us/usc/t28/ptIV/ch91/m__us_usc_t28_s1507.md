@@ -17,7 +17,7 @@
 
     The United States Court of Federal Claims shall have jurisdiction to hear any suit for and issue a declaratory judgment under section 7428 of the Internal Revenue Code of 1986.
 
-(Added [Pub. L. 94–455, title XIII, § 1306(b)(9)(A)][/us/pl/94/455/s1306/b/9/A], Oct. 4, 1976, [90 Stat. 1720][/us/stat/90/1720]; amended [Pub. L. 97–164, title I, § 133(i)][/us/pl/97/164/s133/i], Apr. 2, 1982, [96 Stat. 41][/us/stat/96/41]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1306(b)(9)(A), Oct. 4, 1976, [90 Stat. 1720][/us/stat/90/1720]; amended [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 133(i), Apr. 2, 1982, [96 Stat. 41][/us/stat/96/41]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __References in Text__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1306/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1306%2Fb%2F9%2FA
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1720
-[/us/pl/97/164/s133/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs133%2Fi
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F41
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/usc/t26/s7428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7428
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572

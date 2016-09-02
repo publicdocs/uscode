@@ -31,7 +31,7 @@
 
         (5) has a charge pending against him for the commission of, or has been convicted in a State or Federal court of record of, a crime punishable by imprisonment for more than one year and his civil rights have not been restored.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 58][/us/stat/82/58]; [Pub. L. 92–269, § 1][/us/pl/92/269/s1], Apr. 6, 1972, [86 Stat. 117][/us/stat/86/117]; [Pub. L. 95–572, § 3(a)][/us/pl/95/572/s3/a], Nov. 2, 1978, [92 Stat. 2453][/us/stat/92/2453]; [Pub. L. 100–702, title VIII, § 803(b)][/us/pl/100/702/s803/b], Nov. 19, 1988, [102 Stat. 4658][/us/stat/102/4658]; [Pub. L. 106–518, title III, § 305][/us/pl/106/518/s305], Nov. 13, 2000, [114 Stat. 2418][/us/stat/114/2418].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 58][/us/stat/82/58]; [Pub. L. 92–269][/us/pl/92/269], § 1, Apr. 6, 1972, [86 Stat. 117][/us/stat/86/117]; [Pub. L. 95–572][/us/pl/95/572], § 3(a), Nov. 2, 1978, [92 Stat. 2453][/us/stat/92/2453]; [Pub. L. 100–702, title VIII][/us/pl/100/702/tVIII], § 803(b), Nov. 19, 1988, [102 Stat. 4658][/us/stat/102/4658]; [Pub. L. 106–518, title III][/us/pl/106/518/tIII], § 305, Nov. 13, 2000, [114 Stat. 2418][/us/stat/114/2418].)
 
  __Historical and Revision Notes__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–518, § 305(1)][/us/pl/106/518/s305/1], inserted “or the clerk under supervision of the court if the court’s jury selection plan so authorizes,” after “jury commission,”.
+    2000—Subsec. (a). [Pub. L. 106–518][/us/pl/106/518], § 305(1), inserted “or the clerk under supervision of the court if the court’s jury selection plan so authorizes,” after “jury commission,”.
 
-    Subsec. (b). [Pub. L. 106–518, § 305(2)][/us/pl/106/518/s305/2], inserted “or the clerk if the court’s jury selection plan so provides,” after “may provide,” in introductory provisions.
+    Subsec. (b). [Pub. L. 106–518][/us/pl/106/518], § 305(2), inserted “or the clerk if the court’s jury selection plan so provides,” after “may provide,” in introductory provisions.
 
     1988—Subsec. (a). [Pub. L. 100–702][/us/pl/100/702] substituted “in any alphabetical” for “the alphabetical”.
 
@@ -78,23 +78,23 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F952
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F58
-[/us/pl/92/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F269%2Fs1
+[/us/pl/92/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F269
 [/us/stat/86/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F117
-[/us/pl/95/572/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs3%2Fa
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/stat/92/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2453
-[/us/pl/100/702/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs803%2Fb
+[/us/pl/100/702/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVIII
 [/us/stat/102/4658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4658
-[/us/pl/106/518/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs305
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2418
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1121
 [/us/usc/t28/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs413
 [/us/usc/t28/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs115
 [/us/usc/t28/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs181
-[/us/pl/106/518/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs305%2F1
-[/us/pl/106/518/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs305%2F2
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/pl/92/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F269

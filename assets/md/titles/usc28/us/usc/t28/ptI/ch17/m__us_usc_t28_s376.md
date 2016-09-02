@@ -355,7 +355,7 @@
 
     (x) For each year of Federal judicial service completed, judicial officials who are enrolled in the Judicial Survivors’ Annuities System on the date of enactment of the Judicial Survivors Protection Act of 2009 may purchase, in 3-month increments, up to an additional year of service credit, under the terms set forth in this section. In the case of judicial officials who elect to enroll in the Judicial Survivors’ Annuities System during the statutory open enrollment period authorized under the Judicial Survivors Protection Act of 2009, for each year of Federal judicial service completed, such an official may purchase, in 3-month increments, up to an additional year of service credit for each year of Federal judicial service completed, under the terms set forth in section 4(a) of that Act.
 
-(Added [Aug. 3, 1956, ch. 944, § 2][/us/act/1956-08-03/ch944/s2], [70 Stat. 1021][/us/stat/70/1021]; amended [Pub. L. 85–508, § 12(n)][/us/pl/85/508/s12/n], July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 90–219, title II, § 202][/us/pl/90/219/s202], Dec. 20, 1967, [81 Stat. 668][/us/stat/81/668]; [Pub. L. 90–466, § 1(a)][/us/pl/90/466/s1/a], Aug. 8, 1968, [82 Stat. 662][/us/stat/82/662]; [Pub. L. 92–397][/us/pl/92/397], §§ 2, 3(c), Aug. 22, 1972, [86 Stat. 579][/us/stat/86/579], 580; [Pub. L. 94–554, § 2][/us/pl/94/554/s2], Oct. 19, 1976, [90 Stat. 2603][/us/stat/90/2603]; [Pub. L. 95–598, title II, § 211][/us/pl/95/598/s211], Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 99–336, § 2(a)][/us/pl/99/336/s2/a], (d)(1)–(3), (e), June 19, 1986, [100 Stat. 633][/us/stat/100/633], 635–637; [Pub. L. 99–396, § 21(b)][/us/pl/99/396/s21/b], Aug. 27, 1986, [100 Stat. 846][/us/stat/100/846]; [Pub. L. 100–659, § 3(a)][/us/pl/100/659/s3/a], Nov. 15, 1988, [102 Stat. 3917][/us/stat/102/3917]; [Pub. L. 100–702, title X, § 1017(a)][/us/pl/100/702/s1017/a], Nov. 19, 1988, [102 Stat. 4670][/us/stat/102/4670]; [Pub. L. 101–650, title III][/us/pl/101/650], §§ 306(b), 321, 322(a)–(f), (g)\[(h)\], Dec. 1, 1990, [104 Stat. 5109][/us/stat/104/5109], 5117–5120; [Pub. L. 102–572, title II, § 201(a)][/us/pl/102/572/s201/a]–(i), title IX, § 902(b), Oct. 29, 1992, [106 Stat. 4508–4510][/us/stat/106/4508-4510], 4516; [Pub. L. 104–317, title III][/us/pl/104/317], §§ 302, 308, Oct. 19, 1996, [110 Stat. 3851][/us/stat/110/3851], 3853; [Pub. L. 106–518, title III, § 312(b)][/us/pl/106/518/s312/b], Nov. 13, 2000, [114 Stat. 2421][/us/stat/114/2421]; [Pub. L. 110–402, § 1(b)(2)][/us/pl/110/402/s1/b/2], Oct. 13, 2008, [122 Stat. 4254][/us/stat/122/4254]; [Pub. L. 110–428, § 3(a)][/us/pl/110/428/s3/a], (b), Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840]; [Pub. L. 111–49, § 6][/us/pl/111/49/s6], Aug. 12, 2009, [123 Stat. 1977][/us/stat/123/1977]; [Pub. L. 112–234, § 2(b)][/us/pl/112/234/s2/b], Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624].)
+(Added [Aug. 3, 1956, ch. 944][/us/act/1956-08-03/ch944], § 2, [70 Stat. 1021][/us/stat/70/1021]; amended [Pub. L. 85–508][/us/pl/85/508], § 12(n), July 7, 1958, [72 Stat. 348][/us/stat/72/348]; [Pub. L. 90–219, title II][/us/pl/90/219/tII], § 202, Dec. 20, 1967, [81 Stat. 668][/us/stat/81/668]; [Pub. L. 90–466][/us/pl/90/466], § 1(a), Aug. 8, 1968, [82 Stat. 662][/us/stat/82/662]; [Pub. L. 92–397][/us/pl/92/397], §§ 2, 3(c), Aug. 22, 1972, [86 Stat. 579][/us/stat/86/579], 580; [Pub. L. 94–554][/us/pl/94/554], § 2, Oct. 19, 1976, [90 Stat. 2603][/us/stat/90/2603]; [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 211, Nov. 6, 1978, [92 Stat. 2661][/us/stat/92/2661]; [Pub. L. 99–336][/us/pl/99/336], § 2(a), (d)(1)–(3), (e), June 19, 1986, [100 Stat. 633][/us/stat/100/633], 635–637; [Pub. L. 99–396][/us/pl/99/396], § 21(b), Aug. 27, 1986, [100 Stat. 846][/us/stat/100/846]; [Pub. L. 100–659][/us/pl/100/659], § 3(a), Nov. 15, 1988, [102 Stat. 3917][/us/stat/102/3917]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1017(a), Nov. 19, 1988, [102 Stat. 4670][/us/stat/102/4670]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], §§ 306(b), 321, 322(a)–(f), (g)\[(h)\], Dec. 1, 1990, [104 Stat. 5109][/us/stat/104/5109], 5117–5120; [Pub. L. 102–572, title II][/us/pl/102/572/tII], § 201(a)–(i), title IX, § 902(b), Oct. 29, 1992, [106 Stat. 4508–4510][/us/stat/106/4508-4510], 4516; [Pub. L. 104–317, title III][/us/pl/104/317/tIII], §§ 302, 308, Oct. 19, 1996, [110 Stat. 3851][/us/stat/110/3851], 3853; [Pub. L. 106–518, title III][/us/pl/106/518/tIII], § 312(b), Nov. 13, 2000, [114 Stat. 2421][/us/stat/114/2421]; [Pub. L. 110–402][/us/pl/110/402], § 1(b)(2), Oct. 13, 2008, [122 Stat. 4254][/us/stat/122/4254]; [Pub. L. 110–428][/us/pl/110/428], § 3(a), (b), Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840]; [Pub. L. 111–49][/us/pl/111/49], § 6, Aug. 12, 2009, [123 Stat. 1977][/us/stat/123/1977]; [Pub. L. 112–234][/us/pl/112/234], § 2(b), Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624].)
 
  __References in Text__ 
 
@@ -373,23 +373,23 @@
 
  __Amendments__ 
 
-    2012—Subsec. (h)(2). [Pub. L. 112–234, § 2(b)(2)][/us/pl/112/234/s2/b/2], substituted “subsection (w)” for “subsection (x)”.
+    2012—Subsec. (h)(2). [Pub. L. 112–234][/us/pl/112/234], § 2(b)(2), substituted “subsection (w)” for “subsection (x)”.
 
-    Subsecs. (w) to (y). [Pub. L. 112–234, § 2(b)(1)][/us/pl/112/234/s2/b/1], redesignated subsecs. (x) and (y) as (w) and (x), respectively, and struck out former subsec. (w) which read as follows: “The Comptroller General of the United States shall, at the end of each 3-fiscal year period, determine whether the contributions by judicial officials under subsection (b) during that 3-year period accounted for 50 percent of the costs of the Judicial Survivors’ Annuities Fund and if not, then what adjustments in the contribution rates under subsection (b) should be made to achieve that 50 percent figure. The Comptroller General shall report the results of each determination under this subsection to the Congress.”
+    Subsecs. (w) to (y). [Pub. L. 112–234][/us/pl/112/234], § 2(b)(1), redesignated subsecs. (x) and (y) as (w) and (x), respectively, and struck out former subsec. (w) which read as follows: “The Comptroller General of the United States shall, at the end of each 3-fiscal year period, determine whether the contributions by judicial officials under subsection (b) during that 3-year period accounted for 50 percent of the costs of the Judicial Survivors’ Annuities Fund and if not, then what adjustments in the contribution rates under subsection (b) should be made to achieve that 50 percent figure. The Comptroller General shall report the results of each determination under this subsection to the Congress.”
 
     2009—Subsec. (y). [Pub. L. 111–49][/us/pl/111/49] added subsec. (y).
 
     2008—Subsec. (a)(1)(E), (2)(E). [Pub. L. 110–402][/us/pl/110/402] substituted “a Counselor” for “an administrative assistant”.
 
-    Subsec. (h)(2). [Pub. L. 110–428, § 3(b)][/us/pl/110/428/s3/b], substituted “, subject to subsection (x).” for period at end.
+    Subsec. (h)(2). [Pub. L. 110–428][/us/pl/110/428], § 3(b), substituted “, subject to subsection (x).” for period at end.
 
-    Subsec. (x). [Pub. L. 110–428, § 3(a)][/us/pl/110/428/s3/a], added subsec. (x).
+    Subsec. (x). [Pub. L. 110–428][/us/pl/110/428], § 3(a), added subsec. (x).
 
-    2000—Subsec. (a)(1)(D). [Pub. L. 106–518, § 312(b)(1)][/us/pl/106/518/s312/b/1], substituted “subsection (a)” for “subsection (b)”.
+    2000—Subsec. (a)(1)(D). [Pub. L. 106–518][/us/pl/106/518], § 312(b)(1), substituted “subsection (a)” for “subsection (b)”.
 
-    Subsec. (a)(2)(D). [Pub. L. 106–518, § 312(b)(2)][/us/pl/106/518/s312/b/2], substituted “subsection (b) or (c)” for “subsection (c) or (d)”.
+    Subsec. (a)(2)(D). [Pub. L. 106–518][/us/pl/106/518], § 312(b)(2), substituted “subsection (b) or (c)” for “subsection (c) or (d)”.
 
-    1996—Subsec. (b)(1). [Pub. L. 104–317, § 308][/us/pl/104/317/s308], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every judicial official who files a written notification of his or her intention to come within the purview of this section, in accordance with paragraph (1) of subsection (a) of this section, shall be deemed thereby to consent and agree to having deducted and withheld from his or her salary, a sum equal to 2.2 percent of that salary, and a sum equal to 3.5 percent of his or her retirement salary. The deduction from any retirement salary—
+    1996—Subsec. (b)(1). [Pub. L. 104–317][/us/pl/104/317], § 308, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every judicial official who files a written notification of his or her intention to come within the purview of this section, in accordance with paragraph (1) of subsection (a) of this section, shall be deemed thereby to consent and agree to having deducted and withheld from his or her salary, a sum equal to 2.2 percent of that salary, and a sum equal to 3.5 percent of his or her retirement salary. The deduction from any retirement salary—
 
     “(A) of a justice or judge of the United States retired from regular active service who is described in [section 371(b)(1) of this title][/us/usc/t28/s371/b/1],
 
@@ -401,97 +401,97 @@
 
     shall be an amount equal to 2.2 percent of retirement salary.”
 
-    Subsec. (o)(1). [Pub. L. 104–317, § 302][/us/pl/104/317/s302], substituted “while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section,” for “or while receiving ‘retirement salary’,” in introductory provisions.
+    Subsec. (o)(1). [Pub. L. 104–317][/us/pl/104/317], § 302, substituted “while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section,” for “or while receiving ‘retirement salary’,” in introductory provisions.
 
     1992—Subsec. (a)(1). [Pub. L. 102–572][/us/pl/102/572], §§ 201(a), 902(b)(2), in concluding provisions substituted “Court of Federal Claims” for “Claims Court” in cl. (vi) and added cl. (vii).
 
-    Subsec. (a)(1)(G), (2)(G). [Pub. L. 102–572, § 902(b)(1)][/us/pl/102/572/s902/b/1], substituted “United States Court of Federal Claims” for “United States Claims Court”.
+    Subsec. (a)(1)(G), (2)(G). [Pub. L. 102–572][/us/pl/102/572], § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    Subsec. (b). [Pub. L. 102–572, § 201(b)][/us/pl/102/572/s201/b], designated first sentence as par. (1), substituted “a sum equal to 2.2 percent of that salary, and a sum equal to 3.5 percent of his or her retirement salary.” and second sentence for “including any ‘retirement salary’, a sum equal to 5 percent of that salary.”, added par. (2), designated last 3 sentences as par. (3), and substituted “deducted and withheld from the salary of each judicial official under paragraphs (1) and (2) of this subsection” for “so deducted and withheld from the salary of each such judicial official”.
+    Subsec. (b). [Pub. L. 102–572][/us/pl/102/572], § 201(b), designated first sentence as par. (1), substituted “a sum equal to 2.2 percent of that salary, and a sum equal to 3.5 percent of his or her retirement salary.” and second sentence for “including any ‘retirement salary’, a sum equal to 5 percent of that salary.”, added par. (2), designated last 3 sentences as par. (3), and substituted “deducted and withheld from the salary of each judicial official under paragraphs (1) and (2) of this subsection” for “so deducted and withheld from the salary of each such judicial official”.
 
-    Subsec. (d)(1), (2). [Pub. L. 102–572, § 201(c)][/us/pl/102/572/s201/c], substituted “3.5 percent” for “5 percent”.
+    Subsec. (d)(1), (2). [Pub. L. 102–572][/us/pl/102/572], § 201(c), substituted “3.5 percent” for “5 percent”.
 
-    Subsec. (g). [Pub. L. 102–572, § 201(d)][/us/pl/102/572/s201/d], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If any judicial official resigns from office without receiving any ‘retirement salary,’ all amounts credited to his or her individual account, together with interest at 4 percent per annum to December 31, 1947; and at 3 percent per annum thereafter, compounded on December 31 of each year, to the date of his or her relinquishment of office, shall be returned to that judicial official in a lump-sum payment within a reasonable period of time following the date of his or her relinquishment of office. For the purposes of this subsection a ‘reasonable period of time’ shall be presumed to be no longer than one year following the date upon which such judicial official relinquished his or her office.”
+    Subsec. (g). [Pub. L. 102–572][/us/pl/102/572], § 201(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If any judicial official resigns from office without receiving any ‘retirement salary,’ all amounts credited to his or her individual account, together with interest at 4 percent per annum to December 31, 1947; and at 3 percent per annum thereafter, compounded on December 31 of each year, to the date of his or her relinquishment of office, shall be returned to that judicial official in a lump-sum payment within a reasonable period of time following the date of his or her relinquishment of office. For the purposes of this subsection a ‘reasonable period of time’ shall be presumed to be no longer than one year following the date upon which such judicial official relinquished his or her office.”
 
-    Subsec. (h)(1). [Pub. L. 102–572, § 201(e)][/us/pl/102/572/s201/e], substituted “while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section” for “or while receiving ‘retirement salary,’ ”.
+    Subsec. (h)(1). [Pub. L. 102–572][/us/pl/102/572], § 201(e), substituted “while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section” for “or while receiving ‘retirement salary,’ ”.
 
-    Subsec. (k)(5). [Pub. L. 102–572, § 201(f)][/us/pl/102/572/s201/f], added par. (5).
+    Subsec. (k)(5). [Pub. L. 102–572][/us/pl/102/572], § 201(f), added par. (5).
 
-    Subsec. (l)(1). [Pub. L. 102–572, § 201(g)][/us/pl/102/572/s201/g], substituted “, or during those three years while receiving a retirement salary, in which his or her annual salary or retirement salary” for “in which his or her annual salary” in cl. (i) of introductory provisions, added subpar. (D), and redesignated former subpar. (D) as (E).
+    Subsec. (l)(1). [Pub. L. 102–572][/us/pl/102/572], § 201(g), substituted “, or during those three years while receiving a retirement salary, in which his or her annual salary or retirement salary” for “in which his or her annual salary” in cl. (i) of introductory provisions, added subpar. (D), and redesignated former subpar. (D) as (E).
 
-    Subsec. (v). [Pub. L. 102–572, § 201(h)][/us/pl/102/572/s201/h], added subsec. (v).
+    Subsec. (v). [Pub. L. 102–572][/us/pl/102/572], § 201(h), added subsec. (v).
 
-    Subsec. (w). [Pub. L. 102–572, § 201(i)][/us/pl/102/572/s201/i], added subsec. (w).
+    Subsec. (w). [Pub. L. 102–572][/us/pl/102/572], § 201(i), added subsec. (w).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–650, § 306(b)(1)][/us/pl/101/650/s306/b/1], added subpar. (G) and cl. (vi) before semicolon at end.
+    1990—Subsec. (a)(1). [Pub. L. 101–650][/us/pl/101/650], § 306(b)(1), added subpar. (G) and cl. (vi) before semicolon at end.
 
-    Subsec. (a)(2)(G). [Pub. L. 101–650, § 306(b)(2)][/us/pl/101/650/s306/b/2], added subpar. (G).
+    Subsec. (a)(2)(G). [Pub. L. 101–650][/us/pl/101/650], § 306(b)(2), added subpar. (G).
 
-    Subsec. (a)(5)(C). [Pub. L. 101–650, § 322(g)(2)][/us/pl/101/650/s322/g/2], substituted “paragraph” for “subparagraph”.
+    Subsec. (a)(5)(C). [Pub. L. 101–650][/us/pl/101/650], § 322(g)(2), substituted “paragraph” for “subparagraph”.
 
-    Subsec. (a)(7). [Pub. L. 101–650, § 322(b)][/us/pl/101/650/s322/b], added par. (7).
+    Subsec. (a)(7). [Pub. L. 101–650][/us/pl/101/650], § 322(b), added par. (7).
 
-    Subsec. (b). [Pub. L. 101–650, § 306(b)(3)][/us/pl/101/650/s306/b/3], substituted “section 178 or 377” for “section 377” in two places.
+    Subsec. (b). [Pub. L. 101–650][/us/pl/101/650], § 306(b)(3), substituted “section 178 or 377” for “section 377” in two places.
 
-    Subsec. (h)(1). [Pub. L. 101–650, § 322(a)(1)][/us/pl/101/650/s322/a/1]–(4), inserted “(A)” before “after having completed”, inserted “, or (B) if the death of such judicial official was by assassination, before having satisfied the requirements of clause (A) if, for the period of such service, the deductions provided by subsection (b) or, in lieu thereof, the deposits required by subsection (d) have actually been made” after “have actually been made”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, in cl. (ii) redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in cl. (iii) redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, and in subcl. (I) substituted “clause (i) of this paragraph” for “subparagraph (1)(A) of this subsection”.
+    Subsec. (h)(1). [Pub. L. 101–650][/us/pl/101/650], § 322(a)(1)–(4), inserted “(A)” before “after having completed”, inserted “, or (B) if the death of such judicial official was by assassination, before having satisfied the requirements of clause (A) if, for the period of such service, the deductions provided by subsection (b) or, in lieu thereof, the deposits required by subsection (d) have actually been made” after “have actually been made”, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, in cl. (ii) redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, in cl. (iii) redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, and in subcl. (I) substituted “clause (i) of this paragraph” for “subparagraph (1)(A) of this subsection”.
 
-    Subsec. (h)(2). [Pub. L. 101–650, § 322(g)(1)(A)][/us/pl/101/650/s322/g/1/A], substituted “clause (i) or (ii) of paragraph (1)” for “subparagraphs (1)(A) or (1)(B)”.
+    Subsec. (h)(2). [Pub. L. 101–650][/us/pl/101/650], § 322(g)(1)(A), substituted “clause (i) or (ii) of paragraph (1)” for “subparagraphs (1)(A) or (1)(B)”.
 
-    Subsec. (h)(3). [Pub. L. 101–650, § 322(g)(1)(B)][/us/pl/101/650/s322/g/1/B], substituted “paragraph” for “subparagraph” wherever appearing.
+    Subsec. (h)(3). [Pub. L. 101–650][/us/pl/101/650], § 322(g)(1)(B), substituted “paragraph” for “subparagraph” wherever appearing.
 
-    Subsec. (h)(4). [Pub. L. 101–650, § 322(g)(1)(C)][/us/pl/101/650/s322/g/1/C], substituted “paragraph (1)(ii)” for “subparagraph (1)(B)” in two places and “paragraph (1)(iii)” for “subparagraph (1)(C)”.
+    Subsec. (h)(4). [Pub. L. 101–650][/us/pl/101/650], § 322(g)(1)(C), substituted “paragraph (1)(ii)” for “subparagraph (1)(B)” in two places and “paragraph (1)(iii)” for “subparagraph (1)(C)”.
 
-    Subsec. (h)(6). [Pub. L. 101–650, § 322(a)(5)][/us/pl/101/650/s322/a/5], added par. (6).
+    Subsec. (h)(6). [Pub. L. 101–650][/us/pl/101/650], § 322(a)(5), added par. (6).
 
-    Subsec. (i). [Pub. L. 101–650, § 322(c)][/us/pl/101/650/s322/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (i). [Pub. L. 101–650][/us/pl/101/650], § 322(c), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (l)(1)(ii). [Pub. L. 101–650, § 322(d)][/us/pl/101/650/s322/d], struck out “but more than eighteen months,” after “less than three years,”.
+    Subsec. (l)(1)(ii). [Pub. L. 101–650][/us/pl/101/650], § 322(d), struck out “but more than eighteen months,” after “less than three years,”.
 
-    Subsec. (o). [Pub. L. 101–650, § 322(e)][/us/pl/101/650/s322/e], inserted “(1)” after “(o)”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “subject to paragraph (2) of this subsection,” before “before having completed” in subpar. (A), and added par. (2).
+    Subsec. (o). [Pub. L. 101–650][/us/pl/101/650], § 322(e), inserted “(1)” after “(o)”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, inserted “subject to paragraph (2) of this subsection,” before “before having completed” in subpar. (A), and added par. (2).
 
-    Subsec. (u). [Pub. L. 101–650, § 322(f)][/us/pl/101/650/s322/f], added subsec. (u).
+    Subsec. (u). [Pub. L. 101–650][/us/pl/101/650], § 322(f), added subsec. (u).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–659, § 3(a)(1)][/us/pl/100/659/s3/a/1], added subpar. (F) and substituted “, (iv) October 1, 1986, or (v) the date of the enactment of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, in the case of a full-time bankruptcy judge or United States magistrate in active service on that date;” for “; or (iv) October 1, 1986;” in concluding provisions.
+    1988—Subsec. (a)(1). [Pub. L. 100–659][/us/pl/100/659], § 3(a)(1), added subpar. (F) and substituted “, (iv) October 1, 1986, or (v) the date of the enactment of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, in the case of a full-time bankruptcy judge or United States magistrate in active service on that date;” for “; or (iv) October 1, 1986;” in concluding provisions.
 
-    Subsec. (a)(2)(F). [Pub. L. 100–659, § 3(a)(2)][/us/pl/100/659/s3/a/2], added subpar. (F).
+    Subsec. (a)(2)(F). [Pub. L. 100–659][/us/pl/100/659], § 3(a)(2), added subpar. (F).
 
-    Subsec. (b). [Pub. L. 100–659, § 3(a)(3)][/us/pl/100/659/s3/a/3], inserted “(and any deductions made under [section 377 of this title][/us/usc/t28/s377] or under subchapter III of chapter 83, or chapter 84, of title 5)” after “deductions” and “(and under [section 377 of this title][/us/usc/t28/s377] or under subchapter III of chapter 83, or chapter 84, of title 5)” before period at end of last sentence.
+    Subsec. (b). [Pub. L. 100–659][/us/pl/100/659], § 3(a)(3), inserted “(and any deductions made under [section 377 of this title][/us/usc/t28/s377] or under subchapter III of chapter 83, or chapter 84, of title 5)” after “deductions” and “(and under [section 377 of this title][/us/usc/t28/s377] or under subchapter III of chapter 83, or chapter 84, of title 5)” before period at end of last sentence.
 
     Subsec. (m). [Pub. L. 100–702][/us/pl/100/702] amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Whenever the salary paid for service in one of the offices designated in paragraph (1) of subsection (a) of this section is increased, each annuity payable from the ‘Judicial Survivors’ Annuities Fund’, which is based, in whole or in part, upon a deceased judicial official having rendered some portion of his or her final eighteen months of service in that same office, shall also be increased. The actual amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each 5 percent by which such salary has been increased. In the event that such salary is increased by less than 5 percent, there shall be no increase in such annuity.”
 
-    1986—Subsec. (a)(1). [Pub. L. 99–336, § 2(a)(1)][/us/pl/99/336/s2/a/1], substituted “she marries, (iii) January 1, 1977; or (iv) October 1, 1986” for “she marries, or (iii) the date upon which the Judicial Survivors’ Annuities Reform Act becomes effective” in concluding provision.
+    1986—Subsec. (a)(1). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(1), substituted “she marries, (iii) January 1, 1977; or (iv) October 1, 1986” for “she marries, or (iii) the date upon which the Judicial Survivors’ Annuities Reform Act becomes effective” in concluding provision.
 
-    Subsec. (a)(1)(B). [Pub. L. 99–396, § 21(b)(1)][/us/pl/99/396/s21/b/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands;”.
+    Subsec. (a)(1)(B). [Pub. L. 99–396][/us/pl/99/396], § 21(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands;”.
 
-    Subsec. (a)(2)(B). [Pub. L. 99–396, § 21(b)(2)][/us/pl/99/396/s21/b/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands, salary paid after retirement from office (i) by resignation on salary under [section 373 of this title][/us/usc/t28/s373] or (ii) by removal or failure of reappointment after not less than ten years’ judicial service;”.
+    Subsec. (a)(2)(B). [Pub. L. 99–396][/us/pl/99/396], § 21(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a judge of the United States District Court for the District of the Canal Zone, the District Court of Guam, or the District Court of the Virgin Islands, salary paid after retirement from office (i) by resignation on salary under [section 373 of this title][/us/usc/t28/s373] or (ii) by removal or failure of reappointment after not less than ten years’ judicial service;”.
 
-    Subsec. (a)(6). [Pub. L. 99–336, § 2(d)(1)][/us/pl/99/336/s2/d/1], added par. (6).
+    Subsec. (a)(6). [Pub. L. 99–336][/us/pl/99/336], § 2(d)(1), added par. (6).
 
-    Subsec. (b). [Pub. L. 99–336, § 2(a)(2)][/us/pl/99/336/s2/a/2], substituted “5 percent” for “4.5 percent”.
+    Subsec. (b). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(2), substituted “5 percent” for “4.5 percent”.
 
-    Subsec. (c). [Pub. L. 99–336, § 2(a)(3)][/us/pl/99/336/s2/a/3], in amending subsec. (c) generally, designated existing provisions as par. (1), substituted provisions which related to amounts deposited to credit of Judicial Survivors’ Annuities Fund to reduce unfunded liability of Fund to zero, for provisions which related to deposit of amounts matching those deducted and withheld in accordance with subsec. (b), and added pars. (2) and (3).
+    Subsec. (c). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(3), in amending subsec. (c) generally, designated existing provisions as par. (1), substituted provisions which related to amounts deposited to credit of Judicial Survivors’ Annuities Fund to reduce unfunded liability of Fund to zero, for provisions which related to deposit of amounts matching those deducted and withheld in accordance with subsec. (b), and added pars. (2) and (3).
 
-    Subsec. (d). [Pub. L. 99–336, § 2(a)(2)][/us/pl/99/336/s2/a/2], substituted “5 percent” for “4.5 percent” in pars. (1) and (2).
+    Subsec. (d). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(2), substituted “5 percent” for “4.5 percent” in pars. (1) and (2).
 
-    Subsec. (h)(1)(B). [Pub. L. 99–336, § 2(a)(4)(A)][/us/pl/99/336/s2/a/4/A], substituted “10 percent of the average annual salary determined under subsection (l)(1) of this section” for “$1,548” in cl. (i) and “20 percent of such average annual salary” for “$4,644” in cl. (ii).
+    Subsec. (h)(1)(B). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(4)(A), substituted “10 percent of the average annual salary determined under subsection (l)(1) of this section” for “$1,548” in cl. (i) and “20 percent of such average annual salary” for “$4,644” in cl. (ii).
 
-    Subsec. (h)(1)(C). [Pub. L. 99–336, § 2(a)(4)(B)][/us/pl/99/336/s2/a/4/B], substituted “20 percent of the average annual salary determined under subsection (l)(1) of this section” for “$1,860” in cl. (ii) and “40 percent of such average annual salary amount” for “$5,580” in cl. (iii).
+    Subsec. (h)(1)(C). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(4)(B), substituted “20 percent of the average annual salary determined under subsection (l)(1) of this section” for “$1,860” in cl. (ii) and “40 percent of such average annual salary amount” for “$5,580” in cl. (iii).
 
-    Subsec. (h)(2). [Pub. L. 99–336, § 2(a)(4)(C)][/us/pl/99/336/s2/a/4/C], inserted “before attaining age 55” after “or remarriage”.
+    Subsec. (h)(2). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(4)(C), inserted “before attaining age 55” after “or remarriage”.
 
-    Subsec. (k)(1). [Pub. L. 99–336, § 2(e)][/us/pl/99/336/s2/e], struck out “under subsection (b) of” before “section 371”.
+    Subsec. (k)(1). [Pub. L. 99–336][/us/pl/99/336], § 2(e), struck out “under subsection (b) of” before “section 371”.
 
-    Subsec. (l). [Pub. L. 99–336, § 2(a)(5)(C)][/us/pl/99/336/s2/a/5/C], (d)(3)(A), substituted provisions which set annuity limit not to exceed 50 percent of, nor be less than 25 percent of, average annual salary, for provisions which set annuity limit not to exceed 40 percent of average annual salary, and inserted provision that annuity determined in accordance with provisions of subsec. (l) be reduced by the amount of any annuity payable to a former spouse under subsection (t).
+    Subsec. (l). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(5)(C), (d)(3)(A), substituted provisions which set annuity limit not to exceed 50 percent of, nor be less than 25 percent of, average annual salary, for provisions which set annuity limit not to exceed 40 percent of average annual salary, and inserted provision that annuity determined in accordance with provisions of subsec. (l) be reduced by the amount of any annuity payable to a former spouse under subsection (t).
 
-    Subsec. (l)(1). [Pub. L. 99–336, § 2(a)(5)(A)][/us/pl/99/336/s2/a/5/A], substituted “1.5 percent” for “1¼ percent”.
+    Subsec. (l)(1). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(5)(A), substituted “1.5 percent” for “1¼ percent”.
 
-    Subsec. (l)(2). [Pub. L. 99–336, § 2(a)(5)(B)][/us/pl/99/336/s2/a/5/B], substituted “of this subsection;” for “of this subsection:”.
+    Subsec. (l)(2). [Pub. L. 99–336][/us/pl/99/336], § 2(a)(5)(B), substituted “of this subsection;” for “of this subsection:”.
 
-    Subsec. (n). [Pub. L. 99–336, § 2(d)(3)(B)][/us/pl/99/336/s2/d/3/B], inserted “except as provided in subsections (s) and (t),” after “in equity,” in last sentence.
+    Subsec. (n). [Pub. L. 99–336][/us/pl/99/336], § 2(d)(3)(B), inserted “except as provided in subsections (s) and (t),” after “in equity,” in last sentence.
 
-    Subsec. (o)(2), (3). [Pub. L. 99–336, § 2(d)(3)(C)][/us/pl/99/336/s2/d/3/C], inserted “or (t)” after “subsection (h)”.
+    Subsec. (o)(2), (3). [Pub. L. 99–336][/us/pl/99/336], § 2(d)(3)(C), inserted “or (t)” after “subsection (h)”.
 
-    Subsecs. (s), (t). [Pub. L. 99–336, § 2(d)(2)][/us/pl/99/336/s2/d/2], added subsecs. (s) and (t).
+    Subsecs. (s), (t). [Pub. L. 99–336][/us/pl/99/336], § 2(d)(2), added subsecs. (s) and (t).
 
     1978—Subsec. (a)(2)(A). [Pub. L. 95–598][/us/pl/95/598] directed the amendment of subpar. (A) by adding cl. (iii) relating to bankruptcy judges, which amendment did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
 
@@ -511,7 +511,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–428, § 3(c)][/us/pl/110/428/s3/c], Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840], as amended by [Pub. L. 111–32, title V, § 501(a)][/us/pl/111/32/s501/a], June 24, 2009, [123 Stat. 1879][/us/stat/123/1879], provided that:
+[Pub. L. 110–428][/us/pl/110/428], § 3(c), Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840], as amended by [Pub. L. 111–32, title V][/us/pl/111/32/tV], § 501(a), June 24, 2009, [123 Stat. 1879][/us/stat/123/1879], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -535,7 +535,7 @@
 
 >         Any amounts becoming payable to the widow or widower under this subsection for the period beginning on the date on which the annuity was terminated and ending on the date on which periodic annuity payments resume shall be payable in a lump-sum payment.”
 
-\[[Pub. L. 111–32, title V, § 501(b)][/us/pl/111/32/s501/b], June 24, 2009, [123 Stat. 1879][/us/stat/123/1879], provided that: 
+\[[Pub. L. 111–32, title V][/us/pl/111/32/tV], § 501(b), June 24, 2009, [123 Stat. 1879][/us/stat/123/1879], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 3(c) of Pub. L. 110–428][/us/pl/110/428/s3/c], set out above\] shall take effect as if included in the enactment of [Public Law 110–428][/us/pl/110/428].”
 
@@ -543,7 +543,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–572, title II, § 202][/us/pl/102/572/s202], Oct. 29, 1992, [106 Stat. 4511][/us/stat/106/4511], provided that: 
+[Pub. L. 102–572, title II][/us/pl/102/572/tII], § 202, Oct. 29, 1992, [106 Stat. 4511][/us/stat/106/4511], provided that: 
 
 > “This title \[amending this section and enacting provisions set out below\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
 
@@ -553,7 +553,7 @@
 
     Amendment by [section 306(b) of Pub. L. 101–650][/us/pl/101/650/s306/b] applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see [section 306(f) of Pub. L. 101–650][/us/pl/101/650/s306/f], as amended, set out as a note under [section 8331 of Title 5][/us/usc/t5/s8331], Government Organization and Employees.
 
-[Pub. L. 101–650, title III, § 322(g)][/us/pl/101/650/s322/g], Dec. 1, 1990, [104 Stat. 5119][/us/stat/104/5119], provided that:
+[Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 322(g), Dec. 1, 1990, [104 Stat. 5119][/us/stat/104/5119], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -577,7 +577,7 @@
 
  __Effective Date of 1988 Amendments__ 
 
-[Pub. L. 100–702, title X, § 1017(c)][/us/pl/100/702/s1017/c], Nov. 19, 1988, [102 Stat. 4670][/us/stat/102/4670], provided that: 
+[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1017(c), Nov. 19, 1988, [102 Stat. 4670][/us/stat/102/4670], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to increases in annuities which are made under [section 8340(b) of title 5][/us/usc/t5/s8340/b], United States Code, on or after the date of enactment of this title \[Nov. 19, 1988\].”
 
@@ -587,13 +587,13 @@
 
     Amendment by [Pub. L. 99–396][/us/pl/99/396] not to affect the amount payable to a judge who retired in accordance with the provisions of [section 373 of this title][/us/usc/t28/s373] in effect on the day before Aug. 27, 1986, see [section 21(c) of Pub. L. 99–396][/us/pl/99/396/s21/c], set out as a note under [section 373 of this title][/us/usc/t28/s373].
 
-[Pub. L. 99–336, § 2(f)][/us/pl/99/336/s2/f], June 19, 1986, [100 Stat. 637][/us/stat/100/637], provided that: 
+[Pub. L. 99–336][/us/pl/99/336], § 2(f), June 19, 1986, [100 Stat. 637][/us/stat/100/637], provided that: 
 
 > “This section \[amending this section and enacting provisions set out below\] shall take effect on October 1, 1986.”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–554, § 8][/us/pl/94/554/s8], Oct. 19, 1976, [90 Stat. 2612][/us/stat/90/2612], provided: 
+[Pub. L. 94–554][/us/pl/94/554], § 8, Oct. 19, 1976, [90 Stat. 2612][/us/stat/90/2612], provided: 
 
 > “That this Act \[amending this section and enacting provisions set out below\] shall become effective on the first day of the third month following the month in which it is enacted \[Jan. 1, 1977\], or on October 1, 1976, whichever occurs last.”
 
@@ -607,7 +607,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 94–554, § 6][/us/pl/94/554/s6], Oct. 19, 1976, [90 Stat. 2611][/us/stat/90/2611], provided: 
+[Pub. L. 94–554][/us/pl/94/554], § 6, Oct. 19, 1976, [90 Stat. 2611][/us/stat/90/2611], provided: 
 
 > “That the benefits conferred by this Act shall, on the date upon which this Act becomes effective \[Jan. 1, 1977\], immediately become available to any individual then receiving an annuity under [section 2 of the Act of August 3, 1956][/us/act/1956-08-03/s2] ([70 Stat. 1021][/us/stat/70/1021]) \[enacting this section\], as amended: Provided, That although the rights of any judicial official electing to come within the purview of [section 376 of title 28][/us/usc/t28/s376], United States Code, on or after the date upon which this Act becomes effective, shall be determined exclusively under the provisions of that section as amended by this Act, nothing in this Act shall be interpreted to cancel, abrogate, or diminish any rights to which an individual or his or her survivors may be entitled by virtue of that individuals having contributed to the judicial survivors annuity fund established by [section 2 of the Act of August 3, 1956][/us/act/1956-08-03/s2] ([70 Stat. 1021][/us/stat/70/1021]) as amended, before the date upon which this Act becomes effective.”
 
@@ -689,13 +689,13 @@
 
  __Credit for Contributions Prior to 1992 Amendment at Higher Rate__ 
 
-[Pub. L. 102–572, title II, § 201(j)][/us/pl/102/572/s201/j], Oct. 29, 1992, [106 Stat. 4510][/us/stat/106/4510], provided that: 
+[Pub. L. 102–572, title II][/us/pl/102/572/tII], § 201(j), Oct. 29, 1992, [106 Stat. 4510][/us/stat/106/4510], provided that: 
 
 > “Notwithstanding any other provision of law, the contribution under section 376(b)(1) or (2) of title 28, United States Code (as amended by this section), of any judicial official who is within the purview of such section 376 on the effective date of this title \[Oct. 29, 1992\] shall be reduced by 0.5 percent for a period of time equal to the number of years of service for which the judicial official has made contributions or deposits before the enactment of this Act \[Oct. 29, 1992\] to the credit of the Judicial Survivors’ Annuities Fund or for 18 months, whichever is less, if such contributions or deposits were never returned to the judicial official. For purposes of this subsection, the term ‘years’ shall mean full years and twelfth parts thereof.”
 
  __Redeposit of Contributions Prior to 1992 Amendment__ 
 
-[Pub. L. 102–572, title II, § 201(k)][/us/pl/102/572/s201/k], Oct. 29, 1992, [106 Stat. 4510][/us/stat/106/4510], provided that: 
+[Pub. L. 102–572, title II][/us/pl/102/572/tII], § 201(k), Oct. 29, 1992, [106 Stat. 4510][/us/stat/106/4510], provided that: 
 
 > “Any judicial official as defined in [section 376(a)(1) of title 28][/us/usc/t28/s376/a/1], United States Code, who makes an election under [section 376(b) of title 28][/us/usc/t28/s376/b], United States Code, may make a redeposit, as required by [section 7 of Public Law 94–554][/us/pl/94/554/s7] \[set out below\] and [section 2(c)(2) of Public Law 99–336][/us/pl/99/336/s2/c/2] \[set out below\], to the credit of the Judicial Survivors’ Annuities Fund in installments, in such amounts and under such conditions as may be determined in each instance by the Director of the Administrative Office of the United States Courts. If a judicial official elects to make a redeposit in installments—
 
@@ -705,23 +705,23 @@
 
  __Audit by GAO__ 
 
-    [Pub. L. 102–572, title II, § 201][/us/pl/102/572/s201](l), Oct. 29, 1992, [106 Stat. 4511][/us/stat/106/4511], required that the Comptroller General conduct an audit of the judicial survivors’ annuities program under [section 376 of title 28][/us/usc/t28/s376] for the 3-year period beginning on Oct. 29, 1992, and report to Congress on the results of such audit, comparing such program to other survivors’ annuities programs within the Federal Government, not later than 60 days after the end of that 3-year period.
+    [Pub. L. 102–572, title II][/us/pl/102/572/tII], § 201(l), Oct. 29, 1992, [106 Stat. 4511][/us/stat/106/4511], required that the Comptroller General conduct an audit of the judicial survivors’ annuities program under [section 376 of title 28][/us/usc/t28/s376] for the 3-year period beginning on Oct. 29, 1992, and report to Congress on the results of such audit, comparing such program to other survivors’ annuities programs within the Federal Government, not later than 60 days after the end of that 3-year period.
 
  __Increase for Existing Annuitants__ 
 
-[Pub. L. 100–702, title X, § 1017(b)][/us/pl/100/702/s1017/b], Nov. 19, 1988, [102 Stat. 4670][/us/stat/102/4670], provided that: 
+[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1017(b), Nov. 19, 1988, [102 Stat. 4670][/us/stat/102/4670], provided that: 
 
 > “Each annuity payable from the Judicial Survivors’ Annuities Fund under [section 376 of title 28][/us/usc/t28/s376], United States Code, on the date of the enactment of this title \[Nov. 19, 1988\] shall be increased by 10 percent, effective on such date of enactment.”
 
  __Survivors’ Annuities for Incumbents__ 
 
-[Pub. L. 100–659, § 3(b)][/us/pl/100/659/s3/b], Nov. 15, 1988, [102 Stat. 3918][/us/stat/102/3918], as amended by [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 517][/us/stat/104/517], provided that: 
+[Pub. L. 100–659][/us/pl/100/659], § 3(b), Nov. 15, 1988, [102 Stat. 3918][/us/stat/102/3918], as amended by [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 517][/us/stat/104/517], provided that: 
 
 > “In the case of a bankruptcy judge or magistrate judge who elects an annuity under section 2(c) \[[28 U.S.C. 377][/us/usc/t28/s377] note\], only service for which an annuity under subsection (b) or (c) and subsection (g) of [section 377 of title 28][/us/usc/t28/s377], United States Code, as added by section 2 of this Act, is calculated under section 2(c) may be used in the computation of an annuity under [section 376 of title 28][/us/usc/t28/s376], United States Code, as amended by subsection (a) of this section.”
 
  __Covered Beneficiaries Under__  __[__  __Pub. L. 99–336__  __][/us/pl/99/336]__ 
 
-[Pub. L. 99–336, § 2(b)][/us/pl/99/336/s2/b], June 19, 1986, [100 Stat. 634][/us/stat/100/634], provided that: 
+[Pub. L. 99–336][/us/pl/99/336], § 2(b), June 19, 1986, [100 Stat. 634][/us/stat/100/634], provided that: 
 
 > “The benefits conferred by [section 376 of title 28][/us/usc/t28/s376], United States Code, by reason of the amendments made by this section shall apply only to individuals who become eligible for annuities under such section on or after the effective date of this section \[Oct. 1, 1986\], except that—
 
@@ -731,7 +731,7 @@
 
  __Revocation of Election; Eligibility Subsequent to Revocation__ 
 
-[Pub. L. 99–336, § 2(c)][/us/pl/99/336/s2/c], June 19, 1986, [100 Stat. 634][/us/stat/100/634], provided that:
+[Pub. L. 99–336][/us/pl/99/336], § 2(c), June 19, 1986, [100 Stat. 634][/us/stat/100/634], provided that:
 
 >     “(1) Within 180 days after the effective date of this section \[Oct. 1, 1986\], any judicial official who, before such effective date, made an election under [section 376 of title 28][/us/usc/t28/s376], United States Code, to come within the purview of that section, shall be entitled to revoke that election. Such revocation shall constitute a complete withdrawal from the judicial survivors’ annuities program provided for in such section 376. No such revocation shall be effective unless it is submitted in writing to the Director of the Administrative Office of the United States Courts, and until such writing is received by the Director. Upon receipt by the Director of such writing, any rights to survivorship benefits for the survivors of such judicial official shall terminate, and all amounts credited to the individual account of such judicial official under section 376(e), together with interest at 3 percent per annum, compounded on December 31 of each year to such date of revocation, shall be returned to that judicial official in a lump-sum payment.
 
@@ -741,13 +741,13 @@
 
  __Payment of Retirement Salary Pursuant to Court Decree of Divorce, Etc.__ 
 
-[Pub. L. 99–336, § 2(d)(4)][/us/pl/99/336/s2/d/4], June 19, 1986, [100 Stat. 636][/us/stat/100/636], provided that: 
+[Pub. L. 99–336][/us/pl/99/336], § 2(d)(4), June 19, 1986, [100 Stat. 636][/us/stat/100/636], provided that: 
 
 > “Payments of retirement salary as defined in [section 376(a)(2) of title 28][/us/usc/t28/s376/a/2], United States Code, which would otherwise be made to the judicial official upon whose service the retirement salary is based, shall be paid (in whole or in part) to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person. This paragraph shall apply only to payments made after the date of receipt by the Director of the Administrative Office of \[the\] United States Courts of written notice of such decree, order, or agreement, and such additional information and documentation as the Director may prescribe. As used in this paragraph, ‘court’ means any court of any State or the District of Columbia.”
 
  __Annuity Payment to Surviving Spouses of Judges Who Died Before__  __October 19, 1976__ 
 
-[Pub. L. 96–504, § 3][/us/pl/96/504/s3], Dec. 5, 1980, [94 Stat. 2741][/us/stat/94/2741], provided that:
+[Pub. L. 96–504][/us/pl/96/504], § 3, Dec. 5, 1980, [94 Stat. 2741][/us/stat/94/2741], provided that:
 
 >     “(a) As of the first pay period beginning after the effective date of this Act \[Dec. 5, 1980\], a surviving spouse, other than a surviving spouse who has remarried, of any Justice of the United States (as defined by [section 451 of title 28][/us/usc/t28/s451], United States Code), who died before October 19, 1976, shall be paid an annuity in accordance with the provisions of [section 376 of title 28][/us/usc/t28/s376], United States Code, at a rate of $20,000 per year as if such Justice had elected to come within the provisions of, and having made the full deposit required by, [section 376(d) of title 28][/us/usc/t28/s376/d], United States Code.
 
@@ -755,57 +755,57 @@
 
  __Judicial Survivors’ Annuity Fund; Authorization of Appropriations__ 
 
-    [Pub. L. 96–504, § 4][/us/pl/96/504/s4], Dec. 5, 1980, [94 Stat. 2742][/us/stat/94/2742], required the Secretary of the Treasury in consultation with the Director of the Administrative Office of the United States Courts to determine as of Dec. 5, 1980, and deposit as soon as possible thereafter, the amount necessary to offset any actuarial deficiency in the Judicial Survivors Annuities Fund.
+    [Pub. L. 96–504][/us/pl/96/504], § 4, Dec. 5, 1980, [94 Stat. 2742][/us/stat/94/2742], required the Secretary of the Treasury in consultation with the Director of the Administrative Office of the United States Courts to determine as of Dec. 5, 1980, and deposit as soon as possible thereafter, the amount necessary to offset any actuarial deficiency in the Judicial Survivors Annuities Fund.
 
  __Judicial Survivors’ Annuities Fund__ 
 
-[Pub. L. 94–554, § 3][/us/pl/94/554/s3], Oct. 19, 1976, [90 Stat. 2611][/us/stat/90/2611], provided: 
+[Pub. L. 94–554][/us/pl/94/554], § 3, Oct. 19, 1976, [90 Stat. 2611][/us/stat/90/2611], provided: 
 
 > “That on the date upon which this Act becomes effective \[Jan. 1, 1977\] there shall be established on the books of the Treasury a fund which shall be known as ‘The Judicial Survivors’ Annuities Fund, and all money credited to the judicial survivors annuity fund established by [section 2 of the Act of August 3, 1956][/us/act/1956-08-03/s2] ([70 Stat. 1021][/us/stat/70/1021]) \[enacting this section\], as amended, shall be transferred to the credit of the Judicial Survivors’ Annuities Fund established by this section.”
 
  __Compensation for Actuarial Deficiency in the Annuities Fund__ 
 
-[Pub. L. 94–554, § 4][/us/pl/94/554/s4], Oct. 19, 1976, [90 Stat. 2611][/us/stat/90/2611], provided: 
+[Pub. L. 94–554][/us/pl/94/554], § 4, Oct. 19, 1976, [90 Stat. 2611][/us/stat/90/2611], provided: 
 
 > “That on the date upon which this Act becomes effective \[Jan. 1, 1977\] the Secretary of the Treasury shall ascertain from the Director of the Administrative Office of the United States Courts the amount of the actuarial deficiency in the fund transferred by section 3 of this Act \[see Judicial Survivors’ Annuities Fund note above\] on the date of that fund’s transfer and, at the earliest time thereafter at which appropriated funds in that amount shall become available, the Secretary shall deposit such funds, in a single payment, into the Judicial Survivors’ Annuities Fund established by section 3 of this Act. Such funds as are necessary to carry out this section are hereby authorized to be appropriated.”
 
  __Increases in Widows’ Annuities Paid Under Section 2 of Act__  __August 3, 1956__ 
 
-[Pub. L. 94–554, § 5][/us/pl/94/554/s5], Oct. 19, 1976, [90 Stat. 2611][/us/stat/90/2611], provided: 
+[Pub. L. 94–554][/us/pl/94/554], § 5, Oct. 19, 1976, [90 Stat. 2611][/us/stat/90/2611], provided: 
 
 > “That on the date upon which this Act becomes effective \[Jan. 1, 1977\] each annuity then being paid to a widow from the judicial survivors annuity fund established by [section 2 of the Act of August 3, 1956][/us/act/1956-08-03/s2] ([70 Stat. 1021][/us/stat/70/1021]) \[enacting this section\], as amended, shall be increased by an amount equal to one-fifth of 1 percent of the amount of such annuity multiplied by the number of months which have passed since the commencement of that annuity. For the purposes of this section, any fractional part of a month which numbers less than fifteen full days shall be excluded from the Computation of the number of months and any fractional part of a month which numbers fifteen full days or more shall be included in the computation as one full month. Such funds as are necessary to carry out this section are authorized to be appropriated and, upon appropriation, shall be deposited by the Secretary of the Treasury, in a single payment, to credit of the Judicial Survivors’ Annuities Fund established by section 3 of this Act \[see Judicial Survivors’ Annuities Fund note above\].”
 
  __Revocation of Election To Participate in Annuities Program__ 
 
-[Pub. L. 94–554, § 7][/us/pl/94/554/s7], Oct. 19, 1976, [90 Stat. 2612][/us/stat/90/2612], provided: 
+[Pub. L. 94–554][/us/pl/94/554], § 7, Oct. 19, 1976, [90 Stat. 2612][/us/stat/90/2612], provided: 
 
 > “That, at any time within one hundred and eighty days after the date upon which this Act becomes effective \[Jan. 1, 1977\], any judicial official who has, prior to that date, already participated in the judicial survivors annuity program created by the Act of August 3, 1956 ([70 Stat. 1021][/us/stat/70/1021]) \[enacting this section\] as amended, shall be entitled to revoke his or her earlier election to participate in that program and thereby completely withdraw from participation in the judicial survivors’ annuities program created by this Act: Provided, That (a) any such revocation may be effected only by means of a writing filed with the Director of the Administrative Office of the United States Courts, (b) any such writing shall be deemed to have become effective no sooner than the date upon which that writing is received by the Director, (c) upon receipt of such a writing by the Director, any and all rights to survivorship benefits for such judicial official’s survivors shall terminate, and all amounts credited to such judicial official’s individual account, together with interest at 3 percent per annum, compounded on December 31 of each year to that date of revocation, shall thereafter be returned to that judicial official in a lump-sum refund payment, and (d) any judicial official who effects such a revocation and who subsequently again becomes eligible and elects to join the judicial survivors annuities program created by this Act under the provisions of [section 376 of title 28][/us/usc/t28/s376], United States Code as amended by this Act, shall be permitted to do so only upon the redeposit of the full amount of the refund obtained under this section plus interest at 3 percent per annum, compounded on December 31 of each year from the date of the revocation until the date upon which that amount is redeposited. Any judicial official who fails to effect a revocation in accordance with the right conferred by this section within one hundred and eighty days after the date upon which this Act becomes effective shall be deemed to have irrevocably waived the right to that revocation.”
 
  __Judge Taking Office on__  __August 8, 1968__ 
 
-[Pub. L. 90–466, § 1(b)][/us/pl/90/466/s1/b], Aug. 8, 1968, [82 Stat. 662][/us/stat/82/662], provided that: 
+[Pub. L. 90–466][/us/pl/90/466], § 1(b), Aug. 8, 1968, [82 Stat. 662][/us/stat/82/662], provided that: 
 
 > “For the purpose of the amendment made by subsection (a) \[amending subsec. (a) of this section\], a judge who is in office on the date of enactment of this Act \[Aug. 8, 1968\] shall be deemed to have taken office on that date.”
 
  __Preservation of Rights of Judges of the District Court for the Territory of Alaska__ 
 
-    [Pub. L. 85–508, § 12(n)][/us/pl/85/508/s12/n], July 7, 1958, [72 Stat. 348][/us/stat/72/348], provided in part that the amendment of subsec. (q) of this section by [Pub. L. 85–508][/us/pl/85/508] shall not affect the rights under this section of any present or former judge of the District Court for the Territory of Alaska or his survivors.
+    [Pub. L. 85–508][/us/pl/85/508], § 12(n), July 7, 1958, [72 Stat. 348][/us/stat/72/348], provided in part that the amendment of subsec. (q) of this section by [Pub. L. 85–508][/us/pl/85/508] shall not affect the rights under this section of any present or former judge of the District Court for the Territory of Alaska or his survivors.
 
  __Appropriations__ 
 
-[Act Aug. 3, 1956, ch. 944, § 5][/us/act/1956-08-03/ch944/s5], [70 Stat. 1026][/us/stat/70/1026], provided that: 
+[Act Aug. 3, 1956, ch. 944][/us/act/1956-08-03/ch944], § 5, [70 Stat. 1026][/us/stat/70/1026], provided that: 
 
 > “Funds necessary to carry out the provisions of this Act \[enacting this section and provisions set out as notes below, and amending sections 375, 604, and 605 of this title\] may be appropriated out of any money in the Treasury not otherwise appropriated.”
 
  __Resigned, Removed, and Retired Judges__ 
 
-[Act Aug. 3, 1956, ch. 944, § 6][/us/act/1956-08-03/ch944/s6], [70 Stat. 1026][/us/stat/70/1026], provided that: 
+[Act Aug. 3, 1956, ch. 944][/us/act/1956-08-03/ch944], § 6, [70 Stat. 1026][/us/stat/70/1026], provided that: 
 
 > “A judge who resigned prior to the date of enactment of this Act \[Aug. 3, 1956\] and who on that date is receiving salary under [section 371(a) of title 28][/us/usc/t28/s371/a], United States Code, or who resigned, was removed or failed of reappointment prior to the date of enactment of this Act and who on that date is receiving salary under [section 373 of title 28][/us/usc/t28/s373], United States Code, shall be considered a judge within the meaning of [section 376 of title 28][/us/usc/t28/s376], United States Code, as added by section 2 of this Act, and as such shall be entitled within six months after the date of enactment of this Act to make the election authorized by and to receive the benefits of that section. A judge who retired from regular active service under section 260 of the Judicial Code of 1911 or the Act of August 5, 1939, chapter 433, and who is living on the date of enactment of this Act shall be deemed for the purposes of this Act to have retired from regular active service under section 371(b) or 372(a), as the case may be, of title 28, United States Code.”
 
  __Prior Death of Judge__ 
 
-[Act Aug. 3, 1956, ch. 944, § 7][/us/act/1956-08-03/ch944/s7], [70 Stat. 1026][/us/stat/70/1026], provided that: 
+[Act Aug. 3, 1956, ch. 944][/us/act/1956-08-03/ch944], § 7, [70 Stat. 1026][/us/stat/70/1026], provided that: 
 
 > “In the case of a living widow of a judge of the United States as defined in [section 451 of title 28][/us/usc/t28/s451], United States Code, who died prior to the date of enactment of this Act \[Aug. 3, 1956\], an annuity shall be paid as provided in [section 376 of title 28][/us/usc/t28/s376], United States Code, as added by section 2 of this Act, as if such judge had died on such date and had elected to bring himself within the purview of such section 376, but had not made the deposit provided for by subsection (c) of the said section: Provided, (a) That such widow has not remarried; and (b) that the amount of such annuity and the reduction therein because of such deposit not having been made shall be computed on the basis of the actual length of judicial and other allowable service of such judge: And provided further, That notwithstanding the provisions of subsection (g) of such section 376 such annuity shall be payable even though such judge had not rendered five years of civilian service prior to his death. In the case of a judge of the United States as defined in [section 451 of title 28][/us/usc/t28/s451], United States Code, who dies within 6 months after the date of enactment of this Act after having rendered at least 5 years of civilian service computed as prescribed in subsection (o) of [section 376 of title 28][/us/usc/t28/s376], United States Code, as added by section 2 of this Act, but without having made an election as provided in such section 376 to bring himself within the purview of that section, an annuity shall be paid to his widow and surviving dependent children as provided in such section 376 as if such judge had elected on the day of his death to bring himself within the purview of such section 376 but had not made the deposit provided for by subsection (c) of the said section. An annuity shall be payable under this section computed on the basis of the actual length of judicial and other allowable service of the judge and subject to the reduction required by subsection (c) of such section 376 even though no deposit has been made, as required by subsection (g) of such section 376, with respect to any of such service.”
 
@@ -838,43 +838,43 @@
 [/us/usc/t28/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs372
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb
-[/us/act/1956-08-03/ch944/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944%2Fs2
+[/us/act/1956-08-03/ch944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944
 [/us/stat/70/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1021
-[/us/pl/85/508/s12/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fn
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/90/219/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs202
+[/us/pl/90/219/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtII
 [/us/stat/81/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F668
-[/us/pl/90/466/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F466%2Fs1%2Fa
+[/us/pl/90/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F466
 [/us/stat/82/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F662
 [/us/pl/92/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F397
 [/us/stat/86/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F579
-[/us/pl/94/554/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554%2Fs2
+[/us/pl/94/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554
 [/us/stat/90/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2603
-[/us/pl/95/598/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs211
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2661
-[/us/pl/99/336/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F633
-[/us/pl/99/396/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs21%2Fb
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F846
-[/us/pl/100/659/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs3%2Fa
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/stat/102/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3917
-[/us/pl/100/702/s1017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1017%2Fa
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4670
-[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5109
-[/us/pl/102/572/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fa
+[/us/pl/102/572/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtII
 [/us/stat/106/4508-4510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4508-4510
-[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3851
-[/us/pl/106/518/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fb
+[/us/pl/106/518/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtIII
 [/us/stat/114/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2421
-[/us/pl/110/402/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402%2Fs1%2Fb%2F2
+[/us/pl/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402
 [/us/stat/122/4254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4254
-[/us/pl/110/428/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs3%2Fa
+[/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
 [/us/stat/122/4840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4840
-[/us/pl/111/49/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F49%2Fs6
+[/us/pl/111/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F49
 [/us/stat/123/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1977
-[/us/pl/112/234/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fb
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1624
 [/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
@@ -883,68 +883,68 @@
 [/us/pl/111/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F49
 [/us/pl/111/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F49
 [/us/stat/123/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1976
-[/us/pl/112/234/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fb%2F2
-[/us/pl/112/234/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fb%2F1
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/pl/111/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F49
 [/us/pl/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F402
-[/us/pl/110/428/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs3%2Fb
-[/us/pl/110/428/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs3%2Fa
-[/us/pl/106/518/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fb%2F1
-[/us/pl/106/518/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs312%2Fb%2F2
-[/us/pl/104/317/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs308
+[/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
+[/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/106/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/usc/t28/s371/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fb%2F1
 [/us/usc/t28/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs372%2Fa
 [/us/usc/t28/s294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs294
 [/us/usc/t28/s178/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs178%2Fd
-[/us/pl/104/317/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs302
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
-[/us/pl/102/572/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fb
-[/us/pl/102/572/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fc
-[/us/pl/102/572/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fd
-[/us/pl/102/572/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fe
-[/us/pl/102/572/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Ff
-[/us/pl/102/572/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fg
-[/us/pl/102/572/s201/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fh
-[/us/pl/102/572/s201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fi
-[/us/pl/101/650/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs306%2Fb%2F1
-[/us/pl/101/650/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs306%2Fb%2F2
-[/us/pl/101/650/s322/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fg%2F2
-[/us/pl/101/650/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fb
-[/us/pl/101/650/s306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs306%2Fb%2F3
-[/us/pl/101/650/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fa%2F1
-[/us/pl/101/650/s322/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fg%2F1%2FA
-[/us/pl/101/650/s322/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fg%2F1%2FB
-[/us/pl/101/650/s322/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fg%2F1%2FC
-[/us/pl/101/650/s322/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fa%2F5
-[/us/pl/101/650/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fc
-[/us/pl/101/650/s322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fd
-[/us/pl/101/650/s322/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fe
-[/us/pl/101/650/s322/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Ff
-[/us/pl/100/659/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs3%2Fa%2F1
-[/us/pl/100/659/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs3%2Fa%2F2
-[/us/pl/100/659/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs3%2Fa%2F3
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
-[/us/pl/99/336/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F1
-[/us/pl/99/396/s21/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs21%2Fb%2F1
-[/us/pl/99/396/s21/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs21%2Fb%2F2
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
-[/us/pl/99/336/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fd%2F1
-[/us/pl/99/336/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F2
-[/us/pl/99/336/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F3
-[/us/pl/99/336/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F2
-[/us/pl/99/336/s2/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F4%2FA
-[/us/pl/99/336/s2/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F4%2FB
-[/us/pl/99/336/s2/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F4%2FC
-[/us/pl/99/336/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fe
-[/us/pl/99/336/s2/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F5%2FC
-[/us/pl/99/336/s2/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F5%2FA
-[/us/pl/99/336/s2/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fa%2F5%2FB
-[/us/pl/99/336/s2/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fd%2F3%2FB
-[/us/pl/99/336/s2/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fd%2F3%2FC
-[/us/pl/99/336/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fd%2F2
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
@@ -956,15 +956,15 @@
 [/us/usc/t28/s81A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs81A
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
-[/us/pl/110/428/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs3%2Fc
+[/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
 [/us/stat/122/4840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4840
-[/us/pl/111/32/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs501%2Fa
+[/us/pl/111/32/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtV
 [/us/stat/123/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1879
-[/us/pl/111/32/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs501%2Fb
+[/us/pl/111/32/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtV
 [/us/stat/123/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1879
 [/us/pl/110/428/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs3%2Fc
 [/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
-[/us/pl/102/572/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs202
+[/us/pl/102/572/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtII
 [/us/stat/106/4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4511
 [/us/pl/102/572/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
@@ -972,12 +972,12 @@
 [/us/pl/101/650/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs306%2Fb
 [/us/pl/101/650/s306/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs306%2Ff
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
-[/us/pl/101/650/s322/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs322%2Fg
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5119
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t28/s376/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fa%2F7
-[/us/pl/100/702/s1017/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1017%2Fc
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4670
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb
 [/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
@@ -987,9 +987,9 @@
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
 [/us/pl/99/396/s21/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs21%2Fc
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
-[/us/pl/99/336/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Ff
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F637
-[/us/pl/94/554/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554%2Fs8
+[/us/pl/94/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554
 [/us/stat/90/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2612
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
@@ -1001,7 +1001,7 @@
 [/us/usc/t28/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs611%2Fa
 [/us/pl/90/219/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs205%2Fb
 [/us/usc/t28/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs611
-[/us/pl/94/554/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554%2Fs6
+[/us/pl/94/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554
 [/us/stat/90/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2611
 [/us/act/1956-08-03/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fs2
 [/us/stat/70/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1021
@@ -1017,76 +1017,76 @@
 [/us/stat/90/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2611
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t28/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs178
-[/us/pl/102/572/s201/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fj
+[/us/pl/102/572/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtII
 [/us/stat/106/4510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4510
-[/us/pl/102/572/s201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201%2Fk
+[/us/pl/102/572/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtII
 [/us/stat/106/4510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4510
 [/us/usc/t28/s376/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fa%2F1
 [/us/usc/t28/s376/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fb
 [/us/pl/94/554/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554%2Fs7
 [/us/pl/99/336/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fc%2F2
 [/us/usc/t28/s376/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fb
-[/us/pl/102/572/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs201
+[/us/pl/102/572/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtII
 [/us/stat/106/4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4511
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
-[/us/pl/100/702/s1017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1017%2Fb
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4670
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
-[/us/pl/100/659/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659%2Fs3%2Fb
+[/us/pl/100/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F659
 [/us/stat/102/3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3918
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F517
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs377
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
-[/us/pl/99/336/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fb
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F634
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
-[/us/pl/99/336/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fc
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F634
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t28/s376/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fb
-[/us/pl/99/336/s2/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs2%2Fd%2F4
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F636
 [/us/usc/t28/s376/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fa%2F2
-[/us/pl/96/504/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F504%2Fs3
+[/us/pl/96/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F504
 [/us/stat/94/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2741
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
 [/us/usc/t28/s376/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fd
 [/us/usc/t28/s376/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fh
 [/us/usc/t28/s376/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376%2Fm
-[/us/pl/96/504/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F504%2Fs4
+[/us/pl/96/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F504
 [/us/stat/94/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2742
-[/us/pl/94/554/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554%2Fs3
+[/us/pl/94/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554
 [/us/stat/90/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2611
 [/us/act/1956-08-03/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fs2
 [/us/stat/70/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1021
-[/us/pl/94/554/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554%2Fs4
+[/us/pl/94/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554
 [/us/stat/90/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2611
-[/us/pl/94/554/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554%2Fs5
+[/us/pl/94/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554
 [/us/stat/90/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2611
 [/us/act/1956-08-03/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fs2
 [/us/stat/70/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1021
-[/us/pl/94/554/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554%2Fs7
+[/us/pl/94/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F554
 [/us/stat/90/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2612
 [/us/stat/70/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1021
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
-[/us/pl/90/466/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F466%2Fs1%2Fb
+[/us/pl/90/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F466
 [/us/stat/82/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F662
-[/us/pl/85/508/s12/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fn
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
-[/us/act/1956-08-03/ch944/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944%2Fs5
+[/us/act/1956-08-03/ch944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944
 [/us/stat/70/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1026
-[/us/act/1956-08-03/ch944/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944%2Fs6
+[/us/act/1956-08-03/ch944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944
 [/us/stat/70/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1026
 [/us/usc/t28/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fa
 [/us/usc/t28/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs373
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376
-[/us/act/1956-08-03/ch944/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944%2Fs7
+[/us/act/1956-08-03/ch944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944
 [/us/stat/70/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1026
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
 [/us/usc/t28/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs376

@@ -25,7 +25,7 @@
 
         (2) performance of duty as a juror includes that time when a juror is (A) in attendance at court pursuant to a summons, (B) in deliberation, (C) sequestered by order of a judge, or (D) at a site, by order of the court, for the taking of a view.
 
-(Added [Pub. L. 97–463, § 3(1)][/us/pl/97/463/s3/1], Jan. 12, 1983, [96 Stat. 2531][/us/stat/96/2531].)
+(Added [Pub. L. 97–463][/us/pl/97/463], § 3(1), Jan. 12, 1983, [96 Stat. 2531][/us/stat/96/2531].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t5/s8114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8114
-[/us/pl/97/463/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs3%2F1
+[/us/pl/97/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463
 [/us/stat/96/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2531
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

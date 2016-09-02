@@ -39,7 +39,7 @@
 
     (e) In any civil action not specified in this section, the Court of International Trade shall review the matter as provided in [section 706 of title 5][/us/usc/t5/s706].
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1736][/us/stat/94/1736]; amended [Pub. L. 98–573, title II, § 212(b)(5)][/us/pl/98/573/s212/b/5], Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984]; [Pub. L. 103–182, title VI, § 684(a)(4)][/us/pl/103/182/s684/a/4], Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1736][/us/stat/94/1736]; amended [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 212(b)(5), Oct. 30, 1984, [98 Stat. 2984][/us/stat/98/2984]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 684(a)(4), Dec. 8, 1993, [107 Stat. 2219][/us/stat/107/2219].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2640, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 982][/us/stat/62/982], authorized the division which had decided a case or the single judge who had decided an appeal for a reappraisement to grant a rehearing or retrial, prior to repeal by [Pub. L. 91–271, title I, § 121][/us/pl/91/271/s121], June 2, 1970, [84 Stat. 281][/us/stat/84/281]. See [section 2646 of this title][/us/usc/t28/s2646].
+    A prior section 2640, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 982][/us/stat/62/982], authorized the division which had decided a case or the single judge who had decided an appeal for a reappraisement to grant a rehearing or retrial, prior to repeal by [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 121, June 2, 1970, [84 Stat. 281][/us/stat/84/281]. See [section 2646 of this title][/us/usc/t28/s2646].
 
  __Amendments__ 
 
@@ -96,11 +96,11 @@
 
 [/us/usc/t28/s1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1582
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1736
-[/us/pl/98/573/s212/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs212%2Fb%2F5
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2984
-[/us/pl/103/182/s684/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs684%2Fa%2F4
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2219
 [/us/usc/t19/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1515
 [/us/usc/t19/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516
@@ -112,7 +112,7 @@
 [/us/usc/t19/s1499/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1499%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F982
-[/us/pl/91/271/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs121
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F281
 [/us/usc/t28/s2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2646
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182

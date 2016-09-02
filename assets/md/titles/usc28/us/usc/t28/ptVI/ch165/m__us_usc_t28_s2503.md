@@ -23,11 +23,11 @@
 
     (d) For the purpose of construing sections 1821, 1915, 1920, and 1927 of this title, the United States Court of Federal Claims shall be deemed to be a court of the United States.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 976][/us/stat/62/976]; [Sept. 3, 1954, ch. 1263, § 53][/us/act/1954-09-03/ch1263/s53], [68 Stat. 1246][/us/stat/68/1246]; [Pub. L. 97–164, title I, § 139(b)(1)][/us/pl/97/164/s139/b/1], Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 102–572, title IX][/us/pl/102/572], §§ 902(a), 909, Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4519.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 976][/us/stat/62/976]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 53, [68 Stat. 1246][/us/stat/68/1246]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(b)(1), Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], §§ 902(a), 909, Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4519.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 269, 276, and 278 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 168, 170, [36 Stat. 1140][/us/stat/36/1140]; [Feb. 24, 1925, ch. 301, § 1][/us/act/1925-02-24/ch301/s1], [43 Stat. 964][/us/stat/43/964]; [June 23, 1930, ch. 573, § 2][/us/act/1930-06-23/ch573/s2], [46 Stat. 799][/us/stat/46/799]).
+    Based on title 28, U.S.C., 1940 ed., §§ 269, 276, and 278 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 168, 170, [36 Stat. 1140][/us/stat/36/1140]; [Feb. 24, 1925, ch. 301][/us/act/1925-02-24/ch301], § 1, [43 Stat. 964][/us/stat/43/964]; [June 23, 1930, ch. 573][/us/act/1930-06-23/ch573], § 2, [46 Stat. 799][/us/stat/46/799]).
 
     Section consolidates provisions relating to proceedings before commissioners and reporter-commissioners contained in sections 269, 276, and 278 of title 28, U.S.C., 1940 ed.
 
@@ -47,11 +47,11 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–572, § 902(a)(1)][/us/pl/102/572/s902/a/1], substituted “United States Court of Federal Claims” for “United States Claims Court”.
+    1992—Subsec. (a). [Pub. L. 102–572][/us/pl/102/572], § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    Subsecs. (b), (c). [Pub. L. 102–572, § 902(a)(2)][/us/pl/102/572/s902/a/2], substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 102–572][/us/pl/102/572], § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
 
-    Subsec. (d). [Pub. L. 102–572, § 909][/us/pl/102/572/s909], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–572][/us/pl/102/572], § 909, added subsec. (d).
 
     1982—[Pub. L. 97–164][/us/pl/97/164] substituted “Proceedings generally” for “Proceedings before commissioners generally” in section catchline.
 
@@ -80,23 +80,23 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F976
-[/us/act/1954-09-03/ch1263/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs53
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1246
-[/us/pl/97/164/s139/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fb%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F42
-[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1140
-[/us/act/1925-02-24/ch301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch301%2Fs1
+[/us/act/1925-02-24/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch301
 [/us/stat/43/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F964
-[/us/act/1930-06-23/ch573/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch573%2Fs2
+[/us/act/1930-06-23/ch573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch573
 [/us/stat/46/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F799
 [/us/usc/t28/s269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs269
 [/us/usc/t28/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs792
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
-[/us/pl/102/572/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F2
-[/us/pl/102/572/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs909
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164

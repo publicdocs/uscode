@@ -27,7 +27,7 @@
 
     (c) A decision of the Court of International Trade is final and conclusive, unless a retrial or rehearing is granted pursuant to [section 2646 of this title][/us/usc/t28/s2646] or an appeal is taken to the Court of Appeals for the Federal Circuit by filing a notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1738][/us/stat/94/1738]; amended [Pub. L. 97–164, title I, § 141][/us/pl/97/164/s141], Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1738][/us/stat/94/1738]; amended [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 141, Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t28/s2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2646
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1738
-[/us/pl/97/164/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs141
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F45
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/usc/t28/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2601

@@ -23,11 +23,11 @@
 
     A suit for the fees of an officer of the United States shall not be filed until his account for such fees has been finally acted upon, unless the Government Accountability Office fails to act within six months after receiving the account.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 976][/us/stat/62/976]; [Sept. 3, 1954, ch. 1263, § 52][/us/act/1954-09-03/ch1263/s52], [68 Stat. 1246][/us/stat/68/1246]; [Pub. L. 97–164, title I, § 139(a)][/us/pl/97/164/s139/a], Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 102–572, title IX, § 902(a)(1)][/us/pl/102/572/s902/a/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 976][/us/stat/62/976]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 52, [68 Stat. 1246][/us/stat/68/1246]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(a), Apr. 2, 1982, [96 Stat. 42][/us/stat/96/42]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 250(2), 250a, and 262 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 145, 156, [36 Stat. 1136][/us/stat/36/1136], 1139; [June 10, 1921, ch. 18, § 304][/us/act/1921-06-10/ch18/s304], [42 Stat. 24][/us/stat/42/24]; [Aug. 30, 1935, ch. 831, § 13][/us/act/1935-08-30/ch831/s13], [49 Stat. 1049][/us/stat/49/1049]; [July 13, 1943, ch. 231][/us/act/1943-07-13/ch231], [57 Stat. 553][/us/stat/57/553]).
+    Based on title 28, U.S.C., 1940 ed., §§ 250(2), 250a, and 262 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 145, 156, [36 Stat. 1136][/us/stat/36/1136], 1139; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], § 304, [42 Stat. 24][/us/stat/42/24]; [Aug. 30, 1935, ch. 831][/us/act/1935-08-30/ch831], § 13, [49 Stat. 1049][/us/stat/49/1049]; [July 13, 1943, ch. 231][/us/act/1943-07-13/ch231], [57 Stat. 553][/us/stat/57/553]).
 
     Section consolidates limitation provisions of sections 250(2), 250a, and 262 of title 28, U.S.C., 1940 ed.
 
@@ -65,19 +65,19 @@
 [/us/usc/t28/s1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1497
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F976
-[/us/act/1954-09-03/ch1263/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs52
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1246
-[/us/pl/97/164/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fa
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F42
-[/us/pl/102/572/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1136
-[/us/act/1921-06-10/ch18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18%2Fs304
+[/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
-[/us/act/1935-08-30/ch831/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831%2Fs13
+[/us/act/1935-08-30/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fch831
 [/us/stat/49/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1049
 [/us/act/1943-07-13/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-13%2Fch231
 [/us/stat/57/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F553

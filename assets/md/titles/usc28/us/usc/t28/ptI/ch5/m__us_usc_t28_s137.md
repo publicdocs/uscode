@@ -25,7 +25,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 27 ([Mar. 3, 1911, ch. 231, § 23][/us/act/1911-03-03/ch231/s23], [36 Stat. 1090][/us/stat/36/1090]).
+    Based on title 28, U.S.C., 1940 ed., § 27 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 23, [36 Stat. 1090][/us/stat/36/1090]).
 
     Section was rewritten and the practice simplified. It provided for division of business and assignment of cases by agreement of judges and, in case of inability to agree, that the senior circuit judge of the circuit should make necessary orders.
 
@@ -132,7 +132,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F897
-[/us/act/1911-03-03/ch231/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs23
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1090
 [/us/usc/t28/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs332
 [/us/pl/111/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F349

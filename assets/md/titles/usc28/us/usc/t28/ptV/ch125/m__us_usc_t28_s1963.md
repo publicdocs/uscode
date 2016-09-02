@@ -21,7 +21,7 @@
 
     The procedure prescribed under this section is in addition to other procedures provided by law for the enforcement of judgments.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 958][/us/stat/62/958]; [Aug. 23, 1954, ch. 837][/us/act/1954-08-23/ch837], [68 Stat. 772][/us/stat/68/772]; [Pub. L. 85–508, § 12][/us/pl/85/508/s12](o), July 7, 1958, [72 Stat. 349][/us/stat/72/349]; [Pub. L. 100–702, title X, § 1002(a)][/us/pl/100/702/s1002/a], (b)(1), Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664]; [Pub. L. 101–647, title XXXVI, § 3628][/us/pl/101/647/s3628], Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965]; [Pub. L. 104–317, title II, § 203(a)][/us/pl/104/317/s203/a], Oct. 19, 1996, [110 Stat. 3849][/us/stat/110/3849].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 958][/us/stat/62/958]; [Aug. 23, 1954, ch. 837][/us/act/1954-08-23/ch837], [68 Stat. 772][/us/stat/68/772]; [Pub. L. 85–508][/us/pl/85/508], § 12(o), July 7, 1958, [72 Stat. 349][/us/stat/72/349]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1002(a), (b)(1), Nov. 19, 1988, [102 Stat. 4664][/us/stat/102/4664]; [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3628, Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965]; [Pub. L. 104–317, title II][/us/pl/104/317/tII], § 203(a), Oct. 19, 1996, [110 Stat. 3849][/us/stat/110/3849].)
 
  __Historical and Revision Notes__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–702, title X, § 1002(c)][/us/pl/100/702/s1002/c], Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665], provided that: 
+[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1002(c), Nov. 19, 1988, [102 Stat. 4665][/us/stat/102/4665], provided that: 
 
 > “The amendments made by this section \[amending this section and repealing [section 1963A of this title][/us/usc/t28/s1963A]\] take effect 90 days after the date of enactment of this title \[Nov. 19, 1988\].”
 
@@ -70,13 +70,13 @@
 [/us/stat/62/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F958
 [/us/act/1954-08-23/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch837
 [/us/stat/68/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F772
-[/us/pl/85/508/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F349
-[/us/pl/100/702/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1002%2Fa
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4664
-[/us/pl/101/647/s3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3628
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4965
-[/us/pl/104/317/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs203%2Fa
+[/us/pl/104/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtII
 [/us/stat/110/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3849
 [/us/stat/33/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F729
 [/us/stat/35/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1084
@@ -90,7 +90,7 @@
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/101/647/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3631
 [/us/usc/t28/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3001
-[/us/pl/100/702/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1002%2Fc
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4665
 [/us/usc/t28/s1963A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1963A
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

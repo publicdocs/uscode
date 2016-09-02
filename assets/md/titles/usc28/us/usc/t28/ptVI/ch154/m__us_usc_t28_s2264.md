@@ -27,7 +27,7 @@
 
     (b) Following review subject to subsections (a), (d), and (e) of section 2254, the court shall rule on the claims properly before it.
 
-(Added [Pub. L. 104–132, title I, § 107(a)][/us/pl/104/132/s107/a], Apr. 24, 1996, [110 Stat. 1223][/us/stat/110/1223].)
+(Added [Pub. L. 104–132, title I][/us/pl/104/132/tI], § 107(a), Apr. 24, 1996, [110 Stat. 1223][/us/stat/110/1223].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/132/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs107%2Fa
+[/us/pl/104/132/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtI
 [/us/stat/110/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1223
 
 

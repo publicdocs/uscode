@@ -47,7 +47,7 @@
 
     (d) Sections 44(c) and 134(b) of this title (relating to the residence of judges) do not apply to any judge holding a full-time position on the Commission under subsection (c) of this section.
 
-(Added [Pub. L. 98–473, title II, § 217(a)][/us/pl/98/473/s217/a], Oct. 12, 1984, [98 Stat. 2018][/us/stat/98/2018]; amended [Pub. L. 99–646][/us/pl/99/646], §§ 4, 6(a), Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592]; [Pub. L. 102–349, § 1][/us/pl/102/349/s1], Aug. 26, 1992, [106 Stat. 933][/us/stat/106/933]; [Pub. L. 103–322, title XXVIII, § 280005(b)][/us/pl/103/322/s280005/b], (c)(1), (3), Sept. 13, 1994, [108 Stat. 2096][/us/stat/108/2096], 2097.)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 217(a), Oct. 12, 1984, [98 Stat. 2018][/us/stat/98/2018]; amended [Pub. L. 99–646][/us/pl/99/646], §§ 4, 6(a), Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592]; [Pub. L. 102–349][/us/pl/102/349], § 1, Aug. 26, 1992, [106 Stat. 933][/us/stat/106/933]; [Pub. L. 103–322, title XXVIII][/us/pl/103/322/tXXVIII], § 280005(b), (c)(1), (3), Sept. 13, 1994, [108 Stat. 2096][/us/stat/108/2096], 2097.)
 
  __References in Text__ 
 
@@ -55,15 +55,15 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1). [Pub. L. 103–322, § 280005(c)(1)][/us/pl/103/322/s280005/c/1], substituted “Chair” for “Chairman”.
+    1994—Subsec. (a)(1). [Pub. L. 103–322][/us/pl/103/322], § 280005(c)(1), substituted “Chair” for “Chairman”.
 
-    Subsec. (c). [Pub. L. 103–322, § 280005(b)][/us/pl/103/322/s280005/b], (c)(3), amended first sentence generally, substituting “The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms” for “The Chairman of the Commission shall hold a full-time position and shall be compensated during the term”, in second sentence, substituted “Chair and Vice Chairs” for “Chairman”, in third sentence, substituted “Chair and Vice Chairs,” for “Chairman”, and in last sentence, substituted “the judge’s appointment” for “his appointment”.
+    Subsec. (c). [Pub. L. 103–322][/us/pl/103/322], § 280005(b), (c)(3), amended first sentence generally, substituting “The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms” for “The Chairman of the Commission shall hold a full-time position and shall be compensated during the term”, in second sentence, substituted “Chair and Vice Chairs” for “Chairman”, in third sentence, substituted “Chair and Vice Chairs,” for “Chairman”, and in last sentence, substituted “the judge’s appointment” for “his appointment”.
 
     1992—Subsec. (b). [Pub. L. 102–349][/us/pl/102/349] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No voting member may serve more than two full terms. A voting member appointed to fill a vacancy that occurs before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term.”
 
-    1986—Subsec. (c). [Pub. L. 99–646, § 4][/us/pl/99/646/s4], substituted “section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984” for “section 225(a)(1)(B)(ii) of the Sentencing Reform Act of 1983”.
+    1986—Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 4, substituted “section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984” for “section 225(a)(1)(B)(ii) of the Sentencing Reform Act of 1983”.
 
-    Subsec. (d). [Pub. L. 99–646, § 6(a)][/us/pl/99/646/s6/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–646][/us/pl/99/646], § 6(a), added subsec. (d).
 
  __Commencement of Terms of First Members of Commission__ 
 
@@ -76,21 +76,21 @@
 ----------
 ----------
 
-[/us/pl/98/473/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs217%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2018
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3592
-[/us/pl/102/349/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F349%2Fs1
+[/us/pl/102/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F349
 [/us/stat/106/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F933
-[/us/pl/103/322/s280005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fb
+[/us/pl/103/322/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXVIII
 [/us/stat/108/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2096
 [/us/pl/98/473/s235/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1%2FB%2Fii
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/103/322/s280005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fc%2F1
-[/us/pl/103/322/s280005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280005%2Fb
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/102/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F349
-[/us/pl/99/646/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs4
-[/us/pl/99/646/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs6%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/98/473/s235/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1%2FB%2Fii
 [/us/pl/98/473/s235/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F2
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

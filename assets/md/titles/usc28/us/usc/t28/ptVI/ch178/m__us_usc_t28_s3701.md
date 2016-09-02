@@ -39,11 +39,11 @@
 
     (5) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Palau, or any territory or possession of the United States.
 
-(Added [Pub. L. 102–559, § 2(a)][/us/pl/102/559/s2/a], Oct. 28, 1992, [106 Stat. 4227][/us/stat/106/4227].)
+(Added [Pub. L. 102–559][/us/pl/102/559], § 2(a), Oct. 28, 1992, [106 Stat. 4227][/us/stat/106/4227].)
 
  __Effective Date__ 
 
-[Pub. L. 102–559, § 3][/us/pl/102/559/s3], Oct. 28, 1992, [106 Stat. 4229][/us/stat/106/4229], provided that: 
+[Pub. L. 102–559][/us/pl/102/559], § 3, Oct. 28, 1992, [106 Stat. 4229][/us/stat/106/4229], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as a note under [section 1 of this title][/us/usc/t28/s1]\] shall take effect on January 1, 1993.”
 
@@ -57,9 +57,9 @@
 [/us/usc/t25/s2703/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2703%2F5
 [/us/usc/t25/s2703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2703%2F4
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
-[/us/pl/102/559/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559%2Fs2%2Fa
+[/us/pl/102/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559
 [/us/stat/106/4227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4227
-[/us/pl/102/559/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559%2Fs3
+[/us/pl/102/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559
 [/us/stat/106/4229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4229
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 

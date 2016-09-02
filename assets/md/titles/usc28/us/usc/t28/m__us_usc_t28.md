@@ -15,9 +15,9 @@
 
 # Title 28—JUDICIARY AND JUDICIAL PROCEDURE
 
-This title was enacted by [act June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 869][/us/stat/62/869]
+This title was enacted by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 869][/us/stat/62/869]
 
-Current through 114-115
+Current through 114-139
 
 <table>
 
@@ -95,7 +95,7 @@ Current through 114-115
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–554, § 4(a)][/us/pl/89/554/s4/a], Sept. 6, 1966, [80 Stat. 611][/us/stat/80/611], substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
+    1966—[Pub. L. 89–554][/us/pl/89/554], § 4(a), Sept. 6, 1966, [80 Stat. 611][/us/stat/80/611], substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
 
 <table>
 
@@ -8499,21 +8499,21 @@ Section 38 of [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 
 
  __Repeals; Rights and Liabilities Saved__ 
 
-    [Act June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 992][/us/stat/62/992], repealed the sections or parts thereof of the Revised Statutes of the United States, Statutes at Large, or the Revised Statutes of the District of Columbia covering provisions codified in this title, but saved any rights or liabilities then existing under said sections or parts thereof.
+    [Act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 39, [62 Stat. 992][/us/stat/62/992], repealed the sections or parts thereof of the Revised Statutes of the United States, Statutes at Large, or the Revised Statutes of the District of Columbia covering provisions codified in this title, but saved any rights or liabilities then existing under said sections or parts thereof.
 
-    R.S. § 1012 as affected by [act Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167] \[section 880 of former Title 28, Judicial Code and Judiciary\], provided that appeals from district courts shall be subject to the same rules, regulations, and restrictions as are or may be prescribed in law in cases of writs of error. This provision was repealed by [act June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 992][/us/stat/62/992]. Section 2 of [act Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], [45 Stat. 54][/us/stat/45/54], as amended [Apr. 26, 1928, ch. 440][/us/act/1928-04-26/ch440], [45 Stat. 466][/us/stat/45/466]; [June 25, 1948, ch. 646, § 23][/us/act/1948-06-25/ch646/s23], [62 Stat. 990][/us/stat/62/990] \[section 861b of former Title 28, Judicial Code and Judiciary\], provided that: “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.”
+    R.S. § 1012 as affected by [act Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167] \[section 880 of former Title 28, Judicial Code and Judiciary\], provided that appeals from district courts shall be subject to the same rules, regulations, and restrictions as are or may be prescribed in law in cases of writs of error. This provision was repealed by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 39, [62 Stat. 992][/us/stat/62/992]. Section 2 of [act Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], [45 Stat. 54][/us/stat/45/54], as amended [Apr. 26, 1928, ch. 440][/us/act/1928-04-26/ch440], [45 Stat. 466][/us/stat/45/466]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 23, [62 Stat. 990][/us/stat/62/990] \[section 861b of former Title 28, Judicial Code and Judiciary\], provided that: “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.”
 
  __Writs of Error__ 
 
-[Act Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54] \[section 861a of former Title 28, Judicial Code and Judiciary\], provided that: 
+[Act Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54] \[section 861a of former Title 28, Judicial Code and Judiciary\], provided that: 
 
 > “The writ of error in cases, civil and criminal, is abolished. All relief which heretofore \[Jan. 31, 1928\] could be obtained by writ of error shall hereafter be obtainable by appeal.”
 
- This provision was omitted from the 1948 Revised Judicial Code as obsolete, and repealed by [act June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 992][/us/stat/62/992].
+ This provision was omitted from the 1948 Revised Judicial Code as obsolete, and repealed by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 39, [62 Stat. 992][/us/stat/62/992].
 
  __Title 28 as Continuation of Existing Law; Change of Name of Circuit Courts of Appeals__ 
 
-[Act June 25, 1948, ch. 646, § 2(b)][/us/act/1948-06-25/ch646/s2/b], [62 Stat. 985][/us/stat/62/985], provided that: 
+[Act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 2(b), [62 Stat. 985][/us/stat/62/985], provided that: 
 
 > “The provisions of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act \[Sept. 1, 1948\], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: Provided, however, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
 
@@ -8524,9 +8524,9 @@ Section 38 of [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 
 ----------
 ----------
 
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
-[/us/pl/89/554/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F611
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
@@ -8536,23 +8536,23 @@ Section 38 of [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
 [/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/act/1928-04-26/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-26%2Fch440
 [/us/stat/45/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F466
-[/us/act/1948-06-25/ch646/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs23
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F990
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
-[/us/act/1948-06-25/ch646/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs2%2Fb
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F985
 
 

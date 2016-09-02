@@ -29,7 +29,7 @@
 
     (c) Whoever escapes or attempts to escape from the custody of any facility or from any place in which or to which he is confined pursuant to this section or [section 4243 of title 18][/us/usc/t18/s4243], or whoever rescues or attempts to rescue or instigates, aids, or assists the escape or attempt to escape of such a person, shall be subject to imprisonment for not more than three years, or a fine of not more than $10,000, or both.
 
-(Added [Pub. L. 91–452, title III, § 301(a)][/us/pl/91/452/s301/a], Oct. 15, 1970, [84 Stat. 932][/us/stat/84/932]; amended [Pub. L. 98–473, title II, § 1013][/us/pl/98/473/s1013], Oct. 12, 1984, [98 Stat. 2142][/us/stat/98/2142].)
+(Added [Pub. L. 91–452, title III][/us/pl/91/452/tIII], § 301(a), Oct. 15, 1970, [84 Stat. 932][/us/stat/84/932]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1013, Oct. 12, 1984, [98 Stat. 2142][/us/stat/98/2142].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t18/s4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4243
-[/us/pl/91/452/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs301%2Fa
+[/us/pl/91/452/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIII
 [/us/stat/84/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F932
-[/us/pl/98/473/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1013
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2142
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 

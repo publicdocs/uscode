@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Chapter 50, consisting of sections 771 to 775, which was added by [Pub. L. 95–598, title II, § 233(a)][/us/pl/95/598/s233/a], Nov. 6, 1978, [92 Stat. 2665][/us/stat/92/2665], and which related to bankruptcy courts, did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
+    Chapter 50, consisting of sections 771 to 775, which was added by [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 233(a), Nov. 6, 1978, [92 Stat. 2665][/us/stat/92/2665], and which related to bankruptcy courts, did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/598/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs233%2Fa
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2665
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

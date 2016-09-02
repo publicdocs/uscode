@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 231 ([Feb. 13, 1925, ch. 229, § 9][/us/act/1925-02-13/ch229/s9], [43 Stat. 941][/us/stat/43/941]).
+    Based on title 28, U.S.C., 1940 ed., § 231 ([Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 9, [43 Stat. 941][/us/stat/43/941]).
 
     Words “or in the Supreme Court” were omitted. Section 7 of the 1925 act containing such words related to review by the Supreme Court of the United States of decisions of the Supreme Court of the Philippine Islands and designated a certain jurisdictional amount. Such section 7 has now become obsolete, in view of the recognition of the independence of the Philippines, title 48 U.S.C., 1940 ed., § 1240, Territories and Insular Possessions, and there is no other case wherein the power of the Supreme Court to review depends on the amount or value in controversy.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F963
-[/us/act/1925-02-13/ch229/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs9
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F941
 
 

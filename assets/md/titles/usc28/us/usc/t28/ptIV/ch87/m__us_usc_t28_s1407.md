@@ -39,13 +39,13 @@
 
     (h) Notwithstanding the provisions of section 1404 or subsection (f) of this section, the judicial panel on multidistrict litigation may consolidate and transfer with or without the consent of the parties, for both pretrial purposes and for trial, any action brought under section 4C of the Clayton Act.
 
-(Added [Pub. L. 90–296, § 1][/us/pl/90/296/s1], Apr. 29, 1968, [82 Stat. 109][/us/stat/82/109]; amended [Pub. L. 94–435, title III, § 303][/us/pl/94/435/s303], Sept. 30, 1976, [90 Stat. 1396][/us/stat/90/1396].)
+(Added [Pub. L. 90–296][/us/pl/90/296], § 1, Apr. 29, 1968, [82 Stat. 109][/us/stat/82/109]; amended [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 303, Sept. 30, 1976, [90 Stat. 1396][/us/stat/90/1396].)
 
  __References in Text__ 
 
     The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to this title.
 
-    Section 4C of the Clayton Act, referred to in subsec. (h), is section 4C of [act Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], as added by [Pub. L. 94–435, title III, § 301][/us/pl/94/435/s301], Sept. 30, 1976, [90 Stat. 1394][/us/stat/90/1394], which is classified to [section 15c of Title 15][/us/usc/t15/s15c], Commerce and Trade.
+    Section 4C of the Clayton Act, referred to in subsec. (h), is section 4C of [act Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], as added by [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 301, Sept. 30, 1976, [90 Stat. 1394][/us/stat/90/1394], which is classified to [section 15c of Title 15][/us/usc/t15/s15c], Commerce and Trade.
 
  __Amendments__ 
 
@@ -67,12 +67,12 @@
 [/us/act/1914-10-15/s4A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fs4A
 [/us/stat/69/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F282
 [/us/usc/t15/s15a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15a
-[/us/pl/90/296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F296%2Fs1
+[/us/pl/90/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F296
 [/us/stat/82/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F109
-[/us/pl/94/435/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs303
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1396
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
-[/us/pl/94/435/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs301
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1394
 [/us/usc/t15/s15c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c
 [/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435

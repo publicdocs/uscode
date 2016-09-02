@@ -41,11 +41,11 @@ Southern District
 
     Court for the Southern District shall be held at Alton, Benton, Cairo, and East Saint Louis.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 878][/us/stat/62/878]; [Aug. 10, 1950, ch. 675, § 1][/us/act/1950-08-10/ch675/s1], [64 Stat. 438][/us/stat/64/438]; [Pub. L. 87–36, § 3(c)][/us/pl/87/36/s3/c], May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 91–272, § 8][/us/pl/91/272/s8], June 2, 1970, [84 Stat. 297][/us/stat/84/297]; [Pub. L. 95–408, § 4(b)(1)][/us/pl/95/408/s4/b/1], Oct. 2, 1978, [92 Stat. 884][/us/stat/92/884]; [Pub. L. 95–573, § 1][/us/pl/95/573/s1], Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458]; [Pub. L. 98–620, title IV, § 406(a)][/us/pl/98/620/s406/a], (c), Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 106–130, § 2][/us/pl/106/130/s2], Dec. 6, 1999, [113 Stat. 1677][/us/stat/113/1677].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 878][/us/stat/62/878]; [Aug. 10, 1950, ch. 675][/us/act/1950-08-10/ch675], § 1, [64 Stat. 438][/us/stat/64/438]; [Pub. L. 87–36][/us/pl/87/36], § 3(c), May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 91–272][/us/pl/91/272], § 8, June 2, 1970, [84 Stat. 297][/us/stat/84/297]; [Pub. L. 95–408][/us/pl/95/408], § 4(b)(1), Oct. 2, 1978, [92 Stat. 884][/us/stat/92/884]; [Pub. L. 95–573][/us/pl/95/573], § 1, Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 406(a), (c), Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 106–130][/us/pl/106/130], § 2, Dec. 6, 1999, [113 Stat. 1677][/us/stat/113/1677].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 152 ([Mar. 3, 1911, ch. 231, § 79][/us/act/1911-03-03/ch231/s79], [36 Stat. 1110][/us/stat/36/1110]; [Aug. 12, 1937, ch. 594][/us/act/1937-08-12/ch594], [50 Stat. 624][/us/stat/50/624]; [June 6, 1940, ch. 247][/us/act/1940-06-06/ch247], [54 Stat. 237][/us/stat/54/237]).
+    Based on title 28, U.S.C., 1940 ed., § 152 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 79, [36 Stat. 1110][/us/stat/36/1110]; [Aug. 12, 1937, ch. 594][/us/act/1937-08-12/ch594], [50 Stat. 624][/us/stat/50/624]; [June 6, 1940, ch. 247][/us/act/1940-06-06/ch247], [54 Stat. 237][/us/stat/54/237]).
 
     Provisions relating to appointment of deputy marshals and maintenance of offices by deputy marshals and deputy clerks were omitted as covered by sections 452, 541 \[see 561\], 542 \[see 561\], and 751 of this title.
 
@@ -55,19 +55,19 @@ Southern District
 
     1999—Subsec. (a)(1). [Pub. L. 106–130][/us/pl/106/130] inserted “and Wheaton” before period at end.
 
-    1984—Subsec. (a)(1). [Pub. L. 98–620, § 406(a)(1)][/us/pl/98/620/s406/a/1], struck out De Kalb and McHenry from the counties comprising the Eastern Division of the Northern District.
+    1984—Subsec. (a)(1). [Pub. L. 98–620][/us/pl/98/620], § 406(a)(1), struck out De Kalb and McHenry from the counties comprising the Eastern Division of the Northern District.
 
-    Subsec. (a)(2). [Pub. L. 98–620, § 406(a)(2)][/us/pl/98/620/s406/a/2], added De Kalb and McHenry to the counties comprising the Western Division of the Northern District.
+    Subsec. (a)(2). [Pub. L. 98–620][/us/pl/98/620], § 406(a)(2), added De Kalb and McHenry to the counties comprising the Western Division of the Northern District.
 
-    Subsec. (b). [Pub. L. 98–620, § 406(c)][/us/pl/98/620/s406/c], provided for holding court at Champaign/Urbana.
+    Subsec. (b). [Pub. L. 98–620][/us/pl/98/620], § 406(c), provided for holding court at Champaign/Urbana.
 
     1978—[Pub. L. 95–408][/us/pl/95/408] substituted in introductory provisions “Northern, Central, and Southern Districts of Illinois” for “Northern, Southern, and Eastern Districts of Illinois”.
 
-    Subsec. (a)(1). [Pub. L. 95–573, § 1(1)][/us/pl/95/573/s1/1], struck out Kankakee from the counties comprising the Eastern Division of the Northern District.
+    Subsec. (a)(1). [Pub. L. 95–573][/us/pl/95/573], § 1(1), struck out Kankakee from the counties comprising the Eastern Division of the Northern District.
 
     [Pub. L. 95–408][/us/pl/95/408] added Kankakee to the counties comprising the Eastern Division of the Northern District.
 
-    Subsec. (b). [Pub. L. 95–573, § 1(2)][/us/pl/95/573/s1/2], added Kankakee to the counties comprising the Central District.
+    Subsec. (b). [Pub. L. 95–573][/us/pl/95/573], § 1(2), added Kankakee to the counties comprising the Central District.
 
     [Pub. L. 95–408][/us/pl/95/408] substituted “Central District” for “Southern District” in heading, struck out subsec. (b)(1) and (2) designations, which divided Southern District into a Northern and Southern Division, and in such newly created Central District, added counties of Champaign, Coles, Douglas, Edgar, Ford, Iroquois, Moultrie, Piatt, Shelby, and Vermilion to, and struck out counties of Bond, Calhoun, Jersey, and Madison from, those counties comprising the new Central District, and substituted provisions for holding of a term of Court for Central District at Danville, Peoria, Quincy, Rock Island, and Springfield for provisions for holding of a term of Court for Northern Division of the former Southern District at Peoria and Rock Island and for Southern Division of former Southern District at Alton, Quincy, and Springfield.
 
@@ -81,7 +81,7 @@ Southern District
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–620, title IV, § 406(b)][/us/pl/98/620/s406/b], Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361], provided that: 
+[Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 406(b), Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall apply to any action commenced in the United States District Court for the Northern District of Illinois on or after the effective date of this subtitle \[Jan. 1, 1985\], and shall not affect any action pending in such court on such effective date.”
 
@@ -89,7 +89,7 @@ Southern District
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–573, § 6][/us/pl/95/573/s6], Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458], as amended by [Pub. L. 96–4, § 2][/us/pl/96/4/s2], Mar. 30, 1979, [93 Stat. 7][/us/stat/93/7], provided that:
+[Pub. L. 95–573][/us/pl/95/573], § 6, Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458], as amended by [Pub. L. 96–4][/us/pl/96/4], § 2, Mar. 30, 1979, [93 Stat. 7][/us/stat/93/7], provided that:
 
 >     “(a) Except as provided in subsection (b) of this section, the provisions of this Act \[amending this section and sections 99, 112, and 118 of this title and enacting a provision set out as a note under [section 84 of this title][/us/usc/t28/s84]\] shall take effect 180 days after the date of enactment of this Act \[Nov. 2, 1978\].
 
@@ -107,7 +107,7 @@ Southern District
 
  __District Judges, United States Attorneys, Assistant United States Attorneys, and United States Marshals for Central and Southern Districts; Designation; Tenure; Appointment; Grand Jury__ 
 
-[Pub. L. 95–408, § 4(b)(2)][/us/pl/95/408/s4/b/2]–(4), as added by [Pub. L. 96–4, § 1][/us/pl/96/4/s1], Mar. 30, 1979, [93 Stat. 6][/us/stat/93/6], provided that:
+[Pub. L. 95–408][/us/pl/95/408], § 4(b)(2)–(4), as added by [Pub. L. 96–4][/us/pl/96/4], § 1, Mar. 30, 1979, [93 Stat. 6][/us/stat/93/6], provided that:
 
 >     “(2) The district judge for the Eastern District of Illinois in office on the effective date of this Act \[180 days after Oct. 2, 1978\] who is senior in commission shall, on and after the effective date of this Act, be a district judge for the Southern District of Illinois. The remaining district judge for the Eastern District of Illinois who is in office on the effective date of this Act and the district judges for the Southern District of Illinois who are in office on the effective date of this Act shall, on and after the effective date of this Act, be district judges for the Central District of Illinois. The President shall appoint, by and with the advice and consent of the Senate, a second district judge for the Southern District of Illinois.
 
@@ -124,46 +124,46 @@ Southern District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F878
-[/us/act/1950-08-10/ch675/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-10%2Fch675%2Fs1
+[/us/act/1950-08-10/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-10%2Fch675
 [/us/stat/64/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F438
-[/us/pl/87/36/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36%2Fs3%2Fc
+[/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
 [/us/stat/75/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F83
-[/us/pl/91/272/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs8
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/stat/84/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F297
-[/us/pl/95/408/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs4%2Fb%2F1
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/stat/92/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F884
-[/us/pl/95/573/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573%2Fs1
+[/us/pl/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573
 [/us/stat/92/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2458
-[/us/pl/98/620/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs406%2Fa
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3361
-[/us/pl/106/130/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F130%2Fs2
+[/us/pl/106/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F130
 [/us/stat/113/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1677
-[/us/act/1911-03-03/ch231/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs79
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1110
 [/us/act/1937-08-12/ch594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-12%2Fch594
 [/us/stat/50/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F624
 [/us/act/1940-06-06/ch247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-06%2Fch247
 [/us/stat/54/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F237
 [/us/pl/106/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F130
-[/us/pl/98/620/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs406%2Fa%2F1
-[/us/pl/98/620/s406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs406%2Fa%2F2
-[/us/pl/98/620/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs406%2Fc
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
-[/us/pl/95/573/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573%2Fs1%2F1
+[/us/pl/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
-[/us/pl/95/573/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573%2Fs1%2F2
+[/us/pl/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/pl/87/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F36
-[/us/pl/98/620/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs406%2Fb
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3361
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs411
 [/us/usc/t28/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs85
-[/us/pl/95/573/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573%2Fs6
+[/us/pl/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573
 [/us/stat/92/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2458
-[/us/pl/96/4/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F4%2Fs2
+[/us/pl/96/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F4
 [/us/stat/93/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F7
 [/us/usc/t28/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs84
 [/us/usc/t28/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs84
@@ -171,8 +171,8 @@ Southern District
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/pl/95/408/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs5
 [/us/usc/t28/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs89
-[/us/pl/95/408/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs4%2Fb%2F2
-[/us/pl/96/4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F4%2Fs1
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
+[/us/pl/96/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F4
 [/us/stat/93/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F6
 [/us/usc/t18/s3240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3240
 

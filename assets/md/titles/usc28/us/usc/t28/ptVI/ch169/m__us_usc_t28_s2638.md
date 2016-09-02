@@ -21,7 +21,7 @@
 
     (2) is related to the same administrative decision listed in section 514 of the Tariff Act of 1930 that was contested in the protest.
 
-(Added [Pub. L. 96–417, title III, § 301][/us/pl/96/417/s301], Oct. 10, 1980, [94 Stat. 1736][/us/stat/94/1736].)
+(Added [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 301, Oct. 10, 1980, [94 Stat. 1736][/us/stat/94/1736].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2638, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 982][/us/stat/62/982]; June 2, 1970, [Pub. L. 91–271, title I, § 119][/us/pl/91/271/s119], [84 Stat. 281][/us/stat/84/281], related to decisions, findings of fact and conclusions of law, and effect of opinions, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See section 2645 (a) and (c) of this title.
+    A prior section 2638, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 982][/us/stat/62/982]; June 2, 1970, [Pub. L. 91–271, title I][/us/pl/91/271/tI], § 119, [84 Stat. 281][/us/stat/84/281], related to decisions, findings of fact and conclusions of law, and effect of opinions, prior to the general revision of this chapter by [Pub. L. 96–417][/us/pl/96/417]. See section 2645 (a) and (c) of this title.
 
 ----------
 
@@ -40,13 +40,13 @@
 ----------
 ----------
 
-[/us/pl/96/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs301
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1736
 [/us/usc/t19/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1515
 [/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F982
-[/us/pl/91/271/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs119
+[/us/pl/91/271/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2FtI
 [/us/stat/84/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F281
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 

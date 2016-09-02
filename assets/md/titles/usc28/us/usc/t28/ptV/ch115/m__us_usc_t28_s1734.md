@@ -27,7 +27,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 681, 682, 683, and 684 (R.S. §§ 899, 900, 901, 902; [Jan. 31, 1879, ch. 39, § 1][/us/act/1879-01-31/ch39/s1], [20 Stat. 277][/us/stat/20/277]).
+    Based on title 28, U.S.C., 1940 ed., §§ 681, 682, 683, and 684 (R.S. §§ 899, 900, 901, 902; [Jan. 31, 1879, ch. 39][/us/act/1879-01-31/ch39], § 1, [20 Stat. 277][/us/stat/20/277]).
 
     Sections 681, 682, and 684 of title 28, U.S.C., 1940 ed., contained repetitious language which was eliminated by the consolidation.
 
@@ -44,7 +44,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F946
-[/us/act/1879-01-31/ch39/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-01-31%2Fch39%2Fs1
+[/us/act/1879-01-31/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-01-31%2Fch39
 [/us/stat/20/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F277
 [/us/usc/t28/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs683
 

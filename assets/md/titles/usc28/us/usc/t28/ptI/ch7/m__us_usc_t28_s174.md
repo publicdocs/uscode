@@ -19,11 +19,11 @@
 
     (b) All decisions of the Court of Federal Claims shall be preserved and open to inspection.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 898][/us/stat/62/898]; [Pub. L. 97–164, title I, § 105(a)][/us/pl/97/164/s105/a], Apr. 2, 1982, [96 Stat. 27][/us/stat/96/27]; [Pub. L. 102–572, title IX, § 902(a)][/us/pl/102/572/s902/a], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 898][/us/stat/62/898]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 105(a), Apr. 2, 1982, [96 Stat. 27][/us/stat/96/27]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 243 ([Mar. 3, 1911, ch. 231, § 138][/us/act/1911-03-03/ch231/s138], [36 Stat. 1136][/us/stat/36/1136]).
+    Based on title 28, U.S.C., 1940 ed., § 243 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 138, [36 Stat. 1136][/us/stat/36/1136]).
 
     This section is based on the first sentence of [section 243 of title 28][/us/usc/t28/s243], U.S.C., 1940 ed. The remainder of said section is incorporated in [section 175 of this title][/us/usc/t28/s175].
 
@@ -58,11 +58,11 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F898
-[/us/pl/97/164/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs105%2Fa
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F27
-[/us/pl/102/572/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/act/1911-03-03/ch231/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs138
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1136
 [/us/usc/t28/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs243
 [/us/usc/t28/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs175

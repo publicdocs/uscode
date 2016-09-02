@@ -53,11 +53,11 @@
 
         The determination by the Attorney General regarding whether to certify a State under this section shall be subject to de novo review.
 
-(Added [Pub. L. 109–177, title V, § 507(c)(1)][/us/pl/109/177/s507/c/1], Mar. 9, 2006, [120 Stat. 250][/us/stat/120/250].)
+(Added [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 507(c)(1), Mar. 9, 2006, [120 Stat. 250][/us/stat/120/250].)
 
  __Prior Provisions__ 
 
-    A prior section 2265, added [Pub. L. 104–132, title I, § 107(a)][/us/pl/104/132/s107/a], Apr. 24, 1996, [110 Stat. 1223][/us/stat/110/1223], related to the application of sections 2262, 2263, 2264, and 2266 of this title to State unitary review procedures, prior to repeal by [Pub. L. 109–177, title V, § 507(c)(1)][/us/pl/109/177/s507/c/1], Mar. 9, 2006, [120 Stat. 250][/us/stat/120/250].
+    A prior section 2265, added [Pub. L. 104–132, title I][/us/pl/104/132/tI], § 107(a), Apr. 24, 1996, [110 Stat. 1223][/us/stat/110/1223], related to the application of sections 2262, 2263, 2264, and 2266 of this title to State unitary review procedures, prior to repeal by [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 507(c)(1), Mar. 9, 2006, [120 Stat. 250][/us/stat/120/250].
 
  __Effective Date__ 
 
@@ -71,11 +71,11 @@
 ----------
 
 [/us/usc/t28/s2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2350
-[/us/pl/109/177/s507/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs507%2Fc%2F1
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F250
-[/us/pl/104/132/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs107%2Fa
+[/us/pl/104/132/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtI
 [/us/stat/110/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1223
-[/us/pl/109/177/s507/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs507%2Fc%2F1
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F250
 [/us/pl/109/177/s507/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs507%2Fd
 [/us/usc/t28/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2251

@@ -17,7 +17,7 @@
 
     The Attorney General may determine the official stations of the United States trustees and assistant United States trustees within the regions for which they were appointed.
 
-(Added [Pub. L. 95–598, title II, § 224(a)][/us/pl/95/598/s224/a], Nov. 6, 1978, [92 Stat. 2663][/us/stat/92/2663]; amended [Pub. L. 99–554, title I, § 144(d)][/us/pl/99/554/s144/d], Oct. 27, 1986, [100 Stat. 3096][/us/stat/100/3096].)
+(Added [Pub. L. 95–598, title II][/us/pl/95/598/tII], § 224(a), Nov. 6, 1978, [92 Stat. 2663][/us/stat/92/2663]; amended [Pub. L. 99–554, title I][/us/pl/99/554/tI], § 144(d), Oct. 27, 1986, [100 Stat. 3096][/us/stat/100/3096].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/598/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs224%2Fa
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2663
-[/us/pl/99/554/s144/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs144%2Fd
+[/us/pl/99/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2FtI
 [/us/stat/100/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3096
 [/us/pl/95/598/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs408%2Fc
 [/us/pl/99/554/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F554%2Fs307%2Fb

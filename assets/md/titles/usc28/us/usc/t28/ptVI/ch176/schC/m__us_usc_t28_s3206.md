@@ -17,7 +17,7 @@
 
     A person who pursuant to an execution or order issued under this chapter by a court pays or delivers to the United States, a United States marshal, or a receiver, money or other personal property in which a judgment debtor has or will have an interest, or so pays a debt such person owes the judgment debtor, is discharged from such debt to the judgment debtor to the extent of the payment or delivery.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4959][/us/stat/104/4959].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4959][/us/stat/104/4959].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4959
 
 

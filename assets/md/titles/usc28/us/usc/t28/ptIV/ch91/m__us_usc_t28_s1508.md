@@ -17,7 +17,7 @@
 
     The Court of Federal Claims shall have jurisdiction to hear and to render judgment upon any petition under section 6226 or 6228(a) of the Internal Revenue Code of 1986.
 
-(Added [Pub. L. 97–248, title IV, § 402(c)(18)(A)][/us/pl/97/248/s402/c/18/A], Sept. 3, 1982, [96 Stat. 669][/us/stat/96/669]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title IX, § 902(a)(2)][/us/pl/102/572/s902/a/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(c)(18)(A), Sept. 3, 1982, [96 Stat. 669][/us/stat/96/669]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(a)(2), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __References in Text__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/97/248/s402/c/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fc%2F18%2FA
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F669
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/572/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fa%2F2
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

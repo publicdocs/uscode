@@ -21,7 +21,7 @@
 
     (2) If executed within the United States, its territories, possessions, or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on (date).(Signature)”.
 
-(Added [Pub. L. 94–550, § 1(a)][/us/pl/94/550/s1/a], Oct. 18, 1976, [90 Stat. 2534][/us/stat/90/2534].)
+(Added [Pub. L. 94–550][/us/pl/94/550], § 1(a), Oct. 18, 1976, [90 Stat. 2534][/us/stat/90/2534].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/94/550/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550%2Fs1%2Fa
+[/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550
 [/us/stat/90/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2534
 [/us/usc/t28/s1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1745
 

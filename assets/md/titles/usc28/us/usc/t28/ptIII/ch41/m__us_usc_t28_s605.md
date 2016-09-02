@@ -19,11 +19,11 @@
 
     Such estimates shall be approved, before presentation to the Office of Management and Budget, by the Judicial Conference of the United States, except that the estimate with respect to the Court of International Trade shall be approved by such court and the estimate with respect to the United States Court of Appeals for the Federal Circuit shall be approved by such court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 915][/us/stat/62/915]; [July 9, 1956, ch. 517, § 1(e)][/us/act/1956-07-09/ch517/s1/e], [70 Stat. 497][/us/stat/70/497]; [Aug. 3, 1956, ch. 944, § 4][/us/act/1956-08-03/ch944/s4], [70 Stat. 1026][/us/stat/70/1026]; [Pub. L. 87–253, § 3][/us/pl/87/253/s3], Sept. 19, 1961, [75 Stat. 521][/us/stat/75/521]; [Pub. L. 96–417, title V, § 501(14)][/us/pl/96/417/s501/14], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 97–164, title I, § 119(a)][/us/pl/97/164/s119/a], Apr. 2, 1982, [96 Stat. 33][/us/stat/96/33]; [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1085.)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 915][/us/stat/62/915]; [July 9, 1956, ch. 517][/us/act/1956-07-09/ch517], § 1(e), [70 Stat. 497][/us/stat/70/497]; [Aug. 3, 1956, ch. 944][/us/act/1956-08-03/ch944], § 4, [70 Stat. 1026][/us/stat/70/1026]; [Pub. L. 87–253][/us/pl/87/253], § 3, Sept. 19, 1961, [75 Stat. 521][/us/stat/75/521]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(14), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 119(a), Apr. 2, 1982, [96 Stat. 33][/us/stat/96/33]; [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1085.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 447 ([Mar. 3, 1911, ch. 231, § 305][/us/act/1911-03-03/ch231/s305], as added [Aug. 7, 1939, ch. 501, § 1][/us/act/1939-08-07/ch501/s1], [53 Stat. 1223][/us/stat/53/1223]).
+    Based on title 28, U.S.C., 1940 ed., § 447 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 305, as added [Aug. 7, 1939, ch. 501][/us/act/1939-08-07/ch501], § 1, [53 Stat. 1223][/us/stat/53/1223]).
 
     This section contains provisions of [section 447 of title 28][/us/usc/t28/s447], U.S.C., 1940 ed., relating to budget estimates. The remainder of said section 447 is incorporated in [section 604 of this title][/us/usc/t28/s604].
 
@@ -66,20 +66,20 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F915
-[/us/act/1956-07-09/ch517/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch517%2Fs1%2Fe
+[/us/act/1956-07-09/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-09%2Fch517
 [/us/stat/70/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F497
-[/us/act/1956-08-03/ch944/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944%2Fs4
+[/us/act/1956-08-03/ch944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch944
 [/us/stat/70/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1026
-[/us/pl/87/253/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F253%2Fs3
+[/us/pl/87/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F253
 [/us/stat/75/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F521
-[/us/pl/96/417/s501/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F14
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
-[/us/pl/97/164/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs119%2Fa
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F33
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/act/1911-03-03/ch231/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs305
-[/us/act/1939-08-07/ch501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501%2Fs1
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
+[/us/act/1939-08-07/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501
 [/us/stat/53/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1223
 [/us/usc/t28/s447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs447
 [/us/usc/t28/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604

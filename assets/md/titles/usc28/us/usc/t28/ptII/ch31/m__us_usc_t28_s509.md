@@ -23,7 +23,7 @@
 
     (3) of the Board of Directors and officers of the Federal Prison Industries, Inc.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612]; amended [Pub. L. 95–251, § 2(a)(6)][/us/pl/95/251/s2/a/6], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 98–473, title II, § 228(a)][/us/pl/98/473/s228/a], Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030]; [Pub. L. 107–273, div. A, title II, § 204(d)][/us/pl/107/273/s204/d], div. B, title IV, § 4003(b)(1), Nov. 2, 2002, [116 Stat. 1776][/us/stat/116/1776], 1811.)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612]; amended [Pub. L. 95–251][/us/pl/95/251], § 2(a)(6), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 228(a), Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 204(d), div. B, title IV, § 4003(b)(1), Nov. 2, 2002, [116 Stat. 1776][/us/stat/116/1776], 1811.)
 
 <table>
 
@@ -77,7 +77,7 @@ Statutes at Large  </td>
 
  __Prior Provisions__ 
 
-    A prior section 509, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 910][/us/stat/62/910], related to expenses of United States attorneys, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in [section 549 of this title][/us/usc/t28/s549] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 509, [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 910][/us/stat/62/910], related to expenses of United States attorneys, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in [section 549 of this title][/us/usc/t28/s549] by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
  __Amendments__ 
 
@@ -89,7 +89,7 @@ Statutes at Large  </td>
 
  __Effective Date of 1984 Amendment__ 
 
-    [Pub. L. 98–473, title II, § 235(a)(1)(B)(ii)(IV)][/us/pl/98/473/s235/a/1/B/ii/IV], Oct. 12, 1984, [98 Stat. 2032][/us/stat/98/2032], provided that the amendment made by [Pub. L. 98–473][/us/pl/98/473] is effective Oct. 12, 1984.
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 235(a)(1)(B)(ii)(IV), Oct. 12, 1984, [98 Stat. 2032][/us/stat/98/2032], provided that the amendment made by [Pub. L. 98–473][/us/pl/98/473] is effective Oct. 12, 1984.
 
  __Transfer of Functions__ 
 
@@ -223,7 +223,7 @@ Statutes at Large  </td>
 
  __Organized Retail Theft__ 
 
-[Pub. L. 109–162, title XI, § 1105][/us/pl/109/162/s1105], Jan. 5, 2006, [119 Stat. 3092][/us/stat/119/3092], as amended by [Pub. L. 109–271, § 8(a)][/us/pl/109/271/s8/a], Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766], provided that:
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1105, Jan. 5, 2006, [119 Stat. 3092][/us/stat/119/3092], as amended by [Pub. L. 109–271][/us/pl/109/271], § 8(a), Aug. 12, 2006, [120 Stat. 766][/us/stat/120/766], provided that:
 
 >     “(a)  __National Data__  __.—__ 
 
@@ -249,7 +249,7 @@ Statutes at Large  </td>
 
  __United States-Mexico Border Violence Task Force__ 
 
-[Pub. L. 109–162, title XI, § 1106][/us/pl/109/162/s1106], Jan. 5, 2006, [119 Stat. 3093][/us/stat/119/3093], provided that:
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1106, Jan. 5, 2006, [119 Stat. 3093][/us/stat/119/3093], provided that:
 
 >     “(a)  __Task Force__  __.—__ 
 
@@ -267,7 +267,7 @@ Statutes at Large  </td>
 
  __Privacy Officer__ 
 
-[Pub. L. 109–162, title XI, § 1174][/us/pl/109/162/s1174], Jan. 5, 2006, [119 Stat. 3124][/us/stat/119/3124], provided that:
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1174, Jan. 5, 2006, [119 Stat. 3124][/us/stat/119/3124], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -299,7 +299,7 @@ Statutes at Large  </td>
 
  __Report to Congress on Status of United States Persons or Residents Detained on Suspicion of Terrorism__ 
 
-[Pub. L. 109–162, title XI, § 1176][/us/pl/109/162/s1176], Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125], provided that: 
+[Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1176, Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125], provided that: 
 
 > “Not less often than once every 12 months, the Attorney General shall submit to Congress a report on the status of United States persons or residents detained, as of the date of the report, on suspicion of terrorism. The report shall—
 
@@ -309,7 +309,7 @@ Statutes at Large  </td>
 
  __Federal Bureau of Investigation Use of Translators__ 
 
-[Pub. L. 108–458, title II, § 2006][/us/pl/108/458/s2006], Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704], as amended by [Pub. L. 111–259, title VIII, § 806(b)(2)][/us/pl/111/259/s806/b/2], Oct. 7, 2010, [124 Stat. 2749][/us/stat/124/2749], provided that: 
+[Pub. L. 108–458, title II][/us/pl/108/458/tII], § 2006, Dec. 17, 2004, [118 Stat. 3704][/us/stat/118/3704], as amended by [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 806(b)(2), Oct. 7, 2010, [124 Stat. 2749][/us/stat/124/2749], provided that: 
 
 > “Not later than 30 days after the date of the enactment of this Act \[Dec. 17, 2004\], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
 
@@ -329,7 +329,7 @@ Statutes at Large  </td>
 
  __Authorization for Additional Assistant United States Attorneys for Project Safe Neighborhoods__ 
 
-[Pub. L. 107–273, div. A, title I, § 104][/us/pl/107/273/s104], Nov. 2, 2002, [116 Stat. 1766][/us/stat/116/1766], provided that:
+[Pub. L. 107–273, div. A, title I][/us/pl/107/273/dA/tI], § 104, Nov. 2, 2002, [116 Stat. 1766][/us/stat/116/1766], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -341,7 +341,7 @@ Statutes at Large  </td>
 
  __Development and Support of Cybersecurity Forensic Capabilities__ 
 
-[Pub. L. 107–56, title VIII, § 816][/us/pl/107/56/s816], Oct. 26, 2001, [115 Stat. 385][/us/stat/115/385], provided that:
+[Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 816, Oct. 26, 2001, [115 Stat. 385][/us/stat/115/385], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -369,7 +369,7 @@ Statutes at Large  </td>
 
  __Training of Government Officials Regarding Identification and Use of Foreign Intelligence__ 
 
-[Pub. L. 107–56, title IX, § 908][/us/pl/107/56/s908], Oct. 26, 2001, [115 Stat. 391][/us/stat/115/391], provided that:
+[Pub. L. 107–56, title IX][/us/pl/107/56/tIX], § 908, Oct. 26, 2001, [115 Stat. 391][/us/stat/115/391], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -395,7 +395,7 @@ Statutes at Large  </td>
 
  __First Responders Assistance Act__ 
 
-[Pub. L. 107–56, title X, § 1005][/us/pl/107/56/s1005], Oct. 26, 2001, [115 Stat. 393][/us/stat/115/393], provided that:
+[Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1005, Oct. 26, 2001, [115 Stat. 393][/us/stat/115/393], provided that:
 
 >     “(a)  __Grant Authorization__  __.—__ 
 
@@ -455,37 +455,37 @@ Statutes at Large  </td>
 
  __Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 115\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–22, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 115\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–22, provided that: 
 
 > “Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: Provided, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
 
  __Overseas Law Enforcement Training Activities__ 
 
-[Pub. L. 104–132, title VIII, § 801][/us/pl/104/132/s801], Apr. 24, 1996, [110 Stat. 1304][/us/stat/110/1304], provided that: 
+[Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 801, Apr. 24, 1996, [110 Stat. 1304][/us/stat/110/1304], provided that: 
 
 > “The Attorney General and the Secretary of the Treasury are authorized to support law enforcement training activities in foreign countries, in consultation with the Secretary of State, for the purpose of improving the effectiveness of the United States in investigating and prosecuting transnational offenses.”
 
  __Reimbursement by Other Government Agencies of Department of Justice Salaries and Expenses in High-Cost Litigation__ 
 
-[Pub. L. 103–317, title I, § 109][/us/pl/103/317/s109], Aug. 26, 1994, [108 Stat. 1735][/us/stat/108/1735], provided that: 
+[Pub. L. 103–317, title I][/us/pl/103/317/tI], § 109, Aug. 26, 1994, [108 Stat. 1735][/us/stat/108/1735], provided that: 
 
 > “Notwithstanding [31 U.S.C. 3302][/us/usc/t31/s3302] or any other law, in litigation involving unusually high costs, the Department of Justice may receive and retain reimbursement for salaries and expenses, for fiscal year 1995 and thereafter, from any other governmental component being represented in the litigation.”
 
  __Neighborhood Revitalization__ 
 
-[Pub. L. 102–395, title I][/us/pl/102/395], Oct. 6, 1992, [106 Stat. 1830][/us/stat/106/1830], provided in part: 
+[Pub. L. 102–395, title I][/us/pl/102/395/tI], Oct. 6, 1992, [106 Stat. 1830][/us/stat/106/1830], provided in part: 
 
 > “That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated”.
 
  __Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures__ 
 
-[Pub. L. 102–140, title VI, § 611(a)][/us/pl/102/140/s611/a], Oct. 28, 1991, [105 Stat. 832][/us/stat/105/832], provided that, notwithstanding any other provision of law: 
+[Pub. L. 102–140, title VI][/us/pl/102/140/tVI], § 611(a), Oct. 28, 1991, [105 Stat. 832][/us/stat/105/832], provided that, notwithstanding any other provision of law: 
 
 > “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil or criminal action, without regard to competitive procurement procedures, including the Commerce Business Daily publication requirements: Provided, That no witness shall be paid more than one attendance fee for any calendar day.”
 
  __Structural Reforms To Improve Federal Response to Crimes Affecting Financial Institutions__ 
 
-[Pub. L. 101–647, title XXV][/us/pl/101/647], §§ 2536–2539, Nov. 29, 1990, [104 Stat. 4883][/us/stat/104/4883], 4884, as amended by [Pub. L. 111–203, title III, § 359(1)][/us/pl/111/203/s359/1], July 21, 2010, [124 Stat. 1548][/us/stat/124/1548], provided that:
+[Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], §§ 2536–2539, Nov. 29, 1990, [104 Stat. 4883][/us/stat/104/4883], 4884, as amended by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 359(1), July 21, 2010, [124 Stat. 1548][/us/stat/124/1548], provided that:
 
 > “SEC. 2536. __ESTABLISHMENT OF FINANCIAL INSTITUTIONS CRIME UNIT AND OFFICE OF SPECIAL COUNSEL FOR FINANCIAL INSTITUTIONS CRIME UNIT.__ 
 
@@ -561,11 +561,11 @@ Statutes at Large  </td>
 
 >         This senior interagency group shall enhance interagency coordination and assist in accelerating the investigations and prosecution of financial institutions fraud.”
 
-    \[[Pub. L. 111–203, title III][/us/pl/111/203], §§ 351, 359(1), July 21, 2010, [124 Stat. 1546][/us/stat/124/1546], 1548, which provided that, effective on the transfer date (see [section 5411 of Title 12][/us/usc/t12/s5411], Banks and Banking), [section 2539(c)(2) of Pub. L. 101–647][/us/pl/101/647/s2539/c/2], set out above, is amended by striking out subpars. (C) and (D) and redesignating subpars. (E) to (H) as “(C) through (G), respectively”, was executed by redesignating subpars. (E) to (H) as (C) to (F), respectively, and striking out former subpars. (C) and (D), to reflect the probable intent of Congress.\]
+    \[[Pub. L. 111–203, title III][/us/pl/111/203/tIII], §§ 351, 359(1), July 21, 2010, [124 Stat. 1546][/us/stat/124/1546], 1548, which provided that, effective on the transfer date (see [section 5411 of Title 12][/us/usc/t12/s5411], Banks and Banking), [section 2539(c)(2) of Pub. L. 101–647][/us/pl/101/647/s2539/c/2], set out above, is amended by striking out subpars. (C) and (D) and redesignating subpars. (E) to (H) as “(C) through (G), respectively”, was executed by redesignating subpars. (E) to (H) as (C) to (F), respectively, and striking out former subpars. (C) and (D), to reflect the probable intent of Congress.\]
 
  __Authorization of Appropriations for Humanitarian Expenses Incurred by Federal Bureau of Investigation and Drug Enforcement Administration__ 
 
-[Pub. L. 101–647, title XXXII, § 3201][/us/pl/101/647/s3201], Nov. 29, 1990, [104 Stat. 4916][/us/stat/104/4916], as amended by [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 109(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–67, provided that: 
+[Pub. L. 101–647, title XXXII][/us/pl/101/647/tXXXII], § 3201, Nov. 29, 1990, [104 Stat. 4916][/us/stat/104/4916], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 109(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–67, provided that: 
 
 > “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee’s immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
 
@@ -573,7 +573,7 @@ Statutes at Large  </td>
 
  __Investigation of Financial Institutions; Assistance of Government Personnel__ 
 
-[Pub. L. 101–509, title V, § 528][/us/pl/101/509/s528], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], as amended by [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 103–322, title XXXII, § 320923][/us/pl/103/322/s320923], Sept. 13, 1994, [108 Stat. 2131][/us/stat/108/2131], provided that:
+[Pub. L. 101–509, title V][/us/pl/101/509/tV], § 528, Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], as amended by [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320923, Sept. 13, 1994, [108 Stat. 2131][/us/stat/108/2131], provided that:
 
 >     “(a)
 
@@ -599,19 +599,19 @@ Statutes at Large  </td>
 
  __Processing of Name Checks and Background Records for Noncriminal Employment, Licensing, and Humanitarian Purposes__ 
 
-[Pub. L. 101–162, title II][/us/pl/101/162], Nov. 21, 1989, [103 Stat. 995][/us/stat/103/995], provided in part: 
+[Pub. L. 101–162, title II][/us/pl/101/162/tII], Nov. 21, 1989, [103 Stat. 995][/us/stat/103/995], provided in part: 
 
 > “That for fiscal year 1990 and hereafter the Chief, United States National Central Bureau, INTERPOL, may establish and collect fees to process name checks and background records for noncriminal employment, licensing, and humanitarian purposes and, notwithstanding the provisions of [31 U.S.C. 3302][/us/usc/t31/s3302], credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services”.
 
  __Expenses of Legal Defense for Federal Government Employees Performing Official Duties; Fees and Expenses of Witnesses__ 
 
-[Pub. L. 101–162, title II][/us/pl/101/162], Nov. 21, 1989, [103 Stat. 997][/us/stat/103/997], provided: 
+[Pub. L. 101–162, title II][/us/pl/101/162/tII], Nov. 21, 1989, [103 Stat. 997][/us/stat/103/997], provided: 
 
-> “That for fiscal year 1990 and hereafter the Attorney General may enter into reimbursable agreements with other Federal Government agencies or components within the Department of Justice to pay expenses of private counsel to defend Federal Government employees sued for actions while performing their official duties: Provided further, That for fiscal year 1990 and hereafter the Attorney General, upon notification to the Committees on Appropriations of the House of Representatives and the Senate in compliance with provisions set forth in section 606 of this Act \[[Pub. L. 101–162, title VI][/us/pl/101/162], Nov. 21, 1989, [103 Stat. 1031][/us/stat/103/1031]\], may authorize litigating components to reimburse this account for expert witness expenses when it appears current allocations will be exhausted for cases scheduled for trial in the current fiscal year.”
+> “That for fiscal year 1990 and hereafter the Attorney General may enter into reimbursable agreements with other Federal Government agencies or components within the Department of Justice to pay expenses of private counsel to defend Federal Government employees sued for actions while performing their official duties: Provided further, That for fiscal year 1990 and hereafter the Attorney General, upon notification to the Committees on Appropriations of the House of Representatives and the Senate in compliance with provisions set forth in section 606 of this Act \[[Pub. L. 101–162, title VI][/us/pl/101/162/tVI], Nov. 21, 1989, [103 Stat. 1031][/us/stat/103/1031]\], may authorize litigating components to reimburse this account for expert witness expenses when it appears current allocations will be exhausted for cases scheduled for trial in the current fiscal year.”
 
  __Uniforms and Allowances__ 
 
-[Pub. L. 101–162, title II, § 203][/us/pl/101/162/s203], Nov. 21, 1989, [103 Stat. 1002][/us/stat/103/1002], provided that: 
+[Pub. L. 101–162, title II][/us/pl/101/162/tII], § 203, Nov. 21, 1989, [103 Stat. 1002][/us/stat/103/1002], provided that: 
 
 > “For fiscal year 1990 and hereafter, appropriations for ‘Salaries and expenses, General Administration’, ‘Salaries and expenses, United States Marshals Service’, ‘Salaries and expenses, Federal Bureau of Investigation’, ‘Salaries and expenses, Drug Enforcement Administration’, ‘Salaries and expenses, Immigration and Naturalization Service’, and ‘Salaries and expenses, Federal Prison System’, shall be available for uniforms and allowances therefor as authorized by law ([5 U.S.C. 5901–590][/us/usc/t5/s5901–590]2).”
 
@@ -619,7 +619,7 @@ Statutes at Large  </td>
 
  __Justice Department Organized Crime and Drug Enforcement Enhancement__ 
 
-[Pub. L. 100–690, title I][/us/pl/100/690], subtitle B, Nov. 18, 1988, [102 Stat. 4189][/us/stat/102/4189], provided that:
+[Pub. L. 100–690, title I][/us/pl/100/690/tI], subtitle B, Nov. 18, 1988, [102 Stat. 4189][/us/stat/102/4189], provided that:
 
 > “SEC. 1051. __SHORT TITLE.__ 
 
@@ -711,7 +711,7 @@ Statutes at Large  </td>
 
  __Impact Analysis of Additional Resources to Certain Components of Federal Criminal Justice System; Study by Comptroller General and Report to Congress__ 
 
-[Pub. L. 100–690, title IX, § 9201][/us/pl/100/690/s9201], Nov. 18, 1988, [102 Stat. 4535][/us/stat/102/4535], provided that:
+[Pub. L. 100–690, title IX][/us/pl/100/690/tIX], § 9201, Nov. 18, 1988, [102 Stat. 4535][/us/stat/102/4535], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -727,13 +727,13 @@ Statutes at Large  </td>
 
  __Federal Environmental or Natural Resource Laws; Investigations Respecting, Etc.__ 
 
-[Pub. L. 96–132, § 12][/us/pl/96/132/s12], Nov. 30, 1979, [93 Stat. 1048][/us/stat/93/1048], provided that: 
+[Pub. L. 96–132][/us/pl/96/132], § 12, Nov. 30, 1979, [93 Stat. 1048][/us/stat/93/1048], provided that: 
 
 > “The Attorney General may, with the concurrence of any agency or Department with primary enforcement responsibility for an environmental or natural resource law, investigate any violation, of an environmental or natural resource law of the United States, and bring such actions as are necessary to enforce such laws. This section does not affect the criminal law enforcement authority of the Attorney General.”
 
  __Positions in Drug Enforcement Administration; Grades Excepted From Competitive Service; Vacancies; Removal, Suspension, or Reduction in Rank or Pay; Rate of Pay__ 
 
-[Pub. L. 94–503, title II, § 201][/us/pl/94/503/s201], Oct. 15, 1976, [90 Stat. 2425][/us/stat/90/2425], provided that:
+[Pub. L. 94–503, title II][/us/pl/94/503/tII], § 201, Oct. 15, 1976, [90 Stat. 2425][/us/stat/90/2425], provided that:
 
 >     “(a)
 
@@ -899,7 +899,7 @@ Statutes at Large  </td>
 
  __REORGANIZATION PLAN NO. 2 OF 1973__ 
 
-    Effective July 1, 1973, 38 F.R. 15932, [87 Stat. 1091][/us/stat/87/1091], as amended [Pub. L. 93–253, § 1][/us/pl/93/253/s1], Mar. 16, 1974, [88 Stat. 50][/us/stat/88/50]
+    Effective July 1, 1973, 38 F.R. 15932, [87 Stat. 1091][/us/stat/87/1091], as amended [Pub. L. 93–253][/us/pl/93/253], § 1, Mar. 16, 1974, [88 Stat. 50][/us/stat/88/50]
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 28, 1973, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -911,7 +911,7 @@ Statutes at Large  </td>
 
  __Sec. 2. Transfers to the Secretary of the Treasury__ 
 
-    \[Repealed. [Pub. L. 93–253, § 1(a)(1)][/us/pl/93/253/s1/a/1], (b), Mar. 16, 1974, [88 Stat. 50][/us/stat/88/50], eff. July 1, 1973. Section provided for transfer to Secretary of the Treasury of functions vested in Attorney General, Department of Justice, or any other officer of such Department respecting inspection at ports of entry of persons, and documents of persons, entering or leaving the United States.\]
+    \[Repealed. [Pub. L. 93–253][/us/pl/93/253], § 1(a)(1), (b), Mar. 16, 1974, [88 Stat. 50][/us/stat/88/50], eff. July 1, 1973. Section provided for transfer to Secretary of the Treasury of functions vested in Attorney General, Department of Justice, or any other officer of such Department respecting inspection at ports of entry of persons, and documents of persons, entering or leaving the United States.\]
 
  __Sec. 3. Abolition__ 
 
@@ -933,7 +933,7 @@ Statutes at Large  </td>
 
     The Attorney General may from time to time make such provisions as he shall deem appropriate authorizing the performance of any of the functions transferred to him by the provisions of this Reorganization Plan by any officer, employee, or agency of the Department of Justice.
 
-    \[Section, former subsec. (a) designation, and subsec. (b) providing for performance of functions transferred to Secretary of Treasury by any officer, employee, or agency of Treasury Department, repealed by [Pub. L. 93–253, § 1(a)(2)][/us/pl/93/253/s1/a/2], (b), Mar. 16, 1974, [88 Stat. 50][/us/stat/88/50], eff. July 1, 1973.\]
+    \[Section, former subsec. (a) designation, and subsec. (b) providing for performance of functions transferred to Secretary of Treasury by any officer, employee, or agency of Treasury Department, repealed by [Pub. L. 93–253][/us/pl/93/253], § 1(a)(2), (b), Mar. 16, 1974, [88 Stat. 50][/us/stat/88/50], eff. July 1, 1973.\]
 
  __Sec. 7. Coordination__ 
 
@@ -1374,24 +1374,24 @@ Statutes at Large  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F612
-[/us/pl/95/251/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F6
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/98/473/s228/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs228%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2030
-[/us/pl/107/273/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs204%2Fd
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1776
 [/us/usc/t28/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs547
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F910
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t28/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs549
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
-[/us/pl/98/473/s235/a/1/B/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1%2FB%2Fii%2FIV
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
@@ -1405,88 +1405,88 @@ Statutes at Large  </td>
 [/us/usc/t18/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs245
 [/us/usc/t42/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3631
 [/us/usc/t42/s5780a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5780a
-[/us/pl/109/162/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1105
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3092
-[/us/pl/109/271/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs8%2Fa
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F766
-[/us/pl/109/162/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1106
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3093
-[/us/pl/109/162/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1174
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3124
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/109/162/s1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1176
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3125
-[/us/pl/108/458/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2006
+[/us/pl/108/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtII
 [/us/stat/118/3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3704
-[/us/pl/111/259/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fb%2F2
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2749
-[/us/pl/107/273/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs104
+[/us/pl/107/273/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtI
 [/us/stat/116/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1766
-[/us/pl/107/56/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs816
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F385
-[/us/pl/107/56/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs908
+[/us/pl/107/56/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIX
 [/us/stat/115/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F391
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/107/56/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1005
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F393
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/132/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs801
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1304
-[/us/pl/103/317/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2Fs109
+[/us/pl/103/317/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtI
 [/us/stat/108/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1735
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1830
-[/us/pl/102/140/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs611%2Fa
+[/us/pl/102/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtVI
 [/us/stat/105/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F832
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4883
-[/us/pl/111/203/s359/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs359%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1548
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1546
 [/us/usc/t12/s5411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5411
 [/us/pl/101/647/s2539/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2539%2Fc%2F2
-[/us/pl/101/647/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3201
+[/us/pl/101/647/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXII
 [/us/stat/104/4916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4916
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/101/509/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs528
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/103/322/s320923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320923
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2131
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtII
 [/us/stat/103/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F995
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtII
 [/us/stat/103/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F997
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtVI
 [/us/stat/103/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1031
-[/us/pl/101/162/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2Fs203
+[/us/pl/101/162/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtII
 [/us/stat/103/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1002
 [/us/usc/t5/s5901–590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5901%E2%80%93590
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
 [/us/stat/102/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4189
 [/us/pl/100/690/s1054/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1054%2Fd
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/100/690/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs9201
+[/us/pl/100/690/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIX
 [/us/stat/102/4535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4535
-[/us/pl/96/132/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132%2Fs12
+[/us/pl/96/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F132
 [/us/stat/93/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1048
-[/us/pl/94/503/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2Fs201
+[/us/pl/94/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2FtII
 [/us/stat/90/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2425
 [/us/usc/t5/s5332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332%2Fa
 [/us/usc/t5/s5337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5337
@@ -1504,13 +1504,13 @@ Statutes at Large  </td>
 [/us/usc/t21/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs161
 [/us/usc/t5/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901%2Fa
 [/us/stat/87/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1091
-[/us/pl/93/253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253%2Fs1
+[/us/pl/93/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253
 [/us/stat/88/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F50
-[/us/pl/93/253/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253%2Fs1%2Fa%2F1
+[/us/pl/93/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253
 [/us/stat/88/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F50
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/93/253/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253%2Fs1%2Fa%2F2
+[/us/pl/93/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F253
 [/us/stat/88/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F50
 [/us/usc/t5/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs906%2Fa
 [/us/usc/t5/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901%2Fa

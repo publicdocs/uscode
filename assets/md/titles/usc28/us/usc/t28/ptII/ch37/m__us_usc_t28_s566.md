@@ -53,11 +53,11 @@
 
     (i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
-(Added [Pub. L. 100–690, title VII, § 7608(a)(1)][/us/pl/100/690/s7608/a/1], Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514]; amended [Pub. L. 110–177, title I][/us/pl/110/177], §§ 101(a), 102(a), Jan. 7, 2008, [121 Stat. 2534][/us/stat/121/2534], 2535; [Pub. L. 112–206, § 4(b)][/us/pl/112/206/s4/b], Dec. 7, 2012, [126 Stat. 1492][/us/stat/126/1492]; [Pub. L. 114–22, title VI, § 605][/us/pl/114/22/s605], May 29, 2015, [129 Stat. 260][/us/stat/129/260].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7608(a)(1), Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514]; amended [Pub. L. 110–177, title I][/us/pl/110/177/tI], §§ 101(a), 102(a), Jan. 7, 2008, [121 Stat. 2534][/us/stat/121/2534], 2535; [Pub. L. 112–206][/us/pl/112/206], § 4(b), Dec. 7, 2012, [126 Stat. 1492][/us/stat/126/1492]; [Pub. L. 114–22, title VI][/us/pl/114/22/tVI], § 605, May 29, 2015, [129 Stat. 260][/us/stat/129/260].)
 
  __Prior Provisions__ 
 
-    A prior section 566, added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 620][/us/stat/80/620]; amended [Pub. L. 92–310, title II, § 206(b)][/us/pl/92/310/s206/b], June 6, 1972, [86 Stat. 203][/us/stat/86/203], provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by [Pub. L. 100–690, § 7608(a)(1)][/us/pl/100/690/s7608/a/1].
+    A prior section 566, added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 620][/us/stat/80/620]; amended [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 206(b), June 6, 1972, [86 Stat. 203][/us/stat/86/203], provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by [Pub. L. 100–690][/us/pl/100/690], § 7608(a)(1).
 
  __Amendments__ 
 
@@ -65,13 +65,13 @@
 
     2012—Subsec. (e)(1)(C). [Pub. L. 112–206][/us/pl/112/206] added subpar. (C).
 
-    2008—Subsec. (a). [Pub. L. 110–177, § 102(a)][/us/pl/110/177/s102/a], substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.
+    2008—Subsec. (a). [Pub. L. 110–177][/us/pl/110/177], § 102(a), substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.
 
-    Subsec. (i). [Pub. L. 110–177, § 101(a)][/us/pl/110/177/s101/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 110–177][/us/pl/110/177], § 101(a), added subsec. (i).
 
  __Fugitive Apprehension Task Forces__ 
 
-[Pub. L. 106–544, § 6][/us/pl/106/544/s6], Dec. 19, 2000, [114 Stat. 2718][/us/stat/114/2718], as amended by [Pub. L. 110–177, title V, § 507][/us/pl/110/177/s507], Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543], provided that:
+[Pub. L. 106–544][/us/pl/106/544], § 6, Dec. 19, 2000, [114 Stat. 2718][/us/stat/114/2718], as amended by [Pub. L. 110–177, title V][/us/pl/110/177/tV], § 507, Jan. 7, 2008, [121 Stat. 2543][/us/stat/121/2543], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -94,26 +94,26 @@
 
 [/us/usc/t18/s3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3486
 [/us/usc/t28/s2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2041
-[/us/pl/100/690/s7608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4514
-[/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
+[/us/pl/110/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtI
 [/us/stat/121/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2534
-[/us/pl/112/206/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs4%2Fb
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/stat/126/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1492
-[/us/pl/114/22/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs605
+[/us/pl/114/22/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtVI
 [/us/stat/129/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F260
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F620
-[/us/pl/92/310/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs206%2Fb
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
-[/us/pl/100/690/s7608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
-[/us/pl/110/177/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs102%2Fa
-[/us/pl/110/177/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs101%2Fa
-[/us/pl/106/544/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs6
+[/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
+[/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
 [/us/stat/114/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2718
-[/us/pl/110/177/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs507
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2543
 
 

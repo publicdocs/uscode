@@ -53,11 +53,11 @@ Southern District
 
     Court for the New Albany Division shall be held at New Albany.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 878][/us/stat/62/878]; [Feb. 10, 1954, ch. 6, § 2(b)(7)][/us/act/1954-02-10/ch6/s2/b/7], [68 Stat. 11][/us/stat/68/11]; [Pub. L. 91–272, § 9][/us/pl/91/272/s9], June 2, 1970, [84 Stat. 298][/us/stat/84/298].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 878][/us/stat/62/878]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6], § 2(b)(7), [68 Stat. 11][/us/stat/68/11]; [Pub. L. 91–272][/us/pl/91/272], § 9, June 2, 1970, [84 Stat. 298][/us/stat/84/298].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 153 ([Mar. 3, 1911, ch. 231, § 80][/us/act/1911-03-03/ch231/s80], [36 Stat. 1110][/us/stat/36/1110]; [Apr. 21, 1928, ch. 393][/us/act/1928-04-21/ch393], [45 Stat. 437][/us/stat/45/437]).
+    Based on title 28, U.S.C., 1940 ed., § 153 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 80, [36 Stat. 1110][/us/stat/36/1110]; [Apr. 21, 1928, ch. 393][/us/act/1928-04-21/ch393], [45 Stat. 437][/us/stat/45/437]).
 
     Words “when the time fixed as above for the sitting of a court shall fall on a legal holiday the terms shall begin on the next day following,” were omitted as within the discretion of the court and coverable by rule of court.
 
@@ -90,11 +90,11 @@ Southern District
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F878
-[/us/act/1954-02-10/ch6/s2/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6%2Fs2%2Fb%2F7
+[/us/act/1954-02-10/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-02-10%2Fch6
 [/us/stat/68/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F11
-[/us/pl/91/272/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs9
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/stat/84/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F298
-[/us/act/1911-03-03/ch231/s80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs80
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1110
 [/us/act/1928-04-21/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-21%2Fch393
 [/us/stat/45/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F437

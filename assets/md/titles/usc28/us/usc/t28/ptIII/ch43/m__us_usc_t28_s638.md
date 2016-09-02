@@ -21,7 +21,7 @@
 
     (c) The Director shall furnish to each United States magistrate judge appointed under this chapter an official impression seal in a form prescribed by the conference. Each such officer shall affix his seal to every jurat or certificate of his official acts without fee.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 917][/us/stat/62/917]; [Pub. L. 90–578, title I, § 101][/us/pl/90/578/s101], Oct. 17, 1968, [82 Stat. 1114][/us/stat/82/1114]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 917][/us/stat/62/917]; [Pub. L. 90–578, title I][/us/pl/90/578/tI], § 101, Oct. 17, 1968, [82 Stat. 1114][/us/stat/82/1114]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
@@ -31,7 +31,7 @@
 
     Provisions of [section 528a of title 28][/us/usc/t28/s528a], U.S.C., 1940 ed., relating to dockets and forms, are incorporated in [section 639 of this title][/us/usc/t28/s639].
 
-    Words “Director of the Administrative Office of the United States Courts” were substituted for “Attorney General”, contained in [section 528 of title 28][/us/usc/t28/s528], U.S.C., 1940 ed., in view of [Act Aug. 7, 1939, ch. 501, § 6][/us/act/1939-08-07/ch501/s6], [53 Stat. 1226][/us/stat/53/1226], 28 U.S.C., 1940 ed., following § 446, giving the Directors supervision of court administrative matters.
+    Words “Director of the Administrative Office of the United States Courts” were substituted for “Attorney General”, contained in [section 528 of title 28][/us/usc/t28/s528], U.S.C., 1940 ed., in view of [Act Aug. 7, 1939, ch. 501][/us/act/1939-08-07/ch501], § 6, [53 Stat. 1226][/us/stat/53/1226], 28 U.S.C., 1940 ed., following § 446, giving the Directors supervision of court administrative matters.
 
     Changes in phraseology were made.
 
@@ -60,9 +60,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F917
-[/us/pl/90/578/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs101
+[/us/pl/90/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtI
 [/us/stat/82/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1114
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/act/1906-06-28/ch3573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-28%2Fch3573
 [/us/stat/34/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F546
@@ -72,7 +72,7 @@
 [/us/usc/t28/s528a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs528a
 [/us/usc/t28/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs639
 [/us/usc/t28/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs528
-[/us/act/1939-08-07/ch501/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501%2Fs6
+[/us/act/1939-08-07/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch501
 [/us/stat/53/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1226
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
 [/us/usc/t28/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs639

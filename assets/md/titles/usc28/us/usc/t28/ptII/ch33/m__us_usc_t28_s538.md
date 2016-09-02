@@ -17,7 +17,7 @@
 
     The Federal Bureau of Investigation shall investigate any violation of section 46314 or chapter 465 of title 49.
 
-(Added [Pub. L. 103–272, § 4(e)(1)][/us/pl/103/272/s4/e/1], July 5, 1994, [108 Stat. 1361][/us/stat/108/1361].)
+(Added [Pub. L. 103–272][/us/pl/103/272], § 4(e)(1), July 5, 1994, [108 Stat. 1361][/us/stat/108/1361].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/272/s4/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fe%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1361
 
 

@@ -171,19 +171,19 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–273, div. C, title I, § 11042(b)][/us/pl/107/273/s11042/b], Nov. 2, 2002, [116 Stat. 1855][/us/stat/116/1855], added item for chapter 16.
+    2002—[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11042(b), Nov. 2, 2002, [116 Stat. 1855][/us/stat/116/1855], added item for chapter 16.
 
-    1992—[Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], substituted “United States Court of Federal Claims” for “United States Claims Court” in item for chapter 7.
+    1992—[Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], substituted “United States Court of Federal Claims” for “United States Claims Court” in item for chapter 7.
 
-    1990—[Pub. L. 101–650, title I, § 103(d)][/us/pl/101/650/s103/d], Dec. 1, 1990, [104 Stat. 5096][/us/stat/104/5096], added item for chapter 23.
+    1990—[Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(d), Dec. 1, 1990, [104 Stat. 5096][/us/stat/104/5096], added item for chapter 23.
 
-    1984—[Pub. L. 98–353, title I, § 104(b)][/us/pl/98/353/s104/b], July 10, 1984, [98 Stat. 342][/us/stat/98/342], added item for chapter 6.
+    1984—[Pub. L. 98–353, title I][/us/pl/98/353/tI], § 104(b), July 10, 1984, [98 Stat. 342][/us/stat/98/342], added item for chapter 6.
 
-    1982—[Pub. L. 97–164, title I][/us/pl/97/164], §§ 105(b), 106, Apr. 2, 1982, [96 Stat. 28][/us/stat/96/28], substituted “United States Claims Court” for “Court of Claims” in item for chapter 7 and struck out item for chapter 9 “Court of Customs and Patent Appeals”.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], §§ 105(b), 106, Apr. 2, 1982, [96 Stat. 28][/us/stat/96/28], substituted “United States Claims Court” for “Court of Claims” in item for chapter 7 and struck out item for chapter 9 “Court of Customs and Patent Appeals”.
 
-    1980—[Pub. L. 96–417, title V, § 501(1)][/us/pl/96/417/s501/1], Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742], substituted “Court of International Trade” for “Customs Court” in item for chapter 11.
+    1980—[Pub. L. 96–417, title V][/us/pl/96/417/tV], § 501(1), Oct. 10, 1980, [94 Stat. 1742][/us/stat/94/1742], substituted “Court of International Trade” for “Customs Court” in item for chapter 11.
 
-    1978—[Pub. L. 98–598, title II, § 201(b)][/us/pl/98/598/s201/b], Nov. 6, 1978, [92 Stat. 2660][/us/stat/92/2660], directed amendment of analysis of chapters comprising part I by adding item for chapter 6 “Bankruptcy courts”, which amendment did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
+    1978—[Pub. L. 98–598, title II][/us/pl/98/598/tII], § 201(b), Nov. 6, 1978, [92 Stat. 2660][/us/stat/92/2660], directed amendment of analysis of chapters comprising part I by adding item for chapter 6 “Bankruptcy courts”, which amendment did not become effective pursuant to [section 402(b) of Pub. L. 95–598][/us/pl/95/598/s402/b], as amended, set out as an Effective Date note preceding [section 101 of Title 11][/us/usc/t11/s101], Bankruptcy.
 
  __Executive Order No. 11992__ 
 
@@ -196,19 +196,19 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11042%2Fb
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1855
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/101/650/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fd
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5096
-[/us/pl/98/353/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs104%2Fb
+[/us/pl/98/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2FtI
 [/us/stat/98/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F342
-[/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F28
-[/us/pl/96/417/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs501%2F1
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1742
-[/us/pl/98/598/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F598%2Fs201%2Fb
+[/us/pl/98/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F598%2FtII
 [/us/stat/92/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2660
 [/us/pl/95/598/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fb
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

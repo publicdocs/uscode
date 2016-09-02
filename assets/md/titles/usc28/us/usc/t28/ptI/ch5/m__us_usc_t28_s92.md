@@ -19,11 +19,11 @@
 
     Court shall be held at Boise, Coeur d’Alene, Moscow, and Pocatello.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 877][/us/stat/62/877]; [Pub. L. 91–272, § 5][/us/pl/91/272/s5], June 2, 1970, [84 Stat. 297][/us/stat/84/297].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 877][/us/stat/62/877]; [Pub. L. 91–272][/us/pl/91/272], § 5, June 2, 1970, [84 Stat. 297][/us/stat/84/297].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 151 ([Mar. 3, 1911, ch. 231, § 78][/us/act/1911-03-03/ch231/s78], [36 Stat. 1109][/us/stat/36/1109]; [May 11, 1939, ch. 121][/us/act/1939-05-11/ch121], [53 Stat. 738][/us/stat/53/738]).
+    Based on title 28, U.S.C., 1940 ed., § 151 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 78, [36 Stat. 1109][/us/stat/36/1109]; [May 11, 1939, ch. 121][/us/act/1939-05-11/ch121], [53 Stat. 738][/us/stat/53/738]).
 
     All of Yellowstone National Park is included in the judicial district of Wyoming by [section 131 of this title][/us/usc/t28/s131]. Those parts of the park lying in Idaho are accordingly excluded from the judicial district of Idaho.
 
@@ -44,9 +44,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F877
-[/us/pl/91/272/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272%2Fs5
+[/us/pl/91/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F272
 [/us/stat/84/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F297
-[/us/act/1911-03-03/ch231/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs78
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1109
 [/us/act/1939-05-11/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-11%2Fch121
 [/us/stat/53/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F738

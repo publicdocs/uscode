@@ -23,7 +23,7 @@
 
     Each person serving as a neutral in an alternative dispute resolution process should be qualified and trained to serve as a neutral in the appropriate alternative dispute resolution process. For this purpose, the district court may use, among others, magistrate judges who have been trained to serve as neutrals in alternative dispute resolution processes, professional neutrals from the private sector, and persons who have been trained to serve as neutrals in alternative dispute resolution processes. Until such time as rules are adopted under chapter 131 of this title relating to the disqualification of neutrals, each district court shall issue rules under section 2071(a) relating to the disqualification of neutrals (including, where appropriate, disqualification under [section 455 of this title][/us/usc/t28/s455], other applicable law, and professional responsibility standards).
 
-(Added [Pub. L. 100–702, title IX, § 901(a)][/us/pl/100/702/s901/a], Nov. 19, 1988, [102 Stat. 4660][/us/stat/102/4660]; amended [Pub. L. 105–315, § 5][/us/pl/105/315/s5], Oct. 30, 1998, [112 Stat. 2995][/us/stat/112/2995].)
+(Added [Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 901(a), Nov. 19, 1988, [102 Stat. 4660][/us/stat/102/4660]; amended [Pub. L. 105–315][/us/pl/105/315], § 5, Oct. 30, 1998, [112 Stat. 2995][/us/stat/112/2995].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t28/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs455
-[/us/pl/100/702/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs901%2Fa
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4660
-[/us/pl/105/315/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs5
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2995
 [/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 

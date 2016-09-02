@@ -553,11 +553,11 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–164, title I, § 115(c)(3)][/us/pl/97/164/s115/c/3], Apr. 2, 1982, [96 Stat. 32][/us/stat/96/32], struck out item 142 “Accommodations at places for holding court”.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 115(c)(3), Apr. 2, 1982, [96 Stat. 32][/us/stat/96/32], struck out item 142 “Accommodations at places for holding court”.
 
-    1963—[Pub. L. 88–139, § 3(a)][/us/pl/88/139/s3/a], Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248], substituted “Terms abolished” for “Times for holding regular terms” in item 138, “Times for holding regular sessions” for “Term continued until terminated” in item 139, and “sessions” for “terms” in item 141.
+    1963—[Pub. L. 88–139][/us/pl/88/139], § 3(a), Oct. 16, 1963, [77 Stat. 248][/us/stat/77/248], substituted “Terms abolished” for “Times for holding regular terms” in item 138, “Times for holding regular sessions” for “Term continued until terminated” in item 139, and “sessions” for “terms” in item 141.
 
-    1958—[Pub. L. 85–508, § 12(a)][/us/pl/85/508/s12/a], July 7, 1958, [72 Stat. 348][/us/stat/72/348], added item 81A.
+    1958—[Pub. L. 85–508][/us/pl/85/508], § 12(a), July 7, 1958, [72 Stat. 348][/us/stat/72/348], added item 81A.
 
  __Short Title of 1978 Amendment__ 
 
@@ -570,11 +570,11 @@
 ----------
 ----------
 
-[/us/pl/97/164/s115/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs115%2Fc%2F3
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F32
-[/us/pl/88/139/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139%2Fs3%2Fa
+[/us/pl/88/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F139
 [/us/stat/77/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F248
-[/us/pl/85/508/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fa
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
 [/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/stat/92/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F883

@@ -21,7 +21,7 @@
 
     (2) Any prize brought into the United States and all proceedings for the condemnation of property taken as prize.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 931][/us/stat/62/931]; [May 24, 1949, ch. 139, § 79][/us/act/1949-05-24/ch139/s79], [63 Stat. 101][/us/stat/63/101].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 931][/us/stat/62/931]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 79, [63 Stat. 101][/us/stat/63/101].)
 
  __Historical and Revision Notes__ 
 
@@ -56,7 +56,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F931
-[/us/act/1949-05-24/ch139/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs79
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F101
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1091

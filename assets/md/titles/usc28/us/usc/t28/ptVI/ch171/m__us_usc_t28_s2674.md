@@ -27,7 +27,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 931(a) ([Aug. 2, 1946, ch. 753, § 410(a)][/us/act/1946-08-02/ch753/s410/a], [60 Stat. 843][/us/stat/60/843]).
+    Based on title 28, U.S.C., 1940 ed., § 931(a) ([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 410(a), [60 Stat. 843][/us/stat/60/843]).
 
     Section constitutes the liability provisions in the second sentence of [section 931(a) of title 28][/us/usc/t28/s931/a], U.S.C., 1940 ed.
 
@@ -58,7 +58,7 @@
 [/us/stat/62/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F983
 [/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/stat/102/4564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4564
-[/us/act/1946-08-02/ch753/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs410%2Fa
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F843
 [/us/usc/t28/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs931%2Fa
 [/us/usc/t28/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs931%2Fa

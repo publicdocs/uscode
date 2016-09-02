@@ -25,7 +25,7 @@
 
     (4) Cases, other than those described in paragraphs (1), (2), and (3) of this subsection, in which the Court of Appeals for the Armed Forces granted relief.
 
-(Added [Pub. L. 98–209, § 10(a)(1)][/us/pl/98/209/s10/a/1], Dec. 6, 1983, [97 Stat. 1405][/us/stat/97/1405]; amended [Pub. L. 101–189, div. A, title XIII, § 1304(b)(3)][/us/pl/101/189/s1304/b/3], Nov. 29, 1989, [103 Stat. 1577][/us/stat/103/1577]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(C)][/us/pl/103/337/s924/d/1/C], (2)(A), Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832].)
+(Added [Pub. L. 98–209][/us/pl/98/209], § 10(a)(1), Dec. 6, 1983, [97 Stat. 1405][/us/stat/97/1405]; amended [Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1304(b)(3), Nov. 29, 1989, [103 Stat. 1577][/us/stat/103/1577]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(d)(1)(C), (2)(A), Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832].)
 
  __Amendments__ 
 
@@ -47,11 +47,11 @@
 [/us/usc/t10/s867/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs867%2Fa%2F1
 [/us/usc/t10/s867/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs867%2Fa%2F2
 [/us/usc/t10/s867/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs867%2Fa%2F3
-[/us/pl/98/209/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs10%2Fa%2F1
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1405
-[/us/pl/101/189/s1304/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1304%2Fb%2F3
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1577
-[/us/pl/103/337/s924/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fd%2F1%2FC
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189

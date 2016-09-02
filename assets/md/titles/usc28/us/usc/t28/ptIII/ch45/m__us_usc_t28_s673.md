@@ -25,7 +25,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 325, 332, and 333 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 219, 225, 226, [36 Stat. 1152][/us/stat/36/1152], 1153; [July 1, 1922, ch. 267][/us/act/1922-07-01/ch267], §§ 1, 2, [42 Stat. 816][/us/stat/42/816]; [May 29, 1926, ch. 425, § 1][/us/act/1926-05-29/ch425/s1], [44 Stat. 677][/us/stat/44/677]).
+    Based on title 28, U.S.C., 1940 ed., §§ 325, 332, and 333 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 219, 225, 226, [36 Stat. 1152][/us/stat/36/1152], 1153; [July 1, 1922, ch. 267][/us/act/1922-07-01/ch267], §§ 1, 2, [42 Stat. 816][/us/stat/42/816]; [May 29, 1926, ch. 425][/us/act/1926-05-29/ch425], § 1, [44 Stat. 677][/us/stat/44/677]).
 
     This section consolidates sections 332 and 333 of title 28, U.S.C., 1940 ed., with part of section 325 of such title.
 
@@ -43,7 +43,7 @@
 
     The provision in [section 332 of title 28][/us/usc/t28/s332], U.S.C., 1940 ed., authorizing the Public Printer to do the printing referred to in such section, was omitted as unnecessary. (See [section 111 of title 44][/us/usc/t44/s111], U.S.C., 1940 ed., Public Printing and Documents.)
 
-    Authority for making an appropriation to carry into effect the provisions of this section relating to compensation and allowances of the reporter, compensation of his assistants, and preparation of the decisions of the Supreme Court for publication, is contained in [section 336 of title 28][/us/usc/t28/s336], U.S.C., 1940 ed. (Acts [July 1, 1922, ch. 267, § 5][/us/act/1922-07-01/ch267/s5], [42 Stat. 818][/us/stat/42/818]; [May 29, 1926, ch. 425, § 3][/us/act/1926-05-29/ch425/s3], [44 Stat. 678][/us/stat/44/678]), which is omitted, but not repealed, as unnecessary in this revision.
+    Authority for making an appropriation to carry into effect the provisions of this section relating to compensation and allowances of the reporter, compensation of his assistants, and preparation of the decisions of the Supreme Court for publication, is contained in [section 336 of title 28][/us/usc/t28/s336], U.S.C., 1940 ed. (Acts [July 1, 1922, ch. 267][/us/act/1922-07-01/ch267], § 5, [42 Stat. 818][/us/stat/42/818]; [May 29, 1926, ch. 425][/us/act/1926-05-29/ch425], § 3, [44 Stat. 678][/us/stat/44/678]), which is omitted, but not repealed, as unnecessary in this revision.
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/stat/36/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1152
 [/us/act/1922-07-01/ch267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-07-01%2Fch267
 [/us/stat/42/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F816
-[/us/act/1926-05-29/ch425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-29%2Fch425%2Fs1
+[/us/act/1926-05-29/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-29%2Fch425
 [/us/stat/44/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F677
 [/us/usc/t28/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs325
 [/us/usc/t28/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs333
@@ -67,9 +67,9 @@
 [/us/usc/t28/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs332
 [/us/usc/t44/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs111
 [/us/usc/t28/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs336
-[/us/act/1922-07-01/ch267/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-07-01%2Fch267%2Fs5
+[/us/act/1922-07-01/ch267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-07-01%2Fch267
 [/us/stat/42/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F818
-[/us/act/1926-05-29/ch425/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-29%2Fch425%2Fs3
+[/us/act/1926-05-29/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-29%2Fch425
 [/us/stat/44/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F678
 
 

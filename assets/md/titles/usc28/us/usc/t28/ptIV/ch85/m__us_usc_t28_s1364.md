@@ -19,7 +19,7 @@
 
     (b) Any direct action brought against an insurer under subsection (a) shall be tried without a jury, but shall not be subject to the defense that the insured is immune from suit, that the insured is an indispensable party, or in the absence of fraud or collusion, that the insured has violated a term of the contract, unless the contract was cancelled before the claim arose.
 
-(Added [Pub. L. 95–393, § 7(a)][/us/pl/95/393/s7/a], Sept. 30, 1978, [92 Stat. 809][/us/stat/92/809]; amended [Pub. L. 97–241, title II, § 203(b)(4)][/us/pl/97/241/s203/b/4], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 100–204, title I, § 138(a)][/us/pl/100/204/s138/a], Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347].)
+(Added [Pub. L. 95–393][/us/pl/95/393], § 7(a), Sept. 30, 1978, [92 Stat. 809][/us/stat/92/809]; amended [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 203(b)(4), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 138(a), Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–204, title I, § 138(b)][/us/pl/100/204/s138/b], Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 138(b), Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to the first tortious act or omission occurring after the date of enactment of this Act \[Dec. 22, 1987\].”
 
@@ -53,16 +53,16 @@
 ----------
 
 [/us/usc/t22/s254a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a%2F3
-[/us/pl/95/393/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs7%2Fa
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F809
-[/us/pl/97/241/s203/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs203%2Fb%2F4
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/100/204/s138/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs138%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1347
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/usc/t22/s254a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a%2F3
-[/us/pl/100/204/s138/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs138%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1347
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/97/241/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs204

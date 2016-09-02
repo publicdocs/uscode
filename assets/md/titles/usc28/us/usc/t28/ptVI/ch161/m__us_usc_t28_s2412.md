@@ -71,11 +71,11 @@
 
     (f) If the United States appeals an award of costs or fees and other expenses made against the United States under this section and the award is affirmed in whole or in part, interest shall be paid on the amount of the award as affirmed. Such interest shall be computed at the rate determined under [section 1961(a) of this title][/us/usc/t28/s1961/a], and shall run from the date of the award through the day before the date of the mandate of affirmance.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 973][/us/stat/62/973]; [Pub. L. 89–507, § 1][/us/pl/89/507/s1], July 18, 1966, [80 Stat. 308][/us/stat/80/308]; [Pub. L. 96–481, title II, § 204(a)][/us/pl/96/481/s204/a], (c), Oct. 21, 1980, [94 Stat. 2327][/us/stat/94/2327], 2329; [Pub. L. 97–248, title II, § 292(c)][/us/pl/97/248/s292/c], Sept. 3, 1982, [96 Stat. 574][/us/stat/96/574]; [Pub. L. 99–80][/us/pl/99/80], §§ 2, 6, Aug. 5, 1985, [99 Stat. 184][/us/stat/99/184], 186; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title III, § 301(a)][/us/pl/102/572/s301/a], title V, §§ 502(b), 506(a), title IX, § 902(b)(1), Oct. 29, 1992, [106 Stat. 4511–4513][/us/stat/106/4511-4513], 4516; [Pub. L. 104–66, title I, § 1091(b)][/us/pl/104/66/s1091/b], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 104–121, title II, § 232][/us/pl/104/121/s232], Mar. 29, 1996, [110 Stat. 863][/us/stat/110/863]; [Pub. L. 105–368, title V, § 512(b)(1)(B)][/us/pl/105/368/s512/b/1/B], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 111–350, § 5(g)(9)][/us/pl/111/350/s5/g/9], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 973][/us/stat/62/973]; [Pub. L. 89–507][/us/pl/89/507], § 1, July 18, 1966, [80 Stat. 308][/us/stat/80/308]; [Pub. L. 96–481, title II][/us/pl/96/481/tII], § 204(a), (c), Oct. 21, 1980, [94 Stat. 2327][/us/stat/94/2327], 2329; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 292(c), Sept. 3, 1982, [96 Stat. 574][/us/stat/96/574]; [Pub. L. 99–80][/us/pl/99/80], §§ 2, 6, Aug. 5, 1985, [99 Stat. 184][/us/stat/99/184], 186; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–572, title III][/us/pl/102/572/tIII], § 301(a), title V, §§ 502(b), 506(a), title IX, § 902(b)(1), Oct. 29, 1992, [106 Stat. 4511–4513][/us/stat/106/4511-4513], 4516; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1091(b), Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 232, Mar. 29, 1996, [110 Stat. 863][/us/stat/110/863]; [Pub. L. 105–368, title V][/us/pl/105/368/tV], § 512(b)(1)(B), Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 111–350][/us/pl/111/350], § 5(g)(9), Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 258, 931(a) ([Mar. 3, 1911, ch. 231, § 152][/us/act/1911-03-03/ch231/s152], [36 Stat. 1138][/us/stat/36/1138]; [Aug. 2, 1946, ch. 753, § 410(a)][/us/act/1946-08-02/ch753/s410/a], [60 Stat. 843][/us/stat/60/843]).
+    Based on title 28, U.S.C., 1940 ed., §§ 258, 931(a) ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 152, [36 Stat. 1138][/us/stat/36/1138]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 410(a), [60 Stat. 843][/us/stat/60/843]).
 
     Section consolidates the last sentence of [section 931(a) of title 28][/us/usc/t28/s931/a], U.S.C., 1940 ed., with section 258 of said title 28. For other provisions of said section 931(a), see Distribution Table.
 
@@ -97,55 +97,55 @@
 
  __Amendments__ 
 
-    2011—Subsec. (d)(2)(E). [Pub. L. 111–350, § 5(g)(9)(A)][/us/pl/111/350/s5/g/9/A], substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
+    2011—Subsec. (d)(2)(E). [Pub. L. 111–350][/us/pl/111/350], § 5(g)(9)(A), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
 
-    Subsec. (d)(3). [Pub. L. 111–350, § 5(g)(9)(B)][/us/pl/111/350/s5/g/9/B], substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
+    Subsec. (d)(3). [Pub. L. 111–350][/us/pl/111/350], § 5(g)(9)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978”.
 
     1998—Subsec. (d)(2)(F). [Pub. L. 105–368][/us/pl/105/368] substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-    1996—Subsec. (d)(1)(D). [Pub. L. 104–121, § 232(a)][/us/pl/104/121/s232/a], added subpar. (D).
+    1996—Subsec. (d)(1)(D). [Pub. L. 104–121][/us/pl/104/121], § 232(a), added subpar. (D).
 
-    Subsec. (d)(2)(A)(ii). [Pub. L. 104–121, § 232(b)(1)][/us/pl/104/121/s232/b/1], substituted “$125” for “$75”.
+    Subsec. (d)(2)(A)(ii). [Pub. L. 104–121][/us/pl/104/121], § 232(b)(1), substituted “$125” for “$75”.
 
-    Subsec. (d)(2)(B). [Pub. L. 104–121, § 232(b)(2)][/us/pl/104/121/s232/b/2], inserted before semicolon at end “or for purposes of subsection (d)(1)(D), a small entity as defined in [section 601 of title 5][/us/usc/t5/s601]”.
+    Subsec. (d)(2)(B). [Pub. L. 104–121][/us/pl/104/121], § 232(b)(2), inserted before semicolon at end “or for purposes of subsection (d)(1)(D), a small entity as defined in [section 601 of title 5][/us/usc/t5/s601]”.
 
-    Subsec. (d)(2)(I). [Pub. L. 104–121, § 232(b)(3)][/us/pl/104/121/s232/b/3]–(5), added subpar. (I).
+    Subsec. (d)(2)(I). [Pub. L. 104–121][/us/pl/104/121], § 232(b)(3)–(5), added subpar. (I).
 
     1995—Subsec. (d)(5). [Pub. L. 104–66][/us/pl/104/66] struck out par. (5) which read as follows: “The Attorney General shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards.”
 
-    1992—Subsec. (a). [Pub. L. 102–572, § 301(a)][/us/pl/102/572/s301/a], designated existing provisions as par. (1) and added par. (2).
+    1992—Subsec. (a). [Pub. L. 102–572][/us/pl/102/572], § 301(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d)(2)(F). [Pub. L. 102–572, § 902(b)(1)][/us/pl/102/572/s902/b/1], substituted “United States Court of Federal Claims” for “United States Claims Court”.
+    Subsec. (d)(2)(F). [Pub. L. 102–572][/us/pl/102/572], § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    [Pub. L. 102–573, § 506(a)][/us/pl/102/573/s506/a], inserted before semicolon at end “and the United States Court of Veterans Appeals”.
+    [Pub. L. 102–573][/us/pl/102/573], § 506(a), inserted before semicolon at end “and the United States Court of Veterans Appeals”.
 
-    Subsec. (d)(5). [Pub. L. 102–572, § 502(b)][/us/pl/102/572/s502/b], substituted “The Attorney General shall report annually to the Congress on” for “The Director of the Administrative Office of the United States Courts shall include in the annual report prepared pursuant to [section 604 of this title][/us/usc/t28/s604],”.
+    Subsec. (d)(5). [Pub. L. 102–572][/us/pl/102/572], § 502(b), substituted “The Attorney General shall report annually to the Congress on” for “The Director of the Administrative Office of the United States Courts shall include in the annual report prepared pursuant to [section 604 of this title][/us/usc/t28/s604],”.
 
     1986—Subsecs. (d)(2)(B), (e). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1985—Subsecs. (a), (b). [Pub. L. 99–80, § 2(a)(1)][/us/pl/99/80/s2/a/1], substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
+    1985—Subsecs. (a), (b). [Pub. L. 99–80][/us/pl/99/80], § 2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
 
-    Subsec. (d). [Pub. L. 99–80, § 6][/us/pl/99/80/s6], repealed amendment made by [Pub. L. 96–481, § 204(c)][/us/pl/96/481/s204/c], and provided that subsec. (d) was effective on or after Aug. 5, 1985, as if it had not been repealed by section 204(c). See 1980 Amendment note and Revival of Previously Repealed Provisions note below.
+    Subsec. (d). [Pub. L. 99–80][/us/pl/99/80], § 6, repealed amendment made by [Pub. L. 96–481][/us/pl/96/481], § 204(c), and provided that subsec. (d) was effective on or after Aug. 5, 1985, as if it had not been repealed by section 204(c). See 1980 Amendment note and Revival of Previously Repealed Provisions note below.
 
-    Subsec. (d)(1)(A). [Pub. L. 99–80, § 2(a)(2)][/us/pl/99/80/s2/a/2], inserted “, including proceedings for judicial review of agency actions,” after “in tort)”.
+    Subsec. (d)(1)(A). [Pub. L. 99–80][/us/pl/99/80], § 2(a)(2), inserted “, including proceedings for judicial review of agency actions,” after “in tort)”.
 
-    Subsec. (d)(1)(B). [Pub. L. 99–80, § 2(b)][/us/pl/99/80/s2/b], inserted provisions directing that whether or not the position of the United States was substantially justified must be determined on the basis of the record (including the record with respect to the action or failure to act by the agency upon which the civil action was based) which is made in the civil action for which fees and other expenses are sought.
+    Subsec. (d)(1)(B). [Pub. L. 99–80][/us/pl/99/80], § 2(b), inserted provisions directing that whether or not the position of the United States was substantially justified must be determined on the basis of the record (including the record with respect to the action or failure to act by the agency upon which the civil action was based) which is made in the civil action for which fees and other expenses are sought.
 
-    Subsec. (d)(2)(B). [Pub. L. 99–80, § 2(c)(1)][/us/pl/99/80/s2/c/1], substituted “$2,000,000” for “$1,000,000” in cl. (i), and substituted “or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, and which had not more than 500 employees at the time the civil action was filed; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 ([26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act ([12 U.S.C. 1141j(a)][/us/usc/t12/s1141j/a]), may be a party regardless of the net worth of such organization or cooperative association;” for “(ii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization whose net worth did not exceed $5,000,000 at the time the civil action was filed, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 ([26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act ([12 U.S.C. 1141j(a)][/us/usc/t12/s1141j/a]), may be a party regardless of the net worth of such organization or cooperative association, or (iii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization, having not more than 500 employees at the time the civil action was filed; and”.
+    Subsec. (d)(2)(B). [Pub. L. 99–80][/us/pl/99/80], § 2(c)(1), substituted “$2,000,000” for “$1,000,000” in cl. (i), and substituted “or (ii) any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, and which had not more than 500 employees at the time the civil action was filed; except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 ([26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]) exempt from taxation under section 501(a) of such Code, or a cooperative association as defined in section 15(a) of the Agricultural Marketing Act ([12 U.S.C. 1141j(a)][/us/usc/t12/s1141j/a]), may be a party regardless of the net worth of such organization or cooperative association;” for “(ii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization whose net worth did not exceed $5,000,000 at the time the civil action was filed, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 ([26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act ([12 U.S.C. 1141j(a)][/us/usc/t12/s1141j/a]), may be a party regardless of the net worth of such organization or cooperative association, or (iii) a sole owner of an unincorporated business, or a partnership, corporation, association, or organization, having not more than 500 employees at the time the civil action was filed; and”.
 
-    Subsec. (d)(2)(D) to (H). [Pub. L. 99–80, § 2(c)(2)][/us/pl/99/80/s2/c/2], added subpars. (D) to (H).
+    Subsec. (d)(2)(D) to (H). [Pub. L. 99–80][/us/pl/99/80], § 2(c)(2), added subpars. (D) to (H).
 
-    Subsec. (d)(4). [Pub. L. 99–80, § 2(d)][/us/pl/99/80/s2/d], amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+    Subsec. (d)(4). [Pub. L. 99–80][/us/pl/99/80], § 2(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
     “(A) Fees and other expenses awarded under this subsection may be paid by any agency over which the party prevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made in accordance with sections 2414 and 2517 of this title.
 
     “(B) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded pursuant to this subsection in such fiscal years.”
 
-    Subsec. (f). [Pub. L. 99–80, § 2(e)][/us/pl/99/80/s2/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–80][/us/pl/99/80], § 2(e), added subsec. (f).
 
     1982—Subsec. (e). [Pub. L. 97–248][/us/pl/97/248] added subsec. (e).
 
-    1980—[Pub. L. 96–481, § 204(a)][/us/pl/96/481/s204/a], designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and [section 2517 of this title][/us/usc/t28/s2517] for the payment of judgments against the United States, and added subsecs. (b) to (d). [Pub. L. 96–481, § 204(c)][/us/pl/96/481/s204/c], repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
+    1980—[Pub. L. 96–481][/us/pl/96/481], § 204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and [section 2517 of this title][/us/usc/t28/s2517] for the payment of judgments against the United States, and added subsecs. (b) to (d). [Pub. L. 96–481][/us/pl/96/481], § 204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
 
     1966—[Pub. L. 89–507][/us/pl/89/507] empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and [section 2517 of this title][/us/usc/t28/s2517] for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff’s right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under [section 1346(b) of this title][/us/usc/t28/s1346/b].
 
@@ -159,11 +159,11 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–572, title V, § 506(b)][/us/pl/102/572/s506/b], Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], provided that: 
+[Pub. L. 102–572, title V][/us/pl/102/572/tV], § 506(b), Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any case pending before the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on the date of the enactment of this Act \[Oct. 29, 1992\], to any appeal filed in that court on or after such date, and to any appeal from that court that is pending on such date in the United States Court of Appeals for the Federal Circuit.”
 
-[Pub. L. 102–572, title V, § 506(d)][/us/pl/102/572/s506/d], Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], provided that: 
+[Pub. L. 102–572, title V][/us/pl/102/572/tV], § 506(d), Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], provided that: 
 
 > “This section \[amending this section and enacting provisions set out under this section\], and the amendment made by this section, shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
 
@@ -183,11 +183,11 @@
 
     Amendment by [section 204(a) of Pub. L. 96–481][/us/pl/96/481/s204/a] effective Oct. 1, 1981, and applicable to any adversary adjudication, as defined in [section 504(b)(1)(C) of Title 5][/us/usc/t5/s504/b/1/C], Government Organization and Employees, and any civil action or adversary adjudication described in this section which is pending on, or commenced on or after, such date, see [section 208 of Pub. L. 96–481][/us/pl/96/481/s208], set out as an Effective Date note under [section 504 of Title 5][/us/usc/t5/s504].
 
-    [Pub. L. 96–481, title II, § 204(c)][/us/pl/96/481/s204/c], Oct. 21, 1980, [94 Stat. 2329][/us/stat/94/2329], which provided in part that effective Oct. 1, 1984, subsec. (d) of this section is repealed, except that the provisions of subsec. (d) shall continue to apply through final disposition of any adversary adjudication initiated before the date of repeal, was repealed by [Pub. L. 99–80, § 6(b)(2)][/us/pl/99/80/s6/b/2], Aug. 5, 1985, [99 Stat. 186][/us/stat/99/186].
+    [Pub. L. 96–481, title II][/us/pl/96/481/tII], § 204(c), Oct. 21, 1980, [94 Stat. 2329][/us/stat/94/2329], which provided in part that effective Oct. 1, 1984, subsec. (d) of this section is repealed, except that the provisions of subsec. (d) shall continue to apply through final disposition of any adversary adjudication initiated before the date of repeal, was repealed by [Pub. L. 99–80][/us/pl/99/80], § 6(b)(2), Aug. 5, 1985, [99 Stat. 186][/us/stat/99/186].
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–507, § 3][/us/pl/89/507/s3], July 18, 1966, [80 Stat. 308][/us/stat/80/308], provided that: 
+[Pub. L. 89–507][/us/pl/89/507], § 3, July 18, 1966, [80 Stat. 308][/us/stat/80/308], provided that: 
 
 > “These amendments \[amending this section and [section 2520 of this title][/us/usc/t28/s2520]\] shall apply only to judgments entered in actions filed subsequent to the date of enactment of this Act \[July 18, 1966\]. These amendments shall not authorize the reopening or modification of judgments entered prior to the enactment of this Act.”
 
@@ -197,7 +197,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 96–481, title II, § 206][/us/pl/96/481/s206], Oct. 21, 1980, [94 Stat. 2330][/us/stat/94/2330], as amended by [Pub. L. 99–80, § 3][/us/pl/99/80/s3], Aug. 5, 1985, [99 Stat. 186][/us/stat/99/186], provided that:
+[Pub. L. 96–481, title II][/us/pl/96/481/tII], § 206, Oct. 21, 1980, [94 Stat. 2330][/us/stat/94/2330], as amended by [Pub. L. 99–80][/us/pl/99/80], § 3, Aug. 5, 1985, [99 Stat. 186][/us/stat/99/186], provided that:
 
 >     “(a) Except as provided in subsection (b), nothing in [section 2412(d) of title 28][/us/usc/t28/s2412/d], United States Code, as added by [section 204(a) of this title][/us/usc/t28/s204/a], alters, modifies, repeals, invalidates, or supersedes any other provision of Federal law which authorizes an award of such fees and other expenses to any party other than the United States that prevails in any civil action brought by or against the United States.
 
@@ -205,19 +205,19 @@
 
  __Authority of Court of Appeals for Veterans Claims to Award Fees Under Equal Access to Justice Act for Non-attorney Practitioners.__ 
 
-[Pub. L. 107–330, title IV, § 403][/us/pl/107/330/s403], Dec. 6, 2002, [116 Stat. 2833][/us/stat/116/2833], provided that: 
+[Pub. L. 107–330, title IV][/us/pl/107/330/tIV], § 403, Dec. 6, 2002, [116 Stat. 2833][/us/stat/116/2833], provided that: 
 
 > “The authority of the United States Court of Appeals for Veterans Claims to award reasonable fees and expenses of attorneys under [section 2412(d) of title 28][/us/usc/t28/s2412/d], United States Code, shall include authority to award fees and expenses, in an amount determined appropriate by the United States Court of Appeals for Veterans Claims, of individuals admitted to practice before the Court as non-attorney practitioners under subsection (b) or (c) of Rule 46 of the Rules of Practice and Procedure of the United States Court of Appeals for Veterans Claims.”
 
  __Nonliability of Judicial Officers for Costs__ 
 
-[Pub. L. 104–317, title III, § 309(a)][/us/pl/104/317/s309/a], Oct. 19, 1996, [110 Stat. 3853][/us/stat/110/3853], provided that: 
+[Pub. L. 104–317, title III][/us/pl/104/317/tIII], § 309(a), Oct. 19, 1996, [110 Stat. 3853][/us/stat/110/3853], provided that: 
 
 > “Notwithstanding any other provision of law, no judicial officer shall be held liable for any costs, including attorney’s fees, in any action brought against such officer for an act or omission taken in such officer’s judicial capacity, unless such action was clearly in excess of such officer’s jurisdiction.”
 
  __Fee Agreements__ 
 
-[Pub. L. 102–572, title V, § 506(c)][/us/pl/102/572/s506/c], Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], provided that: 
+[Pub. L. 102–572, title V][/us/pl/102/572/tV], § 506(c), Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], provided that: 
 
 > “[Section 5904(d) of title 38][/us/usc/t38/s5904/d], United States Code, shall not prevent an award of fees and other expenses under [section 2412(d) of title 28][/us/usc/t28/s2412/d], United States Code. [Section 5904(d) of title 38][/us/usc/t38/s5904/d], United States Code, shall not apply with respect to any such award but only if, where the claimant’s attorney receives fees for the same work under both [section 5904 of title 38][/us/usc/t38/s5904], United States Code, and [section 2412(d) of title 28][/us/usc/t28/s2412/d], United States Code, the claimant’s attorney refunds to the claimant the amount of the smaller fee.”
 
@@ -239,67 +239,67 @@
 [/us/usc/t28/s1961/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1961%2Fa
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F973
-[/us/pl/89/507/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F507%2Fs1
+[/us/pl/89/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F507
 [/us/stat/80/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F308
-[/us/pl/96/481/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs204%2Fa
+[/us/pl/96/481/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtII
 [/us/stat/94/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2327
-[/us/pl/97/248/s292/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs292%2Fc
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F574
 [/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
 [/us/stat/99/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F184
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/572/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs301%2Fa
+[/us/pl/102/572/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIII
 [/us/stat/106/4511-4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4511-4513
-[/us/pl/104/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1091%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F722
-[/us/pl/104/121/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs232
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F863
-[/us/pl/105/368/s512/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fb%2F1%2FB
+[/us/pl/105/368/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2FtV
 [/us/stat/112/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3342
-[/us/pl/111/350/s5/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F9
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3848
-[/us/act/1911-03-03/ch231/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs152
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1138
-[/us/act/1946-08-02/ch753/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs410%2Fa
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F843
 [/us/usc/t28/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs931%2Fa
 [/us/usc/t28/s548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs548
 [/us/usc/t28/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs258
 [/us/usc/t28/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs931%2Fa
 [/us/usc/t26/s7430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7430
-[/us/pl/111/350/s5/g/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F9%2FA
-[/us/pl/111/350/s5/g/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F9%2FB
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
-[/us/pl/104/121/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs232%2Fa
-[/us/pl/104/121/s232/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs232%2Fb%2F1
-[/us/pl/104/121/s232/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs232%2Fb%2F2
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
-[/us/pl/104/121/s232/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs232%2Fb%2F3
+[/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/102/572/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs301%2Fa
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
-[/us/pl/102/573/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573%2Fs506%2Fa
-[/us/pl/102/572/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs502%2Fb
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F573
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/usc/t28/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/80/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs2%2Fa%2F1
-[/us/pl/99/80/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs6
-[/us/pl/96/481/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs204%2Fc
-[/us/pl/99/80/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs2%2Fa%2F2
-[/us/pl/99/80/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs2%2Fb
-[/us/pl/99/80/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs2%2Fc%2F1
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
+[/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t12/s1141j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141j%2Fa
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t12/s1141j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141j%2Fa
-[/us/pl/99/80/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs2%2Fc%2F2
-[/us/pl/99/80/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs2%2Fd
-[/us/pl/99/80/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs2%2Fe
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/96/481/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs204%2Fa
+[/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/usc/t28/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2517
-[/us/pl/96/481/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs204%2Fc
+[/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/pl/89/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F507
 [/us/usc/t28/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2517
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
@@ -309,9 +309,9 @@
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/104/121/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs233
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
-[/us/pl/102/572/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs506%2Fb
+[/us/pl/102/572/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtV
 [/us/stat/106/4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4513
-[/us/pl/102/572/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs506%2Fd
+[/us/pl/102/572/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtV
 [/us/stat/106/4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4513
 [/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
@@ -329,32 +329,32 @@
 [/us/usc/t5/s504/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504%2Fb%2F1%2FC
 [/us/pl/96/481/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs208
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
-[/us/pl/96/481/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs204%2Fc
+[/us/pl/96/481/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtII
 [/us/stat/94/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2329
-[/us/pl/99/80/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs6%2Fb%2F2
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
 [/us/stat/99/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F186
-[/us/pl/89/507/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F507%2Fs3
+[/us/pl/89/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F507
 [/us/stat/80/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F308
 [/us/usc/t28/s2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2520
 [/us/pl/96/481/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs204%2Fc
 [/us/pl/96/481/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs204%2Fc
 [/us/pl/99/80/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs6
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
-[/us/pl/96/481/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs206
+[/us/pl/96/481/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtII
 [/us/stat/94/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2330
-[/us/pl/99/80/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80%2Fs3
+[/us/pl/99/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F80
 [/us/stat/99/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F186
 [/us/usc/t28/s2412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd
 [/us/usc/t28/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs204%2Fa
 [/us/usc/t42/s406/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs406%2Fb%2F1
 [/us/usc/t28/s2412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd
 [/us/usc/t28/s2412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd
-[/us/pl/107/330/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2Fs403
+[/us/pl/107/330/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F330%2FtIV
 [/us/stat/116/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2833
 [/us/usc/t28/s2412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd
-[/us/pl/104/317/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs309%2Fa
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3853
-[/us/pl/102/572/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs506%2Fc
+[/us/pl/102/572/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtV
 [/us/stat/106/4513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4513
 [/us/usc/t38/s5904/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5904%2Fd
 [/us/usc/t28/s2412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd

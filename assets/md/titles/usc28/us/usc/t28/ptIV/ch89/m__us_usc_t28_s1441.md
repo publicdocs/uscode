@@ -69,11 +69,11 @@
 
     The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 937][/us/stat/62/937]; [Pub. L. 94–583, § 6][/us/pl/94/583/s6], Oct. 21, 1976, [90 Stat. 2898][/us/stat/90/2898]; [Pub. L. 99–336, § 3(a)][/us/pl/99/336/s3/a], June 19, 1986, [100 Stat. 637][/us/stat/100/637]; [Pub. L. 100–702, title X, § 1016(a)][/us/pl/100/702/s1016/a], Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669]; [Pub. L. 101–650, title III, § 312][/us/pl/101/650/s312], Dec. 1, 1990, [104 Stat. 5114][/us/stat/104/5114]; [Pub. L. 102–198, § 4][/us/pl/102/198/s4], Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623]; [Pub. L. 107–273, div. C, title I, § 11020(b)(3)][/us/pl/107/273/s11020/b/3], Nov. 2, 2002, [116 Stat. 1827][/us/stat/116/1827]; [Pub. L. 112–63, title I, § 103(a)][/us/pl/112/63/s103/a], Dec. 7, 2011, [125 Stat. 759][/us/stat/125/759].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 937][/us/stat/62/937]; [Pub. L. 94–583][/us/pl/94/583], § 6, Oct. 21, 1976, [90 Stat. 2898][/us/stat/90/2898]; [Pub. L. 99–336][/us/pl/99/336], § 3(a), June 19, 1986, [100 Stat. 637][/us/stat/100/637]; [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1016(a), Nov. 19, 1988, [102 Stat. 4669][/us/stat/102/4669]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 312, Dec. 1, 1990, [104 Stat. 5114][/us/stat/104/5114]; [Pub. L. 102–198][/us/pl/102/198], § 4, Dec. 9, 1991, [105 Stat. 1623][/us/stat/105/1623]; [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11020(b)(3), Nov. 2, 2002, [116 Stat. 1827][/us/stat/116/1827]; [Pub. L. 112–63, title I][/us/pl/112/63/tI], § 103(a), Dec. 7, 2011, [125 Stat. 759][/us/stat/125/759].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 71, 114 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 28, 53, [36 Stat. 1094][/us/stat/36/1094], 1101; [Jan. 20, 1914, ch. 11][/us/act/1914-01-20/ch11], [38 Stat. 278][/us/stat/38/278]; [Jan. 31, 1928, ch. 14, § 1][/us/act/1928-01-31/ch14/s1], [45 Stat. 54][/us/stat/45/54]).
+    Based on title 28, U.S.C., 1940 ed., §§ 71, 114 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], §§ 28, 53, [36 Stat. 1094][/us/stat/36/1094], 1101; [Jan. 20, 1914, ch. 11][/us/act/1914-01-20/ch11], [38 Stat. 278][/us/stat/38/278]; [Jan. 31, 1928, ch. 14][/us/act/1928-01-31/ch14], § 1, [45 Stat. 54][/us/stat/45/54]).
 
     Section consolidates removal provisions of sections 71 and 114 of title 28, U.S.C., 1940 ed., and is intended to resolve ambiguities and conflicts of decisions.
 
@@ -95,19 +95,19 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–63, § 103(a)(1)][/us/pl/112/63/s103/a/1], substituted “Removal of civil actions” for “Actions removable generally” in section catchline.
+    2011—[Pub. L. 112–63][/us/pl/112/63], § 103(a)(1), substituted “Removal of civil actions” for “Actions removable generally” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–63, § 103(a)(2)][/us/pl/112/63/s103/a/2], inserted heading and in text struck out at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
+    Subsec. (a). [Pub. L. 112–63][/us/pl/112/63], § 103(a)(2), inserted heading and in text struck out at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
 
-    Subsec. (b). [Pub. L. 112–63, § 103(a)(3)][/us/pl/112/63/s103/a/3], amended subsec. (b) generally. Prior to amendment, text read as follows: “Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or laws of the United States shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.”
+    Subsec. (b). [Pub. L. 112–63][/us/pl/112/63], § 103(a)(3), amended subsec. (b) generally. Prior to amendment, text read as follows: “Any civil action of which the district courts have original jurisdiction founded on a claim or right arising under the Constitution, treaties or laws of the United States shall be removable without regard to the citizenship or residence of the parties. Any other such action shall be removable only if none of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.”
 
-    Subsec. (c). [Pub. L. 112–63, § 103(a)(4)][/us/pl/112/63/s103/a/4], amended subsec. (c) generally. Prior to amendment, text read as follows: “Whenever a separate and independent claim or cause of action within the jurisdiction conferred by [section 1331 of this title][/us/usc/t28/s1331] is joined with one or more otherwise non-removable claims or causes of action, the entire case may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates.”
+    Subsec. (c). [Pub. L. 112–63][/us/pl/112/63], § 103(a)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “Whenever a separate and independent claim or cause of action within the jurisdiction conferred by [section 1331 of this title][/us/usc/t28/s1331] is joined with one or more otherwise non-removable claims or causes of action, the entire case may be removed and the district court may determine all issues therein, or, in its discretion, may remand all matters in which State law predominates.”
 
-    Subsec. (d). [Pub. L. 112–63, § 103(a)(5)][/us/pl/112/63/s103/a/5], inserted heading.
+    Subsec. (d). [Pub. L. 112–63][/us/pl/112/63], § 103(a)(5), inserted heading.
 
-    Subsec. (e). [Pub. L. 112–63, § 103(a)(6)][/us/pl/112/63/s103/a/6], inserted heading.
+    Subsec. (e). [Pub. L. 112–63][/us/pl/112/63], § 103(a)(6), inserted heading.
 
-    Subsec. (f). [Pub. L. 112–63, § 103(a)(7)][/us/pl/112/63/s103/a/7], inserted heading.
+    Subsec. (f). [Pub. L. 112–63][/us/pl/112/63], § 103(a)(7), inserted heading.
 
     2002—Subsecs. (e), (f). [Pub. L. 107–273][/us/pl/107/273] added subsec. (e), redesignated former subsec. (e) as (f), and substituted “The court to which a civil action is removed under this section” for “The court to which such civil action is removed”.
 
@@ -131,7 +131,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–336, § 3(b)][/us/pl/99/336/s3/b], June 19, 1986, [100 Stat. 637][/us/stat/100/637], provided that: 
+[Pub. L. 99–336][/us/pl/99/336], § 3(b), June 19, 1986, [100 Stat. 637][/us/stat/100/637], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to claims in civil actions commenced in State courts on or after the date of the enactment of this section \[June 19, 1986\].”
 
@@ -156,38 +156,38 @@
 [/us/usc/t28/s1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1369
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F937
-[/us/pl/94/583/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs6
+[/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/stat/90/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2898
-[/us/pl/99/336/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs3%2Fa
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F637
-[/us/pl/100/702/s1016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1016%2Fa
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4669
-[/us/pl/101/650/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs312
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5114
-[/us/pl/102/198/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198%2Fs4
+[/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/stat/105/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1623
-[/us/pl/107/273/s11020/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11020%2Fb%2F3
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1827
-[/us/pl/112/63/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fa
+[/us/pl/112/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtI
 [/us/stat/125/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F759
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1094
 [/us/act/1914-01-20/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-01-20%2Fch11
 [/us/stat/38/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F278
-[/us/act/1928-01-31/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14%2Fs1
+[/us/act/1928-01-31/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-01-31%2Fch14
 [/us/stat/45/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F54
 [/us/usc/t28/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs71
 [/us/usc/t28/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs71
 [/us/usc/t49/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20
 [/us/usc/t28/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1445
-[/us/pl/112/63/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fa%2F1
-[/us/pl/112/63/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fa%2F2
-[/us/pl/112/63/s103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fa%2F3
-[/us/pl/112/63/s103/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fa%2F4
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/usc/t28/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1331
-[/us/pl/112/63/s103/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fa%2F5
-[/us/pl/112/63/s103/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fa%2F6
-[/us/pl/112/63/s103/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs103%2Fa%2F7
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/102/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F198
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
@@ -201,7 +201,7 @@
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/273/s11020/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11020%2Fc
 [/us/usc/t28/s1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1369
-[/us/pl/99/336/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs3%2Fb
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F637
 [/us/pl/94/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583
 [/us/pl/94/583/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F583%2Fs8

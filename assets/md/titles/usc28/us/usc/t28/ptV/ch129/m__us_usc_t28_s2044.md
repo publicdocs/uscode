@@ -17,7 +17,7 @@
 
     On motion of the United States attorney, the court shall order any money belonging to and deposited by or on behalf of the defendant with the court for the purposes of a criminal appearance bail bond (trial or appeal) to be held and paid over to the United States attorney to be applied to the payment of any assessment, fine, restitution, or penalty imposed upon the defendant. The court shall not release any money deposited for bond purposes after a plea or a verdict of the defendant’s guilt has been entered and before sentencing except upon a showing that an assessment, fine, restitution or penalty cannot be imposed for the offense the defendant committed or that the defendant would suffer an undue hardship. This section shall not apply to any third party surety.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3629(a)][/us/pl/101/647/s3629/a], Nov. 29, 1990, [104 Stat. 4966][/us/stat/104/4966].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3629(a), Nov. 29, 1990, [104 Stat. 4966][/us/stat/104/4966].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3629/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3629%2Fa
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4966
 [/us/pl/101/647/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3631
 [/us/usc/t28/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3001

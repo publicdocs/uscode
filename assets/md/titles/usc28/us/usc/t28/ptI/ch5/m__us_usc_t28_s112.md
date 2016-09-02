@@ -41,11 +41,11 @@ Western District
 
     Court for the Western District shall be held at Buffalo, Canandaigua, Elmira, Jamestown, and Rochester.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 885][/us/stat/62/885]; [Pub. L. 90–217][/us/pl/90/217], Dec. 18, 1967, [81 Stat. 662][/us/stat/81/662]; [Pub. L. 91–546, § 1][/us/pl/91/546/s1], Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 95–271, § 1][/us/pl/95/271/s1], Apr. 28, 1978, [92 Stat. 221][/us/stat/92/221]; [Pub. L. 95–408, § 4(c)][/us/pl/95/408/s4/c], Oct. 2, 1978, [92 Stat. 885][/us/stat/92/885]; [Pub. L. 95–573, § 3][/us/pl/95/573/s3], Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458]; [Pub. L. 98–620, title IV, § 405][/us/pl/98/620/s405], Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 101–650, title III, § 324(a)(2)][/us/pl/101/650/s324/a/2], Dec. 1, 1990, [104 Stat. 5120][/us/stat/104/5120]; [Pub. L. 104–317, title VI, § 609][/us/pl/104/317/s609], Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860]; [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title III, § 306\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–37; [Pub. L. 108–455, § 4][/us/pl/108/455/s4], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628]; [Pub. L. 108–482, title III, § 302][/us/pl/108/482/s302], Dec. 23, 2004, [118 Stat. 3918][/us/stat/118/3918].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 885][/us/stat/62/885]; [Pub. L. 90–217][/us/pl/90/217], Dec. 18, 1967, [81 Stat. 662][/us/stat/81/662]; [Pub. L. 91–546][/us/pl/91/546], § 1, Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 95–271][/us/pl/95/271], § 1, Apr. 28, 1978, [92 Stat. 221][/us/stat/92/221]; [Pub. L. 95–408][/us/pl/95/408], § 4(c), Oct. 2, 1978, [92 Stat. 885][/us/stat/92/885]; [Pub. L. 95–573][/us/pl/95/573], § 3, Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 405, Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 324(a)(2), Dec. 1, 1990, [104 Stat. 5120][/us/stat/104/5120]; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 609, Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title III, § 306\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–37; [Pub. L. 108–455][/us/pl/108/455], § 4, Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628]; [Pub. L. 108–482, title III][/us/pl/108/482/tIII], § 302, Dec. 23, 2004, [118 Stat. 3918][/us/stat/118/3918].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 178 and 178a ([Mar. 3, 1911, ch. 231, § 97][/us/act/1911-03-03/ch231/s97], [36 Stat. 1119][/us/stat/36/1119]; [Jan. 21, 1920, ch. 50][/us/act/1920-01-21/ch50], [41 Stat. 394][/us/stat/41/394]; [July 1, 1922, ch. 260][/us/act/1922-07-01/ch260], [42 Stat. 812][/us/stat/42/812]; [Aug. 12, 1937, ch. 591][/us/act/1937-08-12/ch591], [50 Stat. 623][/us/stat/50/623]).
+    Based on title 28, U.S.C., 1940 ed., §§ 178 and 178a ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 97, [36 Stat. 1119][/us/stat/36/1119]; [Jan. 21, 1920, ch. 50][/us/act/1920-01-21/ch50], [41 Stat. 394][/us/stat/41/394]; [July 1, 1922, ch. 260][/us/act/1922-07-01/ch260], [42 Stat. 812][/us/stat/42/812]; [Aug. 12, 1937, ch. 591][/us/act/1937-08-12/ch591], [50 Stat. 623][/us/stat/50/623]).
 
     A reference in [section 178 of title 28][/us/usc/t28/s178], U.S.C., 1940 ed., to Franklin County in the list of Counties in the Northern District, in which one term might be held annually, in the discretion of the judge, was omitted as superseded by the provisions of said [section 178a of title 28][/us/usc/t28/s178a], requiring an annual term to be held at Malone, which is in Franklin County.
 
@@ -81,11 +81,11 @@ Western District
 
     1984—Subsec. (c). [Pub. L. 98–620][/us/pl/98/620] provided for holding court at Hauppauge.
 
-    1978—Subsec. (a). [Pub. L. 95–408, § 4(c)(1)][/us/pl/95/408/s4/c/1], added counties of Columbia, Greene, and Ulster to those counties comprising the Northern District of New York.
+    1978—Subsec. (a). [Pub. L. 95–408][/us/pl/95/408], § 4(c)(1), added counties of Columbia, Greene, and Ulster to those counties comprising the Northern District of New York.
 
     Subsec. (b). [Pub. L. 95–573][/us/pl/95/573] provided for holding court at White Plains.
 
-    [Pub. L. 95–408, § 4(c)(2)][/us/pl/95/408/s4/c/2], struck out Columbia, Greene, and Ulster from those counties comprising the Southern District of New York.
+    [Pub. L. 95–408][/us/pl/95/408], § 4(c)(2), struck out Columbia, Greene, and Ulster from those counties comprising the Southern District of New York.
 
     Subsec. (c). [Pub. L. 95–271][/us/pl/95/271] substituted “and Hempstead (including the village of Uniondale)” for “Mineola, and Westbury”.
 
@@ -124,27 +124,27 @@ Sections 2 to 5 of [Pub. L. 95–271][/us/pl/95/271] provided that:
 [/us/stat/62/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F885
 [/us/pl/90/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F217
 [/us/stat/81/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F662
-[/us/pl/91/546/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546%2Fs1
+[/us/pl/91/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546
 [/us/stat/84/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1412
-[/us/pl/95/271/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F271%2Fs1
+[/us/pl/95/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F271
 [/us/stat/92/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F221
-[/us/pl/95/408/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs4%2Fc
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/stat/92/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F885
-[/us/pl/95/573/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573%2Fs3
+[/us/pl/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573
 [/us/stat/92/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2458
-[/us/pl/98/620/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs405
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3361
-[/us/pl/101/650/s324/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs324%2Fa%2F2
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5120
-[/us/pl/104/317/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs609
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3860
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/108/455/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455%2Fs4
+[/us/pl/108/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455
 [/us/stat/118/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3628
-[/us/pl/108/482/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs302
+[/us/pl/108/482/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2FtIII
 [/us/stat/118/3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3918
-[/us/act/1911-03-03/ch231/s97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs97
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1119
 [/us/act/1920-01-21/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-01-21%2Fch50
 [/us/stat/41/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F394
@@ -163,9 +163,9 @@ Sections 2 to 5 of [Pub. L. 95–271][/us/pl/95/271] provided that:
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
-[/us/pl/95/408/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs4%2Fc%2F1
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/pl/95/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F573
-[/us/pl/95/408/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408%2Fs4%2Fc%2F2
+[/us/pl/95/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F408
 [/us/pl/95/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F271
 [/us/pl/91/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546
 [/us/pl/90/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F217

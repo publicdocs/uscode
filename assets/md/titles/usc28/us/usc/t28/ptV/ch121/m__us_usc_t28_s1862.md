@@ -17,7 +17,7 @@
 
     No citizen shall be excluded from service as a grand or petit juror in the district courts of the United States or in the Court of International Trade on account of race, color, religion, sex, national origin, or economic status.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [Pub. L. 90–274, § 101][/us/pl/90/274/s101], Mar. 27, 1968, [82 Stat. 54][/us/stat/82/54]; [Pub. L. 96–417, title III, § 302(c)][/us/pl/96/417/s302/c], Oct. 10, 1980, [94 Stat. 1739][/us/stat/94/1739].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 952][/us/stat/62/952]; [Pub. L. 90–274][/us/pl/90/274], § 101, Mar. 27, 1968, [82 Stat. 54][/us/stat/82/54]; [Pub. L. 96–417, title III][/us/pl/96/417/tIII], § 302(c), Oct. 10, 1980, [94 Stat. 1739][/us/stat/94/1739].)
 
  __Historical and Revision Notes__ 
 
@@ -46,9 +46,9 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F952
-[/us/pl/90/274/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs101
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F54
-[/us/pl/96/417/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs302%2Fc
+[/us/pl/96/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtIII
 [/us/stat/94/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1739
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274

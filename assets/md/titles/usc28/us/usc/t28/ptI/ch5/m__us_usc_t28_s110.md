@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 176 ([Mar. 3, 1911, ch. 231, § 96][/us/act/1911-03-03/ch231/s96], [36 Stat. 1119][/us/stat/36/1119]; [Aug. 9, 1912, ch. 277][/us/act/1912-08-09/ch277], [37 Stat. 265][/us/stat/37/265]; [Feb. 14, 1913, ch. 53][/us/act/1913-02-14/ch53], [37 Stat. 674][/us/stat/37/674]; [May 17, 1926, ch. 311][/us/act/1926-05-17/ch311], [44 Stat. 561][/us/stat/44/561]).
+    Based on title 28, U.S.C., 1940 ed., § 176 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 96, [36 Stat. 1119][/us/stat/36/1119]; [Aug. 9, 1912, ch. 277][/us/act/1912-08-09/ch277], [37 Stat. 265][/us/stat/37/265]; [Feb. 14, 1913, ch. 53][/us/act/1913-02-14/ch53], [37 Stat. 674][/us/stat/37/674]; [May 17, 1926, ch. 311][/us/act/1926-05-17/ch311], [44 Stat. 561][/us/stat/44/561]).
 
     Provisions relating to maintenance of offices by the clerk and marshal were omitted as covered by sections 452, 541 \[see 561\], 542 \[see 561\], and 751 of this title.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F885
-[/us/act/1911-03-03/ch231/s96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs96
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1119
 [/us/act/1912-08-09/ch277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-09%2Fch277
 [/us/stat/37/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F265

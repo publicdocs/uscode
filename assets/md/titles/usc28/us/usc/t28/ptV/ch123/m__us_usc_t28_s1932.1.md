@@ -17,7 +17,7 @@
 
     The Judicial Conference of the United States shall prescribe from time to time the fees and costs to be charged and collected by the Judicial Panel on Multidistrict Litigation.
 
-(Added [Pub. L. 104–317, title IV, § 403(a)(1)][/us/pl/104/317/s403/a/1], Oct. 19, 1996, [110 Stat. 3854][/us/stat/110/3854].)
+(Added [Pub. L. 104–317, title IV][/us/pl/104/317/tIV], § 403(a)(1), Oct. 19, 1996, [110 Stat. 3854][/us/stat/110/3854].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/317/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs403%2Fa%2F1
+[/us/pl/104/317/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIV
 [/us/stat/110/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3854
 
 

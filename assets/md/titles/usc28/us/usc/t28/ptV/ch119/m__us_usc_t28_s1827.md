@@ -81,7 +81,7 @@
 
     (l) Notwithstanding any other provision of this section or section 1828, the presiding judicial officer may appoint a certified or otherwise qualified sign language interpreter to provide services to a party, witness, or other participant in a judicial proceeding, whether or not the proceeding is instituted by the United States, if the presiding judicial officer determines, on such officer’s own motion or on the motion of a party or other participant in the proceeding, that such individual suffers from a hearing impairment. The presiding judicial officer shall, subject to the availability of appropriated funds, approve the compensation and expenses payable to sign language interpreters appointed under this section in accordance with the schedule of fees prescribed by the Director under subsection (b)(3) of this section.
 
-(Added [Pub. L. 95–539, § 2(a)][/us/pl/95/539/s2/a], Oct. 28, 1978, [92 Stat. 2040][/us/stat/92/2040]; amended [Pub. L. 100–702, title VII][/us/pl/100/702], §§ 702–710, Nov. 19, 1988, [102 Stat. 4654–4657][/us/stat/102/4654-4657]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 104–317, title III, § 306][/us/pl/104/317/s306], title IV, § 402(a), Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852], 3854.)
+(Added [Pub. L. 95–539][/us/pl/95/539], § 2(a), Oct. 28, 1978, [92 Stat. 2040][/us/stat/92/2040]; amended [Pub. L. 100–702, title VII][/us/pl/100/702/tVII], §§ 702–710, Nov. 19, 1988, [102 Stat. 4654–4657][/us/stat/102/4654-4657]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 104–317, title III][/us/pl/104/317/tIII], § 306, title IV, § 402(a), Oct. 19, 1996, [110 Stat. 3852][/us/stat/110/3852], 3854.)
 
  __References in Text__ 
 
@@ -93,21 +93,21 @@
 
  __Amendments__ 
 
-    1996—Subsec. (g)(5), (6). [Pub. L. 104–317, § 402(a)][/us/pl/104/317/s402/a], added par. (5) and redesignated former par. (5) as (6).
+    1996—Subsec. (g)(5), (6). [Pub. L. 104–317][/us/pl/104/317], § 402(a), added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (l). [Pub. L. 104–317, § 306][/us/pl/104/317/s306], added subsec. (l).
+    Subsec. (l). [Pub. L. 104–317][/us/pl/104/317], § 306, added subsec. (l).
 
-    1988—Subsec. (a). [Pub. L. 100–702, § 702][/us/pl/100/702/s702], amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
+    1988—Subsec. (a). [Pub. L. 100–702][/us/pl/100/702], § 702, amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
 
-    Subsec. (b). [Pub. L. 100–702, § 703][/us/pl/100/702/s703], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director shall prescribe, determine, and certify the qualifications of persons who may serve as certified interpreters in courts of the United States in bilingual proceedings and proceedings involving the hearing impaired (whether or not also speech impaired), and in so doing, the Director shall consider the education, training, and experience of those persons. The Director shall maintain a current master list of all interpreters certified by the Director and shall report annually on the frequency of requests for, and the use and effectiveness of, interpreters. The Director shall prescribe a schedule of fees for services rendered by interpreters.”
+    Subsec. (b). [Pub. L. 100–702][/us/pl/100/702], § 703, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director shall prescribe, determine, and certify the qualifications of persons who may serve as certified interpreters in courts of the United States in bilingual proceedings and proceedings involving the hearing impaired (whether or not also speech impaired), and in so doing, the Director shall consider the education, training, and experience of those persons. The Director shall maintain a current master list of all interpreters certified by the Director and shall report annually on the frequency of requests for, and the use and effectiveness of, interpreters. The Director shall prescribe a schedule of fees for services rendered by interpreters.”
 
-    Subsec. (c). [Pub. L. 100–702, § 704][/us/pl/100/702/s704], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each United States district court shall maintain on file in the office of the clerk of court a list of all persons who have been certified as interpreters, including bilingual interpreters and oral or manual interpreters for the hearing impaired (whether or not also speech impaired), by the Director of the Administrative Office of the United States Courts in accordance with the certification program established pursuant to subsection (b) of this section.”
+    Subsec. (c). [Pub. L. 100–702][/us/pl/100/702], § 704, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each United States district court shall maintain on file in the office of the clerk of court a list of all persons who have been certified as interpreters, including bilingual interpreters and oral or manual interpreters for the hearing impaired (whether or not also speech impaired), by the Director of the Administrative Office of the United States Courts in accordance with the certification program established pursuant to subsection (b) of this section.”
 
     Subsec. (d). [Pub. L. 100–702][/us/pl/100/702], §§ 705, 710(a), designated existing provisions as par. (1), in introductory provisions, substituted “qualified interpreter” for “competent interpreter”, “judicial proceedings instituted by the United States” for “any criminal or civil action initiated by the United States in a United States district court (including a petition for a writ of habeas corpus initiated in the name of the United States by a relator)”, and “such judicial proceedings” for “such action”, redesignated former pars. (1) and (2) as subpars. (A) and (B), and added par. (2).
 
-    Subsec. (e)(2). [Pub. L. 100–702, § 710(b)][/us/pl/100/702/s710/b], substituted “judicial proceedings instituted by the United States” for “criminal or civil action in a United States district court”.
+    Subsec. (e)(2). [Pub. L. 100–702][/us/pl/100/702], § 710(b), substituted “judicial proceedings instituted by the United States” for “criminal or civil action in a United States district court”.
 
-    Subsec. (g)(1) to (3). [Pub. L. 100–702, § 706(a)][/us/pl/100/702/s706/a], amended pars. (1) to (3) generally. Prior to amendment, pars. (1) to (3) read as follows:
+    Subsec. (g)(1) to (3). [Pub. L. 100–702][/us/pl/100/702], § 706(a), amended pars. (1) to (3) generally. Prior to amendment, pars. (1) to (3) read as follows:
 
     “(1) Except as otherwise provided in this subsection or [section 1828 of this title][/us/usc/t28/s1828], the salaries, fees, expenses, and costs incident to providing the services of interpreters under subsection (d) of this section shall be paid by the Director of the Administrative Office of the United States Courts from sums appropriated to the Federal judiciary.
 
@@ -115,15 +115,15 @@
 
     “(3) The presiding judicial officer may in such officer’s discretion direct that all or part of such salaries, fees, expenses, and costs shall be apportioned between or among the parties or shall be taxed as costs in a civil action.”
 
-    Subsec. (g)(4), (5). [Pub. L. 100–702, § 706(b)][/us/pl/100/702/s706/b], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (g)(4), (5). [Pub. L. 100–702][/us/pl/100/702], § 706(b), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (h). [Pub. L. 100–702, § 707][/us/pl/100/702/s707], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “In any action in a court of the United States where the presiding judicial officer establishes, fixes, or approves the compensation and expenses payable to an interpreter from funds appropriated to the Federal judiciary, the presiding judicial officer shall not establish, fix, or approve compensation and expenses in excess of the maximum allowable under the schedule of fees for services prescribed pursuant to subsection (b) of this section.”
+    Subsec. (h). [Pub. L. 100–702][/us/pl/100/702], § 707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “In any action in a court of the United States where the presiding judicial officer establishes, fixes, or approves the compensation and expenses payable to an interpreter from funds appropriated to the Federal judiciary, the presiding judicial officer shall not establish, fix, or approve compensation and expenses in excess of the maximum allowable under the schedule of fees for services prescribed pursuant to subsection (b) of this section.”
 
-    Subsec. (i). [Pub. L. 100–702, § 708][/us/pl/100/702/s708], amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘presiding judicial officer’ as used in this section and [section 1828 of this title][/us/usc/t28/s1828] includes a judge of a United States district court, a United States magistrate, and a referee in bankruptcy.”
+    Subsec. (i). [Pub. L. 100–702][/us/pl/100/702], § 708, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘presiding judicial officer’ as used in this section and [section 1828 of this title][/us/usc/t28/s1828] includes a judge of a United States district court, a United States magistrate, and a referee in bankruptcy.”
 
-    Subsec. (j). [Pub. L. 100–702, § 708][/us/pl/100/702/s708], amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘United States district court’ as used in this section and [section 1828 of this title][/us/usc/t28/s1828] includes any court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States established by [section 132 of this title][/us/usc/t28/s132].”
+    Subsec. (j). [Pub. L. 100–702][/us/pl/100/702], § 708, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘United States district court’ as used in this section and [section 1828 of this title][/us/usc/t28/s1828] includes any court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States established by [section 132 of this title][/us/usc/t28/s132].”
 
-    Subsec. (k). [Pub. L. 100–702, § 709][/us/pl/100/702/s709], amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The interpretation provided by certified interpreters pursuant to this section shall be in the consecutive mode except that the presiding judicial officer, with the approval of all interested parties, may authorize a simultaneous or summary interpretation when such officer determines that such interpretation will aid in the efficient administration of justice. The presiding judicial officer on such officer’s motion or on the motion of a party may order that special interpretation services as authorized in [section 1828 of this title][/us/usc/t28/s1828] be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.”
+    Subsec. (k). [Pub. L. 100–702][/us/pl/100/702], § 709, amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The interpretation provided by certified interpreters pursuant to this section shall be in the consecutive mode except that the presiding judicial officer, with the approval of all interested parties, may authorize a simultaneous or summary interpretation when such officer determines that such interpretation will aid in the efficient administration of justice. The presiding judicial officer on such officer’s motion or on the motion of a party may order that special interpretation services as authorized in [section 1828 of this title][/us/usc/t28/s1828] be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.”
 
  __Change of Name__ 
 
@@ -131,7 +131,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–702, title VII, § 712][/us/pl/100/702/s712], Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657], provided that: 
+[Pub. L. 100–702, title VII][/us/pl/100/702/tVII], § 712, Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657], provided that: 
 
 > “This title \[amending this section and enacting provisions set out as notes under this section and [section 1 of this title][/us/usc/t28/s1]\] shall become effective upon the date of enactment \[Nov. 19, 1988\].”
 
@@ -145,13 +145,13 @@
 
  __Payment for Contractual Services__ 
 
-[Pub. L. 104–317, title IV, § 402(b)][/us/pl/104/317/s402/b], Oct. 19, 1996, [110 Stat. 3854][/us/stat/110/3854], provided that: 
+[Pub. L. 104–317, title IV][/us/pl/104/317/tIV], § 402(b), Oct. 19, 1996, [110 Stat. 3854][/us/stat/110/3854], provided that: 
 
 > “Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act \[Oct. 19, 1996\]) a provision which permits the contractor to collect and retain fees in payment for contractual services in accordance with [section 1827(g)(5) of title 28][/us/usc/t28/s1827/g/5], United States Code.”
 
  __Impact on Existing Programs__ 
 
-[Pub. L. 100–702, title VII, § 711][/us/pl/100/702/s711], Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657], provided that: 
+[Pub. L. 100–702, title VII][/us/pl/100/702/tVII], § 711, Nov. 19, 1988, [102 Stat. 4657][/us/stat/102/4657], provided that: 
 
 > “Nothing in this title \[amending this section and enacting provisions set out as notes under this section and [section 1 of this title][/us/usc/t28/s1]\] shall be construed to terminate or diminish existing programs for the certification of interpreters.”
 
@@ -165,50 +165,50 @@
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/usc/t28/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1931
 [/us/usc/t28/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1828
-[/us/pl/95/539/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs2%2Fa
+[/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/stat/92/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2040
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVII
 [/us/stat/102/4654-4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4654-4657
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/104/317/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs306
+[/us/pl/104/317/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIII
 [/us/stat/110/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3852
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/stat/102/4642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4642
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
-[/us/pl/104/317/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs402%2Fa
-[/us/pl/104/317/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs306
-[/us/pl/100/702/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs702
-[/us/pl/100/702/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs703
-[/us/pl/100/702/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs704
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
-[/us/pl/100/702/s710/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs710%2Fb
-[/us/pl/100/702/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs706%2Fa
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t28/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1828
-[/us/pl/100/702/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs706%2Fb
-[/us/pl/100/702/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs707
-[/us/pl/100/702/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs708
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t28/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1828
-[/us/pl/100/702/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs708
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t28/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1828
 [/us/usc/t28/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs132
-[/us/pl/100/702/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs709
+[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/usc/t28/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1828
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
-[/us/pl/100/702/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs712
+[/us/pl/100/702/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVII
 [/us/stat/102/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4657
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 [/us/pl/95/539/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539%2Fs10%2Fb
 [/us/usc/t28/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs602
 [/us/pl/95/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F539
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
-[/us/pl/104/317/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs402%2Fb
+[/us/pl/104/317/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtIV
 [/us/stat/110/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3854
 [/us/usc/t28/s1827/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1827%2Fg%2F5
-[/us/pl/100/702/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs711
+[/us/pl/100/702/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtVII
 [/us/stat/102/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4657
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 

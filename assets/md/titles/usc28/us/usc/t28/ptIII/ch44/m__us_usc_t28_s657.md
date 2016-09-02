@@ -41,7 +41,7 @@
 
             (B) the parties have otherwise stipulated.
 
-(Added [Pub. L. 100–702, title IX, § 901(a)][/us/pl/100/702/s901/a], Nov. 19, 1988, [102 Stat. 4662][/us/stat/102/4662]; amended [Pub. L. 105–315, § 9][/us/pl/105/315/s9], Oct. 30, 1998, [112 Stat. 2997][/us/stat/112/2997].)
+(Added [Pub. L. 100–702, title IX][/us/pl/100/702/tIX], § 901(a), Nov. 19, 1988, [102 Stat. 4662][/us/stat/102/4662]; amended [Pub. L. 105–315][/us/pl/105/315], § 9, Oct. 30, 1998, [112 Stat. 2997][/us/stat/112/2997].)
 
  __References in Text__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/100/702/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs901%2Fa
+[/us/pl/100/702/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIX
 [/us/stat/102/4662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4662
-[/us/pl/105/315/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs9
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2997
 [/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 

@@ -23,11 +23,11 @@
 
     (d) Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the Virgin Islands shall not be permitted under this section. As otherwise used in this section, the term “district court” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands, and the term “district” includes the territorial jurisdiction of each such court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 937][/us/stat/62/937]; [Pub. L. 87–845, § 9][/us/pl/87/845/s9], Oct. 18, 1962, [76A Stat. 699][/us/stat/76A/699]; [Pub. L. 104–317, title VI, § 610(a)][/us/pl/104/317/s610/a], Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860]; [Pub. L. 112–63, title II, § 204][/us/pl/112/63/s204], Dec. 7, 2011, [125 Stat. 764][/us/stat/125/764].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 937][/us/stat/62/937]; [Pub. L. 87–845][/us/pl/87/845], § 9, Oct. 18, 1962, [76A Stat. 699][/us/stat/76A/699]; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 610(a), Oct. 19, 1996, [110 Stat. 3860][/us/stat/110/3860]; [Pub. L. 112–63, title II][/us/pl/112/63/tII], § 204, Dec. 7, 2011, [125 Stat. 764][/us/stat/125/764].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 119, 163 ([Mar. 3, 1911, ch. 231, § 58][/us/act/1911-03-03/ch231/s58], [36 Stat. 1103][/us/stat/36/1103]; [Sept. 8, 1916, ch. 475, § 5][/us/act/1916-09-08/ch475/s5], [39 Stat. 851][/us/stat/39/851]).
+    Based on title 28, U.S.C., 1940 ed., §§ 119, 163 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 58, [36 Stat. 1103][/us/stat/36/1103]; [Sept. 8, 1916, ch. 475][/us/act/1916-09-08/ch475], § 5, [39 Stat. 851][/us/stat/39/851]).
 
     Section consolidates sections 119 and 163 of title 28, U.S.C., 1940 ed., with necessary changes in phraseology and substance.
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–63, § 204(1)][/us/pl/112/63/s204/1], inserted “or to any district or division to which all parties have consented” before period at end.
+    2011—Subsec. (a). [Pub. L. 112–63][/us/pl/112/63], § 204(1), inserted “or to any district or division to which all parties have consented” before period at end.
 
-    Subsec. (d). [Pub. L. 112–63, § 204(2)][/us/pl/112/63/s204/2], substituted “Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the Virgin Islands shall not be permitted under this section. As otherwise used in this section,” for “As used in this section,”.
+    Subsec. (d). [Pub. L. 112–63][/us/pl/112/63], § 204(2), substituted “Transfers from a district court of the United States to the District Court of Guam, the District Court for the Northern Mariana Islands, or the District Court of the Virgin Islands shall not be permitted under this section. As otherwise used in this section,” for “As used in this section,”.
 
     1996—Subsec. (d). [Pub. L. 104–317][/us/pl/104/317] amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–317, title VI, § 610(c)][/us/pl/104/317/s610/c], Oct. 19, 1996, [110 Stat. 3861][/us/stat/110/3861], provided that: 
+[Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 610(c), Oct. 19, 1996, [110 Stat. 3861][/us/stat/110/3861], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1406 of this title][/us/usc/t28/s1406]\] apply to cases pending on the date of the enactment of this Act \[Oct. 19, 1996\] and to cases commenced on or after such date.”
 
@@ -72,26 +72,26 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F937
-[/us/pl/87/845/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs9
+[/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/stat/76A/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76A%2F699
-[/us/pl/104/317/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs610%2Fa
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3860
-[/us/pl/112/63/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs204
+[/us/pl/112/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2FtII
 [/us/stat/125/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F764
-[/us/act/1911-03-03/ch231/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs58
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1103
-[/us/act/1916-09-08/ch475/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch475%2Fs5
+[/us/act/1916-09-08/ch475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-08%2Fch475
 [/us/stat/39/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F851
 [/us/usc/t28/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs119
 [/us/usc/t28/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs163
-[/us/pl/112/63/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs204%2F1
-[/us/pl/112/63/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs204%2F2
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
+[/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/pl/112/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63
 [/us/pl/112/63/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F63%2Fs205
 [/us/usc/t28/s1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1390
-[/us/pl/104/317/s610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs610%2Fc
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3861
 [/us/usc/t28/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1406
 [/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845

@@ -23,7 +23,7 @@
 
     (d) On the return day of the order to show cause or any later day to which the hearing may be continued, proof shall be taken. If the person is found in contempt, the court, notwithstanding any limitation upon its power generally to punish for contempt, may fine him not more than $100,000 and direct that the fine and costs of the proceedings be satisfied by a sale of the property levied upon or seized, conducted upon the notice required and in the manner provided for sales upon execution.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 949][/us/stat/62/949]; [Pub. L. 88–619, § 11][/us/pl/88/619/s11], Oct. 3, 1964, [78 Stat. 998][/us/stat/78/998].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 949][/us/stat/62/949]; [Pub. L. 88–619][/us/pl/88/619], § 11, Oct. 3, 1964, [78 Stat. 998][/us/stat/78/998].)
 
  __Historical and Revision Notes__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t28/s1783/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1783%2Fb
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F949
-[/us/pl/88/619/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619%2Fs11
+[/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F998
 [/us/act/1926-07-03/ch762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch762
 [/us/stat/44/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F836

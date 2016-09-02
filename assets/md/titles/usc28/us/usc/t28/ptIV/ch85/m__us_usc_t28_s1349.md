@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 42 ([Feb. 13, 1925, ch. 229, § 12][/us/act/1925-02-13/ch229/s12], [43 Stat. 941][/us/stat/43/941]).
+    Based on title 28, U.S.C., 1940 ed., § 42 ([Feb. 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 12, [43 Stat. 941][/us/stat/43/941]).
 
     Words “civil action” were substituted for “action or suit,” in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F934
-[/us/act/1925-02-13/ch229/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs12
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F941
 
 

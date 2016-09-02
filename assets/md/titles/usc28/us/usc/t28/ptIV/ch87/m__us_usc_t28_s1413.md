@@ -17,11 +17,11 @@
 
     Notwithstanding the preceding provisions of this chapter, a civil action under section 1346(g) may be brought in the United States district court for the district in which the employee is employed or in the United States District Court for the District of Columbia.
 
-(Added [Pub. L. 104–331, § 3(b)(2)(A)][/us/pl/104/331/s3/b/2/A], Oct. 26, 1996, [110 Stat. 4069][/us/stat/110/4069].)
+(Added [Pub. L. 104–331][/us/pl/104/331], § 3(b)(2)(A), Oct. 26, 1996, [110 Stat. 4069][/us/stat/110/4069].)
 
  __Codification__ 
 
-    [Pub. L. 104–331, § 3(b)(2)(A)][/us/pl/104/331/s3/b/2/A], which directed the amendment of chapter 37 of this title by adding this section at end, was executed by adding this section at the end of chapter 87 of this title to reflect the probable intent of Congress.
+    [Pub. L. 104–331][/us/pl/104/331], § 3(b)(2)(A), which directed the amendment of chapter 37 of this title by adding this section at end, was executed by adding this section at the end of chapter 87 of this title to reflect the probable intent of Congress.
 
  __Effective Date__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/104/331/s3/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fb%2F2%2FA
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/stat/110/4069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4069
-[/us/pl/104/331/s3/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fb%2F2%2FA
+[/us/pl/104/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331
 [/us/pl/104/331/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F331%2Fs3%2Fd
 [/us/usc/t28/s1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1296
 

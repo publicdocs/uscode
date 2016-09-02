@@ -21,7 +21,7 @@
 
     (c) Notwithstanding the provisions of [section 901 of title 31][/us/usc/t31/s901], United States Code, the Assistant Attorney General for Administration shall be the Chief Financial Officer of the Department of Justice.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612]; amended [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title I, § 111\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–20.)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 612][/us/stat/80/612]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title I, § 111\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–20.)
 
 <table>
 
@@ -69,17 +69,17 @@ Statutes at Large  </td>
 
 </table>
 
-    The title of the position was changed to “Assistant Attorney General for Administration” by [§ 307 of the Act of Aug. 14, 1964][/us/act/1964-08-14/s307], [Pub. L. 88–426][/us/pl/88/426], [78 Stat. 432][/us/stat/78/432].
+    The title of the position was changed to “Assistant Attorney General for Administration” by § 307 of the Act of Aug. 14, 1964, [Pub. L. 88–426][/us/pl/88/426], [78 Stat. 432][/us/stat/78/432].
 
     The words “competitive service” are substituted for “classified civil service” because the term “classified civil service” formerly used to designate the merit system established by the Civil Service Act of 1883 has become ambiguous due to the creation of the “classified” pay system. The term “competitive service” is now customarily used, and appears throughout title 5, United States Code, in place of “classified civil service”.
 
     The words “There shall be in the Department of Justice” are omitted as unnecessary as the title of the position and the fact of appointment by the Attorney General establish the location of the position in the Department of Justice.
 
-    The last 12 words of section 5 of the Reorganization Plan are omitted on authority of the [Act of June 5, 1952, ch. 369, § 1101][/us/act/1952-06-05/ch369/s1101] (3d proviso), [66 Stat. 121][/us/stat/66/121]. The salary of the position is now fixed by [§ 303(e) of the Act of Aug. 14, 1964][/us/act/1964-08-14/s303/e], [Pub. L. 88–426][/us/pl/88/426], [78 Stat. 420][/us/stat/78/420], which is codified in [section 5316 of title 5][/us/usc/t5/s5316], United States Code.
+    The last 12 words of section 5 of the Reorganization Plan are omitted on authority of the [Act of June 5, 1952, ch. 369][/us/act/1952-06-05/ch369], § 1101 (3d proviso), [66 Stat. 121][/us/stat/66/121]. The salary of the position is now fixed by § 303(e) of the Act of Aug. 14, 1964, [Pub. L. 88–426][/us/pl/88/426], [78 Stat. 420][/us/stat/78/420], which is codified in [section 5316 of title 5][/us/usc/t5/s5316], United States Code.
 
  __Prior Provisions__ 
 
-    A prior section 507, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 910][/us/stat/62/910]; [May 24, 1949, ch. 139, § 71][/us/act/1949-05-24/ch139/s71], [63 Stat. 100][/us/stat/63/100], related to duties of United States attorneys, and to supervision by the Attorney General, prior to repeal by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], and reenactment in sections 509 and 547 of this title by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
+    A prior section 507, acts [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 910][/us/stat/62/910]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 71, [63 Stat. 100][/us/stat/63/100], related to duties of United States attorneys, and to supervision by the Attorney General, prior to repeal by [Pub. L. 89–554][/us/pl/89/554], § 8(a), and reenactment in sections 509 and 547 of this title by [section 4(c) of Pub. L. 89–554][/us/pl/89/554/s4/c].
 
  __Amendments__ 
 
@@ -93,24 +93,22 @@ Statutes at Large  </td>
 ----------
 
 [/us/usc/t31/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs901
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F612
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/act/1964-08-14/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1964-08-14%2Fs307
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/stat/78/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F432
-[/us/act/1952-06-05/ch369/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-05%2Fch369%2Fs1101
+[/us/act/1952-06-05/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-05%2Fch369
 [/us/stat/66/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F121
-[/us/act/1964-08-14/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1964-08-14%2Fs303%2Fe
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/stat/78/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F420
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F910
-[/us/act/1949-05-24/ch139/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs71
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F100
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 

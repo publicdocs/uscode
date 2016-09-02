@@ -23,7 +23,7 @@
 
     a lottery, sweepstakes, or other betting, gambling, or wagering scheme based, directly or indirectly (through the use of geographical references or otherwise), on one or more competitive games in which amateur or professional athletes participate, or are intended to participate, or on one or more performances of such athletes in such games.
 
-(Added [Pub. L. 102–559, § 2(a)][/us/pl/102/559/s2/a], Oct. 28, 1992, [106 Stat. 4228][/us/stat/106/4228].)
+(Added [Pub. L. 102–559][/us/pl/102/559], § 2(a), Oct. 28, 1992, [106 Stat. 4228][/us/stat/106/4228].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/559/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559%2Fs2%2Fa
+[/us/pl/102/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F559
 [/us/stat/106/4228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4228
 
 

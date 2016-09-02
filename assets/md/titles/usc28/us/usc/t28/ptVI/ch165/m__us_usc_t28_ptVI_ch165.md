@@ -203,13 +203,13 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–518, title II, § 207][/us/pl/106/518/s207], Nov. 13, 2000, [114 Stat. 2414][/us/stat/114/2414], struck out item 2520 “Fees”.
+    2000—[Pub. L. 106–518, title II][/us/pl/106/518/tII], § 207, Nov. 13, 2000, [114 Stat. 2414][/us/stat/114/2414], struck out item 2520 “Fees”.
 
-    1992—[Pub. L. 102–572, title IX][/us/pl/102/572], §§ 902(a)(1), 910(b), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4520, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” in chapter heading and inserted “and incidental powers” in item 2521.
+    1992—[Pub. L. 102–572, title IX][/us/pl/102/572/tIX], §§ 902(a)(1), 910(b), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516], 4520, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” in chapter heading and inserted “and incidental powers” in item 2521.
 
-    1982—[Pub. L. 97–164, title I, § 139(b)(2)][/us/pl/97/164/s139/b/2], (i)(2), (l), (n)(4), (o)(2), (q)(2), Apr. 2, 1982, [96 Stat. 42–44][/us/stat/96/42-44], substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Proceedings generally” for “Proceedings before commissioners generally” in item 2503, substituted “Referral of cases by Comptroller General” for “Referral of cases by the Comptroller General or the head of an executive department or agency” in item 2510, struck out item 2518 “Certification of judgments for appropriation”, substituted “Fees” for “Fees; cost of printing record” in item 2520, and added item 2522.
+    1982—[Pub. L. 97–164, title I][/us/pl/97/164/tI], § 139(b)(2), (i)(2), (l), (n)(4), (o)(2), (q)(2), Apr. 2, 1982, [96 Stat. 42–44][/us/stat/96/42-44], substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Proceedings generally” for “Proceedings before commissioners generally” in item 2503, substituted “Referral of cases by Comptroller General” for “Referral of cases by the Comptroller General or the head of an executive department or agency” in item 2510, struck out item 2518 “Certification of judgments for appropriation”, substituted “Fees” for “Fees; cost of printing record” in item 2520, and added item 2522.
 
-    1978—[Pub. L. 95–563, § 14(h)(2)(B)][/us/pl/95/563/s14/h/2/B], Nov. 1, 1978, [92 Stat. 2390][/us/stat/92/2390], inserted “or the head of an executive department or agency” after “Comptroller General” in item 2510.
+    1978—[Pub. L. 95–563][/us/pl/95/563], § 14(h)(2)(B), Nov. 1, 1978, [92 Stat. 2390][/us/stat/92/2390], inserted “or the head of an executive department or agency” after “Comptroller General” in item 2510.
 
     1954—[Act Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], §§ 46, 54(c), 55(d), 59(b), [68 Stat. 1243][/us/stat/68/1243], 1247, 1248, substituted “Trial before judges” for “Place of taking evidence” in item 2505, and “Calls and discovery,” for “Calls on departments for information” in item 2507, rephrased item 2510, and added item 2521.
 
@@ -220,13 +220,13 @@
 ----------
 ----------
 
-[/us/pl/106/518/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2Fs207
+[/us/pl/106/518/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F518%2FtII
 [/us/stat/114/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2414
-[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/97/164/s139/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs139%2Fb%2F2
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/42-44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F42-44
-[/us/pl/95/563/s14/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563%2Fs14%2Fh%2F2%2FB
+[/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/stat/92/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2390
 [/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1243

@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    1983—[Pub. L. 97–409, § 2(b)(2)][/us/pl/97/409/s2/b/2], Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], substituted “independent counsels” for “special prosecutors” in item 49.
+    1983—[Pub. L. 97–409][/us/pl/97/409], § 2(b)(2), Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], substituted “independent counsels” for “special prosecutors” in item 49.
 
-    1978—[Pub. L. 95–521, title VI, § 602(b)][/us/pl/95/521/s602/b], Oct. 26, 1978, [92 Stat. 1874][/us/stat/92/1874], added item 49.
+    1978—[Pub. L. 95–521, title VI][/us/pl/95/521/tVI], § 602(b), Oct. 26, 1978, [92 Stat. 1874][/us/stat/92/1874], added item 49.
 
-    [Pub. L. 95–486, § 5(c)][/us/pl/95/486/s5/c], Oct. 20, 1978, [92 Stat. 1633][/us/stat/92/1633], substituted “panels” for “divisions” in item 46.
+    [Pub. L. 95–486][/us/pl/95/486], § 5(c), Oct. 20, 1978, [92 Stat. 1633][/us/stat/92/1633], substituted “panels” for “divisions” in item 46.
 
 ----------
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/97/409/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fb%2F2
+[/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/stat/96/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2039
-[/us/pl/95/521/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs602%2Fb
+[/us/pl/95/521/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVI
 [/us/stat/92/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1874
-[/us/pl/95/486/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486%2Fs5%2Fc
+[/us/pl/95/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F486
 [/us/stat/92/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1633
 
 

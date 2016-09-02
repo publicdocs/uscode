@@ -21,11 +21,11 @@
 
     (2) The Southern Division comprises the counties of Calvert, Charles, Montgomery, Prince George’s, and St. Mary’s.    Court for the Southern Division shall be held at a suitable site in Montgomery or Prince George’s County not more than five miles from the boundary of Montgomery and Prince George’s Counties.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 882][/us/stat/62/882]; [Pub. L. 91–546, § 4][/us/pl/91/546/s4], Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 100–487, § 1][/us/pl/100/487/s1], Oct. 14, 1988, [102 Stat. 2431][/us/stat/102/2431].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 882][/us/stat/62/882]; [Pub. L. 91–546][/us/pl/91/546], § 4, Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 100–487][/us/pl/100/487], § 1, Oct. 14, 1988, [102 Stat. 2431][/us/stat/102/2431].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 166 ([Mar. 3, 1911, ch. 231, § 86][/us/act/1911-03-03/ch231/s86], [36 Stat. 1114][/us/stat/36/1114]; [Mar. 3, 1925, ch. 422][/us/act/1925-03-03/ch422], [43 Stat. 1106][/us/stat/43/1106]).
+    Based on title 28, U.S.C., 1940 ed., § 166 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 86, [36 Stat. 1114][/us/stat/36/1114]; [Mar. 3, 1925, ch. 422][/us/act/1925-03-03/ch422], [43 Stat. 1106][/us/stat/43/1106]).
 
     Provisions relating to appointment of a deputy clerk and a deputy marshal and the maintenance of offices by such deputies were omitted as covered by sections 541 \[see 561\], 542 \[see 561\], and 751 of this title.
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–487, § 2][/us/pl/100/487/s2], Oct. 14, 1988, [102 Stat. 2431][/us/stat/102/2431], provided that:
+[Pub. L. 100–487][/us/pl/100/487], § 2, Oct. 14, 1988, [102 Stat. 2431][/us/stat/102/2431], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -64,18 +64,18 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F882
-[/us/pl/91/546/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546%2Fs4
+[/us/pl/91/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546
 [/us/stat/84/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1412
-[/us/pl/100/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F487%2Fs1
+[/us/pl/100/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F487
 [/us/stat/102/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2431
-[/us/act/1911-03-03/ch231/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs86
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1114
 [/us/act/1925-03-03/ch422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch422
 [/us/stat/43/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1106
 [/us/usc/t28/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs142
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/91/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546
-[/us/pl/100/487/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F487%2Fs2
+[/us/pl/100/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F487
 [/us/stat/102/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2431
 
 

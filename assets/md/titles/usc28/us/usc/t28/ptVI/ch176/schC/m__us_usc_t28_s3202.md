@@ -65,7 +65,7 @@
 
     The property of a judgment debtor which is subject to sale to satisfy the judgment may be sold by judicial sale, pursuant to sections 2001, 2002, and 2004 or by execution sale pursuant to section 3203(g). If a hearing is requested pursuant to subsection (d), property with respect to which the request relates shall not be sold before such hearing.
 
-(Added [Pub. L. 101–647, title XXXVI, § 3611][/us/pl/101/647/s3611], Nov. 29, 1990, [104 Stat. 4949][/us/stat/104/4949].)
+(Added [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3611, Nov. 29, 1990, [104 Stat. 4949][/us/stat/104/4949].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t28/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1651
-[/us/pl/101/647/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3611
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4949
 
 

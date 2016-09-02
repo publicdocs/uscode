@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–315, § 12(b)(1)][/us/pl/105/315/s12/b/1], (2), Oct. 30, 1998, [112 Stat. 2998][/us/stat/112/2998], substituted “ALTERNATIVE DISPUTE RESOLUTION” for “ARBITRATION” in chapter heading and amended analysis generally, substituting items 651 to 658 for former items 651 “Authorization of arbitration”, 652 “Jurisdiction”, 653 “Powers of arbitrator; arbitration hearing”, 654 “Arbitration award and judgment”, 655 “Trial de novo”, 656 “Certification of arbitrators”, 657 “Compensation of arbitrators”, and 658 “District courts that may authorize arbitration”.
+    1998—[Pub. L. 105–315][/us/pl/105/315], § 12(b)(1), (2), Oct. 30, 1998, [112 Stat. 2998][/us/stat/112/2998], substituted “ALTERNATIVE DISPUTE RESOLUTION” for “ARBITRATION” in chapter heading and amended analysis generally, substituting items 651 to 658 for former items 651 “Authorization of arbitration”, 652 “Jurisdiction”, 653 “Powers of arbitrator; arbitration hearing”, 654 “Arbitration award and judgment”, 655 “Trial de novo”, 656 “Certification of arbitrators”, 657 “Compensation of arbitrators”, and 658 “District courts that may authorize arbitration”.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/105/315/s12/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315%2Fs12%2Fb%2F1
+[/us/pl/105/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F315
 [/us/stat/112/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2998
 
 

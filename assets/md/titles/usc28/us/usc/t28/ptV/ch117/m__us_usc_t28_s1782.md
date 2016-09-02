@@ -19,13 +19,13 @@
 
     (b) This chapter does not preclude a person within the United States from voluntarily giving his testimony or statement, or producing a document or other thing, for use in a proceeding in a foreign or international tribunal before any person and in any manner acceptable to him.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 949][/us/stat/62/949]; [May 24, 1949, ch. 139, § 93][/us/act/1949-05-24/ch139/s93], [63 Stat. 103][/us/stat/63/103]; [Pub. L. 88–619, § 9(a)][/us/pl/88/619/s9/a], Oct. 3, 1964, [78 Stat. 997][/us/stat/78/997]; [Pub. L. 104–106, div. A, title XIII, § 1342(b)][/us/pl/104/106/s1342/b], Feb. 10, 1996, [110 Stat. 486][/us/stat/110/486].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 949][/us/stat/62/949]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 93, [63 Stat. 103][/us/stat/63/103]; [Pub. L. 88–619][/us/pl/88/619], § 9(a), Oct. 3, 1964, [78 Stat. 997][/us/stat/78/997]; [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1342(b), Feb. 10, 1996, [110 Stat. 486][/us/stat/110/486].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 649–653, 701, 703, 704 (R.S. §§ 871–875, 4071, 4073, 4074; [Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 241][/us/stat/19/241]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]).
+    Based on title 28, U.S.C., 1940 ed., §§ 649–653, 701, 703, 704 (R.S. §§ 871–875, 4071, 4073, 4074; [Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 241][/us/stat/19/241]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]).
 
     Sections 649–652 of title 28, U.S.C., 1940 ed., applied only to the District of Columbia and contained detailed provisions for issuing subpoenas, payment of witness fees and procedure for ordering and taking depositions. These matters are all covered by Federal Rules of Civil Procedure, Rules 26–32.
 
@@ -70,15 +70,15 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F949
-[/us/act/1949-05-24/ch139/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs93
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F103
-[/us/pl/88/619/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619%2Fs9%2Fa
+[/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F997
-[/us/pl/104/106/s1342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1342%2Fb
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F486
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F241
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921

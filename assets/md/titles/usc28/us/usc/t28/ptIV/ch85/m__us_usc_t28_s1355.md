@@ -33,7 +33,7 @@
 
     (d) Any court with jurisdiction over a forfeiture action pursuant to subsection (b) may issue and cause to be served in any other district such process as may be required to bring before the court the property that is the subject of the forfeiture action.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 934][/us/stat/62/934]; [Pub. L. 96–417, title V, § 507][/us/pl/96/417/s507], Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743]; [Pub. L. 102–550, title XV, § 1521][/us/pl/102/550/s1521], Oct. 28, 1992, [106 Stat. 4062][/us/stat/106/4062].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 934][/us/stat/62/934]; [Pub. L. 96–417, title V][/us/pl/96/417/tV], § 507, Oct. 10, 1980, [94 Stat. 1743][/us/stat/94/1743]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1521, Oct. 28, 1992, [106 Stat. 4062][/us/stat/106/4062].)
 
  __Historical and Revision Notes__ 
 
@@ -66,9 +66,9 @@
 [/us/usc/t28/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1395
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F934
-[/us/pl/96/417/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs507
+[/us/pl/96/417/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtV
 [/us/stat/94/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1743
-[/us/pl/102/550/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1521
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4062
 [/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1092

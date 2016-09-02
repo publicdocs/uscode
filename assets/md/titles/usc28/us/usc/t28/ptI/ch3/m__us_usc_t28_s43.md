@@ -19,11 +19,11 @@
 
     (b) Each court of appeals shall consist of the circuit judges of the circuit in regular active service. The circuit justice and justices or judges designated or assigned shall be competent to sit as judges of the court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 870][/us/stat/62/870]; [Pub. L. 88–176, § 1(a)][/us/pl/88/176/s1/a], Nov. 13, 1963, [77 Stat. 331][/us/stat/77/331].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 870][/us/stat/62/870]; [Pub. L. 88–176][/us/pl/88/176], § 1(a), Nov. 13, 1963, [77 Stat. 331][/us/stat/77/331].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 212 ([Mar. 3, 1911, ch. 231, § 117][/us/act/1911-03-03/ch231/s117], [36 Stat. 1131][/us/stat/36/1131]).
+    Based on title 28, U.S.C., 1940 ed., § 212 ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 117, [36 Stat. 1131][/us/stat/36/1131]).
 
     The provision in [section 212 of title 28][/us/usc/t28/s212], U.S.C., 1940 ed., for a three-judge court of appeals was permissive and did not limit the power of the court to sit in banc. Thus, subsection (b) reflects present status of law, namely, that court is composed of not only circuit judges of the circuit in active service, of whom there may be more than three, but the circuit justice or justices and judges who may be assigned or designated to the court. (See Textile Mills Securities Corporation v. Commissioner of Internal Revenue, 1942, 62 S.Ct. 272, 314 U.S. 326, 86 L.Ed. 249 and Reviser’s Notes under [section 46 of this title][/us/usc/t28/s46].)
 
@@ -39,7 +39,7 @@
 
  __Change of Name of Court__ 
 
-    [Act June 25, 1948, ch. 646, § 2(b)][/us/act/1948-06-25/ch646/s2/b], [62 Stat. 985][/us/stat/62/985], provided in part that each circuit court of appeals should, after Sept. 1, 1948, be known as a United States Court of Appeals, but that the enactment of act June 25, 1948 should in no way entail any loss of rights, interruption of jurisdiction, or prejudice to matters pending in any such courts on Sept. 1, 1948.
+    [Act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 2(b), [62 Stat. 985][/us/stat/62/985], provided in part that each circuit court of appeals should, after Sept. 1, 1948, be known as a United States Court of Appeals, but that the enactment of act June 25, 1948 should in no way entail any loss of rights, interruption of jurisdiction, or prejudice to matters pending in any such courts on Sept. 1, 1948.
 
 ----------
 
@@ -50,15 +50,15 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F870
-[/us/pl/88/176/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F176%2Fs1%2Fa
+[/us/pl/88/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F176
 [/us/stat/77/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F331
-[/us/act/1911-03-03/ch231/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs117
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1131
 [/us/usc/t28/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs212
 [/us/usc/t28/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs46
 [/us/usc/t28/s46/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs46%2Fd
 [/us/pl/88/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F176
-[/us/act/1948-06-25/ch646/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs2%2Fb
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F985
 
 

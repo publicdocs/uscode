@@ -87,7 +87,7 @@
 
     (c) Nothing in a civil justice expense and delay reduction plan relating to the settlement authority provisions of this section shall alter or conflict with the authority of the Attorney General to conduct litigation on behalf of the United States, or any delegation of the Attorney General.
 
-(Added [Pub. L. 101–650, title I, § 103(a)][/us/pl/101/650/s103/a], Dec. 1, 1990, [104 Stat. 5091][/us/stat/104/5091].)
+(Added [Pub. L. 101–650, title I][/us/pl/101/650/tI], § 103(a), Dec. 1, 1990, [104 Stat. 5091][/us/stat/104/5091].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 [/us/usc/t28/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs478
 [/us/usc/t28/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs478
 [/us/usc/t28/s472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs472%2Fa
-[/us/pl/101/650/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs103%2Fa
+[/us/pl/101/650/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtI
 [/us/stat/104/5091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5091
 
 

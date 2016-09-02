@@ -19,11 +19,11 @@
 
     This section shall not prevent the delivery of any such money to the rightful owners upon security, according to agreement of parties, under the direction of the court.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 960][/us/stat/62/960]; [Pub. L. 97–258, § 2(g)(4)(C)][/us/pl/97/258/s2/g/4/C], Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 960][/us/stat/62/960]; [Pub. L. 97–258][/us/pl/97/258], § 2(g)(4)(C), Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 28, U.S.C., 1940 ed., § 851 (R.S. § 995; [May 29, 1920, ch. 214, § 1][/us/act/1920-05-29/ch214/s1], [41 Stat. 654][/us/stat/41/654]).
+    Based on title 28, U.S.C., 1940 ed., § 851 (R.S. § 995; [May 29, 1920, ch. 214][/us/act/1920-05-29/ch214], § 1, [41 Stat. 654][/us/stat/41/654]).
 
     Changes were made in phraseology.
 
@@ -33,7 +33,7 @@
 
  __Registry Administration Account__ 
 
-[Pub. L. 100–459, title IV, § 400][/us/pl/100/459/s400], Oct. 1, 1988, [102 Stat. 2211][/us/stat/102/2211], provided: 
+[Pub. L. 100–459, title IV][/us/pl/100/459/tIV], § 400, Oct. 1, 1988, [102 Stat. 2211][/us/stat/102/2211], provided: 
 
 > “That any funds hereafter collected by the Judiciary as a charge for services rendered in administering accounts kept in a court’s registry shall be deposited into a separate account entitled ‘Registry Administration Account’ in the Treasury of the United States. Such funds shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts and Other Judicial Services and the Administrative Office of the United States Courts”.
 
@@ -46,12 +46,12 @@
 
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F960
-[/us/pl/97/258/s2/g/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fg%2F4%2FC
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1061
-[/us/act/1920-05-29/ch214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214%2Fs1
+[/us/act/1920-05-29/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214
 [/us/stat/41/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F654
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/100/459/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs400
+[/us/pl/100/459/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2FtIV
 [/us/stat/102/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2211
 
 

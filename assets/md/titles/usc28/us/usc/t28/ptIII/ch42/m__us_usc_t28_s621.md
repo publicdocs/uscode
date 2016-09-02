@@ -31,17 +31,17 @@
 
     (d) Members of the Board shall serve without additional compensation, but shall be reimbursed for actual and necessary expenses incurred in the performance of their official duties.
 
-(Added [Pub. L. 90–219, title I, § 101][/us/pl/90/219/s101], Dec. 20, 1967, [81 Stat. 664][/us/stat/81/664]; amended [Pub. L. 95–598, title II][/us/pl/95/598], §§ 228, 229, Nov. 6, 1978, [92 Stat. 2665][/us/stat/92/2665]; [Pub. L. 104–317, title VI, § 601(b)][/us/pl/104/317/s601/b], Oct. 19, 1996, [110 Stat. 3857][/us/stat/110/3857].)
+(Added [Pub. L. 90–219, title I][/us/pl/90/219/tI], § 101, Dec. 20, 1967, [81 Stat. 664][/us/stat/81/664]; amended [Pub. L. 95–598, title II][/us/pl/95/598/tII], §§ 228, 229, Nov. 6, 1978, [92 Stat. 2665][/us/stat/92/2665]; [Pub. L. 104–317, title VI][/us/pl/104/317/tVI], § 601(b), Oct. 19, 1996, [110 Stat. 3857][/us/stat/110/3857].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2). [Pub. L. 104–317, § 601(b)(1)][/us/pl/104/317/s601/b/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “two active judges of the courts of appeals of the United States, three active judges of the district courts of the United States, one active judge of the bankruptcy courts of the United States elected by vote of the members of the Judicial Conference of the United States: Provided, however, That the judges so elected shall not be members of the Judicial Conference of the United States; and”.
+    1996—Subsec. (a)(2). [Pub. L. 104–317][/us/pl/104/317], § 601(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “two active judges of the courts of appeals of the United States, three active judges of the district courts of the United States, one active judge of the bankruptcy courts of the United States elected by vote of the members of the Judicial Conference of the United States: Provided, however, That the judges so elected shall not be members of the Judicial Conference of the United States; and”.
 
-    Subsec. (b). [Pub. L. 104–317, § 601(b)(2)][/us/pl/104/317/s601/b/2], substituted “retirement pursuant to section 371(a) or [section 372(a) of this title][/us/usc/t28/s372/a],” for “retirement,”.
+    Subsec. (b). [Pub. L. 104–317][/us/pl/104/317], § 601(b)(2), substituted “retirement pursuant to section 371(a) or [section 372(a) of this title][/us/usc/t28/s372/a],” for “retirement,”.
 
-    1978—Subsec. (a)(2). [Pub. L. 95–598, § 228][/us/pl/95/598/s228], inserted reference to one active judge of the bankruptcy courts of the United States.
+    1978—Subsec. (a)(2). [Pub. L. 95–598][/us/pl/95/598], § 228, inserted reference to one active judge of the bankruptcy courts of the United States.
 
-    Subsec. (b). [Pub. L. 95–598, § 229][/us/pl/95/598/s229], struck out provisions requiring that [section 629 of this title][/us/usc/t28/s629] govern the terms of office of the first members elected to the Board.
+    Subsec. (b). [Pub. L. 95–598][/us/pl/95/598], § 229, struck out provisions requiring that [section 629 of this title][/us/usc/t28/s629] govern the terms of office of the first members elected to the Board.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -56,17 +56,17 @@
 
 [/us/usc/t28/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs371%2Fb
 [/us/usc/t28/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs372%2Fa
-[/us/pl/90/219/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs101
+[/us/pl/90/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtI
 [/us/stat/81/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F664
-[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtII
 [/us/stat/92/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2665
-[/us/pl/104/317/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs601%2Fb
+[/us/pl/104/317/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtVI
 [/us/stat/110/3857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3857
-[/us/pl/104/317/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs601%2Fb%2F1
-[/us/pl/104/317/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs601%2Fb%2F2
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
+[/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/usc/t28/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs372%2Fa
-[/us/pl/95/598/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs228
-[/us/pl/95/598/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs229
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/usc/t28/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs629
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fc

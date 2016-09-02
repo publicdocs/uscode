@@ -23,7 +23,7 @@
 
     (3) to contract with and compensate government and private agencies or persons for research projects and other services, without regard to section 6101(b) to (d) of title 41, and to delegate such contract authority to the Director of the Federal Judicial Center, who is hereby empowered to exercise such delegated authority.
 
-(Added [Pub. L. 90–219, title I, § 101][/us/pl/90/219/s101], Dec. 20, 1967, [81 Stat. 666][/us/stat/81/666]; amended [Pub. L. 100–702, title III, § 304(a)][/us/pl/100/702/s304/a], Nov. 19, 1988, [102 Stat. 4648][/us/stat/102/4648]; [Pub. L. 111–350, § 5(g)(3)][/us/pl/111/350/s5/g/3], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
+(Added [Pub. L. 90–219, title I][/us/pl/90/219/tI], § 101, Dec. 20, 1967, [81 Stat. 666][/us/stat/81/666]; amended [Pub. L. 100–702, title III][/us/pl/100/702/tIII], § 304(a), Nov. 19, 1988, [102 Stat. 4648][/us/stat/102/4648]; [Pub. L. 111–350][/us/pl/111/350], § 5(g)(3), Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/90/219/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2Fs101
+[/us/pl/90/219/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F219%2FtI
 [/us/stat/81/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F666
-[/us/pl/100/702/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs304%2Fa
+[/us/pl/100/702/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIII
 [/us/stat/102/4648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4648
-[/us/pl/111/350/s5/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3848
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5

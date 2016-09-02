@@ -55,13 +55,13 @@
 
     (g) The Director of the Administrative Office of the United States Courts shall promulgate such regulations as may be necessary to carry out his authority under this section.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 953][/us/stat/62/953]; [May 24, 1949, ch. 139, § 97][/us/act/1949-05-24/ch139/s97], [63 Stat. 103][/us/stat/63/103]; [July 14, 1949, ch. 333][/us/act/1949-07-14/ch333], [63 Stat. 411][/us/stat/63/411]; [Pub. L. 85–299][/us/pl/85/299], Sept. 7, 1957, [71 Stat. 618][/us/stat/71/618]; [Pub. L. 89–165][/us/pl/89/165], Sept. 2, 1965, [79 Stat. 645][/us/stat/79/645]; [Pub. L. 90–274, § 102(a)][/us/pl/90/274/s102/a], Mar. 27, 1968, [82 Stat. 62][/us/stat/82/62]; [Pub. L. 95–572, § 5][/us/pl/95/572/s5], Nov. 2, 1978, [92 Stat. 2454][/us/stat/92/2454]; [Pub. L. 101–650, title III, § 314(b)][/us/pl/101/650/s314/b], Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115]; [Pub. L. 102–572, title IV, § 402][/us/pl/102/572/s402], Oct. 29, 1992, [106 Stat. 4511][/us/stat/106/4511]; [Pub. L. 110–406, § 3(a)][/us/pl/110/406/s3/a], Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 953][/us/stat/62/953]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 97, [63 Stat. 103][/us/stat/63/103]; [July 14, 1949, ch. 333][/us/act/1949-07-14/ch333], [63 Stat. 411][/us/stat/63/411]; [Pub. L. 85–299][/us/pl/85/299], Sept. 7, 1957, [71 Stat. 618][/us/stat/71/618]; [Pub. L. 89–165][/us/pl/89/165], Sept. 2, 1965, [79 Stat. 645][/us/stat/79/645]; [Pub. L. 90–274][/us/pl/90/274], § 102(a), Mar. 27, 1968, [82 Stat. 62][/us/stat/82/62]; [Pub. L. 95–572][/us/pl/95/572], § 5, Nov. 2, 1978, [92 Stat. 2454][/us/stat/92/2454]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 314(b), Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115]; [Pub. L. 102–572, title IV][/us/pl/102/572/tIV], § 402, Oct. 29, 1992, [106 Stat. 4511][/us/stat/106/4511]; [Pub. L. 110–406][/us/pl/110/406], § 3(a), Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 28, U.S.C., 1940 ed., §§ 600, 600a, 600b, 608, and sections 11–1512 and 11–1513 of the D.C. Code, 1940 ed., (R.S. §§ 236, 323; [Apr. 26, 1926, ch. 183][/us/act/1926-04-26/ch183], §§ 1, 2, [44 Stat. 323][/us/stat/44/323]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Oct. 13, 1941, ch. 431, § 2][/us/act/1941-10-13/ch431/s2], [55 Stat. 736][/us/stat/55/736]).
+    Based on title 28, U.S.C., 1940 ed., §§ 600, 600a, 600b, 608, and sections 11–1512 and 11–1513 of the D.C. Code, 1940 ed., (R.S. §§ 236, 323; [Apr. 26, 1926, ch. 183][/us/act/1926-04-26/ch183], §§ 1, 2, [44 Stat. 323][/us/stat/44/323]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]; [Oct. 13, 1941, ch. 431][/us/act/1941-10-13/ch431], § 2, [55 Stat. 736][/us/stat/55/736]).
 
     Section consolidates [section 600 of title 28][/us/usc/t28/s600], U.S.C., 1940 ed., and sections 11–1512 and 11–1513 of the D.C. Code, 1940 ed., with part of [section 608 of title 28][/us/usc/t28/s608], U.S.C., 1940 ed. The remainder of such section 608, relating to payment of witnesses’ compensation, is the basis of [section 1825 of this title][/us/usc/t28/s1825].
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–406, § 3(b)][/us/pl/110/406/s3/b], Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292], provided that: 
+[Pub. L. 110–406][/us/pl/110/406], § 3(b), Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2009.”
 
@@ -115,7 +115,7 @@
 
  __Refreshment of Jurors__ 
 
-[Pub. L. 101–162, title IV][/us/pl/101/162], Nov. 21, 1989, [103 Stat. 1012][/us/stat/103/1012], provided: 
+[Pub. L. 101–162, title IV][/us/pl/101/162/tIV], Nov. 21, 1989, [103 Stat. 1012][/us/stat/103/1012], provided: 
 
 > “That for fiscal year 1990 and here­after, funds appropriated under this heading \[Courts of Appeals, District Courts and Other Judicial Services and fees of jurors and commissioners\] shall be available for refreshment of jurors.”
 
@@ -131,7 +131,7 @@
 [/us/usc/t28/s604/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604%2Fa%2F7
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F953
-[/us/act/1949-05-24/ch139/s97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs97
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F103
 [/us/act/1949-07-14/ch333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-14%2Fch333
 [/us/stat/63/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F411
@@ -139,21 +139,21 @@
 [/us/stat/71/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F618
 [/us/pl/89/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F165
 [/us/stat/79/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F645
-[/us/pl/90/274/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs102%2Fa
+[/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/stat/82/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F62
-[/us/pl/95/572/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572%2Fs5
+[/us/pl/95/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F572
 [/us/stat/92/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2454
-[/us/pl/101/650/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs314%2Fb
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5115
-[/us/pl/102/572/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs402
+[/us/pl/102/572/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIV
 [/us/stat/106/4511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4511
-[/us/pl/110/406/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs3%2Fa
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4292
 [/us/act/1926-04-26/ch183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-26%2Fch183
 [/us/stat/44/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F323
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
-[/us/act/1941-10-13/ch431/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-10-13%2Fch431%2Fs2
+[/us/act/1941-10-13/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-10-13%2Fch431
 [/us/stat/55/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F736
 [/us/usc/t28/s600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs600
 [/us/usc/t28/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs608
@@ -168,7 +168,7 @@
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/pl/89/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F165
 [/us/pl/85/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F299
-[/us/pl/110/406/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs3%2Fb
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4292
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1101%2Fa
@@ -179,7 +179,7 @@
 [/us/pl/90/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274
 [/us/pl/90/274/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F274%2Fs104
 [/us/usc/t28/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1861
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtIV
 [/us/stat/103/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1012
 
 

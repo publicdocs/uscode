@@ -17,15 +17,15 @@
 
     The Attorney General may appoint a Director of the Federal Bureau of Investigation. The Director of the Federal Bureau of Investigation is the head of the Federal Bureau of Investigation.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 4(c), Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616].)
 
  __Historical and Revision Notes__ 
 
-    The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a “Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation”. The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the [Act of Mar. 22, 1935, ch. 39][/us/act/1935-03-22/ch39], title II, [49 Stat. 77][/us/stat/49/77], and has been so designated in statutes since that date. The title of “Director of the Federal Bureau of Investigation” was recognized by statute in the [Act of June 5, 1936, ch. 529][/us/act/1936-06-05/ch529], [49 Stat. 1484][/us/stat/49/1484], and has been used in statutes since that date.
+    The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a “Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation”. The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the [Act of Mar. 22, 1935, ch. 39, title II][/us/act/1935-03-22/ch39/tII], [49 Stat. 77][/us/stat/49/77], and has been so designated in statutes since that date. The title of “Director of the Federal Bureau of Investigation” was recognized by statute in the [Act of June 5, 1936, ch. 529][/us/act/1936-06-05/ch529], [49 Stat. 1484][/us/stat/49/1484], and has been used in statutes since that date.
 
  __Findings__ 
 
-[Pub. L. 112–24, § 1][/us/pl/112/24/s1], July 26, 2011, [125 Stat. 238][/us/stat/125/238], provided that: 
+[Pub. L. 112–24][/us/pl/112/24], § 1, July 26, 2011, [125 Stat. 238][/us/stat/125/238], provided that: 
 
 > “Congress finds that—
 
@@ -37,7 +37,7 @@
 
  __Improvement of Intelligence Capabilities; Directorate of Intelligence; Intelligence Career Service__ 
 
-[Pub. L. 108–458, title II][/us/pl/108/458], §§ 2001–2003, Dec. 17, 2004, [118 Stat. 3700][/us/stat/118/3700], 3702, as amended by [Pub. L. 111–259, title VIII, § 806(b)(1)][/us/pl/111/259/s806/b/1], Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748]; [Pub. L. 114–113, div. M, title VII, § 701(b)][/us/pl/114/113/s701/b], Dec. 18, 2015, [129 Stat. 2929][/us/stat/129/2929], provided that:
+[Pub. L. 108–458, title II][/us/pl/108/458/tII], §§ 2001–2003, Dec. 17, 2004, [118 Stat. 3700][/us/stat/118/3700], 3702, as amended by [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 806(b)(1), Oct. 7, 2010, [124 Stat. 2748][/us/stat/124/2748]; [Pub. L. 114–113, div. M, title VII][/us/pl/114/113/dM/tVII], § 701(b), Dec. 18, 2015, [129 Stat. 2929][/us/stat/129/2929], provided that:
 
 > “SEC. 2001. __IMPROVEMENT OF INTELLIGENCE CAPABILITIES OF THE FEDERAL BUREAU OF INVESTIGATION.__ 
 
@@ -183,7 +183,7 @@
 
  __Webster Commission Implementation Report__ 
 
-[Pub. L. 107–273, div. C, title I, § 11023][/us/pl/107/273/s11023], Nov. 2, 2002, [116 Stat. 1830][/us/stat/116/1830], provided that:
+[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11023, Nov. 2, 2002, [116 Stat. 1830][/us/stat/116/1830], provided that:
 
 >     “(a)  __Implementation Plan__  __.—__ 
 
@@ -207,7 +207,7 @@
 
  __Employment of Translators by the Federal Bureau of Investigation__ 
 
-[Pub. L. 107–56, title II, § 205][/us/pl/107/56/s205], Oct. 26, 2001, [115 Stat. 281][/us/stat/115/281], provided that:
+[Pub. L. 107–56, title II][/us/pl/107/56/tII], § 205, Oct. 26, 2001, [115 Stat. 281][/us/stat/115/281], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -229,7 +229,7 @@
 
  __FBI Critical Skills Scholarship Program__ 
 
-[Pub. L. 102–183, title V, § 501][/us/pl/102/183/s501], Dec. 4, 1991, [105 Stat. 1268][/us/stat/105/1268], provided that:
+[Pub. L. 102–183, title V][/us/pl/102/183/tV], § 501, Dec. 4, 1991, [105 Stat. 1268][/us/stat/105/1268], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -245,7 +245,7 @@
 
  __Confirmation and Compensation of Director; Term of Service__ 
 
-[Pub. L. 90–351, title VI, § 1101][/us/pl/90/351/s1101], June 19, 1968, [82 Stat. 236][/us/stat/82/236], as amended by [Pub. L. 94–503, title II, § 203][/us/pl/94/503/s203], Oct. 15, 1976, [90 Stat. 2427][/us/stat/90/2427]; [Pub. L. 112–24, § 2][/us/pl/112/24/s2], July 26, 2011, [125 Stat. 238][/us/stat/125/238], provided that:
+[Pub. L. 90–351, title VI][/us/pl/90/351/tVI], § 1101, June 19, 1968, [82 Stat. 236][/us/stat/82/236], as amended by [Pub. L. 94–503, title II][/us/pl/94/503/tII], § 203, Oct. 15, 1976, [90 Stat. 2427][/us/stat/90/2427]; [Pub. L. 112–24][/us/pl/112/24], § 2, July 26, 2011, [125 Stat. 238][/us/stat/125/238], provided that:
 
 >     “(a) Effective as of the day following the date on which the present incumbent in the office of Director ceases to serve as such, the Director of the Federal Bureau of Investigation shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate prescribed for level II of the Federal Executive Salary Schedule \[[section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees\].
 
@@ -266,38 +266,38 @@
 ----------
 ----------
 
-[/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F616
-[/us/act/1935-03-22/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-22%2Fch39
+[/us/act/1935-03-22/ch39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-22%2Fch39%2FtII
 [/us/stat/49/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F77
 [/us/act/1936-06-05/ch529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch529
 [/us/stat/49/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1484
-[/us/pl/112/24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F24%2Fs1
+[/us/pl/112/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F24
 [/us/stat/125/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F238
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtII
 [/us/stat/118/3700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3700
-[/us/pl/111/259/s806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs806%2Fb%2F1
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2748
-[/us/pl/114/113/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fb
+[/us/pl/114/113/dM/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtVII
 [/us/stat/129/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2929
 [/us/usc/t50/s403–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%935b
 [/us/usc/t50/s3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3040
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/107/273/s11023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11023
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1830
-[/us/pl/107/56/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs205
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F281
-[/us/pl/102/183/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2Fs501
+[/us/pl/102/183/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F183%2FtV
 [/us/stat/105/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1268
 [/us/usc/t50/s403j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403j
 [/us/usc/t50/s3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3510
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/usc/t50/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3614
-[/us/pl/90/351/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1101
+[/us/pl/90/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtVI
 [/us/stat/82/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F236
-[/us/pl/94/503/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2Fs203
+[/us/pl/94/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F503%2FtII
 [/us/stat/90/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2427
-[/us/pl/112/24/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F24%2Fs2
+[/us/pl/112/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F24
 [/us/stat/125/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F238
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t5/s8335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8335
