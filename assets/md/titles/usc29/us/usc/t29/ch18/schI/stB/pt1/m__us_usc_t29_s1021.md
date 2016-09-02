@@ -175,7 +175,7 @@
 
                     (III) the plan had 50 or more participants on any day during the preceding plan year.
 
-                  For purposes of any determination under subclause (III), the aggregation rule under the last sentence of [section 1083(g)(2)(B) of this title][/us/usc/t29/s1083/g/2/B] shall apply.
+                 For purposes of any determination under subclause (III), the aggregation rule under the last sentence of [section 1083(g)(2)(B) of this title][/us/usc/t29/s1083/g/2/B] shall apply.
 
                 (iii) __Special rule for plan years beginning before 2012__ 
 
@@ -545,11 +545,11 @@
 
 [Pub. L. 109–280, title I, § 103(c)][/us/pl/109/280/s103/c], Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], as amended by [Pub. L. 110–458, title I, § 101(c)(3)][/us/pl/110/458/s101/c/3], Dec. 23, 2008, [122 Stat. 5098][/us/stat/122/5098], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 1056 and 1132 of this title\] shall apply to plan years beginning after December 31, 2007.
 
->     “(2) __Collective bargaining exception.—__ 
+>     “(2)  __Collective bargaining exception__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before January 1, 2008, the amendments made by this section shall not apply to plan years beginning before the earlier of—
 
@@ -571,11 +571,11 @@
 
 [Pub. L. 109–280, title V, § 501(d)][/us/pl/109/280/s501/d], Aug. 17, 2006, [120 Stat. 939][/us/stat/120/939], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and repealing [section 1311 of this title][/us/usc/t29/s1311]\] shall apply to plan years beginning after December 31, 2007, except that the amendment made by subsection (b) \[repealing [section 1311 of this title][/us/usc/t29/s1311]\] shall apply to plan years beginning after December 31, 2006.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     Any requirement under section 101(f) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1021(f)][/us/usc/t29/s1021/f]\] (as amended by this section) to report the funding target attainment percentage or funded percentage of a plan with respect to any plan year beginning before January 1, 2008, shall be treated as met if the plan reports—
 
@@ -591,11 +591,11 @@
 
 [Pub. L. 109–280, title V, § 507(d)][/us/pl/109/280/s507/d], Aug. 17, 2006, [120 Stat. 949][/us/stat/120/949], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1132 of this title][/us/usc/t29/s1132]\] shall apply to plan years beginning after December 31, 2006.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     If notice under section 101(m) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1021(m)][/us/usc/t29/s1021/m]\] (as added by this section) would otherwise be required to be provided before the 90th day after the date of the enactment of this Act \[Aug. 17, 2006\], such notice shall not be required to be provided until such 90th day.”
 
@@ -635,11 +635,11 @@
 
 [Pub. L. 103–66, title IV, § 4301(d)][/us/pl/103/66/s4301/d], Aug. 10, 1993, [107 Stat. 377][/us/stat/107/377], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 1169 of this title][/us/usc/t29/s1169] and amending this section and sections 1132 and 1144 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].
 
->     “(2) __Plan amendments not required until__  __january 1, 1994__  __.—__ 
+>     “(2)  __Plan amendments not required until __  __january 1, 1994__  __.—__ 
 
 >     Any amendment to a plan required to be made by an amendment made by this section shall not be required to be made before the first plan year beginning on or after January 1, 1994, if—
 

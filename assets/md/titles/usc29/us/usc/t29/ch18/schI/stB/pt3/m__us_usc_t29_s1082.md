@@ -247,15 +247,15 @@
 
 [Pub. L. 109–280, title II, § 202(f)][/us/pl/109/280/s202/f], Aug. 17, 2006, [120 Stat. 885][/us/stat/120/885], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 1085 of this title][/us/usc/t29/s1085] and amending this section and [section 1132 of this title][/us/usc/t29/s1132]\] shall apply with respect to plan years beginning after 2007.
 
->     “(2) __Special rule for certain notices.—__ 
+>     “(2)  __Special rule for certain notices__  __.—__ 
 
 >     In any case in which a plan’s actuary certifies that it is reasonably expected that a multiemployer plan will be in critical status under section 305(b)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1085(b)(3)][/us/usc/t29/s1085/b/3]\], as added by this section, with respect to the first plan year beginning after 2007, the notice required under subparagraph (D) of such section may be provided at any time after the date of enactment \[Aug. 17, 2006\], so long as it is provided on or before the last date for providing the notice under such subparagraph.
 
->     “(3) __Special rule for certain restored benefits.—__ 
+>     “(3)  __Special rule for certain restored benefits__  __.—__ 
 
 >     In the case of a multiemployer plan—
 

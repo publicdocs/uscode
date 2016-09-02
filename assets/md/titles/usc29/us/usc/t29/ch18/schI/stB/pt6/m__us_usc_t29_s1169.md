@@ -231,11 +231,11 @@
 
 [Pub. L. 104–193, title III, § 381(b)][/us/pl/104/193/s381/b], Aug. 22, 1996, [110 Stat. 2257][/us/stat/110/2257], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].
 
->     “(2) __Plan amendments not required until__  __january 1, 1997__  __.—__ 
+>     “(2)  __Plan amendments not required until __  __january 1, 1997__  __.—__ 
 
 >     Any amendment to a plan required to be made by an amendment made by this section shall not be required to be made before the 1st plan year beginning on or after January 1, 1997, if—
 
@@ -253,11 +253,11 @@
 
 >     “(e) __National Medical Support Notices for State or Local Governmental Group Health Plans.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each State or local governmental group health plan shall provide benefits in accordance with the applicable requirements of any National Medical Support Notice.
 
->         “(2) __Enrollment of child in plan.—__ 
+>         “(2)  __Enrollment of child in plan__  __.—__ 
 
 >         In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a State or local governmental group health plan, the plan administrator, within 40 business days after the date of the Notice, shall—
 
@@ -265,53 +265,53 @@
 
 >             “(B) provide to the custodial parent (or such substituted official) a description of the coverage available and any forms or documents necessary to effectuate such coverage.
 
->         “(3) __Rule of construction.—__ 
+>         “(3)  __Rule of construction__  __.—__ 
 
 >         Nothing in this subsection shall be construed as requiring a State or local governmental group health plan, upon receipt of a National Medical Support Notice, to provide benefits under the plan (or eligibility for such benefits) in addition to benefits (or eligibility for benefits) provided under the terms of the plan as of immediately before receipt of such Notice.
 
->         “(4) __Definitions.—__ 
+>         “(4)  __Definitions__  __.—__ 
 
 >         For purposes of this subsection—
 
->             “(A) __State or local governmental group health plan.—__ 
+>             “(A)  __State or local governmental group health plan__  __.—__ 
 
 >             The term ‘State or local governmental group health plan’ means a group health plan which is established or maintained for its employees by the government of any State, any political subdivision of a State, or any agency or instrumentality of either of the foregoing.
 
->             “(B) __Alternate recipient.—__ 
+>             “(B)  __Alternate recipient__  __.—__ 
 
 >             The term ‘alternate recipient’ means any child of a participant who is recognized under a National Medical Support Notice as having a right to enrollment under a State or local governmental group health plan with respect to such participant.
 
->             “(C) __Group health plan.—__ 
+>             “(C)  __Group health plan__  __.—__ 
 
 >             The term ‘group health plan’ has the meaning provided in section 607(1) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1167(1)][/us/usc/t29/s1167/1]\].
 
->             “(D) __State.—__ 
+>             “(D)  __State__  __.—__ 
 
 >             The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
->             “(E) __Other terms.—__ 
+>             “(E)  __Other terms__  __.—__ 
 
 >             The terms ‘participant’ and ‘administrator’ shall have the meanings provided such terms, respectively, by paragraphs (7) and (16) of section 3 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1002][/us/usc/t29/s1002]\].
 
->         “(5) __Effective date.—__ 
+>         “(5)  __Effective date__  __.—__ 
 
 >         The provisions of this subsection shall take effect on the date of the issuance of interim regulations pursuant to subsection (b)(4) of this section \[[section 401(b)(4) of Pub. L. 105–200][/us/pl/105/200/s401/b/4], [42 U.S.C. 651][/us/usc/t42/s651] note\].
 
 >     “(f) __Qualified Medical Child Support Orders and National Medical Support Notices for Church Plans.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each church group health plan shall provide benefits in accordance with the applicable requirements of any qualified medical child support order. A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each such group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         For purposes of this subsection—
 
->             “(A) __Church group health plan.—__ 
+>             “(A)  __Church group health plan__  __.—__ 
 
 >             The term ‘church group health plan’ means a group health plan which is a church plan.
 
->             “(B) __Qualified medical child support order.—__ 
+>             “(B)  __Qualified medical child support order__  __.—__ 
 
 >             The term ‘qualified medical child support order’ means a medical child support order—
 
@@ -319,7 +319,7 @@
 
 >                 “(ii) with respect to which the requirements of paragraphs (3) and (4) are met.
 
->             “(C) __Medical child support order.—__ 
+>             “(C)  __Medical child support order__  __.—__ 
 
 >             The term ‘medical child support order’ means any judgment, decree, or order (including approval of a settlement agreement) which—
 
@@ -329,23 +329,23 @@
 
 >                   if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
 
->             “(D) __Alternate recipient.—__ 
+>             “(D)  __Alternate recipient__  __.—__ 
 
 >             The term ‘alternate recipient’ means any child of a participant who is recognized under a medical child support order as having a right to enrollment under a church group health plan with respect to such participant.
 
->             “(E) __Group health plan.—__ 
+>             “(E)  __Group health plan__  __.—__ 
 
 >             The term ‘group health plan’ has the meaning provided in section 607(1) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1167(1)][/us/usc/t29/s1167/1]\].
 
->             “(F) __State.—__ 
+>             “(F)  __State__  __.—__ 
 
 >             The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
->             “(G) __Other terms.—__ 
+>             “(G)  __Other terms__  __.—__ 
 
 >             The terms ‘participant’, ‘beneficiary’, ‘administrator’, and ‘church plan’ shall have the meanings provided such terms, respectively, by paragraphs (7), (8), (16), and (33) of section 3 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1102][/us/usc/t29/s1102]\].
 
->         “(3) __Information to be included in qualified order.—__ 
+>         “(3)  __Information to be included in qualified order__  __.—__ 
 
 >         A medical child support order meets the requirements of this paragraph only if such order clearly specifies—
 
@@ -355,13 +355,13 @@
 
 >             “(C) the period to which such order applies.
 
->         “(4) __Restriction on new types or forms of benefits.—__ 
+>         “(4)  __Restriction on new types or forms of benefits__  __.—__ 
 
 >         A medical child support order meets the requirements of this paragraph only if such order does not require a church group health plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act \[[42 U.S.C. 1396g–1][/us/usc/t42/s1396g–1]\] (as added by section 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[[Pub. L. 103–66][/us/pl/103/66]\]).
 
 >         “(5) __Procedural requirements.—__ 
 
->             “(A) __Timely notifications and determinations.—__ 
+>             “(A)  __Timely notifications and determinations__  __.—__ 
 
 >             In the case of any medical child support order received by a church group health plan—
 
@@ -369,7 +369,7 @@
 
 >                 “(ii) within a reasonable period after receipt of such order, the plan administrator shall determine whether such order is a qualified medical child support order and notify the participant and each alternate recipient of such determination.
 
->             “(B) __Establishment of procedures for determining qualified status of orders.—__ 
+>             “(B)  __Establishment of procedures for determining qualified status of orders__  __.—__ 
 
 >             Each church group health plan shall establish reasonable procedures to determine whether medical child support orders are qualified medical child support orders and to administer the provision of benefits under such qualified orders. Such procedures—
 
@@ -381,11 +381,11 @@
 
 >             “(C) __National medical support notice deemed to be a qualified medical child support order.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 If the plan administrator of any church group health plan which is maintained by the employer of a parent of a child or to which such an employer contributes receives an appropriately completed National Medical Support Notice promulgated pursuant to subsection (b) of this section \[[section 401(b) of Pub. L. 105–200][/us/pl/105/200/s401/b], [42 U.S.C. 651][/us/usc/t42/s651] note\] in the case of such child, and the Notice meets the requirements of paragraphs (3) and (4) of this subsection, the Notice shall be deemed to be a qualified medical child support order in the case of such child.
 
->                 “(ii) __Enrollment of child in plan.—__ 
+>                 “(ii)  __Enrollment of child in plan__  __.—__ 
 
 >                 In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a church group health plan who is a parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
 
@@ -393,23 +393,23 @@
 
 >                          “(II) provide to the custodial parent (or such substituted official) a description of the coverage available and any forms or documents necessary to effectuate such coverage.
 
->                 “(iii) __Rule of construction.—__ 
+>                 “(iii)  __Rule of construction__  __.—__ 
 
 >                 Nothing in this subparagraph shall be construed as requiring a church group health plan, upon receipt of a National Medical Support Notice, to provide benefits under the plan (or eligibility for such benefits) in addition to benefits (or eligibility for benefits) provided under the terms of the plan as of immediately before receipt of such Notice.
 
->         “(6) __Direct provision of benefits provided to alternate recipients.—__ 
+>         “(6)  __Direct provision of benefits provided to alternate recipients__  __.—__ 
 
 >         Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient’s custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient’s custodial parent or legal guardian.
 
->         “(7) __Payment to state official treated as satisfaction of plan’s obligation to make payment to alternate recipient.—__ 
+>         “(7)  __Payment to state official treated as satisfaction of plan’s obligation to make payment to alternate recipient__  __.—__ 
 
 >         Payment of benefits by a church group health plan to an official of a State or a political subdivision thereof whose name and address have been substituted for the address of an alternate recipient in a medical child support order, pursuant to paragraph (3)(A), shall be treated, for purposes of this subsection and part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\], as payment of benefits to the alternate recipient.
 
->         “(8) __Effective date.—__ 
+>         “(8)  __Effective date__  __.—__ 
 
 >         The provisions of this subsection shall take effect on the date of the issuance of interim regulations pursuant to subsection (b)(4) of this section \[[section 401(b)(4) of Pub. L. 105–200][/us/pl/105/200/s401/b/4], [42 U.S.C. 651][/us/usc/t42/s651] note\].
 
->     “(g) __Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders.—__ 
+>     “(g)  __Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders__  __.—__ 
 
 >     Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[[section 401(a)(5) of Pub. L. 105–200][/us/pl/105/200/s401/a/5], [42 U.S.C. 651][/us/usc/t42/s651] note\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1169(a)][/us/usc/t29/s1169/a]).”
 

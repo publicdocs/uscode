@@ -239,19 +239,19 @@
 
         (7) __Premium Rate for Certain Terminated Single-Employer Plans.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If there is a termination of a single-employer plan under clause (ii) or (iii) of [section 1341(c)(2)(B) of this title][/us/usc/t29/s1341/c/2/B] or [section 1342 of this title][/us/usc/t29/s1342], there shall be payable to the corporation, with respect to each applicable 12-month period, a premium at a rate equal to $1,250 multiplied by the number of individuals who were participants in the plan immediately before the termination date. Such premium shall be in addition to any other premium under this section.
 
-            (B) __Special rule for plans terminated in bankruptcy reorganization.—__ 
+            (B)  __Special rule for plans terminated in bankruptcy reorganization__  __.—__ 
 
             In the case of a single-employer plan terminated under [section 1341(c)(2)(B)(ii) of this title][/us/usc/t29/s1341/c/2/B/ii] or under [section 1342 of this title][/us/usc/t29/s1342] during pendency of any bankruptcy reorganization proceeding under chapter 11 of title 11 or under any similar law of a State or a political subdivision of a State (or a case described in [section 1341(c)(2)(B)(i) of this title][/us/usc/t29/s1341/c/2/B/i] filed by or against such person has been converted, as of such date, to such a case in which reorganization is sought), subparagraph (A) shall not apply to such plan until the date of the discharge or dismissal of such person in such case.
 
-            (C) __Applicable 12-month period.—__ 
+            (C)  __Applicable 12-month period__  __.—__ 
 
             For purposes of subparagraph (A)—
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The term “applicable 12-month period” means—
 
@@ -259,7 +259,7 @@
 
                     (II) each of the first two 12-month periods immediately following the period described in subclause (I).
 
-                (ii) __Plans terminated in bankruptcy reorganization.—__ 
+                (ii)  __Plans terminated in bankruptcy reorganization__  __.—__ 
 
                 In any case in which the requirements of subparagraph (B) are met in connection with the termination of the plan with respect to 1 or more persons described in such subparagraph, the 12-month period described in clause (i)(I) shall be the 12-month period beginning with the first month following the month which includes the earliest date as of which each such person is discharged or dismissed in the case described in such clause in connection with such person.
 
@@ -275,11 +275,11 @@
 
                 (ii) The fifth sentence of [section 1307(a) of this title][/us/usc/t29/s1307/a] shall not apply in connection with premiums determined under this paragraph.
 
-        (8) __Applicable dollar amount for variable rate premium.—__ 
+        (8)  __Applicable dollar amount for variable rate premium__  __.—__ 
 
         For purposes of paragraph (3)(E)(ii)—
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraphs (B) and (C), the applicable dollar amount shall be—
 
@@ -289,7 +289,7 @@
 
                 (iii) for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C)).
 
-            (B) __Adjustment for inflation.—__ 
+            (B)  __Adjustment for inflation__  __.—__ 
 
             For each plan year beginning in a calendar year after 2012, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
 
@@ -305,7 +305,7 @@
 
                 If the amount determined under this subparagraph is not a multiple of $1, such product shall be rounded to the nearest multiple of $1.
 
-            (C) __Additional increase in 2014 and 2015.—__ 
+            (C)  __Additional increase in 2014 and 2015__  __.—__ 
 
             The applicable dollar amount determined under subparagraph (A) (after the application of subparagraph (B)) shall be increased—
 
@@ -313,7 +313,7 @@
 
                 (ii) in the case of plan years beginning in calendar year 2015, by $5.
 
-            (D) __Base year.—__ 
+            (D)  __Base year__  __.—__ 
 
             For purposes of subparagraph (B), the base year is—
 
@@ -515,17 +515,17 @@
 
 [Pub. L. 109–171, title VIII, § 8101(d)][/us/pl/109/171/s8101/d], Feb. 8, 2006, [120 Stat. 182][/us/stat/120/182], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2005.
 
 >     “(2) __Premium rate for certain terminated single-employer plans.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendment made by subsection (b) \[amending this section\] shall apply to plans terminated after December 31, 2005.
 
->         “(B) __Special rule for plans terminated in bankruptcy.—__ 
+>         “(B)  __Special rule for plans terminated in bankruptcy__  __.—__ 
 
 >         The amendment made by subsection (b) shall not apply to a termination of a single-employer plan that is terminated during the pendency of any bankruptcy reorganization proceeding under chapter 11 of title 11, United States Code (or under any similar law of a State or political subdivision of a State), if the proceeding is pursuant to a bankruptcy filing occurring before October 18, 2005.”
 
@@ -539,11 +539,11 @@
 
 [Pub. L. 103–465, title VII, § 774(a)(2)][/us/pl/103/465/s774/a/2], Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[amending this section\] shall be effective for plan years beginning on or after July 1, 1994.
 
->     “(B) __Transition rule.—__ 
+>     “(B)  __Transition rule__  __.—__ 
 
 >     In the case of plan years beginning on or after July 1, 1994, and before July 1, 1996, the additional premium payable with respect to any participant by reason of the amendments made by this section shall not exceed the sum of—
 
@@ -651,11 +651,11 @@
 
 [Pub. L. 99–272, title XI, § 11005(d)][/us/pl/99/272/s11005/d], Apr. 7, 1986, [100 Stat. 242][/us/stat/100/242], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1322a of this title][/us/usc/t29/s1322a]\] shall be effective for plan years commencing after December 31, 1985.
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall be effective as of the date of the enactment of the Multiemployer Pension Plan Amendments Act of 1980 \[Sept. 26, 1980\].”
 
@@ -683,15 +683,15 @@
 
 [Pub. L. 99–272, title XI, § 11005(e)][/us/pl/99/272/s11005/e], Apr. 7, 1986, [100 Stat. 243][/us/stat/100/243], provided that:
 
->     “(1) __Notice of premium increase.—__ 
+>     “(1)  __Notice of premium increase__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Pension Benefit Guaranty Corporation shall send a notice to the plan administrator of each single-employer plan affected by the premium increase established by the amendment made by subsection (a)(1) \[amending this section\]. Such notice shall describe such increase and the requirements of this subsection.
 
->     “(2) __Due date for unpaid premiums.—__ 
+>     “(2)  __Due date for unpaid premiums__  __.—__ 
 
 >     With respect to any plan year beginning during the period beginning on January 1, 1986, and ending 30 days after the date of the enactment of this Act, any unpaid amount of such premium increase shall be due and payable no later than the earlier of 60 days after the date of the enactment of this Act or 30 days after the date on which the notice required by paragraph (1) is sent, except that in no event shall the amount of the premium increase established under the amendment made by subsection (a)(1) be due and payable for a plan year earlier than the date on which premiums for the plan would have been due for such plan year had this Act \[probably means the Single-Employee Pension Plan Amendments Act of 1986, title XI of [Pub. L. 99–272][/us/pl/99/272], see Short Title of 1986 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001]\] not been enacted.
 
->     “(3) __Enforcement.—__ 
+>     “(3)  __Enforcement__  __.—__ 
 
 >     For purposes of enforcement, the requirements of paragraphs (1) and (2) shall be considered to be requirements of sections 4006 and 4007 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1306][/us/usc/t29/s1306] and 1307).”
 

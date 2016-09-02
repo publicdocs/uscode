@@ -53,15 +53,15 @@
 
             (A) __In general.—__ 
 
-                (i) __Information from plan sponsor or administrator.—__ 
+                (i)  __Information from plan sponsor or administrator__  __.—__ 
 
                 A plan sponsor or plan administrator of a single-employer plan that has received a notice from the corporation of a determination that the plan should be terminated under this section shall provide to an affected party any information provided to the corporation in connection with the plan termination.
 
-                (ii) __Information from corporation.—__ 
+                (ii)  __Information from corporation__  __.—__ 
 
                 The corporation shall provide a copy of the administrative record, including the trusteeship decision record of a termination of a plan described under clause (i).
 
-            (B) __Timing of disclosure.—__ 
+            (B)  __Timing of disclosure__  __.—__ 
 
             The plan sponsor, plan administrator, or the corporation, as applicable, shall provide the information described in subparagraph (A) not later than 15 days after—
 
@@ -71,21 +71,21 @@
 
             (C) __Confidentiality.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The plan administrator, the plan sponsor, or the corporation shall not provide information under subparagraph (A) in a form which includes any information that may directly or indirectly be associated with, or otherwise identify, an individual participant or beneficiary.
 
-                (ii) __Limitation.—__ 
+                (ii)  __Limitation__  __.—__ 
 
                 A court may limit disclosure under this paragraph of confidential information described in [section 552(b) of title 5][/us/usc/t5/s552/b] to authorized representatives (within the meaning of [section 1341(c)(2)(D)(iv) of this title][/us/usc/t29/s1341/c/2/D/iv]) of the participants or beneficiaries that agree to ensure the confidentiality of such information.
 
             (D) __Form and manner of information; charges.—__ 
 
-                (i) __Form and manner.—__ 
+                (i)  __Form and manner__  __.—__ 
 
                 The corporation may prescribe the form and manner of the provision of information under this paragraph, which shall include delivery in written, electronic, or other appropriate form to the extent that such form is reasonably accessible to individuals to whom the information is required to be provided.
 
-                (ii) __Reasonable charges.—__ 
+                (ii)  __Reasonable charges__  __.—__ 
 
                 A plan sponsor may charge a reasonable fee for any information provided under this paragraph in other than electronic form.
 

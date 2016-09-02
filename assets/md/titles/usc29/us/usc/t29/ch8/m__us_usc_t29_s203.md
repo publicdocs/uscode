@@ -327,7 +327,7 @@
 
 [Pub. L. 101–157, § 3(b)][/us/pl/101/157/s3/b], Nov. 17, 1989, [103 Stat. 939][/us/stat/103/939], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Any enterprise that on March 31, 1990, was subject to section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]) and that because of the amendment made by subsection (a) \[amending this section\] is not subject to such section shall—
 
@@ -337,7 +337,7 @@
 
 >         “(C) remain subject to section 12 of such Act ([29 U.S.C. 212][/us/usc/t29/s212]).
 
->     “(2) __Violations.—__ 
+>     “(2)  __Violations__  __.—__ 
 
 >     A violation of paragraph (1) shall be considered a violation of section 6, 7, or 12 of the Fair Labor Standards Act of 1938 \[[29 U.S.C. 206][/us/usc/t29/s206], 207, 212\], as the case may be.”
 

@@ -125,11 +125,11 @@
 
 [Pub. L. 109–280, title V, § 508(c)][/us/pl/109/280/s508/c], Aug. 17, 2006, [120 Stat. 952][/us/stat/120/952], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1132 of this title][/us/usc/t29/s1132]\] shall apply to plan years beginning after December 31, 2006.
 
->     “(2) __Special rule for collectively bargained agreements.—__ 
+>     “(2)  __Special rule for collectively bargained agreements__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified on or before the date of the enactment of this Act \[Aug. 17, 2006\], paragraph (1) shall be applied to benefits pursuant to, and individuals covered by, any such agreement by substituting for ‘December 31, 2006’ the earlier of—
 
@@ -161,11 +161,11 @@
 
 [Pub. L. 109–280, title V, § 508(b)][/us/pl/109/280/s508/b], Aug. 17, 2006, [120 Stat. 951][/us/stat/120/951], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Labor shall, within 1 year after the date of the enactment of this section \[Aug. 17, 2006\], develop 1 or more model benefit statements that are written in a manner calculated to be understood by the average plan participant and that may be used by plan administrators in complying with the requirements of section 105 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1025][/us/usc/t29/s1025]\].
 
->     “(2) __Interim final rules.—__ 
+>     “(2)  __Interim final rules__  __.—__ 
 
 >     The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection.”
 

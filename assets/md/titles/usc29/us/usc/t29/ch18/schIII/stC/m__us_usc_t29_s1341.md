@@ -519,11 +519,11 @@
 
 [Pub. L. 109–280, title V, § 506(c)][/us/pl/109/280/s506/c], Aug. 17, 2006, [120 Stat. 948][/us/stat/120/948], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1342 of this title][/us/usc/t29/s1342]\] shall apply to any plan termination under title IV of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1301][/us/usc/t29/s1301] et seq.) with respect to which the notice of intent to terminate (or in the case of a termination by the Pension Benefit Guaranty Corporation, a notice of determination under section 4042 of such Act ([29 U.S.C. 1342][/us/usc/t29/s1342])) occurs after the date of enactment of this Act \[Aug. 17, 2006\].
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1341(c)(2)(D)][/us/usc/t29/s1341/c/2/D], 1342(c)(3)\] (as added by this section) would otherwise be required to be provided before the 90th day after the date of the enactment of this Act \[Aug. 17, 2006\], such notice shall not be required to be provided until such 90th day.”
 
@@ -555,7 +555,7 @@
 
 [Pub. L. 99–272, title XI, § 11019][/us/pl/99/272/s11019], Apr. 7, 1986, [100 Stat. 280][/us/stat/100/280], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this title, the amendments made by this title \[see Short Title of 1986 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001]\] shall be effective as of January 1, 1986, except that such amendments shall not apply with respect to terminations for which—
 
@@ -565,11 +565,11 @@
 
 >     “(b) __Transitional Rules.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of a single-employer plan termination for which a notice of intent to terminate was filed with the Pension Benefit Guaranty Corporation under section 4041 of the Employee Retirement Income Security Act of 1974 (as in effect before the amendments made by this title) \[[29 U.S.C. 1341][/us/usc/t29/s1341]\] on or after January 1, 1986, but before the date of the enactment of this Act \[Apr. 7, 1986\], the amendments made by this title \[see Short Title of 1986 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001]\] shall apply with respect to such termination, as modified by paragraphs (2) and (3).
 
->         “(2) __Deemed compliance with notice requirements.—__ 
+>         “(2)  __Deemed compliance with notice requirements__  __.—__ 
 
 >         The requirements of subsections (a)(2), (b)(1)(A), and (c)(1)(A) of section 4041 of the Employee Retirement Income Security Act of 1974 (as amended by this title) \[[29 U.S.C. 1341][/us/usc/t29/s1341]\] shall be considered to have been met with respect to a termination described in paragraph (1) if—
 
@@ -581,7 +581,7 @@
 
 >         “(3) __Special termination procedures.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             This paragraph shall apply with respect to any termination described in paragraph (1) if, within 90 days after the date of enactment of this Act \[Apr. 7, 1986\], the plan administrator notifies the Corporation in writing—
 
@@ -595,33 +595,33 @@
 
 >                 “(i) __Terminations for which sufficiency notices have not been issued.—__ 
 
->                          “(I) __In general.—__ 
+>                          “(I)  __In general__  __.—__ 
 
 >                     In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
 
->                          “(II) __Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment.—__ 
+>                          “(II)  __Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment__  __.—__ 
 
 >                     In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, the Corporation shall make the determinations described in section 4041(c)(3)(A)(i) and (ii) (as amended by this title) and notify the plan administrator of such determinations as provided in section 4041(c)(3)(A)(iii) (as amended by this title).
 
->                 “(ii) __Terminations for which notices of sufficiency have been issued.—__ 
+>                 “(ii)  __Terminations for which notices of sufficiency have been issued__  __.—__ 
 
 >                 In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has been issued by the Corporation before the date of the enactment of this Act, clause (i)(I) shall apply, except that the 90-day period referred to in clause (i)(I) shall begin on the date of the enactment of this Act.
 
->             “(C) __Terminations proceeding as distress termination.—__ 
+>             “(C)  __Terminations proceeding as distress termination__  __.—__ 
 
 >             In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(ii), if the requirements of section 4041(c)(2)(B) of such Act (as amended by this title) are met, the termination shall be treated as a distress termination under section 4041(c) of such Act (as amended by this title).
 
 >             “(D) __Termination of proceedings by plan administrator.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Except as provided in clause (ii), in the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(iii), the termination shall not take effect.
 
->                 “(ii) __Terminations with respect to which final distribution of assets has commenced.—__ 
+>                 “(ii)  __Terminations with respect to which final distribution of assets has commenced__  __.—__ 
 
 >                 Clause (i) shall not apply with respect to a termination with respect to which the final distribution of assets has commenced before the date of the enactment of this Act unless, within 90 days after the date of the enactment of this Act, the plan has been restored in accordance with procedures issued by the Corporation pursuant to subsection (c).
 
->             “(E) __Authority of corporation to extend 90-day periods to permit standard termination.—__ 
+>             “(E)  __Authority of corporation to extend 90-day periods to permit standard termination__  __.—__ 
 
 >             The Corporation may, on a case-by-case basis in accordance with subsection (c), provide for extensions of the applicable 90-day period referred to in clause (i) or (ii) of subparagraph (B) if it is demonstrated to the satisfaction of the Corporation that—
 
@@ -631,7 +631,7 @@
 
 >                   except that any such period may not be so extended beyond one year after the date of the enactment of this Act.
 
->     “(c) __Authority To Prescribe Temporary Procedures.—__ 
+>     “(c)  __Authority To Prescribe Temporary Procedures__  __.—__ 
 
 >     The Pension Benefit Guaranty Corporation may prescribe temporary procedures for purposes of carrying out the amendments made by this title \[see Short Title of 1986 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001]\] during the 180-day period beginning on the date described in subsection (a).”
 
@@ -649,7 +649,7 @@
 
 [Pub. L. 99–272, title XI, § 11008(d)][/us/pl/99/272/s11008/d], Apr. 7, 1986, [100 Stat. 247][/us/stat/100/247], provided that:
 
->     “(1) __Requirements to be met before final distribution of assets.—__ 
+>     “(1)  __Requirements to be met before final distribution of assets__  __.—__ 
 
 >     In the case of the termination of a single-employer plan described in paragraph (2) with respect to which the amount payable to the employer pursuant to section 4044(d) \[[29 U.S.C. 1344(d)][/us/usc/t29/s1344/d]\] exceeds $1,000,000 (determined as of the proposed date of final distribution of assets), the final distribution of assets pursuant to such termination may not occur unless the Pension Benefit Guaranty Corporation—
 
@@ -657,7 +657,7 @@
 
 >         “(B) issues to the plan administrator a written notice setting forth the determination described in subparagraph (A).
 
->     “(2) __Plans to which subsection applies.—__ 
+>     “(2)  __Plans to which subsection applies__  __.—__ 
 
 >     A single-employer plan is described in this paragraph if—
 
@@ -677,17 +677,17 @@
 
 >             “(ii) in any other case, before the later of 15 days after the date of the enactment of this Act or 45 days after the date of the filing of such notice.
 
->     “(3) __Consideration of complaints.—__ 
+>     “(3)  __Consideration of complaints__  __.—__ 
 
 >     The Corporation shall consider and respond to such complaints not later than 90 days after the date on which the Corporation makes the determination described in paragraph (1)(A). The Corporation may hold informal hearings to expedite consideration of such complaints. Any such hearing shall be exempt from the requirements of chapter 5 of title 5, United States Code.
 
 >     “(4) __Delay on issuance of notice.—__ 
 
->         “(A) __General rule.—__ 
+>         “(A)  __General rule__  __.—__ 
 
 >         Except as provided in subparagraph (B), the Corporation shall not issue any notice described in paragraph (1)(B) until 90 days after the date on which the Corporation makes the determination described in paragraph (1)(A).
 
->         “(B) __Exception in cases of substantial business hardship.—__ 
+>         “(B)  __Exception in cases of substantial business hardship__  __.—__ 
 
 >         Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
 

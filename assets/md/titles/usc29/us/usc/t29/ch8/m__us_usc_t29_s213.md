@@ -625,11 +625,11 @@
 
 [Pub. L. 105–334, § 2(b)][/us/pl/105/334/s2/b], Oct. 31, 1998, [112 Stat. 3138][/us/stat/112/3138], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     This Act \[amending this section and enacting provisions set out as a note under [section 201 of this title][/us/usc/t29/s201]\] shall become effective on the date of the enactment of this Act \[Oct. 31, 1998\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] defining the term ‘occasional and incidental’ shall also apply to any case, action, citation, or appeal pending on the date of the enactment of this Act unless such case, action, citation, or appeal involves property damage or personal injury.”
 
@@ -675,7 +675,7 @@
 
     [Pub. L. 93–259, § 20(b)(2)][/us/pl/93/259/s20/b/2], (3), Apr. 8, 1974, [88 Stat. 67][/us/stat/88/67], provided that the amendments made by pars. (2) and (3) of section 20(b) are effective Jan. 1, 1975, and 1976, respectively.
 
-    [Pub. L. 93–259, § 20(c)(2)][/us/pl/93/259/s20/c/2], (3), Apr. 8, 1974, [88 Stat. 67][/us/stat/88/67], provided that the amendments made by pars. (2) and (3) of section 20(c) are effective Jan. 1, 1975, and 1976, respectively.
+    [Pub. L. 93–259, § 20(c)(2)][/us/pl/93/259/s20/c/2], (3), Apr. 8, 1974, [88 Stat. 67][/us/stat/88/67], 68, provided that the amendments made by pars. (2) and (3) of section 20(c) are effective Jan. 1, 1975, and 1976, respectively.
 
     [Pub. L. 93–259, § 21(b)(2)][/us/pl/93/259/s21/b/2], (3), Apr. 8, 1974, [88 Stat. 68][/us/stat/88/68], provided that the amendment and repeal made by pars. (2) and (3) of section 21(b) are effective one year and two years after May 1, 1974, respectively.
 

@@ -95,11 +95,11 @@
 
 [Pub. L. 109–280, title II, § 201(d)][/us/pl/109/280/s201/d], Aug. 17, 2006, [120 Stat. 868][/us/stat/120/868], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 1084 of this title][/us/usc/t29/s1084] and amending this section\] shall apply to plan years beginning after 2007.
 
->     “(2) __Special rule for certain amortization extensions.—__ 
+>     “(2)  __Special rule for certain amortization extensions__  __.—__ 
 
 >     If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1084][/us/usc/t29/s1084]\] and section 412(e) of the Internal Revenue Code of 1986 \[former [26 U.S.C. 412(e)][/us/usc/t26/s412/e]\] with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code \[[26 U.S.C. 6621(b)][/us/usc/t26/s6621/b]\].”
 

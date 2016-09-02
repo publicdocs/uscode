@@ -111,11 +111,11 @@
 
 [Pub. L. 104–188, title I, § 1460(b)][/us/pl/104/188/s1460/b], Aug. 20, 1996, [110 Stat. 1822][/us/stat/110/1822], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall take effect on January 1, 1975.
 
->     “(2) __Civil actions.—__ 
+>     “(2)  __Civil actions__  __.—__ 
 
 >     The amendment made by this section shall not apply to any civil action commenced before November 7, 1995.”
 

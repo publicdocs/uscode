@@ -67,11 +67,11 @@
 
 [Pub. L. 111–275, title I, § 106][/us/pl/111/275/s106], Oct. 13, 2010, [124 Stat. 2870][/us/stat/124/2870], provided that:
 
->     “(a) __Establishment of Pilot Program.—__ 
+>     “(a)  __Establishment of Pilot Program__  __.—__ 
 
 >     To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the ‘Veterans Energy-Related Employment Program’. Under the pilot program, the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a ‘State Energy-Related Employment Program’.
 
->     “(b) __Eligibility for Grants.—__ 
+>     “(b)  __Eligibility for Grants__  __.—__ 
 
 >     To be eligible to receive a grant under the pilot program, a State shall submit to the Secretary an application that includes each of the following:
 
@@ -89,7 +89,7 @@
 
 >         “(3) Such other information and assurances as the Secretary may require.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     A State that is the recipient of a grant under this section shall use the grant for the following purposes:
 
@@ -97,7 +97,7 @@
 
 >         “(2) Conducting outreach to inform energy employers and veterans, including veterans in rural areas, of their eligibility or potential eligibility for participation in the State program.
 
->     “(d) __Conditions.—__ 
+>     “(d)  __Conditions__  __.—__ 
 
 >     Under the pilot program, each grant to a State shall be subject to the following conditions:
 
@@ -105,7 +105,7 @@
 
 >         “(2) The State shall submit to the Secretary, at such times and containing such information as the Secretary shall require, reports on the use of grant funds.
 
->     “(e) __Employer Requirements.—__ 
+>     “(e)  __Employer Requirements__  __.—__ 
 
 >     In order to receive a grant made by a State under the pilot program, an energy employer shall—
 
@@ -121,7 +121,7 @@
 
 >         “(2) agree to submit to the administrator, for each quarter, a report containing such information as the Secretary may specify.
 
->     “(f) __Limitation.—__ 
+>     “(f)  __Limitation__  __.—__ 
 
 >     None of the funds made available to an energy employer through a grant under the pilot program may be used to provide training of any kind to—
 
@@ -129,15 +129,15 @@
 
 >         “(2) an eligible veteran for whom the employer has received a grant, credit, or subsidy under any other provision of law.
 
->     “(g) __Report to Congress.—__ 
+>     “(g)  __Report to Congress__  __.—__ 
 
 >     Together with the report required to be submitted annually under [section 4107(c) of title 38][/us/usc/t38/s4107/c], United States Code, the Secretary shall submit to Congress a report on the pilot program for the year covered by such report. The report on the pilot program shall include a detailed description of activities carried out under this section and an evaluation of the program.
 
->     “(h) __Administrative and Reporting Costs.—__ 
+>     “(h)  __Administrative and Reporting Costs__  __.—__ 
 
 >     Of the amounts appropriated pursuant to the authorization of appropriations under subsection (j), two percent shall be made available to the Secretary for administrative costs associated with implementing and evaluating the pilot program under this section and for preparing and submitting the report required under subsection (f). The Secretary shall determine the appropriate maximum amount of each grant awarded under this section that may be used by the recipient for administrative and reporting costs.
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -169,7 +169,7 @@
 
 >             “(F) The nuclear industry.
 
->     “(j) __Appropriations.—__ 
+>     “(j)  __Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2012 through 2014, for the purpose of carrying out the pilot program under this section.”
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 100–689, title IV, § 402][/us/pl/100/689/s402], Nov. 18, 1988, [100 Stat. 4178][/us/stat/100/4178], as amended by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(24), (f)(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–423, 2681–432, provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—
 
@@ -187,7 +187,7 @@
 
 >         “(3) to initiate any authorized administrative appeals of determinations or other actions relating to such services and benefits.
 
->     “(b) __Memorandum of Understanding.—__ 
+>     “(b)  __Memorandum of Understanding__  __.—__ 
 
 >         (1)
 
@@ -203,11 +203,11 @@
 
 >         “(2) The memorandum of understanding entered into pursuant to paragraph (1) shall include a provision for the periodic evaluation, by the Secretary of Labor and the Administrator of Veterans’ Affairs, of the implementation of their respective responsibilities under such memorandum.
 
->     “(c) __Coordination of Department of Labor Activities.—__ 
+>     “(c)  __Coordination of Department of Labor Activities__  __.—__ 
 
 >     The Assistant Secretary of Labor for Veterans’ Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act \[former [29 U.S.C. 1662a(b)][/us/usc/t29/s1662a/b]\] or any successor to such unit or office under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
 
->     “(d) __Covered Services and Benefits.—__ 
+>     “(d)  __Covered Services and Benefits__  __.—__ 
 
 >     This section applies with respect to the following services and benefits:
 
@@ -233,7 +233,7 @@
 
 >         “(5) Certification of a veteran as a member of a targeted group eligible for the targeted jobs credit determined under section 51 of the Internal Revenue Code of 1986 \[[26 U.S.C. 51][/us/usc/t26/s51]\].
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     In this section, the term ‘veteran’ has the meaning given such term in [section 101(2) of title 38][/us/usc/t38/s101/2], United States Code.”
 

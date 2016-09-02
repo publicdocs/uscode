@@ -107,13 +107,13 @@
 
         (5) __Default investment arrangements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For purposes of paragraph (1), a participant or beneficiary in an individual account plan meeting the notice requirements of subparagraph (B) shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which, in the absence of an investment election by the participant or beneficiary, are invested by the plan in accordance with regulations prescribed by the Secretary. The regulations under this subparagraph shall provide guidance on the appropriateness of designating default investments that include a mix of asset classes consistent with capital preservation or long-term capital appreciation, or a blend of both.
 
             (B) __Notice requirements.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The requirements of this subparagraph are met if each participant or beneficiary—
 
@@ -121,7 +121,7 @@
 
                     (II) has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.
 
-                (ii) __Form of notice.—__ 
+                (ii)  __Form of notice__  __.—__ 
 
                 The requirements of clauses (i) and (ii) of [section 401(k)(12)(D) of title 26][/us/usc/t26/s401/k/12/D] shall apply with respect to the notices described in this subparagraph.
 
@@ -195,11 +195,11 @@
 
 [Pub. L. 109–280, title VI, § 621(b)][/us/pl/109/280/s621/b], Aug. 17, 2006, [120 Stat. 979][/us/stat/120/979], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2007.
 
->     “(2) __Special rule for collectively bargained agreements.—__ 
+>     “(2)  __Special rule for collectively bargained agreements__  __.—__ 
 
 >     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified on or before the date of the enactment of this Act \[Aug. 17, 2006\], paragraph (1) shall be applied to benefits pursuant to, and individuals covered by, any such agreement by substituting for ‘December 31, 2007’ the earlier of—
 
@@ -215,11 +215,11 @@
 
 [Pub. L. 109–280, title VI, § 624(b)][/us/pl/109/280/s624/b], Aug. 17, 2006, [120 Stat. 980][/us/stat/120/980], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2006.
 
->     “(2) __Regulations.—__ 
+>     “(2)  __Regulations__  __.—__ 
 
 >     Final regulations under section 404(c)(5)(A) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1104(c)(5)(A)][/us/usc/t29/s1104/c/5/A]\] (as added by this section) shall be issued no later than 6 months after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -247,7 +247,7 @@
 
 [Pub. L. 109–280, title VI, § 625][/us/pl/109/280/s625], Aug. 17, 2006, [120 Stat. 980][/us/stat/120/980], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall issue final regulations clarifying that the selection of an annuity contract as an optional form of distribution from an individual account plan to a participant or beneficiary—
 
@@ -255,7 +255,7 @@
 
 >         “(2) is subject to all otherwise applicable fiduciary standards.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of enactment of this Act \[Aug. 17, 2006\].”
 

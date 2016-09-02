@@ -47,11 +47,11 @@
 
 [Pub. L. 106–313, title I, § 115][/us/pl/106/313/s115], Oct. 17, 2000, [114 Stat. 1262][/us/stat/114/1262], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Commerce shall conduct a review of existing public and private high-tech workforce training programs in the United States.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Secretary of Commerce shall submit a report to Congress setting forth the findings of the study conducted under subsection (a).”
 
@@ -59,7 +59,7 @@
 
 [Pub. L. 105–277, div. C, title IV, § 417][/us/pl/105/277/s417], Oct. 21, 1998, [112 Stat. 2681–656][/us/stat/112/2681-656], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Director of the National Science Foundation shall enter into a contract with the President of the National Academy of Sciences to conduct a study, using the best available data, assessing the status of older workers in the information technology field. The study shall consider the following:
 
@@ -83,7 +83,7 @@
 
 >         “(4) Differences in skill level on the basis of age.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1, 2000, the Director of the National Science Foundation shall submit to the Committees on the Judiciary of the United States House of Representatives and the Senate a report containing the results of the study described in subsection (a).”
 
@@ -91,7 +91,7 @@
 
 [Pub. L. 105–277, div. C, title IV, § 418(a)][/us/pl/105/277/s418/a], Oct. 21, 1998, [112 Stat. 2681–656][/us/stat/112/2681-656], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Director of the National Science Foundation shall conduct a study to assess labor market needs for workers with high technology skills during the next 10 years. The study shall investigate and analyze the following:
 
@@ -111,11 +111,11 @@
 
 >         “(H) An examination of the amount and trend of moving the production or performance of products and services now occurring in the United States abroad.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than October 1, 2000, the Director of the National Science Foundation shall submit to the Committees on the Judiciary of the United States House of Representatives and the Senate a report containing the results of the study described in paragraph (1).
 
->     “(3) __Involvement.—__ 
+>     “(3)  __Involvement__  __.—__ 
 
 >     The study under paragraph (1) shall be conducted in a manner that ensures the participation of individuals representing a variety of points of view.”
 

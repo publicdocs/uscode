@@ -247,11 +247,11 @@
 
 [Pub. L. 105–34, title XV, § 1524(b)][/us/pl/105/34/s1524/b], Aug. 5, 1997, [111 Stat. 1072][/us/stat/111/1072], as amended by [Pub. L. 107–16, title VI, § 655(a)][/us/pl/107/16/s655/a], June 7, 2001, [115 Stat. 131][/us/stat/115/131], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to elective deferrals for plan years beginning after December 31, 1998.
 
->     “(2) __Nonapplication to previously acquired property.—__ 
+>     “(2)  __Nonapplication to previously acquired property__  __.—__ 
 
 >     The amendments made by this section shall not apply to any elective deferral which is invested in assets consisting of qualifying employer securities, qualifying employer real property, or both, if such assets were acquired before January 1, 1999.”
 

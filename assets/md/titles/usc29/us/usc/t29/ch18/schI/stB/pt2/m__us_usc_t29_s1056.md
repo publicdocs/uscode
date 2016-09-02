@@ -655,11 +655,11 @@
 
 [Pub. L. 103–465, title VII, § 761(b)][/us/pl/103/465/s761/b], Dec. 8, 1994, [108 Stat. 5034][/us/stat/108/5034], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
 
->     “(2) __Contributing sponsor.—__ 
+>     “(2)  __Contributing sponsor__  __.—__ 
 
 >     The amendment made by subsection (a)(11) \[amending [section 1301 of this title][/us/usc/t29/s1301]\] shall be effective as if included in the Pension Protection Act \[[Pub. L. 100–203, title IX][/us/pl/100/203], subtitle D, part II, §§ 9302–9346\].”
 

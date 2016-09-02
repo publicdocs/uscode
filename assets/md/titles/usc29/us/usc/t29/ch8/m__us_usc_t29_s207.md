@@ -419,13 +419,13 @@
 
 [Pub. L. 110–244, title III, § 306][/us/pl/110/244/s306], June 6, 2008, [122 Stat. 1620][/us/stat/122/1620], provided that:
 
->     “(a) __Applicability Following This Act.—__ 
+>     “(a)  __Applicability Following This Act__  __.—__ 
 
 >     Beginning on the date of enactment of this Act \[June 6, 2008\], section 7 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 207][/us/usc/t29/s207]) shall apply to a covered employee notwithstanding section 13(b)(1) of that Act ([29 U.S.C. 213(b)(1)][/us/usc/t29/s213/b/1]).
 
->     “(b) __Liability Limitation Following SAFETEA–LU.—__ 
+>     “(b)  __Liability Limitation Following__  __SAFETEA–LU.—__ 
 
->         “(1) __Limitation on liability.—__ 
+>         “(1)  __Limitation on liability__  __.—__ 
 
 >         An employer shall not be liable for a violation of section 7 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 207][/us/usc/t29/s207]) with respect to a covered employee if—
 
@@ -433,11 +433,11 @@
 
 >             “(B) as of the date of the violation, the employer did not have actual knowledge that the employer was subject to the requirements of such section with respect to the covered employee.
 
->         “(2) __Actions to recover amounts previously paid.—__ 
+>         “(2)  __Actions to recover amounts previously paid__  __.—__ 
 
 >         Nothing in paragraph (1) shall be construed to establish a cause of action for an employer to recover amounts paid before the date of enactment of this Act \[June 6, 2008\] in settlement of, in compromise of, or pursuant to a judgment rendered regarding a claim or potential claim based on an alleged or proven violation of section 7 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 207][/us/usc/t29/s207]) occurring in the 1-year period referred to in paragraph (1)(A) with respect to a covered employee.
 
->     “(c) __Covered Employee Defined.—__ 
+>     “(c)  __Covered Employee Defined__  __.—__ 
 
 >     In this section, the term ‘covered employee’ means an individual—
 

@@ -39,7 +39,7 @@
 
 [Pub. L. 99–592, § 5][/us/pl/99/592/s5], Oct. 31, 1986, [100 Stat. 3343][/us/stat/100/3343], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     Not later than 4 years after the date of enactment of this Act \[Oct. 31, 1986\], the Secretary of Labor and the Equal Employment Opportunity Commission, jointly, shall—
 
@@ -61,11 +61,11 @@
 
 >             “(B) a statement of the recommendations developed under paragraph (1)(C).
 
->     “(b) __Consultation Requirement.—__ 
+>     “(b)  __Consultation Requirement__  __.—__ 
 
 >     The Secretary of Labor and the Equal Employment Opportunity Commission shall, during the conduct of the study required under subsection (a) and prior to the development of recommendations under paragraph (1)(C), consult with the United States Fire Administration, the Federal Emergency Management Agency, organizations representing law enforcement officers, firefighters, and their employers, and organizations representing older Americans.
 
->     “(c) __Proposed Guidelines.—__ 
+>     “(c)  __Proposed Guidelines__  __.—__ 
 
 >     Not later than 5 years after the date of the enactment of this Act \[Oct. 31, 1986\], the Equal Employment Opportunity Commission shall propose, in accordance with subchapter II of chapter 5 of title 5 of the United States Code, guidelines for the administration and use of physical and mental fitness tests to measure the ability and competency of police officers and firefighters to perform the requirements of their jobs.”
 

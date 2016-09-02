@@ -113,7 +113,7 @@
 
 [Pub. L. 111–213, § 2(a)][/us/pl/111/213/s2/a], July 29, 2010, [124 Stat. 2343][/us/stat/124/2343], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If the conditions described in paragraph (2) are satisfied with respect to a State, in awarding funds to existing centers for independent living (described in section 722(c) of the Rehabilitation Act of 1973 ([29 U.S.C. 796f–1(c)][/us/usc/t29/s796f–1/c])) in the State, the Commissioner of the Rehabilitation Services Administration—
 
@@ -127,7 +127,7 @@
 
 >         “(B) in fiscal year 2011 and subsequent fiscal years, shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 ([Public Law 111–5][/us/pl/111/5]) for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 ([29 U.S.C. 796f][/us/usc/t29/s796f] et seq.).
 
->     “(2) __Conditions.—__ 
+>     “(2)  __Conditions__  __.—__ 
 
 >     The conditions described in this paragraph are the following:
 

@@ -47,11 +47,11 @@
 
 [Pub. L. 100–347, § 11][/us/pl/100/347/s11], June 27, 1988, [102 Stat. 653][/us/stat/102/653], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[enacting this chapter\] shall become effective 6 months after the date of enactment of this Act \[June 27, 1988\].
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act, the Secretary shall issue such rules and regulations as may be necessary or appropriate to carry out this Act.”
 

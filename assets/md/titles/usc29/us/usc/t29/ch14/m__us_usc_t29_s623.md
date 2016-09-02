@@ -137,19 +137,19 @@
 
             (A) __Comparison to similarly situated younger individual.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A plan shall not be treated as failing to meet the requirements of paragraph (1) if a participant’s accrued benefit, as determined as of any date under the terms of the plan, would be equal to or greater than that of any similarly situated, younger individual who is or could be a participant.
 
-                (ii) __Similarly situated.—__ 
+                (ii)  __Similarly situated__  __.—__ 
 
                 For purposes of this subparagraph, a participant is similarly situated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
 
-                (iii) __Disregard of subsidized early retirement benefits.—__ 
+                (iii)  __Disregard of subsidized early retirement benefits__  __.—__ 
 
                 In determining the accrued benefit as of any date for purposes of this clause, the subsidized portion of any early retirement benefit or retirement-type subsidy shall be disregarded.
 
-                (iv) __Accrued benefit.—__ 
+                (iv)  __Accrued benefit__  __.—__ 
 
                 For purposes of this subparagraph, the accrued benefit may, under the terms of the plan, be expressed as an annuity payable at normal retirement age, the balance of a hypothetical account, or the current value of the accumulated percentage of the employee’s final average compensation.
 
@@ -157,23 +157,23 @@
 
                 (i) __Interest credits.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
 
-                    (II) __Preservation of capital.—__ 
+                    (II)  __Preservation of capital__  __.—__ 
 
                     An interest credit (or an equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.
 
-                    (III) __Market rate of return.—__ 
+                    (III)  __Market rate of return__  __.—__ 
 
                     The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of [section 414(d) of title 26][/us/usc/t26/s414/d]), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
 
-                (ii) __Special rule for plan conversions.—__ 
+                (ii)  __Special rule for plan conversions__  __.—__ 
 
                 If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
 
-                (iii) __Rate of benefit accrual.—__ 
+                (iii)  __Rate of benefit accrual__  __.—__ 
 
                 Subject to clause (iv), the requirements of this clause are met with respect to any participant if the accrued benefit of the participant under the terms of the plan as in effect after the amendment is not less than the sum of—
 
@@ -181,31 +181,31 @@
 
                     (II) the participant’s accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
 
-                (iv) __Special rules for early retirement subsidies.—__ 
+                (iv)  __Special rules for early retirement subsidies__  __.—__ 
 
                 For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “similar account”. </sup></sup>  with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
-                (v) __Applicable plan amendment.—__ 
+                (v)  __Applicable plan amendment__  __.—__ 
 
                 For purposes of this subparagraph—
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     The term “applicable plan amendment” means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
 
-                    (II) __Special rule for coordinated benefits.—__ 
+                    (II)  __Special rule for coordinated benefits__  __.—__ 
 
                     If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
 
-                    (III) __Multiple amendments.—__ 
+                    (III)  __Multiple amendments__  __.—__ 
 
                     The Secretary of the Treasury shall issue regulations to prevent the avoidance of the purposes of this subparagraph through the use of 2 or more plan amendments rather than a single amendment.
 
-                    (IV) __Applicable defined benefit plan.—__ 
+                    (IV)  __Applicable defined benefit plan__  __.—__ 
 
                     For purposes of this subparagraph, the term “applicable defined benefit plan” has the meaning given such term by [section 1053(f)(3) of this title][/us/usc/t29/s1053/f/3].
 
-                (vi) __Termination requirements.—__ 
+                (vi)  __Termination requirements__  __.—__ 
 
                 An applicable defined benefit plan shall not be treated as meeting the requirements of clause (i) unless the plan provides that, upon the termination of the plan—
 
@@ -213,33 +213,33 @@
 
                     (II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
 
-            (C) __Certain offsets permitted.—__ 
+            (C)  __Certain offsets permitted__  __.—__ 
 
             A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the plan provides offsets against benefits under the plan to the extent such offsets are allowable in applying the requirements of [section 401(a) of title 26][/us/usc/t26/s401/a].
 
-            (D) __Permitted disparities in plan contributions or benefits.—__ 
+            (D)  __Permitted disparities in plan contributions or benefits__  __.—__ 
 
             A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(l) of title 26 are met.
 
             (E) __Indexing permitted.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the plan provides for indexing of accrued benefits under the plan.
 
-                (ii) __Protection against loss.—__ 
+                (ii)  __Protection against loss__  __.—__ 
 
                 Except in the case of any benefit provided in the form of a variable annuity, clause (i) shall not apply with respect to any indexing which results in an accrued benefit less than the accrued benefit determined without regard to such indexing.
 
-                (iii) __Indexing.—__ 
+                (iii)  __Indexing__  __.—__ 
 
                 For purposes of this subparagraph, the term “indexing” means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
 
-            (F) __Early retirement benefit or retirement-type subsidy.—__ 
+            (F)  __Early retirement benefit or retirement-type subsidy__  __.—__ 
 
             For purposes of this paragraph, the terms “early retirement benefit” and “retirement-type subsidy” have the meaning given such terms in [section 1054(g)(2)(A) of this title][/us/usc/t29/s1054/g/2/A].2
 
-            (G) __Benefit accrued to date.—__ 
+            (G)  __Benefit accrued to date__  __.—__ 
 
             For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
 
@@ -467,11 +467,11 @@
 
 [Pub. L. 105–244, title IX, § 941(d)][/us/pl/105/244/s941/d], Oct. 7, 1998, [112 Stat. 1835][/us/stat/112/1835], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     This section \[amending this section and enacting provisions set out as a note below\] shall take effect on the date of enactment of this Act \[Oct. 7, 1998\].
 
->     “(2) __Effect on causes of action existing before date of enactment.—__ 
+>     “(2)  __Effect on causes of action existing before date of enactment__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 \[[29 U.S.C. 621][/us/usc/t29/s621] et seq.\] prior to the date of enactment of this Act.”
 
@@ -479,11 +479,11 @@
 
 Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208] provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[probably means section 101(a) \[title I, § 119\] of [Pub. L. 104–208][/us/pl/104/208], amending this section and enacting and repealing provisions set out as notes under this section\] and the amendments made by this title shall take effect on the date of enactment of this Act \[Sept. 30, 1996\].
 
->     “(b) __Special Effective Date.—__ 
+>     “(b)  __Special Effective Date__  __.—__ 
 
 >     The repeal made by section 2(a) and the reenactment made by section 2(b)(1) \[probably means section 101(a) \[title I, § 119\[1(a), (b)(1)\]\] of [Pub. L. 104–208][/us/pl/104/208], amending this section and repealing provisions set out as a note under this section\] shall take effect on December 31, 1993.”
 
@@ -491,7 +491,7 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 [Pub. L. 101–433, title I, § 105][/us/pl/101/433/s105], Oct. 16, 1990, [104 Stat. 981][/us/stat/104/981], as amended by [Pub. L. 102–236, § 9][/us/pl/102/236/s9], Dec. 12, 1991, [105 Stat. 1816][/us/stat/105/1816], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, this title \[amending this section and [section 630 of this title][/us/usc/t29/s630] and enacting provisions set out as notes under this section and [section 621 of this title][/us/usc/t29/s621]\] and the amendments made by this title shall apply only to—
 
@@ -499,7 +499,7 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >         “(2) other conduct occurring more than 180 days after the date of enactment of this Act.
 
->     “(b) __Collectively Bargained Agreements.—__ 
+>     “(b)  __Collectively Bargained Agreements__  __.—__ 
 
 >     With respect to any employee benefits provided in accordance with a collective bargaining agreement—
 
@@ -515,7 +515,7 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >     “(c) __States and Political Subdivisions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         With respect to any employee benefits provided by an employer—
 
@@ -527,7 +527,7 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >         “(2) __Election of disability coverage for employees hired prior to effective date.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             An employer that maintains a plan described in paragraph (1)(B) may, with regard to disability benefits provided pursuant to such a plan—
 
@@ -541,31 +541,31 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >                          “(II) the employee is given up to 180 days after the offer in which to make the election.
 
->             “(B) __Previous disability benefits.—__ 
+>             “(B)  __Previous disability benefits__  __.—__ 
 
 >             If the employee does not elect to be covered by the new disability benefits, the employer may continue to cover the employee under the previous disability benefits even though such previous benefits do not otherwise satisfy the requirements of the Age Discrimination in Employment Act of 1967 (as amended by this title).
 
->             “(C) __Abrogation of right to receive benefits.—__ 
+>             “(C)  __Abrogation of right to receive benefits__  __.—__ 
 
 >             An election of coverage under the new disability benefits shall abrogate any right the electing employee may have had to receive existing disability benefits. The employee shall maintain any years of service accumulated for purposes of determining eligibility for the new benefits.
 
->         “(3) __State assistance.—__ 
+>         “(3)  __State assistance__  __.—__ 
 
 >         The Equal Employment Opportunity Commission, the Secretary of Labor, and the Secretary of the Treasury shall, on request, provide to States assistance in identifying and securing independent technical advice to assist in complying with this subsection.
 
->         “(4) __Definitions.—__ 
+>         “(4)  __Definitions__  __.—__ 
 
 >         For purposes of this subsection:
 
->             “(A) __Employer and state.—__ 
+>             “(A)  __Employer and state__  __.—__ 
 
 >             The terms ‘employer’ and ‘State’ shall have the respective meanings provided such terms under subsections (b) and (i) of section 11 of the Age Discrimination in Employment Act of 1967 ([29 U.S.C. 630][/us/usc/t29/s630]).
 
->             “(B) __Disability benefits.—__ 
+>             “(B)  __Disability benefits__  __.—__ 
 
 >             The term ‘disability benefits’ means any program for employees of a State or political subdivision of a State that provides long-term disability benefits, whether on an insured basis in a separate employee benefit plan or as part of an employee pension benefit plan.
 
->             “(C) __Reasonable notice.—__ 
+>             “(C)  __Reasonable notice__  __.—__ 
 
 >             The term ‘reasonable notice’ means, with respect to notice of new disability benefits described in paragraph (2)(A) that is given to each employee, notice that—
 
@@ -573,11 +573,11 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >                 “(ii) is written in a manner calculated to be understood by the average employee eligible to participate.
 
->     “(d) __Discrimination in Employee Pension Benefit Plans.—__ 
+>     “(d)  __Discrimination in Employee Pension Benefit Plans__  __.—__ 
 
 >     Nothing in this title \[amending this section and [section 630 of this title][/us/usc/t29/s630] and enacting provisions set out as notes under this section and [section 621 of this title][/us/usc/t29/s621]\], or the amendments made by this title, shall be construed as limiting the prohibitions against discrimination that are set forth in section 4(j) of the Age Discrimination in Employment Act of 1967 \[[29 U.S.C. 623(j)][/us/usc/t29/s623/j]\] (as redesignated by section 103(2) of this Act).
 
->     “(e) __Continued Benefit Payments.—__ 
+>     “(e)  __Continued Benefit Payments__  __.—__ 
 
 >     Notwithstanding any other provision of this section, on and after the effective date of this title and the amendments made by this title (as determined in accordance with subsections (a), (b), and (c)), this title and the amendments made by this title shall not apply to a series of benefit payments made to an individual or the individual’s representative that began prior to the effective date and that continue after the effective date pursuant to an arrangement that was in effect on the effective date, except that no substantial modification to such arrangement may be made after the date of enactment of this Act \[Oct. 16, 1990\] if the intent of the modification is to evade the purposes of this Act.”
 
@@ -589,7 +589,7 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 [Pub. L. 99–592, § 7][/us/pl/99/592/s7], Oct. 31, 1986, [100 Stat. 3344][/us/stat/100/3344], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of this title and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except that with respect to any employee who is subject to a collective-bargaining agreement—
 
@@ -603,7 +603,7 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >         such amendments shall not apply until the termination of such collective bargaining agreement or January 1, 1990, whichever occurs first.
 
->     “(b) __Effect on Existing Causes of Action.—__ 
+>     “(b)  __Effect on Existing Causes of Action__  __.—__ 
 
 >     The amendments made by sections 3 and 4 of this Act \[amending this section and [section 630 of this title][/us/usc/t29/s630] and enacting provisions set out as a note below\] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 \[[29 U.S.C. 621][/us/usc/t29/s621] et seq.\] as in effect before January 1, 1987.”
 
@@ -611,13 +611,13 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 [Pub. L. 99–509, title IX, § 9204][/us/pl/99/509/s9204], Oct. 21, 1986, [100 Stat. 1979][/us/stat/100/1979], provided that:
 
->     “(a) __Applicability to Employees with Service after 1988.—__ 
+>     “(a)  __Applicability to Employees with Service after__  __1988.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by sections 9201 and 9202 \[amending this section, [section 1054 of this title][/us/usc/t29/s1054], and [section 411 of Title 26][/us/usc/t26/s411], Internal Revenue Code\] shall apply only with respect to plan years beginning on or after January 1, 1988, and only to employees who have 1 hour of service in any plan year to which such amendments apply.
 
->         “(2) __Special rule for collectively bargained plans.—__ 
+>         “(2)  __Special rule for collectively bargained plans__  __.—__ 
 
 >         In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, paragraph (1) shall be applied to benefits pursuant to, and individuals covered by, any such agreement by substituting for ‘January 1, 1988’ the date of the commencement of the first plan year beginning on or after the earlier of—
 
@@ -631,11 +631,11 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >             “(B) January 1, 1990.
 
->     “(b) __Applicability of Amendments Relating to Normal Retirement Age.—__ 
+>     “(b)  __Applicability of Amendments Relating to Normal Retirement Age__  __.—__ 
 
 >     The amendments made by section 9203 \[amending sections 1002 and 1052 of this title and sections 410 and 411 of Title 26\] shall apply only with respect to plan years beginning on or after January 1, 1988, and only with respect to service performed on or after such date.
 
->     “(c) __Plan Amendments.—__ 
+>     “(c)  __Plan Amendments__  __.—__ 
 
 >     If any amendment made by this subtitle \[subtitle C (§§ 9201–9204) of title IX of [Pub. L. 99–509][/us/pl/99/509], amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26\] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
@@ -645,11 +645,11 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >         A pension plan shall not be treated as failing to provide definitely determinable benefits or contributions, or to be operated in accordance with the provisions of the plan, merely because it operates in accordance with this subsection.
 
->     “(d) __Interagency Coordination.—__ 
+>     “(d)  __Interagency Coordination__  __.—__ 
 
 >     The regulations and rulings issued by the Secretary of Labor, the regulations and rulings issued by the Secretary of the Treasury, and the regulations and rulings issued by the Equal Employment Opportunity Commission pursuant to the amendments made by this subtitle shall each be consistent with the others. The Secretary of Labor, the Secretary of the Treasury, and the Equal Employment Opportunity Commission shall each consult with the others to the extent necessary to meet the requirements of the preceding sentence.
 
->     “(e) __Final Regulations.—__ 
+>     “(e)  __Final Regulations__  __.—__ 
 
 >     The Secretary of Labor, the Secretary of the Treasury, and the Equal Employment Opportunity Commission shall each issue before February 1, 1988, such final regulations as may be necessary to carry out the amendments made by this subtitle.”
 

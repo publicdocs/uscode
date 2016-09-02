@@ -25,7 +25,7 @@
 
 >     “(a) __Regulatory Treatment of Assets of Real Estate Entities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as a defense, no rule or regulation adopted pursuant to the Secretary’s proposed regulation defining ‘plan assets’ for purposes of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\] (50 Fed. Reg. 961, January 8, 1985, as modified by 50 Fed. Reg. 6361, February 15, 1985), or any reproposal thereof prior to the adoption of the regulations required to be issued in accordance with subsection (d), shall apply to any asset of a real estate entity in which a plan, account, or arrangement subject to such Act invests if—
 
@@ -47,7 +47,7 @@
 
 >             In the case of partnerships organized prior to enactment of this section, the requirements of subparagraphs (iii) and (iv) shall not apply to initial limited partnership interests in an entity otherwise described above: Provided, That such entity was the subject of an effective registration under the Securities Act of 1933 prior to the date of the enactment of this section, such interests were issued solely for partnership organizational purposes in compliance with State limited partnership laws, and such interest has a value as of the date of issue of less than $20,000 and represents less than one percent of the total interests outstanding as of the completion of the offering period.
 
->         “(2) __Maintenance of current regulatory treatment.—__ 
+>         “(2)  __Maintenance of current regulatory treatment__  __.—__ 
 
 >         No asset of any real estate entity described in paragraph (1) shall be treated as an asset of any plan investor for any purpose of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\] if the assets of such entity would not have been assets of such plan investor under the provisions of—
 
@@ -67,7 +67,7 @@
 
 >                   without regard to any limitation of any effective date proposed therein.
 
->     “(b) __Definitions and Special Rules.—__ 
+>     “(b)  __Definitions and Special Rules__  __.—__ 
 
 >     For purposes of this section—
 
@@ -107,15 +107,15 @@
 
 >             “(H) any limitation or restriction on transfer or assignment which is not created or imposed by the issuer or any person acting for or on behalf of such issuer.
 
->     “(c) __No Effect on Secretary’s Authority Other Than As Provided.—__ 
+>     “(c)  __No Effect on Secretary’s Authority Other Than As Provided__  __.—__ 
 
 >     Except as provided in subsection (a), nothing in this section shall limit the authority of the Secretary of Labor to issue regulations or otherwise interpret section 3(21) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1002(21)][/us/usc/t29/s1002/21]\].
 
->     “(d) __Time Limit for Final Regulations.—__ 
+>     “(d)  __Time Limit for Final Regulations__  __.—__ 
 
 >     The Secretary of Labor shall adopt final regulations defining ‘plan assets’ by December 31, 1986.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     The preceding provisions of this section shall take effect on the date of the enactment of this Act \[Apr. 7, 1986\].”
 

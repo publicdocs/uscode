@@ -75,7 +75,7 @@
 
 [Pub. L. 105–92, § 2][/us/pl/105/92/s2], Nov. 19, 1997, [111 Stat. 2139][/us/stat/111/2139], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds as follows:
 
@@ -85,7 +85,7 @@
 
 >         “(3) A leading obstacle to expanding retirement savings is the simple fact that far too many Americans—particularly the young—are either unaware of, or without the knowledge and resources necessary to take advantage of, the extensive benefits offered by our retirement savings system.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this Act \[see Short Title of 1997 Amendment note, set out under [section 1001 of this title][/us/usc/t29/s1001]\]—
 

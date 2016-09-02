@@ -133,19 +133,19 @@
 
             (A) __Comparison to similarly situated younger individual.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A plan shall not be treated as failing to meet the requirements of paragraph (1)(H)(i) if a participant’s accrued benefit, as determined as of any date under the terms of the plan, would be equal to or greater than that of any similarly situated, younger individual who is or could be a participant.
 
-                (ii) __Similarly situated.—__ 
+                (ii)  __Similarly situated__  __.—__ 
 
                 For purposes of this subparagraph, a participant is similarly situated to any other individual if such participant is identical to such other individual in every respect (including period of service, compensation, position, date of hire, work history, and any other respect) except for age.
 
-                (iii) __Disregard of subsidized early retirement benefits.—__ 
+                (iii)  __Disregard of subsidized early retirement benefits__  __.—__ 
 
                 In determining the accrued benefit as of any date for purposes of this subparagraph, the subsidized portion of any early retirement benefit or retirement-type subsidy shall be disregarded.
 
-                (iv) __Accrued benefit.—__ 
+                (iv)  __Accrued benefit__  __.—__ 
 
                 For purposes of this subparagraph, the accrued benefit may, under the terms of the plan, be expressed as an annuity payable at normal retirement age, the balance of a hypothetical account, or the current value of the accumulated percentage of the employee’s final average compensation.
 
@@ -153,23 +153,23 @@
 
                 (i) __Interest credits.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
 
-                    (II) __Preservation of capital.—__ 
+                    (II)  __Preservation of capital__  __.—__ 
 
                     An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the plan provides that an interest credit (or equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.
 
-                    (III) __Market rate of return.—__ 
+                    (III)  __Market rate of return__  __.—__ 
 
                     The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I).
 
-                (ii) __Special rule for plan conversions.—__ 
+                (ii)  __Special rule for plan conversions__  __.—__ 
 
                 If, after June 29, 2005, an applicable plan amendment is adopted, the plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the requirements of clause (iii) are met with respect to each individual who was a participant in the plan immediately before the adoption of the amendment.
 
-                (iii) __Rate of benefit accrual.—__ 
+                (iii)  __Rate of benefit accrual__  __.—__ 
 
                 Subject to clause (iv), the requirements of this clause are met with respect to any participant if the accrued benefit of the participant under the terms of the plan as in effect after the amendment is not less than the sum of—
 
@@ -177,31 +177,31 @@
 
                     (II) the participant’s accrued benefit for years of service after the effective date of the amendment, determined under the terms of the plan as in effect after the amendment.
 
-                (iv) __Special rules for early retirement subsidies.—__ 
+                (iv)  __Special rules for early retirement subsidies__  __.—__ 
 
                 For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “similar account”. </sup></sup>  with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
-                (v) __Applicable plan amendment.—__ 
+                (v)  __Applicable plan amendment__  __.—__ 
 
                 For purposes of this subparagraph—
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     The term “applicable plan amendment” means an amendment to a defined benefit plan which has the effect of converting the plan to an applicable defined benefit plan.
 
-                    (II) __Special rule for coordinated benefits.—__ 
+                    (II)  __Special rule for coordinated benefits__  __.—__ 
 
                     If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
 
-                    (III) __Multiple amendments.—__ 
+                    (III)  __Multiple amendments__  __.—__ 
 
                     The Secretary of the Treasury shall issue regulations to prevent the avoidance of the purposes of this subparagraph through the use of 2 or more plan amendments rather than a single amendment.
 
-                    (IV) __Applicable defined benefit plan.—__ 
+                    (IV)  __Applicable defined benefit plan__  __.—__ 
 
                     For purposes of this subparagraph, the term “applicable defined benefit plan” has the meaning given such term by [section 1053(f)(3) of this title][/us/usc/t29/s1053/f/3].
 
-                (vi) __Termination requirements.—__ 
+                (vi)  __Termination requirements__  __.—__ 
 
                 An applicable defined benefit plan shall not be treated as meeting the requirements of clause (i) unless the plan provides that, upon the termination of the plan—
 
@@ -209,33 +209,33 @@
 
                     (II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
 
-            (C) __Certain offsets permitted.—__ 
+            (C)  __Certain offsets permitted__  __.—__ 
 
             A plan shall not be treated as failing to meet the requirements of paragraph (1)(H)(i) solely because the plan provides offsets against benefits under the plan to the extent such offsets are otherwise allowable in applying the requirements of [section 401(a) of title 26][/us/usc/t26/s401/a].
 
-            (D) __Permitted disparities in plan contributions or benefits.—__ 
+            (D)  __Permitted disparities in plan contributions or benefits__  __.—__ 
 
             A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides a disparity in contributions or benefits with respect to which the requirements of section 401(l) of title 26 are met.
 
             (E) __Indexing permitted.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides for indexing of accrued benefits under the plan.
 
-                (ii) __Protection against loss.—__ 
+                (ii)  __Protection against loss__  __.—__ 
 
                 Except in the case of any benefit provided in the form of a variable annuity, clause (i) shall not apply with respect to any indexing which results in an accrued benefit less than the accrued benefit determined without regard to such indexing.
 
-                (iii) __Indexing.—__ 
+                (iii)  __Indexing__  __.—__ 
 
                 For purposes of this subparagraph, the term “indexing” means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
 
-            (F) __Early retirement benefit or retirement-type subsidy.—__ 
+            (F)  __Early retirement benefit or retirement-type subsidy__  __.—__ 
 
             For purposes of this paragraph, the terms “early retirement benefit” and “retirement-type subsidy” have the meaning given such terms in subsection (g)(2)(A).
 
-            (G) __Benefit accrued to date.—__ 
+            (G)  __Benefit accrued to date__  __.—__ 
 
             For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
 
@@ -253,7 +253,7 @@
 
                 (ii) if a separate account is not maintained with respect to an employee’s contributions under such a plan, the amount which bears the same ratio to his total accrued benefit as the total amount of the employee’s contributions (less withdrawals) bears to the sum of such contributions and the contributions made on his behalf by the employer (less withdrawals).
 
-            (B) __Defined benefit plans.—__ 
+            (B)  __Defined benefit plans__  __.—__ 
 
             In the case of a defined benefit plan, the accrued benefit derived from contributions made by an employee as of any applicable date is the amount equal to the employee’s accumulated contributions expressed as an annual benefit commencing at normal retirement age, using an interest rate which would be used under the plan under [section 1055(g)(3) of this title][/us/usc/t29/s1055/g/3] (as of the determination date).
 
@@ -797,11 +797,11 @@
 
 [Pub. L. 100–203, title IX, § 9346(c)][/us/pl/100/203/s9346/c], Dec. 22, 1987, [101 Stat. 1330–374][/us/stat/101/1330-374], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 411 of Title 26][/us/usc/t26/s411], Internal Revenue Code\] shall apply to plan years beginning after December 31, 1987.
 
->     “(2) __Plan amendments not required until__  __january 1, 1989__  __.—__ 
+>     “(2)  __Plan amendments not required until __  __january 1, 1989__  __.—__ 
 
 >     If any amendment made by this section requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
@@ -817,11 +817,11 @@
 
 [Pub. L. 99–514, title XVIII, § 1879(u)(5)][/us/pl/99/514/s1879/u/5], formerly § 1879(u)(4), Oct. 22, 1986, [100 Stat. 2913][/us/stat/100/2913], as redesignated and amended by [Pub. L. 101–239, title VII, § 7862(b)(1)(A)][/us/pl/101/239/s7862/b/1/A], (B), Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432], provided that:
 
->     “(A) __General rule.—__ 
+>     “(A)  __General rule__  __.—__ 
 
 >     Except as provided in subparagraph (B), the preceding provisions of this subsection \[amending this section and sections 1002 and 1349 of this title\] shall be effective as if such provisions were included in the enactment of the Single-Employer Pension Plan Amendments Act of 1986 \[[Pub. L. 99–272, title XI][/us/pl/99/272]\].
 
->     “(B) __Special rule.—__ 
+>     “(B)  __Special rule__  __.—__ 
 
 >     Subparagraph (B) of section 204(h)(2) of the Employee Retirement Income Security Act of 1974 (as amended by paragraph (1)) \[[29 U.S.C. 1054(h)(2)(B)][/us/usc/t29/s1054/h/2/B]\] shall apply only with respect to plan amendments adopted on or after the date of the enactment of this Act \[Oct. 22, 1986\].”
 

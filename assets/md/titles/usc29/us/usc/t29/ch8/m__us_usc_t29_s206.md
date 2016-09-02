@@ -249,11 +249,11 @@
 
 [Pub. L. 110–28, title VIII, § 8103(a)][/us/pl/110/28/s8103/a], (b), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189, as amended by [Pub. L. 111–117, div. D, title V, § 520][/us/pl/111/117/s520], Dec. 16, 2009, [123 Stat. 3283][/us/stat/123/3283]; [Pub. L. 111–244, § 2(a)][/us/pl/111/244/s2/a], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(a)][/us/pl/112/149/s4/a], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 113–34, § 2][/us/pl/113/34/s2], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Section 6 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206][/us/usc/t29/s206]) shall apply to American Samoa and the Commonwealth of the Northern Mariana Islands.
 
->     “(b) __Transition.—__ 
+>     “(b)  __Transition__  __.—__ 
 
 >     Notwithstanding subsection (a)—
 
@@ -279,11 +279,11 @@
 
 [Pub. L. 110–28, title VIII, § 8104][/us/pl/110/28/s8104], May 25, 2007, [121 Stat. 189][/us/stat/121/189], as amended by [Pub. L. 111–5, div. A, title VIII, § 802(a)][/us/pl/111/5/s802/a], Feb. 17, 2009, [123 Stat. 186][/us/stat/123/186]; [Pub. L. 111–244, § 2(b)][/us/pl/111/244/s2/b], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(b)][/us/pl/112/149/s4/b], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     The Government Accountability Office shall assess the impact of minimum wage increases that have occurred pursuant to section 8103 \[of [Pub. L. 110–28][/us/pl/110/28], amending this section, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under this section\], and not later than September 1, 2011, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit subsequent reports not later than April 1, 2014, and every 3 years thereafter until the minimum wage in the respective territory meets the federal minimum wage.
 
->     “(b) __Economic Information.—__ 
+>     “(b)  __Economic Information__  __.—__ 
 
 >     To provide sufficient economic data for the conduct of the study under subsection (a) the Bureau of the Census of the Department of Commerce shall include and separately report on American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in its County Business Patterns data with the same regularity and to the same extent as each Bureau collects and reports such data for the 50 States. In the event that the inclusion of American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in such surveys and data compilations requires time to structure and implement, the Bureau of the Census shall in the interim annually report the best available data that can feasibly be secured with respect to such territories. Such interim report shall describe the steps the Bureau will take to improve future data collection in the territories to achieve comparability with the data collected in the United States. The Bureau of the Census, together with the Department of the Interior, shall coordinate their efforts to achieve such improvements.”
 
@@ -299,7 +299,7 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         Any employer may, in lieu of the minimum wage prescribed by section 6 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206][/us/usc/t29/s206]), pay an eligible employee the wage prescribed by paragraph (2)—
 
@@ -307,7 +307,7 @@
 
 >             “(B) while such employee is engaged in on-the-job training for the period authorized by subsection (g)(1)(B)(ii).
 
->         “(2) __Wage rate.—__ 
+>         “(2)  __Wage rate__  __.—__ 
 
 >         The wage referred to in paragraph (1) shall be a wage—
 
@@ -315,7 +315,7 @@
 
 >             “(B) beginning April 1, 1991, of not less than $3.35 an hour or 85 percent of the wage prescribed by section 6 of such Act, whichever is greater.
 
->     “(b) __Wage Period.—__ 
+>     “(b)  __Wage Period__  __.—__ 
 
 >     An employer may pay an eligible employee the wage authorized by subsection (a) for a period that—
 
@@ -325,7 +325,7 @@
 
 >         “(3) ends before April 1, 1993.
 
->     “(c) __Wage Conditions.—__ 
+>     “(c)  __Wage Conditions__  __.—__ 
 
 >     No eligible employee may be paid the wage authorized by subsection (a) by an employer if—
 
@@ -335,35 +335,35 @@
 
 >     “(d) __Limitations.—__ 
 
->         “(1) __Employee hours.—__ 
+>         “(1)  __Employee hours__  __.—__ 
 
 >         During any month in which employees are to be employed in an establishment under this section, the proportion of employee hours of employment to the total hours of employment of all employees in such establishment may not exceed a proportion equal to one-fourth of the total hours of employment of all employees in such establishment.
 
 >         “(2) __Displacement.—__ 
 
->             “(A) __Prohibition.—__ 
+>             “(A)  __Prohibition__  __.—__ 
 
 >             No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in subsection (a).
 
->             “(B) __Disqualification.—__ 
+>             “(B)  __Disqualification__  __.—__ 
 
 >             If the Secretary determines that an employer has taken an action in violation of subparagraph (A), the Secretary shall issue an order disqualifying such employer from employing any individual at such wage.
 
->     “(e) __Notice.—__ 
+>     “(e)  __Notice__  __.—__ 
 
 >     Each employer shall provide to any eligible employee who is to be paid the wage authorized by subsection (a) a written notice before the employee begins employment stating the requirements of this section and the remedies provided by subsection (f) for violations of this section. The Secretary shall provide to employers the text of the notice to be provided under this subsection.
 
->     “(f) __Enforcement.—__ 
+>     “(f)  __Enforcement__  __.—__ 
 
 >     Any employer who violates this section shall be considered to have violated section 15(a)(3) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 215(a)(3)][/us/usc/t29/s215/a/3]). Sections 16 and 17 of such Act ([29 U.S.C. 216][/us/usc/t29/s216] and 217) shall apply with respect to the violation.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
 >         “(1) __Eligible employee.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘eligible employee’ means with respect to an employer an individual who—
 
@@ -385,19 +385,19 @@
 
 >             “(C) __Proof.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 An individual is responsible for providing the requisite proof of previous period or periods of employment with other employers. An employer’s good faith reliance on the proof presented to the employer by an individual shall constitute a complete defense to a charge that the employer has violated subsection (b)(2) with respect to such individual.
 
->                 “(ii) __Regulations.—__ 
+>                 “(ii)  __Regulations__  __.—__ 
 
 >                 The Secretary of Labor shall issue regulations defining the requisite proof required of an individual. Such regulations shall establish minimal requirements for requisite proof and may prescribe that an accurate list of the individual’s employers and a statement of the dates and duration of employment with each employer constitute requisite proof.
 
->         “(2) __On-the-job training.—__ 
+>         “(2)  __On-the-job training__  __.—__ 
 
 >         The term ‘on-the-job training’ means training that is offered to an individual while employed in productive work that provides training, technical and other related skills, and personal skills that are essential to the full and adequate performance of such employment.
 
->     “(h) __Employer Requirements.—__ 
+>     “(h)  __Employer Requirements__  __.—__ 
 
 >     An employer who wants to employ employees at the wage authorized by subsection (a) for the period authorized by subsection (g)(1)(B)(ii) shall—
 
@@ -415,7 +415,7 @@
 
 >         The Secretary shall make available to the public upon request notices provided to the Secretary by employers in accordance with paragraph (6).
 
->     “(i) __Report.—__ 
+>     “(i)  __Report__  __.—__ 
 
 >     The Secretary of Labor shall report to Congress not later than March 1, 1993, on the effectiveness of the wage authorized by subsection (a). The report shall include—
 

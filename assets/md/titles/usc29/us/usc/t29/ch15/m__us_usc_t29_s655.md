@@ -139,15 +139,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 101–549, title III, § 304][/us/pl/101/549/s304], Nov. 15, 1990, [104 Stat. 2576][/us/stat/104/2576], provided that:
 
->     “(a) __Chemical Process Safety Standard.—__ 
+>     “(a)  __Chemical Process Safety Standard__  __.—__ 
 
 >     The Secretary of Labor shall act under the Occupational Safety and Health Act of 1970 ([29 U.S.C. 653][/us/usc/t29/s653]) \[[29 U.S.C. 651][/us/usc/t29/s651] et seq.\] to prevent accidental releases of chemicals which could pose a threat to employees. Not later than 12 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Secretary of Labor, in coordination with the Administrator of the Environmental Protection Agency, shall promulgate, pursuant to the Occupational Safety and Health Act, a chemical process safety standard designed to protect employees from hazards associated with accidental releases of highly hazardous chemicals in the workplace.
 
->     “(b) __List of Highly Hazardous Chemicals.—__ 
+>     “(b)  __List of Highly Hazardous Chemicals__  __.—__ 
 
 >     The Secretary shall include as part of such standard a list of highly hazardous chemicals, which include toxic, flammable, highly reactive and explosive substances. The list of such chemicals may include those chemicals listed by the Administrator under section 302 of the Emergency Planning and Community Right to Know Act of 1986 \[[42 U.S.C. 11002][/us/usc/t42/s11002]\]. The Secretary may make additions to such list when a substance is found to pose a threat of serious injury or fatality in the event of an accidental release in the workplace.
 
->     “(c) __Elements of Safety Standard.—__ 
+>     “(c)  __Elements of Safety Standard__  __.—__ 
 
 >     Such standard shall, at minimum, require employers to—
 
@@ -179,7 +179,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(14) investigate every incident which results in or could have resulted in a major accident in the workplace, with any findings to be reviewed by operating personnel and modifications made if appropriate.
 
->     “(d) __State Authority.—__ 
+>     “(d)  __State Authority__  __.—__ 
 
 >     Nothing in this section may be construed to diminish the authority of the States and political subdivisions thereof as described in section 112(r)(11) of the Clean Air Act \[[42 U.S.C. 7412(r)(11)][/us/usc/t42/s7412/r/11]\].”
 
@@ -187,85 +187,85 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 99–499, title I, § 126(a)][/us/pl/99/499/s126/a]–(f), Oct. 17, 1986, [100 Stat. 1690–1692][/us/stat/100/1690-1692], as amended by [Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–198, provided:
 
->     “(a) __Promulgation.—__ 
+>     “(a)  __Promulgation__  __.—__ 
 
 >     Within one year after the date of the enactment of this section \[Oct. 17, 1986\], the Secretary of Labor shall, pursuant to section 6 of the Occupational Safety and Health Act of 1970 \[[29 U.S.C. 655][/us/usc/t29/s655]\], promulgate standards for the health and safety protection of employees engaged in hazardous waste operations.
 
->     “(b) __Proposed Standards.—__ 
+>     “(b)  __Proposed Standards__  __.—__ 
 
 >     The Secretary of Labor shall issue proposed regulations on such standards which shall include, but need not be limited to, the following worker protection provisions:
 
->         “(1) __Site analysis.—__ 
+>         “(1)  __Site analysis__  __.—__ 
 
 >         Requirements for a formal hazard analysis of the site and development of a site specific plan for worker protection.
 
->         “(2) __Training.—__ 
+>         “(2)  __Training__  __.—__ 
 
 >         Requirements for contractors to provide initial and routine training of workers before such workers are permitted to engage in hazardous waste operations which would expose them to toxic substances.
 
->         “(3) __Medical surveillance.—__ 
+>         “(3)  __Medical surveillance__  __.—__ 
 
 >         A program of regular medical examination, monitoring, and surveillance of workers engaged in hazardous waste operations which would expose them to toxic substances.
 
->         “(4) __Protective equipment.—__ 
+>         “(4)  __Protective equipment__  __.—__ 
 
 >         Requirements for appropriate personal protective equipment, clothing, and respirators for work in hazardous waste operations.
 
->         “(5) __Engineering controls.—__ 
+>         “(5)  __Engineering controls__  __.—__ 
 
 >         Requirements for engineering controls concerning the use of equipment and exposure of workers engaged in hazardous waste operations.
 
->         “(6) __Maximum exposure limits.—__ 
+>         “(6)  __Maximum exposure limits__  __.—__ 
 
 >         Requirements for maximum exposure limitations for workers engaged in hazardous waste operations, including necessary monitoring and assessment procedures.
 
->         “(7) __Informational program.—__ 
+>         “(7)  __Informational program__  __.—__ 
 
 >         A program to inform workers engaged in hazardous waste operations of the nature and degree of toxic exposure likely as a result of such hazardous waste operations.
 
->         “(8) __Handling.—__ 
+>         “(8)  __Handling__  __.—__ 
 
 >         Requirements for the handling, transporting, labeling, and disposing of hazardous wastes.
 
->         “(9) __New technology program.—__ 
+>         “(9)  __New technology program__  __.—__ 
 
 >         A program for the introduction of new equipment or technologies that will maintain worker protections.
 
->         “(10) __Decontamination procedures.—__ 
+>         “(10)  __Decontamination procedures__  __.—__ 
 
 >         Procedures for decontamination.
 
->         “(11) __Emergency response.—__ 
+>         “(11)  __Emergency response__  __.—__ 
 
 >         Requirements for emergency response and protection of workers engaged in hazardous waste operations.
 
->     “(c) __Final Regulations.—__ 
+>     “(c)  __Final Regulations__  __.—__ 
 
 >     Final regulations under subsection (a) shall take effect one year after the date they are promulgated. In promulgating final regulations on standards under subsection (a), the Secretary of Labor shall include each of the provisions listed in paragraphs (1) through (11) of subsection (b) unless the Secretary determines that the evidence in the public record considered as a whole does not support inclusion of any such provision.
 
 >     “(d) __Specific Training Standards.—__ 
 
->         “(1) __Offsite instruction; field experience.—__ 
+>         “(1)  __Offsite instruction; field experience__  __.—__ 
 
 >         Standards promulgated under subsection (a) shall include training standards requiring that general site workers (such as equipment operators, general laborers, and other supervised personnel) engaged in hazardous substance removal or other activities which expose or potentially expose such workers to hazardous substances receive a minimum of 40 hours of initial instruction off the site, and a minimum of three days of actual field experience under the direct supervision of a trained, experienced supervisor, at the time of assignment. The requirements of the preceding sentence shall not apply to any general site worker who has received the equivalent of such training. Workers who may be exposed to unique or special hazards shall be provided additional training.
 
->         “(2) __Training of supervisors.—__ 
+>         “(2)  __Training of supervisors__  __.—__ 
 
 >         Standards promulgated under subsection (a) shall include training standards requiring that onsite managers and supervisors directly responsible for the hazardous waste operations (such as foremen) receive the same training as general site workers set forth in paragraph (1) of this subsection and at least eight additional hours of specialized training on managing hazardous waste operations. The requirements of the preceding sentence shall not apply to any person who has received the equivalent of such training.
 
->         “(3) __Certification; enforcement.—__ 
+>         “(3)  __Certification; enforcement__  __.—__ 
 
 >         Such training standards shall contain provisions for certifying that general site workers, onsite managers, and supervisors have received the specified training and shall prohibit any individual who has not received the specified training from engaging in hazardous waste operations covered by the standard. The certification procedures shall be no less comprehensive than those adopted by the Environmental Protection Agency in its Model Accreditation Plan for Asbestos Abatement Training as required under the Asbestos Hazard Emergency Response Act of 1986 \[[Pub. L. 99–519][/us/pl/99/519], see Short Title of 1986 Amendment note, set out under [section 2601 of Title 15][/us/usc/t15/s2601], Commerce and Trade\].
 
->         “(4) __Training of emergency response personnel.—__ 
+>         “(4)  __Training of emergency response personnel__  __.—__ 
 
 >         Such training standards shall set forth requirements for the training of workers who are responsible for responding to hazardous emergency situations who may be exposed to toxic substances in carrying out their responsibilities.
 
->     “(e) __Interim Regulations.—__ 
+>     “(e)  __Interim Regulations__  __.—__ 
 
 >     The Secretary of Labor shall issue interim final regulations under this section within 60 days after the enactment of this section \[Oct. 17, 1986\] which shall provide no less protection under this section for workers employed by contractors and emergency response workers than the protections contained in the Environmental Protection Agency Manual (1981) ‘Health and Safety Requirements for Employees Engaged in Field Activities’ and existing standards under the Occupational Safety and Health Act of 1970 \[[29 U.S.C. 651][/us/usc/t29/s651] et seq.\] found in subpart C of part 1926 of title 29 of the Code of Federal Regulations. Such interim final regulations shall take effect upon issuance and shall apply until final regulations become effective under subsection (c).
 
->     “(f) __Coverage of Certain State and Local Employees.—__ 
+>     “(f)  __Coverage of Certain State and Local Employees__  __.—__ 
 
 >     Not later than 90 days after the promulgation of final regulations under subsection (a), the Administrator shall promulgate standards identical to those promulgated by the Secretary of Labor under subsection (a). Standards promulgated under this subsection shall apply to employees of State and local governments in each State which does not have in effect an approved State plan under section 18 of the Occupational Safety and Health Act of 1970 \[[29 U.S.C. 667][/us/usc/t29/s667]\] providing for standards for the health and safety protection of employees engaged in hazardous waste operations.”
 

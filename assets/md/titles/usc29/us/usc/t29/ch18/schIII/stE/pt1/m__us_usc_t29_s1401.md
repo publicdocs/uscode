@@ -95,7 +95,7 @@
 
     (f) __Procedures applicable to certain disputes__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If—
 
@@ -111,7 +111,7 @@
 
             then the person against which the withdrawal liability is assessed based solely on the application of [section 1392(c) of this title][/us/usc/t29/s1392/c] may elect to use the special rule under paragraph (2) in applying subsection (d) of this section and [section 1399(c) of this title][/us/usc/t29/s1399/c] to such person.
 
-        (2) __Special rule.—__ 
+        (2)  __Special rule__  __.—__ 
 
         Notwithstanding subsection (d) and [section 1399(c) of this title][/us/usc/t29/s1399/c], if an electing person contests the plan sponsor’s determination with respect to withdrawal liability payments under paragraph (1) through an arbitration proceeding pursuant to subsection (a), through an action brought in a court of competent jurisdiction for review of such an arbitration decision, or as otherwise permitted by law, the electing person shall not be obligated to make the withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination, but only if the electing person—
 
@@ -119,11 +119,11 @@
 
             (B) if a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute has not been rendered within 12 months from the date of such notice, the electing person provides to the plan, effective as of the first day following the 12-month period, a bond issued by a corporate surety company that is an acceptable surety for purposes of [section 1112 of this title][/us/usc/t29/s1112], or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the sum of the withdrawal liability payments that would otherwise be due under subsection (d) and [section 1399(c) of this title][/us/usc/t29/s1399/c] for the 12-month period beginning with the first anniversary of such notice. Such bond or escrow shall remain in effect until there is a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute, at which time such bond or escrow shall be paid to the plan if such final decision upholds the plan sponsor’s determination.
 
-        (3) __Definition of small employer.—__ 
+        (3)  __Definition of small employer__  __.—__ 
 
         For purposes of this subsection—
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “small employer” means any employer which, for the calendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
 
@@ -131,11 +131,11 @@
 
                 (ii) is required to make contributions to the plan for not more than 250 employees.
 
-            (B) __Controlled group.—__ 
+            (B)  __Controlled group__  __.—__ 
 
             Any group treated as a single employer under subsection (b)(1) of [section 1301 of this title][/us/usc/t29/s1301], without regard to any transaction that was a basis for the plan’s finding under [section 1392 of this title][/us/usc/t29/s1392], shall be treated as a single employer for purposes of this subparagraph.
 
-        (4) __Additional security pending resolution of dispute.—__ 
+        (4)  __Additional security pending resolution of dispute__  __.—__ 
 
         If a withdrawal liability dispute to which this subsection applies is not concluded by 12 months after the electing person posts the bond or escrow described in paragraph (2), the electing person shall, at the start of each succeeding 12-month period, provide an additional bond or amount held in escrow equal to the sum of the withdrawal liability payments that would otherwise be payable to the plan during that period.
 

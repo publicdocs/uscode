@@ -163,11 +163,11 @@
 
 [Pub. L. 100–203, title IX, § 9331(f)][/us/pl/100/203/s9331/f], Dec. 22, 1987, [101 Stat. 1330–369][/us/stat/101/1330-369], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 1306 and 1307 of this title\] shall apply to plan years beginning after December 31, 1987.
 
->     “(2) __Separate accounting.—__ 
+>     “(2)  __Separate accounting__  __.—__ 
 
 >     The amendments made by subsection (d) \[amending this section\] shall apply to fiscal years beginning after September 30, 1988.”
 

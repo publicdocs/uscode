@@ -55,17 +55,17 @@
 
 [Pub. L. 103–3, title IV, § 405][/us/pl/103/3/s405], Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26], provided that:
 
->     “(a) __Title III.—__ 
+>     “(a)  __Title III__  __.—__ 
 
 >     Title III \[enacting subchapter II of this chapter\] shall take effect on the date of the enactment of this Act \[Feb. 5, 1993\].
 
 >     “(b) __Other Titles.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), titles I, II, and V and this title \[enacting subchapters I and III of this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, and amending [section 2105 of Title 5][/us/usc/t5/s2105]\] shall take effect 6 months after the date of the enactment of this Act.
 
->         “(2) __Collective bargaining agreements.—__ 
+>         “(2)  __Collective bargaining agreements__  __.—__ 
 
 >         In the case of a collective bargaining agreement in effect on the effective date prescribed by paragraph (1), title I \[enacting subchapter I of this chapter\] shall apply on the earlier of—
 

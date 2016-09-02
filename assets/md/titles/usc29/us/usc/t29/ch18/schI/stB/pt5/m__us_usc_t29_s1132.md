@@ -99,17 +99,17 @@
 
         (10)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Two pars. (10) have been enacted.__  __ </sup></sup> __  __Secretarial enforcement authority relating to use of genetic information.—__ 
 
-            (A) __General rule.—__ 
+            (A)  __General rule__  __.—__ 
 
             The Secretary may impose a penalty against any plan sponsor of a group health plan, or any health insurance issuer offering health insurance coverage in connection with the plan, for any failure by such sponsor or issuer to meet the requirements of subsection (a)(1)(F), (b)(3), (c), or (d) of [section 1182 of this title][/us/usc/t29/s1182] or section 1181 or 1182(b)(1) of this title with respect to genetic information, in connection with the plan.
 
             (B) __Amount.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The amount of the penalty imposed by subparagraph (A) shall be $100 for each day in the noncompliance period with respect to each participant or beneficiary to whom such failure relates.
 
-                (ii) __Noncompliance period.—__ 
+                (ii)  __Noncompliance period__  __.—__ 
 
                 For purposes of this paragraph, the term “noncompliance period” means, with respect to any failure, the period—
 
@@ -117,11 +117,11 @@
 
                     (II) ending on the date the failure is corrected.
 
-            (C) __Minimum penalties where failure discovered.—__ 
+            (C)  __Minimum penalties where failure discovered__  __.—__ 
 
             Notwithstanding clauses (i) and (ii) of subparagraph (D):
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In the case of 1 or more failures with respect to a participant or beneficiary—
 
@@ -131,17 +131,17 @@
 
                     the amount of penalty imposed by subparagraph (A) by reason of such failures with respect to such participant or beneficiary shall not be less than $2,500.
 
-                (ii) __Higher minimum penalty where violations are more than de minimis.—__ 
+                (ii)  __Higher minimum penalty where violations are more than de minimis__  __.—__ 
 
                 To the extent violations for which any person is liable under this paragraph for any year are more than de minimis, clause (i) shall be applied by substituting “$15,000” for “$2,500” with respect to such person.
 
             (D) __Limitations.—__ 
 
-                (i) __Penalty not to apply where failure not discovered exercising reasonable diligence.—__ 
+                (i)  __Penalty not to apply where failure not discovered exercising reasonable diligence__  __.—__ 
 
                 No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the person otherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
 
-                (ii) __Penalty not to apply to failures corrected within certain periods.—__ 
+                (ii)  __Penalty not to apply to failures corrected within certain periods__  __.—__ 
 
                 No penalty shall be imposed by subparagraph (A) on any failure if—
 
@@ -149,7 +149,7 @@
 
                     (II) such failure is corrected during the 30-day period beginning on the first date the person otherwise liable for such penalty knew, or exercising reasonable diligence would have known, that such failure existed.
 
-                (iii) __Overall limitation for unintentional failures.—__ 
+                (iii)  __Overall limitation for unintentional failures__  __.—__ 
 
                 In the case of failures which are due to reasonable cause and not to willful neglect, the penalty imposed by subparagraph (A) for failures shall not exceed the amount equal to the lesser of—
 
@@ -157,11 +157,11 @@
 
                     (II) $500,000.
 
-            (E) __Waiver by secretary.—__ 
+            (E)  __Waiver by secretary__  __.—__ 
 
             In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by subparagraph (A) to the extent that the payment of such penalty would be excessive relative to the failure involved.
 
-            (F) __Definitions.—__ 
+            (F)  __Definitions__  __.—__ 
 
             Terms used in this paragraph which are defined in [section 1191b of this title][/us/usc/t29/s1191b] shall have the meanings provided such terms in such section.
 
@@ -453,11 +453,11 @@
 
 [Pub. L. 100–203, title IX, § 9342(d)][/us/pl/100/203/s9342/d], Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 1023, 1024, and 1113 of this title\] shall apply with respect to reports required to be filed after December 31, 1987.
 
->     “(2) __Regulations.—__ 
+>     “(2)  __Regulations__  __.—__ 
 
 >     The Secretary of Labor shall issue the regulations required to carry out the amendments made by subsection (c) \[amending this section\] not later than January 1, 1989.”
 

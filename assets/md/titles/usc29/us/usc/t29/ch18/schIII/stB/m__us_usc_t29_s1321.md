@@ -129,7 +129,7 @@
 
 [Pub. L. 109–280, title IV, § 407(d)][/us/pl/109/280/s407/d], Aug. 17, 2006, [120 Stat. 931][/us/stat/120/931], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1322, 1343, and 1344 of this title\] shall apply to plan terminations—
 
@@ -137,7 +137,7 @@
 
 >         “(B) under section 4042 of such Act ([29 U.S.C. 1342][/us/usc/t29/s1342]) with respect to which notices of determination are provided under such section after such date.
 
->     “(2) __Conforming amendments.—__ 
+>     “(2)  __Conforming amendments__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending this section and [section 1343 of this title][/us/usc/t29/s1343]\] shall take effect on January 1, 2006.”
 

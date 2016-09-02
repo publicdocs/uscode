@@ -121,17 +121,17 @@
 
 >         “(4) __Elimination of double death benefits.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of a participant described in paragraph (2), death benefits (other than a qualified joint and survivor annuity or a qualified preretirement survivor annuity) payable to any beneficiary shall be reduced by the amount payable to the surviving spouse of such participant by reason of paragraph (2). The reduction under the preceding sentence shall be made on the basis of the respective present values (as of the date of the participant’s death) of such death benefits and the amount so payable to the surviving spouse.
 
->             “(B) __Spouse may waive provisions of paragraph (2).—__ 
+>             “(B)  __Spouse may waive provisions of paragraph__  __(2).—__ 
 
 >             In the case of any participant described in paragraph (2), the surviving spouse of such participant may waive the provisions of paragraph (2). Such waiver shall be made on or before the close of the second plan year to which the amendments made by section 103 of this Act \[amending [section 1055 of this title][/us/usc/t29/s1055]\] apply. Such a waiver shall not be treated as a transfer of property for purposes of chapter 12 of the Internal Revenue Code of 1986 and shall not be treated as an assignment or alienation for purposes of section 401(a)(13) of the Internal Revenue Code of 1986 \[[section 401(a)(13) of Title 26][/us/usc/t26/s401/a/13]\] or section 206(d) of the Employee Retirement Income Security Act of 1974 \[[section 1056 of this title][/us/usc/t29/s1056]\].
 
->     “(d) __Amendments Relating to Assignments in Divorce, Etc.__ 
+>     “(d) __Amendments Relating to Assignments in Divorce, Etc., Proceedings.—__ 
 
->     , Proceedings.—The amendments made by sections 104 and 204 \[amending sections 1056 and 1144 of this title and sections 72, 401, 402 and 414 of Title 26\] shall take effect on January 1, 1985, except that in the case of a domestic relations order entered before such date, the plan administrator—
+>     The amendments made by sections 104 and 204 \[amending sections 1056 and 1144 of this title and sections 72, 401, 402 and 414 of Title 26\] shall take effect on January 1, 1985, except that in the case of a domestic relations order entered before such date, the plan administrator—
 
 >         “(1) shall treat such order as a qualified domestic relations order if such administrator is paying benefits pursuant to such order on such date, and
 

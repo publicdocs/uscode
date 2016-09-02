@@ -483,11 +483,11 @@
 
 [Pub. L. 109–280, title II, § 201(b)][/us/pl/109/280/s201/b], Aug. 17, 2006, [120 Stat. 867][/us/stat/120/867], as amended by [Pub. L. 110–458, title I, § 102(a)][/us/pl/110/458/s102/a], Dec. 23, 2008, [122 Stat. 5100][/us/stat/122/5100], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     A multiemployer plan meeting the criteria of paragraph (2) may adopt, use, or cease using, the shortfall funding method and such adoption, use, or cessation of use of such method, shall be deemed approved by the Secretary of the Treasury under section 302(d)(1) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1082(d)(1)][/us/usc/t29/s1082/d/1]\] and section 412(d)(1) of the Internal Revenue Code of 1986 \[[26 U.S.C. 412(d)(1)][/us/usc/t26/s412/d/1]\].
 
->     “(2) __Criteria.—__ 
+>     “(2)  __Criteria__  __.—__ 
 
 >     A multiemployer pension plan meets the criteria of this clause if—
 
@@ -495,15 +495,15 @@
 
 >         “(B) the plan is not operating under an amortization period extension under section 304(d) of such Act \[[29 U.S.C. 1084(d)][/us/usc/t29/s1084/d]\] and did not operate under such an extension during such 5-year period.
 
->     “(3) __Shortfall funding method defined.—__ 
+>     “(3)  __Shortfall funding method defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘shortfall funding method’ means the shortfall funding method described in Treasury Regulations section 1.412(c)(1)–2 (26 CFR 1.412(c)(1)–2).
 
->     “(4) __Benefit restrictions to apply.—__ 
+>     “(4)  __Benefit restrictions to apply__  __.—__ 
 
 >     The benefit restrictions under section 302(c)(7) of such Act \[[29 U.S.C. 1082(c)(7)][/us/usc/t29/s1082/c/7]\] and section 412(c)(7) of such Code \[[26 U.S.C. 412(c)(7)][/us/usc/t26/s412/c/7]\] shall apply during any period a multiemployer plan is on the shortfall funding method pursuant to this subsection.
 
->     “(5) __Use of shortfall method not to preclude other options.—__ 
+>     “(5)  __Use of shortfall method not to preclude other options__  __.—__ 
 
 >     Nothing in this subsection shall be construed to affect a multiemployer plan’s ability to adopt the shortfall funding method with the Secretary’s permission under otherwise applicable regulations or to affect a multiemployer plan’s right to change funding methods, with or without the Secretary’s consent, as provided in applicable rules and regulations.”
 

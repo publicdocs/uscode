@@ -129,11 +129,11 @@
 
 [Pub. L. 102–569, title I, § 138][/us/pl/102/569/s138], Oct. 29, 1992, [106 Stat. 4397][/us/stat/106/4397], as amended by [Pub. L. 103–73, title I, § 102(3)][/us/pl/103/73/s102/3], Aug. 11, 1993, [107 Stat. 718][/us/stat/107/718], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[enacting sections 718 to 718b, 725 to 728a, and 740 to 744 of this title, amending this section and sections 701, 705 to 707, 709, 711 to 715, 717, 720 to 724, 730 to 732, 740, 741, 750, 761a to 762, 770, 772 to 776, 777a, 777b, 777d to 777f, 780, 781, 783, 792 to 794, 795, 795d, 795e, and 795h of this title, repealing [section 752 of this title][/us/usc/t29/s752], enacting provisions set out as notes under [section 712 of this title][/us/usc/t29/s712], and amending provisions set out as a note under [section 701 of this title][/us/usc/t29/s701]\] and the amendments made by this title shall take effect on the date of enactment of this Act \[Oct. 29, 1992\].
 
->     “(b) __Compliance.—__ 
+>     “(b)  __Compliance__  __.—__ 
 
 >     Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 \[[29 U.S.C. 720][/us/usc/t29/s720] et seq.\] shall comply with the amendments made by this subtitle \[subtitle B (§§ 121–138) of title I of [Pub. L. 102–569][/us/pl/102/569], enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing [section 752 of this title][/us/usc/t29/s752]\], as soon as is practicable after the date of enactment of this Act \[Oct. 29, 1992\], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 \[[29 U.S.C. 701][/us/usc/t29/s701] et seq.\], but not later than October 1, 1993.”
 

@@ -155,7 +155,7 @@
 
     Subsec. (d). [Pub. L. 112–141, § 40231(a)(1)][/us/pl/112/141/s40231/a/1], designated existing provisions as par. (1) and added pars. (2) to (7).
 
-    Subsec. (e). [Pub. L. 112–141, § 40231(a)(2)][/us/pl/112/141/s40231/a/2], designated exisiting provisions as par. (1), substituted “the corporation, but in no case less than 4 times a year with not fewer than 2 members present. Not less than 1 meeting of the board of directors during each year shall be a joint meeting with the advisory committee under subsection (h).” for “the corporation.” in par. (1), and added par. (2).
+    Subsec. (e). [Pub. L. 112–141, § 40231(a)(2)][/us/pl/112/141/s40231/a/2], designated existing provisions as par. (1), substituted “the corporation, but in no case less than 4 times a year with not fewer than 2 members present. Not less than 1 meeting of the board of directors during each year shall be a joint meeting with the advisory committee under subsection (h).” for “the corporation.” in par. (1), and added par. (2).
 
     Subsec. (h)(1). [Pub. L. 112–141, § 40232(b)][/us/pl/112/141/s40232/b], inserted at end “In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under [section 1304 of this title][/us/usc/t29/s1304], the Advisory Committee shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.”
 
@@ -205,11 +205,11 @@
 
 [Pub. L. 112–141, div. D, title II, § 40231(e)][/us/pl/112/141/s40231/e], July 6, 2012, [126 Stat. 855][/us/stat/126/855], provided that:
 
->     “(1) __Formation of committees.—__ 
+>     “(1)  __Formation of committees__  __.—__ 
 
 >     It is the sense of Congress that the board of directors of the Pension Benefit Guaranty Corporation established under section 4002 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1302][/us/usc/t29/s1302]), as amended by this section, should form committees, including an audit committee and an investment committee composed of not less than 2 members, to enhance the overall effectiveness of the board of directors.
 
->     “(2) __Advisory committee.—__ 
+>     “(2)  __Advisory committee__  __.—__ 
 
 >     It is the sense of Congress that the advisory committee to the Pension Benefit Guaranty Corporation established under section 4002 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1302][/us/usc/t29/s1302]), as amended by this section, should provide to the board of directors of such corporation policy recommendations regarding changes to the law that would be beneficial to the corporation or the voluntary private pension system.”
 
@@ -217,7 +217,7 @@
 
 [Pub. L. 112–141, div. D, title II, § 40233(a)][/us/pl/112/141/s40233/a], July 6, 2012, [126 Stat. 857][/us/stat/126/857], provided that:
 
->     “(a) __Annual Peer Review of Insurance Modeling Systems.—__ 
+>     “(a)  __Annual Peer Review of Insurance Modeling Systems__  __.—__ 
 
 >     The Pension Benefit Guaranty Corporation shall contract with a capable agency or organization that is independent from the Corporation, such as the Social Security Administration, to conduct an annual peer review of the Corporation’s Single-Employer Pension Insurance Modeling System and the Corporation’s Multiemployer Pension Insurance Modeling System. The board of directors of the Corporation shall designate the agency or organization with which any such contract is entered into. The first of such annual peer reviews shall be initiated no later than 3 months after the date of enactment of this Act \[July 6, 2012\].”
 

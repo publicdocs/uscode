@@ -109,7 +109,7 @@
 
         (3)
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (C), the term “recovery ratio” means the ratio which—
 
@@ -273,7 +273,7 @@
 
 [Pub. L. 100–203, title IX, § 9312(b)(3)(B)][/us/pl/100/203/s9312/b/3/B], Dec. 22, 1987, [101 Stat. 1330–363][/us/stat/101/1330-363], as amended by [Pub. L. 101–239, title VII, § 7881(f)(1)][/us/pl/101/239/s7881/f/1], (6), Dec. 19, 1989, [103 Stat. 2440][/us/stat/103/2440], provided that:
 
->     “(i) __In general.—__ 
+>     “(i)  __In general__  __.—__ 
 
 >     In the case of any plan termination to which the amendments made by this section \[amending sections 1301, 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing [section 1349 of this title][/us/usc/t29/s1349]\] apply and with respect to which notices of intent to terminate were provided on or before December 17, 1990—
 

@@ -347,7 +347,7 @@
 
 [Pub. L. 104–191, title I, § 101(g)][/us/pl/104/191/s101/g], Aug. 21, 1996, [110 Stat. 1953][/us/stat/110/1953], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this section, this section \[enacting this part and amending sections 1003, 1021, 1022, 1024, 1132, 1136, and 1144 of this title\] (and the amendments made by this section) shall apply with respect to group health plans for plan years beginning after June 30, 1997.
 
@@ -355,29 +355,29 @@
 
 >         “(A) __Period of coverage.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Subject to clause (ii), no period before July 1, 1996, shall be taken into account under part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (as added by this section) \[this part\] in determining creditable coverage.
 
->             “(ii) __Special rule for certain periods.—__ 
+>             “(ii)  __Special rule for certain periods__  __.—__ 
 
 >             The Secretary of Labor, consistent with section 104 \[[42 U.S.C. 300gg–92][/us/usc/t42/s300gg–92] note\], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
 
 >         “(B) __Certifications, etc.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Subject to clauses (ii) and (iii), subsection (e) of section 701 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1181(e)][/us/usc/t29/s1181/e]\](as added by this section) shall apply to events occurring after June 30, 1996.
 
->             “(ii) __No certification required to be provided before__  __june 1, 1997__  __.—__ 
+>             “(ii)  __No certification required to be provided before __  __june 1, 1997__  __.—__ 
 
 >             In no case is a certification required to be provided under such subsection before June 1, 1997.
 
->             “(iii) __Certification only on written request for events occurring before__  __october 1, 1996__  __.—__ 
+>             “(iii)  __Certification only on written request for events occurring before __  __october 1, 1996__  __.—__ 
 
 >             In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
 
->         “(C) __Transitional rule.—__ 
+>         “(C)  __Transitional rule__  __.—__ 
 
 >         In the case of an individual who seeks to establish creditable coverage for any period for which certification is not required because it relates to an event occurring before June 30, 1996—
 
@@ -385,7 +385,7 @@
 
 >             “(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan’s or issuer’s crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faith with the applicable requirements under the amendments made by this section \[enacting this part and amending sections 1003, 1021, 1022, 1024, 1132, 1136, and 1144 of this title\].
 
->     “(3) __Special rule for collective bargaining agreements.—__ 
+>     “(3)  __Special rule for collective bargaining agreements__  __.—__ 
 
 >     Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], part 7 of subtitle B of title I of Employee Retirement Income Security Act of 1974 \[this part\] (other than section 701(e) thereof \[[29 U.S.C. 1181(e)][/us/usc/t29/s1181/e]\]) shall not apply to plan years beginning before the later of—
 
@@ -395,11 +395,11 @@
 
 >         For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement of such part shall not be treated as a termination of such collective bargaining agreement.
 
->     “(4) __Timely regulations.—__ 
+>     “(4)  __Timely regulations__  __.—__ 
 
 >     The Secretary of Labor, consistent with section 104 \[[42 U.S.C. 300gg–92][/us/usc/t42/s300gg–92] note\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section.
 
->     “(5) __Limitation on actions.—__ 
+>     “(5)  __Limitation on actions__  __.—__ 
 
 >     No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements.”
 
@@ -409,11 +409,11 @@
 
 >     “(i) __Medicaid, chip, and employer-sponsored coverage coordination working group.—__ 
 
->         “(I) __In general.—__ 
+>         “(I)  __In general__  __.—__ 
 
 >         Not later than 60 days after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly establish a Medicaid, CHIP, and Employer-Sponsored Coverage Coordination Working Group (in this subparagraph referred to as the ‘Working Group’). The purpose of the Working Group shall be to develop the model coverage coordination disclosure form described in subclause (II) and to identify the impediments to the effective coordination of coverage available to families that include employees of employers that maintain group health plans and members who are eligible for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] or child health assistance or other health benefits coverage under title XXI of such Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\].
 
->         “(II) __Model coverage coordination disclosure form described.—__ 
+>         “(II)  __Model coverage coordination disclosure form described__  __.—__ 
 
 >         The model form described in this subclause is a form for plan administrators of group health plans to complete for purposes of permitting a State to determine the availability and cost-effectiveness of the coverage available under such plans to employees who have family members who are eligible for premium assistance offered under a State plan under title XIX or XXI of such Act and to allow for coordination of coverage for enrollees of such plans. Such form shall provide the following information in addition to such other information as the Working Group determines appropriate:
 
@@ -427,7 +427,7 @@
 
 >             “(ee) Any other information relevant to coverage under the plan.
 
->     “(ii) __Membership.—__ 
+>     “(ii)  __Membership__  __.—__ 
 
 >     The Working Group shall consist of not more than 30 members and shall be composed of representatives of—
 
@@ -447,25 +447,25 @@
 
 >         “(VIII) children and other beneficiaries of medical assistance under title XIX of the Social Security Act or child health assistance or other health benefits coverage under title XXI of such Act.
 
->     “(iii) __Compensation.—__ 
+>     “(iii)  __Compensation__  __.—__ 
 
 >     The members of the Working Group shall serve without compensation.
 
->     “(iv) __Administrative support.—__ 
+>     “(iv)  __Administrative support__  __.—__ 
 
 >     The Department of Health and Human Services and the Department of Labor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services and facilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
 
 >     “(v) __Report.—__ 
 
->         “(I) __Report by working group to the secretaries.—__ 
+>         “(I)  __Report by working group to the secretaries__  __.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act, the Working Group shall submit to the Secretary of Labor and the Secretary of Health and Human Services the model form described in clause (i)(II) along with a report containing recommendations for appropriate measures to address the impediments to the effective coordination of coverage between group health plans and the State plans under titles XIX and XXI of the Social Security Act.
 
->         “(II) __Report by secretaries to the congress.—__ 
+>         “(II)  __Report by secretaries to the congress__  __.—__ 
 
 >         Not later than 2 months after receipt of the report pursuant to subclause (I), the Secretaries shall jointly submit a report to each House of the Congress regarding the recommendations contained in the report under such subclause.
 
->     “(vi) __Termination.—__ 
+>     “(vi)  __Termination__  __.—__ 
 
 >     The Working Group shall terminate 30 days after the date of the issuance of its report under clause (v).”
 

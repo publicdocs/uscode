@@ -59,11 +59,11 @@
 
 [Pub. L. 105–220, title I, § 199A][/us/pl/105/220/s199A], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], as amended by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(h)(3)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–435, provided that:
 
->     “(a) __Preparation.—__ 
+>     “(a)  __Preparation__  __.—__ 
 
 >     After consultation with the appropriate committees of Congress and the Director of the Office of Management and Budget, the Secretary shall prepare recommended legislation containing technical and conforming amendments to reflect the changes made by this subtitle \[subtitle F (§§ 199, 199A) of title I of [Pub. L. 105–220][/us/pl/105/220], repealing sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737, 1751 to 1791h, 1792 to 1792b, and 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacting provisions set out as notes under sections 1501 and 2301 of this title and [section 11421 of Title 42][/us/usc/t42/s11421], and repealing provisions set out as notes under sections 1501 and 2301 of this title and [section 1255a of Title 8][/us/usc/t8/s1255a], Aliens and Nationality\].
 
->     “(b) __Submission to Congress.—__ 
+>     “(b)  __Submission to Congress__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit to Congress the recommended legislation referred to under subsection (a).”
 

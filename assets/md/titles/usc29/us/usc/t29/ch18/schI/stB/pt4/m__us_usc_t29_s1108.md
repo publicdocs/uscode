@@ -177,7 +177,7 @@
 
                 (ii) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by a fiduciary or fiduciaries in accordance with regulations prescribed by the Secretary.
 
-        (18) __Foreign exchange transactions.—__ 
+        (18)  __Foreign exchange transactions__  __.—__ 
 
         Any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either), and a plan (as defined in [section 1002(3) of this title][/us/usc/t29/s1002/3]) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other party in interest, if—
 
@@ -189,7 +189,7 @@
 
             (D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction.
 
-        (19) __Cross trading.—__ 
+        (19)  __Cross trading__  __.—__ 
 
         Any transaction described in sections 1106(a)(1)(A) and 1106(b)(2) of this title involving the purchase and sale of a security between a plan and any other account managed by the same investment manager, if—
 

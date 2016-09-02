@@ -383,7 +383,7 @@
 
             (v) the term “rural telephone cooperative association” means an organization described in paragraph (4) or (6) of [section 501(c) of title 26][/us/usc/t26/s501/c] which is exempt from tax under [section 501(a) of title 26][/us/usc/t26/s501/a] and at least 80 percent of the members of which are organizations engaged primarily in providing telephone service to rural areas of the United States on a mutual, cooperative, or other basis.
 
-    (41)  __ <sup>\[__  __4__  __\]</sup> __  __ <sup><sup> __  __4__  __ So in original. Two pars. (41) have been enacted.__  __ </sup></sup> __  __Single-employer plan.—__ 
+    (41)  __ <sup>\[__  __4__  __\]</sup> __  __ <sup><sup> __  __4__  __ So in original. Two pars. (41) have been enacted.__  __ </sup></sup> __   __Single-employer plan__  __.—__ 
 
     The term “single-employer plan” means an employee benefit plan other than a multiemployer plan.
 
