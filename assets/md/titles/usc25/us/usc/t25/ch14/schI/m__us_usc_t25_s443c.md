@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443b.md) | [Next](./../../../../..//us/usc/t25/ch14/schII/m__us_usc_t25_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs443c)
+[Previous](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443b.md) | [Next](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs443c)
 
 ## § 443c. Emergency plan for Indian safety and health
 
@@ -105,17 +105,9 @@
 
     Subsec. (f)(2)(B). [Pub. L. 111–291, § 831(2)][/us/pl/111/291/s831/2], substituted “not more than $602,619,000” for “50 percent”.
 
-§§ 444 to 449. __Repealed.__  __[__  __Aug. 5, 1954, ch. 658, § 5__  __][/us/act/1954-08-05/ch658/s5]__  __,__  __[__  __68 Stat. 675__  __][/us/stat/68/675]__ 
-
-    Sections, [act Apr. 3, 1952, ch. 129][/us/act/1952-04-03/ch129], §§ 1–6, [66 Stat. 35][/us/stat/66/35], related to Indian hospital services and facilities. See section 2001 et seq. of Title 42, The Public Health and Welfare.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective July 1, 1959, see section 6 of act Aug. 5, 1954, set out as an Effective Date note under [section 2001 of Title 42][/us/usc/t42/s2001], The Public Health and Welfare.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443b.md) | [Next](./../../../../..//us/usc/t25/ch14/schII/m__us_usc_t25_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs443c)
+[Previous](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443b.md) | [Next](./../../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_s443d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs443c)
 
 ----------
 ----------
@@ -138,10 +130,5 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/pl/111/291/s831/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs831%2F1
 [/us/pl/111/291/s831/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs831%2F2
-[/us/act/1954-08-05/ch658/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658%2Fs5
-[/us/stat/68/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F675
-[/us/act/1952-04-03/ch129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-03%2Fch129
-[/us/stat/66/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F35
-[/us/usc/t42/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2001
 
 
