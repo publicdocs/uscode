@@ -121,7 +121,7 @@
 
 > “This title \[see Tables for classification\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
 
- __Holding Salaries of Members of Congress in Escrow Upon Failure to Agree to Budget Resolution__ 
+ __Holding Salaries of Members of Congress in Escrow Upon Failure To Agree to Budget Resolution__ 
 
 [Pub. L. 113–3, § 3][/us/pl/113/3/s3], Feb. 4, 2013, [127 Stat. 51][/us/stat/127/51], provided that:
 

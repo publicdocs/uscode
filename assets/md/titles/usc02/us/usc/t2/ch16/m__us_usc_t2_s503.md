@@ -51,7 +51,7 @@
 
     No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) from—
 
-        (1) funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in [section 431 of this title][/us/usc/t2/s431]);
+        (1) funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in [section 30101 of title 52][/us/usc/t52/s30101]);
 
         (2) funds received as reimbursement for expenses incurred by the Senator or Member in connection with personal services provided by the Senator or Member to the person making the reimbursement; or
 
@@ -178,7 +178,7 @@
 ----------
 ----------
 
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/usc/t39/s3210/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210%2Fa%2F6%2FD
 [/us/usc/t39/s3210/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210%2Fd%2F7%2FB
 [/us/usc/t39/s3210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210%2Fb

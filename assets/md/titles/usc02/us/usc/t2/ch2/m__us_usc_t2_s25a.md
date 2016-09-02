@@ -41,7 +41,7 @@
 
 [Pub. L. 91–405, title II, § 206(b)][/us/pl/91/405/s206/b], Sept. 22, 1970, [84 Stat. 855][/us/stat/84/855], provided that: 
 
-> “This title and the amendments made by this title \[enacting this section and [section 25b of this title][/us/usc/t2/s25b] and amending [section 2106 of Title 5][/us/usc/t5/s2106], Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and [section 1973i of Title 42][/us/usc/t42/s1973i], The Public Health and Welfare\] shall take effect on the date of its enactment \[Sept. 22, 1970\].”
+> “This title and the amendments made by this title \[enacting this section and [section 25b of this title][/us/usc/t2/s25b] and amending [section 2106 of Title 5][/us/usc/t5/s2106], Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and [section 10307 of Title 52][/us/usc/t52/s10307], Voting and Elections\] shall take effect on the date of its enactment \[Sept. 22, 1970\].”
 
 ----------
 
@@ -58,6 +58,6 @@
 [/us/stat/84/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F855
 [/us/usc/t2/s25b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs25b
 [/us/usc/t5/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2106
-[/us/usc/t42/s1973i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973i
+[/us/usc/t52/s10307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10307
 
 

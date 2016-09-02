@@ -199,7 +199,7 @@ A former subsec. (k) authorized additional professional staff members and cleric
 
     [Pub. L. 91–510, § 1][/us/pl/91/510/s1], Oct. 26, 1970, [84 Stat. 1140][/us/stat/84/1140], provided that [Pub. L. 91–510][/us/pl/91/510] \[see Tables for classification\] may be cited as the “Legislative Reorganization Act of 1970.”
 
-    [Act Aug. 2, 1946, ch. 753, § 1(a)][/us/act/1946-08-02/ch753/s1/a], [60 Stat. 812][/us/stat/60/812] \[see Tables for classification\], may be cited as the “Legislative Reorganization Act of 1946.”
+    [Act Aug. 2, 1946, ch. 753, § 1(a)][/us/act/1946-08-02/ch753/s1/a], [60 Stat. 812][/us/stat/60/812], provided that such Act \[see Tables for classification\] may be cited as the “Legislative Reorganization Act of 1946.”
 
  __Travel for Studies and Examinations of Executive Agencies__ 
 

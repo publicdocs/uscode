@@ -13,37 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s441g.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s441i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441h)
 
-## § 441h. Fraudulent misrepresentation of campaign authority
+## § 441h. Transferred
 
-    (a) __In general__ 
+ __Codification__ 
 
-    No person who is a candidate for Federal office or an employee or agent of such a candidate shall—
-
-        (1) fraudulently misrepresent himself or any committee or organization under his control as speaking or writing or otherwise acting for or on behalf of any other candidate or political party or employee or agent thereof on a matter which is damaging to such other candidate or political party or employee or agent thereof; or
-
-        (2) willfully and knowingly participate in or conspire to participate in any plan, scheme, or design to violate paragraph (1).
-
-    (b) __Fraudulent solicitation of funds__ 
-
-    No person shall—
-
-        (1) fraudulently misrepresent the person as speaking, writing, or otherwise acting for or on behalf of any candidate or political party or employee or agent thereof for the purpose of soliciting contributions or donations; or
-
-        (2) willfully and knowingly participate in or conspire to participate in any plan, scheme, or design to violate paragraph (1).
-
-([Pub. L. 92–225, title III, § 322][/us/pl/92/225/s322], formerly § 327, as added [Pub. L. 94–283, title I, § 112(2)][/us/pl/94/283/s112/2], May 11, 1976, [90 Stat. 494][/us/stat/90/494]; renumbered § 322, [Pub. L. 96–187, title I, § 105(5)][/us/pl/96/187/s105/5], Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354]; amended [Pub. L. 107–155, title III, § 309][/us/pl/107/155/s309], Mar. 27, 2002, [116 Stat. 104][/us/stat/116/104].)
-
- __Prior Provisions__ 
-
-    A prior [section 322 of Pub. L. 92–225][/us/pl/92/225/s322] was renumbered section 317, and is classified to [section 441c of this title][/us/usc/t2/s441c].
-
- __Amendments__ 
-
-    2002—[Pub. L. 107–155][/us/pl/107/155] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
-
- __Effective Date of 2002 Amendment__ 
-
-    Amendment by [Pub. L. 107–155][/us/pl/107/155] effective Nov. 6, 2002, see [section 402 of Pub. L. 107–155][/us/pl/107/155/s402], set out as an Effective Date of 2002 Amendment; Regulations note under [section 431 of this title][/us/usc/t2/s431].
+    Section 441h was editorially reclassified as [section 30124 of Title 52][/us/usc/t52/s30124], Voting and Elections.
 
 ----------
 
@@ -52,18 +26,6 @@
 ----------
 ----------
 
-[/us/pl/92/225/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs322
-[/us/pl/94/283/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs112%2F2
-[/us/stat/90/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F494
-[/us/pl/96/187/s105/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs105%2F5
-[/us/stat/93/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1354
-[/us/pl/107/155/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs309
-[/us/stat/116/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F104
-[/us/pl/92/225/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs322
-[/us/usc/t2/s441c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441c
-[/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
-[/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
-[/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30124
 
 

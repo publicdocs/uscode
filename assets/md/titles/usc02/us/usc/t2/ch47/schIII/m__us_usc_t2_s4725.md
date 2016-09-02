@@ -89,7 +89,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–90, title III, § 314(g)][/us/pl/102/90/s314/g], Aug. 14, 1991, [105 Stat. 470][/us/stat/105/470]; as amended by [Pub. L. 102–378, § 4(c)][/us/pl/102/378/s4/c], Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358], provided that:
+[Pub. L. 102–90, title III, § 314(g)][/us/pl/102/90/s314/g], Aug. 14, 1991, [105 Stat. 470][/us/stat/105/470], as amended by [Pub. L. 102–378, § 4(c)][/us/pl/102/378/s4/c], Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358], provided that:
 
 >     “(1) The amendments made by subsections (b) through (f) \[amending this section, section 505 of the Ethics in Government Act of 1978, [Pub. L. 95–521][/us/pl/95/521], set out in the Appendix to Title 5, Government Organization and Employees, and [section 7701 of Title 26][/us/usc/t26/s7701], Internal Revenue Code\] shall take effect on January 1, 1992.
 

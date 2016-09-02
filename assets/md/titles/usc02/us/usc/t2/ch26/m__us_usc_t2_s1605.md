@@ -83,7 +83,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-    Except as otherwise provided, amendment by [Pub. L. 110–81][/us/pl/110/81] applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see [section 215 of Pub. L. 110–81][/us/pl/110/81/s215], set out as a note under [section 434 of this title][/us/usc/t2/s434].
+    Except as otherwise provided, amendment by [Pub. L. 110–81][/us/pl/110/81] applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see [section 215 of Pub. L. 110–81][/us/pl/110/81/s215], set out as a note under [section 30104 of Title 52][/us/usc/t52/s30104], Voting and Elections.
 
 ----------
 
@@ -107,6 +107,6 @@
 [/us/pl/110/81/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs209%2Fa
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/110/81/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs215
-[/us/usc/t2/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434
+[/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104
 
 

@@ -29,7 +29,7 @@
 
     (d) __Definition__ 
 
-        In this section, the terms “national committee” and “political party” have the meaning given such terms in [section 431 of this title][/us/usc/t2/s431].
+        In this section, the terms “national committee” and “political party” have the meaning given such terms in [section 30101 of title 52][/us/usc/t52/s30101].
 
 ([Pub. L. 109–289, div. B, title II, § 20702(b)][/us/pl/109/289/s20702/b], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 38][/us/stat/121/38].)
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/109/289/s20702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20702%2Fb
 [/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
 [/us/stat/121/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F38

@@ -63,7 +63,7 @@
 
             (A) __Deadline for transmittal of absentee ballots__ 
 
-                In conducting a special election held under this subsection to fill a vacancy in its representation, the State shall ensure to the greatest extent practicable (including through the use of electronic means) that absentee ballots for the election are transmitted to absent uniformed services voters and overseas voters (as such terms are defined in the Uniformed and Overseas Citizens Absentee Voting Act \[[42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.\]) not later than 15 days after the Speaker of the House of Representatives announces that the vacancy exists.
+                In conducting a special election held under this subsection to fill a vacancy in its representation, the State shall ensure to the greatest extent practicable (including through the use of electronic means) that absentee ballots for the election are transmitted to absent uniformed services voters and overseas voters (as such terms are defined in the Uniformed and Overseas Citizens Absentee Voting Act \[[52 U.S.C. 20301][/us/usc/t52/s20301] et seq.\]) not later than 15 days after the Speaker of the House of Representatives announces that the vacancy exists.
 
             (B) __Period for ballot transit time__ 
 
@@ -81,37 +81,37 @@
 
         Nothing in this subsection may be construed to affect the application to special elections under this subsection of any Federal law governing the administration of elections for Federal office (including any law providing for the enforcement of any such law), including, but not limited to, the following:
 
-            (A) The Voting Rights Act of 1965 ([42 U.S.C. 1973][/us/usc/t42/s1973] et seq.), as amended.
+            (A) The Voting Rights Act of 1965 ([42 U.S.C. 1973][/us/usc/t42/s1973] et seq.) \[now [52 U.S.C. 10301][/us/usc/t52/s10301] et seq.\], as amended.
 
-            (B) The Voting Accessibility for the Elderly and Handicapped Act ([42 U.S.C. 1973ee][/us/usc/t42/s1973ee] et seq.), as amended.
+            (B) The Voting Accessibility for the Elderly and Handicapped Act ([42 U.S.C. 1973ee][/us/usc/t42/s1973ee] et seq.) \[now [52 U.S.C. 20101][/us/usc/t52/s20101] et seq.\], as amended.
 
-            (C) The Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.), as amended.
+            (C) The Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.) \[now [52 U.S.C. 20301][/us/usc/t52/s20301] et seq.\], as amended.
 
-            (D) The National Voter Registration Act of 1993 ([42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.), as amended.
+            (D) The National Voter Registration Act of 1993 ([42 U.S.C. 1973gg][/us/usc/t42/s1973gg] et seq.) \[now [52 U.S.C. 20501][/us/usc/t52/s20501] et seq.\], as amended.
 
             (E) The Americans With Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.), as amended.
 
             (F) The Rehabilitation Act of 1973 ([29 U.S.C. 701][/us/usc/t29/s701] et seq.), as amended.
 
-            (G) The Help America Vote Act of 2002 ([42 U.S.C. 15301][/us/usc/t42/s15301] et seq.), as amended.
+            (G) The Help America Vote Act of 2002 ([42 U.S.C. 15301][/us/usc/t42/s15301] et seq.) \[now [52 U.S.C. 20901][/us/usc/t52/s20901] et seq.\], as amended.
 
 (R.S. § 26; [Pub. L. 109–55, title III, § 301][/us/pl/109/55/s301], Aug. 2, 2005, [119 Stat. 588][/us/stat/119/588].)
 
  __References in Text__ 
 
-    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], as amended, which is classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-    The Voting Rights Act of 1965, referred to in subsec. (b)(7)(A), is [Pub. L. 89–110][/us/pl/89/110], Aug. 6, 1965, [79 Stat. 437][/us/stat/79/437], as amended, which is classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The Voting Rights Act of 1965, referred to in subsec. (b)(7)(A), is [Pub. L. 89–110][/us/pl/89/110], Aug. 6, 1965, [79 Stat. 437][/us/stat/79/437], which was formerly classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§ 10301 et seq.), 105 (§ 10501 et seq.), and 107 (§ 10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-    The Voting Accessibility for the Elderly and Handicapped Act, referred to in subsec. (b)(7)(B), is [Pub. L. 98–435][/us/pl/98/435], Sept. 28, 1984, [98 Stat. 1678][/us/stat/98/1678], as amended, which is classified generally to subchapter I–F (§ 1973ee et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The Voting Accessibility for the Elderly and Handicapped Act, referred to in subsec. (b)(7)(B), is [Pub. L. 98–435][/us/pl/98/435], Sept. 28, 1984, [98 Stat. 1678][/us/stat/98/1678], which was formerly classified generally to subchapter I–F (§ 1973ee et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapter 201 (§ 20101 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-    The National Voter Registration Act of 1993, referred to in subsec. (b)(7)(D), is [Pub. L. 103–31][/us/pl/103/31], May 20, 1993, [107 Stat. 77][/us/stat/107/77], as amended, which is classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The National Voter Registration Act of 1993, referred to in subsec. (b)(7)(D), is [Pub. L. 103–31][/us/pl/103/31], May 20, 1993, [107 Stat. 77][/us/stat/107/77], which was formerly classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§ 20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
     The Americans with Disabilities Act of 1990, referred to in subsec. (b)(7)(E), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
     The Rehabilitation Act of 1973, referred to in subsec. (b)(7)(F), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
 
-    The Help America Vote Act of 2002, referred to in subsec. (b)(7)(G), is [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], which is classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15301 of Title 42][/us/usc/t42/s15301] and Tables.
+    The Help America Vote Act of 2002, referred to in subsec. (b)(7)(G), is [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], which was formerly classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 209 (§ 20901 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -133,28 +133,29 @@
 ----------
 
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 [/us/usc/t42/s1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973
+[/us/usc/t52/s10301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10301
 [/us/usc/t42/s1973ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ee
+[/us/usc/t52/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20101
 [/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 [/us/usc/t42/s1973gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg
+[/us/usc/t52/s20501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20501
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t42/s15301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15301
+[/us/usc/t52/s20901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20901
 [/us/pl/109/55/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs301
 [/us/stat/119/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F588
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 [/us/pl/89/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F110
 [/us/stat/79/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F437
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 [/us/pl/98/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F435
 [/us/stat/98/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1678
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 [/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/stat/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F77
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
@@ -163,7 +164,6 @@
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
 [/us/stat/116/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1666
-[/us/usc/t42/s15301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15301
 [/us/act/1872-02-02/ch11/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-02-02%2Fch11%2Fs4
 [/us/stat/17/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F28
 [/us/pl/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55

@@ -77,7 +77,7 @@
 
                 (iv) to pay the costs of a meeting, retreat, conference, or other similar event held by, or in the name of, 1 or more covered legislative branch officials or covered executive branch officials,
 
-                except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under [section 434 of this title][/us/usc/t2/s434];
+                except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under [section 30104 of title 52][/us/usc/t52/s30104];
 
             (F) the name of each Presidential library foundation, and each Presidential inaugural committee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and
 
@@ -91,7 +91,7 @@
 
         (2) __Definition__ 
 
-            In this subsection, the term “leadership PAC” has the meaning given such term in [section 434(i)(8)(B) of this title][/us/usc/t2/s434/i/8/B].
+            In this subsection, the term “leadership PAC” has the meaning given such term in [section 30104(i)(8)(B) of title 52][/us/usc/t52/s30104/i/8/B].
 
     (e) __Electronic filing required__ 
 
@@ -135,7 +135,7 @@
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the first semiannual period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 \[[2 U.S.C. 1604(d)(1)][/us/usc/t2/s1604/d/1]\] (as added by this section) that begins after the date of the enactment of this Act \[Sept. 14, 2007\] and each succeeding semiannual period.”
 
-    Except as otherwise provided, amendment by [Pub. L. 110–81][/us/pl/110/81] applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see [section 215 of Pub. L. 110–81][/us/pl/110/81/s215], set out as a note under [section 434 of this title][/us/usc/t2/s434].
+    Except as otherwise provided, amendment by [Pub. L. 110–81][/us/pl/110/81] applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see [section 215 of Pub. L. 110–81][/us/pl/110/81/s215], set out as a note under [section 30104 of Title 52][/us/usc/t52/s30104], Voting and Elections.
 
 ----------
 
@@ -149,8 +149,8 @@
 [/us/usc/t2/s1603/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fb%2F4
 [/us/usc/t2/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fa
 [/us/usc/t2/s1603/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fb%2F6
-[/us/usc/t2/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434
-[/us/usc/t2/s434/i/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434%2Fi%2F8%2FB
+[/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104
+[/us/usc/t52/s30104/i/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104%2Fi%2F8%2FB
 [/us/pl/104/65/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs5
 [/us/stat/109/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F697
 [/us/pl/105/166/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs4%2Fc
@@ -181,6 +181,6 @@
 [/us/usc/t2/s1604/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1604%2Fd%2F1
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/110/81/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs215
-[/us/usc/t2/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434
+[/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104
 
 

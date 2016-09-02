@@ -25,7 +25,7 @@
 
  __Appropriation of Funds for Compensation of Members of Congress and for Administrative Expenses at Levels Authorized by Law and Recommended by the President for Federal Employees__ 
 
-    [Pub. L. 97–51, § 130(c)][/us/pl/97/51/s130/c], Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966], which related to appropriation of funds for compensation of Members of Congress and for administrative expenses at levels authorized by law and recommended by the President for federal employees, was editorially reclassified as [section 4502 of this title][/us/usc/t2/s4502].
+    [Pub. L. 97–51, § 130(c)][/us/pl/97/51/s130/c], Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966], which related to appropriation of funds for compensation of Members of Congress and for administrative expenses at levels authorized by law and recommended by the President for Federal employees, was editorially reclassified as [section 4502 of this title][/us/usc/t2/s4502].
 
  __Commission on Judicial and Congressional Salaries__ 
 

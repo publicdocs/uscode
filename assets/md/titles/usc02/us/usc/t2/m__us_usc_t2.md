@@ -15,7 +15,7 @@
 
 # Title 2—THE CONGRESS
 
-Current through 113-145not128u1
+Current through 113–163not159
 
 <table>
 
@@ -223,7 +223,7 @@ Current through 113-145not128u1
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fch14" data-uslm-ref="/us/usc/t2/ch14">14.</a>  </td>
 
-    <td> Federal Election Campaigns  </td>
+    <td> Federal Election Campaigns [Transferred or Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs431" data-uslm-ref="/us/usc/t2/s431">431</a>  </td>
 
@@ -1413,7 +1413,7 @@ omitted  </td>
 
     <td> 
 
-46a note (Pub. L. 92–607, ch. V, § 506(k), formerly § 506(h), Oct. 31, 1972, 86 Stat. 15071508)  </td>
+46a note (Pub. L. 92–607, ch. V, § 506(k), formerly § 506(h), Oct. 31, 1972, 86 Stat. 1507)  </td>
 
     <td> 
 
@@ -2901,7 +2901,7 @@ omitted  </td>
 
     <td> 
 
-60j note (Pub. L. 96–304, title I, § 107(d), July 8, 1980, 94 Stat. 890 )  </td>
+60j note (Pub. L. 96–304, title I, § 107(d), July 8, 1980, 94 Stat. 890)  </td>
 
     <td> 
 

@@ -127,7 +127,7 @@
 
     (9) __Report__ 
 
-        On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title and actions taken under it.
+        On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and actions taken under it.
 
     (10) __Implementing direct spending reductions for fiscal years 2014 and 2015__ 
 
@@ -141,7 +141,9 @@
 
     Section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011, referred to in par. (1)(B), is [section 401(b)(3)(B)(i)(II) of title IV of Pub. L. 112–25][/us/pl/112/25/s401/b/3/B/i/II], which is set out in a note under [section 900 of this title][/us/usc/t2/s900].
 
-    The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of [Pub. L. 113–67][/us/pl/113/67], Dec. 26, 2013, [127 Stat. 1165][/us/stat/127/1165]. For complete classification of this Act to the Code, see Tables.
+    This title, referred to in par. (9), means title II (§ 200 et seq.) of [Pub. L. 99–177][/us/pl/99/177], Dec. 12, 1985, [99 Stat. 1038][/us/stat/99/1038], known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of this title][/us/usc/t2/s900] and Tables.
+
+    The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of [Pub. L. 113–67][/us/pl/113/67], Dec. 26, 2013, [127 Stat. 1165][/us/stat/127/1165]. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 900 of this title][/us/usc/t2/s900] and Tables.
 
  __Prior Provisions__ 
 
@@ -201,27 +203,21 @@
 
 >     “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
 
- __Sequestration Order for Fiscal Year 2013 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended__ 
+ __Sequestration Order for Fiscal Year 2015 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended__ 
 
-    Order of President of the United States, dated Mar. 1, 2013, 78 F.R. 14633, provided:
+    Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365, provided:
 
-    By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act, as amended (the “Act”), [2 U.S.C. 901a][/us/usc/t2/s901a], I hereby order that budgetary resources in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 1, 2013.
+    By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a][/us/usc/t2/s901a], I hereby order that, on October 1, 2014, direct spending budgetary resources for fiscal year 2015 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 10, 2014.
 
-    Pursuant to sections 250(c)(6), 251A, and 255(e) of the Act, budgetary resources subject to sequestration shall be new budget authority, unobligated balances of defense function accounts carried over from prior fiscal years, direct spending authority, and obligation limitations.
-
-    All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of March 1, 2013, prepared pursuant to section 251A(11) of the Act.
+    All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of March 10, 2014, prepared pursuant to section 251A(9) of the Act.
 
                               Barack Obama.
 
- __Sequestration Order for Fiscal Year 2014 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended__ 
+    Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
 
-    Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409, provided:
+    2014—Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409.
 
-    By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act \[of 1985\] (the “Act”), as amended, [2 U.S.C. 901a][/us/usc/t2/s901a], I hereby order that, on October 1, 2013, direct spending budgetary resources for fiscal year 2014 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of April 10, 2013.
-
-    All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of April 10, 2013, prepared pursuant to section 251A(11) of the Act.
-
-                              Barack Obama.
+    2013—Order of President of the United States, dated Mar. 1, 2013, 78 F.R. 14633.
 
 ----------
 
@@ -255,8 +251,12 @@
 [/us/stat/128/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1077
 [/us/pl/112/25/s401/b/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs401%2Fb%2F3%2FB%2Fi%2FII
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038
+[/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/stat/127/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1165
+[/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/99/177/s251A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs251A
 [/us/pl/103/322/s310001/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs310001%2Fg%2F1
 [/us/stat/108/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2104
@@ -288,7 +288,6 @@
 [/us/stat/126/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2370
 [/us/usc/t2/s901a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901a
 [/us/usc/t2/s901/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fc%2F2
-[/us/usc/t2/s901a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901a
 [/us/usc/t2/s901a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901a
 
 

@@ -27,7 +27,7 @@
 
  __Increases in Compensation__ 
 
-    Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), see Salary Directives of President pro tempore of the Senate, under [section 4571 of this title][/us/usc/t2/s4571].
+    Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), see Salary Directives of President pro tempore of the Senate, set out as notes under [section 4571 of this title][/us/usc/t2/s4571].
 
 ----------
 

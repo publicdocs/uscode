@@ -209,7 +209,7 @@
 
  __Effective Date__ 
 
-    Section effective Aug. 2, 1946, see section 245 of that act, set out as a note under [section 4301 of this title][/us/usc/t2/s4301].
+    Section effective Aug. 2, 1946, see section 245 of act Aug. 2, 1946, set out as a note under [section 4301 of this title][/us/usc/t2/s4301].
 
  __Repeals__ 
 

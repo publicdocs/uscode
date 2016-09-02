@@ -17,7 +17,7 @@
 
     Effective fiscal year 1978 and each fiscal year thereafter, the expense allowances of the Majority and Minority Leaders of the Senate are increased to $40,000 each fiscal year for each leader: Provided, That, effective with the fiscal year 1983 and each fiscal year thereafter, the expense allowance of the Majority and Minority Whips of the Senate shall not exceed $10,000 each fiscal year for each Whip: Provided further, That, during the period beginning on January 3, 1977, and ending September 30, 1977, and during each fiscal year thereafter, the Vice President, the Majority Leader, the Minority Leader, the Majority Whip, and the Minority Whip may receive the expense allowance (a) as reimbursement for actual expenses incurred upon certification and documentation of such expenses by the Vice President, the respective Leader or the respective Whip, or (b) in equal monthly payments: Provided further, That effective January 3, 1977, the amounts paid to the Vice President, the Majority or Minority Leader of the Senate, or the Majority or Minority Whip of the Senate as reimbursement of actual expenses incurred upon certification and documentation pursuant to the second proviso of this section shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction, under title 26.
 
-([Pub. L. 95–26, title I][/us/pl/95/26], May 4, 1977, [91 Stat. 79][/us/stat/91/79]; [Pub. L. 95–94, title I, § 109][/us/pl/95/94/s109], Aug. 5, 1977, [91 Stat. 661][/us/stat/91/661]; [Pub. L. 95–355, title I][/us/pl/95/355], Sept. 8, 1978, [92 Stat. 532][/us/stat/92/532]; [Pub. L. 98–63, title I, § 101][/us/pl/98/63/s101], July 30, 1983, [97 Stat. 333][/us/stat/97/333]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 108–7, div. H, title I, § 1(b)(1)][/us/pl/108/7/s1/b/1], (c), Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349]; [Pub. L. 108–447, div. G, title I, § 13(a)(1)][/us/pl/108/447/s13/a/1], Dec. 8, 2004, [118 Stat. 3171][/us/stat/118/3171].)
+([Pub. L. 95–26, title I][/us/pl/95/26], May 4, 1977, [91 Stat. 79][/us/stat/91/79]; [Pub. L. 95–94, title I, § 109][/us/pl/95/94/s109], Aug. 5, 1977, [91 Stat. 661][/us/stat/91/661]; [Pub. L. 95–355, title I][/us/pl/95/355], Sept. 8, 1978, [92 Stat. 532][/us/stat/92/532]; [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 333][/us/stat/97/333]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 108–7, div. H, title I, § 1(b)(1)][/us/pl/108/7/s1/b/1], (c), Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349]; [Pub. L. 108–447, div. G, title I, § 13(a)(1)][/us/pl/108/447/s13/a/1], Dec. 8, 2004, [118 Stat. 3171][/us/stat/118/3171].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 [/us/stat/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F661
 [/us/pl/95/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355
 [/us/stat/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F532
-[/us/pl/98/63/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs101
+[/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
 [/us/stat/97/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F333
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
