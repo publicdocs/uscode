@@ -15,6 +15,10 @@
 
 ### Division C—Procurement
 
+ __Definitions__ 
+
+    For additional definitions of terms used in this division, with certain exceptions, see [section 102 of Title 40][/us/usc/t40/s102], Public Buildings, Property, and Works.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t41/stI/dB/ch23/m__us_usc_t41_s2313.md) | [Next](./../../../../..//us/usc/t41/stI/dC/ch31/m__us_usc_t41_stI_dC_ch31.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2FstI%2FdC)
@@ -22,5 +26,6 @@
 ----------
 ----------
 
+[/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
 
 
