@@ -21,7 +21,7 @@
 
     (b) __Employment status__ 
 
-    A resident receiving pay for services authorized under subsection (a) of this section shall not, by reason of performing such services and receiving pay for such services, be considered as—
+    A resident receiving pay for services authorized under subsection (a) shall not, by reason of performing such services and receiving pay for such services, be considered as—
 
         (1) receiving the pay of a position or being employed in a position for the purposes of section 5532  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5; or
 
@@ -35,7 +35,7 @@
 
     (c) __“Position” defined__ 
 
-        In subsection (b)(1) of this section, the term “position” has the meaning given that term in [section 5531 of title 5][/us/usc/t5/s5531].
+        In subsection (b)(1), the term “position” has the meaning given that term in [section 5531 of title 5][/us/usc/t5/s5531].
 
 ([Pub. L. 101–510, div. A, title XV, § 1521][/us/pl/101/510/s1521], as added [Pub. L. 102–484, div. A, title III, § 385(a)][/us/pl/102/484/s385/a], Oct. 23, 1992, [106 Stat. 2394][/us/stat/106/2394]; amended [Pub. L. 104–201, div. A, title X, § 1052(b)][/us/pl/104/201/s1052/b], Sept. 23, 1996, [110 Stat. 2650][/us/stat/110/2650]; [Pub. L. 107–107, div. A, title XIV, § 1404(b)(3)][/us/pl/107/107/s1404/b/3], Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260].)
 

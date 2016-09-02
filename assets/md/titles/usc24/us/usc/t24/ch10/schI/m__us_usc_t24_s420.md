@@ -39,7 +39,7 @@
 
         (1)
 
-            (A) If the disposition of the estate of a resident of the Retirement Home cannot be accomplished under subsection (a)(2) of this section or if a resident dies testate and the nominated fiduciary, legatees, or heirs of the resident cannot be immediately ascertained, the entirety of the deceased resident’s domiciliary estate and the entirety of any ancillary estate that is unclaimed at the end of the three-year period beginning on the date of the death of the resident shall escheat to the Retirement Home.
+            (A) If the disposition of the estate of a resident of the Retirement Home cannot be accomplished under subsection (a)(2) or if a resident dies testate and the nominated fiduciary, legatees, or heirs of the resident cannot be immediately ascertained, the entirety of the deceased resident’s domiciliary estate and the entirety of any ancillary estate that is unclaimed at the end of the three-year period beginning on the date of the death of the resident shall escheat to the Retirement Home.
 
             (B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
@@ -55,7 +55,7 @@
 
         (4)
 
-         After the end of the three-year period beginning on the date of the death of a resident of a facility, the Administrator of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a) of this section. Disposal may be made within the discretion of the Administrator by—
+         After the end of the three-year period beginning on the date of the death of a resident of a facility, the Administrator of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a). Disposal may be made within the discretion of the Administrator by—
 
             (A) retaining such property or effects for the facility;
 
@@ -65,15 +65,15 @@
 
     (c) __Transfer of proceeds to Fund__ 
 
-        The net proceeds received by the Administrators from the sale of effects under subsection (b) of this section shall be deposited in the Fund.
+        The net proceeds received by the Administrators from the sale of effects under subsection (b) shall be deposited in the Fund.
 
     (d) __Subsequent claim__ 
 
-        (1) A claim for the net proceeds of the sale under subsection (b) of this section of the effects of a deceased may be filed with the Secretary of Defense at any time within six years after the death of the deceased, for action under [section 2771 of title 10][/us/usc/t10/s2771].
+        (1) A claim for the net proceeds of the sale under subsection (b) of the effects of a deceased may be filed with the Secretary of Defense at any time within six years after the death of the deceased, for action under [section 2771 of title 10][/us/usc/t10/s2771].
 
         (2) A claim referred to in paragraph (1) may not be considered by a court or the Secretary unless the claim is filed within the time period prescribed in such paragraph.
 
-        (3) A claim allowed by the Secretary under paragraph (1) shall be certified to the Secretary of the Treasury for payment from the Fund in the amount found due, including any interest relating to the amount. No claim may be allowed or paid in excess of the net proceeds of the estate deposited in the Fund under subsection (c) of this section plus interest.
+        (3) A claim allowed by the Secretary under paragraph (1) shall be certified to the Secretary of the Treasury for payment from the Fund in the amount found due, including any interest relating to the amount. No claim may be allowed or paid in excess of the net proceeds of the estate deposited in the Fund under subsection (c) plus interest.
 
     (e) __Unclaimed property__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Payment or reimbursement for care, treatment, or assistance__ 
 
-        The Secretary may, to the extent deemed appropriate, equitable, and practicable by him, (1) require any person receiving care and treatment or assistance pursuant to subsection (a) of this section to pay, in advance or by way of reimbursement, for the cost thereof or (2) obtain reimbursement for such cost from any State or political subdivision responsible for the cost of his subsequent hospitalization.
+        The Secretary may, to the extent deemed appropriate, equitable, and practicable by him, (1) require any person receiving care and treatment or assistance pursuant to subsection (a) to pay, in advance or by way of reimbursement, for the cost thereof or (2) obtain reimbursement for such cost from any State or political subdivision responsible for the cost of his subsequent hospitalization.
 
 ([Pub. L. 86–571, § 2][/us/pl/86/571/s2], July 5, 1960, [74 Stat. 308][/us/stat/74/308]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 

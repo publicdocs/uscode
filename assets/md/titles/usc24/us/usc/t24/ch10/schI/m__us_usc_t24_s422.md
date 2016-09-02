@@ -17,7 +17,7 @@
 
     (a) __Authority to accept services__ 
 
-        Subject to subsection (b) of this section and notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the Chief Operating Officer or the Administrator of a facility of the Retirement Home may accept from any person voluntary personal services or gratuitous services.
+        Subject to subsection (b) and notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the Chief Operating Officer or the Administrator of a facility of the Retirement Home may accept from any person voluntary personal services or gratuitous services.
 
     (b) __Requirements and limitations__ 
 
@@ -33,7 +33,7 @@
 
         (3)
 
-         A person providing services accepted under subsection (a) of this section may not—
+         A person providing services accepted under subsection (a) may not—
 
             (A) serve in a policymaking position of the Retirement Home; or
 
@@ -41,23 +41,23 @@
 
     (c) __Authority to recruit and train persons providing services__ 
 
-        The Chief Operating Officer or the Administrator of a facility of the Retirement Home may recruit and train persons to provide services authorized to be accepted under subsection (a) of this section.
+        The Chief Operating Officer or the Administrator of a facility of the Retirement Home may recruit and train persons to provide services authorized to be accepted under subsection (a).
 
     (d) __Status of persons providing services__ 
 
         (1)
 
-         Subject to paragraph (3), while providing services accepted under subsection (a) of this section or receiving training under subsection (c) of this section, a person shall be considered to be an employee of the Federal Government only for purposes of the following provisions of law:
+         Subject to paragraph (3), while providing services accepted under subsection (a) or receiving training under subsection (c), a person shall be considered to be an employee of the Federal Government only for purposes of the following provisions of law:
 
             (A) Subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries).
 
             (B) Chapter 171 of title 28 (relating to claims for damages or loss).
 
-        (2) A person providing services accepted under subsection (a) of this section shall be considered to be an employee of the Federal Government under paragraph (1) only with respect to services that are within the scope of the services accepted.
+        (2) A person providing services accepted under subsection (a) shall be considered to be an employee of the Federal Government under paragraph (1) only with respect to services that are within the scope of the services accepted.
 
         (3)
 
-         For purposes of determining the compensation for work-related injuries payable under chapter 81 of title 5 (pursuant to this subsection) to a person providing services accepted under subsection (a) of this section, the monthly pay of the person for such services shall be deemed to be the amount determined by multiplying—
+         For purposes of determining the compensation for work-related injuries payable under chapter 81 of title 5 (pursuant to this subsection) to a person providing services accepted under subsection (a), the monthly pay of the person for such services shall be deemed to be the amount determined by multiplying—
 
             (A) the average monthly number of hours that the person provided the services, by
 
@@ -65,7 +65,7 @@
 
     (e) __Reimbursement of incidental expenses__ 
 
-        The Chief Operating Officer or the Administrator of a facility accepting services under subsection (a) of this section may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a) of this section. The Chief Operating Officer or Administrator shall determine which expenses qualify for reimbursement under this subsection.
+        The Chief Operating Officer or the Administrator of a facility accepting services under subsection (a) may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a). The Chief Operating Officer or Administrator shall determine which expenses qualify for reimbursement under this subsection.
 
 ([Pub. L. 101–510, div. A, title XV, § 1522][/us/pl/101/510/s1522], as added [Pub. L. 104–201, div. A, title X, § 1052(a)][/us/pl/104/201/s1052/a], Sept. 23, 1996, [110 Stat. 2649][/us/stat/110/2649]; amended [Pub. L. 107–107, div. A, title XIV, § 1404(b)(4)][/us/pl/107/107/s1404/b/4], Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260]; [Pub. L. 112–81, div. A, title V, § 564(b)(1)][/us/pl/112/81/s564/b/1], Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424].)
 
