@@ -181,11 +181,11 @@
 
 [Pub. L. 113–7, § 1(a)(1)][/us/pl/113/7/s1/a/1], (2), Apr. 15, 2013, [127 Stat. 438][/us/stat/127/438], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except with respect to financial disclosure forms filed by officers and employees referred to in paragraph (2), section 8(a) and section 11(a) of the STOCK Act \[[Pub. L. 112–178][/us/pl/112/178]\] (5 U.S.C. App. 105 note\[s\]) \[set out below\] shall not be effective.
 
->     “(2) __Exempted officers and employees.—__ 
+>     “(2)  __Exempted officers and employees__  __.—__ 
 
 >     The officer and employees referred to in paragraph (1) are the following:
 
@@ -209,25 +209,25 @@
 
 >     “(a) __Public, Online Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than September 30, 2012, or 90 days after the date of enactment of this Act \[Apr. 4, 2012\], whichever is later, the Secretary of the Senate and the Sergeant at Arms of the Senate, and the Clerk of the House of Representatives, shall ensure that financial disclosure forms filed by Members of Congress, candidates for Congress, and employees of Congress in calendar year 2012 and in subsequent years pursuant to title I of the Ethics in Government Act of 1978 \[section 101 et seq. of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix\] are made available to the public on the respective official websites of the Senate and the House of Representatives not later than 30 days after such forms are filed.
 
->         “(2) __Extensions.—__ 
+>         “(2)  __Extensions__  __.—__ 
 
 >         Notices of extension for financial disclosure shall be made available electronically under this subsection along with its related disclosure.
 
->         “(3) __Reporting transactions.—__ 
+>         “(3)  __Reporting transactions__  __.—__ 
 
 >         In the case of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix\], as added by this Act, such disclosure shall be filed not later than the date required by that section. Notices of extension for transaction disclosure shall be made available electronically under this subsection along with its related disclosure.
 
->         “(4) __Expiration.—__ 
+>         “(4)  __Expiration__  __.—__ 
 
 >         The requirements of this subsection shall expire upon implementation of the public disclosure system established under subsection (b).
 
 >     “(b) __Electronic Filing and Online Public Availability of Financial Disclosure Forms of Members of Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (6) and not later than January 1, 2014, the Secretary of the Senate and the Sergeant at Arms of the Senate and the Clerk of the House of Representatives shall develop systems to enable—
 
@@ -245,23 +245,23 @@
 
 >                   pursuant to title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.), through databases that are maintained on the official websites of the House of Representatives and the Senate.
 
->         “(2) __Login.—__ 
+>         “(2)  __Login__  __.—__ 
 
 >         For purposes of filings under paragraph (1)(B), section 105(b)(2) of the Ethics in Government Act of 1978 \[[section 105(b)(2) of Pub. L. 95–521][/us/pl/95/521/s105/b/2], set out in this Appendix\] does not apply.
 
->         “(3) __Public availability.—__ 
+>         “(3)  __Public availability__  __.—__ 
 
 >         Pursuant to section 105(b)(1) of the Ethics in Government Act of 1978, electronic availability on the official websites of the Senate and the House of Representatives under paragraph (1)(B) shall be deemed to have met the public availability requirement.
 
->         “(4) __Filers covered.—__ 
+>         “(4)  __Filers covered__  __.—__ 
 
 >         Individuals required under the Ethics in Government Act of 1978 \[[Pub. L. 95–521][/us/pl/95/521], set out in this Appendix\] or the Senate Rules to file financial disclosure reports with the Secretary of the Senate or the Clerk of the House of Representatives shall be able to file reports electronically using the systems developed by the Secretary of the Senate, the Sergeant at Arms of the Senate, and the Clerk of the House of Representatives.
 
->         “(5) __Extensions.—__ 
+>         “(5)  __Extensions__  __.—__ 
 
 >         Notices of extension for financial disclosure shall be made available electronically under paragraph (1)(B) along with its related disclosure.
 
->         “(6) __Additional time.—__ 
+>         “(6)  __Additional time__  __.—__ 
 
 >         The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Secretary of the Senate or the Clerk of the House of Representatives identifies in writing to relevant congressional committees the additional time needed for such implementation.”
 
@@ -271,25 +271,25 @@
 
 >     “(a) __Executive Branch Reporting.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than September 30, 2012, or 90 days after the date of enactment of this Act \[Apr. 4, 2012\], whichever is later, the President shall ensure that financial disclosure forms filed pursuant to title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.), in calendar year 2012 and in subsequent years, by executive branch employees specified in section 101 of that Act are made available to the public on the official websites of the respective executive branch agencies not later than 30 days after such forms are filed.
 
->         “(2) __Extensions.—__ 
+>         “(2)  __Extensions__  __.—__ 
 
 >         Notices of extension for financial disclosure shall be made available electronically along with the related disclosure.
 
->         “(3) __Reporting transactions.—__ 
+>         “(3)  __Reporting transactions__  __.—__ 
 
 >         In the case of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix\], as added by this Act, such disclosure shall be filed not later than the date required by that section. Notices of extension for transaction disclosure shall be made available electronically under this subsection along with its related disclosure.
 
->         “(4) __Expiration.—__ 
+>         “(4)  __Expiration__  __.—__ 
 
 >         The requirements of this subsection shall expire upon implementation of the public disclosure system established under subsection (b).
 
 >     “(b) __Electronic Filing and Online Public Availability of Financial Disclosure Forms of Certain Executive Branch Officials.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (6), and not later than January 1, 2014, the President, acting through the Director of the Office of Government Ethics, shall develop systems to enable—
 
@@ -307,23 +307,23 @@
 
 >                   pursuant to title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.), through databases that are maintained on the official website of the Office of Government Ethics.
 
->         “(2) __Login.—__ 
+>         “(2)  __Login__  __.—__ 
 
 >         For purposes of filings under paragraph (1)(B), section 105(b)(2) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(b)(2)) does not apply.
 
->         “(3) __Public availability.—__ 
+>         “(3)  __Public availability__  __.—__ 
 
 >         Pursuant to section 105(b)(1) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(b)(1)), electronic availability on the official website of the Office of Government Ethics under paragraph (1)(B) shall be deemed to have met the public availability requirement.
 
->         “(4) __Filers covered.—__ 
+>         “(4)  __Filers covered__  __.—__ 
 
 >         Executive branch employees required under title I of the Ethics in Government Act of 1978 to file financial disclosure reports shall be able to file the reports electronically with their supervising ethics office.
 
->         “(5) __Extensions.—__ 
+>         “(5)  __Extensions__  __.—__ 
 
 >         Notices of extension for financial disclosure shall be made available electronically under paragraph (1)(B) along with its related disclosure.
 
->         “(6) __Additional time.—__ 
+>         “(6)  __Additional time__  __.—__ 
 
 >         The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Director of the Office of Government Ethics, after consultation with the Clerk of the House of Representatives and Secretary of the Senate, identifies in writing to relevant congressional committees the additional time needed for such implementation.”
 

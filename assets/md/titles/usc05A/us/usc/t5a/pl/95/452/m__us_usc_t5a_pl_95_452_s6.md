@@ -171,11 +171,11 @@
 
 [Pub. L. 107–296, title VIII, § 812(c)][/us/pl/107/296/s812/c], Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subsection (a) \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 25, 2002\].
 
->     “(2) __Initial guidelines.—__ 
+>     “(2)  __Initial guidelines__  __.—__ 
 
 >     Subsection (b) \[enacting provisions set out as a note below\] shall take effect on the date of enactment of this Act \[Nov. 25, 2002\].”
 
@@ -195,7 +195,7 @@
 
 [Pub. L. 107–296, title VIII, § 812(b)][/us/pl/107/296/s812/b], Nov. 25, 2002, [116 Stat. 2223][/us/stat/116/2223], provided that:
 
->     “(1) __Definition.—__ 
+>     “(1)  __Definition__  __.—__ 
 
 >     In this subsection, the term ‘memoranda of understanding’ means the agreements between the Department of Justice and the Inspector General offices described under section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) (as added by subsection (a) of this section) that—
 
@@ -203,15 +203,15 @@
 
 >         “(B) authorize such offices to exercise authority that is the same or similar to the authority under section 6(e)(1) of such Act.
 
->     “(2) __In general.—__ 
+>     “(2)  __In general__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2002\], the Attorney General shall promulgate guidelines under section 6(e)(4) of the Inspector General Act of 1978 (5 U.S.C. App.) (as added by subsection (a) of this section) applicable to the Inspector General offices described under section 6(e)(3) of that Act.
 
->     “(3) __Minimum requirements.—__ 
+>     “(3)  __Minimum requirements__  __.—__ 
 
 >     The guidelines promulgated under this subsection shall include, at a minimum, the operational and training requirements in the memoranda of understanding.
 
->     “(4) __No lapse of authority.—__ 
+>     “(4)  __No lapse of authority__  __.—__ 
 
 >     The memoranda of understanding in effect on the date of enactment of this Act \[Nov. 25, 2002\] shall remain in effect until the guidelines promulgated under this subsection take effect.”
 
@@ -227,11 +227,11 @@
 
 >     “(a) __Inspectors General Criminal Investigator Academy.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established the Criminal Investigator Academy within the Department of the Treasury. The Criminal Investigator Academy is established for the purpose of performing investigator training services for offices of inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
 
->         “(2) __Executive director.—__ 
+>         “(2)  __Executive director__  __.—__ 
 
 >         The Criminal Investigator Academy shall be administered by an Executive Director who shall report to an inspector general for an establishment as defined in section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)—
 
@@ -241,11 +241,11 @@
 
 >     “(b) __Inspectors General Forensic Laboratory.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established the Inspectors General Forensic Laboratory within the Department of the Treasury. The Inspectors General Forensic Laboratory is established for the purpose of performing forensic services for offices of inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
 
->         “(2) __Executive director.—__ 
+>         “(2)  __Executive director__  __.—__ 
 
 >         The Inspectors General Forensic Laboratory shall be administered by an Executive Director who shall report to an inspector general for an establishment as defined in section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)—
 
@@ -253,11 +253,11 @@
 
 >             “(B) if that council is eliminated, by a majority vote of the inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
 
->     “(c) __Separate Appropriations Account.—__ 
+>     “(c)  __Separate Appropriations Account__  __.—__ 
 
 >     \[Amended [section 1105 of Title 31][/us/usc/t31/s1105], Money and Finance.\]
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to carry out this section such sums as may be necessary for fiscal year 2001 and each fiscal year thereafter.”
 

@@ -267,15 +267,15 @@ TITLE V—GOVERNMENT-WIDE LIMITATIONS ON OUTSIDE EARNED INCOME AND EMPLOYMENT  <
 
 [Pub. L. 112–105, § 9(a)][/us/pl/112/105/s9/a], Apr. 4, 2012, [126 Stat. 297][/us/stat/126/297], provided that:
 
->     “(1) __Executive branch employees.—__ 
+>     “(1)  __Executive branch employees__  __.—__ 
 
 >     The Office of Government Ethics shall issue such interpretive guidance of the relevant Federal ethics statutes and regulations, including the Standards of Ethical Conduct for executive branch employees, related to use of nonpublic information, as necessary to clarify that no executive branch employee may use nonpublic information derived from such person’s position as an executive branch employee or gained from the performance of such person’s official responsibilities as a means for making a private profit.
 
->     “(2) __Judicial officers.—__ 
+>     “(2)  __Judicial officers__  __.—__ 
 
 >     The Judicial Conference of the United States shall issue such interpretive guidance of the relevant ethics rules applicable to Federal judges, including the Code of Conduct for United States Judges, as necessary to clarify that no judicial officer may use nonpublic information derived from such person’s position as a judicial officer or gained from the performance of such person’s official responsibilities as a means for making a private profit.
 
->     “(3) __Judicial employees.—__ 
+>     “(3)  __Judicial employees__  __.—__ 
 
 >     The Judicial Conference of the United States shall issue such interpretive guidance of the relevant ethics rules applicable to judicial employees as necessary to clarify that no judicial employee may use nonpublic information derived from such person’s position as a judicial employee or gained from the performance of such person’s official responsibilities as a means for making a private profit.”
 
