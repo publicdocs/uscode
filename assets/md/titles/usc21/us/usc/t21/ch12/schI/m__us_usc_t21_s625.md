@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter, the requirements of sections 603, 604, 605, 610(b), and 623 of this title shall not apply to any fish described in [section 601(w)(2) of this title][/us/usc/t21/s601/w/2].
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 25, as added [Pub. L. 110–234, title XI, § 11016(b)(1)(C)][/us/pl/110/234/s11016/b/1/C], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(1)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131; [Pub. L. 113–79, title XII, § 12106(a)(3)][/us/pl/113/79/s12106/a/3], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 25, as added [Pub. L. 110–234, title XI, § 11016(b)(1)(C)][/us/pl/110/234/s11016/b/1/C], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(1)(C), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131; amended [Pub. L. 113–79, title XII, § 12106(a)(3)][/us/pl/113/79/s12106/a/3], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981].)
 
  __Codification__ 
 

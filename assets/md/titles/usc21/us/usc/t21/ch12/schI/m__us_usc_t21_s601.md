@@ -153,13 +153,13 @@
 
 [Pub. L. 113–79, title XII, § 12106(c)][/us/pl/113/79/s12106/c], Feb. 7, 2014, [128 Stat. 982][/us/stat/128/982], provided that: 
 
-> “This section \[amending this section and sections 606 and 625 of this title and [section 1622 of Title 7][/us/usc/t7/s1622], Agriculture, and enacting and repealing provisions set out as notes under this section\] and the amendments made by this section shall take effect as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]).”
+> “This section \[amending this section, sections 606 and 625 of this title, and [section 1622 of Title 7][/us/usc/t7/s1622], Agriculture, and enacting and repealing provisions set out as notes under this section\] and the amendments made by this section shall take effect as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]) \[amending this section, enacting sections 606 and 625 of this title, repealing former [section 606 of this title][/us/usc/t21/s606], and enacting provisions set out as notes below\].”
 
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-    [Pub. L. 110–234, title XI, § 11016(b)(2)(A)][/us/pl/110/234/s11016/b/2/A], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(2)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131, provided that the amendments made by [section 11016(b)(1) of Pub. L. 110–234][/us/pl/110/234/s11016/b/1] and [section 11016(b)(1) of Pub. L. 110–246][/us/pl/110/246/s11016/b/1] (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]) would not apply until the date on which the Secretary of Agriculture issued final regulations to carry out such amendments, prior to repeal by [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981].
+    [Pub. L. 110–234, title XI, § 11016(b)(2)(A)][/us/pl/110/234/s11016/b/2/A], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(2)(A), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131, provided that the amendments made by [section 11016(b)(1) of Pub. L. 110–234][/us/pl/110/234/s11016/b/1] and [section 11016(b)(1) of Pub. L. 110–246][/us/pl/110/246/s11016/b/1] (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]) would not apply until the date on which the Secretary of Agriculture issued final regulations to carry out such amendments, prior to repeal by [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]), see Effective Date of 2014 Amendment note above.
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.\]
 
@@ -211,7 +211,7 @@
 
 >     The Secretary shall—
 
->         “(A) not later than 60 days after the date of enactment of this Act \[Feb. 7, 2014\], issue final regulations to carry out the amendments made by section 11016(b)(1) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]) \[enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]\], as further clarified by the amendments made by this section \[amending this section and sections 606 and 625 of this title and [section 1622 of Title 7][/us/usc/t7/s1622], Agriculture, and enacting and repealing provisions set out as notes under this section\]; and
+>         “(A) not later than 60 days after the date of enactment of this Act \[Feb. 7, 2014\], issue final regulations to carry out the amendments made by section 11016(b)(1) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]) \[amending this section, enacting sections 606 and 625 of this title, and repealing former [section 606 of this title][/us/usc/t21/s606]\], as further clarified by the amendments made by this section \[amending this section, sections 606 and 625 of this title, and [section 1622 of Title 7][/us/usc/t7/s1622], Agriculture, and enacting and repealing provisions set out as notes under this section\]; and
 
 >         “(B) not later than 1 year after the date of enactment of this Act, implement the amendments described in subparagraph (A).
 
@@ -231,11 +231,11 @@
 
 >     Section 1601(c)(2) \[[7 U.S.C. 9091(c)(2)][/us/usc/t7/s9091/c/2]\] applies to the promulgation of the regulations and administration of this section and the amendments made by this section.”
 
-[Pub. L. 110–246, title XI, § 11016(b)(2)][/us/pl/110/246/s11016/b/2], as added [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], provided that:
+[Pub. L. 110–246, title XI, § 11016(b)(2)][/us/pl/110/246/s11016/b/2], as added by [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], provided that:
 
 >     “(A)  __Regulations__  __.—__ 
 
->     Not later than 60 days after the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], the Secretary \[of Agriculture\], in consultation with the Commissioner of Food and Drugs, shall issue final regulations to carry out the amendments made by paragraph (1) \[enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]\] and section 12106 of that Act \[amending this section and sections 606 and 625 of this title and [section 1622 of Title 7][/us/usc/t7/s1622], Agriculture, and enacting and repealing provisions set out as notes under this section\] in a manner that ensures that there is no duplication in inspection activities.
+>     Not later than 60 days after the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], the Secretary \[of Agriculture\], in consultation with the Commissioner of Food and Drugs, shall issue final regulations to carry out the amendments made by paragraph (1) \[amending this section, enacting sections 606 and 625 of this title, and repealing former [section 606 of this title][/us/usc/t21/s606]\] and section 12106 of that Act \[amending this section, sections 606 and 625 of this title, and [section 1622 of Title 7][/us/usc/t7/s1622], Agriculture, and enacting and repealing provisions set out as notes under this section\] in a manner that ensures that there is no duplication in inspection activities.
 
 >     “(B)  __Interagency coordination__  __.—__ 
 
@@ -253,7 +253,7 @@
 
 >             “(III) any information resulting from examination, testing, and inspections conducted is considered in making risk-based determinations, including the establishment of inspection priorities.”
 
-    [Pub. L. 110–234, title XI, § 11016(b)(2)(B)][/us/pl/110/234/s11016/b/2/B], May 22, 2008, [122 Stat. 1370][/us/stat/122/1370], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131, required the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, to issue final regulations to carry out the amendments made by [section 11016(b)(1) of Pub. L. 110–234][/us/pl/110/234/s11016/b/1] and [section 11016(b)(1) of Pub. L. 110–246][/us/pl/110/246/s11016/b/1] (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]) not later than 18 months after June 18, 2008, prior to repeal by [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981].
+    [Pub. L. 110–234, title XI, § 11016(b)(2)(B)][/us/pl/110/234/s11016/b/2/B], May 22, 2008, [122 Stat. 1370][/us/stat/122/1370], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131, required the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, to issue final regulations to carry out the amendments made by [section 11016(b)(1) of Pub. L. 110–234][/us/pl/110/234/s11016/b/1] and [section 11016(b)(1) of Pub. L. 110–246][/us/pl/110/246/s11016/b/1] (enacting sections 606 and 625 of this title, amending this section, and repealing former [section 606 of this title][/us/usc/t21/s606]) not later than 18 months after June 18, 2008, prior to repeal by [Pub. L. 113–79, title XII, § 12106(b)(4)][/us/pl/113/79/s12106/b/4], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981], effective as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 ([Public Law 110–246][/us/pl/110/246]; [122 Stat. 2130][/us/stat/122/2130]), see Effective Date of 2014 Amendment note above.
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.\]
 
@@ -312,6 +312,7 @@
 [/us/usc/t7/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1622
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2130
+[/us/usc/t21/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs606
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -326,6 +327,8 @@
 [/us/usc/t21/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs606
 [/us/pl/113/79/s12106/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fb%2F4
 [/us/stat/128/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F981
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/stat/122/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2130
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -373,6 +376,8 @@
 [/us/usc/t21/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs606
 [/us/pl/113/79/s12106/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12106%2Fb%2F4
 [/us/stat/128/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F981
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/stat/122/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2130
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

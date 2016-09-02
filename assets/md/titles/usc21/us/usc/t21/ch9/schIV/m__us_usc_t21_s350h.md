@@ -217,7 +217,7 @@
 
 [Pub. L. 113–79, title XII, § 12311(a)][/us/pl/113/79/s12311/a], Feb. 7, 2014, [128 Stat. 992][/us/stat/128/992], provided that: 
 
-> “When publishing a final rule with respect to ‘Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption’ published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section \[[section 12311 of Pub. L. 113–79][/us/pl/113/79/s12311], [128 Stat. 992][/us/stat/128/992]\] as the ‘Secretary’) shall ensure that the final rule (referred to in this section as the ‘final rule’) includes the following information:
+> “When publishing a final rule with respect to ‘Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption’ published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall ensure that the final rule (referred to in this section as the ‘final rule’) includes the following information:
 
 >     “(1) An analysis of the scientific information used to promulgate the final rule, taking into consideration any information about farming and ranching operations of a variety of sizes, with regional differences, and that have a diversity of production practices and methods.
 
@@ -272,8 +272,6 @@
 [/us/usc/t42/s247b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9320
 [/us/usc/t21/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2201
 [/us/pl/113/79/s12311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12311%2Fa
-[/us/stat/128/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F992
-[/us/pl/113/79/s12311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12311
 [/us/stat/128/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F992
 [/us/pl/111/353/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs105%2Fb
 [/us/stat/124/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3904

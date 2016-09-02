@@ -23,7 +23,7 @@
 
         In the case of an examination and inspection under subsection (a) of a meat food product derived from any fish described in [section 601(w)(2) of this title][/us/usc/t21/s601/w/2], the Secretary shall take into account the conditions under which the fish is raised and transported to a processing establishment.
 
-([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 6, as added [Pub. L. 110–234, title XI, § 11016(b)(1)(B)][/us/pl/110/234/s11016/b/1/B], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(1)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131; [Pub. L. 113–79, title XII, § 12106(a)(2)][/us/pl/113/79/s12106/a/2], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981].)
+([Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], title I, § 6, as added [Pub. L. 110–234, title XI, § 11016(b)(1)(B)][/us/pl/110/234/s11016/b/1/B], May 22, 2008, [122 Stat. 1369][/us/stat/122/1369], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11016(b)(1)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2131; amended [Pub. L. 113–79, title XII, § 12106(a)(2)][/us/pl/113/79/s12106/a/2], Feb. 7, 2014, [128 Stat. 981][/us/stat/128/981].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@ A prior section 606, acts [Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], t
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] added subsec. (b) and struck out former subsec. (b). Text read as follows: “In the case of an examination and inspection under subsection (a) of a meat food product derived from catfish, the Secretary shall take into account the conditions under which the catfish is raised and transported to a processing establishment.”
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79] added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “In the case of an examination and inspection under subsection (a) of a meat food product derived from catfish, the Secretary shall take into account the conditions under which the catfish is raised and transported to a processing establishment.”
 
  __Effective Date of 2014 Amendment__ 
 
