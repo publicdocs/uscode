@@ -45,6 +45,12 @@
 
     Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See [section 15(a) of Pub. L. 91–375][/us/pl/91/375/s15/a], set out as a note preceding this section.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–99, § 1][/us/pl/114/99/s1], Dec. 11, 2015, [129 Stat. 2201][/us/stat/129/2201], provided that: 
+
+> “This Act \[amending [section 414 of this title][/us/usc/t39/s414]\] may be cited as the ‘Breast Cancer Research Stamp Reauthorization Act of 2015’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–165, § 1][/us/pl/113/165/s1], Sept. 19, 2014, [128 Stat. 1878][/us/stat/128/1878], provided that: 
@@ -144,6 +150,9 @@
 [/us/pl/110/405/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fc
 [/us/stat/122/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4290
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
+[/us/pl/114/99/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99%2Fs1
+[/us/stat/129/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2201
+[/us/usc/t39/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs414
 [/us/pl/113/165/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F165%2Fs1
 [/us/stat/128/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1878
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416

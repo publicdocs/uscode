@@ -39,7 +39,7 @@
 
             (B) the remainder to the Department of Defense.
 
-            Payments under this paragraph to an agency shall be made under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section, except that, under those arrangements, payments to such agency shall be made at least twice a year.
+            Payments under this paragraph to an agency shall be made under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section, except that, under those arrangements, payments to such agency shall be made at least twice a year. An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.
 
         (2)
 
@@ -71,15 +71,19 @@
 
     (g) For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-    (h) This section shall cease to be effective after December 31, 2015.
+    (h) This section shall cease to be effective after December 31, 2019.
 
-(Added [Pub. L. 105–41, § 2(a)][/us/pl/105/41/s2/a], Aug. 13, 1997, [111 Stat. 1119][/us/stat/111/1119]; amended [Pub. L. 106–253, § 3(a)][/us/pl/106/253/s3/a], July 28, 2000, [114 Stat. 636][/us/stat/114/636]; [Pub. L. 107–67, title VI, § 650(b)(1)][/us/pl/107/67/s650/b/1], (c), Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556], 557; [Pub. L. 108–199, div. F, title V, § 541][/us/pl/108/199/s541], Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346]; [Pub. L. 109–100, § 1][/us/pl/109/100/s1], Nov. 11, 2005, [119 Stat. 2170][/us/stat/119/2170]; [Pub. L. 110–150, § 1][/us/pl/110/150/s1], Dec. 21, 2007, [121 Stat. 1820][/us/stat/121/1820]; [Pub. L. 112–80, § 1][/us/pl/112/80/s1], Dec. 23, 2011, [125 Stat. 1297][/us/stat/125/1297].)
+(Added [Pub. L. 105–41, § 2(a)][/us/pl/105/41/s2/a], Aug. 13, 1997, [111 Stat. 1119][/us/stat/111/1119]; amended [Pub. L. 106–253, § 3(a)][/us/pl/106/253/s3/a], July 28, 2000, [114 Stat. 636][/us/stat/114/636]; [Pub. L. 107–67, title VI, § 650(b)(1)][/us/pl/107/67/s650/b/1], (c), Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556], 557; [Pub. L. 108–199, div. F, title V, § 541][/us/pl/108/199/s541], Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346]; [Pub. L. 109–100, § 1][/us/pl/109/100/s1], Nov. 11, 2005, [119 Stat. 2170][/us/stat/119/2170]; [Pub. L. 110–150, § 1][/us/pl/110/150/s1], Dec. 21, 2007, [121 Stat. 1820][/us/stat/121/1820]; [Pub. L. 112–80, § 1][/us/pl/112/80/s1], Dec. 23, 2011, [125 Stat. 1297][/us/stat/125/1297]; [Pub. L. 114–99][/us/pl/114/99], §§ 2, 3, Dec. 11, 2015, [129 Stat. 2201][/us/stat/129/2201].)
 
  __References in Text__ 
 
     The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of [Pub. L. 105–41][/us/pl/105/41], which was approved Aug. 13, 1997.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1). [Pub. L. 114–99, § 3][/us/pl/114/99/s3], inserted at end of concluding provisions “An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.”
+
+    Subsec. (h). [Pub. L. 114–99, § 2][/us/pl/114/99/s2], substituted “2019” for “2015”.
 
     2011—Subsec. (h). [Pub. L. 112–80][/us/pl/112/80] substituted “2015” for “2011”.
 
@@ -146,7 +150,11 @@
 [/us/stat/121/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1820
 [/us/pl/112/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F80%2Fs1
 [/us/stat/125/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1297
+[/us/pl/114/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99
+[/us/stat/129/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2201
 [/us/pl/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41
+[/us/pl/114/99/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99%2Fs3
+[/us/pl/114/99/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99%2Fs2
 [/us/pl/112/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F80
 [/us/pl/110/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F150
 [/us/pl/109/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F100
