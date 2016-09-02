@@ -31,7 +31,7 @@
 
  __Moratorium on Internet Taxes__ 
 
-[Pub. L. 105–277, div. C, title XI][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], as amended by [Pub. L. 107–75, § 2][/us/pl/107/75/s2], Nov. 28, 2001, [115 Stat. 703][/us/stat/115/703]; [Pub. L. 108–435][/us/pl/108/435], §§ 2–6A, Dec. 3, 2004, [118 Stat. 2615–2618][/us/stat/118/2615-2618]; [Pub. L. 110–108][/us/pl/110/108], §§ 2–6, Oct. 31, 2007, [121 Stat. 1024–1026][/us/stat/121/1024-1026], provided that:
+[Pub. L. 105–277, div. C, title XI][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], as amended by [Pub. L. 107–75, § 2][/us/pl/107/75/s2], Nov. 28, 2001, [115 Stat. 703][/us/stat/115/703]; [Pub. L. 108–435][/us/pl/108/435], §§ 2–6A, Dec. 3, 2004, [118 Stat. 2615–2618][/us/stat/118/2615-2618]; [Pub. L. 110–108][/us/pl/110/108], §§ 2–6, Oct. 31, 2007, [121 Stat. 1024–1026][/us/stat/121/1024-1026]; [Pub. L. 113–235, div. E, title VI, § 624][/us/pl/113/235/s624], Dec. 16, 2014, [128 Stat. 2377][/us/stat/128/2377], provided that:
 
 > “SEC. 1100. __SHORT TITLE.__ 
 
@@ -41,7 +41,7 @@
 
 >     “(a)  __Moratorium__  __.—__ 
 
->     No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending November 1, 2014:
+>     No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending October 1, 2015:
 
 >         “(1) Taxes on Internet access.
 
@@ -295,7 +295,7 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             Except as provided in subparagraph (B), this subsection shall not apply after November 1, 2014.
+>             Except as provided in subparagraph (B), this subsection shall not apply after October 1, 2015.
 
 >             “(B) __State telecommunications service tax.—__ 
 
@@ -594,6 +594,8 @@
 [/us/stat/118/2615-2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2615-2618
 [/us/pl/110/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F108
 [/us/stat/121/1024-1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1024-1026
+[/us/pl/113/235/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs624
+[/us/stat/128/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2377
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/usc/t26/s4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4251
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
