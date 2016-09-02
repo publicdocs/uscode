@@ -23,11 +23,43 @@
 
         (2) The President shall include in the budget transmitted to the Congress for each fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105] an estimate of the amount for the Office of Inspector General that is sufficient to provide for a number of full-time positions in that office that is not less than the number of full-time positions in that office on March 15, 1989, plus 40.
 
-(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 383][/us/stat/105/383]; amended [Pub. L. 103–446, title XII, § 1201(e)(3)][/us/pl/103/446/s1201/e/3], (g)(1), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685], 4687.)
+    (c)
+
+        (1)
+
+         Whenever the Inspector General, in carrying out the duties and responsibilities established under the Inspector General Act of 1978 (5 U.S.C. App.), issues a work product that makes a recommendation or otherwise suggests corrective action, the Inspector General shall—
+
+            (A)
+
+             submit the work product to—
+
+                (i) the Secretary;
+
+                (ii) the Committee on Veterans’ Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate;
+
+                (iii) the Committee on Veterans’ Affairs, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives;
+
+                (iv) if the work product was initiated upon request by an individual or entity other than the Inspector General, that individual or entity; and
+
+                (v) any Member of Congress upon request; and
+
+            (B)
+
+             the Inspector General shall submit all final work products to—
+
+                (i) if the work product was initiated upon request by an individual or entity other than the Inspector General, that individual or entity; and
+
+                (ii) any Member of Congress upon request; and
+
+            (C) not later than 3 days after the work product is submitted in final form to the Secretary, post the work product on the Internet website of the Inspector General.
+
+        (2) Nothing in this subsection shall be construed to authorize the public disclosure of information that is specifically prohibited from disclosure by any other provision of law.
+
+(Added [Pub. L. 102–83, § 2(a)][/us/pl/102/83/s2/a], Aug. 6, 1991, [105 Stat. 383][/us/stat/105/383]; amended [Pub. L. 103–446, title XII, § 1201(e)(3)][/us/pl/103/446/s1201/e/3], (g)(1), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685], 4687; [Pub. L. 114–113, div. J, title II, § 239][/us/pl/114/113/s239], Dec. 18, 2015, [129 Stat. 2700][/us/stat/129/2700].)
 
  __References in Text__ 
 
-    The Inspector General Act of 1978, referred to in subsec. (a), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+    The Inspector General Act of 1978, referred to in subsecs. (a) and (c)(1), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Prior Provisions__ 
 
@@ -36,6 +68,8 @@
     Provisions similar to those in this section were contained in [section 9(b) of Pub. L. 100–527][/us/pl/100/527/s9/b], known as the Department of Veterans Affairs Act, prior to repeal by [Pub. L. 102–83, § 3(3)][/us/pl/102/83/s3/3].
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113] added subsec. (c).
 
     1994—Subsec. (a). [Pub. L. 103–446, § 1201(e)(3)][/us/pl/103/446/s1201/e/3], substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 3)”.
 
@@ -53,11 +87,14 @@
 [/us/stat/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F383
 [/us/pl/103/446/s1201/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F3
 [/us/stat/108/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4685
+[/us/pl/114/113/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs239
+[/us/stat/129/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2700
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/usc/t38/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1112
 [/us/pl/100/527/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527%2Fs9%2Fb
 [/us/pl/102/83/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs3%2F3
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/103/446/s1201/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fe%2F3
 [/us/pl/103/446/s1201/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1201%2Fg%2F1
 
