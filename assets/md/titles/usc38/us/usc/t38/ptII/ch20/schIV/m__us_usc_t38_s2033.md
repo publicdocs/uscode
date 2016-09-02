@@ -21,11 +21,13 @@
 
     (c) The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-    (d) The program under this section shall terminate on December 31, 2014.
+    (d) The program under this section shall terminate on September 30, 2015.
 
-(Added [Pub. L. 105–114, title II, § 202(a)][/us/pl/105/114/s202/a], Nov. 21, 1997, [111 Stat. 2286][/us/stat/111/2286], § 1773; renumbered § 2033 and amended [Pub. L. 107–95][/us/pl/107/95], §§ 5(b)(1), (f), 8(b), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], 919; [Pub. L. 109–444, § 2(d)][/us/pl/109/444/s2/d], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title VII, § 704(b)][/us/pl/109/461/s704/b], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440], 3468; [Pub. L. 112–37, § 10(d)][/us/pl/112/37/s10/d], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–191, title II, § 204][/us/pl/112/191/s204], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 9(b)][/us/pl/113/59/s9/b], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662].)
+(Added [Pub. L. 105–114, title II, § 202(a)][/us/pl/105/114/s202/a], Nov. 21, 1997, [111 Stat. 2286][/us/stat/111/2286], § 1773; renumbered § 2033 and amended [Pub. L. 107–95][/us/pl/107/95], §§ 5(b)(1), (f), 8(b), Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918], 919; [Pub. L. 109–444, § 2(d)][/us/pl/109/444/s2/d], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title VII, § 704(b)][/us/pl/109/461/s704/b], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440], 3468; [Pub. L. 112–37, § 10(d)][/us/pl/112/37/s10/d], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–191, title II, § 204][/us/pl/112/191/s204], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 9(b)][/us/pl/113/59/s9/b], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title II, § 204(b)][/us/pl/113/175/s204/b], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–175][/us/pl/113/175] substituted “September 30, 2015” for “December 31, 2014”.
 
     2013—Subsec. (d). [Pub. L. 113–59][/us/pl/113/59] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -66,6 +68,9 @@
 [/us/stat/126/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1439
 [/us/pl/113/59/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs9%2Fb
 [/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
+[/us/pl/113/175/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs204%2Fb
+[/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
+[/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/112/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37

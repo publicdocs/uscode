@@ -435,6 +435,24 @@
 
     Amendment by [Pub. L. 89–311][/us/pl/89/311] effective first day of second calendar month following Oct. 31, 1965, see [section 9 of Pub. L. 89–311][/us/pl/89/311/s9], set out as a note under [section 1114 of this title][/us/usc/t38/s1114].
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–257, § 1][/us/pl/113/257/s1], Dec. 18, 2014, [128 Stat. 2924][/us/stat/128/2924], provided that: 
+
+> “This Act \[enacting and amending provisions set out as notes under [section 1710C of this title][/us/usc/t38/s1710C]\] may be cited as the ‘Veterans Traumatic Brain Injury Care Improvement Act of 2014’.”
+
+[Pub. L. 113–181, § 1][/us/pl/113/181/s1], Sept. 26, 2014, [128 Stat. 1916][/us/stat/128/1916], provided that: 
+
+> “This Act \[enacting provisions set out as notes under [section 1114 of this title][/us/usc/t38/s1114]\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2014’.”
+
+[Pub. L. 113–175, § 1(a)][/us/pl/113/175/s1/a], Sept. 26, 2014, [128 Stat. 1901][/us/stat/128/1901], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2014’.”
+
+[Pub. L. 113–146, § 1(a)][/us/pl/113/146/s1/a], Aug. 7, 2014, [128 Stat. 1754][/us/stat/128/1754], provided that: 
+
+> “This Act \[enacting sections 713 and 7412 of this title, amending sections 1720D, 3311, 3321, 3679, 3729, 5317, 5503, 7302, 7612, 7619, 7683, and 8104 of this title, enacting provisions set out as notes under sections 703, 713, 1701, 1720D, 3311, 3679, 7302, 7412, and 8104 of this title, and amending provisions set out as notes under sections 1703 and 1710C of this title\] may be cited as the ‘Veterans Access, Choice, and Accountability Act of 2014’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–65, § 1][/us/pl/113/65/s1], Dec. 20, 2013, [127 Stat. 669][/us/stat/127/669], provided that: 
@@ -1532,6 +1550,16 @@
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/113/257/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F257%2Fs1
+[/us/stat/128/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2924
+[/us/usc/t38/s1710C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710C
+[/us/pl/113/181/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F181%2Fs1
+[/us/stat/128/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1916
+[/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/113/175/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs1%2Fa
+[/us/stat/128/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1901
+[/us/pl/113/146/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs1%2Fa
+[/us/stat/128/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1754
 [/us/pl/113/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65%2Fs1
 [/us/stat/127/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F669
 [/us/usc/t38/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2411

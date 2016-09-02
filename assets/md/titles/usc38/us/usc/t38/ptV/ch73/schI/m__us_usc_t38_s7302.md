@@ -51,7 +51,47 @@
 
         (6) Such other public or nonprofit agencies, institutions, or organizations as the Secretary considers appropriate.
 
-(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 211][/us/stat/105/211].)
+    (e)
+
+        (1)
+
+         In carrying out this section, the Secretary shall establish medical residency programs, or ensure that already established medical residency programs have a sufficient number of residency positions, at any medical facility of the Department that the Secretary determines—
+
+            (A) is experiencing a shortage of physicians; and
+
+            (B) is located in a community that is designated as a health professional shortage area (as defined in section 332 of the Public Health Service Act ([42 U.S.C. 254e][/us/usc/t42/s254e])).
+
+        (2)
+
+         In carrying out paragraph (1), the Secretary shall—
+
+            (A) allocate the residency positions under such paragraph among occupations included in the most current determination published in the Federal Register pursuant to [section 7412(a) of this title][/us/usc/t38/s7412/a]; and
+
+            (B) give priority to residency positions and programs in primary care, mental health, and any other specialty the Secretary determines appropriate.
+
+(Added [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 211][/us/stat/105/211]; amended [Pub. L. 113–146, title III, § 301(b)(1)][/us/pl/113/146/s301/b/1], Aug. 7, 2014, [128 Stat. 1784][/us/stat/128/1784].)
+
+ __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–146][/us/pl/113/146] added subsec. (e).
+
+ __Five-Year Increase__ 
+
+[Pub. L. 113–146, title III, § 301(b)(2)][/us/pl/113/146/s301/b/2], Aug. 7, 2014, [128 Stat. 1785][/us/stat/128/1785], provided that:
+
+>     “(A)  __In general__  __.—__ 
+
+>     In carrying out [section 7302(e) of title 38][/us/usc/t38/s7302/e], United States Code, as added by paragraph (1), during the 5-year period beginning on the day that is 1 year after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary of Veterans Affairs shall increase the number of graduate medical education residency positions at medical facilities of the Department by up to 1,500 positions.
+
+>     “(B)  __Priority__  __.—__ 
+
+>     In increasing the number of graduate medical education residency positions at medical facilities of the Department under subparagraph (A), the Secretary shall give priority to medical facilities that—
+
+>         “(i) as of the date of the enactment of this Act, do not have a medical residency program; and
+
+>         “(ii) are located in a community that has a high concentration of veterans.”
+
+    \[For definition of “facility of the Department” as used in [section 301(b)(2) of Pub. L. 113–146][/us/pl/113/146/s301/b/2], set out above, see [section 2 of Pub. L. 113–146][/us/pl/113/146/s2], set out as a note under [section 1701 of this title][/us/usc/t38/s1701].\]
 
 ----------
 
@@ -60,7 +100,18 @@
 ----------
 ----------
 
+[/us/usc/t42/s254e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254e
+[/us/usc/t38/s7412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7412%2Fa
 [/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
 [/us/stat/105/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F211
+[/us/pl/113/146/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fb%2F1
+[/us/stat/128/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1784
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/pl/113/146/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fb%2F2
+[/us/stat/128/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1785
+[/us/usc/t38/s7302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7302%2Fe
+[/us/pl/113/146/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fb%2F2
+[/us/pl/113/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs2
+[/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 
 

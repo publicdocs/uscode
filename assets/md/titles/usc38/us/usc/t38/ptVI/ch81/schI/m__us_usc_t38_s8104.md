@@ -65,6 +65,16 @@
 
             (C) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
 
+        (7)
+
+         In the case of a prospectus proposing funding for a major medical facility lease, a detailed analysis of how the lease is expected to comply with Office of Management and Budget Circular A–11 and [section 1341 of title 31][/us/usc/t31/s1341] (commonly referred to as the “Anti-Deficiency Act”). Any such analysis shall include—
+
+            (A) an analysis of the classification of the lease as a “lease-purchase”, “capital lease”, or “operating lease” as those terms are defined in Office of Management and Budget Circular A–11;
+
+            (B) an analysis of the obligation of budgetary resources associated with the lease; and
+
+            (C) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
+
     (c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary’s intention to do so and the reasons for the specified amount being exceeded.
 
     (d)
@@ -109,9 +119,31 @@
 
     (g) The limitation in subsection (f) does not apply to a project for which funds have been authorized by law in accordance with subsection (a)(2).
 
-(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 56][/us/stat/93/56], § 5004; amended [Pub. L. 99–166, title III][/us/pl/99/166], §§ 301, 303, Dec. 3, 1985, [99 Stat. 954][/us/stat/99/954], 955; [Pub. L. 99–576, title II, § 221(b)][/us/pl/99/576/s221/b], Oct. 28, 1986, [100 Stat. 3259][/us/stat/100/3259]; [Pub. L. 100–322, title IV, § 422][/us/pl/100/322/s422], May 20, 1988, [102 Stat. 553][/us/stat/102/553]; renumbered § 8104 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–405, title III, § 301(a)][/us/pl/102/405/s301/a], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–79, § 3(a)][/us/pl/103/79/s3/a], Aug. 13, 1993, [107 Stat. 771][/us/stat/107/771]; [Pub. L. 104–262, title II][/us/pl/104/262], §§ 205(a), 206(a), (c), Oct. 9, 1996, [110 Stat. 3189][/us/stat/110/3189], 3190; [Pub. L. 105–368, title VII, § 704][/us/pl/105/368/s704], Nov. 11, 1998, [112 Stat. 3350][/us/stat/112/3350]; [Pub. L. 108–170, title II, § 201][/us/pl/108/170/s201], Dec. 6, 2003, [117 Stat. 2047][/us/stat/117/2047]; [Pub. L. 108–422, title IV, § 416][/us/pl/108/422/s416], Nov. 30, 2004, [118 Stat. 2393][/us/stat/118/2393]; [Pub. L. 109–461, title VIII, § 812][/us/pl/109/461/s812], Dec. 22, 2006, [120 Stat. 3447][/us/stat/120/3447]; [Pub. L. 110–387, title VII, § 705][/us/pl/110/387/s705], Oct. 10, 2008, [122 Stat. 4138][/us/stat/122/4138]; [Pub. L. 111–275, title IX, § 905][/us/pl/111/275/s905], Oct. 13, 2010, [124 Stat. 2895][/us/stat/124/2895]; [Pub. L. 112–37][/us/pl/112/37], §§ 6, 7, Oct. 5, 2011, [125 Stat. 394][/us/stat/125/394], 396.)
+    (h)
+
+        (1)
+
+         Not less than 30 days before entering into a major medical facility lease, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives—
+
+            (A) notice of the Secretary’s intention to enter into the lease;
+
+            (B) a detailed summary of the proposed lease;
+
+            (C) a description and analysis of any differences between the prospectus submitted pursuant to subsection (b) and the proposed lease; and
+
+            (D) a scoring analysis demonstrating that the proposed lease fully complies with Office of Management and Budget Circular A–11.
+
+        (2) Each committee described in paragraph (1) shall ensure that any information submitted to the committee under such paragraph is treated by the committee with the same level of confidentiality as is required by law of the Secretary and subject to the same statutory penalties for unauthorized disclosure or use as the Secretary.
+
+        (3) Not more than 30 days after entering into a major medical facility lease, the Secretary shall submit to each committee described in paragraph (1) a report on any material differences between the lease that was entered into and the proposed lease described under such paragraph, including how the lease that was entered into changes the previously submitted scoring analysis described in subparagraph (D) of such paragraph.
+
+(Added [Pub. L. 96–22, title III, § 301(a)][/us/pl/96/22/s301/a], June 13, 1979, [93 Stat. 56][/us/stat/93/56], § 5004; amended [Pub. L. 99–166, title III][/us/pl/99/166], §§ 301, 303, Dec. 3, 1985, [99 Stat. 954][/us/stat/99/954], 955; [Pub. L. 99–576, title II, § 221(b)][/us/pl/99/576/s221/b], Oct. 28, 1986, [100 Stat. 3259][/us/stat/100/3259]; [Pub. L. 100–322, title IV, § 422][/us/pl/100/322/s422], May 20, 1988, [102 Stat. 553][/us/stat/102/553]; renumbered § 8104 and amended [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(b)(1)][/us/pl/102/83/s4/b/1], (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–405, title III, § 301(a)][/us/pl/102/405/s301/a], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984]; [Pub. L. 103–79, § 3(a)][/us/pl/103/79/s3/a], Aug. 13, 1993, [107 Stat. 771][/us/stat/107/771]; [Pub. L. 104–262, title II][/us/pl/104/262], §§ 205(a), 206(a), (c), Oct. 9, 1996, [110 Stat. 3189][/us/stat/110/3189], 3190; [Pub. L. 105–368, title VII, § 704][/us/pl/105/368/s704], Nov. 11, 1998, [112 Stat. 3350][/us/stat/112/3350]; [Pub. L. 108–170, title II, § 201][/us/pl/108/170/s201], Dec. 6, 2003, [117 Stat. 2047][/us/stat/117/2047]; [Pub. L. 108–422, title IV, § 416][/us/pl/108/422/s416], Nov. 30, 2004, [118 Stat. 2393][/us/stat/118/2393]; [Pub. L. 109–461, title VIII, § 812][/us/pl/109/461/s812], Dec. 22, 2006, [120 Stat. 3447][/us/stat/120/3447]; [Pub. L. 110–387, title VII, § 705][/us/pl/110/387/s705], Oct. 10, 2008, [122 Stat. 4138][/us/stat/122/4138]; [Pub. L. 111–275, title IX, § 905][/us/pl/111/275/s905], Oct. 13, 2010, [124 Stat. 2895][/us/stat/124/2895]; [Pub. L. 112–37][/us/pl/112/37], §§ 6, 7, Oct. 5, 2011, [125 Stat. 394][/us/stat/125/394], 396; [Pub. L. 113–146, title VI, § 602(c)][/us/pl/113/146/s602/c], Aug. 7, 2014, [128 Stat. 1794][/us/stat/128/1794].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(7). [Pub. L. 113–146, § 602(c)(1)][/us/pl/113/146/s602/c/1], added par. (7).
+
+    Subsec. (h). [Pub. L. 113–146, § 602(c)(2)][/us/pl/113/146/s602/c/2], added subsec. (h).
 
     2011—Subsec. (b)(1). [Pub. L. 112–37, § 6(1)(A)][/us/pl/112/37/s6/1/A], substituted “detailed estimate of the total costs” for “detailed description” and “a detailed report of the consideration” for “a description of the consideration” and inserted at end “Such detailed estimate shall include an identification of each of the following:” and subpars. (A) to (E).
 
@@ -229,6 +261,42 @@
 
     [Pub. L. 102–405, title III, § 301(b)][/us/pl/102/405/s301/b], Oct. 9, 1992, [106 Stat. 1984][/us/stat/106/1984], provided that the amendments made by [section 301(a) of Pub. L. 102–405][/us/pl/102/405/s301/a], amending this section, were not applicable with respect to any project for which funds were appropriated before Oct. 9, 1992, prior to repeal by [Pub. L. 104–262, title II, § 206(b)(1)][/us/pl/104/262/s206/b/1], Oct. 9, 1996, [110 Stat. 3190][/us/stat/110/3190].
 
+ __Budgetary Treatment of Department of Veterans Affairs Major Medical Facilities Leases__ 
+
+[Pub. L. 113–146, title VI, § 602][/us/pl/113/146/s602], Aug. 7, 2014, [128 Stat. 1794][/us/stat/128/1794], provided that:
+
+>     “(a)  __Findings__  __.—__ 
+
+>     Congress finds the following:
+
+>         “(1) Title 31, United States Code, requires the Department of Veterans Affairs to record the full cost of its contractual obligation against funds available at the time a contract is executed.
+
+>         “(2) Office of Management and Budget Circular A–11 provides guidance to agencies in meeting the statutory requirements under title 31, United States Code, with respect to leases.
+
+>         “(3) For operating leases, Office of Management and Budget Circular A–11 requires the Department of Veterans Affairs to record up-front budget authority in an ‘amount equal to total payments under the full term of the lease or \[an\] amount sufficient to cover first year lease payments plus cancellation costs’.
+
+>     “(b) __Requirement for Obligation of Full Cost.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Subject to the availability of appropriations provided in advance, in exercising the authority of the Secretary of Veterans Affairs to enter into leases provided in this Act, the Secretary shall record, pursuant to [section 1501 of title 31][/us/usc/t31/s1501], United States Code, as the full cost of the contractual obligation at the time a contract is executed either—
+
+>             “(A) an amount equal to total payments under the full term of the lease; or
+
+>             “(B) if the lease specifies payments to be made in the event the lease is terminated before its full term, an amount sufficient to cover the first year lease payments plus the specified cancellation costs.
+
+>         “(2)  __Self-insuring authority__  __.—__ 
+
+>         The requirements of paragraph (1) may be satisfied through the use of the self-insuring authority identified in title 40, United States Code, consistent with Office of Management and Budget Circular A–11.
+
+>     “(c) __Transparency.—__ 
+
+>     \[Amended subsecs. (b)(7) and (h) of this section.\]
+
+>     “(d)  __Rule of Construction__  __.—__ 
+
+>     Nothing in this section, or the amendments made by this section, shall be construed to in any way relieve the Department of Veterans Affairs from any statutory or regulatory obligations or requirements existing prior to the enactment of this section and such amendments.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t38/ptVI/ch81/schI/m__us_usc_t38_s8103.md) | [Next](./../../../../../..//us/usc/t38/ptVI/ch81/schI/m__us_usc_t38_s8105.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8104)
@@ -237,6 +305,7 @@
 ----------
 
 [/us/usc/t38/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8111
+[/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
 [/us/pl/96/22/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs301%2Fa
 [/us/stat/93/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F56
 [/us/pl/99/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166
@@ -269,6 +338,10 @@
 [/us/stat/124/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2895
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/stat/125/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F394
+[/us/pl/113/146/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs602%2Fc
+[/us/stat/128/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1794
+[/us/pl/113/146/s602/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs602%2Fc%2F1
+[/us/pl/113/146/s602/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs602%2Fc%2F2
 [/us/pl/112/37/s6/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs6%2F1%2FA
 [/us/pl/112/37/s6/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs6%2F1%2FB
 [/us/pl/112/37/s6/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs6%2F1%2FB
@@ -319,5 +392,8 @@
 [/us/pl/102/405/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F405%2Fs301%2Fa
 [/us/pl/104/262/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs206%2Fb%2F1
 [/us/stat/110/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3190
+[/us/pl/113/146/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs602
+[/us/stat/128/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1794
+[/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
 
 

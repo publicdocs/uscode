@@ -29,9 +29,9 @@
 
     (6) $250,000,000 for fiscal year 2014.
 
-    (7) $150,000,000 for fiscal year 2015 and each subsequent fiscal year.
+    (7) $250,000,000 for fiscal year 2015 and each subsequent fiscal year.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 909][/us/stat/115/909]; amended [Pub. L. 108–422, title I, § 101][/us/pl/108/422/s101], Nov. 30, 2004, [118 Stat. 2380][/us/stat/118/2380]; [Pub. L. 109–461, title VII, § 703(b)][/us/pl/109/461/s703/b], Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440]; [Pub. L. 110–387, title VI, § 601][/us/pl/110/387/s601], Oct. 10, 2008, [122 Stat. 4131][/us/stat/122/4131]; [Pub. L. 112–37, § 11][/us/pl/112/37/s11], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 305(a)][/us/pl/112/154/s305/a], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(f)(1)][/us/pl/113/37/s2/f/1], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524].)
+(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 909][/us/stat/115/909]; amended [Pub. L. 108–422, title I, § 101][/us/pl/108/422/s101], Nov. 30, 2004, [118 Stat. 2380][/us/stat/118/2380]; [Pub. L. 109–461, title VII, § 703(b)][/us/pl/109/461/s703/b], Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440]; [Pub. L. 110–387, title VI, § 601][/us/pl/110/387/s601], Oct. 10, 2008, [122 Stat. 4131][/us/stat/122/4131]; [Pub. L. 112–37, § 11][/us/pl/112/37/s11], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–154, title III, § 305(a)][/us/pl/112/154/s305/a], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(f)(1)][/us/pl/113/37/s2/f/1], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 201][/us/pl/113/175/s201], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903].)
 
  __Prior Provisions__ 
 
@@ -44,6 +44,8 @@
     Another prior section 2014 was renumbered [section 4105 of this title][/us/usc/t38/s4105].
 
  __Amendments__ 
+
+    2014—Par. (7). [Pub. L. 113–175][/us/pl/113/175] substituted “$250,000,000” for “$150,000,000”.
 
     2013—Pars. (6), (7). [Pub. L. 113–37][/us/pl/113/37] added pars. (6) and (7) and struck out former par. (6) which read as follows: “$150,000,000 for fiscal year 2014 and each subsequent fiscal year.”
 
@@ -90,10 +92,13 @@
 [/us/stat/126/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1187
 [/us/pl/113/37/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Ff%2F1
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
+[/us/pl/113/175/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs201
+[/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
 [/us/usc/t38/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4213
 [/us/usc/t38/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4104
 [/us/usc/t38/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4214
 [/us/usc/t38/s4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4105
+[/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37

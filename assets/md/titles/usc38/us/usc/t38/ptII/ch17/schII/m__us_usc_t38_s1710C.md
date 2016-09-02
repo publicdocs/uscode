@@ -239,13 +239,15 @@
 
 >         When possible, the Secretary shall notify each individual listed in the Registry of significant developments in research on the health consequences of military service in the Operation Enduring Freedom and Operation Iraqi Freedom theaters of operations.”
 
- __Pilot Program on Assisted Living Services for Veterans With Traumatic Brain Injury__ 
+    \[Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of [section 3515e of Title 42][/us/usc/t42/s3515e], The Public Health and Welfare.\]
 
-[Pub. L. 110–181, div. A, title XVII, § 1705][/us/pl/110/181/s1705], Jan. 28, 2008, [122 Stat. 491][/us/stat/122/491], provided that:
+ __Pilot Program on Community-Based Brain Injury Residential Rehabilitative Care Services for Veterans With Traumatic Brain Injury__ 
+
+[Pub. L. 110–181, div. A, title XVII, § 1705][/us/pl/110/181/s1705], Jan. 28, 2008, [122 Stat. 491][/us/stat/122/491], as amended by [Pub. L. 113–146, title V, § 501][/us/pl/113/146/s501], Aug. 7, 2014, [128 Stat. 1792][/us/stat/128/1792]; [Pub. L. 113–257, § 2(a)][/us/pl/113/257/s2/a], (b), Dec. 18, 2014, [128 Stat. 2924][/us/stat/128/2924], 2925, provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
->     Beginning not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Veterans Affairs, in collaboration with the Defense and Veterans Brain Injury Center of the Department of Defense, shall carry out a five-year pilot program to assess the effectiveness of providing assisted living services to eligible veterans to enhance the rehabilitation, quality of life, and community integration of such veterans.
+>     Beginning not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Veterans Affairs, in collaboration with the Defense and Veterans Brain Injury Center of the Department of Defense, shall carry out a pilot program to assess the effectiveness of providing community-based brain injury rehabilitative care services to eligible veterans to enhance the rehabilitation, quality of life, and community integration of such veterans.
 
 >     “(b) __Program Locations.—__ 
 
@@ -261,45 +263,77 @@
 
 >         The Secretary shall give special consideration to providing veterans in rural areas with an opportunity to participate in the pilot program.
 
->     “(c) __Provision of Assisted Living Services.—__ 
+>     “(c) __Provision of Community-Based Brain Injury Residential Rehabilitative Care Services.—__ 
 
 >         “(1)  __Agreements__  __.—__ 
 
->         In carrying out the pilot program, the Secretary may enter into agreements for the provision of assisted living services on behalf of eligible veterans with a provider participating under a State plan or waiver under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
+>         In carrying out the pilot program, the Secretary may enter into agreements for the provision of community-based brain injury rehabilitative care services on behalf of eligible veterans with a provider participating under a State plan or waiver under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
 
 >         “(2)  __Standards__  __.—__ 
 
->         The Secretary may not place, transfer, or admit a veteran to any facility for assisted living services under the pilot program unless the Secretary determines that the facility meets such standards as the Secretary may prescribe for purposes of the pilot program. Such standards shall, to the extent practicable, be consistent with the standards of Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such facilities.
+>         The Secretary may not place, transfer, or admit a veteran to any facility for community-based brain injury rehabilitative care services under the pilot program unless the Secretary determines that the facility meets such standards as the Secretary may prescribe for purposes of the pilot program. Such standards shall, to the extent practicable, be consistent with the standards of Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such facilities.
 
 >     “(d)  __Continuation of Case Management and Rehabilitation Services__  __.—__ 
 
 >     In carrying out the pilot program, the Secretary shall—
 
->         “(1) continue to provide each veteran who is receiving assisted living services under the pilot program with rehabilitative services; and
+>         “(1) continue to provide each veteran who is receiving community-based brain injury rehabilitative care services under the pilot program with rehabilitative services; and
 
 >         “(2) designate employees of the Veterans Health Administration of the Department of Veterans Affairs to furnish case management services for veterans participating in the pilot program.
 
->     “(e) __Report.—__ 
+>     “(e) __Reports.—__ 
 
->         “(1)  __In general__  __.—__ 
+>         “(1) __Quarterly reports.—__ 
 
->         Not later than 60 days after the completion of the pilot program, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the pilot program.
+>             “(A)  __In general__  __.—__ 
 
->         “(2)  __Contents__  __.—__ 
+>             For each calendar quarter occurring during the period beginning January 1, 2015, and ending September 30, 2017, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the pilot program.
 
->         The report required by paragraph (1) shall include the following:
+>             “(B)  __Elements__  __.—__ 
 
->             “(A) A description of the pilot program.
+>             Each report submitted under subparagraph (A) shall include each of the following for the quarter preceding the quarter during which the report is submitted the following:
 
->             “(B) An assessment of the utility of the activities under the pilot program in enhancing the rehabilitation, quality of life, and community reintegration of veterans with traumatic brain injury.
+>                 “(i) The number of individuals that participated in the pilot program.
 
->             “(C) Such recommendations as the Secretary considers appropriate regarding the extension or expansion of the pilot program.
+>                 “(ii) The number of individuals that successfully completed the pilot program.
+
+>                 “(iii) The degree to which pilot program participants and family members of pilot program participants were satisfied with the pilot program.
+
+>                 “(iv) The interim findings and conclusions of the Secretary with respect to the success of the pilot program and recommendations for improvement.
+
+>         “(2) __Final report.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Not later than 60 days after the completion of the pilot program, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a final report on the pilot program.
+
+>             “(B)  __Elements__  __.—__ 
+
+>             The final report required by subparagraph (A) shall include the following:
+
+>                 “(i) A description of the pilot program.
+
+>                 “(ii) The Secretary’s assessment of the utility of the activities carried out under the pilot program in enhancing the rehabilitation, quality of life, and community reintegration of veterans with traumatic brain injury.
+
+>                 “(iii)
+
+>                  An evaluation of the pilot program in light of independent living programs carried out by the Secretary under title 38, United States Code, including—
+
+>                          “(I) whether the pilot program duplicates services provided under such independent living programs;
+
+>                          “(II) the ways in which the pilot program provides different services that the services provided under such independent living program;
+
+>                          “(III) how the pilot program could be better defined or shaped; and
+
+>                          “(IV) whether the pilot program should be incorporated into such independent living programs.
+
+>                 “(iv) Such recommendations as the Secretary considers appropriate regarding improving the pilot program.
 
 >     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) The term ‘assisted living services’ means services of a facility in providing room, board, and personal care for and supervision of residents for their health, safety, and welfare.
+>         “(1) The term ‘community-based brain injury rehabilitative care services’ means services of a facility in providing room, board, rehabilitation, and personal care for and supervision of residents for their health, safety, and welfare.
 
 >         “(2) The term ‘case management services’ includes the coordination and facilitation of all services furnished to a veteran by the Department of Veterans Affairs, either directly or through a contract, including assessment of needs, planning, referral (including referral for services to be furnished by the Department, either directly or through a contract, or by an entity other than the Department), monitoring, reassessment, and followup.
 
@@ -314,6 +348,14 @@
 >             “(C) is unable to manage routine activities of daily living without supervision and assistance, as determined by the Secretary; and
 
 >             “(D) could reasonably be expected to receive ongoing services after the end of the pilot program under this section under another program of the Federal Government or through other means, as determined by the Secretary.”
+
+    “(g) Termination.—The pilot program shall terminate on October 6, 2017.”
+
+\[[Pub. L. 113–257, § 2(c)][/us/pl/113/257/s2/c], Dec. 18, 2014, [128 Stat. 2925][/us/stat/128/2925], provided that: 
+
+> “The amendments made by this section \[amending [section 1705 of Pub. L. 110–181][/us/pl/110/181/s1705], set out above\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2014\].”
+
+\]
 
 ----------
 
@@ -339,9 +381,17 @@
 [/us/pl/112/154/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs107%2Fa%2F3
 [/us/pl/110/181/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1704
 [/us/stat/122/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F490
+[/us/usc/t42/s3515e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e
 [/us/pl/110/181/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1705
 [/us/stat/122/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F491
+[/us/pl/113/146/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs501
+[/us/stat/128/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1792
+[/us/pl/113/257/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F257%2Fs2%2Fa
+[/us/stat/128/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2924
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
+[/us/pl/113/257/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F257%2Fs2%2Fc
+[/us/stat/128/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2925
+[/us/pl/110/181/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1705
 
 

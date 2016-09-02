@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1701.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1703.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1702)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s803.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1703.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1702)
 
 ## § 1702. Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1701.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1703.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1702)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s803.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1703.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1702)
 
 ----------
 ----------

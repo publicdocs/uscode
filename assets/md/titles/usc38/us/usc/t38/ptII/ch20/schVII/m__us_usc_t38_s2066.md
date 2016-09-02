@@ -125,15 +125,17 @@
 
     (d)  __Termination__  __.—__ 
 
-    The Committee shall cease to exist December 31, 2014.
+    The Committee shall cease to exist December 31, 2015.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 916][/us/stat/115/916]; amended [Pub. L. 109–444, § 2(e)][/us/pl/109/444/s2/e], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title VII, § 709][/us/pl/109/461/s709], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441], 3468; [Pub. L. 112–37, § 10(f)][/us/pl/112/37/s10/f], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–191, title II, § 206][/us/pl/112/191/s206], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 11][/us/pl/113/59/s11], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663].)
+(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 916][/us/stat/115/916]; amended [Pub. L. 109–444, § 2(e)][/us/pl/109/444/s2/e], Dec. 21, 2006, [120 Stat. 3304][/us/stat/120/3304]; [Pub. L. 109–461, title VII, § 709][/us/pl/109/461/s709], title X, § 1006(b), Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441], 3468; [Pub. L. 112–37, § 10(f)][/us/pl/112/37/s10/f], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–191, title II, § 206][/us/pl/112/191/s206], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 11][/us/pl/113/59/s11], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663]; [Pub. L. 113–175, title II, § 208][/us/pl/113/175/s208], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
 
  __References in Text__ 
 
     The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is [Pub. L. 100–77][/us/pl/100/77], July 22, 1987, [101 Stat. 482][/us/stat/101/482], as amended. Title II of the Act is classified generally to subchapter II (§ 11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42][/us/usc/t42/s11301] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–175][/us/pl/113/175] substituted “December 31, 2015” for “December 31, 2014”.
 
     2013—Subsec. (d). [Pub. L. 113–59][/us/pl/113/59] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -175,9 +177,12 @@
 [/us/stat/126/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1439
 [/us/pl/113/59/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs11
 [/us/stat/127/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F663
+[/us/pl/113/175/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs208
+[/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
+[/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/112/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37

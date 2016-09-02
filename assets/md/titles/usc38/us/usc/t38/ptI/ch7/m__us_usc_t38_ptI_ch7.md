@@ -79,9 +79,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs713" data-uslm-ref="/us/usc/t38/s713">713.</a>  </td>
+
+    <td> Senior executives: removal based on performance or misconduct.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–146, title VII, § 707(a)(2)][/us/pl/113/146/s707/a/2], Aug. 7, 2014, [128 Stat. 1800][/us/stat/128/1800], added item 713.
 
     2001—[Pub. L. 107–103, title V, § 509(a)(2)][/us/pl/107/103/s509/a/2], Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997], struck out item 712 “Full-time equivalent positions: limitation on reduction”.
 
@@ -94,6 +104,8 @@
 ----------
 ----------
 
+[/us/pl/113/146/s707/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs707%2Fa%2F2
+[/us/stat/128/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1800
 [/us/pl/107/103/s509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs509%2Fa%2F2
 [/us/stat/115/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F997
 [/us/pl/103/446/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1102%2Fb

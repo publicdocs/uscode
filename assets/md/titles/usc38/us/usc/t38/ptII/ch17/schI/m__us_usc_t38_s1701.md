@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_ptII_ch17_schI.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1702.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_ptII_ch17_schI.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s105.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701)
 
 ## § 1701. Definitions
 
@@ -281,43 +281,497 @@
 
 > “The provisions of this Act \[see Tables for classification\] shall become effective the first day of the first calendar month following the date of enactment \[Aug. 2, 1973\], except that sections 105 and 106 \[amending section 626 \[now 1726\] of this title and enacting section 628 \[now 1728\] of this title\] shall be effective on January 1, 1971; section 107 \[enacting sections 631 and 632 \[now 1731 and 1732\] of this title and provisions set out as note under [section 1732 of this title][/us/usc/t38/s1732]\] shall be effective July 1, 1973; and section 203 \[amending former [section 4107 of this title][/us/usc/t38/s4107]\] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act \[Aug. 2, 1973\].”
 
- __Location of Services__ 
+ __Veterans Access, Choice and Accountability in Health Care__ 
 
-[Pub. L. 110–387, title III, § 301(b)][/us/pl/110/387/s301/b], Oct. 10, 2008, [122 Stat. 4120][/us/stat/122/4120], provided that: 
+[Pub. L. 113–146, § 2][/us/pl/113/146/s2], titles I, II, VIII, Aug. 7, 2014, [128 Stat. 1755][/us/stat/128/1755], 1769, 1801, as amended by [Pub. L. 113–175, title IV, § 409(a)][/us/pl/113/175/s409/a]–(f), Sept. 26, 2014, [128 Stat. 1906][/us/stat/128/1906], 1907, provided that:
 
-> “Paragraph (5) of [section 1701 of title 38][/us/usc/t38/s1701], United States Code, shall not be construed to prevent the Secretary of Veterans Affairs from providing services described in subparagraph (B) of such paragraph to individuals described in such subparagraph in centers under section 1712A of such title (commonly referred to as ‘Vet Centers’), Department of Veterans Affairs medical centers, community-based outpatient clinics, or in such other facilities of the Department of Veterans Affairs as the Secretary considers necessary.”
+> “SEC. 2. __DEFINITIONS.__ 
 
- __Guidelines Relating to Furnishing of Sensori-Neural Aids__ 
+> “In this Act \[see Tables for classification\]:
 
-[Pub. L. 104–262, title I, § 103(b)][/us/pl/104/262/s103/b], Oct. 9, 1996, [110 Stat. 3182][/us/stat/110/3182], provided that: 
+>     “(1) The term ‘facility of the Department’ has the meaning given the term ‘facilities of the Department’ in [section 1701 of title 38][/us/usc/t38/s1701], United States Code.
 
-> “Not later than 30 days after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary of Veterans Affairs shall prescribe the guidelines required by the amendments made by subsection (a) \[amending this section\] and shall furnish a copy of those guidelines to the Committees on Veterans’ Affairs of the Senate and House of Representatives.”
+>     “(2) The terms ‘hospital care’ and ‘medical services’ have the meanings given such terms in [section 1701 of title 38][/us/usc/t38/s1701], United States Code.“TITLE I—IMPROVEMENT OF ACCESS TO CARE FROM NON-DEPARTMENT OF VETERANS AFFAIRS PROVIDERS
 
- __Study of Feasibility and Advisability of Alternative Organizational Structures for Effective Provision of Health Care Services to Veterans__ 
+> “SEC. 101. __EXPANDED AVAILABILITY OF HOSPITAL CARE AND MEDICAL SERVICES FOR VETERANS THROUGH THE USE OF AGREEMENTS WITH NON-DEPARTMENT OF VETERANS AFFAIRS ENTITIES.__ 
 
-    [Pub. L. 103–446, title XI, § 1104][/us/pl/103/446/s1104], Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682], directed Secretary of Veterans Affairs to submit to Congress, not later than one year after Nov. 2, 1994, report and study on feasibility and advisability of alternative organizational structures, such as the establishment of a wholly-owned Government corporation or a Government-sponsored enterprise, for the effective provision of health care services to veterans.
+>     “(a) __Expansion of Available Care and Services.—__ 
 
- __Contract Health Care; Ratification of Action of Administrator of Veterans’ Affairs__ 
+>         “(1) __Furnishing of care.—__ 
 
-    [Pub. L. 98–528, title I, § 103(b)][/us/pl/98/528/s103/b], Oct. 19, 1984, [98 Stat. 2688][/us/stat/98/2688], ratified actions by Administrator of Veterans’ Affairs in entering into contracts applicable to the period beginning Oct. 1, 1984, and ending Oct. 19, 1984, for care described in par. (4)(C)(v) of this section and in making waivers described in that provision.
+>             “(A)  __In general__  __.—__ 
 
- __Administration Capability To Provide Appropriate Care for Gender-Specific Disabilities of Women Veterans__ 
+>             Hospital care and medical services under chapter 17 of title 38, United States Code, shall be furnished to an eligible veteran described in subsection (b), at the election of such veteran, through agreements authorized under subsection (d), or any other law administered by the Secretary of Veterans Affairs, with entities specified in subparagraph (B) for the furnishing of such care and services to veterans.
 
-[Pub. L. 98–160, title III, § 302][/us/pl/98/160/s302], Nov. 21, 1983, [97 Stat. 1004][/us/stat/97/1004], as amended by [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83][/us/pl/102/83], §§ 5(c)(2), 6(f), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], 407, provided that: 
+>             “(B)  __Entities specified__  __.—__ 
 
-> “The Secretary of Veterans Affairs shall ensure that each health-care facility under the direct jurisdiction of the Secretary is able, through services made available either by individuals appointed to positions in the Veterans Health Administration or under contracts or other agreements made under section 4117 \[see 7409\], 8111, or 8153 of title 38, United States Code, to provide appropriate care, in a timely fashion, for any gender-specific disability (as defined in section 1701(1) of such title) of a woman veteran eligible for such care under chapter 17 or chapter 31 of such title.”
+>             The entities specified in this subparagraph are the following:
 
- __Annual Report to Congress Covering Contract-Care Programs__ 
+>                 “(i) Any health care provider that is participating in the Medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.), including any physician furnishing services under such program.
 
-    [Pub. L. 96–22, title II, § 201(b)][/us/pl/96/22/s201/b], June 13, 1979, [93 Stat. 54][/us/stat/93/54], which directed Chief Medical Director of the Veterans’ Administration to report to appropriate committees of Congress, not later than Feb. 1, 1980, and annually thereafter, on implementation of former par. (4)(C)(v) of this section and amendments made to this section by [section 201 of Pub. L. 96–22][/us/pl/96/22/s201], and on numbers of veterans provided contract treatment (and average cost and duration thereof) in each State in certain enumerated categories, was repealed by [Pub. L. 100–322, title I, § 112(b)][/us/pl/100/322/s112/b], May 20, 1988, [102 Stat. 499][/us/stat/102/499].
+>                 “(ii) Any Federally-qualified health center (as defined in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d][/us/usc/t42/s1396d](l)(2)(B))).
 
- __Hospital Care and Medical Services Furnished by Veterans’ Administration in Puerto Rico and Virgin Islands; Report to President and Congress__ 
+>                 “(iii) The Department of Defense.
 
-    [Pub. L. 95–520, § 8][/us/pl/95/520/s8], Oct. 26, 1978, [92 Stat. 1822][/us/stat/92/1822], as amended by [Pub. L. 96–330, title IV, § 407][/us/pl/96/330/s407], Aug. 26, 1980, [94 Stat. 1053][/us/stat/94/1053], directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1981, to submit a report to President and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
+>                 “(iv) The Indian Health Service.
+
+>         “(2)  __Choice of provider__  __.—__ 
+
+>         An eligible veteran who makes an election under subsection (c) to receive hospital care or medical services under this section may select a provider of such care or services from among the entities specified in paragraph (1)(B) that are accessible to the veteran.
+
+>         “(3)  __Coordination of care and services__  __.—__ 
+
+>         The Secretary shall coordinate, through the Non-VA Care Coordination Program of the Department of Veterans Affairs, the furnishing of care and services under this section to eligible veterans, including by ensuring that an eligible veteran receives an appointment for such care and services within the wait-time goals of the Veterans Health Administration for the furnishing of hospital care and medical services.
+
+>     “(b)  __Eligible Veterans__  __.—__ 
+
+>     A veteran is an eligible veteran for purposes of this section if—
+
+>         “(1)
+
+>             (A) as of August 1, 2014, the veteran is enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under [section 1705 of title 38][/us/usc/t38/s1705], United States Code, including any such veteran who has not received hospital care or medical services from the Department and has contacted the Department seeking an initial appointment from the Department for the receipt of such care or services; or
+
+>             “(B) the veteran is eligible for hospital care and medical services under section 1710(e)(1)(D) of such title and is a veteran described in section 1710(e)(3) of such title; and
+
+>         “(2)
+
+>          the veteran—
+
+>             “(A) attempts, or has attempted, to schedule an appointment for the receipt of hospital care or medical services under chapter 17 of title 38, United States Code, but is unable to schedule an appointment within the wait-time goals of the Veterans Health Administration for the furnishing of such care or services;
+
+>             “(B) resides more than 40 miles from the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran;
+
+>             “(C)
+
+>              resides—
+
+>                 “(i)
+
+>                  in a State without a medical facility of the Department that provides—
+
+>                          “(I) hospital care;
+
+>                          “(II) emergency medical services; and
+
+>                          “(III) surgical care rated by the Secretary as having a surgical complexity of standard; and
+
+>                 “(ii) more than 20 miles from a medical facility of the Department described in clause (i); or
+
+>             “(D)
+
+>                 (i) resides in a location, other than a location in Guam, American Samoa, or the Republic of the Philippines, that is 40 miles or less from a medical facility of the Department, including a community-based outpatient clinic; and
+
+>                 “(ii)
+
+>                     (I) is required to travel by air, boat, or ferry to reach each medical facility described in clause (i) that is 40 miles or less from the residence of the veteran; or
+
+>                     “(II) faces an unusual or excessive burden in accessing each medical facility described in clause (i) that is 40 miles or less from the residence of the veteran due to geographical challenges, as determined by the Secretary.
+
+>     “(c) __Election and Authorization.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In the case of an eligible veteran described in subsection (b)(2)(A), the Secretary shall, at the election of the eligible veteran—
+
+>             “(A) provide the veteran an appointment that exceeds the wait-time goals described in such subsection or place such eligible veteran on an electronic waiting list described in paragraph (2) for an appointment for hospital care or medical services the veteran has elected to receive under this section; or
+
+>             “(B)
+
+>                 (i) authorize that such care or services be furnished to the eligible veteran under this section for a period of time specified by the Secretary; and
+
+>                 “(ii) notify the eligible veteran by the most effective means available, including electronic communication or notification in writing, describing the care or services the eligible veteran is eligible to receive under this section.
+
+>         “(2)  __Electronic waiting list__  __.—__ 
+
+>         The electronic waiting list described in this paragraph shall be maintained by the Department and allow access by each eligible veteran via www.myhealth.va.gov or any successor website (or other digital channel) for the following purposes:
+
+>             “(A) To determine the place of such eligible veteran on the waiting list.
+
+>             “(B) To determine the average length of time an individual spends on the waiting list, disaggregated by medical facility of the Department and type of care or service needed, for purposes of allowing such eligible veteran to make an informed election under paragraph (1).
+
+>     “(d) __Care and Services Through Agreements.—__ 
+
+>         “(1) __Agreements.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary shall enter into agreements for furnishing care and services to eligible veterans under this section with entities specified in subsection (a)(1)(B). An agreement entered into pursuant to this subparagraph may not be treated as a Federal contract for the acquisition of goods or services and is not subject to any provision of law governing Federal contracts for the acquisition of goods or services. Before entering into an agreement pursuant to this subparagraph, the Secretary shall, to the maximum extent practicable and consistent with the requirements of this section, furnish such care and services to such veterans under this section with such entities pursuant to sharing agreements, existing contracts entered into by the Secretary, or other processes available at medical facilities of the Department.
+
+>             “(B)  __Agreement defined__  __.—__ 
+
+>             In this paragraph, the term “agreement” includes contracts, intergovernmental agreements, and provider agreements, as appropriate.
+
+>         “(2) __Rates and reimbursement.—__ 
+
+>             “(A) __In general.—__ 
+
+>             In entering into an agreement under paragraph (1) with an entity specified in subsection (a)(1)(B), the Secretary shall—
+
+>                 “(i) negotiate rates for the furnishing of care and services under this section; and
+
+>                 “(ii) reimburse the entity for such care and services at the rates negotiated pursuant to clause (i) as provided in such agreement.
+
+>             “(B) __Limit on rates.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Except as provided in clause (ii), rates negotiated under subparagraph (A)(i) shall not be more than the rates paid by the United States to a provider of services (as defined in section 1861(u) of the Social Security Act ([42 U.S.C. 1395x(u)][/us/usc/t42/s1395x/u])) or a supplier (as defined in section 1861(d) of such Act ([42 U.S.C. 1395x(d)][/us/usc/t42/s1395x/d])) under the Medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) for the same care or services.
+
+>                 “(ii) __Exception.—__ 
+
+>                          “(I)  __In general__  __.—__ 
+
+>                     The Secretary may negotiate a rate that is more than the rate paid by the United States as described in clause (i) with respect to the furnishing of care or services under this section to an eligible veteran who resides in a highly rural area.
+
+>                          “(II)  __Highly rural area defined__  __.—__ 
+
+>                     In this clause, the term ‘highly rural area’ means an area located in a county that has fewer than seven individuals residing in that county per square mile.
+
+>             “(C)  __Limit on collection__  __.—__ 
+
+>             For the furnishing of care or services pursuant to an agreement under paragraph (1), an entity specified in subsection (a)(1)(B) may not collect any amount that is greater than the rate negotiated pursuant to subparagraph (A)(i).
+
+>         “(3) __Certain procedures.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             In entering into an agreement under paragraph (1) with an entity described in subparagraph (B), the Secretary may use the procedures, including those procedures relating to reimbursement, available for entering into provider agreements under section 1866(a) of the Social Security Act ([42 U.S.C. 1395cc(a)][/us/usc/t42/s1395cc/a]) and participation agreements under section 1842(h) of such Act ([42 U.S.C. 1395u(h)][/us/usc/t42/s1395u/h]). During the period in which such entity furnishes care or services pursuant to this section, such entity may not be treated as a Federal contractor or subcontractor by the Office of Federal Contract Compliance Programs of the Department of Labor by virtue of furnishing such care or services.
+
+>             “(B)  __Entities described__  __.—__ 
+
+>             The entities described in this subparagraph are the following:
+
+>                 “(i) In the case of the Medicare program, any provider of services that has entered into a provider agreement under section 1866(a) of the Social Security Act ([42 U.S.C. 1395cc(a)][/us/usc/t42/s1395cc/a]) and any physician or other supplier who has entered into a participation agreement under section 1842(h) of such Act ([42 U.S.C. 1395u(h)][/us/usc/t42/s1395u/h]); and
+
+>                 “(ii) In the case of the Medicaid program, any provider participating under a State plan under title XIX of such Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
+
+>         “(4)  __Information on policies and procedures__  __.—__ 
+
+>         The Secretary shall provide to any entity with which the Secretary has entered into an agreement under paragraph (1) the following:
+
+>             “(A) Information on applicable policies and procedures for submitting bills or claims for authorized care or services furnished to eligible veterans under this section.
+
+>             “(B)
+
+>              Access to a telephone hotline maintained by the Department that such entity may call for information on the following:
+
+>                 “(i) Procedures for furnishing care and services under this section.
+
+>                 “(ii) Procedures for submitting bills or claims for authorized care and services furnished to eligible veterans under this section and being reimbursed for furnishing such care and services.
+
+>                 “(iii) Whether particular care or services under this section are authorized, and the procedures for authorization of such care or services.
+
+>     “(e) __Other Health-Care Plan.—__ 
+
+>         “(1)  __Submittal of information to secretary__  __.—__ 
+
+>         Before receiving hospital care or medical services under this section, an eligible veteran shall provide to the Secretary information on any health-care plan described in paragraph (4) under which the eligible veteran is covered.
+
+>         “(2)  __Disclosure of information to non-department entity__  __.—__ 
+
+>         Notwithstanding [section 5701 of title 38][/us/usc/t38/s5701], United States Code, for purposes of furnishing hospital care or medical services to an eligible veteran under this section, the Secretary shall disclose to the entity specified in paragraph (1)(B) of subsection (a) with which the Secretary has entered into an agreement described in such subsection—
+
+>             “(A) whether the eligible veteran is covered under a health-care plan described in paragraph (4); and
+
+>             “(B) whether the hospital care or medical services sought by the eligible veteran is for a medical condition that is related to a non-service-connected disability described in paragraph (3)(C).
+
+>         “(3) __Care for which the department is secondarily responsible.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             If an eligible veteran is covered under a health-care plan described in paragraph (4) and receives hospital care or medical services for a non-service-connected disability described in subparagraph (C), such health-care plan shall be primarily responsible for paying for such care or services, to the extent such care or services is covered by such health-care plan, and the Secretary shall be secondarily responsible for paying for such care or services in accordance with subparagraph (B)(ii).
+
+>             “(B)  __Responsibility for costs of care__  __.—__ 
+
+>             In a case in which the Secretary is secondarily responsible for paying for hospital care or medical services as described in subparagraph (A)—
+
+>                 “(i) the health care provider that furnishes such care or services pursuant to an agreement described in subsection (a) shall be responsible for seeking reimbursement for the cost of such care or services from the health-care plan described in paragraph (4) under which the eligible veteran is covered; and
+
+>                 “(ii) the Secretary shall be responsible for promptly paying only the amount that is not covered by such health-care plan, except that such responsibility for payment may not exceed the rate determined for such care or services pursuant to subsection (d)(2).
+
+>             “(C)  __Non-service-connected disability described__  __.—__ 
+
+>             A non-service-connected disability described in this subsection is a non-service-connected disability (as defined in [section 101 of title 38][/us/usc/t38/s101], United States Code)—
+
+>                 “(i) that is incurred incident to a veteran’s employment and that is covered under a workers’ compensation law or plan that provides for payment for the cost of health care and services provided to the veteran by reason of the disability;
+
+>                 “(ii) that is incurred as the result of a motor vehicle accident to which applies a State law that requires the owners or operators of motor vehicles registered in that State to have in force automobile accident reparations insurance;
+
+>                 “(iii) that is incurred as the result of a crime of personal violence that occurred in a State, or a political subdivision of a State, in which a person injured as the result of such a crime is entitled to receive health care and services at such State’s or subdivision’s expense for personal injuries suffered as the result of such crime;
+
+>                 “(iv)
+
+>                  that is incurred by a veteran—
+
+>                          “(I) who does not have a service-connected disability; and
+
+>                          “(II) who is entitled to care (or payment of the expenses of care) under a health-care plan; or
+
+>                 “(v)
+
+>                  for which care and services are furnished under this section to a veteran who—
+
+>                          “(I) has a service-connected disability; and
+
+>                          “(II) is entitled to care (or payment of the expenses of care) under a health-care plan.
+
+>         “(4)  __Health-care plan__  __.—__ 
+
+>         A health-care plan described in this paragraph—
+
+>             “(A) is an insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar arrangement not administered by the Secretary of Veterans Affairs, under which health services for individuals are provided or the expenses of such services are paid; and
+
+>             “(B) does not include any such policy, contract, agreement, or similar arrangement pursuant to title XVIII or XIX of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\[, 1396 et seq.\]) or chapter 55 of title 10, United States Code.
+
+>     “(f) __Veterans Choice Card.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         For purposes of receiving care and services under this section, the Secretary shall, not later than 90 days after the date of the enactment of this Act \[Aug. 7, 2014\], issue to each veteran described in subsection (b)(1) a card that may be presented to a health care provider to facilitate the receipt of care or services under this section.
+
+>         “(2)  __Name of card__  __.—__ 
+
+>         Each card issued under paragraph (1) shall be known as a ‘Veterans Choice Card’.
+
+>         “(3)  __Details of card__  __.—__ 
+
+>         Each Veterans Choice Card issued to a veteran under paragraph (1) shall include the following:
+
+>             “(A) The name of the veteran.
+
+>             “(B) An identification number for the veteran that is not the social security number of the veteran.
+
+>             “(C) The contact information of an appropriate office of the Department for health care providers to confirm that care or services under this section are authorized for the veteran.
+
+>             “(D) Contact information and other relevant information for the submittal of claims or bills for the furnishing of care or services under this section.
+
+>             “(E) The following statement: ‘This card is for qualifying medical care outside the Department of Veterans Affairs. Please call the Department of Veterans Affairs phone number specified on this card to ensure that treatment has been authorized.’.
+
+>         “(4)  __Information on use of card__  __.—__ 
+
+>         Upon issuing a Veterans Choice Card to a veteran, the Secretary shall provide the veteran with information clearly stating the circumstances under which the veteran may be eligible for care or services under this section.
+
+>     “(g)  __Information on Availability of Care__  __.—__ 
+
+>     The Secretary shall provide information to a veteran about the availability of care and services under this section in the following circumstances:
+
+>         “(1) In the case of a veteran described in subsection (b)(1)(B), when the veteran enrolls in the patient enrollment system of the Department under [section 1705 of title 38][/us/usc/t38/s1705], United States Code.
+
+>         “(2) When the veteran attempts to schedule an appointment for the receipt of hospital care or medical services from the Department but is unable to schedule an appointment within the wait-time goals of the Veterans Health Administration for the furnishing of such care or services.
+
+>         “(3) When the veteran becomes eligible for hospital care or medical services under this section under subparagraph (B), (C), or (D) of subsection (b)(2).
+
+>     “(h)  __Follow-Up Care__  __.—__ 
+
+>     In carrying out this section, the Secretary shall ensure that, at the election of an eligible veteran who receives hospital care or medical services from a health care provider in an episode of care under this section, the veteran receives such hospital care and medical services from such health care provider through the completion of the episode of care (but for a period not exceeding 60 days), including all specialty and ancillary services deemed necessary as part of the treatment recommended in the course of such hospital care or medical services.
+
+>     “(i)  __Providers__  __.—__ 
+
+>     To be eligible to furnish care or services under this section, a health care provider must—
+
+>         “(1) maintain at least the same or similar credentials and licenses as those credentials and licenses that are required of health care providers of the Department, as determined by the Secretary for purposes of this section; and
+
+>         “(2) submit, not less frequently than once each year during the period in which the Secretary is authorized to carry out this section pursuant to subsection (p), verification of such licenses and credentials maintained by such health care provider.
+
+>     “(j) __Cost-Sharing.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary shall require an eligible veteran to pay a copayment for the receipt of care or services under this section only if such eligible veteran would be required to pay a copayment for the receipt of such care or services at a medical facility of the Department or from a health care provider of the Department pursuant to chapter 17 of title 38, United States Code.
+
+>         “(2)  __Limitation__  __.—__ 
+
+>         The amount of a copayment charged under paragraph (1) may not exceed the amount of the copayment that would be payable by such eligible veteran for the receipt of such care or services at a medical facility of the Department or from a health care provider of the Department pursuant to chapter 17 of title 38, United States Code.
+
+>         “(3)  __Collection of copayment__  __.—__ 
+
+>         A health care provider that furnishes care or services to an eligible veteran under this section shall collect the copayment required under paragraph (1) from such eligible veteran at the time of furnishing such care or services.
+
+>     “(k) __Claims Processing System.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary shall provide for an efficient nationwide system for processing and paying bills or claims for authorized care and services furnished to eligible veterans under this section.
+
+>         “(2)  __Regulations__  __.—__ 
+
+>         Not later than 90 days after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary of Veterans Affairs shall prescribe regulations for the implementation of such system.
+
+>         “(3)  __Oversight__  __.—__ 
+
+>         The Chief Business Office of the Veterans Health Administration shall oversee the implementation and maintenance of such system.
+
+>         “(4) __Accuracy of payment.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary shall ensure that such system meets such goals for accuracy of payment as the Secretary shall specify for purposes of this section.
+
+>             “(B) __Quarterly report.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 The Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a quarterly report on the accuracy of such system.
+
+>                 “(ii)  __Elements__  __.—__ 
+
+>                 Each report required by clause (i) shall include the following:
+
+>                          “(I) A description of the goals for accuracy for such system specified by the Secretary under subparagraph (A).
+
+>                          “(II) An assessment of the success of the Department in meeting such goals during the quarter covered by the report.
+
+>                 “(iii)  __Deadline__  __.—__ 
+
+>                 The Secretary shall submit each report required by clause (i) not later than 20 days after the end of the quarter covered by the report.
+
+>     “(l) __Medical Records.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary shall ensure that any health care provider that furnishes care or services under this section to an eligible veteran submits to the Department a copy of any medical record related to the care or services provided to such eligible veteran by such health care provider for inclusion in the electronic medical record of such eligible veteran maintained by the Department upon the completion of the provision of such care or services to such eligible veteran.
+
+>         “(2)  __Electronic format__  __.—__ 
+
+>         Any medical record submitted to the Department under paragraph (1) shall, to the extent possible, be in an electronic format.
+
+>     “(m)  __Tracking of Missed Appointments__  __.—__ 
+
+>     The Secretary shall implement a mechanism to track any missed appointments for care or services under this section by eligible veterans to ensure that the Department does not pay for such care or services that were not furnished to an eligible veteran.
+
+>     “(n)  __Implementation__  __.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary shall prescribe interim final regulations on the implementation of this section and publish such regulations in the Federal Register.
+
+>     “(o)  __Inspector General Report__  __.—__ 
+
+>     Not later than 30 days after the date on which the Secretary determines that 75 percent of the amounts deposited in the Veterans Choice Fund established by section 802 have been exhausted, the Inspector General of the Department shall submit to the Secretary a report on the results of an audit of the care and services furnished under this section to ensure the accuracy and timeliness of payments by the Department for the cost of such care and services, including any findings and recommendations of the Inspector General.
+
+>     “(p) __Authority To Furnish Care and Services.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary may not use the authority under this section to furnish care and services after the date specified in paragraph (2).
+
+>         “(2)  __Date specified__  __.—__ 
+
+>         The date specified in this paragraph is the date on which the Secretary has exhausted all amounts deposited in the Veterans Choice Fund established by section 802, or the date that is 3 years after the date of the enactment of this Act \[Aug. 7, 2014\], whichever occurs first.
+
+>         “(3)  __Publication__  __.—__ 
+
+>         The Secretary shall publish such date in the Federal Register and on an Internet website of the Department available to the public not later than 30 days before such date.
+
+>     “(q) __Reports.—__ 
+
+>         “(1)  __Initial report__  __.—__ 
+
+>         Not later than 90 days after the publication of the interim final regulations under subsection (n), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the furnishing of care and services under this section that includes the following:
+
+>             “(A) The number of eligible veterans who have received care or services under this section.
+
+>             “(B) A description of the types of care and services furnished to eligible veterans under this section.
+
+>         “(2)  __Final report__  __.—__ 
+
+>         Not later than 30 days after the date on which the Secretary determines that 75 percent of the amounts deposited in the Veterans Choice Fund established by section 802 have been exhausted, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the furnishing of care and services under this section that includes the following:
+
+>             “(A)
+
+>              The total number of eligible veterans who have received care or services under this section, disaggregated by—
+
+>                 “(i) eligible veterans described in subsection (b)(2)(A);
+
+>                 “(ii) eligible veterans described in subsection (b)(2)(B);
+
+>                 “(iii) eligible veterans described in subsection (b)(2)(C); and
+
+>                 “(iv) eligible veterans described in subsection (b)(2)(D).
+
+>             “(B) A description of the types of care and services furnished to eligible veterans under this section.
+
+>             “(C) An accounting of the total cost of furnishing care and services to eligible veterans under this section.
+
+>             “(D) The results of a survey of eligible veterans who have received care or services under this section on the satisfaction of such eligible veterans with the care or services received by such eligible veterans under this section.
+
+>             “(E) An assessment of the effect of furnishing care and services under this section on wait times for appointments for the receipt of hospital care and medical services from the Department.
+
+>             “(F) An assessment of the feasibility and advisability of continuing furnishing care and services under this section after the termination date specified in subsection (p).
+
+>     “(r)  __Rule of Construction__  __.—__ 
+
+>     Nothing in this section shall be construed to alter the process of the Department for filling and paying for prescription medications.
+
+>     “(s) __Wait-Time Goals of the Veterans Health Administration.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided in paragraph (2), in this section, the term ‘wait-time goals of the Veterans Health Administration’ means not more than 30 days from the date on which a veteran requests an appointment for hospital care or medical services from the Department.
+
+>         “(2)  __Alternate goals__  __.—__ 
+
+>         If the Secretary submits to Congress, not later than 60 days after the date of the enactment of this Act \[Aug. 7, 2014\], a report stating that the actual wait-time goals of the Veterans Health Administration are different from the wait-time goals specified in paragraph (1)—
+
+>             “(A) for purposes of this section, the wait-time goals of the Veterans Health Administration shall be the wait-time goals submitted by the Secretary under this paragraph; and
+
+>             “(B) the Secretary shall publish such wait-time goals in the Federal Register and on an Internet website of the Department available to the public.
+
+>     “(t)  __Waiver of Certain Printing Requirements__  __.—__ 
+
+>     [Section 501 of title 44][/us/usc/t44/s501], United States Code, shall not apply in carrying out this section.
+
+> “SEC. 102. __ENHANCEMENT OF COLLABORATION BETWEEN DEPARTMENT OF VETERANS AFFAIRS AND INDIAN HEALTH SERVICE.__ 
+
+>     “(a)  __Outreach to Tribal-Run Medical Facilities__  __.—__ 
+
+>     The Secretary of Veterans Affairs shall, in consultation with the Director of the Indian Health Service, conduct outreach to each medical facility operated by an Indian tribe or tribal organization through a contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.) to raise awareness of the ability of such facilities, Indian tribes, and tribal organizations to enter into agreements with the Department of Veterans Affairs under which the Secretary reimburses such facilities, Indian tribes, or tribal organizations, as the case may be, for health care provided to veterans who are—
+
+>         “(1) eligible for health care at such facilities; and
+
+>         “(2)
+
+>             (A) enrolled in the patient enrollment system of the Department established and operated under [section 1705 of title 38][/us/usc/t38/s1705], United States Code; or
+
+>             “(B) eligible for hospital care and medical services pursuant to subsection (c)(2) of such section.
+
+>     “(b)  __Performance Metrics for Memorandum of Understanding__  __.—__ 
+
+>     The Secretary of Veterans Affairs and the Director of the Indian Health Service shall jointly establish and implement performance metrics for assessing the performance by the Department of Veterans Affairs and the Indian Health Service under the memorandum of understanding entitled ‘Memorandum of Understanding between the Department of Veterans Affairs (VA) and the Indian Health Service (IHS)’ in increasing access to health care, improving quality and coordination of health care, promoting effective patient-centered collaboration and partnerships between the Department and the Service, and ensuring health-promotion and disease-prevention services are appropriately funded and available for beneficiaries under both health care systems.
+
+>     “(c)  __Report__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary of Veterans Affairs and the Director of the Indian Health Service shall jointly submit to Congress a report on the feasibility and advisability of the following:
+
+>         “(1) Entering into agreements for the reimbursement by the Secretary of the costs of direct care services provided through organizations receiving amounts pursuant to grants made or contracts entered into under section 503 of the Indian Health Care Improvement Act ([25 U.S.C. 1653][/us/usc/t25/s1653]) to veterans who are otherwise eligible to receive health care from such organizations.
+
+>         “(2)
+
+>          Including the reimbursement of the costs of direct care services provided to veterans who are not Indians in agreements between the Department and the following:
+
+>             “(A) The Indian Health Service.
+
+>             “(B) An Indian tribe or tribal organization operating a medical facility through a contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.).
+
+>             “(C) A medical facility of the Indian Health Service.
+
+>         “(3) Entering into an agreement between the Department and the Indian Health Service described in paragraph (2)(A) with respect to the effect of such agreement on the priority access of any Indian to health care services provided through the Indian Health Service, the eligibility of any Indian to receive health services through the Indian Health Service, and the quality of health care services provided to any Indian through the Indian Health Service.
+
+> “SEC. 103. __ENHANCEMENT OF COLLABORATION BETWEEN DEPARTMENT OF VETERANS AFFAIRS AND NATIVE HAWAIIAN HEALTH CARE SYSTEMS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Veterans Affairs shall, in consultation with Papa Ola Lokahi and such other organizations involved in the delivery of health care to Native Hawaiians as the Secretary considers appropriate, enter into contracts or agreements with Native Hawaiian health care systems that are in receipt of funds from the Secretary of Health and Human Services pursuant to grants awarded or contracts entered into under section 6(a) of the Native Hawaiian Health Care Improvement Act ([42 U.S.C. 11705(a)][/us/usc/t42/s11705/a]) for the reimbursement of direct care services provided to eligible veterans as specified in such contracts or agreements.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section, the terms ‘Native Hawaiian’, ‘Native Hawaiian health care system’, and ‘Papa Ola Lokahi’ have the meanings given those terms in section 12 of the Native Hawaiian Health Care Improvement Act ([42 U.S.C. 11711][/us/usc/t42/s11711]).
+
+> “SEC. 104. __REAUTHORIZATION AND MODIFICATION OF PILOT PROGRAM OF ENHANCED CONTRACT CARE AUTHORITY FOR HEALTH CARE NEEDS OF VETERANS.__ 
+
+>     \[Amended section 403 of Pub. L. 110—387, set out as a note under [section 1703 of this title][/us/usc/t38/s1703]\]
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_ptII_ch17_schI.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s1702.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701)
+[Previous](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_ptII_ch17_schI.md) | [Next](./../../../../../..//us/usc/t38/ptII/ch17/schI/m__us_usc_t38_s105.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701)
 
 ----------
 ----------
@@ -504,29 +958,34 @@
 [/us/stat/87/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F196
 [/us/usc/t38/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1732
 [/us/usc/t38/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107
-[/us/pl/110/387/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs301%2Fb
-[/us/stat/122/4120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4120
+[/us/pl/113/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs2
+[/us/stat/128/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1755
+[/us/pl/113/175/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs409%2Fa
+[/us/stat/128/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1906
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
-[/us/pl/104/262/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F262%2Fs103%2Fb
-[/us/stat/110/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3182
-[/us/pl/103/446/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1104
-[/us/stat/108/4682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4682
-[/us/pl/98/528/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F528%2Fs103%2Fb
-[/us/stat/98/2688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2688
-[/us/pl/98/160/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs302
-[/us/stat/97/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1004
-[/us/pl/102/40/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F2
-[/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
-[/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/96/22/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs201%2Fb
-[/us/stat/93/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F54
-[/us/pl/96/22/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F22%2Fs201
-[/us/pl/100/322/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F322%2Fs112%2Fb
-[/us/stat/102/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F499
-[/us/pl/95/520/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F520%2Fs8
-[/us/stat/92/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1822
-[/us/pl/96/330/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F330%2Fs407
-[/us/stat/94/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1053
+[/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
+[/us/usc/t42/s1395x/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fu
+[/us/usc/t42/s1395x/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fd
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa
+[/us/usc/t42/s1395u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fh
+[/us/usc/t42/s1395cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa
+[/us/usc/t42/s1395u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fh
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t38/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5701
+[/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
+[/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
+[/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
+[/us/usc/t25/s1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1653
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
+[/us/usc/t42/s11705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11705%2Fa
+[/us/usc/t42/s11711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11711
+[/us/usc/t38/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1703
 
 

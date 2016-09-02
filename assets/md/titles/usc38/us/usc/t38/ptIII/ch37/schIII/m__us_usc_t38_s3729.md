@@ -101,7 +101,7 @@
 
             <td> 
 
-        (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2017)  </td>
+        (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before September 30, 2024)  </td>
 
             <td> 
 
@@ -121,7 +121,7 @@
 
             <td> 
 
-        (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2017)  </td>
+        (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after September 30, 2024)  </td>
 
             <td> 
 
@@ -141,7 +141,7 @@
 
             <td> 
 
-        (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2017)  </td>
+        (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before September 30, 2024)  </td>
 
             <td> 
 
@@ -161,7 +161,7 @@
 
             <td> 
 
-        (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2017)  </td>
+        (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after September 30, 2024)  </td>
 
             <td> 
 
@@ -181,7 +181,7 @@
 
             <td> 
 
-        (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2017)  </td>
+        (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before September 30, 2024)  </td>
 
             <td> 
 
@@ -201,7 +201,7 @@
 
             <td> 
 
-        (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2017)  </td>
+        (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after September 30, 2024)  </td>
 
             <td> 
 
@@ -221,7 +221,7 @@
 
             <td> 
 
-        (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2017)  </td>
+        (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before September 30, 2024)  </td>
 
             <td> 
 
@@ -241,7 +241,7 @@
 
             <td> 
 
-        (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2017)  </td>
+        (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after September 30, 2024)  </td>
 
             <td> 
 
@@ -419,9 +419,11 @@
 
                 (ii) based on a pre-discharge review of existing medical evidence (including service medical and treatment records) that results in the issuance of a memorandum rating.
 
-(Added [Pub. L. 97–253, title IV, § 406(a)(1)][/us/pl/97/253/s406/a/1], Sept. 8, 1982, [96 Stat. 805][/us/stat/96/805], § 1829; amended [Pub. L. 98–369, div. B, title V, § 2511(a)][/us/pl/98/369/s2511/a], July 18, 1984, [98 Stat. 1117][/us/stat/98/1117]; [Pub. L. 100–198][/us/pl/100/198], §§ 2, 10(c), Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315], 1323; [Pub. L. 100–203, title VII, § 7002][/us/pl/100/203/s7002], Dec. 22, 1987, [101 Stat. 1330–279][/us/stat/101/1330-279]; [Pub. L. 100–322, title IV, § 415(c)(6)][/us/pl/100/322/s415/c/6], May 20, 1988, [102 Stat. 551][/us/stat/102/551]; [Pub. L. 101–237, title III][/us/pl/101/237], §§ 303(a), 313(b)(1), Dec. 18, 1989, [103 Stat. 2071][/us/stat/103/2071], 2077; [Pub. L. 101–239, title V, § 5001][/us/pl/101/239/s5001], Dec. 19, 1989, [103 Stat. 2136][/us/stat/103/2136]; [Pub. L. 101–508, title VIII, § 8032][/us/pl/101/508/s8032], Nov. 5, 1990, [104 Stat. 1388–348][/us/stat/104/1388-348]; [Pub. L. 102–54, § 15(a)(3)][/us/pl/102/54/s15/a/3], (4), June 13, 1991, [105 Stat. 289][/us/stat/105/289]; renumbered § 3729 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–547][/us/pl/102/547], §§ 2(b)(1), 5, Oct. 28, 1992, [106 Stat. 3633][/us/stat/106/3633], 3636; [Pub. L. 103–66, title XII, § 12007][/us/pl/103/66/s12007], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 103–446, title IX, § 904(c)][/us/pl/103/446/s904/c], Nov. 2, 1994, [108 Stat. 4677][/us/stat/108/4677]; [Pub. L. 104–275, title II, § 202(b)][/us/pl/104/275/s202/b], Oct. 9, 1996, [110 Stat. 3330][/us/stat/110/3330]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8012, 8032, Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664], 669; [Pub. L. 105–368, title VI][/us/pl/105/368], §§ 602(e)(1)(D), 603(b), Nov. 11, 1998, [112 Stat. 3346][/us/stat/112/3346], 3348; [Pub. L. 106–419, title IV, § 402(b)][/us/pl/106/419/s402/b], Nov. 1, 2000, [114 Stat. 1861][/us/stat/114/1861]; [Pub. L. 107–14, § 8(b)(4)][/us/pl/107/14/s8/b/4], June 5, 2001, [115 Stat. 36][/us/stat/115/36]; [Pub. L. 107–103, title IV][/us/pl/107/103], §§ 405(c), 406, Dec. 27, 2001, [115 Stat. 994][/us/stat/115/994]; [Pub. L. 108–183, title IV, § 405][/us/pl/108/183/s405], Dec. 16, 2003, [117 Stat. 2665][/us/stat/117/2665]; [Pub. L. 108–454, title IV, § 406][/us/pl/108/454/s406], Dec. 10, 2004, [118 Stat. 3617][/us/stat/118/3617]; [Pub. L. 111–275, title II, § 204][/us/pl/111/275/s204], Oct. 13, 2010, [124 Stat. 2874][/us/stat/124/2874]; [Pub. L. 112–26, § 3(a)][/us/pl/112/26/s3/a], Aug. 3, 2011, [125 Stat. 269][/us/stat/125/269]; [Pub. L. 112–37, § 15][/us/pl/112/37/s15], Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 112–56, title II, § 265(a)][/us/pl/112/56/s265/a], Nov. 21, 2011, [125 Stat. 732][/us/stat/125/732]; [Pub. L. 112–154, title II, § 210][/us/pl/112/154/s210], title VII, § 702(b), Aug. 6, 2012, [126 Stat. 1179][/us/stat/126/1179], 1205.)
+(Added [Pub. L. 97–253, title IV, § 406(a)(1)][/us/pl/97/253/s406/a/1], Sept. 8, 1982, [96 Stat. 805][/us/stat/96/805], § 1829; amended [Pub. L. 98–369, div. B, title V, § 2511(a)][/us/pl/98/369/s2511/a], July 18, 1984, [98 Stat. 1117][/us/stat/98/1117]; [Pub. L. 100–198][/us/pl/100/198], §§ 2, 10(c), Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315], 1323; [Pub. L. 100–203, title VII, § 7002][/us/pl/100/203/s7002], Dec. 22, 1987, [101 Stat. 1330–279][/us/stat/101/1330-279]; [Pub. L. 100–322, title IV, § 415(c)(6)][/us/pl/100/322/s415/c/6], May 20, 1988, [102 Stat. 551][/us/stat/102/551]; [Pub. L. 101–237, title III][/us/pl/101/237], §§ 303(a), 313(b)(1), Dec. 18, 1989, [103 Stat. 2071][/us/stat/103/2071], 2077; [Pub. L. 101–239, title V, § 5001][/us/pl/101/239/s5001], Dec. 19, 1989, [103 Stat. 2136][/us/stat/103/2136]; [Pub. L. 101–508, title VIII, § 8032][/us/pl/101/508/s8032], Nov. 5, 1990, [104 Stat. 1388–348][/us/stat/104/1388-348]; [Pub. L. 102–54, § 15(a)(3)][/us/pl/102/54/s15/a/3], (4), June 13, 1991, [105 Stat. 289][/us/stat/105/289]; renumbered § 3729 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–547][/us/pl/102/547], §§ 2(b)(1), 5, Oct. 28, 1992, [106 Stat. 3633][/us/stat/106/3633], 3636; [Pub. L. 103–66, title XII, § 12007][/us/pl/103/66/s12007], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 103–446, title IX, § 904(c)][/us/pl/103/446/s904/c], Nov. 2, 1994, [108 Stat. 4677][/us/stat/108/4677]; [Pub. L. 104–275, title II, § 202(b)][/us/pl/104/275/s202/b], Oct. 9, 1996, [110 Stat. 3330][/us/stat/110/3330]; [Pub. L. 105–33, title VIII][/us/pl/105/33], §§ 8012, 8032, Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664], 669; [Pub. L. 105–368, title VI][/us/pl/105/368], §§ 602(e)(1)(D), 603(b), Nov. 11, 1998, [112 Stat. 3346][/us/stat/112/3346], 3348; [Pub. L. 106–419, title IV, § 402(b)][/us/pl/106/419/s402/b], Nov. 1, 2000, [114 Stat. 1861][/us/stat/114/1861]; [Pub. L. 107–14, § 8(b)(4)][/us/pl/107/14/s8/b/4], June 5, 2001, [115 Stat. 36][/us/stat/115/36]; [Pub. L. 107–103, title IV][/us/pl/107/103], §§ 405(c), 406, Dec. 27, 2001, [115 Stat. 994][/us/stat/115/994]; [Pub. L. 108–183, title IV, § 405][/us/pl/108/183/s405], Dec. 16, 2003, [117 Stat. 2665][/us/stat/117/2665]; [Pub. L. 108–454, title IV, § 406][/us/pl/108/454/s406], Dec. 10, 2004, [118 Stat. 3617][/us/stat/118/3617]; [Pub. L. 111–275, title II, § 204][/us/pl/111/275/s204], Oct. 13, 2010, [124 Stat. 2874][/us/stat/124/2874]; [Pub. L. 112–26, § 3(a)][/us/pl/112/26/s3/a], Aug. 3, 2011, [125 Stat. 269][/us/stat/125/269]; [Pub. L. 112–37, § 15][/us/pl/112/37/s15], Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 112–56, title II, § 265(a)][/us/pl/112/56/s265/a], Nov. 21, 2011, [125 Stat. 732][/us/stat/125/732]; [Pub. L. 112–154, title II, § 210][/us/pl/112/154/s210], title VII, § 702(b), Aug. 6, 2012, [126 Stat. 1179][/us/stat/126/1179], 1205; [Pub. L. 113–146, title VII, § 704][/us/pl/113/146/s704], Aug. 7, 2014, [128 Stat. 1797][/us/stat/128/1797].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–146][/us/pl/113/146] substituted “September 30, 2024” for “October 1, 2017” wherever appearing in table.
 
     2012—Subsec. (b)(2). [Pub. L. 112–154, § 702(b)][/us/pl/112/154/s702/b], substituted “October 1, 2017” for “October 1, 2016” wherever appearing in table.
 
@@ -714,6 +716,9 @@
 [/us/stat/125/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F732
 [/us/pl/112/154/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs210
 [/us/stat/126/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1179
+[/us/pl/113/146/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs704
+[/us/stat/128/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1797
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/pl/112/154/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs702%2Fb
 [/us/pl/112/154/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs210
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37

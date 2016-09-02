@@ -73,11 +73,13 @@
 
             (C) may waive the collection of a fee under [section 3729 of this title][/us/usc/t38/s3729] in any case in which the Secretary determines that such a waiver would be appropriate.
 
-    (c) The Secretary may not enter into agreements under subsection (a) after December 31, 2014.
+    (c) The Secretary may not enter into agreements under subsection (a) after September 30, 2015.
 
-(Added [Pub. L. 102–54, § 9(a)][/us/pl/102/54/s9/a], June 13, 1991, [105 Stat. 272][/us/stat/105/272], § 1835; renumbered § 3735, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 102–590][/us/pl/102/590], §§ 8, 9, Nov. 10, 1992, [106 Stat. 5140][/us/stat/106/5140]; [Pub. L. 103–446, title XII, § 1201(d)(13)][/us/pl/103/446/s1201/d/13], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 104–110, title I, § 101(h)][/us/pl/104/110/s101/h], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 105–114, title II, § 203(a)][/us/pl/105/114/s203/a], Nov. 21, 1997, [111 Stat. 2288][/us/stat/111/2288]; [Pub. L. 105–368, title VI, § 602(e)(1)(G)][/us/pl/105/368/s602/e/1/G], Nov. 11, 1998, [112 Stat. 3347][/us/stat/112/3347]; [Pub. L. 106–117, title IX, § 902][/us/pl/106/117/s902], Nov. 30, 1999, [113 Stat. 1587][/us/stat/113/1587]; renumbered § 2041, [Pub. L. 107–95, § 5(c)][/us/pl/107/95/s5/c], Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918]; [Pub. L. 108–170, title IV, § 404][/us/pl/108/170/s404], Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 109–444, § 8(a)(5)][/us/pl/109/444/s8/a/5], Dec. 21, 2006, [120 Stat. 3313][/us/stat/120/3313]; [Pub. L. 109–461, title VII, § 705][/us/pl/109/461/s705], title X, §§ 1004(a)(5), 1006(b), Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440], 3465, 3468; [Pub. L. 112–37, § 10(e)][/us/pl/112/37/s10/e], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–191, title II, § 205][/us/pl/112/191/s205], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 10][/us/pl/113/59/s10], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662].)
+(Added [Pub. L. 102–54, § 9(a)][/us/pl/102/54/s9/a], June 13, 1991, [105 Stat. 272][/us/stat/105/272], § 1835; renumbered § 3735, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 102–590][/us/pl/102/590], §§ 8, 9, Nov. 10, 1992, [106 Stat. 5140][/us/stat/106/5140]; [Pub. L. 103–446, title XII, § 1201(d)(13)][/us/pl/103/446/s1201/d/13], Nov. 2, 1994, [108 Stat. 4684][/us/stat/108/4684]; [Pub. L. 104–110, title I, § 101(h)][/us/pl/104/110/s101/h], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 105–114, title II, § 203(a)][/us/pl/105/114/s203/a], Nov. 21, 1997, [111 Stat. 2288][/us/stat/111/2288]; [Pub. L. 105–368, title VI, § 602(e)(1)(G)][/us/pl/105/368/s602/e/1/G], Nov. 11, 1998, [112 Stat. 3347][/us/stat/112/3347]; [Pub. L. 106–117, title IX, § 902][/us/pl/106/117/s902], Nov. 30, 1999, [113 Stat. 1587][/us/stat/113/1587]; renumbered § 2041, [Pub. L. 107–95, § 5(c)][/us/pl/107/95/s5/c], Dec. 21, 2001, [115 Stat. 918][/us/stat/115/918]; [Pub. L. 108–170, title IV, § 404][/us/pl/108/170/s404], Dec. 6, 2003, [117 Stat. 2063][/us/stat/117/2063]; [Pub. L. 109–444, § 8(a)(5)][/us/pl/109/444/s8/a/5], Dec. 21, 2006, [120 Stat. 3313][/us/stat/120/3313]; [Pub. L. 109–461, title VII, § 705][/us/pl/109/461/s705], title X, §§ 1004(a)(5), 1006(b), Dec. 22, 2006, [120 Stat. 3440][/us/stat/120/3440], 3465, 3468; [Pub. L. 112–37, § 10(e)][/us/pl/112/37/s10/e], Oct. 5, 2011, [125 Stat. 397][/us/stat/125/397]; [Pub. L. 112–191, title II, § 205][/us/pl/112/191/s205], Oct. 5, 2012, [126 Stat. 1439][/us/stat/126/1439]; [Pub. L. 113–59, § 10][/us/pl/113/59/s10], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662]; [Pub. L. 113–175, title II, § 205][/us/pl/113/175/s205], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–175][/us/pl/113/175] substituted “September 30, 2015” for “December 31, 2014”.
 
     2013—Subsec. (c). [Pub. L. 113–59][/us/pl/113/59] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -286,6 +288,9 @@
 [/us/stat/126/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1439
 [/us/pl/113/59/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs10
 [/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
+[/us/pl/113/175/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs205
+[/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
+[/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/112/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37

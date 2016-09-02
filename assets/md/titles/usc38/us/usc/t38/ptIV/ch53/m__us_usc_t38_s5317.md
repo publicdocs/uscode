@@ -45,15 +45,17 @@
 
     (f) The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
 
-    (g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2016.
+    (g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2024.
 
-(Added [Pub. L. 101–508, title VIII, § 8051(b)(1)][/us/pl/101/508/s8051/b/1], Nov. 5, 1990, [104 Stat. 1388–350][/us/stat/104/1388-350], § 3117; renumbered § 5317, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title VI, § 602(a)][/us/pl/102/568/s602/a], Oct. 29, 1992, [106 Stat. 4342][/us/stat/106/4342]; [Pub. L. 103–66, title XII, § 12004][/us/pl/103/66/s12004], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I, § 101(e)(3)][/us/pl/104/262/s101/e/3], Oct. 9, 1996, [110 Stat. 3181][/us/stat/110/3181]; [Pub. L. 105–33, title VIII, § 8014][/us/pl/105/33/s8014], Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664]; [Pub. L. 106–419, title IV, § 402(d)][/us/pl/106/419/s402/d], Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863]; [Pub. L. 108–183, title VII, § 708(c)(3)][/us/pl/108/183/s708/c/3], Dec. 16, 2003, [117 Stat. 2674][/us/stat/117/2674]; [Pub. L. 110–389, title VIII, § 802][/us/pl/110/389/s802], Oct. 10, 2008, [122 Stat. 4185][/us/stat/122/4185]; [Pub. L. 112–37, § 16][/us/pl/112/37/s16], Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 112–56, title II, § 264][/us/pl/112/56/s264], Nov. 21, 2011, [125 Stat. 732][/us/stat/125/732].)
+(Added [Pub. L. 101–508, title VIII, § 8051(b)(1)][/us/pl/101/508/s8051/b/1], Nov. 5, 1990, [104 Stat. 1388–350][/us/stat/104/1388-350], § 3117; renumbered § 5317, [Pub. L. 102–40, title IV, § 402(b)(1)][/us/pl/102/40/s402/b/1], May 7, 1991, [105 Stat. 238][/us/stat/105/238]; amended [Pub. L. 102–83, § 5(c)(1)][/us/pl/102/83/s5/c/1], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title VI, § 602(a)][/us/pl/102/568/s602/a], Oct. 29, 1992, [106 Stat. 4342][/us/stat/106/4342]; [Pub. L. 103–66, title XII, § 12004][/us/pl/103/66/s12004], Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 104–262, title I, § 101(e)(3)][/us/pl/104/262/s101/e/3], Oct. 9, 1996, [110 Stat. 3181][/us/stat/110/3181]; [Pub. L. 105–33, title VIII, § 8014][/us/pl/105/33/s8014], Aug. 5, 1997, [111 Stat. 664][/us/stat/111/664]; [Pub. L. 106–419, title IV, § 402(d)][/us/pl/106/419/s402/d], Nov. 1, 2000, [114 Stat. 1863][/us/stat/114/1863]; [Pub. L. 108–183, title VII, § 708(c)(3)][/us/pl/108/183/s708/c/3], Dec. 16, 2003, [117 Stat. 2674][/us/stat/117/2674]; [Pub. L. 110–389, title VIII, § 802][/us/pl/110/389/s802], Oct. 10, 2008, [122 Stat. 4185][/us/stat/122/4185]; [Pub. L. 112–37, § 16][/us/pl/112/37/s16], Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 112–56, title II, § 264][/us/pl/112/56/s264], Nov. 21, 2011, [125 Stat. 732][/us/stat/125/732]; [Pub. L. 113–146, title VII, § 706][/us/pl/113/146/s706], Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798].)
 
  __References in Text__ 
 
     Section 6103(l)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(l)(7)(D)(viii) of Title 26, Internal Revenue Code.
 
  __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–146][/us/pl/113/146] substituted “September 30, 2024” for “September 30, 2016”.
 
     2011—Subsec. (g). [Pub. L. 112–56][/us/pl/112/56], which directed substitution of “September 30, 2016” for “September 30, 2011”, was executed by making the substitution for “November 18, 2011” to reflect the probable intent of Congress and the amendment by [Pub. L. 112–37][/us/pl/112/37]. See below.
 
@@ -128,6 +130,9 @@
 [/us/stat/125/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F398
 [/us/pl/112/56/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs264
 [/us/stat/125/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F732
+[/us/pl/113/146/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs706
+[/us/stat/128/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1798
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37

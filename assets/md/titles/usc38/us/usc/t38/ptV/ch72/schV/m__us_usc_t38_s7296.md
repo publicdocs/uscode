@@ -31,81 +31,85 @@
 
           <tr>
 
-            <td>    </td>
+            <td> 
 
-            <td> And the years  </td>
+         The judge has attained age:  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>    </td>
-
-            <td> of service  </td>
+        And the years of service as a judge are at least  </td>
 
   </tr>
 
           <tr>
 
-            <td> The judge has  </td>
+            <td> 
 
-            <td> as a judge  </td>
+        65  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> attained age:  </td>
-
-            <td> are at least  </td>
+        15     </td>
 
   </tr>
 
           <tr>
 
-            <td> 65  </td>
+            <td> 
 
-            <td> 15     </td>
+        66  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 66  </td>
-
-            <td> 14     </td>
+        14     </td>
 
   </tr>
 
           <tr>
 
-            <td> 67  </td>
+            <td> 
 
-            <td> 13     </td>
+        67  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 68  </td>
-
-            <td> 12     </td>
+        13     </td>
 
   </tr>
 
           <tr>
 
-            <td> 69  </td>
+            <td> 
 
-            <td> 11     </td>
+        68  </td>
+
+            <td> 
+
+        12     </td>
 
   </tr>
 
           <tr>
 
-            <td> 70  </td>
+            <td> 
 
-            <td> 10     </td>
+        69  </td>
+
+            <td> 
+
+        11     </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        70  </td>
+
+            <td> 
+
+        10     </td>
 
   </tr>
 
@@ -387,19 +391,13 @@
 
 >           <tr>
 
->             <td> “The judge has attained  </td>
+>             <td> 
 
->             <td> And the years of service  </td>
+>          “The judge has attained age:  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  age:  </td>
-
->             <td> as a judge are at least  </td>
+>         And the years of service as a judge are at least  </td>
 
 >         
 
@@ -407,19 +405,13 @@
 
 >           <tr>
 
->             <td>   65  </td>
+>             <td> 
 
->             <td> 13     </td>
+>         65  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>   66  </td>
-
->             <td> 13     </td>
+>         13     </td>
 
 >         
 
@@ -427,19 +419,13 @@
 
 >           <tr>
 
->             <td>   67  </td>
+>             <td> 
 
->             <td> 13     </td>
+>         66  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>   68  </td>
-
->             <td> 12     </td>
+>         13     </td>
 
 >         
 
@@ -447,9 +433,13 @@
 
 >           <tr>
 
->             <td>   69  </td>
+>             <td> 
 
->             <td> 11     </td>
+>         67  </td>
+
+>             <td> 
+
+>         13     </td>
 
 >         
 
@@ -457,9 +447,41 @@
 
 >           <tr>
 
->             <td>   70  </td>
+>             <td> 
 
->             <td> 10.”    </td>
+>         68  </td>
+
+>             <td> 
+
+>         12     </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         69  </td>
+
+>             <td> 
+
+>         11     </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         70  </td>
+
+>             <td> 
+
+>         10.”    </td>
 
 >         
 

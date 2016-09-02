@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t38/ptI/ch7/m__us_usc_t38_s712.md) | [Next](./../../../../..//us/usc/t38/ptI/ch9/m__us_usc_t38_s901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch9)
+[Previous](./../../../../..//us/usc/t38/ptI/ch7/m__us_usc_t38_s713.md) | [Next](./../../../../..//us/usc/t38/ptI/ch9/m__us_usc_t38_s901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch9)
 
 ### CHAPTER 9—SECURITY AND LAW ENFORCEMENT ON PROPERTY UNDER THE JURISDICTION OF THE DEPARTMENT
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t38/ptI/ch7/m__us_usc_t38_s712.md) | [Next](./../../../../..//us/usc/t38/ptI/ch9/m__us_usc_t38_s901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch9)
+[Previous](./../../../../..//us/usc/t38/ptI/ch7/m__us_usc_t38_s713.md) | [Next](./../../../../..//us/usc/t38/ptI/ch9/m__us_usc_t38_s901.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch9)
 
 ----------
 ----------

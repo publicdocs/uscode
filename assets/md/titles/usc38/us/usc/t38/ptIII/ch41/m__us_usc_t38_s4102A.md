@@ -221,7 +221,17 @@
 
         (2) the Governor submits to the Secretary a proposal therefor at such time, in such manner, and containing such information as the Secretary may require.
 
-(Added [Pub. L. 94–502, title VI, § 601(b)(1)][/us/pl/94/502/s601/b/1], Oct. 15, 1976, [90 Stat. 2404][/us/stat/90/2404], § 2002A; amended [Pub. L. 96–466, title V, § 504(a)(3)][/us/pl/96/466/s504/a/3], (4), Oct. 17, 1980, [94 Stat. 2203][/us/stat/94/2203]; [Pub. L. 97–306, title III, § 303][/us/pl/97/306/s303], Oct. 14, 1982, [96 Stat. 1437][/us/stat/96/1437]; [Pub. L. 98–160, title VII, § 702(15)][/us/pl/98/160/s702/15], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 100–323][/us/pl/100/323], §§ 2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, [102 Stat. 556][/us/stat/102/556], 559, 574; [Pub. L. 101–237, title IV, § 423(b)(8)(A)][/us/pl/101/237/s423/b/8/A], Dec. 18, 1989, [103 Stat. 2093][/us/stat/103/2093]; renumbered § 4102A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–446, title VII, § 701(a)][/us/pl/103/446/s701/a], title XII, § 1201(a)(4), Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674], 4682; [Pub. L. 104–275, title III, § 301][/us/pl/104/275/s301], Oct. 9, 1996, [110 Stat. 3332][/us/stat/110/3332]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 105–368, title X, § 1005(b)(13)][/us/pl/105/368/s1005/b/13], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 107–288, § 4(a)(1)][/us/pl/107/288/s4/a/1], Nov. 7, 2002, [116 Stat. 2038][/us/stat/116/2038]; [Pub. L. 108–183, title VII, § 708(b)(1)(A)][/us/pl/108/183/s708/b/1/A], (2), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673]; [Pub. L. 109–233, title II, § 201][/us/pl/109/233/s201], title V, § 503(11), June 15, 2006, [120 Stat. 402][/us/stat/120/402], 416; [Pub. L. 109–461, title VI, § 601(a)][/us/pl/109/461/s601/a], (b), Dec. 22, 2006, [120 Stat. 3436][/us/stat/120/3436]; [Pub. L. 111–275, title I, § 103(a)][/us/pl/111/275/s103/a], title X, § 1001(k), Oct. 13, 2010, [124 Stat. 2866][/us/stat/124/2866], 2897; [Pub. L. 112–56, title II, § 241(c)][/us/pl/112/56/s241/c], Nov. 21, 2011, [125 Stat. 728][/us/stat/125/728]; [Pub. L. 112–239, div. A, title V, § 544(a)][/us/pl/112/239/s544/a], Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737].)
+(Added [Pub. L. 94–502, title VI, § 601(b)(1)][/us/pl/94/502/s601/b/1], Oct. 15, 1976, [90 Stat. 2404][/us/stat/90/2404], § 2002A; amended [Pub. L. 96–466, title V, § 504(a)(3)][/us/pl/96/466/s504/a/3], (4), Oct. 17, 1980, [94 Stat. 2203][/us/stat/94/2203]; [Pub. L. 97–306, title III, § 303][/us/pl/97/306/s303], Oct. 14, 1982, [96 Stat. 1437][/us/stat/96/1437]; [Pub. L. 98–160, title VII, § 702(15)][/us/pl/98/160/s702/15], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 100–323][/us/pl/100/323], §§ 2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, [102 Stat. 556][/us/stat/102/556], 559, 574; [Pub. L. 101–237, title IV, § 423(b)(8)(A)][/us/pl/101/237/s423/b/8/A], Dec. 18, 1989, [103 Stat. 2093][/us/stat/103/2093]; renumbered § 4102A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–446, title VII, § 701(a)][/us/pl/103/446/s701/a], title XII, § 1201(a)(4), Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674], 4682; [Pub. L. 104–275, title III, § 301][/us/pl/104/275/s301], Oct. 9, 1996, [110 Stat. 3332][/us/stat/110/3332]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 105–368, title X, § 1005(b)(13)][/us/pl/105/368/s1005/b/13], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 107–288, § 4(a)(1)][/us/pl/107/288/s4/a/1], Nov. 7, 2002, [116 Stat. 2038][/us/stat/116/2038]; [Pub. L. 108–183, title VII, § 708(b)(1)(A)][/us/pl/108/183/s708/b/1/A], (2), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673]; [Pub. L. 109–233, title II, § 201][/us/pl/109/233/s201], title V, § 503(11), June 15, 2006, [120 Stat. 402][/us/stat/120/402], 416; [Pub. L. 109–461, title VI, § 601(a)][/us/pl/109/461/s601/a], (b), Dec. 22, 2006, [120 Stat. 3436][/us/stat/120/3436]; [Pub. L. 111–275, title I, § 103(a)][/us/pl/111/275/s103/a], title X, § 1001(k), Oct. 13, 2010, [124 Stat. 2866][/us/stat/124/2866], 2897; [Pub. L. 112–56, title II, § 241(c)][/us/pl/112/56/s241/c], Nov. 21, 2011, [125 Stat. 728][/us/stat/125/728]; [Pub. L. 112–239, div. A, title V, § 544(a)][/us/pl/112/239/s544/a], Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737]; [Pub. L. 113–128, title V, § 512(gg)(2)][/us/pl/113/128/s512/gg/2], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
+
+ __Amendment of Subsections (d) and(f)(2)(A)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(gg)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
+
+    (1) in subsection (d), by striking “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998” and inserting “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act”; and
+
+    (2) in subsection (f)(2)(A), by striking “be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998” and inserting “be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -232,6 +242,10 @@
     The Wagner-Peyser Act, referred to in subsec. (c)(6), is [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], [48 Stat. 113][/us/stat/48/113], as amended, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of Title 29][/us/usc/t29/s49] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–128, § 512(gg)(2)(A)][/us/pl/113/128/s512/gg/2/A], substituted “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act” for “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (f)(2)(A). [Pub. L. 113–128, § 512(gg)(2)(B)][/us/pl/113/128/s512/gg/2/B], substituted “be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act” for “be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998”.
 
     2013—Subsec. (c)(9). [Pub. L. 112–239][/us/pl/112/239] added par. (9).
 
@@ -304,6 +318,10 @@
     1982—[Pub. L. 97–306][/us/pl/97/306] inserted provision that the employees of the Department of Labor administering chapter 43 of this title shall be administratively and functionally responsible to the Assistant Secretary of Labor for Veterans’ Employment.
 
     1980—[Pub. L. 96–466][/us/pl/96/466] struck out “Deputy” before “Assistant Secretary” in section catchline and text.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -423,6 +441,10 @@
 [/us/stat/125/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F728
 [/us/pl/112/239/s544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs544%2Fa
 [/us/stat/126/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1737
+[/us/pl/113/128/s512/gg/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2
+[/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
 [/us/stat/116/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2033
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
@@ -433,6 +455,8 @@
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
+[/us/pl/113/128/s512/gg/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2%2FA
+[/us/pl/113/128/s512/gg/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2%2FB
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/111/275/s1001/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fk
@@ -470,6 +494,7 @@
 [/us/pl/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160
 [/us/pl/97/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F306
 [/us/pl/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/239/s544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs544%2Fb
 [/us/stat/126/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1738
 [/us/pl/111/275/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs103%2Fb

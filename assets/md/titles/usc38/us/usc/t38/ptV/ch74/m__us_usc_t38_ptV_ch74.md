@@ -121,6 +121,14 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7412" data-uslm-ref="/us/usc/t38/s7412">7412.</a>  </td>
+
+    <td> Annual determination of staffing shortages; recruitment and appointment for needed occupations.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION  </td>
@@ -379,6 +387,8 @@ SUBCHAPTER VI—REGIONAL MEDICAL EDUCATION CENTERS  </td>
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–146, § 301(a)(2)][/us/pl/113/146/s301/a/2], Aug. 7, 2014, [128 Stat. 1784][/us/stat/128/1784], added item 7412.
+
     2010—[Pub. L. 111–163, title VI, § 602(a)(2)][/us/pl/111/163/s602/a/2], May 5, 2010, [124 Stat. 1173][/us/stat/124/1173], added item 7459.
 
     2004—[Pub. L. 108–445][/us/pl/108/445], §§ 3(g), 4(a)(2), Dec. 3, 2004, [118 Stat. 2643][/us/stat/118/2643], 2645, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in item for subchapter III, “Pay” for “Special pay: authority” in item 7431, “Pay of Under Secretary for Health” for “Special pay: written agreements” in item 7432, “Administrative matters” for “Special pay: full-time physicians” in item 7433, struck out items 7434 “Special pay: part-time physicians”, 7435 “Special pay: full-time dentists”, 7436 “Special pay: part-time dentists”, 7437 “Special pay: general provisions”, 7438 “Special pay: coordination with other benefits laws”, 7439 “Periodic review of pay of physicians and dentists; quadrennial report”, and 7440 “Annual report”, and added item 7456A.
@@ -392,6 +402,8 @@ SUBCHAPTER VI—REGIONAL MEDICAL EDUCATION CENTERS  </td>
 ----------
 ----------
 
+[/us/pl/113/146/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fa%2F2
+[/us/stat/128/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1784
 [/us/pl/111/163/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs602%2Fa%2F2
 [/us/stat/124/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1173
 [/us/pl/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F445

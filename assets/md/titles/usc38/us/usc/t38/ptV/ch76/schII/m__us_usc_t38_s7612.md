@@ -37,9 +37,11 @@
 
          In selecting applicants for the Scholarship Program, the Secretary—
 
-            (A) shall give priority to applicants who will be entering their final year in a course of training; and
+            (A) shall give priority to applicants who will be entering their final year in a course of training;
 
-            (B) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
+            (B) shall give priority to applicants pursuing a course of education or training toward a career in an occupation for which the Inspector General of the Department has, in the most current determination published in the Federal Register pursuant to [section 7412(a) of this title][/us/usc/t38/s7412/a], determined that there is one of the largest staffing shortages throughout the Department with respect to such occupation; and
+
+            (C) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
 
     (c)
 
@@ -63,9 +65,11 @@
 
         (4) If a participant’s period of obligated service is deferred under [section 7616(b)(3)(A)(i) of this title][/us/usc/t38/s7616/b/3/A/i], the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under [section 7616(b)(4)(B) of this title][/us/usc/t38/s7616/b/4/B].
 
-(Added [Pub. L. 100–322, title II, § 216(b)][/us/pl/100/322/s216/b], May 20, 1988, [102 Stat. 520][/us/stat/102/520], § 4312; amended [Pub. L. 101–237, title II, § 207(a)][/us/pl/101/237/s207/a], Dec. 18, 1989, [103 Stat. 2068][/us/stat/103/2068]; renumbered § 7612 and amended [Pub. L. 102–40, title IV][/us/pl/102/40], §§ 402(b)(1), (d)(1), 403(b)(4), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–405, title II, § 202(a)][/us/pl/102/405/s202/a], Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983]; [Pub. L. 103–446, title XII, § 1201(b)(1)][/us/pl/103/446/s1201/b/1], Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682]; [Pub. L. 111–163, title VI, § 603(b)][/us/pl/111/163/s603/b], May 5, 2010, [124 Stat. 1173][/us/stat/124/1173].)
+(Added [Pub. L. 100–322, title II, § 216(b)][/us/pl/100/322/s216/b], May 20, 1988, [102 Stat. 520][/us/stat/102/520], § 4312; amended [Pub. L. 101–237, title II, § 207(a)][/us/pl/101/237/s207/a], Dec. 18, 1989, [103 Stat. 2068][/us/stat/103/2068]; renumbered § 7612 and amended [Pub. L. 102–40, title IV][/us/pl/102/40], §§ 402(b)(1), (d)(1), 403(b)(4), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83, § 4(a)(3)][/us/pl/102/83/s4/a/3], (4), (b)(1), (2)(E), Aug. 6, 1991, [105 Stat. 404][/us/stat/105/404], 405; [Pub. L. 102–405, title II, § 202(a)][/us/pl/102/405/s202/a], Oct. 9, 1992, [106 Stat. 1983][/us/stat/106/1983]; [Pub. L. 103–446, title XII, § 1201(b)(1)][/us/pl/103/446/s1201/b/1], Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682]; [Pub. L. 111–163, title VI, § 603(b)][/us/pl/111/163/s603/b], May 5, 2010, [124 Stat. 1173][/us/stat/124/1173]; [Pub. L. 113–146, title III, § 301(c)][/us/pl/113/146/s301/c], Aug. 7, 2014, [128 Stat. 1786][/us/stat/128/1786].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(5)(B), (C). [Pub. L. 113–146][/us/pl/113/146] added subpar. (B) and redesignated former subpar. (B) as (C).
 
     2010—Subsec. (b)(2). [Pub. L. 111–163][/us/pl/111/163] substituted “as an appointee under paragraph (1) or (3) of [section 7401 of this title][/us/usc/t38/s7401].” for “(under [section 7401 of this title][/us/usc/t38/s7401]) as any of the following:
 
@@ -137,6 +141,7 @@
 [/us/usc/t38/s7603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7603
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401
 [/us/usc/t38/s7455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7455
+[/us/usc/t38/s7412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7412%2Fa
 [/us/usc/t38/s7604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7604
 [/us/usc/t38/s7602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7602
 [/us/usc/t38/s7614/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7614%2F3
@@ -156,6 +161,9 @@
 [/us/stat/108/4682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4682
 [/us/pl/111/163/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs603%2Fb
 [/us/stat/124/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1173
+[/us/pl/113/146/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs301%2Fc
+[/us/stat/128/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1786
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/pl/111/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401
 [/us/usc/t38/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7401

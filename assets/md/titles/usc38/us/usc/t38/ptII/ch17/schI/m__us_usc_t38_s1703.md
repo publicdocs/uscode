@@ -195,7 +195,7 @@
 
  __Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas__ 
 
-[Pub. L. 110–387, title IV, § 403][/us/pl/110/387/s403], Oct. 10, 2008, [122 Stat. 4124][/us/stat/122/4124], as amended by [Pub. L. 111–163, title III, § 308][/us/pl/111/163/s308], May 5, 2010, [124 Stat. 1155][/us/stat/124/1155], provided that:
+[Pub. L. 110–387, title IV, § 403][/us/pl/110/387/s403], Oct. 10, 2008, [122 Stat. 4124][/us/stat/122/4124], as amended by [Pub. L. 111–163, title III, § 308][/us/pl/111/163/s308], May 5, 2010, [124 Stat. 1155][/us/stat/124/1155]; [Pub. L. 113–146, title I, § 104][/us/pl/113/146/s104], Aug. 7, 2014, [128 Stat. 1766][/us/stat/128/1766]; [Pub. L. 113–175, title IV, § 409(h)][/us/pl/113/175/s409/h], Sept. 26, 2014, [128 Stat. 1908][/us/stat/128/1908], provided that:
 
 >     “(a) __Pilot Program Required.—__ 
 
@@ -209,19 +209,21 @@
 
 >         “(3)  __Termination__  __.—__ 
 
->         A veteran may receive health services under the pilot program only during the three-year period beginning on the date of the commencement of the pilot program under paragraph (2).
+>         A veteran may receive health services under the pilot program only during the period beginning on the date of the commencement of the pilot program under paragraph (2) and ending on the date that is two years after the date of the enactment of the Veterans Access, Choice, and Accountability Act of 2014 \[Aug. 7, 2014\].
 
 >         “(4)  __Program locations__  __.—__ 
 
->         The pilot program shall be carried out within areas selected by the Secretary for the purposes of the pilot program in at least five Veterans Integrated Service Networks (VISNs). Of the Veterans Integrated Service Networks so selected—
+>         The Secretary shall carry out the pilot program at locations in the following Veterans Integrated Service Networks (and such other locations as the Secretary considers appropriate):
 
->             “(A) not less than four such networks shall include at least three highly rural counties, as determined by the Secretary upon consideration of the most recent decennial census;
+>             “(A) Veterans Integrated Service Network 1.
 
->             “(B) not less than one such network, not including a network selected under subparagraph (A), shall include only one highly rural county, as determined by the Secretary upon consideration of the most recent decennial census;
+>             “(B) Veterans Integrated Service Network 6.
 
->             “(C) all such networks shall include area within the borders of at least four States; and
+>             “(C) Veterans Integrated Service Network 15.
 
->             “(D) no such networks shall be participants in the Healthcare Effectiveness through Resource Optimization pilot program of the Department of Veterans Affairs.
+>             “(D) Veterans Integrated Service Network 18.
+
+>             “(E) Veterans Integrated Service Network 19.
 
 >     “(b)  __Covered Veterans__  __.—__ 
 
@@ -231,7 +233,7 @@
 
 >          is—
 
->             “(A) enrolled in the system of patient enrollment established under [section 1705(a) of title 38][/us/usc/t38/s1705/a], United States Code, as of the date of the commencement of the pilot program under subsection (a)(2); or
+>             “(A) enrolled in the system of patient enrollment established under [section 1705(a) of title 38][/us/usc/t38/s1705/a], United States Code, as of August 1, 2014; or
 
 >             “(B) eligible for health care under section 1710(e)(3) of such title; and
 
@@ -265,7 +267,23 @@
 
 >     In conducting the pilot program under this section, the Secretary shall develop and utilize a functional capability to provide for the exchange of appropriate medical information between the Department and non-Department health care providers providing health services under the pilot program.
 
->     “(h)  __Reports__  __.—__ 
+>     “(h)  __Appointments__  __.—__ 
+
+>     In carrying out the pilot program under this section, the Secretary shall ensure that medical appointments for covered veterans—
+
+>         “(1) are scheduled not later than 5 days after the date on which the appointment is requested; and
+
+>         “(2) occur not later than 30 days after such date.
+
+>     “(i)  __Outreach__  __.—__ 
+
+>     The Secretary shall ensure that covered veterans are informed about the pilot program under this section.
+
+>     “(j)  __Use of Existing Contracts__  __.—__ 
+
+>     Notwithstanding any provision of law relating to the use of competitive procedures in entering into contracts, in carrying out the pilot program under this section after the date of the enactment of the Veterans Access, Choice, and Accountability Act of 2014 \[Aug. 7, 2014\], the Secretary shall make use of contracts entered into under this section before such date or may enter into new contracts.
+
+>     “(k)  __Reports__  __.—__ 
 
 >     Not later than the 30 days after the end of each year in which the pilot program under this section is conducted, the Secretary shall submit to the Committee of Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report which includes—
 
@@ -277,7 +295,7 @@
 
 >             “(A) the continuation of the pilot program;
 
->             “(B) extension of the pilot program to other or all Veterans Integrated Service Networks of the Department;
+>             “(B) extension of the pilot program to other or all Veterans Integrated Service Networks of the Department; and
 
 >             “(C) making the pilot program permanent.”
 
@@ -395,6 +413,10 @@
 [/us/stat/122/4124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4124
 [/us/pl/111/163/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2Fs308
 [/us/stat/124/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1155
+[/us/pl/113/146/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs104
+[/us/stat/128/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1766
+[/us/pl/113/175/s409/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs409%2Fh
+[/us/stat/128/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1908
 [/us/usc/t38/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705%2Fa
 [/us/pl/100/687/s1503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F687%2Fs1503%2Fc
 [/us/pl/99/166/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F166%2Fs102%2Fb%2F2

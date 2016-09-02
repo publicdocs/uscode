@@ -153,7 +153,7 @@
 
  __Agreement With National Academy of Sciences__ 
 
-[Pub. L. 102–4, § 3][/us/pl/102/4/s3], Feb. 6, 1991, [105 Stat. 13][/us/stat/105/13], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–86, title V, § 503(a)][/us/pl/102/86/s503/a], (b)(1), Aug. 14, 1991, [105 Stat. 424][/us/stat/105/424], 425; [Pub. L. 107–103, title II, § 201(d)(2)][/us/pl/107/103/s201/d/2], Dec. 27, 2001, [115 Stat. 988][/us/stat/115/988], provided that:
+[Pub. L. 102–4, § 3][/us/pl/102/4/s3], Feb. 6, 1991, [105 Stat. 13][/us/stat/105/13], as amended by [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–86, title V, § 503(a)][/us/pl/102/86/s503/a], (b)(1), Aug. 14, 1991, [105 Stat. 424][/us/stat/105/424], 425; [Pub. L. 107–103, title II, § 201(d)(2)][/us/pl/107/103/s201/d/2], Dec. 27, 2001, [115 Stat. 988][/us/stat/115/988]; [Pub. L. 113–175, title IV, § 407][/us/pl/113/175/s407], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -205,7 +205,7 @@
 
 >     “(i)  __Sunset__  __.—__ 
 
->     This section shall cease to be effective on October 1, 2014.
+>     This section shall cease to be effective on December 31, 2015.
 
 >     “(j)  __Alternative Contract Scientific Organization__  __.—__ 
 
@@ -590,6 +590,8 @@
 [/us/stat/105/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F424
 [/us/pl/107/103/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs201%2Fd%2F2
 [/us/stat/115/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F988
+[/us/pl/113/175/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs407
+[/us/stat/128/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1905
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/pl/102/4/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F4%2Fs6
 [/us/stat/105/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F15

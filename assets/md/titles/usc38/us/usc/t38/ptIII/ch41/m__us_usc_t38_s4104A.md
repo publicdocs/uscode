@@ -99,7 +99,11 @@
 
         (2) the term “nonprofit organization” means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and that is exempt from taxation under section 501(a) of such Code.
 
-(Added [Pub. L. 112–56, title II, § 234(a)][/us/pl/112/56/s234/a], Nov. 21, 2011, [125 Stat. 721][/us/stat/125/721].)
+(Added [Pub. L. 112–56, title II, § 234(a)][/us/pl/112/56/s234/a], Nov. 21, 2011, [125 Stat. 721][/us/stat/125/721]; amended [Pub. L. 113–128, title V, § 512(gg)(3)][/us/pl/113/128/s512/gg/3], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
+
+ __Amendment of Subsections (b)(1)(B) and (c)(1)(A)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(gg)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsections (b)(1)(B) and (c)(1)(A) of this section are amended by striking “the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))” and inserting “the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act)”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -110,6 +114,14 @@
  __Prior Provisions__ 
 
     A prior section 4104A, added [Pub. L. 100–323, § 4(a)(1)][/us/pl/100/323/s4/a/1], May 20, 1988, [102 Stat. 562][/us/stat/102/562], § 2004A; renumbered § 4104A and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], related to performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives, prior to repeal by [Pub. L. 107–288, § 4(a)(3)(A)(i)][/us/pl/107/288/s4/a/3/A/i], Nov. 7, 2002, [116 Stat. 2042][/us/stat/116/2042], effective Nov. 7, 2002, and applicable for program and fiscal years under this chapter beginning on or after such date.
+
+ __Amendments__ 
+
+    2014—Subsecs. (b)(1)(B), (c)(1)(A). [Pub. L. 113–128][/us/pl/113/128] substituted “the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act)” for “the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -122,6 +134,11 @@
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/112/56/s234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs234%2Fa
 [/us/stat/125/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F721
+[/us/pl/113/128/s512/gg/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F3
+[/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/pl/100/323/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323%2Fs4%2Fa%2F1
@@ -130,5 +147,8 @@
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/107/288/s4/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs4%2Fa%2F3%2FA%2Fi
 [/us/stat/116/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2042
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

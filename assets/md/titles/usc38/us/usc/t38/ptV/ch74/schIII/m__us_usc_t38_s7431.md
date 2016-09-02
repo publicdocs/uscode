@@ -39,153 +39,195 @@
 
           <tr>
 
-            <td> For a physician or dentist  </td>
+            <td> 
 
-            <td> The rate of  </td>
+         For a physician or dentist with total
 
-  </tr>
+          service of:  </td>
 
-          <tr>
+            <td> 
 
-            <td>    </td>
-
-            <td> base pay is  </td>
+        The rate of base pay is the rate payable for:  </td>
 
   </tr>
 
           <tr>
 
-            <td>  with total service of:  </td>
+            <td> 
 
-            <td> the rate  </td>
+        two years or less  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>    </td>
-
-            <td> payable for:  </td>
+        step 1    </td>
 
   </tr>
 
           <tr>
 
-            <td> two years or less  </td>
+            <td> 
 
-            <td> step 1     </td>
+        more than 2 years and not more than 4 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> more than 2 years and not more than 4 years  </td>
-
-            <td> step 2     </td>
+        step 2    </td>
 
   </tr>
 
           <tr>
 
-            <td> more than 4 years and not more than 6 years  </td>
+            <td> 
 
-            <td> step 3     </td>
+        more than 4 years and not more than 6 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> more than 6 years and not more than 8 years  </td>
-
-            <td> step 4     </td>
+        step 3    </td>
 
   </tr>
 
           <tr>
 
-            <td> more than 8 years and not more than 10 years  </td>
+            <td> 
 
-            <td> step 5     </td>
+        more than 6 years and not more than 8 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> more than 10 years and not more than 12 years  </td>
-
-            <td> step 6     </td>
+        step 4    </td>
 
   </tr>
 
           <tr>
 
-            <td> more than 12 years and not more than 14 years  </td>
+            <td> 
 
-            <td> step 7     </td>
+        more than 8 years and not more than 10 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> more than 14 years and not more than 16 years  </td>
-
-            <td> step 8     </td>
+        step 5    </td>
 
   </tr>
 
           <tr>
 
-            <td> more than 16 years and not more than 18 years  </td>
+            <td> 
 
-            <td> step 9     </td>
+        more than 10 years and not more than 12 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> more than 18 years and not more than 20 years  </td>
-
-            <td> step 10    </td>
+        step 6    </td>
 
   </tr>
 
           <tr>
 
-            <td> more than 20 years and not more than 22 years  </td>
+            <td> 
 
-            <td> step 11    </td>
+        more than 12 years and not more than 14 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> more than 22 years and not more than 24 years  </td>
-
-            <td> step 12    </td>
+        step 7    </td>
 
   </tr>
 
           <tr>
 
-            <td> more than 24 years and not more than 26 years  </td>
+            <td> 
 
-            <td> step 13    </td>
+        more than 14 years and not more than 16 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> more than 26 years and not more than 28 years  </td>
-
-            <td> step 14    </td>
+        step 8    </td>
 
   </tr>
 
           <tr>
 
-            <td> more than 28 years  </td>
+            <td> 
 
-            <td> step 15.  </td>
+        more than 16 years and not more than 18 years  </td>
+
+            <td> 
+
+        step 9    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        more than 18 years and not more than 20 years  </td>
+
+            <td> 
+
+        step 10    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        more than 20 years and not more than 22 years  </td>
+
+            <td> 
+
+        step 11    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        more than 22 years and not more than 24 years  </td>
+
+            <td> 
+
+        step 12    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        more than 24 years and not more than 26 years  </td>
+
+            <td> 
+
+        step 13    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        more than 26 years and not more than 28 years  </td>
+
+            <td> 
+
+        step 14    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        more than 28 years  </td>
+
+            <td> 
+
+        step 15.  </td>
 
   </tr>
 
@@ -475,19 +517,13 @@
 
 >   <tr>
 
->     <td> “Base Pay Step:  </td>
+>     <td> 
 
->     <td> Rate of Pay:  </td>
+>  “Base Pay Step:  </td>
 
-> 
+>     <td> 
 
-  </tr>
-
->   <tr>
-
->     <td>   1  </td>
-
->     <td> $90,000   </td>
+> Rate of Pay:  </td>
 
 > 
 
@@ -495,19 +531,13 @@
 
 >   <tr>
 
->     <td>   2  </td>
+>     <td> 
 
->     <td> $93,000   </td>
+> 1  </td>
 
-> 
+>     <td> 
 
-  </tr>
-
->   <tr>
-
->     <td>   3  </td>
-
->     <td> $96,000   </td>
+> $90,000   </td>
 
 > 
 
@@ -515,19 +545,13 @@
 
 >   <tr>
 
->     <td>   4  </td>
+>     <td> 
 
->     <td> $99,000   </td>
+> 2  </td>
 
-> 
+>     <td> 
 
-  </tr>
-
->   <tr>
-
->     <td>   5  </td>
-
->     <td> $102,000   </td>
+> $93,000   </td>
 
 > 
 
@@ -535,19 +559,13 @@
 
 >   <tr>
 
->     <td>   6  </td>
+>     <td> 
 
->     <td> $105,000   </td>
+> 3  </td>
 
-> 
+>     <td> 
 
-  </tr>
-
->   <tr>
-
->     <td>   7  </td>
-
->     <td> $108,000   </td>
+> $96,000   </td>
 
 > 
 
@@ -555,19 +573,13 @@
 
 >   <tr>
 
->     <td>   8  </td>
+>     <td> 
 
->     <td> $111,000   </td>
+> 4  </td>
 
-> 
+>     <td> 
 
-  </tr>
-
->   <tr>
-
->     <td>   9  </td>
-
->     <td> $114,000   </td>
+> $99,000   </td>
 
 > 
 
@@ -575,19 +587,13 @@
 
 >   <tr>
 
->     <td>   10  </td>
+>     <td> 
 
->     <td> $117,000   </td>
+> 5  </td>
 
-> 
+>     <td> 
 
-  </tr>
-
->   <tr>
-
->     <td>   11  </td>
-
->     <td> $120,000   </td>
+> $102,000   </td>
 
 > 
 
@@ -595,19 +601,13 @@
 
 >   <tr>
 
->     <td>   12  </td>
+>     <td> 
 
->     <td> $123,000   </td>
+> 6  </td>
 
-> 
+>     <td> 
 
-  </tr>
-
->   <tr>
-
->     <td>   13  </td>
-
->     <td> $126,000   </td>
+> $105,000   </td>
 
 > 
 
@@ -615,9 +615,13 @@
 
 >   <tr>
 
->     <td>   14  </td>
+>     <td> 
 
->     <td> $129,000   </td>
+> 7  </td>
+
+>     <td> 
+
+> $108,000   </td>
 
 > 
 
@@ -625,9 +629,111 @@
 
 >   <tr>
 
->     <td>   15  </td>
+>     <td> 
 
->     <td> $132,000.”  </td>
+> 8  </td>
+
+>     <td> 
+
+> $111,000   </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> 9  </td>
+
+>     <td> 
+
+> $114,000   </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> 10  </td>
+
+>     <td> 
+
+> $117,000   </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> 11  </td>
+
+>     <td> 
+
+> $120,000   </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> 12  </td>
+
+>     <td> 
+
+> $123,000   </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> 13  </td>
+
+>     <td> 
+
+> $126,000   </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> 14  </td>
+
+>     <td> 
+
+> $129,000   </td>
+
+> 
+
+  </tr>
+
+>   <tr>
+
+>     <td> 
+
+> 15  </td>
+
+>     <td> 
+
+> $132,000.”  </td>
 
 > 
 

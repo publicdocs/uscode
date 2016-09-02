@@ -45,13 +45,13 @@
 
         (7)
 
-         During the period that begins on December 16, 2003, and ends on September 30, 2014, the Secretary shall carry out the provisions of this subsection as if—
+         During the period that begins on December 16, 2003, and ends on September 30, 2015, the Secretary shall carry out the provisions of this subsection as if—
 
             (A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
 
             (B) the second sentence of paragraph (1) were repealed; and
 
-            (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2014,”.
+            (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2015,”.
 
     (b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under [section 3710(g)(2)(A) of this title][/us/usc/t38/s3710/g/2/A].
 
@@ -67,9 +67,11 @@
 
         (2) For the purpose of facilitating the most expeditious sale, at the highest possible price, of real property acquired by the Secretary as the result of a default on a loan guaranteed, insured, or made under this chapter, the Secretary shall list all such property with real estate brokers under such arrangements as the Secretary determines to be most appropriate and cost effective.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1212][/us/stat/72/1212], §§ 1816(d)–(f), 1832; [Pub. L. 98–369, div. B, title V, § 2512(a)(2)][/us/pl/98/369/s2512/a/2], July 18, 1984, [98 Stat. 1117][/us/stat/98/1117]; [Pub. L. 99–576, title IV][/us/pl/99/576], §§ 402(c)(1), 403, 408(a), Oct. 28, 1986, [100 Stat. 3281][/us/stat/100/3281], 3283; [Pub. L. 100–136, § 2][/us/pl/100/136/s2], Oct. 16, 1987, [101 Stat. 813][/us/stat/101/813]; [Pub. L. 100–198][/us/pl/100/198], §§ 6(a)(1), (b)(1), 14, Dec. 21, 1987, [101 Stat. 1317][/us/stat/101/1317], 1318, 1325; [Pub. L. 100–203, title VII][/us/pl/100/203], §§ 7001, 7003(a), Dec. 22, 1987, [101 Stat. 1330–278][/us/stat/101/1330-278], 1330–279; [Pub. L. 100–253, § 2][/us/pl/100/253/s2], Feb. 29, 1988, [102 Stat. 20][/us/stat/102/20]; renumbered § 1833 and amended [Pub. L. 100–322, title IV, § 415(b)(1)(D)][/us/pl/100/322/s415/b/1/D], (5)(B), (C), May 20, 1988, [102 Stat. 550][/us/stat/102/550], 551; [Pub. L. 100–689, title III, § 301][/us/pl/100/689/s301], Nov. 18, 1988, [102 Stat. 4176][/us/stat/102/4176]; [Pub. L. 101–237, title III][/us/pl/101/237], §§ 305(a), 313(b)(1), (2), Dec. 18, 1989, [103 Stat. 2073][/us/stat/103/2073], 2077; [Pub. L. 101–239, title V][/us/pl/101/239], §§ 5002, 5003(a), Dec. 19, 1989, [103 Stat. 2136][/us/stat/103/2136]; [Pub. L. 102–54][/us/pl/102/54], §§ 2, 14(g)(1), 15(a)(5), June 13, 1991, [105 Stat. 267][/us/stat/105/267], 288, 289; renumbered § 3733 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 2(c)(3), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402], 406; [Pub. L. 102–291, § 5(b)][/us/pl/102/291/s5/b], May 20, 1992, [106 Stat. 180][/us/stat/106/180]; [Pub. L. 105–368, title VI, § 602(c)(2)][/us/pl/105/368/s602/c/2], (e)(1)(E), Nov. 11, 1998, [112 Stat. 3346][/us/stat/112/3346]; [Pub. L. 108–183, title IV, § 404][/us/pl/108/183/s404], Dec. 16, 2003, [117 Stat. 2664][/us/stat/117/2664]; [Pub. L. 109–233, title V, § 503(10)][/us/pl/109/233/s503/10], June 15, 2006, [120 Stat. 416][/us/stat/120/416]; [Pub. L. 111–275, title X, § 1001(j)][/us/pl/111/275/s1001/j], Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897]; [Pub. L. 113–59, § 13][/us/pl/113/59/s13], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1212][/us/stat/72/1212], §§ 1816(d)–(f), 1832; [Pub. L. 98–369, div. B, title V, § 2512(a)(2)][/us/pl/98/369/s2512/a/2], July 18, 1984, [98 Stat. 1117][/us/stat/98/1117]; [Pub. L. 99–576, title IV][/us/pl/99/576], §§ 402(c)(1), 403, 408(a), Oct. 28, 1986, [100 Stat. 3281][/us/stat/100/3281], 3283; [Pub. L. 100–136, § 2][/us/pl/100/136/s2], Oct. 16, 1987, [101 Stat. 813][/us/stat/101/813]; [Pub. L. 100–198][/us/pl/100/198], §§ 6(a)(1), (b)(1), 14, Dec. 21, 1987, [101 Stat. 1317][/us/stat/101/1317], 1318, 1325; [Pub. L. 100–203, title VII][/us/pl/100/203], §§ 7001, 7003(a), Dec. 22, 1987, [101 Stat. 1330–278][/us/stat/101/1330-278], 1330–279; [Pub. L. 100–253, § 2][/us/pl/100/253/s2], Feb. 29, 1988, [102 Stat. 20][/us/stat/102/20]; renumbered § 1833 and amended [Pub. L. 100–322, title IV, § 415(b)(1)(D)][/us/pl/100/322/s415/b/1/D], (5)(B), (C), May 20, 1988, [102 Stat. 550][/us/stat/102/550], 551; [Pub. L. 100–689, title III, § 301][/us/pl/100/689/s301], Nov. 18, 1988, [102 Stat. 4176][/us/stat/102/4176]; [Pub. L. 101–237, title III][/us/pl/101/237], §§ 305(a), 313(b)(1), (2), Dec. 18, 1989, [103 Stat. 2073][/us/stat/103/2073], 2077; [Pub. L. 101–239, title V][/us/pl/101/239], §§ 5002, 5003(a), Dec. 19, 1989, [103 Stat. 2136][/us/stat/103/2136]; [Pub. L. 102–54][/us/pl/102/54], §§ 2, 14(g)(1), 15(a)(5), June 13, 1991, [105 Stat. 267][/us/stat/105/267], 288, 289; renumbered § 3733 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 2(c)(3), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 402][/us/stat/105/402], 406; [Pub. L. 102–291, § 5(b)][/us/pl/102/291/s5/b], May 20, 1992, [106 Stat. 180][/us/stat/106/180]; [Pub. L. 105–368, title VI, § 602(c)(2)][/us/pl/105/368/s602/c/2], (e)(1)(E), Nov. 11, 1998, [112 Stat. 3346][/us/stat/112/3346]; [Pub. L. 108–183, title IV, § 404][/us/pl/108/183/s404], Dec. 16, 2003, [117 Stat. 2664][/us/stat/117/2664]; [Pub. L. 109–233, title V, § 503(10)][/us/pl/109/233/s503/10], June 15, 2006, [120 Stat. 416][/us/stat/120/416]; [Pub. L. 111–275, title X, § 1001(j)][/us/pl/111/275/s1001/j], Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897]; [Pub. L. 113–59, § 13][/us/pl/113/59/s13], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663]; [Pub. L. 113–175, title III, § 303][/us/pl/113/175/s303], Sept. 26, 2014, [128 Stat. 1905][/us/stat/128/1905].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(7). [Pub. L. 113–175][/us/pl/113/175] substituted “September 30, 2015” for “September 30, 2014” in introductory provisions and in subpar. (C).
 
     2013—Subsec. (a)(7). [Pub. L. 113–59][/us/pl/113/59] substituted “September 30, 2014” for “September 30, 2013” in introductory provisions and in subpar. (C).
 
@@ -270,6 +272,9 @@
 [/us/stat/124/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2897
 [/us/pl/113/59/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs13
 [/us/stat/127/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F663
+[/us/pl/113/175/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs303
+[/us/stat/128/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1905
+[/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59
 [/us/pl/111/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275
 [/us/pl/109/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F233

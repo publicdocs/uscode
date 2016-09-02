@@ -103,7 +103,7 @@
 
         (1)
 
-         A case described in this subsection is a case in which the appropriate federal official receives—
+         A case described in this subsection is a case in which the appropriate federal  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  official receives—
 
             (A) written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4) of a person described in paragraph (2); or
 
@@ -141,7 +141,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 113–65, § 2(b)][/us/pl/113/65/s2/b], struck out “such official approves an application for ” after “received by the appropriate Federal official before”.
+    2013—Subsec. (a)(2). [Pub. L. 113–65, § 2(b)][/us/pl/113/65/s2/b], struck out “such official approves an application for” after “received by the appropriate Federal official before”.
 
     [Pub. L. 112–260, § 105(b)][/us/pl/112/260/s105/b], substituted “, (b)(2), or (b)(4)” for “or (b)(2)” in two places and struck out “capital” before “crime” in two places.
 

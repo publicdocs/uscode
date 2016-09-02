@@ -43,7 +43,11 @@
 
     (9) The term “intensive services” means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1221][/us/stat/72/1221], § 2010; renumbered § 2001, [Pub. L. 87–675, § 1(a)][/us/pl/87/675/s1/a], Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558]; amended [Pub. L. 89–358, § 6(c)(1)][/us/pl/89/358/s6/c/1], Mar. 3, 1966, [80 Stat. 27][/us/stat/80/27]; [Pub. L. 92–540, title V, § 502(a)][/us/pl/92/540/s502/a], Oct. 24, 1972, [86 Stat. 1094][/us/stat/86/1094]; [Pub. L. 93–508, title IV, § 401(a)][/us/pl/93/508/s401/a], Dec. 3, 1974, [88 Stat. 1592][/us/stat/88/1592]; [Pub. L. 96–466, title V, § 503][/us/pl/96/466/s503], title VIII, § 801(h), Oct. 17, 1980, [94 Stat. 2203][/us/stat/94/2203], 2216; [Pub. L. 100–323][/us/pl/100/323], §§ 3(b), 15(a)(1), May 20, 1988, [102 Stat. 562][/us/stat/102/562], 574; renumbered § 4101 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 107–288, § 5(a)(1)(A)][/us/pl/107/288/s5/a/1/A], (c)(1), Nov. 7, 2002, [116 Stat. 2044][/us/stat/116/2044], 2045.)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1221][/us/stat/72/1221], § 2010; renumbered § 2001, [Pub. L. 87–675, § 1(a)][/us/pl/87/675/s1/a], Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558]; amended [Pub. L. 89–358, § 6(c)(1)][/us/pl/89/358/s6/c/1], Mar. 3, 1966, [80 Stat. 27][/us/stat/80/27]; [Pub. L. 92–540, title V, § 502(a)][/us/pl/92/540/s502/a], Oct. 24, 1972, [86 Stat. 1094][/us/stat/86/1094]; [Pub. L. 93–508, title IV, § 401(a)][/us/pl/93/508/s401/a], Dec. 3, 1974, [88 Stat. 1592][/us/stat/88/1592]; [Pub. L. 96–466, title V, § 503][/us/pl/96/466/s503], title VIII, § 801(h), Oct. 17, 1980, [94 Stat. 2203][/us/stat/94/2203], 2216; [Pub. L. 100–323][/us/pl/100/323], §§ 3(b), 15(a)(1), May 20, 1988, [102 Stat. 562][/us/stat/102/562], 574; renumbered § 4101 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 107–288, § 5(a)(1)(A)][/us/pl/107/288/s5/a/1/A], (c)(1), Nov. 7, 2002, [116 Stat. 2044][/us/stat/116/2044], 2045; [Pub. L. 113–128, title V, § 512(gg)(1)][/us/pl/113/128/s512/gg/1], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
+
+ __Amendment of Paragraph (9)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(gg)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking “The term ‘intensive services’ means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998” and inserting “The term ‘career services’ means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -56,6 +60,8 @@
     Prior section 4101, [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1243][/us/stat/72/1243]; [Pub. L. 89–785, title I, § 101][/us/pl/89/785/s101], Nov. 7, 1966, [80 Stat. 1368][/us/stat/80/1368]; [Pub. L. 93–82, title II, § 201][/us/pl/93/82/s201], Aug. 2, 1973, [87 Stat. 187][/us/stat/87/187]; [Pub. L. 94–581, title II][/us/pl/94/581], §§ 205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, [90 Stat. 2857][/us/stat/90/2857], 2860, 2863; [Pub. L. 96–330, title I, § 105(a)][/us/pl/96/330/s105/a], title III, § 302, title IV, § 408, Aug. 26, 1980, [94 Stat. 1036][/us/stat/94/1036], 1048, 1053; [Pub. L. 97–295, § 4(80)][/us/pl/97/295/s4/80], Oct. 12, 1982, [96 Stat. 1311][/us/stat/96/1311]; [Pub. L. 98–528, title I, § 104][/us/pl/98/528/s104], Oct. 19, 1984, [98 Stat. 2689][/us/stat/98/2689]; [Pub. L. 99–166, title II, § 202][/us/pl/99/166/s202], Dec. 3, 1985, [99 Stat. 950][/us/stat/99/950]; [Pub. L. 100–322, title I, § 135][/us/pl/100/322/s135], May 20, 1988, [102 Stat. 507][/us/stat/102/507]; [Pub. L. 100–687, div. B, title XV, § 1506(a)][/us/pl/100/687/s1506/a], Nov. 18, 1988, [102 Stat. 4135][/us/stat/102/4135], related to functions of Department of Medicine and Surgery, prior to repeal by [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 210][/us/stat/105/210]. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
 
  __Amendments__ 
+
+    2014—Par. (9). [Pub. L. 113–128][/us/pl/113/128] substituted “The term ‘career services’ means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act” for “The term ‘intensive services’ means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998”.
 
     2002—Par. (7). [Pub. L. 107–288, § 5(c)(1)][/us/pl/107/288/s5/c/1], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The term ‘local employment service office’ means a service delivery point which has an intrinsic management structure and at which employment services are offered in accordance with the Wagner-Peyser Act.”
 
@@ -80,6 +86,10 @@
     1972—[Pub. L. 92–540][/us/pl/92/540] substituted provisions defining “eligible veteran” and “State”, for provisions stating the Congressional declaration of purpose.
 
     1966—[Pub. L. 89–358][/us/pl/89/358] inserted “or of service after January 31, 1955” after “veterans of any war”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -155,6 +165,10 @@
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
 [/us/pl/107/288/s5/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs5%2Fa%2F1%2FA
 [/us/stat/116/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2044
+[/us/pl/113/128/s512/gg/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F1
+[/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
@@ -181,6 +195,7 @@
 [/us/stat/102/4135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4135
 [/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
 [/us/stat/105/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F210
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/107/288/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs5%2Fc%2F1
 [/us/pl/107/288/s5/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs5%2Fa%2F1%2FA
 [/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
@@ -194,6 +209,7 @@
 [/us/pl/93/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F508
 [/us/pl/92/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540
 [/us/pl/89/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F358
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/107/288/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs5%2Fa%2F2
 [/us/stat/116/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2044
 [/us/pl/107/288/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs5%2Fc%2F2

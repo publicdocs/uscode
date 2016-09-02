@@ -49,17 +49,19 @@
 
             (E) $50,000,000 for fiscal year 2006.
 
-            (F) $50,000,000 for each of fiscal years 2007 through 2014.
+            (F) $50,000,000 for each of fiscal years 2007 through 2015.
 
         (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 909][/us/stat/115/909]; amended [Pub. L. 109–233, title II, § 203][/us/pl/109/233/s203], June 15, 2006, [120 Stat. 404][/us/stat/120/404]; [Pub. L. 111–275, title II, § 201][/us/pl/111/275/s201], Oct. 13, 2010, [124 Stat. 2873][/us/stat/124/2873]; [Pub. L. 112–37, § 10(b)][/us/pl/112/37/s10/b], Oct. 5, 2011, [125 Stat. 396][/us/stat/125/396]; [Pub. L. 112–154, title III, § 305(b)][/us/pl/112/154/s305/b], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(e)(1)][/us/pl/113/37/s2/e/1], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524].)
+(Added [Pub. L. 107–95, § 5(a)(1)][/us/pl/107/95/s5/a/1], Dec. 21, 2001, [115 Stat. 909][/us/stat/115/909]; amended [Pub. L. 109–233, title II, § 203][/us/pl/109/233/s203], June 15, 2006, [120 Stat. 404][/us/stat/120/404]; [Pub. L. 111–275, title II, § 201][/us/pl/111/275/s201], Oct. 13, 2010, [124 Stat. 2873][/us/stat/124/2873]; [Pub. L. 112–37, § 10(b)][/us/pl/112/37/s10/b], Oct. 5, 2011, [125 Stat. 396][/us/stat/125/396]; [Pub. L. 112–154, title III, § 305(b)][/us/pl/112/154/s305/b], Aug. 6, 2012, [126 Stat. 1187][/us/stat/126/1187]; [Pub. L. 113–37, § 2(e)(1)][/us/pl/113/37/s2/e/1], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524]; [Pub. L. 113–175, title II, § 202][/us/pl/113/175/s202], Sept. 26, 2014, [128 Stat. 1904][/us/stat/128/1904].)
 
  __Prior Provisions__ 
 
     A prior section 2021 was renumbered [section 4301 of this title][/us/usc/t38/s4301] and subsequently omitted in the general amendment of chapter 43 of this title by [Pub. L. 103–353, § 2(a)][/us/pl/103/353/s2/a], Oct. 13, 1994, [108 Stat. 3150][/us/stat/108/3150].
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1)(F). [Pub. L. 113–175][/us/pl/113/175] substituted “2015” for “2014”.
 
     2013—Subsec. (e)(1)(F). [Pub. L. 113–37][/us/pl/113/37] substituted “2014” for “2013”.
 
@@ -94,9 +96,12 @@
 [/us/stat/126/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1187
 [/us/pl/113/37/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fe%2F1
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
+[/us/pl/113/175/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs202
+[/us/stat/128/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1904
 [/us/usc/t38/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301
 [/us/pl/103/353/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fa
 [/us/stat/108/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3150
+[/us/pl/113/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175
 [/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
