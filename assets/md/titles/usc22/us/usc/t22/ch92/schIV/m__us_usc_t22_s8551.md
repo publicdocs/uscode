@@ -75,7 +75,11 @@
 
     Ex. Ord. No. 13553, §§ 5–7, Sept. 28, 2010, [77 Stat. 60568][/us/stat/77/60568], 60569, authorized the Secretary of the Treasury, in consultation with the Secretary of State, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain sanctions pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) under [section 8514(a) of this title][/us/usc/t22/s8514/a]; authorized the Secretary of State, in consultation with the Secretary of Homeland Security on certain admissibility matters, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to impose or maintain visa sanctions under [section 8514(a) of this title][/us/usc/t22/s8514/a]; and authorized the Secretary of State, in consultation with the Secretary of the Treasury, to exercise the functions and waiver authorities conferred upon the President by subsec. (b) of this section with respect to the requirement to include a person on the list required by [section 8514(b) of this title][/us/usc/t22/s8514/b].
 
-    For other delegation of functions of President under this section, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under [section 8501 of this title][/us/usc/t22/s8501].
+    Other delegations of functions vested in the President by this section were contained in the following:
+
+    Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under [section 8801 of this title][/us/usc/t22/s8801].
+
+    Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under [section 8501 of this title][/us/usc/t22/s8501].
 
 ----------
 
@@ -137,6 +141,7 @@
 [/us/usc/t22/s8514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fa
 [/us/usc/t22/s8514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fa
 [/us/usc/t22/s8514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fb
+[/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 [/us/usc/t22/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8501
 
 

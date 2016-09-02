@@ -33,7 +33,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs401" data-uslm-ref="/us/usc/t22/s401">401.</a>  </td>
 
     <td> Illegal exportation of war materials.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 402 to 405.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs402" data-uslm-ref="/us/usc/t22/s402">402</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs405" data-uslm-ref="/us/usc/t22/s405">405.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs406" data-uslm-ref="/us/usc/t22/s406">406.</a>  </td>
 
     <td> Interference with foreign trade.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs407" data-uslm-ref="/us/usc/t22/s407">407.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs408" data-uslm-ref="/us/usc/t22/s408">408.</a>  </td>
 
     <td> Use of land and naval forces to prevent exportation.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 408a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs408a" data-uslm-ref="/us/usc/t22/s408a">408a.</a>  </td>
 
     <td> “United States” defined.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 409 to 420.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs409" data-uslm-ref="/us/usc/t22/s409">409</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs420" data-uslm-ref="/us/usc/t22/s420">420.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs421" data-uslm-ref="/us/usc/t22/s421">421.</a>  </td>
 
     <td> Contracts by Government agencies for defense articles, services, etc., for foreign governments in interests of United States.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs422" data-uslm-ref="/us/usc/t22/s422">422.</a>  </td>
 
     <td> Retention for United States of defense articles procured for foreign governments.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs423" data-uslm-ref="/us/usc/t22/s423">423.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs441" data-uslm-ref="/us/usc/t22/s441">441.</a>  </td>
 
     <td> Proclamation of state of war between foreign states.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 442, 443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs442" data-uslm-ref="/us/usc/t22/s442">442</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs443" data-uslm-ref="/us/usc/t22/s443">443.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs444" data-uslm-ref="/us/usc/t22/s444">444.</a>  </td>
 
     <td> American Red Cross vessels.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs445" data-uslm-ref="/us/usc/t22/s445">445.</a>  </td>
 
     <td> Travel on vessels of belligerent states.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs446" data-uslm-ref="/us/usc/t22/s446">446.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs447" data-uslm-ref="/us/usc/t22/s447">447.</a>  </td>
 
     <td> Financial transactions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 448.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs448" data-uslm-ref="/us/usc/t22/s448">448.</a>  </td>
 
     <td> Solicitation and collection of funds and contributions.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 449.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs449" data-uslm-ref="/us/usc/t22/s449">449.</a>  </td>
 
     <td> American republics.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 450.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs450" data-uslm-ref="/us/usc/t22/s450">450.</a>  </td>
 
     <td> Restrictions on use of American ports.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs451" data-uslm-ref="/us/usc/t22/s451">451.</a>  </td>
 
     <td> Submarines and armed merchant vessels.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs452" data-uslm-ref="/us/usc/t22/s452">452.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs453" data-uslm-ref="/us/usc/t22/s453">453.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs454" data-uslm-ref="/us/usc/t22/s454">454.</a>  </td>
 
     <td> Unlawful use of the American flag by vessel of foreign state.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs455" data-uslm-ref="/us/usc/t22/s455">455.</a>  </td>
 
     <td> General penalty provision.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs456" data-uslm-ref="/us/usc/t22/s456">456.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—NEUTRALITY  </td>
 
   <tr>
 
-    <td> 457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs457" data-uslm-ref="/us/usc/t22/s457">457.</a>  </td>
 
     <td> Appropriations.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—PREVENTION OF OFFENSES AGAINST NEUTRALITY  </td>
 
   <tr>
 
-    <td> 461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs461" data-uslm-ref="/us/usc/t22/s461">461.</a>  </td>
 
     <td> Enforcement by courts; employment of land or naval forces.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—PREVENTION OF OFFENSES AGAINST NEUTRALITY  </td>
 
   <tr>
 
-    <td> 462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs462" data-uslm-ref="/us/usc/t22/s462">462.</a>  </td>
 
     <td> Compelling foreign vessels to depart.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—PREVENTION OF OFFENSES AGAINST NEUTRALITY  </td>
 
   <tr>
 
-    <td> 463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs463" data-uslm-ref="/us/usc/t22/s463">463.</a>  </td>
 
     <td> Bonds from armed vessels on clearing.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—PREVENTION OF OFFENSES AGAINST NEUTRALITY  </td>
 
   <tr>
 
-    <td> 464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs464" data-uslm-ref="/us/usc/t22/s464">464.</a>  </td>
 
     <td> Detention by collectors of customs.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—PREVENTION OF OFFENSES AGAINST NEUTRALITY  </td>
 
   <tr>
 
-    <td> 465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs465" data-uslm-ref="/us/usc/t22/s465">465.</a>  </td>
 
     <td> Detention of vessels.  </td>
 

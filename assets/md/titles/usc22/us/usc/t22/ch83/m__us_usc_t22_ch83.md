@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7601" data-uslm-ref="/us/usc/t22/s7601">7601.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7602" data-uslm-ref="/us/usc/t22/s7602">7602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7603" data-uslm-ref="/us/usc/t22/s7603">7603.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7604" data-uslm-ref="/us/usc/t22/s7604">7604.</a>  </td>
 
     <td> Authority to consolidate and combine reports.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—POLICY PLANNING AND COORDINATION  </td>
 
   <tr>
 
-    <td> 7611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7611" data-uslm-ref="/us/usc/t22/s7611">7611.</a>  </td>
 
     <td> Development of a comprehensive, five-year, global strategy.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—POLICY PLANNING AND COORDINATION  </td>
 
   <tr>
 
-    <td> 7612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7612" data-uslm-ref="/us/usc/t22/s7612">7612.</a>  </td>
 
     <td> HIV/AIDS response Coordinator.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—POLICY PLANNING AND COORDINATION  </td>
 
   <tr>
 
-    <td> 7612a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7612a" data-uslm-ref="/us/usc/t22/s7612a">7612a.</a>  </td>
 
     <td> HIV/AIDS Working Capital Fund.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—SUPPORT FOR MULTILATERAL FUNDS, PROGRAMS, AND PUBLIC-PRIVATE PAR
 
   <tr>
 
-    <td> 7621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7621" data-uslm-ref="/us/usc/t22/s7621">7621.</a>  </td>
 
     <td> Sense of Congress on public-private partnerships.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—SUPPORT FOR MULTILATERAL FUNDS, PROGRAMS, AND PUBLIC-PRIVATE PAR
 
   <tr>
 
-    <td> 7622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7622" data-uslm-ref="/us/usc/t22/s7622">7622.</a>  </td>
 
     <td> Participation in the Global Fund to Fight AIDS, Tuberculosis and Malaria.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—SUPPORT FOR MULTILATERAL FUNDS, PROGRAMS, AND PUBLIC-PRIVATE PAR
 
   <tr>
 
-    <td> 7623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7623" data-uslm-ref="/us/usc/t22/s7623">7623.</a>  </td>
 
     <td> Combating HIV/AIDS, tuberculosis, and malaria by strengthening health policies and health systems of partner countries.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—SUPPORT FOR MULTILATERAL FUNDS, PROGRAMS, AND PUBLIC-PRIVATE PAR
 
   <tr>
 
-    <td> 7624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7624" data-uslm-ref="/us/usc/t22/s7624">7624.</a>  </td>
 
     <td> Facilitating vaccine development.  </td>
 
@@ -145,7 +145,7 @@ Part A—General Assistance and Programs  </td>
 
   <tr>
 
-    <td> 7631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7631" data-uslm-ref="/us/usc/t22/s7631">7631.</a>  </td>
 
     <td> Assistance to combat HIV/AIDS.  </td>
 
@@ -153,7 +153,7 @@ Part A—General Assistance and Programs  </td>
 
   <tr>
 
-    <td> 7631a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7631a" data-uslm-ref="/us/usc/t22/s7631a">7631a.</a>  </td>
 
     <td> United States Agency for International Development.  </td>
 
@@ -161,7 +161,7 @@ Part A—General Assistance and Programs  </td>
 
   <tr>
 
-    <td> 7632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7632" data-uslm-ref="/us/usc/t22/s7632">7632.</a>  </td>
 
     <td> Authorization of appropriations to combat tuberculosis.  </td>
 
@@ -169,7 +169,7 @@ Part A—General Assistance and Programs  </td>
 
   <tr>
 
-    <td> 7633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7633" data-uslm-ref="/us/usc/t22/s7633">7633.</a>  </td>
 
     <td> Assistance to combat malaria.  </td>
 
@@ -177,7 +177,7 @@ Part A—General Assistance and Programs  </td>
 
   <tr>
 
-    <td> 7634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7634" data-uslm-ref="/us/usc/t22/s7634">7634.</a>  </td>
 
     <td> Malaria response Coordinator.  </td>
 
@@ -185,7 +185,7 @@ Part A—General Assistance and Programs  </td>
 
   <tr>
 
-    <td> 7635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7635" data-uslm-ref="/us/usc/t22/s7635">7635.</a>  </td>
 
     <td> Report on treatment activities by relevant executive branch agencies.  </td>
 
@@ -193,7 +193,7 @@ Part A—General Assistance and Programs  </td>
 
   <tr>
 
-    <td> 7636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7636" data-uslm-ref="/us/usc/t22/s7636">7636.</a>  </td>
 
     <td> Study on illegal diversions of prescription drugs.  </td>
 
@@ -209,7 +209,7 @@ Part B—Assistance for Children and Families  </td>
 
   <tr>
 
-    <td> 7651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7651" data-uslm-ref="/us/usc/t22/s7651">7651.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -217,7 +217,7 @@ Part B—Assistance for Children and Families  </td>
 
   <tr>
 
-    <td> 7652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7652" data-uslm-ref="/us/usc/t22/s7652">7652.</a>  </td>
 
     <td> Policy and requirements.  </td>
 
@@ -225,7 +225,7 @@ Part B—Assistance for Children and Families  </td>
 
   <tr>
 
-    <td> 7653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7653" data-uslm-ref="/us/usc/t22/s7653">7653.</a>  </td>
 
     <td> Annual reports on prevention of mother-to-child transmission of the HIV infection.  </td>
 
@@ -233,7 +233,7 @@ Part B—Assistance for Children and Families  </td>
 
   <tr>
 
-    <td> 7654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7654" data-uslm-ref="/us/usc/t22/s7654">7654.</a>  </td>
 
     <td> Pilot program of assistance for children and families affected by HIV/AIDS.  </td>
 
@@ -241,7 +241,7 @@ Part B—Assistance for Children and Families  </td>
 
   <tr>
 
-    <td> 7655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7655" data-uslm-ref="/us/usc/t22/s7655">7655.</a>  </td>
 
     <td> Pilot program on family survival partnerships.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 7671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7671" data-uslm-ref="/us/usc/t22/s7671">7671.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 7672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7672" data-uslm-ref="/us/usc/t22/s7672">7672.</a>  </td>
 
     <td> Sense of Congress.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 7673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7673" data-uslm-ref="/us/usc/t22/s7673">7673.</a>  </td>
 
     <td> Allocation of funds.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 7674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7674" data-uslm-ref="/us/usc/t22/s7674">7674.</a>  </td>
 
     <td> Assistance from the United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—INTERNATIONAL FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 7681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7681" data-uslm-ref="/us/usc/t22/s7681">7681.</a>  </td>
 
     <td> Report on expansion of debt relief to non-HIPC countries.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER V—INTERNATIONAL FINANCIAL INSTITUTIONS  </td>
 
   <tr>
 
-    <td> 7682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7682" data-uslm-ref="/us/usc/t22/s7682">7682.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

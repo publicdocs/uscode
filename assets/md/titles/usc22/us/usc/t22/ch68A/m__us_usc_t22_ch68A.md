@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5951" data-uslm-ref="/us/usc/t22/s5951">5951.</a>  </td>
 
     <td> Findings on cooperative threat reduction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5952" data-uslm-ref="/us/usc/t22/s5952">5952.</a>  </td>
 
     <td> Authority for programs to facilitate cooperative threat reduction.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5953" data-uslm-ref="/us/usc/t22/s5953">5953.</a>  </td>
 
     <td> Demilitarization Enterprise Fund.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5954" data-uslm-ref="/us/usc/t22/s5954">5954.</a>  </td>
 
     <td> Funding for fiscal year 1994.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5955" data-uslm-ref="/us/usc/t22/s5955">5955.</a>  </td>
 
     <td> Prior notice to Congress of obligation of funds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5956" data-uslm-ref="/us/usc/t22/s5956">5956.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5957" data-uslm-ref="/us/usc/t22/s5957">5957.</a>  </td>
 
     <td> “Appropriate congressional committees” defined.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5958" data-uslm-ref="/us/usc/t22/s5958">5958.</a>  </td>
 
     <td> Authorization for additional fiscal year 1993 assistance to independent states of the former Soviet Union.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5959" data-uslm-ref="/us/usc/t22/s5959">5959.</a>  </td>
 
     <td> Reports on activities and assistance under cooperative threat reduction programs.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5960" data-uslm-ref="/us/usc/t22/s5960">5960.</a>  </td>
 
     <td> Limitation on use of funds until certain permits obtained.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5961" data-uslm-ref="/us/usc/t22/s5961">5961.</a>  </td>
 
     <td> Requirement for on-site managers.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5961a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5961a" data-uslm-ref="/us/usc/t22/s5961a">5961a.</a>  </td>
 
     <td> Requirement for on-site managers.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5962" data-uslm-ref="/us/usc/t22/s5962">5962.</a>  </td>
 
     <td> Annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 5963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5963" data-uslm-ref="/us/usc/t22/s5963">5963.</a>  </td>
 
     <td> Authority to use Cooperative Threat Reduction funds outside the former Soviet Union.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 5964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5964" data-uslm-ref="/us/usc/t22/s5964">5964.</a>  </td>
 
     <td> Metrics for the Cooperative Threat Reduction Program.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 5965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5965" data-uslm-ref="/us/usc/t22/s5965">5965.</a>  </td>
 
     <td> Cooperative Threat Reduction Program authority for urgent threat reduction activities.  </td>
 

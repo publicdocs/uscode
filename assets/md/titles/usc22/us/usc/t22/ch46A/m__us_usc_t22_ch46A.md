@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3141" data-uslm-ref="/us/usc/t22/s3141">3141.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3142" data-uslm-ref="/us/usc/t22/s3142">3142.</a>  </td>
 
     <td> Report by Secretary of Commerce.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3143" data-uslm-ref="/us/usc/t22/s3143">3143.</a>  </td>
 
     <td> Reports by Government Accountability Office.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3144" data-uslm-ref="/us/usc/t22/s3144">3144.</a>  </td>
 
     <td> Access to information; confidentiality.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3145" data-uslm-ref="/us/usc/t22/s3145">3145.</a>  </td>
 
     <td> Construction of foreign direct investment and international financial data provisions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3146" data-uslm-ref="/us/usc/t22/s3146">3146.</a>  </td>
 
     <td> Definitions.  </td>
 

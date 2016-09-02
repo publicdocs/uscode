@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 251 to 254.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs251" data-uslm-ref="/us/usc/t22/s251">251</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs254" data-uslm-ref="/us/usc/t22/s254">254.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 254a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs254a" data-uslm-ref="/us/usc/t22/s254a">254a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 254b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs254b" data-uslm-ref="/us/usc/t22/s254b">254b.</a>  </td>
 
     <td> Privileges and immunities of mission of nonparty to Vienna Convention.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 254c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs254c" data-uslm-ref="/us/usc/t22/s254c">254c.</a>  </td>
 
     <td> Extension of more favorable or less favorable treatment than provided under Vienna Convention; authority of President.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 254c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs254c%E2%80%931" data-uslm-ref="/us/usc/t22/s254c–1">254c–1.</a>  </td>
 
     <td> Policy toward certain agents of foreign governments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 254c–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs254c%E2%80%932" data-uslm-ref="/us/usc/t22/s254c–2">254c–2.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 254d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs254d" data-uslm-ref="/us/usc/t22/s254d">254d.</a>  </td>
 
     <td> Dismissal on motion of action against individual entitled to immunity.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 254e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs254e" data-uslm-ref="/us/usc/t22/s254e">254e.</a>  </td>
 
     <td> Liability insurance for members of mission.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 255 to 255b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs255" data-uslm-ref="/us/usc/t22/s255">255</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs255b" data-uslm-ref="/us/usc/t22/s255b">255b.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs256" data-uslm-ref="/us/usc/t22/s256">256.</a>  </td>
 
     <td> Jurisdiction of consular officers in disputes between seamen.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs257" data-uslm-ref="/us/usc/t22/s257">257.</a>  </td>
 
     <td> Arrest of seamen; procedure generally.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs258" data-uslm-ref="/us/usc/t22/s258">258.</a>  </td>
 
     <td> Commitment and discharge.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 258a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs258a" data-uslm-ref="/us/usc/t22/s258a">258a.</a>  </td>
 
     <td> Enforcement of awards of foreign consuls.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 259.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs259" data-uslm-ref="/us/usc/t22/s259">259.</a>  </td>
 
     <td> Repealed.  </td>
 

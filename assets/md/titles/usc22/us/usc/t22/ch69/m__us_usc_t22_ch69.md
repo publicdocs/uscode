@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6001" data-uslm-ref="/us/usc/t22/s6001">6001.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6002" data-uslm-ref="/us/usc/t22/s6002">6002.</a>  </td>
 
     <td> Statement of policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6003" data-uslm-ref="/us/usc/t22/s6003">6003.</a>  </td>
 
     <td> International cooperation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6004" data-uslm-ref="/us/usc/t22/s6004">6004.</a>  </td>
 
     <td> Support for Cuban people.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6005" data-uslm-ref="/us/usc/t22/s6005">6005.</a>  </td>
 
     <td> Sanctions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6006" data-uslm-ref="/us/usc/t22/s6006">6006.</a>  </td>
 
     <td> Policy toward a transitional Cuban Government.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6007" data-uslm-ref="/us/usc/t22/s6007">6007.</a>  </td>
 
     <td> Policy toward a democratic Cuban Government.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6008" data-uslm-ref="/us/usc/t22/s6008">6008.</a>  </td>
 
     <td> Existing claims not affected.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6009" data-uslm-ref="/us/usc/t22/s6009">6009.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6010" data-uslm-ref="/us/usc/t22/s6010">6010.</a>  </td>
 
     <td> “United States person” defined.  </td>
 

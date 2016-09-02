@@ -37,6 +37,10 @@
 
 ([Pub. L. 112–239, div. A, title XII, § 1252][/us/pl/112/239/s1252], Jan. 2, 2013, [126 Stat. 2017][/us/stat/126/2017].)
 
+ __Delegation of Functions__ 
+
+    For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under [section 8801 of this title][/us/usc/t22/s8801].
+
 ----------
 
 [Previous](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8807.md) | [Next](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8809.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8808)
@@ -46,5 +50,6 @@
 
 [/us/pl/112/239/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1252
 [/us/stat/126/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2017
+[/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 
 

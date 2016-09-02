@@ -93,9 +93,9 @@ For termination of section, see [section 8551(a) of this title][/us/usc/t22/s855
 
     I hereby delegate functions vested in the President by CISADA, as follows:
 
-    • section 102(h)(5) to the Secretary of State;
+    • section 102(h)(5) \[[50 U.S.C. 1701][/us/usc/t50/s1701] note\] to the Secretary of State;
 
-    • section 103(b)(3) to the Secretary of State and the Secretary of the Treasury, consistent with Executive Orders 13224 and 13382, as amended, and any other relevant Executive Orders;
+    • section 103(b)(3) \[[22 U.S.C. 8512(b)(3)][/us/usc/t22/s8512/b/3]\] to the Secretary of State and the Secretary of the Treasury, consistent with Executive Orders 13224 and 13382, as amended, and any other relevant Executive Orders;
 
     • section 103(d)(1) to the Secretary of the Treasury, in consultation with the Secretary of State and, as appropriate, other agencies;
 
@@ -103,17 +103,17 @@ For termination of section, see [section 8551(a) of this title][/us/usc/t22/s855
 
     • section 103(d)(2)(B) to the Secretary of State, in consultation with the Secretary of the Treasury and the Secretary of Commerce;
 
-    • section 106 to the Secretary of State, in consultation with the Secretary of Commerce;
+    • section 106 \[[22 U.S.C. 8515][/us/usc/t22/s8515]\] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-    • section 110 to the Secretary of State;
+    • section 110 \[[22 U.S.C. 8518][/us/usc/t22/s8518]\] to the Secretary of State;
 
-    • section 111(a) to the Secretary of State, in consultation with the Secretary of the Treasury and the President of the Export-Import Bank;
+    • section 111(a) \[[22 U.S.C. 8519(a)][/us/usc/t22/s8519/a]\] to the Secretary of State, in consultation with the Secretary of the Treasury and the President of the Export-Import Bank;
 
     • section 111(b) to the President of the Export Import Bank, in consultation with the Secretary of State and the Secretary of the Treasury;
 
-    • section 115 to the Secretary of State, in consultation with the Attorney General and the Secretary of the Treasury;
+    • section 115 \[[124 Stat. 1341][/us/stat/124/1341]\] to the Secretary of State, in consultation with the Attorney General and the Secretary of the Treasury;
 
-    • sections 303(a) and 303(b) to the Secretary of State, in consultation with the Secretary of Commerce;
+    • sections 303(a) and 303(b) \[[22 U.S.C. 8543(a)][/us/usc/t22/s8543/a], (b)\] to the Secretary of State, in consultation with the Secretary of Commerce;
 
     • section 303(c) to the Secretary of Commerce with regard to exports governed by the Export Administration Regulations, and to the Secretary of State with regard to exports governed by the International Traffic in Arms Regulations;
 
@@ -121,9 +121,9 @@ For termination of section, see [section 8551(a) of this title][/us/usc/t22/s855
 
     • section 303(e) to the Secretary of State, in consultation with the Secretary of Commerce;
 
-    • section 304 to the Secretary of State, in consultation with the Secretary of Commerce;
+    • section 304 \[[124 Stat. 1349][/us/stat/124/1349]\] to the Secretary of State, in consultation with the Secretary of Commerce;
 
-    • section 401(b) to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
+    • section 401(b) \[[22 U.S.C. 8551(b)][/us/usc/t22/s8551/b]\] to the Secretary of State, in consultation with the Secretary of the Treasury and, as appropriate, other agencies, with respect to the waiver of sanctions under section 103(b); to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the application of the prohibition under section 106(a); and to the Secretary of State, in consultation with the Secretary of Commerce, with respect to the waiver of the imposition of the licensing requirement under section 303(c).
 
     Any reference in this memorandum to provisions of any Act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provisions.
 
@@ -167,5 +167,14 @@ For termination of section, see [section 8551(a) of this title][/us/usc/t22/s855
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t22/s8512/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8512%2Fb%2F3
+[/us/usc/t22/s8515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8515
+[/us/usc/t22/s8518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8518
+[/us/usc/t22/s8519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8519%2Fa
+[/us/stat/124/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1341
+[/us/usc/t22/s8543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8543%2Fa
+[/us/stat/124/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1349
+[/us/usc/t22/s8551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fb
 
 

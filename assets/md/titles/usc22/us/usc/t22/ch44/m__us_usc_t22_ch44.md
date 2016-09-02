@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2901" data-uslm-ref="/us/usc/t22/s2901">2901.</a>  </td>
 
     <td> Congressional statement of findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2902" data-uslm-ref="/us/usc/t22/s2902">2902.</a>  </td>
 
     <td> Japan-United States Friendship Trust Fund.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2903" data-uslm-ref="/us/usc/t22/s2903">2903.</a>  </td>
 
     <td> Japan-United States Friendship Commission.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2904" data-uslm-ref="/us/usc/t22/s2904">2904.</a>  </td>
 
     <td> Functions of Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2905" data-uslm-ref="/us/usc/t22/s2905">2905.</a>  </td>
 
     <td> Administrative powers of Commission.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2906" data-uslm-ref="/us/usc/t22/s2906">2906.</a>  </td>
 
     <td> Management of the Friendship Trust Fund.  </td>
 

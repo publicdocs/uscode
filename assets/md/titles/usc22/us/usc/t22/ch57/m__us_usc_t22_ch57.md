@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4701" data-uslm-ref="/us/usc/t22/s4701">4701.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4702" data-uslm-ref="/us/usc/t22/s4702">4702.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4703" data-uslm-ref="/us/usc/t22/s4703">4703.</a>  </td>
 
     <td> Scholarship program authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4704" data-uslm-ref="/us/usc/t22/s4704">4704.</a>  </td>
 
     <td> Guidelines.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4705" data-uslm-ref="/us/usc/t22/s4705">4705.</a>  </td>
 
     <td> Authority to enter into agreements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4706" data-uslm-ref="/us/usc/t22/s4706">4706.</a>  </td>
 
     <td> Policy regarding other international educational programs.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4707" data-uslm-ref="/us/usc/t22/s4707">4707.</a>  </td>
 
     <td> Establishment and maintenance of counseling services.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4708" data-uslm-ref="/us/usc/t22/s4708">4708.</a>  </td>
 
     <td> J. William Fulbright Foreign Scholarship Board.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4709" data-uslm-ref="/us/usc/t22/s4709">4709.</a>  </td>
 
     <td> General authorities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4710" data-uslm-ref="/us/usc/t22/s4710">4710.</a>  </td>
 
     <td> English teaching, textbooks, and other teaching materials.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4711" data-uslm-ref="/us/usc/t22/s4711">4711.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 4712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4712" data-uslm-ref="/us/usc/t22/s4712">4712.</a>  </td>
 
     <td> Funding of scholarships for fiscal year 1986 and fiscal year 1987.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 4713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4713" data-uslm-ref="/us/usc/t22/s4713">4713.</a>  </td>
 
     <td> Latin American exchanges.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 4714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4714" data-uslm-ref="/us/usc/t22/s4714">4714.</a>  </td>
 
     <td> Feasibility study of training programs in sizable Hispanic populations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 4715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4715" data-uslm-ref="/us/usc/t22/s4715">4715.</a>  </td>
 
     <td> Compliance with Congressional Budget Act.  </td>
 

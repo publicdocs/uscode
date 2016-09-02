@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7701" data-uslm-ref="/us/usc/t22/s7701">7701.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7702" data-uslm-ref="/us/usc/t22/s7702">7702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7703" data-uslm-ref="/us/usc/t22/s7703">7703.</a>  </td>
 
     <td> Establishment and management of the Millennium Challenge Corporation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7704" data-uslm-ref="/us/usc/t22/s7704">7704.</a>  </td>
 
     <td> Authorization of assistance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7705" data-uslm-ref="/us/usc/t22/s7705">7705.</a>  </td>
 
     <td> Candidate countries.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7706" data-uslm-ref="/us/usc/t22/s7706">7706.</a>  </td>
 
     <td> Eligible countries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7707" data-uslm-ref="/us/usc/t22/s7707">7707.</a>  </td>
 
     <td> Congressional and public notification of candidate countries, eligibility criteria, and eligible countries.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7708" data-uslm-ref="/us/usc/t22/s7708">7708.</a>  </td>
 
     <td> Millennium Challenge Compact.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7709" data-uslm-ref="/us/usc/t22/s7709">7709.</a>  </td>
 
     <td> Congressional and public notification of Compact.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7710" data-uslm-ref="/us/usc/t22/s7710">7710.</a>  </td>
 
     <td> Suspension and termination of assistance.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7711" data-uslm-ref="/us/usc/t22/s7711">7711.</a>  </td>
 
     <td> Disclosure.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 7712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7712" data-uslm-ref="/us/usc/t22/s7712">7712.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7713" data-uslm-ref="/us/usc/t22/s7713">7713.</a>  </td>
 
     <td> Powers of the Corporation; related provisions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7714" data-uslm-ref="/us/usc/t22/s7714">7714.</a>  </td>
 
     <td> Coordination with United States Agency for International Development.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 7715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7715" data-uslm-ref="/us/usc/t22/s7715">7715.</a>  </td>
 
     <td> Assistance to certain candidate countries.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 7716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7716" data-uslm-ref="/us/usc/t22/s7716">7716.</a>  </td>
 
     <td> General personnel authorities.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 7717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7717" data-uslm-ref="/us/usc/t22/s7717">7717.</a>  </td>
 
     <td> Personnel outside the United States.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 7718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7718" data-uslm-ref="/us/usc/t22/s7718">7718.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

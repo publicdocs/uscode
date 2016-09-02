@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1961" data-uslm-ref="/us/usc/t22/s1961">1961.</a>  </td>
 
     <td> Economic assistance.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1962" data-uslm-ref="/us/usc/t22/s1962">1962.</a>  </td>
 
     <td> Military assistance; use of armed forces.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1963" data-uslm-ref="/us/usc/t22/s1963">1963.</a>  </td>
 
     <td> United Nations Emergency Force.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1964" data-uslm-ref="/us/usc/t22/s1964">1964.</a>  </td>
 
     <td> Report to Congress.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1965" data-uslm-ref="/us/usc/t22/s1965">1965.</a>  </td>
 
     <td> Expiration.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5201" data-uslm-ref="/us/usc/t22/s5201">5201.</a>  </td>
 
     <td> Findings; determinations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5202" data-uslm-ref="/us/usc/t22/s5202">5202.</a>  </td>
 
     <td> Prohibitions regarding PLO.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5203" data-uslm-ref="/us/usc/t22/s5203">5203.</a>  </td>
 
     <td> Enforcement.  </td>
 

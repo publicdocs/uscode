@@ -33,7 +33,7 @@ SUBCHAPTER I—EXCHANGE RATES AND INTERNATIONAL ECONOMIC POLICY COORDINATION  </
 
   <tr>
 
-    <td> 5301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5301" data-uslm-ref="/us/usc/t22/s5301">5301.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—EXCHANGE RATES AND INTERNATIONAL ECONOMIC POLICY COORDINATION  </
 
   <tr>
 
-    <td> 5302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5302" data-uslm-ref="/us/usc/t22/s5302">5302.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—EXCHANGE RATES AND INTERNATIONAL ECONOMIC POLICY COORDINATION  </
 
   <tr>
 
-    <td> 5303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5303" data-uslm-ref="/us/usc/t22/s5303">5303.</a>  </td>
 
     <td> Statement of policy.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—EXCHANGE RATES AND INTERNATIONAL ECONOMIC POLICY COORDINATION  </
 
   <tr>
 
-    <td> 5304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5304" data-uslm-ref="/us/usc/t22/s5304">5304.</a>  </td>
 
     <td> International negotiations on exchange rate and economic policies.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—EXCHANGE RATES AND INTERNATIONAL ECONOMIC POLICY COORDINATION  </
 
   <tr>
 
-    <td> 5305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5305" data-uslm-ref="/us/usc/t22/s5305">5305.</a>  </td>
 
     <td> Reporting requirements.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—EXCHANGE RATES AND INTERNATIONAL ECONOMIC POLICY COORDINATION  </
 
   <tr>
 
-    <td> 5306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5306" data-uslm-ref="/us/usc/t22/s5306">5306.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@ Part A—Findings, Purposes, and Statement of Policy  </td>
 
   <tr>
 
-    <td> 5321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5321" data-uslm-ref="/us/usc/t22/s5321">5321.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -105,7 +105,7 @@ Part A—Findings, Purposes, and Statement of Policy  </td>
 
   <tr>
 
-    <td> 5322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5322" data-uslm-ref="/us/usc/t22/s5322">5322.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -113,7 +113,7 @@ Part A—Findings, Purposes, and Statement of Policy  </td>
 
   <tr>
 
-    <td> 5323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5323" data-uslm-ref="/us/usc/t22/s5323">5323.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -121,7 +121,7 @@ Part A—Findings, Purposes, and Statement of Policy  </td>
 
   <tr>
 
-    <td> 5324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5324" data-uslm-ref="/us/usc/t22/s5324">5324.</a>  </td>
 
     <td> Statement of policy.  </td>
 
@@ -137,7 +137,7 @@ Part B—International Debt Management Authority  </td>
 
   <tr>
 
-    <td> 5331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5331" data-uslm-ref="/us/usc/t22/s5331">5331.</a>  </td>
 
     <td> International initiative.  </td>
 
@@ -145,7 +145,7 @@ Part B—International Debt Management Authority  </td>
 
   <tr>
 
-    <td> 5332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5332" data-uslm-ref="/us/usc/t22/s5332">5332.</a>  </td>
 
     <td> Actions to facilitate creation of Authority.  </td>
 
@@ -153,7 +153,7 @@ Part B—International Debt Management Authority  </td>
 
   <tr>
 
-    <td> 5333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5333" data-uslm-ref="/us/usc/t22/s5333">5333.</a>  </td>
 
     <td> IMF-World Bank review.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—PRIMARY DEALERS  </td>
 
   <tr>
 
-    <td> 5341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5341" data-uslm-ref="/us/usc/t22/s5341">5341.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—PRIMARY DEALERS  </td>
 
   <tr>
 
-    <td> 5342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5342" data-uslm-ref="/us/usc/t22/s5342">5342.</a>  </td>
 
     <td> Requirement of national treatment in underwriting government debt instruments.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—FINANCIAL REPORTS  </td>
 
   <tr>
 
-    <td> 5351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5351" data-uslm-ref="/us/usc/t22/s5351">5351.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—FINANCIAL REPORTS  </td>
 
   <tr>
 
-    <td> 5352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5352" data-uslm-ref="/us/usc/t22/s5352">5352.</a>  </td>
 
     <td> Quadrennial reports on foreign treatment of United States financial institutions.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—FINANCIAL REPORTS  </td>
 
   <tr>
 
-    <td> 5353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5353" data-uslm-ref="/us/usc/t22/s5353">5353.</a>  </td>
 
     <td> Fair trade in financial services.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—FINANCIAL REPORTS  </td>
 
   <tr>
 
-    <td> 5354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5354" data-uslm-ref="/us/usc/t22/s5354">5354.</a>  </td>
 
     <td> Banks loan loss reserves.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8601" data-uslm-ref="/us/usc/t22/s8601">8601.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8602" data-uslm-ref="/us/usc/t22/s8602">8602.</a>  </td>
 
     <td> Statement of policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8603" data-uslm-ref="/us/usc/t22/s8603">8603.</a>  </td>
 
     <td> United States actions to assist in the defense of Israel and protect United States interests.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8604" data-uslm-ref="/us/usc/t22/s8604">8604.</a>  </td>
 
     <td> Reports required.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8605" data-uslm-ref="/us/usc/t22/s8605">8605.</a>  </td>
 
     <td> Definitions.  </td>
 

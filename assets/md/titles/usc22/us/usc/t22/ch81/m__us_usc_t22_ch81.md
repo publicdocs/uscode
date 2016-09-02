@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7401" data-uslm-ref="/us/usc/t22/s7401">7401.</a>  </td>
 
     <td> Restriction relating to United States accession to the International Criminal Court.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7402" data-uslm-ref="/us/usc/t22/s7402">7402.</a>  </td>
 
     <td> Prohibition on extradition or transfer of United States citizens to the International Criminal Court.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7421" data-uslm-ref="/us/usc/t22/s7421">7421.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7422" data-uslm-ref="/us/usc/t22/s7422">7422.</a>  </td>
 
     <td> Waiver and termination of prohibitions of this subchapter.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7423" data-uslm-ref="/us/usc/t22/s7423">7423.</a>  </td>
 
     <td> Prohibition on cooperation with the International Criminal Court.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7424" data-uslm-ref="/us/usc/t22/s7424">7424.</a>  </td>
 
     <td> Restriction on United States participation in certain United Nations peacekeeping operations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7425" data-uslm-ref="/us/usc/t22/s7425">7425.</a>  </td>
 
     <td> Prohibition on direct or indirect transfer of classified national security information and law enforcement information to the International Criminal Court.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7426" data-uslm-ref="/us/usc/t22/s7426">7426.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7427" data-uslm-ref="/us/usc/t22/s7427">7427.</a>  </td>
 
     <td> Authority to free members of the Armed Forces of the United States and certain other persons detained or imprisoned by or on behalf of the International Criminal Court.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7428" data-uslm-ref="/us/usc/t22/s7428">7428.</a>  </td>
 
     <td> Alliance command arrangements.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7429.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7429" data-uslm-ref="/us/usc/t22/s7429">7429.</a>  </td>
 
     <td> Withholdings.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7430.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7430" data-uslm-ref="/us/usc/t22/s7430">7430.</a>  </td>
 
     <td> Application of sections 7423 and 7425 to exercise of constitutional authorities.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7431" data-uslm-ref="/us/usc/t22/s7431">7431.</a>  </td>
 
     <td> Nondelegation.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7432" data-uslm-ref="/us/usc/t22/s7432">7432.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION  </td>
 
   <tr>
 
-    <td> 7433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7433" data-uslm-ref="/us/usc/t22/s7433">7433.</a>  </td>
 
     <td> Assistance to international efforts.  </td>
 

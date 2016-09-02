@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4351" data-uslm-ref="/us/usc/t22/s4351">4351.</a>  </td>
 
     <td> General authority and contents of publication.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4352" data-uslm-ref="/us/usc/t22/s4352">4352.</a>  </td>
 
     <td> Responsibility for preparation of FRUS series.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4353" data-uslm-ref="/us/usc/t22/s4353">4353.</a>  </td>
 
     <td> Procedures for identifying records for FRUS series; declassification, revisions, and summaries.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4354" data-uslm-ref="/us/usc/t22/s4354">4354.</a>  </td>
 
     <td> Declassification of State Department records.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4355" data-uslm-ref="/us/usc/t22/s4355">4355.</a>  </td>
 
     <td> Relationship to Privacy Act and Freedom of Information Act.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4356" data-uslm-ref="/us/usc/t22/s4356">4356.</a>  </td>
 
     <td> Advisory Committee.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4357" data-uslm-ref="/us/usc/t22/s4357">4357.</a>  </td>
 
     <td> Definitions.  </td>
 

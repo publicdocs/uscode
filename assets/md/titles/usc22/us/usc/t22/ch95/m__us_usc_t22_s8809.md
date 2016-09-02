@@ -45,6 +45,10 @@
 
     This chapter, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle D (§§ 1241–1255) of title XII of div. A of [Pub. L. 112–239][/us/pl/112/239], Jan. 2, 2013, [126 Stat. 2004][/us/stat/126/2004], known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out under [section 8801 of this title][/us/usc/t22/s8801] and Tables.
 
+ __Delegation of Functions__ 
+
+    For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under [section 8801 of this title][/us/usc/t22/s8801].
+
 ----------
 
 [Previous](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8808.md) | [Next](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8810.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8809)
@@ -60,6 +64,7 @@
 [/us/stat/126/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2017
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004
+[/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 [/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 
 

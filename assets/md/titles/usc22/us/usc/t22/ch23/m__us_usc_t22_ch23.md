@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1731" data-uslm-ref="/us/usc/t22/s1731">1731.</a>  </td>
 
     <td> Protection to naturalized citizens abroad.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1732" data-uslm-ref="/us/usc/t22/s1732">1732.</a>  </td>
 
     <td> Release of citizens imprisoned by foreign governments.  </td>
 

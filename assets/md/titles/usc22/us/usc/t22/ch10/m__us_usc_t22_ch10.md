@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs501" data-uslm-ref="/us/usc/t22/s501">501.</a>  </td>
 
     <td> Utilization of services of Government agencies to promote inter-American relations.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs502" data-uslm-ref="/us/usc/t22/s502">502.</a>  </td>
 
     <td> Creation of advisory committees.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs503" data-uslm-ref="/us/usc/t22/s503">503.</a>  </td>
 
     <td> Facilitating work of foreign traveling salesmen; licenses and certificates of identification.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs504" data-uslm-ref="/us/usc/t22/s504">504.</a>  </td>
 
     <td> Transfer of hemisphere territory from one non-American power to another; recognition; consultation with American Republics.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs521" data-uslm-ref="/us/usc/t22/s521">521.</a>  </td>
 
     <td> Military and naval assistance to governments of American Republics.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs522" data-uslm-ref="/us/usc/t22/s522">522.</a>  </td>
 
     <td> Transmission of information pertaining to implements of war, vessels, etc.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs523" data-uslm-ref="/us/usc/t22/s523">523.</a>  </td>
 
     <td> Restriction in contracts against disposal of implements of war, vessels, etc., or information.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs524" data-uslm-ref="/us/usc/t22/s524">524.</a>  </td>
 
     <td> Information on shipments to be given Chairman of National Munitions Control Board.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs525" data-uslm-ref="/us/usc/t22/s525">525.</a>  </td>
 
     <td> Appropriations and disposition of receipts.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs526" data-uslm-ref="/us/usc/t22/s526">526.</a>  </td>
 
     <td> Protection of patent rights.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—WAR MATERIALS  </td>
 
   <tr>
 
-    <td> 527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs527" data-uslm-ref="/us/usc/t22/s527">527.</a>  </td>
 
     <td> Purchases of implements of war, etc., from American Republics.  </td>
 

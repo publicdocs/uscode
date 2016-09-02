@@ -33,7 +33,7 @@ SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT  </td>
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3401" data-uslm-ref="/us/usc/t22/s3401">3401.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT  </td>
 
   <tr>
 
-    <td> 3402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3402" data-uslm-ref="/us/usc/t22/s3402">3402.</a>  </td>
 
     <td> Supplemental authorization of foreign military sales loan guaranties for Egypt and Israel.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT  </td>
 
   <tr>
 
-    <td> 3403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3403" data-uslm-ref="/us/usc/t22/s3403">3403.</a>  </td>
 
     <td> Supplemental authorization of economic support for Egypt.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT  </td>
 
   <tr>
 
-    <td> 3404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3404" data-uslm-ref="/us/usc/t22/s3404">3404.</a>  </td>
 
     <td> Transfer of facilities of United States Sinai Field Mission to Egypt.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT  </td>
 
   <tr>
 
-    <td> 3405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3405" data-uslm-ref="/us/usc/t22/s3405">3405.</a>  </td>
 
     <td> Contributions by other countries to support peace in the Middle East.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT  </td>
 
   <tr>
 
-    <td> 3406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3406" data-uslm-ref="/us/usc/t22/s3406">3406.</a>  </td>
 
     <td> Trilateral scientific and technological cooperation by Egypt, Israel, and United States.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT  </td>
 
   <tr>
 
-    <td> 3407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3407" data-uslm-ref="/us/usc/t22/s3407">3407.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—POLITICAL, ECONOMIC, AND TECHNOLOGICAL SUPPORT  </td>
 
   <tr>
 
-    <td> 3408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3408" data-uslm-ref="/us/usc/t22/s3408">3408.</a>  </td>
 
     <td> Non-proliferation of nuclear weapons.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—MULTINATIONAL FORCE AND OBSERVERS PARTICIPATION  </td>
 
   <tr>
 
-    <td> 3421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3421" data-uslm-ref="/us/usc/t22/s3421">3421.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—MULTINATIONAL FORCE AND OBSERVERS PARTICIPATION  </td>
 
   <tr>
 
-    <td> 3422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3422" data-uslm-ref="/us/usc/t22/s3422">3422.</a>  </td>
 
     <td> Participation of United States personnel in the Multinational Force and Observers.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—MULTINATIONAL FORCE AND OBSERVERS PARTICIPATION  </td>
 
   <tr>
 
-    <td> 3423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3423" data-uslm-ref="/us/usc/t22/s3423">3423.</a>  </td>
 
     <td> United States contributions to costs.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—MULTINATIONAL FORCE AND OBSERVERS PARTICIPATION  </td>
 
   <tr>
 
-    <td> 3424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3424" data-uslm-ref="/us/usc/t22/s3424">3424.</a>  </td>
 
     <td> Nonreimbursed costs.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—MULTINATIONAL FORCE AND OBSERVERS PARTICIPATION  </td>
 
   <tr>
 
-    <td> 3425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3425" data-uslm-ref="/us/usc/t22/s3425">3425.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—MULTINATIONAL FORCE AND OBSERVERS PARTICIPATION  </td>
 
   <tr>
 
-    <td> 3426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3426" data-uslm-ref="/us/usc/t22/s3426">3426.</a>  </td>
 
     <td> Statements of Congressional intent.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—MULTINATIONAL FORCE AND OBSERVERS PARTICIPATION  </td>
 
   <tr>
 
-    <td> 3427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3427" data-uslm-ref="/us/usc/t22/s3427">3427.</a>  </td>
 
     <td> Definitions.  </td>
 

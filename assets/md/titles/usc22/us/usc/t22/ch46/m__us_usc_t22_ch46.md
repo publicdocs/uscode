@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3101" data-uslm-ref="/us/usc/t22/s3101">3101.</a>  </td>
 
     <td> Congressional statement of findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3102" data-uslm-ref="/us/usc/t22/s3102">3102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3103" data-uslm-ref="/us/usc/t22/s3103">3103.</a>  </td>
 
     <td> Presidential authority and duties.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3104" data-uslm-ref="/us/usc/t22/s3104">3104.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3105" data-uslm-ref="/us/usc/t22/s3105">3105.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3106" data-uslm-ref="/us/usc/t22/s3106">3106.</a>  </td>
 
     <td> Use of experts and administrative support services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3107" data-uslm-ref="/us/usc/t22/s3107">3107.</a>  </td>
 
     <td> Consultations; creation of independent public advisory committees.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3108" data-uslm-ref="/us/usc/t22/s3108">3108.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

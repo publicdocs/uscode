@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4601" data-uslm-ref="/us/usc/t22/s4601">4601.</a>  </td>
 
     <td> Congressional declaration of findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4602" data-uslm-ref="/us/usc/t22/s4602">4602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4603" data-uslm-ref="/us/usc/t22/s4603">4603.</a>  </td>
 
     <td> United States Institute of Peace.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4604" data-uslm-ref="/us/usc/t22/s4604">4604.</a>  </td>
 
     <td> Powers and duties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4605" data-uslm-ref="/us/usc/t22/s4605">4605.</a>  </td>
 
     <td> Board of Directors.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4606" data-uslm-ref="/us/usc/t22/s4606">4606.</a>  </td>
 
     <td> Officers and employees.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4607" data-uslm-ref="/us/usc/t22/s4607">4607.</a>  </td>
 
     <td> Procedures and records.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4608" data-uslm-ref="/us/usc/t22/s4608">4608.</a>  </td>
 
     <td> Independence and limitations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4609" data-uslm-ref="/us/usc/t22/s4609">4609.</a>  </td>
 
     <td> Funding.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4610" data-uslm-ref="/us/usc/t22/s4610">4610.</a>  </td>
 
     <td> Dissolution or liquidation.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4611" data-uslm-ref="/us/usc/t22/s4611">4611.</a>  </td>
 
     <td> Biennial reports to President and Congress; comments, findings, and recommendations; Congressional Committee hearings.  </td>
 

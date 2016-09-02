@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8401" data-uslm-ref="/us/usc/t22/s8401">8401.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8402" data-uslm-ref="/us/usc/t22/s8402">8402.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8403" data-uslm-ref="/us/usc/t22/s8403">8403.</a>  </td>
 
     <td> Statement of principles.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—DEMOCRATIC, ECONOMIC, AND DEVELOPMENT ASSISTANCE FOR PAKISTAN  </
 
   <tr>
 
-    <td> 8411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8411" data-uslm-ref="/us/usc/t22/s8411">8411.</a>  </td>
 
     <td> Authorization of assistance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—DEMOCRATIC, ECONOMIC, AND DEVELOPMENT ASSISTANCE FOR PAKISTAN  </
 
   <tr>
 
-    <td> 8412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8412" data-uslm-ref="/us/usc/t22/s8412">8412.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—DEMOCRATIC, ECONOMIC, AND DEVELOPMENT ASSISTANCE FOR PAKISTAN  </
 
   <tr>
 
-    <td> 8413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8413" data-uslm-ref="/us/usc/t22/s8413">8413.</a>  </td>
 
     <td> Auditing.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—SECURITY ASSISTANCE FOR PAKISTAN  </td>
 
   <tr>
 
-    <td> 8421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8421" data-uslm-ref="/us/usc/t22/s8421">8421.</a>  </td>
 
     <td> Purposes of assistance.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—SECURITY ASSISTANCE FOR PAKISTAN  </td>
 
   <tr>
 
-    <td> 8422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8422" data-uslm-ref="/us/usc/t22/s8422">8422.</a>  </td>
 
     <td> Authorization of assistance.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—SECURITY ASSISTANCE FOR PAKISTAN  </td>
 
   <tr>
 
-    <td> 8423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8423" data-uslm-ref="/us/usc/t22/s8423">8423.</a>  </td>
 
     <td> Limitations on certain assistance.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—SECURITY ASSISTANCE FOR PAKISTAN  </td>
 
   <tr>
 
-    <td> 8424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8424" data-uslm-ref="/us/usc/t22/s8424">8424.</a>  </td>
 
     <td> Pakistan Counterinsurgency Capability Fund.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—SECURITY ASSISTANCE FOR PAKISTAN  </td>
 
   <tr>
 
-    <td> 8425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8425" data-uslm-ref="/us/usc/t22/s8425">8425.</a>  </td>
 
     <td> Requirements for civilian control of certain assistance.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—STRATEGY, ACCOUNTABILITY, MONITORING, AND OTHER PROVISIONS  </t
 
   <tr>
 
-    <td> 8441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8441" data-uslm-ref="/us/usc/t22/s8441">8441.</a>  </td>
 
     <td> Strategy reports.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—STRATEGY, ACCOUNTABILITY, MONITORING, AND OTHER PROVISIONS  </t
 
   <tr>
 
-    <td> 8442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8442" data-uslm-ref="/us/usc/t22/s8442">8442.</a>  </td>
 
     <td> Monitoring reports.  </td>
 

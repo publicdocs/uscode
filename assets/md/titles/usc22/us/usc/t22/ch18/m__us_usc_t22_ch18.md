@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1431" data-uslm-ref="/us/usc/t22/s1431">1431.</a>  </td>
 
     <td> Congressional declaration of objectives.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1432" data-uslm-ref="/us/usc/t22/s1432">1432.</a>  </td>
 
     <td> Information on United States participation in United Nations.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1433" data-uslm-ref="/us/usc/t22/s1433">1433.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1434" data-uslm-ref="/us/usc/t22/s1434">1434.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1435" data-uslm-ref="/us/usc/t22/s1435">1435.</a>  </td>
 
     <td> Delegation of authority by Secretary.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1436" data-uslm-ref="/us/usc/t22/s1436">1436.</a>  </td>
 
     <td> Restriction on disclosure of information.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1437" data-uslm-ref="/us/usc/t22/s1437">1437.</a>  </td>
 
     <td> Utilization of private agencies.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1438" data-uslm-ref="/us/usc/t22/s1438">1438.</a>  </td>
 
     <td> Veterans’ preference.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1439 to 1441.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1439" data-uslm-ref="/us/usc/t22/s1439">1439</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1441" data-uslm-ref="/us/usc/t22/s1441">1441.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1442" data-uslm-ref="/us/usc/t22/s1442">1442.</a>  </td>
 
     <td> Informational media guaranties.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1442a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1442a" data-uslm-ref="/us/usc/t22/s1442a">1442a.</a>  </td>
 
     <td> National security measures.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—INTERCHANGE OF PERSONS, KNOWLEDGE, AND SKILLS BETWEEN UNITED STA
 
   <tr>
 
-    <td> 1446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1446" data-uslm-ref="/us/usc/t22/s1446">1446.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—INTERCHANGE OF PERSONS, KNOWLEDGE, AND SKILLS BETWEEN UNITED STA
 
   <tr>
 
-    <td> 1447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1447" data-uslm-ref="/us/usc/t22/s1447">1447.</a>  </td>
 
     <td> Books and materials.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—INTERCHANGE OF PERSONS, KNOWLEDGE, AND SKILLS BETWEEN UNITED STA
 
   <tr>
 
-    <td> 1448.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1448" data-uslm-ref="/us/usc/t22/s1448">1448.</a>  </td>
 
     <td> Assistance to certain institutions abroad founded or sponsored by United States citizens.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—ASSIGNMENT OF SPECIALISTS  </td>
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1451" data-uslm-ref="/us/usc/t22/s1451">1451.</a>  </td>
 
     <td> Assignment of Government employees to requesting countries; governing regulations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—ASSIGNMENT OF SPECIALISTS  </td>
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1452" data-uslm-ref="/us/usc/t22/s1452">1452.</a>  </td>
 
     <td> Status and allowances of assigned personnel.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—ASSIGNMENT OF SPECIALISTS  </td>
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1453" data-uslm-ref="/us/usc/t22/s1453">1453.</a>  </td>
 
     <td> Acceptance of office under foreign governments of assigned personnel; oath of allegiance.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—PARTICIPATION BY GOVERNMENT AGENCIES  </td>
 
   <tr>
 
-    <td> 1456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1456" data-uslm-ref="/us/usc/t22/s1456">1456.</a>  </td>
 
     <td> Utilization of facilities and personnel of other Government agencies; reimbursement to agencies; report to Congress.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—PARTICIPATION BY GOVERNMENT AGENCIES  </td>
 
   <tr>
 
-    <td> 1457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1457" data-uslm-ref="/us/usc/t22/s1457">1457.</a>  </td>
 
     <td> Rendition of technical and other services to foreign governments; limitations.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—PARTICIPATION BY GOVERNMENT AGENCIES  </td>
 
   <tr>
 
-    <td> 1458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1458" data-uslm-ref="/us/usc/t22/s1458">1458.</a>  </td>
 
     <td> Policy governing rendition of services.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1461" data-uslm-ref="/us/usc/t22/s1461">1461.</a>  </td>
 
     <td> General authorization.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1461–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1461%E2%80%931" data-uslm-ref="/us/usc/t22/s1461–1">1461–1.</a>  </td>
 
     <td> Mission of United States Information Agency.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1461–1a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1461%E2%80%931a" data-uslm-ref="/us/usc/t22/s1461–1a">1461–1a.</a>  </td>
 
     <td> Clarification on domestic distribution of program material.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1461a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1461a" data-uslm-ref="/us/usc/t22/s1461a">1461a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1461b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1461b" data-uslm-ref="/us/usc/t22/s1461b">1461b.</a>  </td>
 
     <td> Indemnification of owners of short-wave radio facilities against loss or damage.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1461c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1461c" data-uslm-ref="/us/usc/t22/s1461c">1461c.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1462" data-uslm-ref="/us/usc/t22/s1462">1462.</a>  </td>
 
     <td> Policies governing information activities.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1463" data-uslm-ref="/us/usc/t22/s1463">1463.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1464" data-uslm-ref="/us/usc/t22/s1464">1464.</a>  </td>
 
     <td> Voice of America/Europe.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1464a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1464a" data-uslm-ref="/us/usc/t22/s1464a">1464a.</a>  </td>
 
     <td> Broadcasting Board of Governors satellite and television.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER V—DISSEMINATION ABROAD OF INFORMATION ABOUT THE UNITED STATES  </td
 
   <tr>
 
-    <td> 1464b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1464b" data-uslm-ref="/us/usc/t22/s1464b">1464b.</a>  </td>
 
     <td> Voice of America hiring practices.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465" data-uslm-ref="/us/usc/t22/s1465">1465.</a>  </td>
 
     <td> Congressional findings and declaration of purposes.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465a" data-uslm-ref="/us/usc/t22/s1465a">1465a.</a>  </td>
 
     <td> Additional functions of Broadcasting Board of Governors.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465b" data-uslm-ref="/us/usc/t22/s1465b">1465b.</a>  </td>
 
     <td> Cuba Service.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465c" data-uslm-ref="/us/usc/t22/s1465c">1465c.</a>  </td>
 
     <td> Advisory Board for Cuba Broadcasting.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465d" data-uslm-ref="/us/usc/t22/s1465d">1465d.</a>  </td>
 
     <td> Assistance from other government agencies.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465e" data-uslm-ref="/us/usc/t22/s1465e">1465e.</a>  </td>
 
     <td> Compensation for Cuban interference with broadcasting in United States.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465f" data-uslm-ref="/us/usc/t22/s1465f">1465f.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER V–A—RADIO BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465g" data-uslm-ref="/us/usc/t22/s1465g">1465g.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER V–B—TELEVISION BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465aa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465aa" data-uslm-ref="/us/usc/t22/s1465aa">1465aa.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER V–B—TELEVISION BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465bb.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465bb" data-uslm-ref="/us/usc/t22/s1465bb">1465bb.</a>  </td>
 
     <td> Television broadcasting to Cuba.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER V–B—TELEVISION BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465cc.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465cc" data-uslm-ref="/us/usc/t22/s1465cc">1465cc.</a>  </td>
 
     <td> Television Marti Service.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER V–B—TELEVISION BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465dd.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465dd" data-uslm-ref="/us/usc/t22/s1465dd">1465dd.</a>  </td>
 
     <td> Assistance from other Government agencies.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER V–B—TELEVISION BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465ee.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465ee" data-uslm-ref="/us/usc/t22/s1465ee">1465ee.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER V–B—TELEVISION BROADCASTING TO CUBA  </td>
 
   <tr>
 
-    <td> 1465ff.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1465ff" data-uslm-ref="/us/usc/t22/s1465ff">1465ff.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER VI—ADVISORY COMMISSIONS TO FORMULATE POLICIES  </td>
 
   <tr>
 
-    <td> 1466 to 1468.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1466" data-uslm-ref="/us/usc/t22/s1466">1466</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1468" data-uslm-ref="/us/usc/t22/s1468">1468.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER VI—ADVISORY COMMISSIONS TO FORMULATE POLICIES  </td>
 
   <tr>
 
-    <td> 1469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1469" data-uslm-ref="/us/usc/t22/s1469">1469.</a>  </td>
 
     <td> United States Advisory Commission on Public Diplomacy.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1471" data-uslm-ref="/us/usc/t22/s1471">1471.</a>  </td>
 
     <td> Authority of Secretary of State.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1472" data-uslm-ref="/us/usc/t22/s1472">1472.</a>  </td>
 
     <td> Department of State and other Government agencies.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1473" data-uslm-ref="/us/usc/t22/s1473">1473.</a>  </td>
 
     <td> Use of existing Government property and facilities.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1474" data-uslm-ref="/us/usc/t22/s1474">1474.</a>  </td>
 
     <td> Additional authority of Secretary of State or other Government agency authorized to administer provisions.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475" data-uslm-ref="/us/usc/t22/s1475">1475.</a>  </td>
 
     <td> Travel expenses.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1475a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475a" data-uslm-ref="/us/usc/t22/s1475a">1475a.</a>  </td>
 
     <td> Replacement of passenger motor vehicles.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1475b, 1475c.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475b" data-uslm-ref="/us/usc/t22/s1475b">1475b</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475c" data-uslm-ref="/us/usc/t22/s1475c">1475c.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1475d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475d" data-uslm-ref="/us/usc/t22/s1475d">1475d.</a>  </td>
 
     <td> Compensation for disability or death.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1475e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475e" data-uslm-ref="/us/usc/t22/s1475e">1475e.</a>  </td>
 
     <td> Use of English-teaching program fees.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1475f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475f" data-uslm-ref="/us/usc/t22/s1475f">1475f.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1475g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475g" data-uslm-ref="/us/usc/t22/s1475g">1475g.</a>  </td>
 
     <td> Overseas public diplomacy posts and personnel overseas.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER VII—ADMINISTRATIVE PROCEDURE  </td>
 
   <tr>
 
-    <td> 1475h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1475h" data-uslm-ref="/us/usc/t22/s1475h">1475h.</a>  </td>
 
     <td> Overseas public diplomacy grants.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS  </td>
 
   <tr>
 
-    <td> 1476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1476" data-uslm-ref="/us/usc/t22/s1476">1476.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS  </td>
 
   <tr>
 
-    <td> 1477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1477" data-uslm-ref="/us/usc/t22/s1477">1477.</a>  </td>
 
     <td> Transfer of funds.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS  </td>
 
   <tr>
 
-    <td> 1477a, 1477b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1477a" data-uslm-ref="/us/usc/t22/s1477a">1477a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1477b" data-uslm-ref="/us/usc/t22/s1477b">1477b.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS  </td>
 
   <tr>
 
-    <td> 1477c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1477c" data-uslm-ref="/us/usc/t22/s1477c">1477c.</a>  </td>
 
     <td> Notification and award of grants.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS  </td>
 
   <tr>
 
-    <td> 1478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1478" data-uslm-ref="/us/usc/t22/s1478">1478.</a>  </td>
 
     <td> Reimbursement of program expenses from sources other than appropriations; disposition of receipts.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS  </td>
 
   <tr>
 
-    <td> 1479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1479" data-uslm-ref="/us/usc/t22/s1479">1479.</a>  </td>
 
     <td> Advancement of funds, property, or services by foreign governments; disposition; availability; return of unexpended balances or property.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS  </td>
 
   <tr>
 
-    <td> 1480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1480" data-uslm-ref="/us/usc/t22/s1480">1480.</a>  </td>
 
     <td> Repealed.  </td>
 

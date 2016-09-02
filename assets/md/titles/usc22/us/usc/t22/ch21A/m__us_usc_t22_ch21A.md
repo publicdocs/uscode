@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1650.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1650" data-uslm-ref="/us/usc/t22/s1650">1650.</a>  </td>
 
     <td> Appointments of representatives and panel members under Convention on the Settlement of Investment Disputes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1650a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1650a" data-uslm-ref="/us/usc/t22/s1650a">1650a.</a>  </td>
 
     <td> Arbitration awards under the Convention.  </td>
 

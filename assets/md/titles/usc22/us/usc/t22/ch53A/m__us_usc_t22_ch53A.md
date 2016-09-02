@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4341" data-uslm-ref="/us/usc/t22/s4341">4341.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4342" data-uslm-ref="/us/usc/t22/s4342">4342.</a>  </td>
 
     <td> Limitations on disposition of personal property.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs4343" data-uslm-ref="/us/usc/t22/s4343">4343.</a>  </td>
 
     <td> Regulations.  </td>
 

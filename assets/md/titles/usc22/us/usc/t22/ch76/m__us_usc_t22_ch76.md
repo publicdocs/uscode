@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6801" data-uslm-ref="/us/usc/t22/s6801">6801.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6802" data-uslm-ref="/us/usc/t22/s6802">6802.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—UNITED STATES ASSISTANCE  </td>
 
   <tr>
 
-    <td> 6811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6811" data-uslm-ref="/us/usc/t22/s6811">6811.</a>  </td>
 
     <td> Coordinated donor strategy for support and education of orphans in sub-Saharan Africa.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—UNITED STATES ASSISTANCE  </td>
 
   <tr>
 
-    <td> 6812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6812" data-uslm-ref="/us/usc/t22/s6812">6812.</a>  </td>
 
     <td> African crisis response initiative and HIV/AIDS training.  </td>
 
@@ -81,7 +81,7 @@ Part A—Establishment of the Fund  </td>
 
   <tr>
 
-    <td> 6821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6821" data-uslm-ref="/us/usc/t22/s6821">6821.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -89,7 +89,7 @@ Part A—Establishment of the Fund  </td>
 
   <tr>
 
-    <td> 6822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6822" data-uslm-ref="/us/usc/t22/s6822">6822.</a>  </td>
 
     <td> Grant authorities.  </td>
 
@@ -97,7 +97,7 @@ Part A—Establishment of the Fund  </td>
 
   <tr>
 
-    <td> 6823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6823" data-uslm-ref="/us/usc/t22/s6823">6823.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -105,7 +105,7 @@ Part A—Establishment of the Fund  </td>
 
   <tr>
 
-    <td> 6824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6824" data-uslm-ref="/us/usc/t22/s6824">6824.</a>  </td>
 
     <td> Advisory Board.  </td>
 
@@ -121,7 +121,7 @@ Part B—Reports  </td>
 
   <tr>
 
-    <td> 6831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6831" data-uslm-ref="/us/usc/t22/s6831">6831.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -137,7 +137,7 @@ Part C—United States Financial Participation  </td>
 
   <tr>
 
-    <td> 6841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6841" data-uslm-ref="/us/usc/t22/s6841">6841.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -145,7 +145,7 @@ Part C—United States Financial Participation  </td>
 
   <tr>
 
-    <td> 6842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6842" data-uslm-ref="/us/usc/t22/s6842">6842.</a>  </td>
 
     <td> Certification requirement.  </td>
 

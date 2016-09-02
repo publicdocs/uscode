@@ -33,7 +33,7 @@ SUBCHAPTER I—FOREIGN AND NATIONAL SECURITY POLICY OBJECTIVES AND RESTRAINTS  <
 
   <tr>
 
-    <td> 2751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2751" data-uslm-ref="/us/usc/t22/s2751">2751.</a>  </td>
 
     <td> Need for international defense cooperation and military export controls; Presidential waiver; report to Congress; arms sales policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FOREIGN AND NATIONAL SECURITY POLICY OBJECTIVES AND RESTRAINTS  <
 
   <tr>
 
-    <td> 2752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2752" data-uslm-ref="/us/usc/t22/s2752">2752.</a>  </td>
 
     <td> Coordination with foreign policy.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FOREIGN AND NATIONAL SECURITY POLICY OBJECTIVES AND RESTRAINTS  <
 
   <tr>
 
-    <td> 2753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2753" data-uslm-ref="/us/usc/t22/s2753">2753.</a>  </td>
 
     <td> Eligibility for defense services or defense articles.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FOREIGN AND NATIONAL SECURITY POLICY OBJECTIVES AND RESTRAINTS  <
 
   <tr>
 
-    <td> 2754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2754" data-uslm-ref="/us/usc/t22/s2754">2754.</a>  </td>
 
     <td> Purposes for which military sales or leases by the United States are authorized; report to Congress.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FOREIGN AND NATIONAL SECURITY POLICY OBJECTIVES AND RESTRAINTS  <
 
   <tr>
 
-    <td> 2755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2755" data-uslm-ref="/us/usc/t22/s2755">2755.</a>  </td>
 
     <td> Discrimination prohibited if based on race, religion, national origin, or sex.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—FOREIGN AND NATIONAL SECURITY POLICY OBJECTIVES AND RESTRAINTS  <
 
   <tr>
 
-    <td> 2756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2756" data-uslm-ref="/us/usc/t22/s2756">2756.</a>  </td>
 
     <td> Foreign intimidation and harassment of individuals in United States.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS  </td>
 
   <tr>
 
-    <td> 2761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2761" data-uslm-ref="/us/usc/t22/s2761">2761.</a>  </td>
 
     <td> Sales from stocks.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS  </td>
 
   <tr>
 
-    <td> 2762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2762" data-uslm-ref="/us/usc/t22/s2762">2762.</a>  </td>
 
     <td> Procurement for cash sales.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS  </td>
 
   <tr>
 
-    <td> 2763.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2763" data-uslm-ref="/us/usc/t22/s2763">2763.</a>  </td>
 
     <td> Credit sales.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS  </td>
 
   <tr>
 
-    <td> 2764.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2764" data-uslm-ref="/us/usc/t22/s2764">2764.</a>  </td>
 
     <td> Guaranties.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS  </td>
 
   <tr>
 
-    <td> 2765.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2765" data-uslm-ref="/us/usc/t22/s2765">2765.</a>  </td>
 
     <td> Annual estimate and justification for sales program.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS  </td>
 
   <tr>
 
-    <td> 2766.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2766" data-uslm-ref="/us/usc/t22/s2766">2766.</a>  </td>
 
     <td> Security assistance surveys.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS  </td>
 
   <tr>
 
-    <td> 2767.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2767" data-uslm-ref="/us/usc/t22/s2767">2767.</a>  </td>
 
     <td> Authority of President to enter into cooperative projects with friendly foreign countries.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS  </td>
 
   <tr>
 
-    <td> 2767a, 2768.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2767a" data-uslm-ref="/us/usc/t22/s2767a">2767a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2768" data-uslm-ref="/us/usc/t22/s2768">2768.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II–A—FOREIGN MILITARY CONSTRUCTION SALES  </td>
 
   <tr>
 
-    <td> 2769.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2769" data-uslm-ref="/us/usc/t22/s2769">2769.</a>  </td>
 
     <td> Foreign military construction sales.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II–B—SALES TO UNITED STATES COMPANIES FOR INCORPORATION INTO END 
 
   <tr>
 
-    <td> 2770.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2770" data-uslm-ref="/us/usc/t22/s2770">2770.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II–C—EXCHANGE OF TRAINING AND RELATED SUPPORT  </td>
 
   <tr>
 
-    <td> 2770a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2770a" data-uslm-ref="/us/usc/t22/s2770a">2770a.</a>  </td>
 
     <td> Exchange of training and related support.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2771" data-uslm-ref="/us/usc/t22/s2771">2771.</a>  </td>
 
     <td> Military sales authorizations and ceilings.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2772" data-uslm-ref="/us/usc/t22/s2772">2772.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2773" data-uslm-ref="/us/usc/t22/s2773">2773.</a>  </td>
 
     <td> Restraint in arms sales to Sub-Saharan Africa.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2774" data-uslm-ref="/us/usc/t22/s2774">2774.</a>  </td>
 
     <td> Foreign military sales credit standards.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2775.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2775" data-uslm-ref="/us/usc/t22/s2775">2775.</a>  </td>
 
     <td> Foreign military sales to less developed countries.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2776.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2776" data-uslm-ref="/us/usc/t22/s2776">2776.</a>  </td>
 
     <td> Reports and certifications to Congress on military exports.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2776a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2776a" data-uslm-ref="/us/usc/t22/s2776a">2776a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2777.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2777" data-uslm-ref="/us/usc/t22/s2777">2777.</a>  </td>
 
     <td> Fiscal provisions relating to foreign military sales credits.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2778.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2778" data-uslm-ref="/us/usc/t22/s2778">2778.</a>  </td>
 
     <td> Control of arms exports and imports.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2778a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2778a" data-uslm-ref="/us/usc/t22/s2778a">2778a.</a>  </td>
 
     <td> Exportation of uranium depleted in the isotope 235.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2779.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2779" data-uslm-ref="/us/usc/t22/s2779">2779.</a>  </td>
 
     <td> Fees of military sales agents.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2779a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2779a" data-uslm-ref="/us/usc/t22/s2779a">2779a.</a>  </td>
 
     <td> Prohibition on incentive payments.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2780.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2780" data-uslm-ref="/us/usc/t22/s2780">2780.</a>  </td>
 
     <td> Transactions with countries supporting acts of international terrorism.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—MILITARY EXPORT CONTROLS  </td>
 
   <tr>
 
-    <td> 2781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2781" data-uslm-ref="/us/usc/t22/s2781">2781.</a>  </td>
 
     <td> Transactions with countries not fully cooperating with United States antiterrorism efforts.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III–A—END-USE MONITORING OF DEFENSE ARTICLES AND DEFENSE SERVICES
 
   <tr>
 
-    <td> 2785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2785" data-uslm-ref="/us/usc/t22/s2785">2785.</a>  </td>
 
     <td> End-use monitoring of defense articles and defense services.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—GENERAL, ADMINISTRATIVE, AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2791.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2791" data-uslm-ref="/us/usc/t22/s2791">2791.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—GENERAL, ADMINISTRATIVE, AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2792.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2792" data-uslm-ref="/us/usc/t22/s2792">2792.</a>  </td>
 
     <td> Administrative expenses.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—GENERAL, ADMINISTRATIVE, AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2793.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2793" data-uslm-ref="/us/usc/t22/s2793">2793.</a>  </td>
 
     <td> Other provisions unaffected.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—GENERAL, ADMINISTRATIVE, AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2794.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2794" data-uslm-ref="/us/usc/t22/s2794">2794.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER V—SPECIAL DEFENSE ACQUISITION FUND  </td>
 
   <tr>
 
-    <td> 2795.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2795" data-uslm-ref="/us/usc/t22/s2795">2795.</a>  </td>
 
     <td> Fund.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER V—SPECIAL DEFENSE ACQUISITION FUND  </td>
 
   <tr>
 
-    <td> 2795a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2795a" data-uslm-ref="/us/usc/t22/s2795a">2795a.</a>  </td>
 
     <td> Use and transfer of items procured by Fund.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER V—SPECIAL DEFENSE ACQUISITION FUND  </td>
 
   <tr>
 
-    <td> 2795b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2795b" data-uslm-ref="/us/usc/t22/s2795b">2795b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER VI—LEASES OF DEFENSE ARTICLES AND LOAN AUTHORITY FOR COOPERATIVE RE
 
   <tr>
 
-    <td> 2796.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2796" data-uslm-ref="/us/usc/t22/s2796">2796.</a>  </td>
 
     <td> Leasing authority.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER VI—LEASES OF DEFENSE ARTICLES AND LOAN AUTHORITY FOR COOPERATIVE RE
 
   <tr>
 
-    <td> 2796a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2796a" data-uslm-ref="/us/usc/t22/s2796a">2796a.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER VI—LEASES OF DEFENSE ARTICLES AND LOAN AUTHORITY FOR COOPERATIVE RE
 
   <tr>
 
-    <td> 2796b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2796b" data-uslm-ref="/us/usc/t22/s2796b">2796b.</a>  </td>
 
     <td> Legislative review procedures.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER VI—LEASES OF DEFENSE ARTICLES AND LOAN AUTHORITY FOR COOPERATIVE RE
 
   <tr>
 
-    <td> 2796c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2796c" data-uslm-ref="/us/usc/t22/s2796c">2796c.</a>  </td>
 
     <td> Applicability of other statutory provisions.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER VI—LEASES OF DEFENSE ARTICLES AND LOAN AUTHORITY FOR COOPERATIVE RE
 
   <tr>
 
-    <td> 2796d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2796d" data-uslm-ref="/us/usc/t22/s2796d">2796d.</a>  </td>
 
     <td> Loan of materials, supplies, and equipment for research and development purposes.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER VII—CONTROL OF MISSILES AND MISSILE EQUIPMENT OR TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 2797.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2797" data-uslm-ref="/us/usc/t22/s2797">2797.</a>  </td>
 
     <td> Licensing.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER VII—CONTROL OF MISSILES AND MISSILE EQUIPMENT OR TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 2797a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2797a" data-uslm-ref="/us/usc/t22/s2797a">2797a.</a>  </td>
 
     <td> Denial of transfer of missile equipment or technology by United States persons.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER VII—CONTROL OF MISSILES AND MISSILE EQUIPMENT OR TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 2797b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2797b" data-uslm-ref="/us/usc/t22/s2797b">2797b.</a>  </td>
 
     <td> Transfers of missile equipment or technology by foreign persons.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER VII—CONTROL OF MISSILES AND MISSILE EQUIPMENT OR TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 2797b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2797b%E2%80%931" data-uslm-ref="/us/usc/t22/s2797b–1">2797b–1.</a>  </td>
 
     <td> Notification of admittance of MTCR adherents.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VII—CONTROL OF MISSILES AND MISSILE EQUIPMENT OR TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 2797b–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2797b%E2%80%932" data-uslm-ref="/us/usc/t22/s2797b–2">2797b–2.</a>  </td>
 
     <td> Authority relating to MTCR adherents.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER VII—CONTROL OF MISSILES AND MISSILE EQUIPMENT OR TECHNOLOGY  </td>
 
   <tr>
 
-    <td> 2797c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2797c" data-uslm-ref="/us/usc/t22/s2797c">2797c.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER VIII—CHEMICAL OR BIOLOGICAL WEAPONS PROLIFERATION  </td>
 
   <tr>
 
-    <td> 2798.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2798" data-uslm-ref="/us/usc/t22/s2798">2798.</a>  </td>
 
     <td> Sanctions against certain foreign persons.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER IX—TRANSFER OF CERTAIN CFE TREATY-LIMITED EQUIPMENT TO NATO MEMBERS
 
   <tr>
 
-    <td> 2799.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2799" data-uslm-ref="/us/usc/t22/s2799">2799.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER IX—TRANSFER OF CERTAIN CFE TREATY-LIMITED EQUIPMENT TO NATO MEMBERS
 
   <tr>
 
-    <td> 2799a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2799a" data-uslm-ref="/us/usc/t22/s2799a">2799a.</a>  </td>
 
     <td> CFE Treaty obligations.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER IX—TRANSFER OF CERTAIN CFE TREATY-LIMITED EQUIPMENT TO NATO MEMBERS
 
   <tr>
 
-    <td> 2799b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2799b" data-uslm-ref="/us/usc/t22/s2799b">2799b.</a>  </td>
 
     <td> Authorities.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER IX—TRANSFER OF CERTAIN CFE TREATY-LIMITED EQUIPMENT TO NATO MEMBERS
 
   <tr>
 
-    <td> 2799c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2799c" data-uslm-ref="/us/usc/t22/s2799c">2799c.</a>  </td>
 
     <td> Notifications and reports to Congress.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER IX—TRANSFER OF CERTAIN CFE TREATY-LIMITED EQUIPMENT TO NATO MEMBERS
 
   <tr>
 
-    <td> 2799d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2799d" data-uslm-ref="/us/usc/t22/s2799d">2799d.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER X—NUCLEAR NONPROLIFERATION CONTROLS  </td>
 
   <tr>
 
-    <td> 2799aa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2799aa" data-uslm-ref="/us/usc/t22/s2799aa">2799aa.</a>  </td>
 
     <td> Nuclear enrichment transfers.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER X—NUCLEAR NONPROLIFERATION CONTROLS  </td>
 
   <tr>
 
-    <td> 2799aa–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931" data-uslm-ref="/us/usc/t22/s2799aa–1">2799aa–1.</a>  </td>
 
     <td> Nuclear reprocessing transfers, illegal exports for nuclear explosive devices, transfers of nuclear explosive devices, and nuclear detonations.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER X—NUCLEAR NONPROLIFERATION CONTROLS  </td>
 
   <tr>
 
-    <td> 2799aa–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%932" data-uslm-ref="/us/usc/t22/s2799aa–2">2799aa–2.</a>  </td>
 
     <td> “Nuclear explosive device” defined.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2601" data-uslm-ref="/us/usc/t22/s2601">2601.</a>  </td>
 
     <td> Refugees and migration.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2602" data-uslm-ref="/us/usc/t22/s2602">2602.</a>  </td>
 
     <td> Presidential authorization.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2603" data-uslm-ref="/us/usc/t22/s2603">2603.</a>  </td>
 
     <td> Delegation of powers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2604" data-uslm-ref="/us/usc/t22/s2604">2604.</a>  </td>
 
     <td> Allocation, transfer and availability of funds; separate appropriation accounts on Treasury books.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2605" data-uslm-ref="/us/usc/t22/s2605">2605.</a>  </td>
 
     <td> Use of funds and personnel; savings provision.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2606" data-uslm-ref="/us/usc/t22/s2606">2606.</a>  </td>
 
     <td> Audits of U.S. funds received by the United Nations High Commissioner for Refugees.  </td>
 

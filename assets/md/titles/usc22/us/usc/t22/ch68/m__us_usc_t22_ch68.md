@@ -33,7 +33,7 @@ SUBCHAPTER I—FINDINGS AND PROGRAM AUTHORITY  </td>
 
   <tr>
 
-    <td> 5901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5901" data-uslm-ref="/us/usc/t22/s5901">5901.</a>  </td>
 
     <td> Demilitarization of independent states of former Soviet Union.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FINDINGS AND PROGRAM AUTHORITY  </td>
 
   <tr>
 
-    <td> 5902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5902" data-uslm-ref="/us/usc/t22/s5902">5902.</a>  </td>
 
     <td> Authority for programs to facilitate demilitarization.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—ADMINISTRATIVE AND FUNDING AUTHORITIES  </td>
 
   <tr>
 
-    <td> 5911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5911" data-uslm-ref="/us/usc/t22/s5911">5911.</a>  </td>
 
     <td> Administration of demilitarization programs.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER III—REPORTING REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 5921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5921" data-uslm-ref="/us/usc/t22/s5921">5921.</a>  </td>
 
     <td> Prior notice to Congress of obligation of funds.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER III—REPORTING REQUIREMENTS  </td>
 
   <tr>
 
-    <td> 5922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5922" data-uslm-ref="/us/usc/t22/s5922">5922.</a>  </td>
 
     <td> Quarterly reports on programs.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER IV—JOINT RESEARCH AND DEVELOPMENT PROGRAMS  </td>
 
   <tr>
 
-    <td> 5931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5931" data-uslm-ref="/us/usc/t22/s5931">5931.</a>  </td>
 
     <td> Programs with states of former Soviet Union.  </td>
 

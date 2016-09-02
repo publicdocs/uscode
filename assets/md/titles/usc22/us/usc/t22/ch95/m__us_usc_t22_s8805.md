@@ -89,6 +89,10 @@
 
     The Iran Threat Reduction and Syria Human Rights Act of 2012, referred to in subsec. (a)(1)(A), is [Pub. L. 112–158][/us/pl/112/158], Aug. 10, 2012, [126 Stat. 1214][/us/stat/126/1214], which is classified principally to chapter 94 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title][/us/usc/t22/s8701] and Tables.
 
+ __Delegation of Functions__ 
+
+    For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under [section 8801 of this title][/us/usc/t22/s8801].
+
 ----------
 
 [Previous](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8804.md) | [Next](./../../../..//us/usc/t22/ch95/m__us_usc_t22_s8806.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8805)
@@ -119,5 +123,6 @@
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1214
 [/us/usc/t22/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8701
+[/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 
 

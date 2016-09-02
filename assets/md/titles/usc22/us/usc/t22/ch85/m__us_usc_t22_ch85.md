@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7801" data-uslm-ref="/us/usc/t22/s7801">7801.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7802" data-uslm-ref="/us/usc/t22/s7802">7802.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7803" data-uslm-ref="/us/usc/t22/s7803">7803.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PROMOTING THE HUMAN RIGHTS OF NORTH KOREANS  </td>
 
   <tr>
 
-    <td> 7811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7811" data-uslm-ref="/us/usc/t22/s7811">7811.</a>  </td>
 
     <td> Sense of Congress regarding negotiations with North Korea.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PROMOTING THE HUMAN RIGHTS OF NORTH KOREANS  </td>
 
   <tr>
 
-    <td> 7812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7812" data-uslm-ref="/us/usc/t22/s7812">7812.</a>  </td>
 
     <td> Support for human rights and democracy programs.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PROMOTING THE HUMAN RIGHTS OF NORTH KOREANS  </td>
 
   <tr>
 
-    <td> 7813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7813" data-uslm-ref="/us/usc/t22/s7813">7813.</a>  </td>
 
     <td> Radio broadcasting to North Korea.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—PROMOTING THE HUMAN RIGHTS OF NORTH KOREANS  </td>
 
   <tr>
 
-    <td> 7814.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7814" data-uslm-ref="/us/usc/t22/s7814">7814.</a>  </td>
 
     <td> Actions to promote freedom of information.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—PROMOTING THE HUMAN RIGHTS OF NORTH KOREANS  </td>
 
   <tr>
 
-    <td> 7815.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7815" data-uslm-ref="/us/usc/t22/s7815">7815.</a>  </td>
 
     <td> United Nations Commission on Human Rights.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—PROMOTING THE HUMAN RIGHTS OF NORTH KOREANS  </td>
 
   <tr>
 
-    <td> 7816.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7816" data-uslm-ref="/us/usc/t22/s7816">7816.</a>  </td>
 
     <td> Establishment of regional framework.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—PROMOTING THE HUMAN RIGHTS OF NORTH KOREANS  </td>
 
   <tr>
 
-    <td> 7817.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7817" data-uslm-ref="/us/usc/t22/s7817">7817.</a>  </td>
 
     <td> Special Envoy on North Korean human rights issues.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ASSISTING NORTH KOREANS IN NEED  </td>
 
   <tr>
 
-    <td> 7831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7831" data-uslm-ref="/us/usc/t22/s7831">7831.</a>  </td>
 
     <td> Report on United States humanitarian assistance.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ASSISTING NORTH KOREANS IN NEED  </td>
 
   <tr>
 
-    <td> 7832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7832" data-uslm-ref="/us/usc/t22/s7832">7832.</a>  </td>
 
     <td> Assistance provided inside North Korea.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ASSISTING NORTH KOREANS IN NEED  </td>
 
   <tr>
 
-    <td> 7833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7833" data-uslm-ref="/us/usc/t22/s7833">7833.</a>  </td>
 
     <td> Assistance provided outside of North Korea.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ASSISTING NORTH KOREANS IN NEED  </td>
 
   <tr>
 
-    <td> 7834.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7834" data-uslm-ref="/us/usc/t22/s7834">7834.</a>  </td>
 
     <td> Briefings on the welfare of North Korean children.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—PROTECTING NORTH KOREAN REFUGEES  </td>
 
   <tr>
 
-    <td> 7841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7841" data-uslm-ref="/us/usc/t22/s7841">7841.</a>  </td>
 
     <td> United States policy toward refugees and defectors.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—PROTECTING NORTH KOREAN REFUGEES  </td>
 
   <tr>
 
-    <td> 7842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7842" data-uslm-ref="/us/usc/t22/s7842">7842.</a>  </td>
 
     <td> Eligibility for refugee or asylum consideration.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—PROTECTING NORTH KOREAN REFUGEES  </td>
 
   <tr>
 
-    <td> 7843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7843" data-uslm-ref="/us/usc/t22/s7843">7843.</a>  </td>
 
     <td> Facilitating submission of applications for admission as a refugee.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—PROTECTING NORTH KOREAN REFUGEES  </td>
 
   <tr>
 
-    <td> 7844.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7844" data-uslm-ref="/us/usc/t22/s7844">7844.</a>  </td>
 
     <td> United Nations High Commissioner for Refugees.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—PROTECTING NORTH KOREAN REFUGEES  </td>
 
   <tr>
 
-    <td> 7845.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7845" data-uslm-ref="/us/usc/t22/s7845">7845.</a>  </td>
 
     <td> Annual reports.  </td>
 

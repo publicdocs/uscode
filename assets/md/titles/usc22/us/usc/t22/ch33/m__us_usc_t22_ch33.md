@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2451" data-uslm-ref="/us/usc/t22/s2451">2451.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2451a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2451a" data-uslm-ref="/us/usc/t22/s2451a">2451a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2452" data-uslm-ref="/us/usc/t22/s2452">2452.</a>  </td>
 
     <td> Authorization of activities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2452a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2452a" data-uslm-ref="/us/usc/t22/s2452a">2452a.</a>  </td>
 
     <td> Exchange program with countries in transition from totalitarianism to democracy.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2452b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2452b" data-uslm-ref="/us/usc/t22/s2452b">2452b.</a>  </td>
 
     <td> International expositions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2452c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2452c" data-uslm-ref="/us/usc/t22/s2452c">2452c.</a>  </td>
 
     <td> Program to provide grants to American-sponsored schools in predominantly Muslim countries to provide scholarships.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2453" data-uslm-ref="/us/usc/t22/s2453">2453.</a>  </td>
 
     <td> Agreements with foreign governments and international organizations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2454" data-uslm-ref="/us/usc/t22/s2454">2454.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2455" data-uslm-ref="/us/usc/t22/s2455">2455.</a>  </td>
 
     <td> Appropriations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2456" data-uslm-ref="/us/usc/t22/s2456">2456.</a>  </td>
 
     <td> J. William Fulbright Foreign Scholarship Board.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2457" data-uslm-ref="/us/usc/t22/s2457">2457.</a>  </td>
 
     <td> Reports by Board.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2458" data-uslm-ref="/us/usc/t22/s2458">2458.</a>  </td>
 
     <td> Authority of President.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2458a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2458a" data-uslm-ref="/us/usc/t22/s2458a">2458a.</a>  </td>
 
     <td> Federal employee participation in cultural exchange programs.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2459.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2459" data-uslm-ref="/us/usc/t22/s2459">2459.</a>  </td>
 
     <td> Immunity from seizure under judicial process of cultural objects imported for temporary exhibition or display.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2460" data-uslm-ref="/us/usc/t22/s2460">2460.</a>  </td>
 
     <td> Bureau of Educational and Cultural Affairs.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2461" data-uslm-ref="/us/usc/t22/s2461">2461.</a>  </td>
 
     <td> Exchanges between United States and independent states of the former Soviet Union.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2462" data-uslm-ref="/us/usc/t22/s2462">2462.</a>  </td>
 
     <td> Establishment of grant program for foreign study by American college students of limited financial means.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2463" data-uslm-ref="/us/usc/t22/s2463">2463.</a>  </td>
 
     <td> Allocation of funds transferred to the Bureau of Educational and Cultural Affairs.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2464" data-uslm-ref="/us/usc/t22/s2464">2464.</a>  </td>
 
     <td> Ethical issues in international health research.  </td>
 

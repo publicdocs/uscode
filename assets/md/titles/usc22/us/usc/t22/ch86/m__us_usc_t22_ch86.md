@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7901" data-uslm-ref="/us/usc/t22/s7901">7901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7902" data-uslm-ref="/us/usc/t22/s7902">7902.</a>  </td>
 
     <td> Reduction of greenhouse gas intensity.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7903" data-uslm-ref="/us/usc/t22/s7903">7903.</a>  </td>
 
     <td> Technology inventory for developing countries.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7904" data-uslm-ref="/us/usc/t22/s7904">7904.</a>  </td>
 
     <td> Trade-related barriers to export of greenhouse gas intensity reducing technologies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7905" data-uslm-ref="/us/usc/t22/s7905">7905.</a>  </td>
 
     <td> Greenhouse Gas Intensity Reducing Technology Export Initiative.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7906" data-uslm-ref="/us/usc/t22/s7906">7906.</a>  </td>
 
     <td> Technology demonstration projects.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7907" data-uslm-ref="/us/usc/t22/s7907">7907.</a>  </td>
 
     <td> Fellowship and exchange programs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7908" data-uslm-ref="/us/usc/t22/s7908">7908.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7909" data-uslm-ref="/us/usc/t22/s7909">7909.</a>  </td>
 
     <td> Authorization for the Clean Technology Fund.  </td>
 

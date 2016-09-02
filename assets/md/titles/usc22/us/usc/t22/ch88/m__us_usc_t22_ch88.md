@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8101" data-uslm-ref="/us/usc/t22/s8101">8101.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8102" data-uslm-ref="/us/usc/t22/s8102">8102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8103" data-uslm-ref="/us/usc/t22/s8103">8103.</a>  </td>
 
     <td> Severability.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 8111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8111" data-uslm-ref="/us/usc/t22/s8111">8111.</a>  </td>
 
     <td> Authority.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—COMPLEMENTARY ACCESS  </td>
 
   <tr>
 
-    <td> 8121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8121" data-uslm-ref="/us/usc/t22/s8121">8121.</a>  </td>
 
     <td> Requirement for authority to conduct complementary access.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—COMPLEMENTARY ACCESS  </td>
 
   <tr>
 
-    <td> 8122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8122" data-uslm-ref="/us/usc/t22/s8122">8122.</a>  </td>
 
     <td> Procedures for complementary access.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—COMPLEMENTARY ACCESS  </td>
 
   <tr>
 
-    <td> 8123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8123" data-uslm-ref="/us/usc/t22/s8123">8123.</a>  </td>
 
     <td> Consents, warrants, and complementary access.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—COMPLEMENTARY ACCESS  </td>
 
   <tr>
 
-    <td> 8124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8124" data-uslm-ref="/us/usc/t22/s8124">8124.</a>  </td>
 
     <td> Prohibited acts relating to complementary access.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—CONFIDENTIALITY OF INFORMATION  </td>
 
   <tr>
 
-    <td> 8131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8131" data-uslm-ref="/us/usc/t22/s8131">8131.</a>  </td>
 
     <td> Protection of confidentiality of information.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 8141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8141" data-uslm-ref="/us/usc/t22/s8141">8141.</a>  </td>
 
     <td> Recordkeeping violations.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 8142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8142" data-uslm-ref="/us/usc/t22/s8142">8142.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 8143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8143" data-uslm-ref="/us/usc/t22/s8143">8143.</a>  </td>
 
     <td> Specific enforcement.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER V—ENVIRONMENTAL SAMPLING  </td>
 
   <tr>
 
-    <td> 8151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8151" data-uslm-ref="/us/usc/t22/s8151">8151.</a>  </td>
 
     <td> Notification to Congress of IAEA Board approval of wide-area environmental sampling.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER V—ENVIRONMENTAL SAMPLING  </td>
 
   <tr>
 
-    <td> 8152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8152" data-uslm-ref="/us/usc/t22/s8152">8152.</a>  </td>
 
     <td> Application of national security exclusion to wide-area environmental sampling.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER V—ENVIRONMENTAL SAMPLING  </td>
 
   <tr>
 
-    <td> 8153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8153" data-uslm-ref="/us/usc/t22/s8153">8153.</a>  </td>
 
     <td> Application of national security exclusion to location-specific environmental sampling.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER V—ENVIRONMENTAL SAMPLING  </td>
 
   <tr>
 
-    <td> 8154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8154" data-uslm-ref="/us/usc/t22/s8154">8154.</a>  </td>
 
     <td> Rule of construction.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER VI—PROTECTION OF NATIONAL SECURITY INFORMATION AND ACTIVITIES  </td
 
   <tr>
 
-    <td> 8161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8161" data-uslm-ref="/us/usc/t22/s8161">8161.</a>  </td>
 
     <td> Protection of certain information.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER VI—PROTECTION OF NATIONAL SECURITY INFORMATION AND ACTIVITIES  </td
 
   <tr>
 
-    <td> 8162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8162" data-uslm-ref="/us/usc/t22/s8162">8162.</a>  </td>
 
     <td> IAEA inspections and visits.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER VII—REPORTS  </td>
 
   <tr>
 
-    <td> 8171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8171" data-uslm-ref="/us/usc/t22/s8171">8171.</a>  </td>
 
     <td> Report on initial United States declaration.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER VII—REPORTS  </td>
 
   <tr>
 
-    <td> 8172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8172" data-uslm-ref="/us/usc/t22/s8172">8172.</a>  </td>
 
     <td> Report on revisions to initial United States declaration.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER VII—REPORTS  </td>
 
   <tr>
 
-    <td> 8173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8173" data-uslm-ref="/us/usc/t22/s8173">8173.</a>  </td>
 
     <td> Content of reports on United States declarations.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER VII—REPORTS  </td>
 
   <tr>
 
-    <td> 8174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8174" data-uslm-ref="/us/usc/t22/s8174">8174.</a>  </td>
 
     <td> Report on efforts to promote the implementation of additional protocols.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER VII—REPORTS  </td>
 
   <tr>
 
-    <td> 8175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8175" data-uslm-ref="/us/usc/t22/s8175">8175.</a>  </td>
 
     <td> Notice of IAEA notifications.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER VIII—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 8181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8181" data-uslm-ref="/us/usc/t22/s8181">8181.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

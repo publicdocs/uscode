@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3001" data-uslm-ref="/us/usc/t22/s3001">3001.</a>  </td>
 
     <td> Commission on Security and Cooperation in Europe; establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3002" data-uslm-ref="/us/usc/t22/s3002">3002.</a>  </td>
 
     <td> Function and duties of Commission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3003" data-uslm-ref="/us/usc/t22/s3003">3003.</a>  </td>
 
     <td> Commission membership.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3004" data-uslm-ref="/us/usc/t22/s3004">3004.</a>  </td>
 
     <td> Testimony of witnesses, production of evidence; issuance of subpena; administration of oaths.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3005" data-uslm-ref="/us/usc/t22/s3005">3005.</a>  </td>
 
     <td> Report relating to Commission on Security and Cooperation in Europe.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3006" data-uslm-ref="/us/usc/t22/s3006">3006.</a>  </td>
 
     <td> Commission report to Congress; periodic reports; expenditure of appropriations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3007" data-uslm-ref="/us/usc/t22/s3007">3007.</a>  </td>
 
     <td> Appropriations for Commission.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3008" data-uslm-ref="/us/usc/t22/s3008">3008.</a>  </td>
 
     <td> Commission staff.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3009" data-uslm-ref="/us/usc/t22/s3009">3009.</a>  </td>
 
     <td> Printing and binding costs.  </td>
 

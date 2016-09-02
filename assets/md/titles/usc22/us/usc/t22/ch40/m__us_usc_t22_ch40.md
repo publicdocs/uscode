@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2801" data-uslm-ref="/us/usc/t22/s2801">2801.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2802" data-uslm-ref="/us/usc/t22/s2802">2802.</a>  </td>
 
     <td> Federal recognition.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2803" data-uslm-ref="/us/usc/t22/s2803">2803.</a>  </td>
 
     <td> Federal participation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2804" data-uslm-ref="/us/usc/t22/s2804">2804.</a>  </td>
 
     <td> Establishment of standards and criteria; publication in the Federal Register.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2805" data-uslm-ref="/us/usc/t22/s2805">2805.</a>  </td>
 
     <td> Withdrawal of Federal recognition or participation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2806" data-uslm-ref="/us/usc/t22/s2806">2806.</a>  </td>
 
     <td> Other provisions unaffected.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2807" data-uslm-ref="/us/usc/t22/s2807">2807.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

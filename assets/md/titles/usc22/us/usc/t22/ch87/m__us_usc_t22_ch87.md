@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8001" data-uslm-ref="/us/usc/t22/s8001">8001.</a>  </td>
 
     <td> Sense of Congress.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8002" data-uslm-ref="/us/usc/t22/s8002">8002.</a>  </td>
 
     <td> Statements of policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8003" data-uslm-ref="/us/usc/t22/s8003">8003.</a>  </td>
 
     <td> Waiver authority and congressional approval.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8004" data-uslm-ref="/us/usc/t22/s8004">8004.</a>  </td>
 
     <td> United States compliance with its nuclear nonproliferation treaty obligations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8005" data-uslm-ref="/us/usc/t22/s8005">8005.</a>  </td>
 
     <td> Inoperability of determination and waivers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8006" data-uslm-ref="/us/usc/t22/s8006">8006.</a>  </td>
 
     <td> MTCR adherent status.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8007" data-uslm-ref="/us/usc/t22/s8007">8007.</a>  </td>
 
     <td> United States-India scientific cooperative nuclear nonproliferation program.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs8008" data-uslm-ref="/us/usc/t22/s8008">8008.</a>  </td>
 
     <td> Definitions.  </td>
 

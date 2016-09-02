@@ -33,7 +33,7 @@ SUBCHAPTER I—CENTER BETWEEN EAST AND WEST  </td>
 
   <tr>
 
-    <td> 2051 to 2053.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2051" data-uslm-ref="/us/usc/t22/s2051">2051</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2053" data-uslm-ref="/us/usc/t22/s2053">2053.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CENTER BETWEEN EAST AND WEST  </td>
 
   <tr>
 
-    <td> 2054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2054" data-uslm-ref="/us/usc/t22/s2054">2054.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CENTER BETWEEN EAST AND WEST  </td>
 
   <tr>
 
-    <td> 2055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2055" data-uslm-ref="/us/usc/t22/s2055">2055.</a>  </td>
 
     <td> Duties of Secretary of State; establishment and operation of educational institution; grants, fellowships, and scholarships; availability of facilities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CENTER BETWEEN EAST AND WEST  </td>
 
   <tr>
 
-    <td> 2056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2056" data-uslm-ref="/us/usc/t22/s2056">2056.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CENTER BETWEEN EAST AND WEST  </td>
 
   <tr>
 
-    <td> 2057.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2057" data-uslm-ref="/us/usc/t22/s2057">2057.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -81,7 +81,9 @@ SUBCHAPTER II—WESTERN HEMISPHERIC CENTER  </td>
 
   <tr>
 
-    <td> 2071, 2072. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2071" data-uslm-ref="/us/usc/t22/s2071">2071</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2072" data-uslm-ref="/us/usc/t22/s2072">2072.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -95,7 +97,7 @@ SUBCHAPTER III—DANTE B. FASCELL NORTH-SOUTH CENTER  </td>
 
   <tr>
 
-    <td> 2075.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2075" data-uslm-ref="/us/usc/t22/s2075">2075.</a>  </td>
 
     <td> Center for Cultural and Technical Interchange Between North and South.  </td>
 
@@ -111,7 +113,7 @@ SUBCHAPTER IV—INTERNATIONAL UNIVERSITY  </td>
 
   <tr>
 
-    <td> 2077.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2077" data-uslm-ref="/us/usc/t22/s2077">2077.</a>  </td>
 
     <td> International University for the Americas.  </td>
 
@@ -127,7 +129,7 @@ SUBCHAPTER V—INTERNATIONAL CENTER FOR MIDDLE EASTERN-WESTERN DIALOGUE  </td>
 
   <tr>
 
-    <td> 2078.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2078" data-uslm-ref="/us/usc/t22/s2078">2078.</a>  </td>
 
     <td> International Center for Middle Eastern-Western Dialogue Trust Fund.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 6901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6901" data-uslm-ref="/us/usc/t22/s6901">6901.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 6902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6902" data-uslm-ref="/us/usc/t22/s6902">6902.</a>  </td>
 
     <td> Policy.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 6903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6903" data-uslm-ref="/us/usc/t22/s6903">6903.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6911" data-uslm-ref="/us/usc/t22/s6911">6911.</a>  </td>
 
     <td> Establishment of Congressional-Executive Commission on the People’s Republic of China.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6912" data-uslm-ref="/us/usc/t22/s6912">6912.</a>  </td>
 
     <td> Functions of the Commission.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6913" data-uslm-ref="/us/usc/t22/s6913">6913.</a>  </td>
 
     <td> Membership of the Commission.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6914" data-uslm-ref="/us/usc/t22/s6914">6914.</a>  </td>
 
     <td> Votes of the Commission.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6915" data-uslm-ref="/us/usc/t22/s6915">6915.</a>  </td>
 
     <td> Expenditure of appropriations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6916" data-uslm-ref="/us/usc/t22/s6916">6916.</a>  </td>
 
     <td> Testimony of witnesses, production of evidence; issuance of subpoenas; administration of oaths.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6917" data-uslm-ref="/us/usc/t22/s6917">6917.</a>  </td>
 
     <td> Appropriations for the Commission.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6918" data-uslm-ref="/us/usc/t22/s6918">6918.</a>  </td>
 
     <td> Staff of the Commission.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CONGRESSIONAL-EXECUTIVE COMMISSION ON THE PEOPLE’S REPUBLIC OF
 
   <tr>
 
-    <td> 6919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6919" data-uslm-ref="/us/usc/t22/s6919">6919.</a>  </td>
 
     <td> Printing and binding costs.  </td>
 
@@ -153,7 +153,7 @@ Part A—Review of Membership of the People’s Republic of China in the WTO  </
 
   <tr>
 
-    <td> 6931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6931" data-uslm-ref="/us/usc/t22/s6931">6931.</a>  </td>
 
     <td> Review within the WTO.  </td>
 
@@ -169,7 +169,7 @@ Part B—Authorization To Promote Compliance With Trade Agreements  </td>
 
   <tr>
 
-    <td> 6941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6941" data-uslm-ref="/us/usc/t22/s6941">6941.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -177,7 +177,7 @@ Part B—Authorization To Promote Compliance With Trade Agreements  </td>
 
   <tr>
 
-    <td> 6942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6942" data-uslm-ref="/us/usc/t22/s6942">6942.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -185,7 +185,7 @@ Part B—Authorization To Promote Compliance With Trade Agreements  </td>
 
   <tr>
 
-    <td> 6943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6943" data-uslm-ref="/us/usc/t22/s6943">6943.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -201,7 +201,7 @@ Part C—Report on Compliance by the People’s Republic of China With WTO Oblig
 
   <tr>
 
-    <td> 6951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6951" data-uslm-ref="/us/usc/t22/s6951">6951.</a>  </td>
 
     <td> Report on compliance.  </td>
 
@@ -225,7 +225,7 @@ Part A—Task Force on Prohibition of Importation of Products of Forced or Priso
 
   <tr>
 
-    <td> 6961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6961" data-uslm-ref="/us/usc/t22/s6961">6961.</a>  </td>
 
     <td> Establishment of Task Force.  </td>
 
@@ -233,7 +233,7 @@ Part A—Task Force on Prohibition of Importation of Products of Forced or Priso
 
   <tr>
 
-    <td> 6962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6962" data-uslm-ref="/us/usc/t22/s6962">6962.</a>  </td>
 
     <td> Functions of Task Force.  </td>
 
@@ -241,7 +241,7 @@ Part A—Task Force on Prohibition of Importation of Products of Forced or Priso
 
   <tr>
 
-    <td> 6963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6963" data-uslm-ref="/us/usc/t22/s6963">6963.</a>  </td>
 
     <td> Composition of Task Force.  </td>
 
@@ -249,7 +249,7 @@ Part A—Task Force on Prohibition of Importation of Products of Forced or Priso
 
   <tr>
 
-    <td> 6964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6964" data-uslm-ref="/us/usc/t22/s6964">6964.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -257,7 +257,7 @@ Part A—Task Force on Prohibition of Importation of Products of Forced or Priso
 
   <tr>
 
-    <td> 6965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6965" data-uslm-ref="/us/usc/t22/s6965">6965.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -273,7 +273,7 @@ Part B—Assistance To Develop Commercial and Labor Rule of Law  </td>
 
   <tr>
 
-    <td> 6981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6981" data-uslm-ref="/us/usc/t22/s6981">6981.</a>  </td>
 
     <td> Establishment of technical assistance and rule of law programs.  </td>
 
@@ -281,7 +281,7 @@ Part B—Assistance To Develop Commercial and Labor Rule of Law  </td>
 
   <tr>
 
-    <td> 6982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6982" data-uslm-ref="/us/usc/t22/s6982">6982.</a>  </td>
 
     <td> Administrative authorities.  </td>
 
@@ -289,7 +289,7 @@ Part B—Assistance To Develop Commercial and Labor Rule of Law  </td>
 
   <tr>
 
-    <td> 6983.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6983" data-uslm-ref="/us/usc/t22/s6983">6983.</a>  </td>
 
     <td> Prohibition relating to human rights abuses.  </td>
 
@@ -297,7 +297,7 @@ Part B—Assistance To Develop Commercial and Labor Rule of Law  </td>
 
   <tr>
 
-    <td> 6984.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6984" data-uslm-ref="/us/usc/t22/s6984">6984.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER V—ACCESSION OF TAIWAN TO THE WTO  </td>
 
   <tr>
 
-    <td> 6991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs6991" data-uslm-ref="/us/usc/t22/s6991">6991.</a>  </td>
 
     <td> Accession of Taiwan to the WTO.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER VI—RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 7001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7001" data-uslm-ref="/us/usc/t22/s7001">7001.</a>  </td>
 
     <td> Authorizations of appropriations for broadcasting capital improvements and international broadcasting operations.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER VI—RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 7002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs7002" data-uslm-ref="/us/usc/t22/s7002">7002.</a>  </td>
 
     <td> United States-China Economic and Security Review Commission.  </td>
 

@@ -567,11 +567,9 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 >     As used in this section—
 
->         “(1)
+>         “(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
 
->          the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
-
->             “(2) the terms ‘defense article’ and ‘defense service’ have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[[22 U.S.C. 2794(3)][/us/usc/t22/s2794/3], (4)\].
+>         “(2) the terms ‘defense article’ and ‘defense service’ have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[[22 U.S.C. 2794(3)][/us/usc/t22/s2794/3], (4)\].
 
 >     “(d) __Effective Date.—__ 
 

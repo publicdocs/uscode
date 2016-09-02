@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs291" data-uslm-ref="/us/usc/t22/s291">291.</a>  </td>
 
     <td> Lease of buildings, etc., for offices, living quarters, heat, light, and equipment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs292" data-uslm-ref="/us/usc/t22/s292">292.</a>  </td>
 
     <td> Acquisition of sites and buildings for diplomatic and consular establishments; allotment of space; credit of payments without regard to limitations of amounts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 292a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs292a" data-uslm-ref="/us/usc/t22/s292a">292a.</a>  </td>
 
     <td> Demonstration of solar and other renewable energy technologies in foreign countries.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs293" data-uslm-ref="/us/usc/t22/s293">293.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs294" data-uslm-ref="/us/usc/t22/s294">294.</a>  </td>
 
     <td> Manner of use of buildings; contracts for construction, etc.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 294a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs294a" data-uslm-ref="/us/usc/t22/s294a">294a.</a>  </td>
 
     <td> Contracts requiring payment in foreign currency.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs295" data-uslm-ref="/us/usc/t22/s295">295.</a>  </td>
 
     <td> Authorization of appropriations; Foreign Service Building Fund; expenditures; foreign currencies.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 295a, 295b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs295a" data-uslm-ref="/us/usc/t22/s295a">295a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs295b" data-uslm-ref="/us/usc/t22/s295b">295b.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs296" data-uslm-ref="/us/usc/t22/s296">296.</a>  </td>
 
     <td> Duties of Secretary of State with respect to commission and properties.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 296a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs296a" data-uslm-ref="/us/usc/t22/s296a">296a.</a>  </td>
 
     <td> Maintenance management of overseas property.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs297" data-uslm-ref="/us/usc/t22/s297">297.</a>  </td>
 
     <td> Acquisition of property by lease.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 297a, 298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs297a" data-uslm-ref="/us/usc/t22/s297a">297a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs298" data-uslm-ref="/us/usc/t22/s298">298.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 299.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs299" data-uslm-ref="/us/usc/t22/s299">299.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 300.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs300" data-uslm-ref="/us/usc/t22/s300">300.</a>  </td>
 
     <td> Dispositions of property; damage payments; acceptance of gifts or services.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs301" data-uslm-ref="/us/usc/t22/s301">301.</a>  </td>
 
     <td> Lease or rental arrangements of not less than ten years; approval by Secretary; delegation of authority; information to Congress.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs302" data-uslm-ref="/us/usc/t22/s302">302.</a>  </td>
 
     <td> Award of contracts.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs303" data-uslm-ref="/us/usc/t22/s303">303.</a>  </td>
 
     <td> Annual report on overseas surplus properties.  </td>
 

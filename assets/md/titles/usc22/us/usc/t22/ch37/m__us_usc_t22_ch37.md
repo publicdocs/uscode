@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2621" data-uslm-ref="/us/usc/t22/s2621">2621.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2622 to 2624.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2622" data-uslm-ref="/us/usc/t22/s2622">2622</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2624" data-uslm-ref="/us/usc/t22/s2624">2624.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2625" data-uslm-ref="/us/usc/t22/s2625">2625.</a>  </td>
 
     <td> Gifts or decorations on deposit with State Department.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2626" data-uslm-ref="/us/usc/t22/s2626">2626.</a>  </td>
 
     <td> Repealed.  </td>
 

@@ -51,6 +51,10 @@
 
 ([Pub. L. 111–195, title I, § 105C][/us/pl/111/195/s105C], as added [Pub. L. 112–239, div. A, title XII, § 1249(a)][/us/pl/112/239/s1249/a], Jan. 2, 2013, [126 Stat. 2015][/us/stat/126/2015].)
 
+ __Delegation of Functions__ 
+
+    For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under [section 8801 of this title][/us/usc/t22/s8801].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t22/ch92/schI/m__us_usc_t22_s8514b.md) | [Next](./../../../../..//us/usc/t22/ch92/schI/m__us_usc_t22_s8515.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514c)
@@ -63,5 +67,6 @@
 [/us/pl/111/195/s105C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs105C
 [/us/pl/112/239/s1249/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1249%2Fa
 [/us/stat/126/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2015
+[/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 
 

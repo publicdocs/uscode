@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5601" data-uslm-ref="/us/usc/t22/s5601">5601.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5602" data-uslm-ref="/us/usc/t22/s5602">5602.</a>  </td>
 
     <td> Multilateral efforts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5603" data-uslm-ref="/us/usc/t22/s5603">5603.</a>  </td>
 
     <td> United States export controls.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5604" data-uslm-ref="/us/usc/t22/s5604">5604.</a>  </td>
 
     <td> Determinations regarding use of chemical or biological weapons.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5605" data-uslm-ref="/us/usc/t22/s5605">5605.</a>  </td>
 
     <td> Sanctions against use of chemical or biological weapons.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs5606" data-uslm-ref="/us/usc/t22/s5606">5606.</a>  </td>
 
     <td> Repealed.  </td>
 

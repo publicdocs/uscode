@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2101" data-uslm-ref="/us/usc/t22/s2101">2101.</a>  </td>
 
     <td> Statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2102" data-uslm-ref="/us/usc/t22/s2102">2102.</a>  </td>
 
     <td> Authority of Secretary.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2103" data-uslm-ref="/us/usc/t22/s2103">2103.</a>  </td>
 
     <td> Authority of President.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2104" data-uslm-ref="/us/usc/t22/s2104">2104.</a>  </td>
 
     <td> Authority of Federal officers and agencies unaffected.  </td>
 
