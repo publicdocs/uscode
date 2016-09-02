@@ -123,10 +123,6 @@
 
             The Office of Petroleum Reserves shall work closely with the Task Force and coordinate its staff support.
 
-        (3) __Annual reports__ 
-
-            Not later than 180 days after August 8, 2005, and annually thereafter, the Secretary shall submit to Congress a report that describes the activities of the Office of Petroleum Reserves carried out under this subsection.
-
     (j) __Omitted__ 
 
     (k) __Interagency coordination and expeditious review of permitting process__ 
@@ -217,11 +213,15 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 109–58, title III, § 369][/us/pl/109/58/s369], Aug. 8, 2005, [119 Stat. 728][/us/stat/119/728].)
+([Pub. L. 109–58, title III, § 369][/us/pl/109/58/s369], Aug. 8, 2005, [119 Stat. 728][/us/stat/119/728]; [Pub. L. 113–188, title VI, § 601(b)][/us/pl/113/188/s601/b], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
 
  __Codification__ 
 
     Section is comprised of [section 369 of Pub. L. 109–58][/us/pl/109/58/s369]. Subsecs. (j) and (q) of [section 369 of Pub. L. 109–58][/us/pl/109/58/s369] enacted [section 2398a of Title 10][/us/usc/t10/s2398a], Armed Forces, and amended the table of sections for chapter 141 of Title 10 and sections 226 and 241 of Title 30, Mineral Lands and Mining.
+
+ __Amendments__ 
+
+    2014—Subsec. (i)(3). [Pub. L. 113–188][/us/pl/113/188] struck out par. (3). Text read as follows: “Not later than 180 days after August 8, 2005, and annually thereafter, the Secretary shall submit to Congress a report that describes the activities of the Office of Petroleum Reserves carried out under this subsection.”
 
  __Change of Name__ 
 
@@ -240,8 +240,11 @@
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
 [/us/pl/109/58/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs369
 [/us/stat/119/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F728
+[/us/pl/113/188/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs601%2Fb
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
 [/us/pl/109/58/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs369
 [/us/pl/109/58/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs369
 [/us/usc/t10/s2398a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2398a
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 
 

@@ -39,11 +39,11 @@
 
         A grant under this section shall be considered an authorized activity under [section 7381b of this title][/us/usc/t42/s7381b].
 
-    (d) __Report__ 
+([Pub. L. 109–58, title IX, § 983][/us/pl/109/58/s983], Aug. 8, 2005, [119 Stat. 907][/us/stat/119/907]; [Pub. L. 113–188, title VI, § 601(a)][/us/pl/113/188/s601/a], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
 
-        No later than 2 years after the award of the grant, the Secretary shall transmit to Congress a report outlining lessons learned and, if determined appropriate by the Secretary, containing a plan for expanding the program throughout the United States.
+ __Amendments__ 
 
-([Pub. L. 109–58, title IX, § 983][/us/pl/109/58/s983], Aug. 8, 2005, [119 Stat. 907][/us/stat/119/907].)
+    2014—Subsec. (d). [Pub. L. 113–188][/us/pl/113/188] struck out subsec. (d). Text read as follows: “No later than 2 years after the award of the grant, the Secretary shall transmit to Congress a report outlining lessons learned and, if determined appropriate by the Secretary, containing a plan for expanding the program throughout the United States.”
 
 ----------
 
@@ -55,5 +55,8 @@
 [/us/usc/t42/s7381b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7381b
 [/us/pl/109/58/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs983
 [/us/stat/119/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F907
+[/us/pl/113/188/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs601%2Fa
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 
 

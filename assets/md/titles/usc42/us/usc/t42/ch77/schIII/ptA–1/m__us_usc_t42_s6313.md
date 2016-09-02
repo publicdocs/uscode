@@ -181,15 +181,11 @@
 
                     (II) the date that is 6 years after the effective date of the current standard for a covered product.
 
-                (v)  __Reports__  __.—__ 
+                (v)  __Consideration of prices and operating patterns__  __.—__ 
 
-                The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph.
+                If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “than”. </sup></sup>  65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
 
-                (vi)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. There are two cls. designated (vi).__  __ </sup></sup> __   __Consideration of prices and operating patterns__  __.—__ 
-
-                If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “than”. </sup></sup>  65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
-
-                (vi) 1 For any covered equipment as to which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product as of December 18, 2012, the first notice required under clause (i) shall be published by December 31, 2013.
+                (vi) For any covered equipment as to which more than 6 years has elapsed since the issuance of the most recent final rule establishing or amending a standard for the product as of December 18, 2012, the first notice required under clause (i) shall be published by December 31, 2013.
 
             (D)
 
@@ -307,7 +303,7 @@
 
     (b) __Electric motors__ 
 
-        (1) Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2), <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992, or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992, shall have a nominal full load efficiency of not less than the following:
+        (1) Except for definite purpose motors, special purpose motors, and those motors exempted by the Secretary under paragraph (2), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  each electric motor manufactured (alone or as a component of another piece of equipment) after the 60-month period beginning on October 24, 1992, or in the case of an electric motor which requires listing or certification by a nationally recognized safety testing laboratory, after the 84-month period beginning on October 24, 1992, shall have a nominal full load efficiency of not less than the following:
 
 <table>
 
@@ -1719,13 +1715,15 @@
 
             Subparagraph (C) of paragraph (1) shall not apply to a walk-in cooler or walk-in freezer component if the component manufacturer has demonstrated to the satisfaction of the Secretary that the component reduces energy consumption at least as much as if such subparagraph were to apply. In support of any demonstration under this paragraph, a manufacturer shall provide to the Secretary all data and technical information necessary to fully evaluate its application.
 
-([Pub. L. 94–163, title III, § 342][/us/pl/94/163/s342], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3269][/us/stat/92/3269]; amended [Pub. L. 102–486, title I, § 122(d)][/us/pl/102/486/s122/d], Oct. 24, 1992, [106 Stat. 2810][/us/stat/106/2810]; [Pub. L. 109–58, title I, § 136(b)][/us/pl/109/58/s136/b]–(e), Aug. 8, 2005, [119 Stat. 636–641][/us/stat/119/636-641]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, [121 Stat. 1554][/us/stat/121/1554], 1559, 1564, 1568, 1570; [Pub. L. 112–210][/us/pl/112/210], §§ 2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1516, 1518, 1522, 1524.)
+([Pub. L. 94–163, title III, § 342][/us/pl/94/163/s342], as added [Pub. L. 95–619, title IV, § 441(a)][/us/pl/95/619/s441/a], Nov. 9, 1978, [92 Stat. 3269][/us/stat/92/3269]; amended [Pub. L. 102–486, title I, § 122(d)][/us/pl/102/486/s122/d], Oct. 24, 1992, [106 Stat. 2810][/us/stat/106/2810]; [Pub. L. 109–58, title I, § 136(b)][/us/pl/109/58/s136/b]–(e), Aug. 8, 2005, [119 Stat. 636–641][/us/stat/119/636-641]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 305(b), 306(c), 312(b), 313(b)(1), 314(b), Dec. 19, 2007, [121 Stat. 1554][/us/stat/121/1554], 1559, 1564, 1568, 1570; [Pub. L. 112–210][/us/pl/112/210], §§ 2, 4, 5(b), 10(a)(3), (4), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1516, 1518, 1522, 1524; [Pub. L. 113–188, title VI, § 601(c)][/us/pl/113/188/s601/c], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].)
 
  __References in Text__ 
 
     Paragraph (2), referred to in subsec. (b)(1), probably means par. (3), formerly par. (2), of subsec. (b) of this section, which was redesignated by [Pub. L. 110–140, § 313(b)(1)(A)][/us/pl/110/140/s313/b/1/A].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(6)(C)(v), (vi). [Pub. L. 113–188][/us/pl/113/188], which directed amendment of subsec. (a)(6)(C) by striking cl. (v) and redesignating the cl. (vi) “as added by [section 310(a)(4) of Public Law 112–110][/us/pl/112/110/s310/a/4]” as (v), was executed by striking cl. (v) and redesignating as (v) the cl. (vi) (relating to consideration of prices and operating patterns) which had been redesignated by [section 10(a)(4) of Pub. L. 112–210][/us/pl/112/210/s10/a/4], to reflect the probable intent of Congress. Prior to amendment, text of par. (v) read as follows: “The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph.”
 
     2012—Subsec. (a)(6)(A)(i). [Pub. L. 112–210, § 5(b)(1)][/us/pl/112/210/s5/b/1], inserted “the standard levels or design requirements applicable under that standard to” before “any small commercial”.
 
@@ -1823,7 +1821,12 @@
 [/us/stat/121/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1554
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1514
+[/us/pl/113/188/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs601%2Fc
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
 [/us/pl/110/140/s313/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs313%2Fb%2F1%2FA
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
+[/us/pl/112/110/s310/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F110%2Fs310%2Fa%2F4
+[/us/pl/112/210/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F4
 [/us/pl/112/210/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs5%2Fb%2F1
 [/us/pl/112/210/s10/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F3%2FA%2Fi
 [/us/pl/112/210/s10/a/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fa%2F3%2FA%2Fiv

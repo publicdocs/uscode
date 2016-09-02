@@ -43,7 +43,7 @@
 
  __Housing Assistance Council__ 
 
-[Pub. L. 110–234, title VI][/us/pl/110/234], subtitle D, May 22, 2008, [122 Stat. 1210][/us/stat/122/1210], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, subtitle D, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1972, provided that:
+[Pub. L. 110–234, title VI][/us/pl/110/234], subtitle D, May 22, 2008, [122 Stat. 1210][/us/stat/122/1210], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, subtitle D, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1972, as amended by [Pub. L. 113–188, title IX, § 901(f)][/us/pl/113/188/s901/f], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020], provided that:
 
 > “SEC. 6301. __SHORT TITLE.__ 
 
@@ -80,10 +80,6 @@
 >             “(A) the annual programmatic and financial examination requirements established in OMB Circular A-133; and
 
 >             “(B) generally accepted government auditing standards.
-
->         “(3)  __Report to congress__  __.—__ 
-
->         The Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative a report detailing each audit completed under paragraph (1).
 
 >     “(b) __GAO__  __Report__  __.—__ 
 
@@ -125,6 +121,8 @@
 [/us/stat/122/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1210
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/188/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs901%2Ff
+[/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
 [/us/usc/t42/s1436a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1436a
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

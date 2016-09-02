@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States and American Indian consortia for the purpose of carrying out projects to improve access to rehabilitation and other services regarding traumatic brain injury.
+        The Secretary may make grants to States and American Indian consortia for the purpose of carrying out projects to improve access to rehabilitation and other services regarding traumatic brain injury.
 
     (b) __State advisory board__ 
 
@@ -77,7 +77,7 @@
 
              To develop, change, or enhance community-based service delivery systems that include timely access to comprehensive appropriate services and supports. Such service and supports—
 
-                (i) shall promote full participation by individuals with brain injury and their families in decision making regarding the services and supports; and
+                (i) shall promote full participation by individuals with traumatic brain injury and their families in decision making regarding the services and supports; and
 
                 (ii) shall be designed for children, youth, and adults with traumatic brain injury.
 
@@ -111,7 +111,7 @@
 
             (D) develop best practices in areas such as family or consumer support, return to work, housing or supportive living personal assistance services, assistive technology and devices, behavioral health services, substance abuse services, and traumatic brain injury treatment and rehabilitation;
 
-            (E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals with brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
+            (E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals with traumatic brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
 
             (F) improve data sets coordinated across systems and other needs identified by a State or American Indian consortium plan supported by its advisory council; and
 
@@ -123,7 +123,7 @@
 
     (h) __Report__ 
 
-        Not less than biennially, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the findings and results of the programs established under this section, and [section 300d–53 of this title][/us/usc/t42/s300d–53] including measures of outcomes and consumer and surrogate satisfaction.
+        Not less than biennially, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the findings and results of the programs established under this section and [section 300d–53 of this title][/us/usc/t42/s300d–53], including measures of outcomes and consumer and surrogate satisfaction.
 
     (i) __Definitions__ 
 
@@ -135,15 +135,23 @@
 
     (j) __Authorization of appropriations__ 
 
-        For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
+        For the purpose of carrying out this section, there are authorized to be appropriated $5,500,000 for each of the fiscal years 2015 through 2019.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1252, as added [Pub. L. 104–166, § 3][/us/pl/104/166/s3], July 29, 1996, [110 Stat. 1446][/us/stat/110/1446]; amended [Pub. L. 106–310, div. A, title XIII, § 1304][/us/pl/106/310/s1304], Oct. 17, 2000, [114 Stat. 1139][/us/stat/114/1139]; [Pub. L. 110–23, § 14][/us/pl/110/23/s14], May 3, 2007, [121 Stat. 99][/us/stat/121/99]; [Pub. L. 110–206, § 6(a)][/us/pl/110/206/s6/a], Apr. 28, 2008, [122 Stat. 716][/us/stat/122/716]; [Pub. L. 111–256, § 2(f)(6)][/us/pl/111/256/s2/f/6], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1252, as added [Pub. L. 104–166, § 3][/us/pl/104/166/s3], July 29, 1996, [110 Stat. 1446][/us/stat/110/1446]; amended [Pub. L. 106–310, div. A, title XIII, § 1304][/us/pl/106/310/s1304], Oct. 17, 2000, [114 Stat. 1139][/us/stat/114/1139]; [Pub. L. 110–23, § 14][/us/pl/110/23/s14], May 3, 2007, [121 Stat. 99][/us/stat/121/99]; [Pub. L. 110–206, § 6(a)][/us/pl/110/206/s6/a], Apr. 28, 2008, [122 Stat. 716][/us/stat/122/716]; [Pub. L. 111–256, § 2(f)(6)][/us/pl/111/256/s2/f/6], Oct. 5, 2010, [124 Stat. 2644][/us/stat/124/2644]; [Pub. L. 113–196, § 3][/us/pl/113/196/s3], Nov. 26, 2014, [128 Stat. 2052][/us/stat/128/2052].)
 
  __References in Text__ 
 
     The Americans with Disabilities Act of 1990, referred to in subsec. (f)(2)(A), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], as amended. Title II of the Act is classified generally to subchapter II (§ 12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title][/us/usc/t42/s12101] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–196, § 3(1)][/us/pl/113/196/s3/1], struck out “, acting through the Administrator of the Health Resources and Services Administration,” after “The Secretary”.
+
+    Subsec. (f)(1)(A)(i), (3)(E). [Pub. L. 113–196, § 3(2)][/us/pl/113/196/s3/2], substituted “traumatic brain injury” for “brain injury”.
+
+    Subsec. (h). [Pub. L. 113–196, § 3(3)][/us/pl/113/196/s3/3], substituted “under this section and [section 300d–53 of this title][/us/usc/t42/s300d–53], including” for “under this section, and [section 300d–53 of this title][/us/usc/t42/s300d–53] including”.
+
+    Subsec. (j). [Pub. L. 113–196, § 3(4)][/us/pl/113/196/s3/4], substituted “$5,500,000 for each of the fiscal years 2015 through 2019” for “such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012”.
 
     2010—Subsec. (f)(3)(E). [Pub. L. 111–256][/us/pl/111/256] substituted “intellectual disabilities or developmental disorders,” for “mental retardation/developmental disorders,”.
 
@@ -220,9 +228,17 @@
 [/us/stat/122/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F716
 [/us/pl/111/256/s2/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Ff%2F6
 [/us/stat/124/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2644
+[/us/pl/113/196/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3
+[/us/stat/128/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2052
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
+[/us/pl/113/196/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3%2F1
+[/us/pl/113/196/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3%2F2
+[/us/pl/113/196/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3%2F3
+[/us/usc/t42/s300d–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9353
+[/us/usc/t42/s300d–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9353
+[/us/pl/113/196/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs3%2F4
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/pl/110/206/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F1
 [/us/pl/110/206/s6/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fa%2F2%2FA

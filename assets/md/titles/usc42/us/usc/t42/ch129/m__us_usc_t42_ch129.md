@@ -219,7 +219,7 @@ Part IV—Service-Learning Impact Study  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs12565" data-uslm-ref="/us/usc/t42/s12565">12565.</a>  </td>
 
-    <td> Study and report.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

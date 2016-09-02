@@ -85,29 +85,7 @@
 
         The Secretary may receive oil or gas royalties in-kind only if the Secretary determines that receiving royalties in-kind provides benefits to the United States that are greater than or equal to the benefits that are likely to have been received had royalties been taken in-value.
 
-    (e) __Reports__ 
-
-        (1) __In general__ 
-
-        Not later than September 30, 2006, the Secretary shall submit to Congress a report that addresses—
-
-            (A) actions taken to develop business processes and automated systems to fully support the royalty-in-kind capability to be used in tandem with the royalty-in-value approach in managing Federal oil and gas revenue; and
-
-            (B) future royalty-in-kind businesses operation plans and objectives.
-
-        (2) __Reports on oil or gas royalties taken in-kind__ 
-
-        For each of fiscal years 2006 through 2015 in which the United States takes oil or gas royalties in-kind from production in any State or from the outer Continental Shelf, excluding royalties taken in-kind and sold to refineries under subsection (h), the Secretary shall submit to Congress a report that describes—
-
-            (A) the 1 or more methodologies used by the Secretary to determine compliance with subsection (d), including the performance standard for comparing amounts received by the United States derived from royalties in-kind to amounts likely to have been received had royalties been taken in-value;
-
-            (B) an explanation of the evaluation that led the Secretary to take royalties in-kind from a lease or group of leases, including the expected revenue effect of taking royalties in-kind;
-
-            (C) actual amounts received by the United States derived from taking royalties in-kind and costs and savings incurred by the United States associated with taking royalties in-kind, including administrative savings and any new or increased administrative costs; and
-
-            (D) an evaluation of other relevant public benefits or detriments associated with taking royalties in-kind.
-
-    (f) __Deduction of expenses__ 
+    (e) __Deduction of expenses__ 
 
         (1) __In general__ 
 
@@ -117,7 +95,7 @@
 
             When the Secretary allows the lessee to deduct transportation or processing costs under subsection (c), the Secretary may not reduce any payments to recipients of revenues derived from any other Federal oil and gas lease as a consequence of that deduction.
 
-    (g) __Consultation with States__ 
+    (f) __Consultation with States__ 
 
     The Secretary—
 
@@ -127,7 +105,7 @@
 
         (3) shall consult annually with any State from which Federal oil or gas royalty is being taken in-kind to ensure, to the maximum extent practicable, that the royalty in-kind program provides revenues to the State greater than or equal to the revenues likely to have been received had royalties been taken in-value.
 
-    (h) __Small refineries__ 
+    (g) __Small refineries__ 
 
         (1) __Preference__ 
 
@@ -137,7 +115,7 @@
 
             In disposing of oil under this subsection, the Secretary may, at the discretion of the Secretary, prorate the oil among refineries described in paragraph (1) in the area in which the oil is produced.
 
-    (i) __Disposition to Federal agencies__ 
+    (h) __Disposition to Federal agencies__ 
 
         (1) __Onshore royalty__ 
 
@@ -147,7 +125,7 @@
 
             Any royalty oil or gas taken in-kind from a Federal oil or gas lease on the outer Continental Shelf may be disposed of only under [section 1353 of title 43][/us/usc/t43/s1353].
 
-    (j) __Federal low-income energy assistance programs__ 
+    (i) __Federal low-income energy assistance programs__ 
 
         (1) __Preference__ 
 
@@ -161,11 +139,15 @@
 
             (B) providing a specific recommendation on the continuation of authority to grant preferences.
 
-([Pub. L. 109–58, title III, § 342][/us/pl/109/58/s342], Aug. 8, 2005, [119 Stat. 697][/us/stat/119/697].)
+([Pub. L. 109–58, title III, § 342][/us/pl/109/58/s342], Aug. 8, 2005, [119 Stat. 697][/us/stat/119/697]; [Pub. L. 113–188, title XI, § 1101][/us/pl/113/188/s1101], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].)
 
  __References in Text__ 
 
-    This part, referred to in subsec. (g)(1), was in the original “this subtitle”, meaning subtitle E (§§ 341–357) of title III of [Pub. L. 109–58][/us/pl/109/58], Aug. 8, 2005, [119 Stat. 697][/us/stat/119/697], which enacted this part, amended sections 6504, 6506a, 6507, and 6508 of this title, sections 184 and 226 of Title 30, Mineral Lands and Mining, and [section 1337 of Title 43][/us/usc/t43/s1337], Public Lands, and enacted provisions set out as a note under [section 226 of Title 30][/us/usc/t30/s226]. For complete classification of subtitle E to the Code, see Tables.
+    This part, referred to in subsec. (f)(1), was in the original “this subtitle”, meaning subtitle E (§§ 341–357) of title III of [Pub. L. 109–58][/us/pl/109/58], Aug. 8, 2005, [119 Stat. 697][/us/stat/119/697], which enacted this part, amended sections 6504, 6506a, 6507, and 6508 of this title, sections 184 and 226 of Title 30, Mineral Lands and Mining, and [section 1337 of Title 43][/us/usc/t43/s1337], Public Lands, and enacted provisions set out as a note under [section 226 of Title 30][/us/usc/t30/s226]. For complete classification of subtitle E to the Code, see Tables.
+
+ __Amendments__ 
+
+    2014—Subsecs. (e) to (j). [Pub. L. 113–188][/us/pl/113/188] redesignated subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which required various reports on oil and gas royalties in-kind.
 
 ----------
 
@@ -183,9 +165,12 @@
 [/us/usc/t43/s1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1353
 [/us/pl/109/58/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs342
 [/us/stat/119/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F697
+[/us/pl/113/188/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1101
+[/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F697
 [/us/usc/t43/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1337
 [/us/usc/t30/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 
 

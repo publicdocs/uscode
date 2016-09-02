@@ -139,15 +139,17 @@
 
     (i) __Periodic reviews__ 
 
-        The Secretary and the Comptroller General of the United States shall jointly conduct periodic reviews, not less than every 5 years, and evaluations of every Federal disease prevention and health promotion initiative, program, and agency. Such reviews shall be evaluated based on effectiveness in meeting metrics-based goals with an analysis posted on such agencies’ public Internet websites.
+        The Secretary shall conduct periodic reviews, not less than every 5 years, and evaluations of every Federal disease prevention and health promotion initiative, program, and agency. Such reviews shall be evaluated based on effectiveness in meeting metrics-based goals with an analysis posted on such agencies’ public Internet websites.
 
-([Pub. L. 111–148, title IV, § 4001][/us/pl/111/148/s4001], title X, § 10401(a), Mar. 23, 2010, [124 Stat. 538][/us/stat/124/538], 974.)
+([Pub. L. 111–148, title IV, § 4001][/us/pl/111/148/s4001], title X, § 10401(a), Mar. 23, 2010, [124 Stat. 538][/us/stat/124/538], 974; [Pub. L. 113–188, title IX, § 902(a)][/us/pl/113/188/s902/a], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020].)
 
  __Codification__ 
 
     Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (i). [Pub. L. 113–188][/us/pl/113/188] substituted “The Secretary shall conduct periodic reviews” for “The Secretary and the Comptroller General of the United States shall jointly conduct periodic reviews”.
 
     2010—Subsec. (h)(4), (5). [Pub. L. 111–148, § 10401(a)][/us/pl/111/148/s10401/a], substituted “2020” for “2010”.
 
@@ -312,6 +314,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 [/us/pl/111/148/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4001
 [/us/stat/124/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F538
+[/us/pl/113/188/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs902%2Fa
+[/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/111/148/s10401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10401%2Fa
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570

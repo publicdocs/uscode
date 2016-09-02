@@ -29,7 +29,7 @@
 
         (3)
 
-         the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for 2010, commonly referred to as Healthy People 2010), including—
+         the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for 2020, commonly referred to as Healthy People 2020), including—
 
             (A)
 
@@ -49,7 +49,7 @@
 
         For purposes of this section, the term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393B, formerly § 393A, as added [Pub. L. 104–166, § 1][/us/pl/104/166/s1], July 29, 1996, [110 Stat. 1445][/us/stat/110/1445]; amended [Pub. L. 106–310, div. A, title XIII, § 1301(a)][/us/pl/106/310/s1301/a], Oct. 17, 2000, [114 Stat. 1137][/us/stat/114/1137]; renumbered § 393B and amended [Pub. L. 110–206][/us/pl/110/206], §§ 2(2), 3(a), Apr. 28, 2008, [122 Stat. 714][/us/stat/122/714].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 393B, formerly § 393A, as added [Pub. L. 104–166, § 1][/us/pl/104/166/s1], July 29, 1996, [110 Stat. 1445][/us/stat/110/1445]; amended [Pub. L. 106–310, div. A, title XIII, § 1301(a)][/us/pl/106/310/s1301/a], Oct. 17, 2000, [114 Stat. 1137][/us/stat/114/1137]; renumbered § 393B and amended [Pub. L. 110–206][/us/pl/110/206], §§ 2(2), 3(a), Apr. 28, 2008, [122 Stat. 714][/us/stat/122/714]; [Pub. L. 113–196, § 2(a)][/us/pl/113/196/s2/a], Nov. 26, 2014, [128 Stat. 2052][/us/stat/128/2052].)
 
  __Codification__ 
 
@@ -60,6 +60,8 @@
     Prior sections 393B of act July 1, 1944, were renumbered sections 393A and 393C and are classified to sections 280b–1b and 280b–1d, respectively, of this title.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3). [Pub. L. 113–196][/us/pl/113/196] substituted “2020, commonly referred to as Healthy People 2020” for “2010, commonly referred to as Healthy People 2010” in introductory provisions.
 
     2008—Subsec. (b)(3)(A)(ii). [Pub. L. 110–206, § 3(a)][/us/pl/110/206/s3/a], substituted “from hospitals and emergency departments” for “from hospitals and trauma centers”.
 
@@ -81,7 +83,10 @@
 [/us/stat/114/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1137
 [/us/pl/110/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206
 [/us/stat/122/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F714
+[/us/pl/113/196/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs2%2Fa
+[/us/stat/128/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2052
 [/us/usc/t42/s280b–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280b%E2%80%931b
+[/us/pl/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196
 [/us/pl/110/206/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs3%2Fa
 [/us/pl/106/310/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1301%2Fa%2F1
 [/us/pl/106/310/s1301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1301%2Fa%2F2

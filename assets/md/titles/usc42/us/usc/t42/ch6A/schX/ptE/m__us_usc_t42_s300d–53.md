@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the “Administrator”), shall make grants to protection and advocacy systems for the purpose of enabling such systems to provide services to individuals with traumatic brain injury.
+        The Secretary shall make grants to protection and advocacy systems for the purpose of enabling such systems to provide services to individuals with traumatic brain injury.
 
     (b) __Services provided__ 
 
@@ -33,13 +33,13 @@
 
     (c) __Application__ 
 
-        To be eligible to receive a grant under this section, a protection and advocacy system shall submit an application to the Administrator at such time, in such form and manner, and accompanied by such information and assurances as the Administrator may require.
+        To be eligible to receive a grant under this section, a protection and advocacy system shall submit an application to the Secretary at such time, in such form and manner, and accompanied by such information and assurances as the Secretary may require.
 
     (d) __Appropriations less than $2,700,000__ 
 
         (1) __In general__ 
 
-            With respect to any fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is less than $2,700,000, the Administrator shall make grants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
+            With respect to any fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is less than $2,700,000, the Secretary shall make grants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
 
         (2) __Amount__ 
 
@@ -49,7 +49,7 @@
 
         (1) __Population basis__ 
 
-            Except as provided in paragraph (2), with respect to each fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is $2,700,000 or more, the Administrator shall make a grant to a protection and advocacy system within each State.
+            Except as provided in paragraph (2), with respect to each fiscal year in which the amount appropriated under subsection (l) of this section to carry out this section is $2,700,000 or more, the Secretary shall make a grant to a protection and advocacy system within each State.
 
         (2) __Amount__ 
 
@@ -65,7 +65,7 @@
 
         (4) __Inflation adjustment__ 
 
-            For each fiscal year in which the total amount appropriated under subsection (l) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Administrator shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (l) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
+            For each fiscal year in which the total amount appropriated under subsection (l) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Secretary shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (l) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
 
     (f) __Carryover__ 
 
@@ -73,21 +73,27 @@
 
     (g) __Direct payment__ 
 
-        Notwithstanding any other provision of law, each fiscal year not later than October 1, the Administrator shall pay directly to any protection and advocacy system that complies with the provisions of this section, the total amount of the grant for such system, unless the system provides otherwise for such payment.
+        Notwithstanding any other provision of law, each fiscal year not later than October 1, the Secretary shall pay directly to any protection and advocacy system that complies with the provisions of this section, the total amount of the grant for such system, unless the system provides otherwise for such payment.
 
-    (h) __Annual report__ 
+    (h) __Reporting__ 
 
-        Each protection and advocacy system that receives a payment under this section shall submit an annual report to the Administrator concerning the services provided to individuals with traumatic brain injury by such system.
+        (1) __Reports by systems__ 
+
+            Each protection and advocacy system that receives a payment under this section shall submit an annual report to the Secretary concerning the services provided to individuals with traumatic brain injury by such system.
+
+        (2) __Report by Secretary__ 
+
+            Not later than 1 year after November 26, 2014, the Secretary shall prepare and submit to the appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
 
     (i) __Data collection__ 
 
-        The Administrator of the Health Resources and Services Administration and the Commissioner of the Administration on Developmental Disabilities shall enter into an agreement to coordinate the collection of data by the Administrator and the Commissioner regarding protection and advocacy services.
+        The Secretary shall facilitate agreements to coordinate the collection of data by agencies within the Department of Health and Human Services regarding protection and advocacy services.
 
     (j) __Training and technical assistance__ 
 
         (1) __Grants__ 
 
-            For any fiscal year for which the amount appropriated to carry out this section is $6,000,000 or greater, the Administrator shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
+            For any fiscal year for which the amount appropriated to carry out this section is $6,000,000 or greater, the Secretary shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
 
         (2) __Definition__ 
 
@@ -95,11 +101,11 @@
 
     (k) __System authority__ 
 
-        In providing services under this section, a protection and advocacy system shall have the same authorities, including access to records, as such system would have for purposes of providing services under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[[42 U.S.C. 15041][/us/usc/t42/s15041] et seq.\].
+        In providing services under this section, a protection and advocacy system shall have the same authorities, including access to records, as such system would have for purposes of providing services under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.).
 
     (l) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2001, and such sums as may be necessary for each  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “of”. </sup></sup>  the fiscal years 2009 through 2012.
+        There are authorized to be appropriated to carry out this section $3,100,000 for each of the fiscal years 2015 through 2019.
 
     (m) __Definitions__ 
 
@@ -107,25 +113,41 @@
 
         (1) __American Indian consortium__ 
 
-            The term “American Indian consortium” means a consortium established under part C of the Developmental Disabilities Assistance  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by “and”. </sup></sup>  Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.). <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup> 
+            The term “American Indian consortium” means a consortium established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.).
 
         (2) __Protection and advocacy system__ 
 
-            The term “protection and advocacy system” means a protection and advocacy system established under part C of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.).4
+            The term “protection and advocacy system” means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.).
 
         (3) __State__ 
 
             The term “State”, unless otherwise specified, means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1253, as added [Pub. L. 106–310, div. A, title XIII, § 1305][/us/pl/106/310/s1305], Oct. 17, 2000, [114 Stat. 1141][/us/stat/114/1141]; amended [Pub. L. 110–206, § 6(b)][/us/pl/110/206/s6/b], Apr. 28, 2008, [122 Stat. 717][/us/stat/122/717].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1253, as added [Pub. L. 106–310, div. A, title XIII, § 1305][/us/pl/106/310/s1305], Oct. 17, 2000, [114 Stat. 1141][/us/stat/114/1141]; amended [Pub. L. 110–206, § 6(b)][/us/pl/110/206/s6/b], Apr. 28, 2008, [122 Stat. 717][/us/stat/122/717]; [Pub. L. 113–196, § 4][/us/pl/113/196/s4], Nov. 26, 2014, [128 Stat. 2053][/us/stat/128/2053].)
 
  __References in Text__ 
 
-    The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (k), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677]. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title][/us/usc/t42/s15001] and Tables.
-
-    The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (m)(1), (2), is title I of [Pub. L. 88–164][/us/pl/88/164], as added by [Pub. L. 98–527, § 2][/us/pl/98/527/s2], Oct. 19, 1984, [98 Stat. 2662][/us/stat/98/2662], which was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]. Part C of the Act was classified generally to subchapter III (§ 6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+    The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (k) and (m)(1), (2), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677]. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title][/us/usc/t42/s15001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–196, § 4(1)][/us/pl/113/196/s4/1], struck out “, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the ‘Administrator’),” after “The Secretary”.
+
+    Subsecs. (c), (d)(1), (e)(1), (4), (g). [Pub. L. 113–196, § 4(2)][/us/pl/113/196/s4/2], substituted “Secretary” for “Administrator” wherever appearing.
+
+    Subsec. (h). [Pub. L. 113–196, § 4(2)][/us/pl/113/196/s4/2], (3), substituted “Reporting” for “Annual report” in heading and “Secretary” for “Administrator” in text, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+
+    Subsec. (i). [Pub. L. 113–196, § 4(4)][/us/pl/113/196/s4/4], substituted “The Secretary shall facilitate agreements to coordinate the collection of data by agencies within the Department of Health and Human Services regarding” for “The Administrator of the Health Resources and Services Administration and the Commissioner of the Administration on Developmental Disabilities shall enter into an agreement to coordinate the collection of data by the Administrator and the Commissioner regarding”.
+
+    Subsec. (j)(1). [Pub. L. 113–196, § 4(2)][/us/pl/113/196/s4/2], substituted “Secretary” for “Administrator”.
+
+    Subsec. (k). [Pub. L. 113–196, § 4(5)][/us/pl/113/196/s4/5], substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000”.
+
+    Subsec. (l). [Pub. L. 113–196, § 4(6)][/us/pl/113/196/s4/6], substituted “$3,100,000 for each of the fiscal years 2015 through 2019” for “$5,000,000 for fiscal year 2001, and such sums as may be necessary for each the fiscal years 2009 through 2012”.
+
+    Subsec. (m)(1). [Pub. L. 113–196, § 4(7)(A)][/us/pl/113/196/s4/7/A], substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “part C of the Developmental Disabilities Assistance Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.)”.
+
+    Subsec. (m)(2). [Pub. L. 113–196, § 4(7)(B)][/us/pl/113/196/s4/7/B], substituted “subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.)” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042] et seq.)”.
 
     2008—Subsecs. (d), (e). [Pub. L. 110–206, § 6(b)(1)][/us/pl/110/206/s6/b/1], substituted “subsection (l)” for “subsection (i)” wherever appearing.
 
@@ -145,21 +167,32 @@
 ----------
 
 [/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
-[/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
-[/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
+[/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
+[/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/106/310/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs1305
 [/us/stat/114/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1141
 [/us/pl/110/206/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb
 [/us/stat/122/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F717
+[/us/pl/113/196/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4
+[/us/stat/128/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2053
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
-[/us/pl/88/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F164
-[/us/pl/98/527/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F527%2Fs2
-[/us/stat/98/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2662
-[/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
-[/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
+[/us/pl/113/196/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F1
+[/us/pl/113/196/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F2
+[/us/pl/113/196/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F2
+[/us/pl/113/196/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F4
+[/us/pl/113/196/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F2
+[/us/pl/113/196/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F5
+[/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
+[/us/pl/113/196/s4/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F6
+[/us/pl/113/196/s4/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F7%2FA
+[/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
+[/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
+[/us/pl/113/196/s4/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs4%2F7%2FB
+[/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
+[/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
 [/us/pl/110/206/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb%2F1
 [/us/pl/110/206/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb%2F2
 [/us/pl/110/206/s6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs6%2Fb%2F4
