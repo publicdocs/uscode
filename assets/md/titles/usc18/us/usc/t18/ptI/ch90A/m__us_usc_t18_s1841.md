@@ -61,7 +61,7 @@
 
  __References in Text__ 
 
-    Section 202 of the Atomic Energy Act of 1954 ([42 U.S.C. 2283][/us/usc/t42/s2283]), referred to in subsec. (b)(3), probably means section 235 of the Atomic Energy Act of 1954, [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, as added by [Pub. L. 96–295, title II, § 202(a)][/us/pl/96/295/s202/a], June 30, 1980, [94 Stat. 786][/us/stat/94/786], which is classified to [section 2283 of Title 42][/us/usc/t42/s2283], The Public Health and Welfare. Section 202 of the Atomic Energy Act of 1954, which related to the authority of the Joint Committee on Atomic Energy, was classified to [section 2252 of Title 42][/us/usc/t42/s2252] and was repealed by [act of Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 302(a), as added [Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], as added Sept. 20, 1977, [Pub. L. 95–110, § 1][/us/pl/95/110/s1], [91 Stat. 884][/us/stat/91/884]; renumbered title I, Oct. 24, 1992, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], [106 Stat. 2944][/us/stat/106/2944].
+    Section 202 of the Atomic Energy Act of 1954 ([42 U.S.C. 2283][/us/usc/t42/s2283]), referred to in subsec. (b)(3), probably means section 235 of the Atomic Energy Act of 1954, [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, as added by [Pub. L. 96–295, title II, § 202(a)][/us/pl/96/295/s202/a], June 30, 1980, [94 Stat. 786][/us/stat/94/786], which is classified to [section 2283 of Title 42][/us/usc/t42/s2283], The Public Health and Welfare. Section 202 of the Atomic Energy Act of 1954, which related to the authority of the Joint Committee on Atomic Energy, was classified to [section 2252 of Title 42][/us/usc/t42/s2252] and was repealed by [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 302(a), as added [Pub. L. 95–110, § 1][/us/pl/95/110/s1], Sept. 20, 1977, [91 Stat. 884][/us/stat/91/884]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944].
 
  __Short Title of 2004 Amendment__ 
 
@@ -87,7 +87,6 @@
 [/us/usc/t42/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2283
 [/us/usc/t42/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2252
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
 [/us/pl/95/110/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F110%2Fs1
 [/us/stat/91/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F884
 [/us/pl/102/486/s902/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fa%2F8

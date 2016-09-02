@@ -15,19 +15,31 @@
 
 ## § 49. Enforcement of animal fighting prohibitions
 
-    Whoever violates subsection (a), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+    (a) __In general__ 
 
-(Added [Pub. L. 110–22, § 2(a)][/us/pl/110/22/s2/a], May 3, 2007, [121 Stat. 88][/us/stat/121/88]; amended [Pub. L. 110–234, title XIV, § 14207(b)][/us/pl/110/234/s14207/b], May 22, 2008, [122 Stat. 1462][/us/stat/122/1462]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14207(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2224.)
+        Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+
+    (b) __Attending an animal fighting venture__ 
+
+        Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act ([7 U.S.C. 2156][/us/usc/t7/s2156]) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
+
+    (c) __Causing an individual who has not attained the age of 16 to attend an animal fighting venture__ 
+
+        Whoever violates subsection (a)(2)(B) of section 26 ([7 U.S.C. 2156][/us/usc/t7/s2156]) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
+
+(Added [Pub. L. 110–22, § 2(a)][/us/pl/110/22/s2/a], May 3, 2007, [121 Stat. 88][/us/stat/121/88]; amended [Pub. L. 110–234, title XIV, § 14207(b)][/us/pl/110/234/s14207/b], May 22, 2008, [122 Stat. 1462][/us/stat/122/1462]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14207(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2224; [Pub. L. 113–79, title XII, § 12308(b)(2)][/us/pl/113/79/s12308/b/2], Feb. 7, 2014, [128 Stat. 991][/us/stat/128/991].)
 
  __References in Text__ 
 
-    Section 26(a)–(c), (e) of the Animal Welfare Act, referred to in text, is section 2156(a)–(c), (e) of Title 7, Agriculture.
+    Section 26 of the Animal Welfare Act, referred to in text, is [section 2156 of Title 7][/us/usc/t7/s2156], Agriculture.
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–79][/us/pl/113/79] designated existing provisions as subsec. (a) and inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c).
 
     2008—[Pub. L. 110–246, § 14207(b)][/us/pl/110/246/s14207/b], substituted “5 years” for “3 years”.
 
@@ -42,16 +54,22 @@
 ----------
 ----------
 
+[/us/usc/t7/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2156
+[/us/usc/t7/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2156
 [/us/pl/110/22/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F22%2Fs2%2Fa
 [/us/stat/121/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F88
 [/us/pl/110/234/s14207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs14207%2Fb
 [/us/stat/122/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1462
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s12308/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12308%2Fb%2F2
+[/us/stat/128/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F991
+[/us/usc/t7/s2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2156
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s14207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14207%2Fb
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

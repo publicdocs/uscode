@@ -65,7 +65,7 @@
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in par. (1)(a), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 921][/us/stat/68/921], and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in par. (1)(a), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
     The Arms Export Control Act, referred to in par. (1)(k), is [Pub. L. 90–269][/us/pl/90/269], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22][/us/usc/t22/s2751] and Tables.
 
@@ -352,7 +352,7 @@
 [/us/stat/126/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1429
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
-[/us/stat/68/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F921
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/90/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F269
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320

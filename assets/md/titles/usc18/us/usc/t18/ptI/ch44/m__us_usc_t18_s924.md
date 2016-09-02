@@ -269,7 +269,7 @@
 
  __Amendment of Section__ 
 
-    [Pub. L. 100–649, § 2(f)(2)(B)][/us/pl/100/649/s2/f/2/B], (D), Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 101–647, title XXXV, § 3526(b)][/us/pl/101/647/s3526/b], Nov. 29, 1990, [104 Stat. 4924][/us/stat/104/4924]; [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174, § 1][/us/pl/108/174/s1], Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481], provided that, effective 25 years after the 30th day beginning after Nov. 10, 1988, subsection (a)(1) of this section is amended by striking “this subsection, subsection (b), (c), or (f) of this section, or in section 929” and inserting “this chapter”, subsection (f) of this section is repealed, and subsections (g) through (o) of this section are redesignated as subsections (f) through (n), respectively, of this section.
+    [Pub. L. 100–649, § 2(f)(2)(B)][/us/pl/100/649/s2/f/2/B], (D), Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 101–647, title XXXV, § 3526(b)][/us/pl/101/647/s3526/b], Nov. 29, 1990, [104 Stat. 4924][/us/stat/104/4924]; [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174, § 1][/us/pl/108/174/s1], Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481]; [Pub. L. 113–57, § 1][/us/pl/113/57/s1], Dec. 9, 2013, [127 Stat. 656][/us/stat/127/656], provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a)(1) of this section is amended by striking “this subsection, subsection (b), (c), or (f) of this section, or in section 929” and inserting “this chapter”, subsection (f) of this section is repealed, and subsections (g) through (o) of this section are redesignated as subsections (f) through (n), respectively, of this section.
 
  __References in Text__ 
 
@@ -487,7 +487,7 @@
 
  __Effective Date of 1988 Amendment; Sunset Provision__ 
 
-    Amendment by [section 2(b) of Pub. L. 100–649][/us/pl/100/649/s2/b] effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(B), (D) effective 25 years after such effective date, see [section 2(f) of Pub. L. 100–649][/us/pl/100/649/s2/f], as amended, set out as a note under [section 922 of this title][/us/usc/t18/s922].
+    Amendment by [section 2(b) of Pub. L. 100–649][/us/pl/100/649/s2/b] effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(B), (D) effective 35 years after such effective date, see [section 2(f) of Pub. L. 100–649][/us/pl/100/649/s2/f], as amended, set out as a note under [section 922 of this title][/us/usc/t18/s922].
 
  __Effective Date of 1986 Amendment__ 
 
@@ -569,6 +569,8 @@
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/108/174/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174%2Fs1
 [/us/stat/117/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2481
+[/us/pl/113/57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F57%2Fs1
+[/us/stat/127/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F656
 [/us/usc/t26/s5845/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5845%2Fa
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

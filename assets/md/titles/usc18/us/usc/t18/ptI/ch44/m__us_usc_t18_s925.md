@@ -59,7 +59,7 @@
 
  __Amendment of Section__ 
 
-    [Pub. L. 100–649, § 2(f)(2)(C)][/us/pl/100/649/s2/f/2/C], (E), Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174, § 1(1)][/us/pl/108/174/s1/1], (3), Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481], provided that, effective 25 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.
+    [Pub. L. 100–649, § 2(f)(2)(C)][/us/pl/100/649/s2/f/2/C], (E), Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174, § 1(1)][/us/pl/108/174/s1/1], (3), Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481]; [Pub. L. 113–57, § 1][/us/pl/113/57/s1], Dec. 9, 2013, [127 Stat. 656][/us/stat/127/656], provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.
 
  __References in Text__ 
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 1988 Amendment; Sunset Provision__ 
 
-    Amendment by [section 2(c) of Pub. L. 100–649][/us/pl/100/649/s2/c] effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective 25 years after such effective date, see [section 2(f) of Pub. L. 100–649][/us/pl/100/649/s2/f], as amended, set out as a note under [section 922 of this title][/us/usc/t18/s922].
+    Amendment by [section 2(c) of Pub. L. 100–649][/us/pl/100/649/s2/c] effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective 35 years after such effective date, see [section 2(f) of Pub. L. 100–649][/us/pl/100/649/s2/f], as amended, set out as a note under [section 922 of this title][/us/usc/t18/s922].
 
  __Effective Date of 1986 Amendment__ 
 
@@ -169,6 +169,8 @@
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/108/174/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174%2Fs1%2F1
 [/us/stat/117/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2481
+[/us/pl/113/57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F57%2Fs1
+[/us/stat/127/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F656
 [/us/usc/t10/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4308
 [/us/usc/t10/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4308
 [/us/pl/104/106/s1624/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1624%2Fa%2F1
