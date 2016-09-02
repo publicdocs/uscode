@@ -197,7 +197,7 @@ Source section (U.S. Code)  </td>
 
     The date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, referred to in subsec. (f)(3), is the date of enactment of [Pub. L. 113–281][/us/pl/113/281], which was approved Dec. 18, 2014.
 
-    Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to [section 2405(j) of Title 50][/us/usc/t50/s2405/j], Appendix, War and National Defense.
+    Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to [section 4605(j) of Title 50][/us/usc/t50/s4605/j], War and National Defense.
 
     The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
@@ -270,7 +270,7 @@ Source section (U.S. Code)  </td>
 [/us/pl/113/281/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs315
 [/us/stat/128/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3050
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
-[/us/usc/t50/s2405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

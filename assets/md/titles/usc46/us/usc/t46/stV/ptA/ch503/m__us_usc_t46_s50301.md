@@ -21,7 +21,7 @@
 
     (b)  __Relationship to Other Laws__  __.—__ 
 
-    Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
+    Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
 
     (c)  __Advancements__  __.—__ 
 
@@ -227,6 +227,10 @@ Aug. 1, 1956, ch. 846, 70 Stat. 897; Pub. L. 97–31, § 12(130), Aug. 6, 1981
 
     In subsection (g), the words “beginning July 1, 1956” and “after July 1, 1956” are omitted as obsolete.
 
+ __References in Text__ 
+
+    Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), referred to in subsec. (b), are sections 1(a) and (c), 3(c), and 4 of [act Mar. 24, 1943, ch. 26][/us/act/1943-03-24/ch26], [57 Stat. 45][/us/stat/57/45], 47, 49, 51, which were formerly classified to sections 1291(a), (c), 1293(c), and 1294 of the former Appendix to Title 50, War and National Defense, and have been omitted from the Code.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t46/stV/ptA/ch503/m__us_usc_t46_stV_ptA_ch503.md) | [Next](./../../../../../..//us/usc/t46/stV/ptA/ch503/m__us_usc_t46_s50302.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50301)
@@ -239,5 +243,7 @@ Aug. 1, 1956, ch. 846, 70 Stat. 897; Pub. L. 97–31, § 12(130), Aug. 6, 1981
 [/us/stat/120/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1562
 [/us/stat/65/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F59
 [/us/stat/70/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F319
+[/us/act/1943-03-24/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-24%2Fch26
+[/us/stat/57/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F45
 
 
