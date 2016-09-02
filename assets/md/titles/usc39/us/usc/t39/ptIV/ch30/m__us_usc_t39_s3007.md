@@ -45,7 +45,7 @@
 
     (c) This section does not apply to mail addressed to publishers of newspapers and other periodical publications entitled to a periodical publication rate or to mail addressed to the agents of those publishers.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 747][/us/stat/84/747]; [Pub. L. 106–168, title I, § 105(a)][/us/pl/106/168/s105/a], Dec. 12, 1999, [113 Stat. 1810][/us/stat/113/1810].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 747][/us/stat/84/747]; [Pub. L. 106–168, title I][/us/pl/106/168/tI], § 105(a), Dec. 12, 1999, [113 Stat. 1810][/us/stat/113/1810].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F747
-[/us/pl/106/168/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs105%2Fa
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1810
 [/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
 [/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168

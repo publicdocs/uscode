@@ -67,7 +67,7 @@
 
         (2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 759][/us/stat/84/759], § 3604; [Pub. L. 94–421, § 4][/us/pl/94/421/s4], Sept. 24, 1976, [90 Stat. 1305][/us/stat/90/1305]; renumbered § 504 and amended [Pub. L. 109–435, title VI][/us/pl/109/435], §§ 601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, [120 Stat. 3239–3242][/us/stat/120/3239-3242].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 759][/us/stat/84/759], § 3604; [Pub. L. 94–421][/us/pl/94/421], § 4, Sept. 24, 1976, [90 Stat. 1305][/us/stat/90/1305]; renumbered § 504 and amended [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], §§ 601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, [120 Stat. 3239–3242][/us/stat/120/3239-3242].)
 
  __References in Text__ 
 
@@ -77,15 +77,15 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, § 601(a)(3)][/us/pl/109/435/s601/a/3], renumbered [section 3604 of this title][/us/usc/t39/s3604] as this section.
+    2006—[Pub. L. 109–435][/us/pl/109/435], § 601(a)(3), renumbered [section 3604 of this title][/us/usc/t39/s3604] as this section.
 
-    Subsec. (a). [Pub. L. 109–435, § 604(a)][/us/pl/109/435/s604/a], substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+    Subsec. (a). [Pub. L. 109–435][/us/pl/109/435], § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-    Subsec. (d). [Pub. L. 109–435, § 603(a)][/us/pl/109/435/s603/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) related to preparation, submission, and approval of Commission’s budget and payment of expenses incurred under approved budget.
+    Subsec. (d). [Pub. L. 109–435][/us/pl/109/435], § 603(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to preparation, submission, and approval of Commission’s budget and payment of expenses incurred under approved budget.
 
-    Subsecs. (f), (g). [Pub. L. 109–435, § 602][/us/pl/109/435/s602], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 109–435][/us/pl/109/435], § 602, added subsecs. (f) and (g).
 
-    Subsec. (h). [Pub. L. 109–435, § 605(b)][/us/pl/109/435/s605/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–435][/us/pl/109/435], § 605(b), added subsec. (h).
 
     1976—Subsec. (a). [Pub. L. 94–421][/us/pl/94/421] increased the authority of the Chairman to the exercise of all executive and administrative functions, including appointment of personnel and control over use and expenditure of funds, and struck out requirement that all final acts of the Commissioners be by a vote of an absolute majority.
 
@@ -133,18 +133,18 @@ NOW THEREFORE, by virtue of the authority vested in me by [section 301 of Title 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F759
-[/us/pl/94/421/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs4
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1305
-[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3239-3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3239-3242
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/109/435/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs601%2Fa%2F3
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/usc/t39/s3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3604
-[/us/pl/109/435/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fa
-[/us/pl/109/435/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs603%2Fa
-[/us/pl/109/435/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs602
-[/us/pl/109/435/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs605%2Fb
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421

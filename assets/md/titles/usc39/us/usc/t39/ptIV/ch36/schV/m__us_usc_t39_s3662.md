@@ -47,11 +47,11 @@
 
     In addition, in cases of deliberate noncompliance by the Postal Service with the requirements of this title, the Postal Regulatory Commission may order, based on the nature, circumstances, extent, and seriousness of the noncompliance, a fine (in the amount specified by the Commission in its order) for each incidence of noncompliance. Fines resulting from the provision of competitive products shall be paid from the Competitive Products Fund established in section 2011. All receipts from fines imposed under this subsection shall be deposited in the general fund of the Treasury of the United States.
 
-(Added [Pub. L. 109–435, title II, § 205][/us/pl/109/435/s205], Dec. 20, 2006, [120 Stat. 3216][/us/stat/120/3216].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 205, Dec. 20, 2006, [120 Stat. 3216][/us/stat/120/3216].)
 
  __Prior Provisions__ 
 
-    A prior section 3662, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 764][/us/stat/84/764], related to rate and service complaints, prior to repeal by [Pub. L. 109–435, title II, § 205][/us/pl/109/435/s205], Dec. 20, 2006, [120 Stat. 3216][/us/stat/120/3216].
+    A prior section 3662, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 764][/us/stat/84/764], related to rate and service complaints, prior to repeal by [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 205, Dec. 20, 2006, [120 Stat. 3216][/us/stat/120/3216].
 
 ----------
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/109/435/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs205
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3216
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F764
-[/us/pl/109/435/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs205
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3216
 
 

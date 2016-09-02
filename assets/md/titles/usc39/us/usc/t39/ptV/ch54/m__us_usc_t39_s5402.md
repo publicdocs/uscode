@@ -565,7 +565,7 @@
 
     (s) Notwithstanding any other provision of law, and except for written contracts authorized under subsections (b), (c) and (d), tender by the Postal Service of any category of mail to a carrier for transportation between any two points in the State of Alaska shall not give rise to any contract between the Postal Service and a carrier, nor shall any such carrier acquire any right in continued or future tender of such mail by virtue of past or present receipt of such mail. This subsection shall apply to any case commenced before, on, or after the date of enactment of this subsection.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 772][/us/stat/84/772]; [Pub. L. 98–443, § 9(g)(4)][/us/pl/98/443/s9/g/4], Oct. 4, 1984, [98 Stat. 1707][/us/stat/98/1707]; [Pub. L. 100–238, title I, § 137][/us/pl/100/238/s137], Jan. 8, 1988, [101 Stat. 1767][/us/stat/101/1767]; [Pub. L. 103–272, § 4(g)(2)][/us/pl/103/272/s4/g/2], July 5, 1994, [108 Stat. 1364][/us/stat/108/1364]; [Pub. L. 103–429, § 5][/us/pl/103/429/s5], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 104–52, title VI, § 631(a)][/us/pl/104/52/s631/a], Nov. 19, 1995, [109 Stat. 505][/us/stat/109/505]; [Pub. L. 107–67, title VI, § 651][/us/pl/107/67/s651], Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557]; [Pub. L. 107–171, title X, § 10501][/us/pl/107/171/s10501], May 13, 2002, [116 Stat. 509][/us/stat/116/509]; [Pub. L. 107–206, title III, § 3002(c)][/us/pl/107/206/s3002/c], (e)(1), Aug. 2, 2002, [116 Stat. 911][/us/stat/116/911], 924; [Pub. L. 108–447, div. J, title III, § 301(c)][/us/pl/108/447/s301/c]–(f), Dec. 8, 2004, [118 Stat. 3350][/us/stat/118/3350], 3351; [Pub. L. 109–435, title X][/us/pl/109/435], §§ 1002(b)(2), 1005(a)–(g), Dec. 20, 2006, [120 Stat. 3255–3258][/us/stat/120/3255-3258]; [Pub. L. 110–405, § 2(a)][/us/pl/110/405/s2/a], (b)(11), Oct. 13, 2008, [122 Stat. 4287][/us/stat/122/4287], 4290.)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 772][/us/stat/84/772]; [Pub. L. 98–443][/us/pl/98/443], § 9(g)(4), Oct. 4, 1984, [98 Stat. 1707][/us/stat/98/1707]; [Pub. L. 100–238, title I][/us/pl/100/238/tI], § 137, Jan. 8, 1988, [101 Stat. 1767][/us/stat/101/1767]; [Pub. L. 103–272][/us/pl/103/272], § 4(g)(2), July 5, 1994, [108 Stat. 1364][/us/stat/108/1364]; [Pub. L. 103–429][/us/pl/103/429], § 5, Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 631(a), Nov. 19, 1995, [109 Stat. 505][/us/stat/109/505]; [Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 651, Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10501, May 13, 2002, [116 Stat. 509][/us/stat/116/509]; [Pub. L. 107–206, title III][/us/pl/107/206/tIII], § 3002(c), (e)(1), Aug. 2, 2002, [116 Stat. 911][/us/stat/116/911], 924; [Pub. L. 108–447, div. J, title III][/us/pl/108/447/dJ/tIII], § 301(c)–(f), Dec. 8, 2004, [118 Stat. 3350][/us/stat/118/3350], 3351; [Pub. L. 109–435, title X][/us/pl/109/435/tX], §§ 1002(b)(2), 1005(a)–(g), Dec. 20, 2006, [120 Stat. 3255–3258][/us/stat/120/3255-3258]; [Pub. L. 110–405][/us/pl/110/405], § 2(a), (b)(11), Oct. 13, 2008, [122 Stat. 4287][/us/stat/122/4287], 4290.)
 
  __References in Text__ 
 
@@ -577,51 +577,51 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–405, § 2(b)(11)(D)][/us/pl/110/405/s2/b/11/D], which directed the insertion of “foreign air carrier,” after “terms”, was executed by making the insertion after first reference to “terms” to reflect the probable intent of Congress.
+    2008—Subsec. (a)(2). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(11)(D), which directed the insertion of “foreign air carrier,” after “terms”, was executed by making the insertion after first reference to “terms” to reflect the probable intent of Congress.
 
-    [Pub. L. 110–405, § 2(b)(11)(A)][/us/pl/110/405/s2/b/11/A], inserted “ ‘foreign air carrier’.” after “ ‘interstate air transportation’,”
+    [Pub. L. 110–405][/us/pl/110/405], § 2(b)(11)(A), inserted “ ‘foreign air carrier’.” after “ ‘interstate air transportation’,”
 
-    Subsec. (a)(7), (8). [Pub. L. 110–405, § 2(b)(11)(B)][/us/pl/110/405/s2/b/11/B], added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
+    Subsec. (a)(7), (8). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(11)(B), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
 
-    Subsec. (a)(9) to (24). [Pub. L. 110–405, § 2(b)(11)(C)][/us/pl/110/405/s2/b/11/C], added par. (9) and redesignated former pars. (9) to (23) as (10) to (24), respectively. Former par. (24) redesignated (25).
+    Subsec. (a)(9) to (24). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(11)(C), added par. (9) and redesignated former pars. (9) to (23) as (10) to (24), respectively. Former par. (24) redesignated (25).
 
-    [Pub. L. 110–405, § 2(b)(11)(B)][/us/pl/110/405/s2/b/11/B], redesignated pars. (8) to (23) as (9) to (24), respectively.
+    [Pub. L. 110–405][/us/pl/110/405], § 2(b)(11)(B), redesignated pars. (8) to (23) as (9) to (24), respectively.
 
-    Subsec. (a)(25). [Pub. L. 110–405, § 2(b)(11)(C)][/us/pl/110/405/s2/b/11/C], redesignated par. (24) as (25).
+    Subsec. (a)(25). [Pub. L. 110–405][/us/pl/110/405], § 2(b)(11)(C), redesignated par. (24) as (25).
 
-    Subsecs. (b), (c). [Pub. L. 110–405, § 2(a)][/us/pl/110/405/s2/a], added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to contracts with certificated air carriers without advertising for bids for transportation of mail between points in foreign air transportation authorized by Secretary and contracts with air carriers for transportation of mail between points in foreign air transportation not authorized by Secretary, respectively.
+    Subsecs. (b), (c). [Pub. L. 110–405][/us/pl/110/405], § 2(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to contracts with certificated air carriers without advertising for bids for transportation of mail between points in foreign air transportation authorized by Secretary and contracts with air carriers for transportation of mail between points in foreign air transportation not authorized by Secretary, respectively.
 
-    2006—Subsec. (a)(4), (5). [Pub. L. 109–435, § 1005(a)(1)][/us/pl/109/435/s1005/a/1], (2), substituted “subsection (g)(1)(A)(iv)(I)” for “subsection (g)(1)(D)(i)”.
+    2006—Subsec. (a)(4), (5). [Pub. L. 109–435][/us/pl/109/435], § 1005(a)(1), (2), substituted “subsection (g)(1)(A)(iv)(I)” for “subsection (g)(1)(D)(i)”.
 
-    Subsec. (a)(8)(A). [Pub. L. 109–435, § 1005(a)(3)][/us/pl/109/435/s1005/a/3], substituted “linehaul rates and a single terminal handling payment at a bush terminal handling rate paid to a bush carrier” for “rates paid to a bush carrier”.
+    Subsec. (a)(8)(A). [Pub. L. 109–435][/us/pl/109/435], § 1005(a)(3), substituted “linehaul rates and a single terminal handling payment at a bush terminal handling rate paid to a bush carrier” for “rates paid to a bush carrier”.
 
-    Subsec. (a)(11). [Pub. L. 109–435, § 1005(a)(4)][/us/pl/109/435/s1005/a/4], substituted “subsection (g)(1)(A)(iv)(II)” for “subsection (g)(1)(D)(ii)”.
+    Subsec. (a)(11). [Pub. L. 109–435][/us/pl/109/435], § 1005(a)(4), substituted “subsection (g)(1)(A)(iv)(II)” for “subsection (g)(1)(D)(ii)”.
 
-    Subsec. (a)(13). [Pub. L. 109–435, § 1005(a)(5)][/us/pl/109/435/s1005/a/5], substituted “subclause (I) or (II) of subsection (g)(1)(A)(iv)” for “clause (i) or (ii) of subsection (g)(1)(D)” in subpar. (A) and added subpar. (C).
+    Subsec. (a)(13). [Pub. L. 109–435][/us/pl/109/435], § 1005(a)(5), substituted “subclause (I) or (II) of subsection (g)(1)(A)(iv)” for “clause (i) or (ii) of subsection (g)(1)(D)” in subpar. (A) and added subpar. (C).
 
-    Subsec. (d). [Pub. L. 109–435, § 1002(b)(2)][/us/pl/109/435/s1002/b/2], struck out “for a period of not more than 4 years” after “may contract”.
+    Subsec. (d). [Pub. L. 109–435][/us/pl/109/435], § 1002(b)(2), struck out “for a period of not more than 4 years” after “may contract”.
 
-    Subsec. (g)(3)(C). [Pub. L. 109–435, § 1005(b)(1)][/us/pl/109/435/s1005/b/1], added subpar. (C).
+    Subsec. (g)(3)(C). [Pub. L. 109–435][/us/pl/109/435], § 1005(b)(1), added subpar. (C).
 
-    Subsec. (g)(5)(A)(i). [Pub. L. 109–435, § 1005(b)(2)][/us/pl/109/435/s1005/b/2], substituted “subsection (g)(1)(A)(iv)(II)” for “subsection (g)(1)(D)(ii)”.
+    Subsec. (g)(5)(A)(i). [Pub. L. 109–435][/us/pl/109/435], § 1005(b)(2), substituted “subsection (g)(1)(A)(iv)(II)” for “subsection (g)(1)(D)(ii)”.
 
-    Subsec. (h)(1). [Pub. L. 109–435, § 1005(c)(1)][/us/pl/109/435/s1005/c/1], inserted “bush” after “providing scheduled”.
+    Subsec. (h)(1). [Pub. L. 109–435][/us/pl/109/435], § 1005(c)(1), inserted “bush” after “providing scheduled”.
 
-    Subsec. (h)(3). [Pub. L. 109–435, § 1005(c)(2)][/us/pl/109/435/s1005/c/2], added par. (3) and struck out former par. (3) which related to conversion requirement for a 135 passenger carrier providing service on a city pair route in the State of Alaska to remain eligible for equitable tender of nonpriority bypass mail on the route when a 121 passenger carrier becomes qualified to be tendered nonpriority bypass mail on the route.
+    Subsec. (h)(3). [Pub. L. 109–435][/us/pl/109/435], § 1005(c)(2), added par. (3) and struck out former par. (3) which related to conversion requirement for a 135 passenger carrier providing service on a city pair route in the State of Alaska to remain eligible for equitable tender of nonpriority bypass mail on the route when a 121 passenger carrier becomes qualified to be tendered nonpriority bypass mail on the route.
 
-    Subsec. (h)(5)(A). [Pub. L. 109–435, § 1005(c)(3)][/us/pl/109/435/s1005/c/3], struck out cl. (i) designation before “In this section” and cl. (ii) which related to requirement to ensure accurate reporting of market share by requiring the Postal Service to make certain comparisons.
+    Subsec. (h)(5)(A). [Pub. L. 109–435][/us/pl/109/435], § 1005(c)(3), struck out cl. (i) designation before “In this section” and cl. (ii) which related to requirement to ensure accurate reporting of market share by requiring the Postal Service to make certain comparisons.
 
-    Subsec. (i)(6). [Pub. L. 109–435, § 1005(d)][/us/pl/109/435/s1005/d], struck out subpar. (A) designation before “In this subsection” and subpar. (B) which related to requirement to ensure accurate reporting of market share by requiring the Postal Service to make certain comparisons.
+    Subsec. (i)(6). [Pub. L. 109–435][/us/pl/109/435], § 1005(d), struck out subpar. (A) designation before “In this subsection” and subpar. (B) which related to requirement to ensure accurate reporting of market share by requiring the Postal Service to make certain comparisons.
 
-    Subsec. (j)(3)(B). [Pub. L. 109–435, § 1005(e)][/us/pl/109/435/s1005/e], substituted “routes served exclusively by bush carriers in the State of Alaska” for “bush routes in the State of Alaska”.
+    Subsec. (j)(3)(B). [Pub. L. 109–435][/us/pl/109/435], § 1005(e), substituted “routes served exclusively by bush carriers in the State of Alaska” for “bush routes in the State of Alaska”.
 
-    Subsec. (k)(5). [Pub. L. 109–435, § 1005(f)][/us/pl/109/435/s1005/f], struck out par. (5) which read as follows: “Not later than 30 days after the last day of each calendar month, carriers qualified or attempting to be qualified to be tendered nonpriority bypass mail shall report to the Secretary the excise taxes paid by city pair to the Department of the Treasury and the weight of and revenue earned by the carriage of nonmail freight. Final compiled data shall be made available to carriers providing service in the hub.”
+    Subsec. (k)(5). [Pub. L. 109–435][/us/pl/109/435], § 1005(f), struck out par. (5) which read as follows: “Not later than 30 days after the last day of each calendar month, carriers qualified or attempting to be qualified to be tendered nonpriority bypass mail shall report to the Secretary the excise taxes paid by city pair to the Department of the Treasury and the weight of and revenue earned by the carriage of nonmail freight. Final compiled data shall be made available to carriers providing service in the hub.”
 
-    Subsec. (p)(3). [Pub. L. 109–435, § 1005(g)][/us/pl/109/435/s1005/g], substituted “subsection (g)(1)(A)(iv)” for “subsection (g)(1)(D)”.
+    Subsec. (p)(3). [Pub. L. 109–435][/us/pl/109/435], § 1005(g), substituted “subsection (g)(1)(A)(iv)” for “subsection (g)(1)(D)”.
 
-    2004—Subsec. (a)(10)(C). [Pub. L. 108–447, § 301(c)][/us/pl/108/447/s301/c], added subpar. (C) and struck out former subpar. (C) which read as follows: “actually engaged in the carriage of mainline nonpriority bypass mail through scheduled service in the State of Alaska;”.
+    2004—Subsec. (a)(10)(C). [Pub. L. 108–447][/us/pl/108/447], § 301(c), added subpar. (C) and struck out former subpar. (C) which read as follows: “actually engaged in the carriage of mainline nonpriority bypass mail through scheduled service in the State of Alaska;”.
 
-    Subsec. (g)(1). [Pub. L. 108–447, § 301(d)][/us/pl/108/447/s301/d], added par. (1) and struck out former par. (1) which read as follows: “The Postal Service, in selecting carriers of non-priority bypass mail to any point served by more than one carrier in the State of Alaska, shall adhere to an equitable tender policy within a qualified group of carriers, in accordance with the regulations of the Postal Service, and shall, at a minimum, require that any such carrier shall—
+    Subsec. (g)(1). [Pub. L. 108–447][/us/pl/108/447], § 301(d), added par. (1) and struck out former par. (1) which read as follows: “The Postal Service, in selecting carriers of non-priority bypass mail to any point served by more than one carrier in the State of Alaska, shall adhere to an equitable tender policy within a qualified group of carriers, in accordance with the regulations of the Postal Service, and shall, at a minimum, require that any such carrier shall—
 
     “(A) hold a certificate of public convenience and necessity issued under [section 41102(a) of title 49][/us/usc/t49/s41102/a];
 
@@ -635,67 +635,67 @@
 
     “(ii) over 7,500 pounds payload capacity before being selected as a carrier of nonpriority bypass mail at the intra-Alaska mainline service mail rate.”
 
-    Subsec. (g)(4)(C). [Pub. L. 108–447, § 301(e)][/us/pl/108/447/s301/e], added subpar. (C).
+    Subsec. (g)(4)(C). [Pub. L. 108–447][/us/pl/108/447], § 301(e), added subpar. (C).
 
-    Subsec. (g)(7). [Pub. L. 108–447, § 301(f)][/us/pl/108/447/s301/f], added par. (7).
+    Subsec. (g)(7). [Pub. L. 108–447][/us/pl/108/447], § 301(f), added par. (7).
 
-    2002—Subsec. (a). [Pub. L. 107–206, § 3002(c)(1)(C)][/us/pl/107/206/s3002/c/1/C], added subsec. (a). Former subsec. (a) redesignated (b).
+    2002—Subsec. (a). [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(1)(C), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsecs. (b), (c). [Pub. L. 107–206, § 3002(e)(1)(A)][/us/pl/107/206/s3002/e/1/A], substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 107–206][/us/pl/107/206], § 3002(e)(1)(A), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
 
-    [Pub. L. 107–206, § 3002(c)(1)(B)][/us/pl/107/206/s3002/c/1/B], redesignated subsecs. (a) and (b) as (b) and (c), respectively. Former subsec. (c) redesignated (d).
+    [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(1)(B), redesignated subsecs. (a) and (b) as (b) and (c), respectively. Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 107–206, § 3002(e)(1)(A)][/us/pl/107/206/s3002/e/1/A], substituted “Secretary” for “Secretary of Transportation”.
+    Subsec. (d). [Pub. L. 107–206][/us/pl/107/206], § 3002(e)(1)(A), substituted “Secretary” for “Secretary of Transportation”.
 
-    [Pub. L. 107–206, § 3002(c)(1)(B)][/us/pl/107/206/s3002/c/1/B], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(1)(B), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(2)(A). [Pub. L. 107–171, § 10501(1)][/us/pl/107/171/s10501/1], inserted “, honeybees,” after “poultry”.
+    Subsec. (d)(2)(A). [Pub. L. 107–171][/us/pl/107/171], § 10501(1), inserted “, honeybees,” after “poultry”.
 
-    Subsec. (d)(2)(C). [Pub. L. 107–171, § 10501(2)][/us/pl/107/171/s10501/2], struck out subpar. (C) which read as follows: “The authority of the Postal Service under subparagraph (B) shall apply during the period beginning on November 12, 2001, and ending June 30, 2002.”
+    Subsec. (d)(2)(C). [Pub. L. 107–171][/us/pl/107/171], § 10501(2), struck out subpar. (C) which read as follows: “The authority of the Postal Service under subparagraph (B) shall apply during the period beginning on November 12, 2001, and ending June 30, 2002.”
 
-    [Pub. L. 107–206, § 3002(c)(1)(A)][/us/pl/107/206/s3002/c/1/A], (B), redesignated subsec. (d) as (e) and struck out former subsec. (e) which read as follows: “For purposes of this section, the terms ‘air carrier’, ‘interstate air transportation’, and ‘foreign air transportation’ have the meanings given such terms in [section 40102(a) of title 49][/us/usc/t49/s40102/a].”
+    [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(1)(A), (B), redesignated subsec. (d) as (e) and struck out former subsec. (e) which read as follows: “For purposes of this section, the terms ‘air carrier’, ‘interstate air transportation’, and ‘foreign air transportation’ have the meanings given such terms in [section 40102(a) of title 49][/us/usc/t49/s40102/a].”
 
-    Subsec. (f). [Pub. L. 107–206, § 3002(e)(1)][/us/pl/107/206/s3002/e/1], substituted “Secretary” for “Secretary of Transportation”, “subsections (b), (c), and (d)” for “subsections (a), (b), and (c)”, and “subsection (e)” for “subsection (d)”.
+    Subsec. (f). [Pub. L. 107–206][/us/pl/107/206], § 3002(e)(1), substituted “Secretary” for “Secretary of Transportation”, “subsections (b), (c), and (d)” for “subsections (a), (b), and (c)”, and “subsection (e)” for “subsection (d)”.
 
-    Subsec. (g)(1). [Pub. L. 107–206, § 3002(c)(2)(A)][/us/pl/107/206/s3002/c/2/A], inserted “shall adhere to an equitable tender policy within a qualified group of carriers, in accordance with the regulations of the Postal Service, and” after “in the State of Alaska,” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(2)(A), inserted “shall adhere to an equitable tender policy within a qualified group of carriers, in accordance with the regulations of the Postal Service, and” after “in the State of Alaska,” in introductory provisions.
 
-    Subsec. (g)(1)(C). [Pub. L. 107–206, § 3002(c)(2)(B)][/us/pl/107/206/s3002/c/2/B], struck out “to the best of the abilities of such carrier” before semicolon.
+    Subsec. (g)(1)(C). [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(2)(B), struck out “to the best of the abilities of such carrier” before semicolon.
 
-    Subsec. (g)(1)(D). [Pub. L. 107–206, § 3002(c)(2)(C)][/us/pl/107/206/s3002/c/2/C], inserted “with at least 3 scheduled (noncontract) flights per week between two points” after “scheduled service” in introductory provisions.
+    Subsec. (g)(1)(D). [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(2)(C), inserted “with at least 3 scheduled (noncontract) flights per week between two points” after “scheduled service” in introductory provisions.
 
-    Subsec. (g)(2). [Pub. L. 107–206, § 3002(c)(3)][/us/pl/107/206/s3002/c/3], added subpars. (C) to (G) and concluding provisions.
+    Subsec. (g)(2). [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(3), added subpars. (C) to (G) and concluding provisions.
 
-    Subsec. (g)(4) to (6). [Pub. L. 107–206, § 3002(c)(4)][/us/pl/107/206/s3002/c/4], added pars. (4) to (6).
+    Subsec. (g)(4) to (6). [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(4), added pars. (4) to (6).
 
-    Subsecs. (h) to (s). [Pub. L. 107–206, § 3002(c)(5)][/us/pl/107/206/s3002/c/5], added subsecs. (h) to (s).
+    Subsecs. (h) to (s). [Pub. L. 107–206][/us/pl/107/206], § 3002(c)(5), added subsecs. (h) to (s).
 
     2001—Subsec. (d). [Pub. L. 107–67][/us/pl/107/67] designated existing provisions as par. (1) and added par. (2).
 
-    1995—Subsec. (f). [Pub. L. 104–52, § 631(a)(1)][/us/pl/104/52/s631/a/1], substituted “The” for “During the period beginning January 1, 1985, and ending January 1, 1999, the”.
+    1995—Subsec. (f). [Pub. L. 104–52][/us/pl/104/52], § 631(a)(1), substituted “The” for “During the period beginning January 1, 1985, and ending January 1, 1999, the”.
 
-    Subsec. (g)(1)(D). [Pub. L. 104–52, § 631(a)(2)][/us/pl/104/52/s631/a/2], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “have provided scheduled service within the State of Alaska for at least 12 months before being selected as a carrier of non-priority bypass mail.”
+    Subsec. (g)(1)(D). [Pub. L. 104–52][/us/pl/104/52], § 631(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “have provided scheduled service within the State of Alaska for at least 12 months before being selected as a carrier of non-priority bypass mail.”
 
-    1994—Subsec. (a). [Pub. L. 103–272, § 4(g)(2)(A)][/us/pl/103/272/s4/g/2/A], substituted “[section 40101(a) of title 49][/us/usc/t49/s40101/a]” for “[section 1302 of title 49][/us/usc/t49/s1302]”.
+    1994—Subsec. (a). [Pub. L. 103–272][/us/pl/103/272], § 4(g)(2)(A), substituted “[section 40101(a) of title 49][/us/usc/t49/s40101/a]” for “[section 1302 of title 49][/us/usc/t49/s1302]”.
 
-    Subsec. (b). [Pub. L. 103–272, § 4(g)(2)(B)][/us/pl/103/272/s4/g/2/B], substituted “sections 40109(a) and (c)–(h) and 42112 of title 49” for “sections 1371(k) and 1386(b) of title 49”, “part A of subtitle VII of title 49” for “sections 1301–1542 of title 49”, and “chapters 411 and 413 of title 49” for “sections 1371–1386 of title 49”.
+    Subsec. (b). [Pub. L. 103–272][/us/pl/103/272], § 4(g)(2)(B), substituted “sections 40109(a) and (c)–(h) and 42112 of title 49” for “sections 1371(k) and 1386(b) of title 49”, “part A of subtitle VII of title 49” for “sections 1301–1542 of title 49”, and “chapters 411 and 413 of title 49” for “sections 1371–1386 of title 49”.
 
-    Subsec. (d). [Pub. L. 103–272, § 4(g)(2)(C)][/us/pl/103/272/s4/g/2/C], inserted “determine rates and” after “Service may” and struck out “and overseas” after “in interstate”.
+    Subsec. (d). [Pub. L. 103–272][/us/pl/103/272], § 4(g)(2)(C), inserted “determine rates and” after “Service may” and struck out “and overseas” after “in interstate”.
 
-    Subsec. (e). [Pub. L. 103–272, § 4(g)(2)(D)][/us/pl/103/272/s4/g/2/D], struck out “ ‘overseas air transportation’,” before “and ‘foreign”, and substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “section 101 of the Federal Aviation Act of 1958 ([49 U.S.C. 1301][/us/usc/t49/s1301])”.
+    Subsec. (e). [Pub. L. 103–272][/us/pl/103/272], § 4(g)(2)(D), struck out “ ‘overseas air transportation’,” before “and ‘foreign”, and substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “section 101 of the Federal Aviation Act of 1958 ([49 U.S.C. 1301][/us/usc/t49/s1301])”.
 
     Subsec. (g)(1)(A). [Pub. L. 103–429][/us/pl/103/429] substituted “[section 41102(a) of title 49][/us/usc/t49/s41102/a]” for “section 401 of the Federal Aviation Act of 1958 ([49 U.S.C. 1371][/us/usc/t49/s1371])”.
 
-    1988—Subsec. (f). [Pub. L. 100–238, § 137(1)][/us/pl/100/238/s137/1], substituted “January 1, 1999” for “January 1, 1989”.
+    1988—Subsec. (f). [Pub. L. 100–238][/us/pl/100/238], § 137(1), substituted “January 1, 1999” for “January 1, 1989”.
 
-    Subsec. (g). [Pub. L. 100–238, § 137(2)][/us/pl/100/238/s137/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–238][/us/pl/100/238], § 137(2), added subsec. (g).
 
-    1984—Subsec. (a). [Pub. L. 98–443, § 9(g)(4)(A)][/us/pl/98/443/s9/g/4/A]–(C), substituted “Secretary of Transportation” for “Civil Aeronautics Board” wherever appearing, substituted “between any of the points in foreign air transportation” for “between any of the points”, and struck out “10 percent of the domestic mail transported under any such contract or” before “5 percent”.
+    1984—Subsec. (a). [Pub. L. 98–443][/us/pl/98/443], § 9(g)(4)(A)–(C), substituted “Secretary of Transportation” for “Civil Aeronautics Board” wherever appearing, substituted “between any of the points in foreign air transportation” for “between any of the points”, and struck out “10 percent of the domestic mail transported under any such contract or” before “5 percent”.
 
-    Subsec. (b). [Pub. L. 98–443, § 9(g)(4)(A)][/us/pl/98/443/s9/g/4/A], (D), substituted “Secretary of Transportation” for “Civil Aeronautics Board” wherever appearing and “required between points in foreign air transportation” for “required between points”.
+    Subsec. (b). [Pub. L. 98–443][/us/pl/98/443], § 9(g)(4)(A), (D), substituted “Secretary of Transportation” for “Civil Aeronautics Board” wherever appearing and “required between points in foreign air transportation” for “required between points”.
 
-    Subsec. (c). [Pub. L. 98–443, § 9(g)(4)(A)][/us/pl/98/443/s9/g/4/A], (E), substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “pairs of points in foreign air transportation is not adequate” for “pairs of points is not adequate”.
+    Subsec. (c). [Pub. L. 98–443][/us/pl/98/443], § 9(g)(4)(A), (E), substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “pairs of points in foreign air transportation is not adequate” for “pairs of points is not adequate”.
 
-    Subsecs. (d) to (f). [Pub. L. 98–443, § 9(g)(4)(F)][/us/pl/98/443/s9/g/4/F], added subsecs. (d) to (f).
+    Subsecs. (d) to (f). [Pub. L. 98–443][/us/pl/98/443], § 9(g)(4)(F), added subsecs. (d) to (f).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -703,7 +703,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–435, title X, § 1005(h)][/us/pl/109/435/s1005/h] Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that:
+[Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1005(h) Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -715,7 +715,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–206, title III, § 3002(g)][/us/pl/107/206/s3002/g], Aug. 2, 2002, [116 Stat. 924][/us/stat/116/924], provided that:
+[Pub. L. 107–206, title III][/us/pl/107/206/tIII], § 3002(g), Aug. 2, 2002, [116 Stat. 924][/us/stat/116/924], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -727,7 +727,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–52, title VI, § 631(b)][/us/pl/104/52/s631/b], Nov. 19, 1995, [109 Stat. 505][/us/stat/109/505], provided that:
+[Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 631(b), Nov. 19, 1995, [109 Stat. 505][/us/stat/109/505], provided that:
 
 >     “(1) Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall be effective on and after August 1, 1995.
 
@@ -745,7 +745,7 @@
 
  __Findings__ 
 
-[Pub. L. 107–206, title III, § 3002(b)][/us/pl/107/206/s3002/b], Aug. 2, 2002, [116 Stat. 910][/us/stat/116/910], provided that: 
+[Pub. L. 107–206, title III][/us/pl/107/206/tIII], § 3002(b), Aug. 2, 2002, [116 Stat. 910][/us/stat/116/910], provided that: 
 
 > “Congress makes the following findings:
 
@@ -803,13 +803,13 @@
 
  __Actions of Air Carriers To Qualify as Bush Passengers or Nonmail Freight Carriers__ 
 
-[Pub. L. 107–206, title III, § 3002(d)][/us/pl/107/206/s3002/d], Aug. 2, 2002, [116 Stat. 923][/us/stat/116/923], provided that: 
+[Pub. L. 107–206, title III][/us/pl/107/206/tIII], § 3002(d), Aug. 2, 2002, [116 Stat. 923][/us/stat/116/923], provided that: 
 
 > “Beginning 6 months after the date of enactment of this Act \[Aug. 2, 2002\], if the Secretary determines, based on the Secretary’s findings and recommendations of the Postal Service, that an air carrier being tendered nonpriority bush bypass mail is not taking actions to attempt to qualify as a bush passenger or nonmail freight carrier under [section 5402 of title 39][/us/usc/t39/s5402], United States Code (as amended by this title), the Postal Service shall immediately cease tender of all nonpriority bypass mail to such carrier.”
 
  __Reports to Congress__ 
 
-    [Pub. L. 107–206, title III, § 3002(f)][/us/pl/107/206/s3002/f], Aug. 2, 2002, [116 Stat. 924][/us/stat/116/924], provided that, not later than 18 months after Aug. 2, 2002, the Postal Service and the Secretary of Transportation were to submit a report to the Committee on Government Reform (now Committee on Oversight and Government Reform) of the House of Representatives and the Committee on Governmental Affairs of the Senate on the progress of implementing title III of [Pub. L. 107–206][/us/pl/107/206].
+    [Pub. L. 107–206, title III][/us/pl/107/206/tIII], § 3002(f), Aug. 2, 2002, [116 Stat. 924][/us/stat/116/924], provided that, not later than 18 months after Aug. 2, 2002, the Postal Service and the Secretary of Transportation were to submit a report to the Committee on Government Reform (now Committee on Oversight and Government Reform) of the House of Representatives and the Committee on Governmental Affairs of the Senate on the progress of implementing title III of [Pub. L. 107–206][/us/pl/107/206].
 
 ----------
 
@@ -823,117 +823,117 @@
 [/us/usc/t49/s41102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102%2Fa
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F772
-[/us/pl/98/443/s9/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fg%2F4
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1707
-[/us/pl/100/238/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs137
+[/us/pl/100/238/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtI
 [/us/stat/101/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1767
-[/us/pl/103/272/s4/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fg%2F2
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1364
-[/us/pl/103/429/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs5
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4378
-[/us/pl/104/52/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs631%2Fa
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F505
-[/us/pl/107/67/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs651
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F557
-[/us/pl/107/171/s10501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10501
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F509
-[/us/pl/107/206/s3002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc
+[/us/pl/107/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtIII
 [/us/stat/116/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F911
-[/us/pl/108/447/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs301%2Fc
+[/us/pl/108/447/dJ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIII
 [/us/stat/118/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3350
-[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3255-3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3255-3258
-[/us/pl/110/405/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fa
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/stat/122/4287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4287
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
-[/us/pl/110/405/s2/b/11/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F11%2FD
-[/us/pl/110/405/s2/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F11%2FA
-[/us/pl/110/405/s2/b/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F11%2FB
-[/us/pl/110/405/s2/b/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F11%2FC
-[/us/pl/110/405/s2/b/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F11%2FB
-[/us/pl/110/405/s2/b/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fb%2F11%2FC
-[/us/pl/110/405/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fa
-[/us/pl/109/435/s1005/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fa%2F1
-[/us/pl/109/435/s1005/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fa%2F3
-[/us/pl/109/435/s1005/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fa%2F4
-[/us/pl/109/435/s1005/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fa%2F5
-[/us/pl/109/435/s1002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1002%2Fb%2F2
-[/us/pl/109/435/s1005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fb%2F1
-[/us/pl/109/435/s1005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fb%2F2
-[/us/pl/109/435/s1005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fc%2F1
-[/us/pl/109/435/s1005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fc%2F2
-[/us/pl/109/435/s1005/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fc%2F3
-[/us/pl/109/435/s1005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fd
-[/us/pl/109/435/s1005/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fe
-[/us/pl/109/435/s1005/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Ff
-[/us/pl/109/435/s1005/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fg
-[/us/pl/108/447/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs301%2Fc
-[/us/pl/108/447/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs301%2Fd
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t49/s41102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102%2Fa
-[/us/pl/108/447/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs301%2Fe
-[/us/pl/108/447/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs301%2Ff
-[/us/pl/107/206/s3002/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F1%2FC
-[/us/pl/107/206/s3002/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fe%2F1%2FA
-[/us/pl/107/206/s3002/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F1%2FB
-[/us/pl/107/206/s3002/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fe%2F1%2FA
-[/us/pl/107/206/s3002/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F1%2FB
-[/us/pl/107/171/s10501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10501%2F1
-[/us/pl/107/171/s10501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10501%2F2
-[/us/pl/107/206/s3002/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F1%2FA
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/107/206/s3002/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fe%2F1
-[/us/pl/107/206/s3002/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F2%2FA
-[/us/pl/107/206/s3002/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F2%2FB
-[/us/pl/107/206/s3002/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F2%2FC
-[/us/pl/107/206/s3002/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F3
-[/us/pl/107/206/s3002/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F4
-[/us/pl/107/206/s3002/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fc%2F5
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
+[/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
 [/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
-[/us/pl/104/52/s631/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs631%2Fa%2F1
-[/us/pl/104/52/s631/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs631%2Fa%2F2
-[/us/pl/103/272/s4/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fg%2F2%2FA
+[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
+[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s40101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101%2Fa
 [/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302
-[/us/pl/103/272/s4/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fg%2F2%2FB
-[/us/pl/103/272/s4/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fg%2F2%2FC
-[/us/pl/103/272/s4/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fg%2F2%2FD
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t49/s41102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102%2Fa
 [/us/usc/t49/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1371
-[/us/pl/100/238/s137/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs137%2F1
-[/us/pl/100/238/s137/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs137%2F2
-[/us/pl/98/443/s9/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fg%2F4%2FA
-[/us/pl/98/443/s9/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fg%2F4%2FA
-[/us/pl/98/443/s9/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fg%2F4%2FA
-[/us/pl/98/443/s9/g/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fg%2F4%2FF
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/110/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405
 [/us/pl/110/405/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F405%2Fs2%2Fc
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/109/435/s1005/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1005%2Fh
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3258
-[/us/pl/107/206/s3002/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fg
+[/us/pl/107/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtIII
 [/us/stat/116/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F924
 [/us/usc/t19/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703
 [/us/usc/t43/s1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1626
 [/us/usc/t49/s41901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41901
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/usc/t1/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112
-[/us/pl/104/52/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs631%2Fb
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F505
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/98/443/s9/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fv
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/107/206/s3002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fb
+[/us/pl/107/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtIII
 [/us/stat/116/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F910
 [/us/usc/t39/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5402
-[/us/pl/107/206/s3002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Fd
+[/us/pl/107/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtIII
 [/us/stat/116/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F923
 [/us/usc/t39/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5402
-[/us/pl/107/206/s3002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs3002%2Ff
+[/us/pl/107/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtIII
 [/us/stat/116/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F924
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
 

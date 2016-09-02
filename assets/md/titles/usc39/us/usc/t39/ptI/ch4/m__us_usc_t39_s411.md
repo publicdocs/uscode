@@ -17,7 +17,7 @@
 
     Executive agencies within the meaning of [section 105 of title 5][/us/usc/t5/s105] and the Government Publishing Office are authorized to furnish property, both real and personal, and personal and nonpersonal services to the Postal Service, and the Postal Service is authorized to furnish property and services to them. The furnishing of property and services under this section shall be under such terms and conditions, including reimbursability, as the Postal Service and the head of the agency concerned shall deem appropriate.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 726][/us/stat/84/726]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 726][/us/stat/84/726]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Change of Name__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F726
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301

@@ -23,7 +23,7 @@
 
         (2) An air carrier engaged in transporting mail shall carry without charge on any plane it operates those agents and officers of the Postal Service traveling on official business related to transporting mail by aircraft, as prescribed by regulations of the Secretary of Transportation, on exhibiting credentials.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 768][/us/stat/84/768]; [Pub. L. 103–272, § 4(g)(1)][/us/pl/103/272/s4/g/1], July 5, 1994, [108 Stat. 1364][/us/stat/108/1364].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 768][/us/stat/84/768]; [Pub. L. 103–272][/us/pl/103/272], § 4(g)(1), July 5, 1994, [108 Stat. 1364][/us/stat/108/1364].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F768
-[/us/pl/103/272/s4/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fg%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1364
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 

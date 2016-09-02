@@ -55,7 +55,7 @@
 
     (g) The provisions of this section shall not affect the right of an officer or employee of the Postal Service to petition Congress as authorized by [section 7211 of title 5][/us/usc/t5/s7211].
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 729][/us/stat/84/729]; [Pub. L. 95–454, title VII, § 703(c)(5)][/us/pl/95/454/s703/c/5], Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217]; [Pub. L. 109–435, title VI, § 604(a)][/us/pl/109/435/s604/a], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 729][/us/stat/84/729]; [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 703(c)(5), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(a), Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241].)
 
  __Amendments__ 
 
@@ -81,9 +81,9 @@
 [/us/usc/t5/s7211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7211
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F729
-[/us/pl/95/454/s703/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F5
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1217
-[/us/pl/109/435/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fa
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454

@@ -29,7 +29,7 @@
 
     (d) In the case of a bargaining unit whose recognized collective-bargaining representative does not have an agreement with the Postal Service, if the parties fail to reach the agreement within 90 days after the commencement of collective bargaining, a mediator shall be appointed in accordance with the terms in subsection (b) of this section, unless the parties have previously agreed to another procedure for a binding resolution of their differences. If the parties fail to reach agreement within 180 days after the commencement of collective bargaining, and if they have not agreed to another procedure for binding resolution, an arbitration board shall be established to provide conclusive and binding arbitration in accordance with the terms of subsection (c) of this section.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 735][/us/stat/84/735]; [Pub. L. 109–435, title V, § 505(a)][/us/pl/109/435/s505/a], Dec. 20, 2006, [120 Stat. 3235][/us/stat/120/3235].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 735][/us/stat/84/735]; [Pub. L. 109–435, title V][/us/pl/109/435/tV], § 505(a), Dec. 20, 2006, [120 Stat. 3235][/us/stat/120/3235].)
 
  __Amendments__ 
 
@@ -44,7 +44,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F735
-[/us/pl/109/435/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs505%2Fa
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3235
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 

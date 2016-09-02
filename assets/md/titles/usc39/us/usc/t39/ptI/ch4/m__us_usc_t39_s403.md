@@ -29,7 +29,7 @@
 
     (c) In providing services and in establishing classifications, rates, and fees under this title, the Postal Service shall not, except as specifically authorized in this title, make any undue or unreasonable discrimination among users of the mails, nor shall it grant any undue or unreasonable preferences to any such user.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 723][/us/stat/84/723]; [Pub. L. 96–70, title I, § 1331(e)(1)][/us/pl/96/70/s1331/e/1], Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 723][/us/stat/84/723]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1331(e)(1), Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482].)
 
  __Amendments__ 
 
@@ -45,41 +45,41 @@
 
  __Continuation of Mail Delivery Services__ 
 
-Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, [Pub. L. 109–115, div. A, title VI][/us/pl/109/115], Nov. 30, 2005, [119 Stat. 2490][/us/stat/119/2490], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, [Pub. L. 109–115, div. A, title VI][/us/pl/109/115/dA/tVI], Nov. 30, 2005, [119 Stat. 2490][/us/stat/119/2490], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
-    [Pub. L. 108–447, div. H, title IV][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3264][/us/stat/118/3264].
+    [Pub. L. 108–447, div. H, title IV][/us/pl/108/447/dH/tIV], Dec. 8, 2004, [118 Stat. 3264][/us/stat/118/3264].
 
-    [Pub. L. 108–199, div. F, title IV][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 340][/us/stat/118/340].
+    [Pub. L. 108–199, div. F, title IV][/us/pl/108/199/dF/tIV], Jan. 23, 2004, [118 Stat. 340][/us/stat/118/340].
 
-    [Pub. L. 108–7, div. J, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 442][/us/stat/117/442].
+    [Pub. L. 108–7, div. J, title II][/us/pl/108/7/dJ/tII], Feb. 20, 2003, [117 Stat. 442][/us/stat/117/442].
 
-    [Pub. L. 107–67, title II][/us/pl/107/67], Nov. 12, 2001, [115 Stat. 525][/us/stat/115/525].
+    [Pub. L. 107–67, title II][/us/pl/107/67/tII], Nov. 12, 2001, [115 Stat. 525][/us/stat/115/525].
 
-    [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–135.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–135.
 
-    [Pub. L. 106–58, title II][/us/pl/106/58], Sept. 29, 1999, [113 Stat. 444][/us/stat/113/444].
+    [Pub. L. 106–58, title II][/us/pl/106/58/tII], Sept. 29, 1999, [113 Stat. 444][/us/stat/113/444].
 
-    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title II\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–492.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title II\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–492.
 
-    [Pub. L. 105–61, title II][/us/pl/105/61], Oct. 10, 1997, [111 Stat. 1290][/us/stat/111/1290].
+    [Pub. L. 105–61, title II][/us/pl/105/61/tII], Oct. 10, 1997, [111 Stat. 1290][/us/stat/111/1290].
 
-    [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title II\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–326.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title II\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–326.
 
-    [Pub. L. 104–52, title II][/us/pl/104/52], Nov. 19, 1995, [109 Stat. 476][/us/stat/109/476].
+    [Pub. L. 104–52, title II][/us/pl/104/52/tII], Nov. 19, 1995, [109 Stat. 476][/us/stat/109/476].
 
-    [Pub. L. 103–329, title II][/us/pl/103/329], Sept. 30, 1994, [108 Stat. 2392][/us/stat/108/2392].
+    [Pub. L. 103–329, title II][/us/pl/103/329/tII], Sept. 30, 1994, [108 Stat. 2392][/us/stat/108/2392].
 
-    [Pub. L. 103–123, title II][/us/pl/103/123], Oct. 28, 1993, [107 Stat. 1234][/us/stat/107/1234].
+    [Pub. L. 103–123, title II][/us/pl/103/123/tII], Oct. 28, 1993, [107 Stat. 1234][/us/stat/107/1234].
 
-    [Pub. L. 102–393, title II][/us/pl/102/393], Oct. 6, 1992, [106 Stat. 1737][/us/stat/106/1737].
+    [Pub. L. 102–393, title II][/us/pl/102/393/tII], Oct. 6, 1992, [106 Stat. 1737][/us/stat/106/1737].
 
-    [Pub. L. 102–141, title II][/us/pl/102/141], Oct. 28, 1991, [105 Stat. 843][/us/stat/105/843].
+    [Pub. L. 102–141, title II][/us/pl/102/141/tII], Oct. 28, 1991, [105 Stat. 843][/us/stat/105/843].
 
-    [Pub. L. 101–509, title II][/us/pl/101/509], Nov. 5, 1990, [104 Stat. 1396][/us/stat/104/1396].
+    [Pub. L. 101–509, title II][/us/pl/101/509/tII], Nov. 5, 1990, [104 Stat. 1396][/us/stat/104/1396].
 
-    [Pub. L. 101–136, title II][/us/pl/101/136], Nov. 3, 1989, [103 Stat. 790][/us/stat/103/790].
+    [Pub. L. 101–136, title II][/us/pl/101/136/tII], Nov. 3, 1989, [103 Stat. 790][/us/stat/103/790].
 
-    [Pub. L. 100–440, title II][/us/pl/100/440], Sept. 22, 1988, [102 Stat. 1727][/us/stat/102/1727].
+    [Pub. L. 100–440, title II][/us/pl/100/440/tII], Sept. 22, 1988, [102 Stat. 1727][/us/stat/102/1727].
 
     [Pub. L. 100–202][/us/pl/100/202], §§ 101(m) \[title II\], 102, Dec. 22, 1987, [101 Stat. 1329–390][/us/stat/101/1329-390], 1329–397, 1329–433.
 
@@ -93,15 +93,15 @@ Provisions requiring continuation of six-day delivery and rural delivery of mail
 
     [Pub. L. 98–107][/us/pl/98/107], §§ 102, 108, Oct. 1, 1983, [97 Stat. 740][/us/stat/97/740], 741.
 
-    [Pub. L. 97–377, title I, § 111B][/us/pl/97/377/s111B], Dec. 21, 1982, [96 Stat. 1912][/us/stat/96/1912].
+    [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 111B, Dec. 21, 1982, [96 Stat. 1912][/us/stat/96/1912].
 
-    [Pub. L. 97–35, title XVII, § 1722][/us/pl/97/35/s1722], Aug. 13, 1981, [95 Stat. 759][/us/stat/95/759], as amended by [Pub. L. 98–369, div. B, title II, § 2209][/us/pl/98/369/s2209], July 18, 1984, [98 Stat. 1061][/us/stat/98/1061].
+    [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1722, Aug. 13, 1981, [95 Stat. 759][/us/stat/95/759], as amended by [Pub. L. 98–369, div. B, title II][/us/pl/98/369/dB/tII], § 2209, July 18, 1984, [98 Stat. 1061][/us/stat/98/1061].
 
-    [Pub. L. 96–499, title IV, § 412][/us/pl/96/499/s412], Dec. 5, 1980, [94 Stat. 2607][/us/stat/94/2607].
+    [Pub. L. 96–499, title IV][/us/pl/96/499/tIV], § 412, Dec. 5, 1980, [94 Stat. 2607][/us/stat/94/2607].
 
  __Prohibition of 9-Digit ZIP Code__ 
 
-    [Pub. L. 97–35, title XVII, § 1726][/us/pl/97/35/s1726], Aug. 13, 1981, [95 Stat. 761][/us/stat/95/761], prohibited Postal Service from implementing ZIP code system using more than 5 digits before Oct. 1, 1983, and prohibited executive agencies from taking action to conform mailing procedures to ZIP code system using more than 5 digits during the period from Aug. 13, 1981 to Dec. 31, 1982.
+    [Pub. L. 97–35, title XVII][/us/pl/97/35/tXVII], § 1726, Aug. 13, 1981, [95 Stat. 761][/us/stat/95/761], prohibited Postal Service from implementing ZIP code system using more than 5 digits before Oct. 1, 1983, and prohibited executive agencies from taking action to conform mailing procedures to ZIP code system using more than 5 digits during the period from Aug. 13, 1981 to Dec. 31, 1982.
 
 ----------
 
@@ -112,7 +112,7 @@ Provisions requiring continuation of six-day delivery and rural delivery of mail
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F723
-[/us/pl/96/70/s1331/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1331%2Fe%2F1
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F482
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
@@ -120,41 +120,41 @@ Provisions requiring continuation of six-day delivery and rural delivery of mail
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/109/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115
+[/us/pl/109/115/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtVI
 [/us/stat/119/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2490
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dH/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtIV
 [/us/stat/118/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3264
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtIV
 [/us/stat/118/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F340
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dJ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtII
 [/us/stat/117/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F442
-[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
+[/us/pl/107/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtII
 [/us/stat/115/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F525
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
+[/us/pl/106/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtII
 [/us/stat/113/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F444
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/105/61/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtII
 [/us/stat/111/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1290
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
+[/us/pl/104/52/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtII
 [/us/stat/109/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F476
-[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
+[/us/pl/103/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtII
 [/us/stat/108/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2392
-[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtII
 [/us/stat/107/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1234
-[/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
+[/us/pl/102/393/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtII
 [/us/stat/106/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1737
-[/us/pl/102/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141
+[/us/pl/102/141/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2FtII
 [/us/stat/105/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F843
-[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtII
 [/us/stat/104/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1396
-[/us/pl/101/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136
+[/us/pl/101/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F136%2FtII
 [/us/stat/103/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F790
-[/us/pl/100/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440
+[/us/pl/100/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F440%2FtII
 [/us/stat/102/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1727
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-390
@@ -170,15 +170,15 @@ Provisions requiring continuation of six-day delivery and rural delivery of mail
 [/us/stat/97/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F975
 [/us/pl/98/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F107
 [/us/stat/97/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F740
-[/us/pl/97/377/s111B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs111B
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1912
-[/us/pl/97/35/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1722
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F759
-[/us/pl/98/369/s2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2209
+[/us/pl/98/369/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtII
 [/us/stat/98/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1061
-[/us/pl/96/499/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs412
+[/us/pl/96/499/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtIV
 [/us/stat/94/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2607
-[/us/pl/97/35/s1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1726
+[/us/pl/97/35/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXVII
 [/us/stat/95/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F761
 
 

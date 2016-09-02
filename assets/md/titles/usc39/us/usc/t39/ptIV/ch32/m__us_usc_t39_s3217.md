@@ -21,7 +21,7 @@
 
  __Free Mailing Privileges Continue Unchanged__ 
 
-[Pub. L. 109–435, title V, § 505(c)][/us/pl/109/435/s505/c], Dec. 20, 2006, [120 Stat. 3236][/us/stat/120/3236], provided that: 
+[Pub. L. 109–435, title V][/us/pl/109/435/tV], § 505(c), Dec. 20, 2006, [120 Stat. 3236][/us/stat/120/3236], provided that: 
 
 > “Nothing in this Act \[see Tables for classification\] or any amendment made by this Act shall affect any free mailing privileges accorded under section 3217 or sections 3403 through 3406 of title 39, United States Code.”
 
@@ -34,7 +34,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F755
-[/us/pl/109/435/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs505%2Fc
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3236
 
 

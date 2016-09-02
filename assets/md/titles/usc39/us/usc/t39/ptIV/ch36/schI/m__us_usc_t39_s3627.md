@@ -17,7 +17,7 @@
 
     If Congress fails to appropriate an amount authorized under [section 2401(c) of this title][/us/usc/t39/s2401/c] for any class of mail sent free of postage under section 3217 or 3403–3406  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “of this title,”. </sup></sup>  the rate for that class may be adjusted in accordance with the provisions of this subchapter so that the increased revenues received from the users of such class will equal the amount for that class that the Congress was to appropriate.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 763][/us/stat/84/763]; [Pub. L. 95–593, § 11(b)][/us/pl/95/593/s11/b], Nov. 4, 1978, [92 Stat. 2538][/us/stat/92/2538]; [Pub. L. 99–410, title II, § 201(b)(3)][/us/pl/99/410/s201/b/3], Aug. 28, 1986, [100 Stat. 928][/us/stat/100/928]; [Pub. L. 103–31, § 8(h)(3)][/us/pl/103/31/s8/h/3], May 20, 1993, [107 Stat. 86][/us/stat/107/86]; [Pub. L. 103–123, title VII, § 704(a)(3)(B)(i)][/us/pl/103/123/s704/a/3/B/i], Oct. 28, 1993, [107 Stat. 1269][/us/stat/107/1269]; [Pub. L. 109–435, title X, § 1010(g)(5)][/us/pl/109/435/s1010/g/5], Dec. 20, 2006, [120 Stat. 3263][/us/stat/120/3263].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 763][/us/stat/84/763]; [Pub. L. 95–593][/us/pl/95/593], § 11(b), Nov. 4, 1978, [92 Stat. 2538][/us/stat/92/2538]; [Pub. L. 99–410, title II][/us/pl/99/410/tII], § 201(b)(3), Aug. 28, 1986, [100 Stat. 928][/us/stat/100/928]; [Pub. L. 103–31][/us/pl/103/31], § 8(h)(3), May 20, 1993, [107 Stat. 86][/us/stat/107/86]; [Pub. L. 103–123, title VII][/us/pl/103/123/tVII], § 704(a)(3)(B)(i), Oct. 28, 1993, [107 Stat. 1269][/us/stat/107/1269]; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1010(g)(5), Dec. 20, 2006, [120 Stat. 3263][/us/stat/120/3263].)
 
  __Amendments__ 
 
@@ -51,15 +51,15 @@
 [/us/usc/t39/s2401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2401%2Fc
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F763
-[/us/pl/95/593/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F593%2Fs11%2Fb
+[/us/pl/95/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F593
 [/us/stat/92/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2538
-[/us/pl/99/410/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs201%2Fb%2F3
+[/us/pl/99/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2FtII
 [/us/stat/100/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F928
-[/us/pl/103/31/s8/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31%2Fs8%2Fh%2F3
+[/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/stat/107/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F86
-[/us/pl/103/123/s704/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fa%2F3%2FB%2Fi
+[/us/pl/103/123/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVII
 [/us/stat/107/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1269
-[/us/pl/109/435/s1010/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fg%2F5
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3263
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123

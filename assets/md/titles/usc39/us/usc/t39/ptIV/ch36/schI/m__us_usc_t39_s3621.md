@@ -45,15 +45,15 @@
 
     Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
 
-(Added [Pub. L. 109–435, title II, § 201(a)][/us/pl/109/435/s201/a], Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 201(a), Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200].)
 
  __Prior Provisions__ 
 
-    A prior section 3621, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 760][/us/stat/84/760], authorized the Governors to fix rates and classes, prior to repeal by [Pub. L. 109–435, title II, § 201(a)][/us/pl/109/435/s201/a], Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200].
+    A prior section 3621, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 760][/us/stat/84/760], authorized the Governors to fix rates and classes, prior to repeal by [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 201(a), Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200].
 
  __Ratemaking Limitations__ 
 
-[Pub. L. 103–123, title VII, § 704(b)(2)][/us/pl/103/123/s704/b/2], Oct. 28, 1993, [107 Stat. 1270][/us/stat/107/1270], provided that:
+[Pub. L. 103–123, title VII][/us/pl/103/123/tVII], § 704(b)(2), Oct. 28, 1993, [107 Stat. 1270][/us/stat/107/1270], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/109/435/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs201%2Fa
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3200
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F760
-[/us/pl/109/435/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs201%2Fa
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3200
-[/us/pl/103/123/s704/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fb%2F2
+[/us/pl/103/123/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVII
 [/us/stat/107/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1270
 [/us/usc/t39/s2401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2401%2Fd
 

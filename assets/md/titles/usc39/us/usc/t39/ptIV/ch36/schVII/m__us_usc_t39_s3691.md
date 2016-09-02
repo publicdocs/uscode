@@ -61,7 +61,7 @@
 
     The regulations promulgated pursuant to this section (and any revisions thereto), and any violations thereof, shall be subject to review upon complaint under sections 3662 and 3663.
 
-(Added [Pub. L. 109–435, title III, § 301][/us/pl/109/435/s301], Dec. 20, 2006, [120 Stat. 3218][/us/stat/120/3218].)
+(Added [Pub. L. 109–435, title III][/us/pl/109/435/tIII], § 301, Dec. 20, 2006, [120 Stat. 3218][/us/stat/120/3218].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Postal Service Plan__ 
 
-[Pub. L. 109–435, title III, § 302][/us/pl/109/435/s302], Dec. 20, 2006, [120 Stat. 3219][/us/stat/120/3219], provided that:
+[Pub. L. 109–435, title III][/us/pl/109/435/tIII], § 302, Dec. 20, 2006, [120 Stat. 3219][/us/stat/120/3219], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -200,10 +200,10 @@
 ----------
 ----------
 
-[/us/pl/109/435/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs301
+[/us/pl/109/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIII
 [/us/stat/120/3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3218
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/109/435/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs302
+[/us/pl/109/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIII
 [/us/stat/120/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3219
 [/us/usc/t39/s3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3691
 

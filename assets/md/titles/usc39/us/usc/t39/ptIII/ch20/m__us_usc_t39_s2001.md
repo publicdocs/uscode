@@ -25,7 +25,7 @@
 
     (3) “obligations”, when referring to debt instruments issued by the Postal Service, means notes, bonds, debentures, mortgages, and any other evidence of indebtedness.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 738][/us/stat/84/738]; [Pub. L. 109–435, title IV, § 401(b)(1)][/us/pl/109/435/s401/b/1], Dec. 20, 2006, [120 Stat. 3225][/us/stat/120/3225].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 738][/us/stat/84/738]; [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 401(b)(1), Dec. 20, 2006, [120 Stat. 3225][/us/stat/120/3225].)
 
  __Amendments__ 
 
@@ -44,7 +44,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F738
-[/us/pl/109/435/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs401%2Fb%2F1
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3225
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa

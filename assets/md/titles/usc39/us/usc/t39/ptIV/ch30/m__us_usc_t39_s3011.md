@@ -33,7 +33,7 @@
 
     (e) Nothing in this section or in section 3010 shall be construed as amending, preempting, limiting, modifying, or otherwise in any way affecting section 1461 or 1463 of title 18 or section 3007 or 3008 of this title.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 750][/us/stat/84/750]; [Pub. L. 106–168, title I, § 105(b)(2)(B)][/us/pl/106/168/s105/b/2/B], Dec. 12, 1999, [113 Stat. 1811][/us/stat/113/1811].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 750][/us/stat/84/750]; [Pub. L. 106–168, title I][/us/pl/106/168/tI], § 105(b)(2)(B), Dec. 12, 1999, [113 Stat. 1811][/us/stat/113/1811].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t39/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3010
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F750
-[/us/pl/106/168/s105/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs105%2Fb%2F2%2FB
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1811
 [/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
 [/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168

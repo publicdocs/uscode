@@ -41,7 +41,7 @@
 
         (7) to take whatever actions may be necessary to carry out its mission in emergency situations.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 728][/us/stat/84/728]; [Pub. L. 109–435, title VI, § 604(a)][/us/pl/109/435/s604/a], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 728][/us/stat/84/728]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(a), Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241].)
 
  __Amendments__ 
 
@@ -53,19 +53,19 @@
 
  __Performance Evaluations__ 
 
-[Pub. L. 109–435, title VII, § 706(b)][/us/pl/109/435/s706/b], Dec. 20, 2006, [120 Stat. 3246][/us/stat/120/3246], provided that: 
+[Pub. L. 109–435, title VII][/us/pl/109/435/tVII], § 706(b), Dec. 20, 2006, [120 Stat. 3246][/us/stat/120/3246], provided that: 
 
 > “The United States Postal Service shall, as soon as is practicable, take such measures as may be necessary to incorporate the affirmative action and equal opportunity criteria contained in 4313(5) of title 5, United States Code, into the performance appraisals of senior supervisory or managerial employees.”
 
  __Transfer to United States Postal Service of Post Office Department Personnel__ 
 
-[Pub. L. 91–375, § 8][/us/pl/91/375/s8], Aug. 12, 1970, [84 Stat. 783][/us/stat/84/783], as amended by [Pub. L. 109–435, title X, § 1007(a)][/us/pl/109/435/s1007/a], Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 8, Aug. 12, 1970, [84 Stat. 783][/us/stat/84/783], as amended by [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1007(a), Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that:
 
 >     “(a) Officers and employees of the Post Office Department shall become officers and employees of the United States Postal Service on the effective date of this section. The provisions of this section shall not apply to persons occupying the positions of Postmaster General, Deputy Postmaster General, Assistant Postmasters General, General Counsel, or Judicial Officer. This section shall not be construed, however, to prohibit the appointment of such persons to positions in the Postal Service.
 
 >     “(b) For purposes of chapter 81 of title 5, United States Code, the Postal Service shall, with respect to any individual receiving benefits under such chapter as an officer or employee of the former Post Office Department, have the same authorities and responsibilities as it has with respect to an officer or employee of the Postal Service receiving such benefits.”
 
-\[[Pub. L. 109–435, title X, § 1007(b)][/us/pl/109/435/s1007/b], Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that: 
+\[[Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1007(b), Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that: 
 
 > “This section \[amending [section 8 of Pub. L. 91–375][/us/pl/91/375/s8], set out above\] and the amendments made by this section shall be effective as of the first day of the fiscal year in which this Act is enacted.”
 
@@ -75,7 +75,7 @@
 
  __Appointment of Postmasters and Other Employees on Merit Basis__ 
 
-[Pub. L. 91–375, § 13][/us/pl/91/375/s13], Aug. 12, 1970, [84 Stat. 786][/us/stat/84/786], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 13, Aug. 12, 1970, [84 Stat. 786][/us/stat/84/786], provided that:
 
 >     “(a)
 
@@ -106,24 +106,24 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F728
-[/us/pl/109/435/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fa
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/109/435/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs706%2Fb
+[/us/pl/109/435/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVII
 [/us/stat/120/3246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3246
-[/us/pl/91/375/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs8
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F783
-[/us/pl/109/435/s1007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1007%2Fa
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3258
-[/us/pl/109/435/s1007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1007%2Fb
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3258
 [/us/pl/91/375/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs8
 [/us/pl/91/375/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs8
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/91/375/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs13
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F786
 [/us/usc/t39/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1001
 [/us/usc/t39/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3311

@@ -41,7 +41,7 @@
 
     Any transfer required to be made under this section for a year shall be due on or before the January 15th next occurring after the close of such year.
 
-(Added [Pub. L. 109–435, title IV, § 402][/us/pl/109/435/s402], Dec. 20, 2006, [120 Stat. 3226][/us/stat/120/3226].)
+(Added [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 402, Dec. 20, 2006, [120 Stat. 3226][/us/stat/120/3226].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs402
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3226
 
 

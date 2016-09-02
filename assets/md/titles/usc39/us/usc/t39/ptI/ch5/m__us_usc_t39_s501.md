@@ -17,17 +17,17 @@
 
     The Postal Regulatory Commission is an independent establishment of the executive branch of the Government of the United States.
 
-(Added [Pub. L. 109–435, title VI, § 601(a)(1)][/us/pl/109/435/s601/a/1], Dec. 20, 2006, [120 Stat. 3238][/us/stat/120/3238].)
+(Added [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 601(a)(1), Dec. 20, 2006, [120 Stat. 3238][/us/stat/120/3238].)
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–435, title VI, § 601(b)][/us/pl/109/435/s601/b], Dec. 20, 2006, [120 Stat. 3239][/us/stat/120/3239], provided that: 
+[Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 601(b), Dec. 20, 2006, [120 Stat. 3239][/us/stat/120/3239], provided that: 
 
 > “The amendment made by subsection (a)(1) \[enacting this section and [section 502 of this title][/us/usc/t39/s502]\] shall not affect the appointment or tenure of any person serving as a Commissioner on the Postal Regulatory Commission (as so redesignated by section 604 \[see Tables for classification\]) under an appointment made before the date of enactment of this Act \[Dec. 20, 2006\] or any nomination made before that date, but, when any such office becomes vacant, the appointment of any person to fill that office shall be made in accordance with such amendment.”
 
  __Assessments of Ratemaking, Classification, and Other Provisions__ 
 
-[Pub. L. 109–435, title VII, § 701][/us/pl/109/435/s701], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that:
+[Pub. L. 109–435, title VII][/us/pl/109/435/tVII], § 701, Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -43,7 +43,7 @@
 
  __Report on Universal Postal Service and the Postal Monopoly__ 
 
-[Pub. L. 109–435, title VII, § 702][/us/pl/109/435/s702], Dec. 20, 2006, [120 Stat. 3243][/us/stat/120/3243], provided that:
+[Pub. L. 109–435, title VII][/us/pl/109/435/tVII], § 702, Dec. 20, 2006, [120 Stat. 3243][/us/stat/120/3243], provided that:
 
 >     “(a) __Report by the Postal Regulatory Commission.—__ 
 
@@ -93,7 +93,7 @@
 
  __Provisions Relating to Cooperative Mailings__ 
 
-[Pub. L. 109–435, title VII, § 711][/us/pl/109/435/s711], Dec. 20, 2006, [120 Stat. 3248][/us/stat/120/3248], provided that:
+[Pub. L. 109–435, title VII][/us/pl/109/435/tVII], § 711, Dec. 20, 2006, [120 Stat. 3248][/us/stat/120/3248], provided that:
 
 >     “(a) __Study.—__ 
 
@@ -120,17 +120,17 @@
 ----------
 ----------
 
-[/us/pl/109/435/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs601%2Fa%2F1
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3238
-[/us/pl/109/435/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs601%2Fb
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3239
 [/us/usc/t39/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs502
-[/us/pl/109/435/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs701
+[/us/pl/109/435/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVII
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/109/435/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs702
+[/us/pl/109/435/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVII
 [/us/stat/120/3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3243
 [/us/usc/t39/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs102
-[/us/pl/109/435/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs711
+[/us/pl/109/435/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVII
 [/us/stat/120/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3248
 
 

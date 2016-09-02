@@ -105,7 +105,7 @@
 
         (5) If the Postal Regulatory Commission authorizes the Postal Service to continue a nonpostal service under this subsection, the Postal Regulatory Commission shall designate whether the service shall be regulated under this title as a market dominant product, a competitive product, or an experimental product.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 724][/us/stat/84/724]; [Pub. L. 94–421, § 9(a)][/us/pl/94/421/s9/a], Sept. 24, 1976, [90 Stat. 1310][/us/stat/90/1310]; [Pub. L. 105–241, § 3][/us/pl/105/241/s3], Sept. 28, 1998, [112 Stat. 1572][/us/stat/112/1572]; [Pub. L. 109–435, title I, § 102(a)][/us/pl/109/435/s102/a], title IV, § 403(b)(2), title VI, § 604(a), title X, §§ 1006(a), 1010(e), Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200], 3227, 3241, 3258, 3261.)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 724][/us/stat/84/724]; [Pub. L. 94–421][/us/pl/94/421], § 9(a), Sept. 24, 1976, [90 Stat. 1310][/us/stat/90/1310]; [Pub. L. 105–241][/us/pl/105/241], § 3, Sept. 28, 1998, [112 Stat. 1572][/us/stat/112/1572]; [Pub. L. 109–435, title I][/us/pl/109/435/tI], § 102(a), title IV, § 403(b)(2), title VI, § 604(a), title X, §§ 1006(a), 1010(e), Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200], 3227, 3241, 3258, 3261.)
 
  __References in Text__ 
 
@@ -115,21 +115,21 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–435, § 403(b)(2)][/us/pl/109/435/s403/b/2], substituted “Subject to the provisions of section 404a, but otherwise without” for “Without” in introductory provisions.
+    2006—Subsec. (a). [Pub. L. 109–435][/us/pl/109/435], § 403(b)(2), substituted “Subject to the provisions of section 404a, but otherwise without” for “Without” in introductory provisions.
 
-    Subsec. (a)(6) to (9). [Pub. L. 109–435, § 102(a)(1)][/us/pl/109/435/s102/a/1], redesignated pars. (7) to (9) as (6) to (8), respectively, and struck out former par. (6), which read “to provide, establish, change, or abolish special nonpostal or similar services;”.
+    Subsec. (a)(6) to (9). [Pub. L. 109–435][/us/pl/109/435], § 102(a)(1), redesignated pars. (7) to (9) as (6) to (8), respectively, and struck out former par. (6), which read “to provide, establish, change, or abolish special nonpostal or similar services;”.
 
-    Subsec. (b). [Pub. L. 109–435, § 1010(e)][/us/pl/109/435/s1010/e], added subsec. (b). Former subsec. (b) redesignated (d).
+    Subsec. (b). [Pub. L. 109–435][/us/pl/109/435], § 1010(e), added subsec. (b). Former subsec. (b) redesignated (d).
 
-    Subsec. (b)(5). [Pub. L. 109–435, § 604(a)][/us/pl/109/435/s604/a], substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+    Subsec. (b)(5). [Pub. L. 109–435][/us/pl/109/435], § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-    Subsec. (b)(6). [Pub. L. 109–435, § 1006(a)][/us/pl/109/435/s1006/a], added par. (6).
+    Subsec. (b)(6). [Pub. L. 109–435][/us/pl/109/435], § 1006(a), added par. (6).
 
-    Subsec. (c). [Pub. L. 109–435, § 1010(e)][/us/pl/109/435/s1010/e], added subsec. (c). Former subsec. (c) redesignated (e).
+    Subsec. (c). [Pub. L. 109–435][/us/pl/109/435], § 1010(e), added subsec. (c). Former subsec. (c) redesignated (e).
 
-    [Pub. L. 109–435, § 102(a)(2)][/us/pl/109/435/s102/a/2], added subsec. (c).
+    [Pub. L. 109–435][/us/pl/109/435], § 102(a)(2), added subsec. (c).
 
-    Subsecs. (d), (e). [Pub. L. 109–435, § 1010(e)][/us/pl/109/435/s1010/e], redesignated subsecs. (b) and (c) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 109–435][/us/pl/109/435], § 1010(e), redesignated subsecs. (b) and (c) as (d) and (e), respectively.
 
     1998—Subsec. (b)(2). [Pub. L. 105–241][/us/pl/105/241] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Postal Service, in making a determination whether or not to close or consolidate a post office, shall consider—
 
@@ -147,13 +147,13 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–435, title X, § 1006(b)][/us/pl/109/435/s1006/b], Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that: 
+[Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1006(b), Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that: 
 
 > “This section \[amending this section\] and the amendments made by this section shall apply with respect to any determination to close or consolidate a post office which is first made available, in accordance with paragraph (3) of [section 404(b) of title 39][/us/usc/t39/s404/b], United States Code, after the end of the 3-month period beginning on the date of the enactment of this Act \[Dec. 20, 2006\].”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–421, § 9(b)][/us/pl/94/421/s9/b], Sept. 24, 1976, [90 Stat. 1311][/us/stat/90/1311], provided that: 
+[Pub. L. 94–421][/us/pl/94/421], § 9(b), Sept. 24, 1976, [90 Stat. 1311][/us/stat/90/1311], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on the day after the date on which the Commission on Postal Service transmits its final report under section 7(f)(1) of this Act \[set out as a note under [section 3661 of this title][/us/usc/t39/s3661]\].”
 
@@ -163,7 +163,7 @@
 
  __References to Postal Rate Commission__ 
 
-[Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that: 
+[Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that: 
 
 > “Whenever a reference is made in any provision of law (other than this Act \[see Tables for classification\] or a provision of law amended by this Act), regulation, rule, document, or other record of the United States to the Postal Rate Commission, such reference shall be considered a reference to the Postal Regulatory Commission.”
 
@@ -178,36 +178,36 @@
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F724
-[/us/pl/94/421/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs9%2Fa
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1310
-[/us/pl/105/241/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241%2Fs3
+[/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/stat/112/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1572
-[/us/pl/109/435/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs102%2Fa
+[/us/pl/109/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtI
 [/us/stat/120/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3200
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/109/435/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs403%2Fb%2F2
-[/us/pl/109/435/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs102%2Fa%2F1
-[/us/pl/109/435/s1010/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fe
-[/us/pl/109/435/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fa
-[/us/pl/109/435/s1006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1006%2Fa
-[/us/pl/109/435/s1010/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fe
-[/us/pl/109/435/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs102%2Fa%2F2
-[/us/pl/109/435/s1010/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fe
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/usc/t39/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101%2Fb
 [/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
-[/us/pl/109/435/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1006%2Fb
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3258
 [/us/usc/t39/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs404%2Fb
-[/us/pl/94/421/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs9%2Fb
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1311
 [/us/usc/t39/s3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3661
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 
 

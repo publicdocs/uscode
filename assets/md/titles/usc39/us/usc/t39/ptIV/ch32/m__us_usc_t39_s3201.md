@@ -29,7 +29,7 @@
 
     (6) “missing child” has the meaning provided by section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 751][/us/stat/84/751]; [Pub. L. 99–87, § 1(b)][/us/pl/99/87/s1/b], Aug. 9, 1985, [99 Stat. 291][/us/stat/99/291].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 751][/us/stat/84/751]; [Pub. L. 99–87][/us/pl/99/87], § 1(b), Aug. 9, 1985, [99 Stat. 291][/us/stat/99/291].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F751
-[/us/pl/99/87/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87%2Fs1%2Fb
+[/us/pl/99/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87
 [/us/stat/99/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F291
 [/us/usc/t42/s5772/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5772%2F1
 [/us/pl/99/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87

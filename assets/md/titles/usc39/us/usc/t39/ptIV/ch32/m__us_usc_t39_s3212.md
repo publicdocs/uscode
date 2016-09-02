@@ -19,7 +19,7 @@
 
     (b) Members of Congress may send, as franked mail, any part of, or a reprint of any part of, the Congressional Record, including speeches or reports contained therein, if such matter is mailable as franked mail under [section 3210 of this title][/us/usc/t39/s3210].
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 754][/us/stat/84/754]; [Pub. L. 93–191, § 3][/us/pl/93/191/s3], Dec. 18, 1973, [87 Stat. 741][/us/stat/87/741].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 754][/us/stat/84/754]; [Pub. L. 93–191][/us/pl/93/191], § 3, Dec. 18, 1973, [87 Stat. 741][/us/stat/87/741].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 [/us/usc/t39/s3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F754
-[/us/pl/93/191/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs3
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F741
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191

@@ -21,7 +21,7 @@
 
     (c) The Commission shall not issue its opinion on any proposal until an opportunity for hearing on the record under sections 556 and 557 of title 5 has been accorded to the Postal Service, users of the mail, and an officer of the Commission who shall be required to represent the interests of the general public. The opinion shall be in writing and shall include a certification by each Commissioner agreeing with the opinion that in his judgment the opinion conforms to the policies established under this title.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 764][/us/stat/84/764]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 764][/us/stat/84/764]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Commission on Postal Service__ 
 
-    [Pub. L. 94–421, § 7][/us/pl/94/421/s7], Sept. 24, 1976, [90 Stat. 1307][/us/stat/90/1307], related to establishment, appointment and compensation of personnel and officers of a Commission on Postal Service and its duty to determine public service aspects of Postal Service and extent to which public service aspects of Postal Service are to be supported by appropriations, to study rate making, and to review service levels and electronic fund transfers and communication techniques, with appropriate recommendations to be transmitted to President and Congress on or before Mar. 15, 1977, 60 days after which transmittal it was to cease to exist.
+    [Pub. L. 94–421][/us/pl/94/421], § 7, Sept. 24, 1976, [90 Stat. 1307][/us/stat/90/1307], related to establishment, appointment and compensation of personnel and officers of a Commission on Postal Service and its duty to determine public service aspects of Postal Service and extent to which public service aspects of Postal Service are to be supported by appropriations, to study rate making, and to review service levels and electronic fund transfers and communication techniques, with appropriate recommendations to be transmitted to President and Congress on or before Mar. 15, 1977, 60 days after which transmittal it was to cease to exist.
 
 ----------
 
@@ -44,12 +44,12 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F764
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/94/421/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs7
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1307
 
 

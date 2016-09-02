@@ -87,7 +87,7 @@
 
     Any documentary material provided pursuant to any subpoena issued under this section shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552], United States Code.
 
-(Added [Pub. L. 106–168, title I, § 107(a)][/us/pl/106/168/s107/a], Dec. 12, 1999, [113 Stat. 1812][/us/stat/113/1812].)
+(Added [Pub. L. 106–168, title I][/us/pl/106/168/tI], § 107(a), Dec. 12, 1999, [113 Stat. 1812][/us/stat/113/1812].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 
  __Regulations__ 
 
-[Pub. L. 106–168, title I, § 107(b)][/us/pl/106/168/s107/b], Dec. 12, 1999, [113 Stat. 1813][/us/stat/113/1813], provided that: 
+[Pub. L. 106–168, title I][/us/pl/106/168/tI], § 107(b), Dec. 12, 1999, [113 Stat. 1813][/us/stat/113/1813], provided that: 
 
 > “Not later than 120 days after the date of the enactment of this section \[Dec. 12, 1999\], the Postal Service shall promulgate regulations setting out the procedures the Postal Service will use to implement the amendment made by subsection (a) \[enacting this section\].”
 
@@ -113,11 +113,11 @@
 [/us/usc/t18/s3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3061
 [/us/usc/t28/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1291
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/106/168/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs107%2Fa
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1812
 [/us/pl/106/168/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs111
 [/us/usc/t39/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3001
-[/us/pl/106/168/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs107%2Fb
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1813
 
 

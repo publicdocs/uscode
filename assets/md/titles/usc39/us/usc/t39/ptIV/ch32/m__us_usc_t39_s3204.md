@@ -43,7 +43,7 @@
 
         (8) articles or documents to educational institutions or public libraries, or to Federal, State, or other public authorities.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 752][/us/stat/84/752]; [Pub. L. 99–87, § 1(c)(1)][/us/pl/99/87/s1/c/1], Aug. 9, 1985, [99 Stat. 291][/us/stat/99/291].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 752][/us/stat/84/752]; [Pub. L. 99–87][/us/pl/99/87], § 1(c)(1), Aug. 9, 1985, [99 Stat. 291][/us/stat/99/291].)
 
  __Amendments__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t16/s825k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825k
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F752
-[/us/pl/99/87/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87%2Fs1%2Fc%2F1
+[/us/pl/99/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87
 [/us/stat/99/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F291
 [/us/pl/99/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F87
 [/us/usc/t39/s3220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3220%2Fa

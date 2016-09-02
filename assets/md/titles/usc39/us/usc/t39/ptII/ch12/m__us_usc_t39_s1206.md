@@ -25,7 +25,7 @@
 
  __Use of Funds for Restructuring of Employee Compensation Practices__ 
 
-[Pub. L. 98–396, title III, § 303][/us/pl/98/396/s303], Aug. 22, 1984, [98 Stat. 1422][/us/stat/98/1422], provided that: 
+[Pub. L. 98–396, title III][/us/pl/98/396/tIII], § 303, Aug. 22, 1984, [98 Stat. 1422][/us/stat/98/1422], provided that: 
 
 > “None of the funds made available to the United States Postal Service under this Act \[see Tables for classification\] or any other Act may be used to restructure employee compensation practices as in effect under the most recently effective collective bargaining agreement under [section 1206 of title 39][/us/usc/t39/s1206], United States Code, except in accordance with the results of procedures set forth in section 1207 of such title.”
 
@@ -39,7 +39,7 @@
 [/us/usc/t39/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1203
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F735
-[/us/pl/98/396/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396%2Fs303
+[/us/pl/98/396/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396%2FtIII
 [/us/stat/98/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1422
 [/us/usc/t39/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1206
 

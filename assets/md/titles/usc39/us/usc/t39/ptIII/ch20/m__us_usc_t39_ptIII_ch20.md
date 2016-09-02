@@ -123,15 +123,15 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, title IV, § 401(a)(2)][/us/pl/109/435/s401/a/2], Dec. 20, 2006, [120 Stat. 3225][/us/stat/120/3225], added item 2011.
+    2006—[Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 401(a)(2), Dec. 20, 2006, [120 Stat. 3225][/us/stat/120/3225], added item 2011.
 
-    1997—[Pub. L. 105–33, title VII, § 7003(a)(2)(A)][/us/pl/105/33/s7003/a/2/A], Aug. 5, 1997, [111 Stat. 663][/us/stat/111/663], struck out item 2004 “Transitional appropriations”.
+    1997—[Pub. L. 105–33, title VII][/us/pl/105/33/tVII], § 7003(a)(2)(A), Aug. 5, 1997, [111 Stat. 663][/us/stat/111/663], struck out item 2004 “Transitional appropriations”.
 
-    1989—[Pub. L. 101–239, title IV, § 4001(a)(2)][/us/pl/101/239/s4001/a/2], Dec. 19, 1989, [103 Stat. 2133][/us/stat/103/2133], added item 2009a.
+    1989—[Pub. L. 101–239, title IV][/us/pl/101/239/tIV], § 4001(a)(2), Dec. 19, 1989, [103 Stat. 2133][/us/stat/103/2133], added item 2009a.
 
  __Disposition of Savings Accruing to the United States Postal Service__ 
 
-    [Pub. L. 108–18, § 3][/us/pl/108/18/s3], Apr. 23, 2003, [117 Stat. 627][/us/stat/117/627], which provided for disposition of savings accruing to the United States Postal Service, was repealed by [Pub. L. 109–435, title VIII, § 804(a)][/us/pl/109/435/s804/a], Dec. 20, 2006, [120 Stat. 3253][/us/stat/120/3253].
+    [Pub. L. 108–18][/us/pl/108/18], § 3, Apr. 23, 2003, [117 Stat. 627][/us/stat/117/627], which provided for disposition of savings accruing to the United States Postal Service, was repealed by [Pub. L. 109–435, title VIII][/us/pl/109/435/tVIII], § 804(a), Dec. 20, 2006, [120 Stat. 3253][/us/stat/120/3253].
 
 ----------
 
@@ -140,15 +140,15 @@
 ----------
 ----------
 
-[/us/pl/109/435/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs401%2Fa%2F2
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3225
-[/us/pl/105/33/s7003/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs7003%2Fa%2F2%2FA
+[/us/pl/105/33/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVII
 [/us/stat/111/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F663
-[/us/pl/101/239/s4001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs4001%2Fa%2F2
+[/us/pl/101/239/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIV
 [/us/stat/103/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2133
-[/us/pl/108/18/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18%2Fs3
+[/us/pl/108/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F18
 [/us/stat/117/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F627
-[/us/pl/109/435/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs804%2Fa
+[/us/pl/109/435/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVIII
 [/us/stat/120/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3253
 
 

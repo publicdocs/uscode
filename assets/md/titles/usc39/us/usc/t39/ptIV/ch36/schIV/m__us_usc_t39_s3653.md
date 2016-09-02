@@ -41,7 +41,7 @@
 
     A timely written determination described in the last sentence of subsection (b) shall, for purposes of any proceeding under section 3662, create a rebuttable presumption of compliance by the Postal Service (with regard to the matters described under paragraphs (1) and (2) of subsection (b)) during the year to which such determination relates.
 
-(Added [Pub. L. 109–435, title II, § 204(b)][/us/pl/109/435/s204/b], Dec. 20, 2006, [120 Stat. 3213][/us/stat/120/3213].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 204(b), Dec. 20, 2006, [120 Stat. 3213][/us/stat/120/3213].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs204%2Fb
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3213
 
 

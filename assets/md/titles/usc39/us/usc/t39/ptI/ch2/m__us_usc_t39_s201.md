@@ -25,7 +25,7 @@
 
  __Transfer of Functions; Abolition of Office__ 
 
-[Pub. L. 91–375, § 4(a)][/us/pl/91/375/s4/a], Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], provided that: 
+[Pub. L. 91–375][/us/pl/91/375], § 4(a), Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], provided that: 
 
 > “There are hereby transferred to the United States Postal Service all the functions, powers, and duties of the Post Office Department and the Postmaster General of the Post Office Department, and the Post Office Department and the office of Postmaster General of the Post Office Department are abolished.”
 
@@ -33,7 +33,7 @@
 
  __Inspector General of the United States Postal Service__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(e)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–382, provided that:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 662(e)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–382, provided that:
 
 >     “(1)  __First appointment__  __.—__ 
 
@@ -74,12 +74,12 @@
 [/us/stat/84/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F720
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/91/375/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs4%2Fa
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
 [/us/pl/91/375/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs4%2Fa
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452

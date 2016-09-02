@@ -21,7 +21,7 @@
 
     (2) during the 90-day period immediately following the expiration of their terms of office, as franked mail by Members of Congress.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 754][/us/stat/84/754]; [Pub. L. 97–69, § 5(b)][/us/pl/97/69/s5/b], Oct. 26, 1981, [95 Stat. 1043][/us/stat/95/1043].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 754][/us/stat/84/754]; [Pub. L. 97–69][/us/pl/97/69], § 5(b), Oct. 26, 1981, [95 Stat. 1043][/us/stat/95/1043].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F754
-[/us/pl/97/69/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69%2Fs5%2Fb
+[/us/pl/97/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69
 [/us/stat/95/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1043
 [/us/pl/97/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69
 

@@ -103,7 +103,7 @@
 
     This section shall cease to be effective at the end of the 10-year period beginning on the date on which semipostals are first made available to the public under this section.
 
-(Added [Pub. L. 106–253, § 2(a)][/us/pl/106/253/s2/a], July 28, 2000, [114 Stat. 634][/us/stat/114/634]; amended [Pub. L. 107–67, title VI, § 652(c)(1)][/us/pl/107/67/s652/c/1], Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557]; [Pub. L. 107–117, div. B, § 1201][/us/pl/107/117/s1201], Jan. 10, 2002, [115 Stat. 2335][/us/stat/115/2335].)
+(Added [Pub. L. 106–253][/us/pl/106/253], § 2(a), July 28, 2000, [114 Stat. 634][/us/stat/114/634]; amended [Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 652(c)(1), Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557]; [Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 1201, Jan. 10, 2002, [115 Stat. 2335][/us/stat/115/2335].)
 
  __Amendments__ 
 
@@ -113,13 +113,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–253, § 2(d)][/us/pl/106/253/s2/d], formerly § 2(e), July 28, 2000, [114 Stat. 636][/us/stat/114/636], as renumbered § 2(d) by [Pub. L. 112–234, § 2(e)(2)][/us/pl/112/234/s2/e/2], Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625], provided that: 
+[Pub. L. 106–253][/us/pl/106/253], § 2(d), formerly § 2(e), July 28, 2000, [114 Stat. 636][/us/stat/114/636], as renumbered § 2(d) by [Pub. L. 112–234][/us/pl/112/234], § 2(e)(2), Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625], provided that: 
 
 > “The program under [section 416 of title 39][/us/usc/t39/s416], United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\].”
 
  __Multinational Species Conservation Funds Semipostal Stamp__ 
 
-[Pub. L. 111–241][/us/pl/111/241], Sept. 30, 2010, [124 Stat. 2605][/us/stat/124/2605], as amended by [Pub. L. 113–165, § 2][/us/pl/113/165/s2], Sept. 19, 2014, [128 Stat. 1878][/us/stat/128/1878], provided that:
+[Pub. L. 111–241][/us/pl/111/241], Sept. 30, 2010, [124 Stat. 2605][/us/stat/124/2605], as amended by [Pub. L. 113–165][/us/pl/113/165], § 2, Sept. 19, 2014, [128 Stat. 1878][/us/stat/128/1878], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -181,7 +181,7 @@
 
  __The 9/11 Heroes Stamp__ 
 
-[Pub. L. 107–67, title VI, § 652][/us/pl/107/67/s652], Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557], as amended by [Pub. L. 107–117, div. B, § 1201][/us/pl/107/117/s1201], Jan. 10, 2002, [115 Stat. 2335][/us/stat/115/2335], provided that:
+[Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 652, Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557], as amended by [Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 1201, Jan. 10, 2002, [115 Stat. 2335][/us/stat/115/2335], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -233,7 +233,7 @@
 
  __Domestic Violence Semipostal Stamp__ 
 
-[Pub. L. 107–67, title VI, § 653][/us/pl/107/67/s653], Nov. 12, 2001, [115 Stat. 558][/us/stat/115/558], provided that:
+[Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 653, Nov. 12, 2001, [115 Stat. 558][/us/stat/115/558], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -269,7 +269,7 @@
 
  __Reports by Agencies__ 
 
-[Pub. L. 106–253, § 2(b)][/us/pl/106/253/s2/b], July 28, 2000, [114 Stat. 636][/us/stat/114/636], provided that: 
+[Pub. L. 106–253][/us/pl/106/253], § 2(b), July 28, 2000, [114 Stat. 636][/us/stat/114/636], provided that: 
 
 > “Each agency that receives any funding in a year under [section 416 of title 39][/us/usc/t39/s416], United States Code (as amended by this section) shall submit a written report under this subsection, with respect to such year, to the congressional committees with jurisdiction over the United States Postal Service. Each such report shall include—
 
@@ -281,7 +281,7 @@
 
  __Reports by the Government Accountability Office__ 
 
-    [Pub. L. 106–253, § 2(c)][/us/pl/106/253/s2/c], July 28, 2000, [114 Stat. 636][/us/stat/114/636], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], which required the GAO to submit both interim and final reports to the President and each House of Congress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by [Pub. L. 112–234, § 2(e)(1)][/us/pl/112/234/s2/e/1], Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624].
+    [Pub. L. 106–253][/us/pl/106/253], § 2(c), July 28, 2000, [114 Stat. 636][/us/stat/114/636], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], which required the GAO to submit both interim and final reports to the President and each House of Congress on operations of the program established under this section, with the final report to include a detailed statement of the findings and conclusions of the GAO and any appropriate recommendations, was repealed by [Pub. L. 112–234][/us/pl/112/234], § 2(e)(1), Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624].
 
 ----------
 
@@ -291,48 +291,48 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/106/253/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253%2Fs2%2Fa
+[/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
 [/us/stat/114/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F634
-[/us/pl/107/67/s652/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs652%2Fc%2F1
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F557
-[/us/pl/107/117/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs1201
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2335
 [/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
 [/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
 [/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
 [/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
-[/us/pl/106/253/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253%2Fs2%2Fd
+[/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
 [/us/stat/114/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F636
-[/us/pl/112/234/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fe%2F2
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1625
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
 [/us/pl/111/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F241
 [/us/stat/124/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2605
-[/us/pl/113/165/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F165%2Fs2
+[/us/pl/113/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F165
 [/us/stat/128/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1878
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
 [/us/usc/t39/s416/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416%2Fa%2F1
-[/us/pl/107/67/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs652
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F557
-[/us/pl/107/117/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs1201
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2335
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/67/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs653
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F558
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
-[/us/pl/106/253/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253%2Fs2%2Fb
+[/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
 [/us/stat/114/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F636
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
-[/us/pl/106/253/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253%2Fs2%2Fc
+[/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
 [/us/stat/114/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F636
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/112/234/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fe%2F1
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1624
 
 

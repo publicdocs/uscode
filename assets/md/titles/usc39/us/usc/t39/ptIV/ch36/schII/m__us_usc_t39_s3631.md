@@ -39,7 +39,7 @@
 
     Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
 
-(Added [Pub. L. 109–435, title II, § 202][/us/pl/109/435/s202], Dec. 20, 2006, [120 Stat. 3205][/us/stat/120/3205].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 202, Dec. 20, 2006, [120 Stat. 3205][/us/stat/120/3205].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs202
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3205
 
 

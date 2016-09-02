@@ -55,7 +55,7 @@
 
     The Board of Governors may prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 109–435, title V, § 506][/us/pl/109/435/s506], Dec. 20, 2006, [120 Stat. 3236][/us/stat/120/3236].)
+(Added [Pub. L. 109–435, title V][/us/pl/109/435/tV], § 506, Dec. 20, 2006, [120 Stat. 3236][/us/stat/120/3236].)
 
 ----------
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/pl/109/435/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs506
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3236
 
 

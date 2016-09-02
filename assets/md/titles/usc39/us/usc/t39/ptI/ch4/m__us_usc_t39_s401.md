@@ -37,13 +37,13 @@
 
     (10) to have all other powers incidental, necessary, or appropriate to the carrying on of its functions or the exercise of its specific powers.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 722][/us/stat/84/722]; [Pub. L. 109–435, title IV, § 403(b)(1)][/us/pl/109/435/s403/b/1], title V, § 504, Dec. 20, 2006, [120 Stat. 3227][/us/stat/120/3227], 3235.)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 722][/us/stat/84/722]; [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 403(b)(1), title V, § 504, Dec. 20, 2006, [120 Stat. 3227][/us/stat/120/3227], 3235.)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, § 403(b)(1)][/us/pl/109/435/s403/b/1], substituted “Subject to the provisions of section 404a, the” for “The” in introductory provisions.
+    2006—[Pub. L. 109–435][/us/pl/109/435], § 403(b)(1), substituted “Subject to the provisions of section 404a, the” for “The” in introductory provisions.
 
-    Par. (2). [Pub. L. 109–435, § 504][/us/pl/109/435/s504], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;”.
+    Par. (2). [Pub. L. 109–435][/us/pl/109/435], § 504, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;”.
 
  __Effective Date__ 
 
@@ -63,10 +63,10 @@
 [/us/usc/t39/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2002
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F722
-[/us/pl/109/435/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs403%2Fb%2F1
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3227
-[/us/pl/109/435/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs403%2Fb%2F1
-[/us/pl/109/435/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs504
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195

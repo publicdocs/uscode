@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3622.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3627.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626)
+[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3623...3625.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3627.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626)
 
 ## § 3626. Reduced rates
 
@@ -93,7 +93,7 @@
 
     (h) In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former [section 4358 of this title][/us/usc/t39/s4358] may not exceed 10 percent of the number of copies of such publication mailed at such rates to subscribers.
 
-    \[(i) Repealed. [Pub. L. 103–123, title VII, § 704(a)(3)(A)][/us/pl/103/123/s704/a/3/A], Oct. 28, 1993, [107 Stat. 1269][/us/stat/107/1269].\]
+    \[(i) Repealed. [Pub. L. 103–123, title VII][/us/pl/103/123/tVII], § 704(a)(3)(A), Oct. 28, 1993, [107 Stat. 1269][/us/stat/107/1269].\]
 
     (j)
 
@@ -161,7 +161,7 @@
 
     (n) In the administration of this section, matter that satisfies the circulation standards for requester publications shall not be excluded from being mailed at the rates for mail under former section 4358 solely because such matter is designed primarily for free circulation or for circulation at nominal rates, or fails to meet the requirements of former section 4354(a)(5).
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 762][/us/stat/84/762]; [Pub. L. 93–328, § 1][/us/pl/93/328/s1], June 30, 1974, [88 Stat. 287][/us/stat/88/287]; [Pub. L. 94–421, § 11][/us/pl/94/421/s11], Sept. 24, 1976, [90 Stat. 1311][/us/stat/90/1311]; [Pub. L. 95–593, § 11(c)][/us/pl/95/593/s11/c], Nov. 4, 1978, [92 Stat. 2538][/us/stat/92/2538]; [Pub. L. 99–272, title XV][/us/pl/99/272], §§ 15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, [100 Stat. 330][/us/stat/100/330], 331; [Pub. L. 99–509, title VI, § 6003(a)][/us/pl/99/509/s6003/a], Oct. 21, 1986, [100 Stat. 1933][/us/stat/100/1933]; [Pub. L. 101–509, title II][/us/pl/101/509], §§ 1(a), 3, Nov. 5, 1990, [104 Stat. 1397][/us/stat/104/1397], 1399; [Pub. L. 102–141, title II][/us/pl/102/141], Oct. 28, 1991, [105 Stat. 842][/us/stat/105/842], 843; [Pub. L. 103–123, title VII][/us/pl/103/123], §§ 704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, [107 Stat. 1267][/us/stat/107/1267], 1269, 1271, 1273; [Pub. L. 103–329, title VI, § 639][/us/pl/103/329/s639], Sept. 30, 1994, [108 Stat. 2432][/us/stat/108/2432]; [Pub. L. 104–255, § 2][/us/pl/104/255/s2], Oct. 9, 1996, [110 Stat. 3169][/us/stat/110/3169]; [Pub. L. 105–244, title I, § 102(a)(12)][/us/pl/105/244/s102/a/12], Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 106–384][/us/pl/106/384], §§ 1(b)–(e), 2(b), Oct. 27, 2000, [114 Stat. 1460–1462][/us/stat/114/1460-1462]; [Pub. L. 109–435, title X, § 1003][/us/pl/109/435/s1003], Dec. 20, 2006, [120 Stat. 3255][/us/stat/120/3255].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 762][/us/stat/84/762]; [Pub. L. 93–328][/us/pl/93/328], § 1, June 30, 1974, [88 Stat. 287][/us/stat/88/287]; [Pub. L. 94–421][/us/pl/94/421], § 11, Sept. 24, 1976, [90 Stat. 1311][/us/stat/90/1311]; [Pub. L. 95–593][/us/pl/95/593], § 11(c), Nov. 4, 1978, [92 Stat. 2538][/us/stat/92/2538]; [Pub. L. 99–272, title XV][/us/pl/99/272/tXV], §§ 15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, [100 Stat. 330][/us/stat/100/330], 331; [Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6003(a), Oct. 21, 1986, [100 Stat. 1933][/us/stat/100/1933]; [Pub. L. 101–509, title II][/us/pl/101/509/tII], §§ 1(a), 3, Nov. 5, 1990, [104 Stat. 1397][/us/stat/104/1397], 1399; [Pub. L. 102–141, title II][/us/pl/102/141/tII], Oct. 28, 1991, [105 Stat. 842][/us/stat/105/842], 843; [Pub. L. 103–123, title VII][/us/pl/103/123/tVII], §§ 704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, [107 Stat. 1267][/us/stat/107/1267], 1269, 1271, 1273; [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 639, Sept. 30, 1994, [108 Stat. 2432][/us/stat/108/2432]; [Pub. L. 104–255][/us/pl/104/255], § 2, Oct. 9, 1996, [110 Stat. 3169][/us/stat/110/3169]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(12), Oct. 7, 1998, [112 Stat. 1620][/us/stat/112/1620]; [Pub. L. 106–384][/us/pl/106/384], §§ 1(b)–(e), 2(b), Oct. 27, 2000, [114 Stat. 1460–1462][/us/stat/114/1460-1462]; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1003, Dec. 20, 2006, [120 Stat. 3255][/us/stat/120/3255].)
 
  __References in Text__ 
 
@@ -175,25 +175,25 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1) to (3). [Pub. L. 109–435, § 1003(1)][/us/pl/109/435/s1003/1], added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined “costs attributable”, “regular-rate category”, and “institutional-costs contribution”, and par. (3) required rates of postage for a class of mail or kind of mailer under former [section 4358 of this title][/us/usc/t39/s4358] to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
+    2006—Subsec. (a)(1) to (3). [Pub. L. 109–435][/us/pl/109/435], § 1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined “costs attributable”, “regular-rate category”, and “institutional-costs contribution”, and par. (3) required rates of postage for a class of mail or kind of mailer under former [section 4358 of this title][/us/usc/t39/s4358] to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
 
-    Subsec. (g)(3), (4). [Pub. L. 109–435, § 1003(2)][/us/pl/109/435/s1003/2], added pars. (3) and (4).
+    Subsec. (g)(3), (4). [Pub. L. 109–435][/us/pl/109/435], § 1003(2), added pars. (3) and (4).
 
-    Subsec. (n). [Pub. L. 109–435, § 1003(3)][/us/pl/109/435/s1003/3], added subsec. (n).
+    Subsec. (n). [Pub. L. 109–435][/us/pl/109/435], § 1003(3), added subsec. (n).
 
-    2000—Subsec. (a)(1). [Pub. L. 106–384, § 2(b)][/us/pl/106/384/s2/b], substituted “4554(b), or 4554(c)” for “4454(b), or 4454(c)”.
+    2000—Subsec. (a)(1). [Pub. L. 106–384][/us/pl/106/384], § 2(b), substituted “4554(b), or 4554(c)” for “4454(b), or 4454(c)”.
 
-    Subsec. (a)(3)(A). [Pub. L. 106–384, § 1(b)][/us/pl/106/384/s1/b], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
+    Subsec. (a)(3)(A). [Pub. L. 106–384][/us/pl/106/384], § 1(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
 
     “(i) the estimated costs attributable to such class of mail or kind of mailer; and
 
     “(ii) the product derived by multiplying the estimated costs referred to in clause (i) by the applicable percentage under subparagraph (B).”
 
-    Subsec. (a)(4). [Pub. L. 106–384, § 1(c)][/us/pl/106/384/s1/c], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion.”
+    Subsec. (a)(4). [Pub. L. 106–384][/us/pl/106/384], § 1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion.”
 
-    Subsec. (a)(6). [Pub. L. 106–384, § 1(d)][/us/pl/106/384/s1/d], added par. (6).
+    Subsec. (a)(6). [Pub. L. 106–384][/us/pl/106/384], § 1(d), added par. (6).
 
-    Subsec. (a)(7). [Pub. L. 106–384, § 1(e)][/us/pl/106/384/s1/e], added par. (7).
+    Subsec. (a)(7). [Pub. L. 106–384][/us/pl/106/384], § 1(e), added par. (7).
 
     1998—Subsec. (b)(3). [Pub. L. 105–244][/us/pl/105/244] substituted “section 101” for “section 1201(a)” and struck out “([20 U.S.C. 1141(a)][/us/usc/t20/s1141/a])” after “Act of 1965”.
 
@@ -201,33 +201,33 @@
 
     1994—Subsec. (j)(1)(D)(III). [Pub. L. 103–329][/us/pl/103/329] added cl. (III).
 
-    1993—Subsec. (a). [Pub. L. 103–123, § 704(a)(1)][/us/pl/103/123/s704/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+    1993—Subsec. (a). [Pub. L. 103–123][/us/pl/103/123], § 704(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
     “(1) Except as provided in paragraph (2) of this subsection, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with applicable provisions of this chapter.
 
     “(2) Rates of postage for a class of mail or kind of mailer referred to in paragraph (1) of this subsection shall be established in accordance with the requirement that the direct and indirect postal costs attributable to such class of mail or kind of mailer (excluding any other costs of the Postal Service) shall be borne by such class of mail or kind of mailer, as the case may be: Provided, however, That with respect to mail under former section 4452(b) and 4452(c) of this title the preceding limitation shall apply only to rates of postage for letter shaped pieces, as such pieces are defined in the associated classification and rate schedules.”
 
-    Subsec. (i). [Pub. L. 103–123, § 704(a)(3)(A)][/us/pl/103/123/s704/a/3/A], struck out subsec. (i) which defined “reduced-rate category” and “regular-rate category” and provided method for determining costs recovered by revenues plus appropriations for reduced-rate categories and for the purpose of distinguishing costs recovered from regular-rate categories and reduced-rate categories and determining appropriation requests relating to reduced-rate categories.
+    Subsec. (i). [Pub. L. 103–123][/us/pl/103/123], § 704(a)(3)(A), struck out subsec. (i) which defined “reduced-rate category” and “regular-rate category” and provided method for determining costs recovered by revenues plus appropriations for reduced-rate categories and for the purpose of distinguishing costs recovered from regular-rate categories and reduced-rate categories and determining appropriation requests relating to reduced-rate categories.
 
-    Subsec. (j)(1)(D). [Pub. L. 103–123, § 705(a)][/us/pl/103/123/s705/a], added subpar. (D).
+    Subsec. (j)(1)(D). [Pub. L. 103–123][/us/pl/103/123], § 705(a), added subpar. (D).
 
-    Subsec. (j)(3). [Pub. L. 103–123, § 705(c)][/us/pl/103/123/s705/c], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (j)(3). [Pub. L. 103–123][/us/pl/103/123], § 705(c), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (k), (l). [Pub. L. 103–123, § 708(e)][/us/pl/103/123/s708/e], redesignated subsec. (k), defining “advertising”, as (l).
+    Subsec. (k), (l). [Pub. L. 103–123][/us/pl/103/123], § 708(e), redesignated subsec. (k), defining “advertising”, as (l).
 
-    Subsec. (m). [Pub. L. 103–123, § 705(b)][/us/pl/103/123/s705/b], added subsec. (m).
+    Subsec. (m). [Pub. L. 103–123][/us/pl/103/123], § 705(b), added subsec. (m).
 
     1991—Subsec. (a)(2). [Pub. L. 102–141][/us/pl/102/141] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Rates of postage for a class of mail or kind of mailer referred to in paragraph (1) of this subsection shall be established in accordance with the requirement that the direct and indirect postal costs attributable to such class of mail or kind of mailer (excluding any other costs of the Postal Service) shall be borne by such class of mail or kind of mailer, as the case may be.”
 
     Subsec. (i)(2). [Pub. L. 102–141][/us/pl/102/141] inserted “Subject to the requirements of [section 2401(c) of this title][/us/usc/t39/s2401/c] and paragraph (a)(2) of this section with respect to mail under former sections 4452(b) and 4452(c) of this title,” before “This subsection”.
 
-    1990—Subsec. (j). [Pub. L. 101–509, § 1(a)][/us/pl/101/509/s1/a], added subsec. (j).
+    1990—Subsec. (j). [Pub. L. 101–509][/us/pl/101/509], § 1(a), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 101–509, § 3][/us/pl/101/509/s3], added subsec. (k) defining “advertising”.
+    Subsec. (k). [Pub. L. 101–509][/us/pl/101/509], § 3, added subsec. (k) defining “advertising”.
 
-    [Pub. L. 101–509, § 1(a)][/us/pl/101/509/s1/a], added subsec. (k) relating to mailing of matter at inapplicable rates.
+    [Pub. L. 101–509][/us/pl/101/509], § 1(a), added subsec. (k) relating to mailing of matter at inapplicable rates.
 
-    1986—Subsec. (a). [Pub. L. 99–272, § 15102(b)(1)][/us/pl/99/272/s15102/b/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
+    1986—Subsec. (a). [Pub. L. 99–272][/us/pl/99/272], § 15102(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
 
     “(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c) shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
 
@@ -237,11 +237,11 @@
 
     No person who would have been entitled to mail matter under former [section 4359 of this title][/us/usc/t39/s4359] shall mail such matter at the rates provided under this subsection unless he files annually with the Postal Service a written request for permission to mail matter at such rates.”
 
-    Subsec. (f). [Pub. L. 99–272, § 15102(c)][/us/pl/99/272/s15102/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–272][/us/pl/99/272], § 15102(c), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 99–272, § 15104][/us/pl/99/272/s15104], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–272][/us/pl/99/272], § 15104, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 99–272, § 15105][/us/pl/99/272/s15105], added subsec. (h).
+    Subsec. (h). [Pub. L. 99–272][/us/pl/99/272], § 15105, added subsec. (h).
 
     Subsec. (i). [Pub. L. 99–509][/us/pl/99/509] added subsec. (i).
 
@@ -257,11 +257,11 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–123, title VII, § 704(c)(1)][/us/pl/103/123/s704/c/1], Oct. 28, 1993, [107 Stat. 1270][/us/stat/107/1270], provided that: 
+[Pub. L. 103–123, title VII][/us/pl/103/123/tVII], § 704(c)(1), Oct. 28, 1993, [107 Stat. 1270][/us/stat/107/1270], provided that: 
 
 > “The amendments made by subsection (a) \[enacting [section 3642 of this title][/us/usc/t39/s3642] and amending this section and [section 3627 of this title][/us/usc/t39/s3627]\] shall apply with respect to rates for mail sent after September 30, 1993.”
 
-[Pub. L. 103–123, title VII, § 705(d)][/us/pl/103/123/s705/d], Oct. 28, 1993, [107 Stat. 1272][/us/stat/107/1272], provided that: 
+[Pub. L. 103–123, title VII][/us/pl/103/123/tVII], § 705(d), Oct. 28, 1993, [107 Stat. 1272][/us/stat/107/1272], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to mail sent, and the rates for mail sent, after December 31, 1993.”
 
@@ -271,17 +271,17 @@
 
  __Effective Date of 1986 Amendments__ 
 
-[Pub. L. 99–509, title VI, § 6003(c)][/us/pl/99/509/s6003/c], Oct. 21, 1986, [100 Stat. 1933][/us/stat/100/1933], provided that: 
+[Pub. L. 99–509, title VI][/us/pl/99/509/tVI], § 6003(c), Oct. 21, 1986, [100 Stat. 1933][/us/stat/100/1933], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2401 of this title][/us/usc/t39/s2401]\] shall take effect on January 1, 1989, or on the effective date of the next general change in rates and fees under sections 3622 and 3625 of title 39, United States Code \[Apr. 3, 1988, see 53 F.R. 10014\], whichever is sooner.”
 
-[Pub. L. 99–272, title XV, § 15102(b)(2)][/us/pl/99/272/s15102/b/2], Apr. 7, 1986, [100 Stat. 330][/us/stat/100/330], provided that: 
+[Pub. L. 99–272, title XV][/us/pl/99/272/tXV], § 15102(b)(2), Apr. 7, 1986, [100 Stat. 330][/us/stat/100/330], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply with respect to rates of postage taking effect after December 31, 1985.”
 
  __Relief of Certain Periodical Publications__ 
 
-[Pub. L. 104–52, title V, § 527][/us/pl/104/52/s527], Nov. 19, 1995, [109 Stat. 496][/us/stat/109/496], provided that: 
+[Pub. L. 104–52, title V][/us/pl/104/52/tV], § 527, Nov. 19, 1995, [109 Stat. 496][/us/stat/109/496], provided that: 
 
 > “For mail classification purposes under [section 3626 of title 39][/us/usc/t39/s3626], United States Code, and any regulations of the United States Postal Service for the administration of that section, a weekly second-class periodical publication which—
 
@@ -295,7 +295,7 @@
 
  __Forbearance Regarding Certain Postage Deficiencies__ 
 
-[Pub. L. 101–509, title II, § 2][/us/pl/101/509/s2], Nov. 5, 1990, [104 Stat. 1398][/us/stat/104/1398], provided that:
+[Pub. L. 101–509, title II][/us/pl/101/509/tII], § 2, Nov. 5, 1990, [104 Stat. 1398][/us/stat/104/1398], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -307,13 +307,13 @@
 
  __Construction Respecting Postage Rates Reduction Unauthorized__ 
 
-[Pub. L. 93–328, § 2][/us/pl/93/328/s2], June 30, 1974, [88 Stat. 288][/us/stat/88/288], provided that: 
+[Pub. L. 93–328][/us/pl/93/328], § 2, June 30, 1974, [88 Stat. 288][/us/stat/88/288], provided that: 
 
 > “Nothing in section 1 of this Act \[amending this section\] shall be construed to authorize a reduction in any rate of postage in effect and being paid on the date of enactment of this Act \[June 30, 1974\].”
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3622.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3627.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626)
+[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3623...3625.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3627.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626)
 
 ----------
 ----------
@@ -327,72 +327,72 @@
 [/us/usc/t39/s4358/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs4358%2Fg
 [/us/usc/t39/s4358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs4358
 [/us/usc/t39/s4358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs4358
-[/us/pl/103/123/s704/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fa%2F3%2FA
+[/us/pl/103/123/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVII
 [/us/stat/107/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1269
 [/us/usc/t39/s4358/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs4358%2Fj%2F2
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F762
-[/us/pl/93/328/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F328%2Fs1
+[/us/pl/93/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F328
 [/us/stat/88/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F287
-[/us/pl/94/421/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs11
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1311
-[/us/pl/95/593/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F593%2Fs11%2Fc
+[/us/pl/95/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F593
 [/us/stat/92/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2538
-[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXV
 [/us/stat/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F330
-[/us/pl/99/509/s6003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6003%2Fa
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1933
-[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtII
 [/us/stat/104/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1397
-[/us/pl/102/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141
+[/us/pl/102/141/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141%2FtII
 [/us/stat/105/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F842
-[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVII
 [/us/stat/107/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1267
-[/us/pl/103/329/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs639
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2432
-[/us/pl/104/255/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F255%2Fs2
+[/us/pl/104/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F255
 [/us/stat/110/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3169
-[/us/pl/105/244/s102/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F12
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1620
 [/us/pl/106/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384
 [/us/stat/114/1460-1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1460-1462
-[/us/pl/109/435/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1003
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3255
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F719
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t26/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs513
 [/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
-[/us/pl/109/435/s1003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1003%2F1
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/usc/t39/s4358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs4358
-[/us/pl/109/435/s1003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1003%2F2
-[/us/pl/109/435/s1003/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1003%2F3
-[/us/pl/106/384/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384%2Fs2%2Fb
-[/us/pl/106/384/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384%2Fs1%2Fb
-[/us/pl/106/384/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384%2Fs1%2Fc
-[/us/pl/106/384/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384%2Fs1%2Fd
-[/us/pl/106/384/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384%2Fs1%2Fe
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/106/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384
+[/us/pl/106/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384
+[/us/pl/106/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384
+[/us/pl/106/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384
+[/us/pl/106/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1141%2Fa
 [/us/pl/104/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F255
 [/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
-[/us/pl/103/123/s704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fa%2F1
-[/us/pl/103/123/s704/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fa%2F3%2FA
-[/us/pl/103/123/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs705%2Fa
-[/us/pl/103/123/s705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs705%2Fc
-[/us/pl/103/123/s708/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs708%2Fe
-[/us/pl/103/123/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs705%2Fb
+[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
+[/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
 [/us/pl/102/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141
 [/us/pl/102/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F141
 [/us/usc/t39/s2401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2401%2Fc
-[/us/pl/101/509/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fa
-[/us/pl/101/509/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs3
-[/us/pl/101/509/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fa
-[/us/pl/99/272/s15102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15102%2Fb%2F1
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t39/s4359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs4359
-[/us/pl/99/272/s15102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15102%2Fc
-[/us/pl/99/272/s15104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15104
-[/us/pl/99/272/s15105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15105
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/95/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F593
 [/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
@@ -401,26 +401,26 @@
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/103/123/s704/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fc%2F1
+[/us/pl/103/123/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVII
 [/us/stat/107/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1270
 [/us/usc/t39/s3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3642
 [/us/usc/t39/s3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3627
-[/us/pl/103/123/s705/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs705%2Fd
+[/us/pl/103/123/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVII
 [/us/stat/107/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1272
 [/us/pl/101/509/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fa
 [/us/pl/101/509/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fc
 [/us/usc/t39/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2401
-[/us/pl/99/509/s6003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6003%2Fc
+[/us/pl/99/509/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVI
 [/us/stat/100/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1933
 [/us/usc/t39/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2401
-[/us/pl/99/272/s15102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs15102%2Fb%2F2
+[/us/pl/99/272/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXV
 [/us/stat/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F330
-[/us/pl/104/52/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs527
+[/us/pl/104/52/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtV
 [/us/stat/109/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F496
 [/us/usc/t39/s3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626
-[/us/pl/101/509/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs2
+[/us/pl/101/509/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtII
 [/us/stat/104/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1398
-[/us/pl/93/328/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F328%2Fs2
+[/us/pl/93/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F328
 [/us/stat/88/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F288
 
 

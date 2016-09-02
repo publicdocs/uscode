@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t39/ptIII/ch20/m__us_usc_t39_s2003.md) | [Next](./../../../../..//us/usc/t39/ptIII/ch20/m__us_usc_t39_s2005.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2004)
 
-## \[§ 2004. Repealed. [Pub. L. 105–33, title VII, § 7003(a)(1)][/us/pl/105/33/s7003/a/1], Aug. 5, 1997, [111 Stat. 663][/us/stat/111/663]\]
+## \[§ 2004. Repealed. [Pub. L. 105–33, title VII][/us/pl/105/33/tVII], § 7003(a)(1), Aug. 5, 1997, [111 Stat. 663][/us/stat/111/663]\]
 
     Section, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 739][/us/stat/84/739], authorized appropriations to ensure a sound financial transition for the Postal Service.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/105/33/s7003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs7003%2Fa%2F1
+[/us/pl/105/33/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVII
 [/us/stat/111/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F663
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F739

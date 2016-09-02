@@ -17,7 +17,7 @@
 
     The functions and activities of this chapter shall be considered to be inherently Governmental functions. The drafting of strategic plans, performance plans, and program performance reports under this section shall be performed only by employees of the Postal Service.
 
-(Added [Pub. L. 103–62, § 7][/us/pl/103/62/s7], Aug. 3, 1993, [107 Stat. 294][/us/stat/107/294].)
+(Added [Pub. L. 103–62][/us/pl/103/62], § 7, Aug. 3, 1993, [107 Stat. 294][/us/stat/107/294].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/62/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs7
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F294
 
 

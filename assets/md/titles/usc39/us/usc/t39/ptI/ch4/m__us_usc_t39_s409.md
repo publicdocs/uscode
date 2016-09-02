@@ -115,7 +115,7 @@
 
     (h) A judgment against the Government of the United States arising out of activities of the Postal Service shall be paid by the Postal Service out of any funds available to the Postal Service, subject to the restriction specified in section 2011(g).
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 725][/us/stat/84/725]; [Pub. L. 97–258, § 2(k)][/us/pl/97/258/s2/k], Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062]; [Pub. L. 109–435, title IV, § 404][/us/pl/109/435/s404], Dec. 20, 2006, [120 Stat. 3227][/us/stat/120/3227].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 725][/us/stat/84/725]; [Pub. L. 97–258][/us/pl/97/258], § 2(k), Sept. 13, 1982, [96 Stat. 1062][/us/stat/96/1062]; [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 404, Dec. 20, 2006, [120 Stat. 3227][/us/stat/120/3227].)
 
 <table>
 
@@ -183,9 +183,9 @@ July 27, 1956, ch. 748, 70 Stat. 678, § 1302 (last sentence); added Aug. 12, 
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–435, § 404(b)][/us/pl/109/435/s404/b], substituted “Except as otherwise provided in this title,” for “Except as provided in [section 3628 of this title][/us/usc/t39/s3628],”.
+    2006—Subsec. (a). [Pub. L. 109–435][/us/pl/109/435], § 404(b), substituted “Except as otherwise provided in this title,” for “Except as provided in [section 3628 of this title][/us/usc/t39/s3628],”.
 
-    Subsecs. (d) to (h). [Pub. L. 109–435, § 404(a)][/us/pl/109/435/s404/a], added subsecs. (d) to (h) and struck out former subsecs. (d) and (e), which read as follows:
+    Subsecs. (d) to (h). [Pub. L. 109–435][/us/pl/109/435], § 404(a), added subsecs. (d) to (h) and struck out former subsecs. (d) and (e), which read as follows:
 
     “(d) The Department of Justice shall furnish, under [section 411 of this title][/us/usc/t39/s411], the Postal Service such legal representation as it may require, but with the prior consent of the Attorney General the Postal Service may employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
 
@@ -209,9 +209,9 @@ July 27, 1956, ch. 748, 70 Stat. 678, § 1302 (last sentence); added Aug. 12, 
 [/us/usc/t18/s1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1696
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F725
-[/us/pl/97/258/s2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fk
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1062
-[/us/pl/109/435/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs404
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3227
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427
@@ -220,9 +220,9 @@ July 27, 1956, ch. 748, 70 Stat. 678, § 1302 (last sentence); added Aug. 12, 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t29/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs53
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/109/435/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs404%2Fb
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/usc/t39/s3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3628
-[/us/pl/109/435/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs404%2Fa
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/usc/t39/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs411
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa

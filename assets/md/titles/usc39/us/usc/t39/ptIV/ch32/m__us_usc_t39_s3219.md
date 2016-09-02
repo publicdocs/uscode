@@ -17,7 +17,7 @@
 
     Any Mailgram sent by the Vice President, a Member of or Member-elect to Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, and then delivered by the Postal Service, shall be considered as franked mail, subject to [section 3216(a)(2) of this title][/us/usc/t39/s3216/a/2], if such Mailgram contains matter of the kind authorized to be sent by that official as franked mail under [section 3210 of this title][/us/usc/t39/s3210].
 
-(Added [Pub. L. 93–191, § 12(a)][/us/pl/93/191/s12/a], Dec. 18, 1973, [87 Stat. 746][/us/stat/87/746]; amended [Pub. L. 95–521, title VII, § 714(c)][/us/pl/95/521/s714/c], Oct. 26, 1978, [92 Stat. 1884][/us/stat/92/1884]; [Pub. L. 97–263, § 1(4)][/us/pl/97/263/s1/4], Sept. 24, 1982, [96 Stat. 1132][/us/stat/96/1132].)
+(Added [Pub. L. 93–191][/us/pl/93/191], § 12(a), Dec. 18, 1973, [87 Stat. 746][/us/stat/87/746]; amended [Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 714(c), Oct. 26, 1978, [92 Stat. 1884][/us/stat/92/1884]; [Pub. L. 97–263][/us/pl/97/263], § 1(4), Sept. 24, 1982, [96 Stat. 1132][/us/stat/96/1132].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 
 [/us/usc/t39/s3216/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3216%2Fa%2F2
 [/us/usc/t39/s3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210
-[/us/pl/93/191/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs12%2Fa
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F746
-[/us/pl/95/521/s714/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs714%2Fc
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1884
-[/us/pl/97/263/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F263%2Fs1%2F4
+[/us/pl/97/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F263
 [/us/stat/96/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1132
 [/us/pl/97/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F263
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521

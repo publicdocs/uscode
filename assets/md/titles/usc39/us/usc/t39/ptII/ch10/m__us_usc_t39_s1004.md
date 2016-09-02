@@ -125,7 +125,7 @@
 
             (B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters’ organizations (acting in concert) as represented by either or any of the postmasters’ organizations involved.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 731][/us/stat/84/731]; [Pub. L. 96–326][/us/pl/96/326], Aug. 8, 1980, [94 Stat. 1023][/us/stat/94/1023]; [Pub. L. 108–86, § 2(a)][/us/pl/108/86/s2/a]–(c), Sept. 30, 2003, [117 Stat. 1052][/us/stat/117/1052].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 731][/us/stat/84/731]; [Pub. L. 96–326][/us/pl/96/326], Aug. 8, 1980, [94 Stat. 1023][/us/stat/94/1023]; [Pub. L. 108–86][/us/pl/108/86], § 2(a)–(c), Sept. 30, 2003, [117 Stat. 1052][/us/stat/117/1052].)
 
  __References in Text__ 
 
@@ -133,19 +133,19 @@
 
  __Amendments__ 
 
-    2003—Subsec. (b). [Pub. L. 108–86, § 2(a)(2)][/us/pl/108/86/s2/a/2], which directed substitution of “supervisors or postmasters)” for “supervisors)” in second sentence, was executed by making the substitution the second time “supervisors)” appears in the sentence to reflect the probable intent of Congress.
+    2003—Subsec. (b). [Pub. L. 108–86][/us/pl/108/86], § 2(a)(2), which directed substitution of “supervisors or postmasters)” for “supervisors)” in second sentence, was executed by making the substitution the second time “supervisors)” appears in the sentence to reflect the probable intent of Congress.
 
-    [Pub. L. 108–86, § 2(a)(1)][/us/pl/108/86/s2/a/1], inserted “that an organization (other than an organization representing supervisors) represents at least 20 percent of postmasters,” after “majority of supervisors,”.
+    [Pub. L. 108–86][/us/pl/108/86], § 2(a)(1), inserted “that an organization (other than an organization representing supervisors) represents at least 20 percent of postmasters,” after “majority of supervisors,”.
 
-    Subsec. (h). [Pub. L. 108–86, § 2(b)(2)][/us/pl/108/86/s2/b/2], added subsec. (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 108–86][/us/pl/108/86], § 2(b)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 108–86, § 2(b)(1)][/us/pl/108/86/s2/b/1], (c), redesignated subsec. (h) as (i) and added pars. (3) to (5).
+    Subsec. (i). [Pub. L. 108–86][/us/pl/108/86], § 2(b)(1), (c), redesignated subsec. (h) as (i) and added pars. (3) to (5).
 
     1980—Subsecs. (c) to (h). [Pub. L. 96–326][/us/pl/96/326] added subsecs. (c) to (h).
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–86, § 3][/us/pl/108/86/s3], Sept. 30, 2003, [117 Stat. 1053][/us/stat/117/1053], provided that: 
+[Pub. L. 108–86][/us/pl/108/86], § 3, Sept. 30, 2003, [117 Stat. 1053][/us/stat/117/1053], provided that: 
 
 > “The amendments made by this section \[probably should be “this Act”, amending this section and enacting provisions set out as notes under this section and [section 101 of this title][/us/usc/t39/s101]\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 30, 2003\].”
 
@@ -155,7 +155,7 @@
 
  __Thrift Advisory Council Not To Be Affected__ 
 
-[Pub. L. 108–86, § 2(d)][/us/pl/108/86/s2/d], Sept. 30, 2003, [117 Stat. 1053][/us/stat/117/1053], provided that: 
+[Pub. L. 108–86][/us/pl/108/86], § 2(d), Sept. 30, 2003, [117 Stat. 1053][/us/stat/117/1053], provided that: 
 
 > “For purposes of [section 8473(b)(4) of title 5][/us/usc/t5/s8473/b/4], United States Code—
 
@@ -176,20 +176,20 @@
 [/us/stat/84/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F731
 [/us/pl/96/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F326
 [/us/stat/94/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1023
-[/us/pl/108/86/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86%2Fs2%2Fa
+[/us/pl/108/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86
 [/us/stat/117/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1052
 [/us/pl/96/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F326
-[/us/pl/108/86/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86%2Fs2%2Fa%2F2
-[/us/pl/108/86/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86%2Fs2%2Fa%2F1
-[/us/pl/108/86/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86%2Fs2%2Fb%2F2
-[/us/pl/108/86/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86%2Fs2%2Fb%2F1
+[/us/pl/108/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86
+[/us/pl/108/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86
+[/us/pl/108/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86
+[/us/pl/108/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86
 [/us/pl/96/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F326
-[/us/pl/108/86/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86%2Fs3
+[/us/pl/108/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86
 [/us/stat/117/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1053
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/108/86/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86%2Fs2%2Fd
+[/us/pl/108/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F86
 [/us/stat/117/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1053
 [/us/usc/t5/s8473/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8473%2Fb%2F4
 [/us/usc/t39/s1004/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1004%2Fh%2F1%2FB

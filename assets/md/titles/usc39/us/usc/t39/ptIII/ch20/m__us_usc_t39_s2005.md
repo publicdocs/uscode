@@ -79,25 +79,25 @@
 
         (5) not be obligations of, nor shall payment of the principal thereof or interest thereon be guaranteed by, the Government of the United States, except as provided in [section 2006(c) of this title][/us/usc/t39/s2006/c].
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 740][/us/stat/84/740]; [Pub. L. 101–227, § 3(a)][/us/pl/101/227/s3/a], Dec. 12, 1989, [103 Stat. 1944][/us/stat/103/1944]; [Pub. L. 109–435, title V, § 502][/us/pl/109/435/s502], Dec. 20, 2006, [120 Stat. 3233][/us/stat/120/3233].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 740][/us/stat/84/740]; [Pub. L. 101–227][/us/pl/101/227], § 3(a), Dec. 12, 1989, [103 Stat. 1944][/us/stat/103/1944]; [Pub. L. 109–435, title V][/us/pl/109/435/tV], § 502, Dec. 20, 2006, [120 Stat. 3233][/us/stat/120/3233].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–435, § 502(c)(2)][/us/pl/109/435/s502/c/2], substituted “obligations issued by the Postal Service which may be” for “any such obligations” in second sentence.
+    2006—Subsec. (a)(1). [Pub. L. 109–435][/us/pl/109/435], § 502(c)(2), substituted “obligations issued by the Postal Service which may be” for “any such obligations” in second sentence.
 
-    [Pub. L. 109–435, § 502(b)][/us/pl/109/435/s502/b], substituted third sentence for former third sentence which read: “In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.”
+    [Pub. L. 109–435][/us/pl/109/435], § 502(b), substituted third sentence for former third sentence which read: “In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.”
 
-    [Pub. L. 109–435, § 502(a)][/us/pl/109/435/s502/a], substituted “title, other than any of the purposes for which the corresponding authority is available to the Postal Service under section 2011” for “title” in first sentence.
+    [Pub. L. 109–435][/us/pl/109/435], § 502(a), substituted “title, other than any of the purposes for which the corresponding authority is available to the Postal Service under section 2011” for “title” in first sentence.
 
-    Subsec. (a)(3). [Pub. L. 109–435, § 502(c)(1)][/us/pl/109/435/s502/c/1], added par. (3).
+    Subsec. (a)(3). [Pub. L. 109–435][/us/pl/109/435], § 502(c)(1), added par. (3).
 
-    Subsec. (b). [Pub. L. 109–435, § 502(d)][/us/pl/109/435/s502/d], substituted “obligations issued by the Postal Service under this section,” for “such obligations,”, designated existing provisions as par. (1), and added par. (2).
+    Subsec. (b). [Pub. L. 109–435][/us/pl/109/435], § 502(d), substituted “obligations issued by the Postal Service under this section,” for “such obligations,”, designated existing provisions as par. (1), and added par. (2).
 
     1989—Subsec. (a). [Pub. L. 101–227][/us/pl/101/227] designated existing provisions as par. (1), substituted “the maximum amount then allowable under paragraph (2) of this subsection” for “$10,000,000,000”, “$2,000,000,000” for “$1,500,000,000”, and “$1,000,000,000” for “$500,000,000” and added par. (2).
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–227, § 3(b)][/us/pl/101/227/s3/b], Dec. 12, 1989, [103 Stat. 1944][/us/stat/103/1944], provided that:
+[Pub. L. 101–227][/us/pl/101/227], § 3(b), Dec. 12, 1989, [103 Stat. 1944][/us/stat/103/1944], provided that:
 
 >     “(1) Subject to the provisions of paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1990.
 
@@ -115,17 +115,17 @@
 [/us/usc/t39/s2006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2006%2Fc
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F740
-[/us/pl/101/227/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F227%2Fs3%2Fa
-[/us/stat/103/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1944
-[/us/pl/109/435/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs502
-[/us/stat/120/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3233
-[/us/pl/109/435/s502/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs502%2Fc%2F2
-[/us/pl/109/435/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs502%2Fb
-[/us/pl/109/435/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs502%2Fa
-[/us/pl/109/435/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs502%2Fc%2F1
-[/us/pl/109/435/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs502%2Fd
 [/us/pl/101/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F227
-[/us/pl/101/227/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F227%2Fs3%2Fb
+[/us/stat/103/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1944
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
+[/us/stat/120/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3233
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/101/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F227
+[/us/pl/101/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F227
 [/us/stat/103/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1944
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/stat/103/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2106

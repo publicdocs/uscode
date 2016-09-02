@@ -115,7 +115,7 @@
 
         Amounts collected under subsection (c)(1)(A) and any punitive damages collected under subsection (c)(1)(C) shall be deposited into the Treasury of the United States.
 
-(Added [Pub. L. 109–435, title X, § 1008(b)][/us/pl/109/435/s1008/b], Dec. 20, 2006, [120 Stat. 3259][/us/stat/120/3259].)
+(Added [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1008(b), Dec. 20, 2006, [120 Stat. 3259][/us/stat/120/3259].)
 
 ----------
 
@@ -124,7 +124,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1008%2Fb
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3259
 
 

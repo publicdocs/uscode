@@ -17,7 +17,7 @@
 
     The Postal Regulatory Commission shall designate an officer of the Postal Regulatory Commission in all public proceedings (such as developing rules, regulations, and procedures) who shall represent the interests of the general public.
 
-(Added [Pub. L. 109–435, title VI, § 601(a)(4)][/us/pl/109/435/s601/a/4], Dec. 20, 2006, [120 Stat. 3239][/us/stat/120/3239].)
+(Added [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 601(a)(4), Dec. 20, 2006, [120 Stat. 3239][/us/stat/120/3239].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s601/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs601%2Fa%2F4
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3239
 
 

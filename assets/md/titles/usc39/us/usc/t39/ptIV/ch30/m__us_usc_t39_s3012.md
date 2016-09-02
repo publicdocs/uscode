@@ -45,15 +45,15 @@
 
     (f) In any proceeding at any time under this section, the defendant shall be entitled as a defense or counterclaim to seek judicial review, if not already had, pursuant to chapter 7 of title 5, of the order issued under [section 3005 of this title][/us/usc/t39/s3005]. However, nothing in this section shall be construed to preclude independent judicial review otherwise available pursuant to chapter 7 of title 5 of an order issued under [section 3005 of this title][/us/usc/t39/s3005].
 
-(Added [Pub. L. 98–186, § 3(a)][/us/pl/98/186/s3/a], Nov. 30, 1983, [97 Stat. 1316][/us/stat/97/1316]; amended [Pub. L. 106–168, title I, § 106][/us/pl/106/168/s106], Dec. 12, 1999, [113 Stat. 1811][/us/stat/113/1811].)
+(Added [Pub. L. 98–186][/us/pl/98/186], § 3(a), Nov. 30, 1983, [97 Stat. 1316][/us/stat/97/1316]; amended [Pub. L. 106–168, title I][/us/pl/106/168/tI], § 106, Dec. 12, 1999, [113 Stat. 1811][/us/stat/113/1811].)
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–168, § 106(1)][/us/pl/106/168/s106/1], in concluding provisions, substituted “$50,000 for each mailing of less than 50,000 pieces; $100,000 for each mailing of 50,000 to 100,000 pieces; with an additional $10,000 for each additional 10,000 pieces above 100,000, not to exceed $2,000,000” for “$10,000 for each day that such person engages in conduct described by paragraph (1), (2), or (3) of this subsection”.
+    1999—Subsec. (a). [Pub. L. 106–168][/us/pl/106/168], § 106(1), in concluding provisions, substituted “$50,000 for each mailing of less than 50,000 pieces; $100,000 for each mailing of 50,000 to 100,000 pieces; with an additional $10,000 for each additional 10,000 pieces above 100,000, not to exceed $2,000,000” for “$10,000 for each day that such person engages in conduct described by paragraph (1), (2), or (3) of this subsection”.
 
-    Subsec. (b)(1), (2). [Pub. L. 106–168, § 106(2)][/us/pl/106/168/s106/2], inserted “, (c), or (d)” after “of subsection (a)”.
+    Subsec. (b)(1), (2). [Pub. L. 106–168][/us/pl/106/168], § 106(2), inserted “, (c), or (d)” after “of subsection (a)”.
 
-    Subsecs. (c) to (f). [Pub. L. 106–168, § 106(3)][/us/pl/106/168/s106/3], (4), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
+    Subsecs. (c) to (f). [Pub. L. 106–168][/us/pl/106/168], § 106(3), (4), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
  __Effective Date of 1999 Amendment__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–186, § 3(b)][/us/pl/98/186/s3/b], Nov. 30, 1983, [97 Stat. 1317][/us/stat/97/1317], provided that: 
+[Pub. L. 98–186][/us/pl/98/186], § 3(b), Nov. 30, 1983, [97 Stat. 1317][/us/stat/97/1317], provided that: 
 
 > “[Section 3012 of title 39][/us/usc/t39/s3012], United States Code (as added by subsection (a) of this section) shall apply with respect to conduct which occurs on or after the date of the enactment of this Act \[Nov. 30, 1983\].”
 
@@ -77,17 +77,17 @@
 [/us/usc/t39/s409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs409%2Fd
 [/us/usc/t39/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3005
 [/us/usc/t39/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3005
-[/us/pl/98/186/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186%2Fs3%2Fa
+[/us/pl/98/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186
 [/us/stat/97/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1316
-[/us/pl/106/168/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs106
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1811
-[/us/pl/106/168/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs106%2F1
-[/us/pl/106/168/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs106%2F2
-[/us/pl/106/168/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs106%2F3
+[/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
+[/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
+[/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
 [/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
 [/us/pl/106/168/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs111
 [/us/usc/t39/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3001
-[/us/pl/98/186/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186%2Fs3%2Fb
+[/us/pl/98/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186
 [/us/stat/97/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1317
 [/us/usc/t39/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3012
 

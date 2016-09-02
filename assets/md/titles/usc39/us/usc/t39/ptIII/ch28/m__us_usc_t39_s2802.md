@@ -37,11 +37,11 @@
 
     (d) When developing a strategic plan, the Postal Service shall solicit and consider the views and suggestions of those entities potentially affected by or interested in such a plan, and shall advise the Congress of the contents of the plan.
 
-(Added [Pub. L. 103–62, § 7][/us/pl/103/62/s7], Aug. 3, 1993, [107 Stat. 292][/us/stat/107/292].)
+(Added [Pub. L. 103–62][/us/pl/103/62], § 7, Aug. 3, 1993, [107 Stat. 292][/us/stat/107/292].)
 
  __Strategic Planning__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(d)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–381, provided that:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 662(d)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–381, provided that:
 
 >     “(1) __Office of inspector general of the united states postal service.—__ 
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/103/62/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs7
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F292
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t39/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2009
 [/us/usc/t39/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2009

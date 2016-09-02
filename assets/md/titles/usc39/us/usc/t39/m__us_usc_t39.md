@@ -15,9 +15,9 @@
 
 # Title 39—POSTAL SERVICE
 
-This title was enacted by [Pub. L. 86–682, § 1][/us/pl/86/682/s1], Sept. 2, 1960, [74 Stat. 578][/us/stat/74/578], and was revised and reenacted by [Pub. L. 91–375, § 2][/us/pl/91/375/s2], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719]
+This title was enacted by [Pub. L. 86–682][/us/pl/86/682], § 1, Sept. 2, 1960, [74 Stat. 578][/us/stat/74/578], and was revised and reenacted by [Pub. L. 91–375][/us/pl/91/375], § 2, Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719]
 
-Current through 114-115
+Current through 114-139
 
 <table>
 
@@ -11617,19 +11617,19 @@ Former Sections  </td>
 
  __Positive Law__ 
 
-This title was enacted into law by [Pub. L. 91–375, § 2][/us/pl/91/375/s2], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719], which provided that: 
+This title was enacted into law by [Pub. L. 91–375][/us/pl/91/375], § 2, Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719], which provided that: 
 
 > “Title 39, United States Code, is revised and reenacted, and the sections thereof may be cited as 39 U.S.C. § \_”.
 
  __Effective Dates__ 
 
-[Pub. L. 91–375, § 15][/us/pl/91/375/s15], Aug. 12, 1970, [84 Stat. 787][/us/stat/84/787], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 15, Aug. 12, 1970, [84 Stat. 787][/us/stat/84/787], provided that:
 
 >     “(a) Except as provided in subsection (b) of this section, this section and sections 9 through 13 of this Act \[set out as notes below and under sections 1001, 1003, 1201, and 2004 of this title\], and sections 202, 203, 205(b) and (c), 206, and 401(2), and subchapter I of chapter 36 of title 39, United States Code \[sections 3601 to 3604 of this title\], as enacted by section 2 of this Act, shall become effective on the date of enactment of this Act \[Aug. 12, 1970\]. Except as otherwise provided in this Act \[see Short Title note set out under [section 101 of this title][/us/usc/t39/s101]\] the other provisions of this Act shall become effective within 1 year after the enactment of this Act \[Aug. 12, 1970\] on the date or dates established therefor by the Board of Governors and published by it in the Federal Register. References to the Postal Service in any provision of this Act \[see Short Title note set out under [section 101 of this title][/us/usc/t39/s101]\] (other than a provision referred to in the first sentence of this subsection) which becomes effective before the Postal Service commences operations shall be held and considered to refer to the Post Office Department until the Postal Service commences operations.
 
 >     “(b) Sections 3010 and 3011 of title 39, United States Code, as enacted by section 2 of this Act, and sections 1735, 1736, and 1737 of title 18, United States Code, as enacted by section 6(j) of this Act, shall become effective on the first day of the sixth month which begins after the date of enactment of this Act \[Aug. 12, 1970\].”
 
-The provisions of Title 39, as revised by [Pub. L. 91–375, § 2][/us/pl/91/375/s2], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719], are effective on the following dates:
+The provisions of Title 39, as revised by [Pub. L. 91–375][/us/pl/91/375], § 2, Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719], are effective on the following dates:
 
     Effective Aug. 12, 1970, pursuant to [section 15(a) of Pub. L. 91–375][/us/pl/91/375/s15/a]:
 
@@ -11659,7 +11659,7 @@ Effective Feb. 1, 1971, pursuant to [section 15(b) of Pub. L. 91–375][/us/pl/9
 
  __Savings Provision__ 
 
-[Pub. L. 91–375, § 5][/us/pl/91/375/s5], Aug. 12, 1970, [84 Stat. 774][/us/stat/84/774], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 5, Aug. 12, 1970, [84 Stat. 774][/us/stat/84/774], provided that:
 
 >     “(a)
 
@@ -11713,7 +11713,7 @@ Effective Feb. 1, 1971, pursuant to [section 15(b) of Pub. L. 91–375][/us/pl/9
 
  __Corresponding References__ 
 
-[Pub. L. 91–375, § 6][/us/pl/91/375/s6](o)–(q), Aug. 12, 1970, [84 Stat. 783][/us/stat/84/783], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 6(o)–(q), Aug. 12, 1970, [84 Stat. 783][/us/stat/84/783], provided that:
 
 >     “(o) Whenever any reference is made in any provision of law (other than this Act \[see Short Title note set out under [section 101 of this title][/us/usc/t39/s101]\] or a provision of law amended by this Act), regulation, rule, record, or document to the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department, such reference shall be considered a reference to the United States Postal Service. Any reference to any officer or employee of the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department shall be deemed a reference to the appropriate officer or employee of the United States Postal Service.
 
@@ -11725,7 +11725,7 @@ Effective Feb. 1, 1971, pursuant to [section 15(b) of Pub. L. 91–375][/us/pl/9
 
  __Separability; Legislative Construction__ 
 
-[Pub. L. 91–375, § 11][/us/pl/91/375/s11], Aug. 12, 1970, [84 Stat. 785][/us/stat/84/785], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 11, Aug. 12, 1970, [84 Stat. 785][/us/stat/84/785], provided that:
 
 >     “(a) If a part of title 39, United States Code, as enacted by section 2 of this Act, is held invalid, the remainder of such title shall not be affected thereby; and if any other part of this Act \[see Short Title note set out under [section 101 of this title][/us/usc/t39/s101]\] is held to be invalid, the remainder of the Act shall not be affected thereby.
 
@@ -11740,22 +11740,22 @@ Effective Feb. 1, 1971, pursuant to [section 15(b) of Pub. L. 91–375][/us/pl/9
 ----------
 ----------
 
-[/us/pl/86/682/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs1
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F578
-[/us/pl/91/375/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs2
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F719
-[/us/pl/91/375/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs2
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F719
-[/us/pl/91/375/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F787
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/91/375/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs2
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F719
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/pl/91/375/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fb
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
-[/us/pl/91/375/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs5
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F774
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
@@ -11773,13 +11773,13 @@ Effective Feb. 1, 1971, pursuant to [section 15(b) of Pub. L. 91–375][/us/pl/9
 [/us/pl/91/375/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fb
 [/us/pl/91/375/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs5
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
-[/us/pl/91/375/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F783
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
-[/us/pl/91/375/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs11
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F785
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/91/375/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs11

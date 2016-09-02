@@ -43,7 +43,7 @@
 
     (d) After the commencement of operations of the Postal Service, the President is authorized to transfer to the Postal Service, and the Postal Service is authorized to transfer to other departments, agencies, or independent establishments of the Government of the United States, with or without reimbursement, any property of that department, agency, or independent establishment and the Postal Service, respectively, when the public interest would be served by such transfer.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 738][/us/stat/84/738]; [Pub. L. 109–435, title IV, § 401(b)(2)][/us/pl/109/435/s401/b/2], Dec. 20, 2006, [120 Stat. 3225][/us/stat/120/3225].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 738][/us/stat/84/738]; [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 401(b)(2), Dec. 20, 2006, [120 Stat. 3225][/us/stat/120/3225].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Assets of Postal Service__ 
 
-[Pub. L. 91–375, § 4(b)][/us/pl/91/375/s4/b], Aug. 12, 1970, [84 Stat. 774][/us/stat/84/774], provided that: 
+[Pub. L. 91–375][/us/pl/91/375], § 4(b), Aug. 12, 1970, [84 Stat. 774][/us/stat/84/774], provided that: 
 
 > “Postal revenues and fees collected on and after the effective date of this section \[see note below\] shall be considered assets of the Postal Service.”
 
@@ -89,11 +89,11 @@ By virtue of the authority vested in me by the Postal Reorganization Act ([39 U.
 [/us/usc/t39/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2103
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F738
-[/us/pl/109/435/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs401%2Fb%2F2
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3225
 [/us/usc/t39/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2001
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/91/375/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs4%2Fb
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F774
 [/us/pl/91/375/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs4%2Fb
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa

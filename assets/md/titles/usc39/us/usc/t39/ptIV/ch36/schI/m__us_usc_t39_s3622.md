@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3621.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3626.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3622)
+[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3621.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3623...3625.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3622)
 
 ## § 3622. Modern rate regulation
 
@@ -203,7 +203,7 @@
 
     For the 1-year period beginning on the date of enactment of this section, rates and classes for market-dominant products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were last in effect before the date of enactment of this section. Proceedings initiated to consider a request for a recommended decision filed by the Postal Service during that 1-year period shall be completed in accordance with subchapter II of chapter 36 of this title and implementing regulations, as in effect before the date of enactment of this section.
 
-(Added [Pub. L. 109–435, title II, § 201(a)][/us/pl/109/435/s201/a], Dec. 20, 2006, [120 Stat. 3201][/us/stat/120/3201].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 201(a), Dec. 20, 2006, [120 Stat. 3201][/us/stat/120/3201].)
 
  __References in Text__ 
 
@@ -211,49 +211,27 @@
 
  __Prior Provisions__ 
 
-    A prior section 3622, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 760][/us/stat/84/760]; [Pub. L. 94–421, § 10][/us/pl/94/421/s10], Sept. 24, 1976, [90 Stat. 1311][/us/stat/90/1311]; [Pub. L. 105–241, § 5][/us/pl/105/241/s5], Sept. 28, 1998, [112 Stat. 1573][/us/stat/112/1573]; [Pub. L. 106–384, § 1(a)][/us/pl/106/384/s1/a], Oct. 27, 2000, [114 Stat. 1460][/us/stat/114/1460], related to rates and fees, prior to repeal by [Pub. L. 109–435, title II, § 201(a)][/us/pl/109/435/s201/a], Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200].
-
-\[§§ 3623 to 3625. __Repealed.__  __[__  __Pub. L. 109–435, title II, § 201(b)__  __][/us/pl/109/435/s201/b]__  __,__  __Dec. 20, 2006__  __,__  __[__  __120 Stat. 3205__  __][/us/stat/120/3205]__  __\]__ 
-
-    Section 3623, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 761][/us/stat/84/761]; [Pub. L. 94–421, § 8][/us/pl/94/421/s8], Sept. 24, 1976, [90 Stat. 1310][/us/stat/90/1310], related to mail classification.
-
-    Section 3624, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 761][/us/stat/84/761]; [Pub. L. 94–421, § 5(a)][/us/pl/94/421/s5/a], Sept. 24, 1976, [90 Stat. 1306][/us/stat/90/1306], related to recommended decisions of the Postal Rate Commission.
-
-    Section 3625, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 762][/us/stat/84/762]; [Pub. L. 103–123, title VII, § 708(d)][/us/pl/103/123/s708/d], Oct. 28, 1993, [107 Stat. 1273][/us/stat/107/1273], related to action of the Board of Governors of the Postal Service.
+    A prior section 3622, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 760][/us/stat/84/760]; [Pub. L. 94–421][/us/pl/94/421], § 10, Sept. 24, 1976, [90 Stat. 1311][/us/stat/90/1311]; [Pub. L. 105–241][/us/pl/105/241], § 5, Sept. 28, 1998, [112 Stat. 1573][/us/stat/112/1573]; [Pub. L. 106–384][/us/pl/106/384], § 1(a), Oct. 27, 2000, [114 Stat. 1460][/us/stat/114/1460], related to rates and fees, prior to repeal by [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 201(a), Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3621.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3626.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3622)
+[Previous](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3621.md) | [Next](./../../../../../..//us/usc/t39/ptIV/ch36/schI/m__us_usc_t39_s3623...3625.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3622)
 
 ----------
 ----------
 
-[/us/pl/109/435/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs201%2Fa
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3201
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F760
-[/us/pl/94/421/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs10
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1311
-[/us/pl/105/241/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241%2Fs5
+[/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/stat/112/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1573
-[/us/pl/106/384/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384%2Fs1%2Fa
+[/us/pl/106/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F384
 [/us/stat/114/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1460
-[/us/pl/109/435/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs201%2Fa
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3200
-[/us/pl/109/435/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs201%2Fb
-[/us/stat/120/3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3205
-[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
-[/us/stat/84/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F761
-[/us/pl/94/421/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs8
-[/us/stat/90/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1310
-[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
-[/us/stat/84/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F761
-[/us/pl/94/421/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs5%2Fa
-[/us/stat/90/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1306
-[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
-[/us/stat/84/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F762
-[/us/pl/103/123/s708/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs708%2Fd
-[/us/stat/107/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1273
 
 

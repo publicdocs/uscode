@@ -45,7 +45,7 @@
 
         (4) include the summary findings of those program evaluations completed during the fiscal year covered by the report.
 
-(Added [Pub. L. 103–62, § 7][/us/pl/103/62/s7], Aug. 3, 1993, [107 Stat. 294][/us/stat/107/294]; amended [Pub. L. 109–435, title X, § 1010(d)(2)][/us/pl/109/435/s1010/d/2], Dec. 20, 2006, [120 Stat. 3261][/us/stat/120/3261].)
+(Added [Pub. L. 103–62][/us/pl/103/62], § 7, Aug. 3, 1993, [107 Stat. 294][/us/stat/107/294]; amended [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1010(d)(2), Dec. 20, 2006, [120 Stat. 3261][/us/stat/120/3261].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t39/s2401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2401%2Fe
-[/us/pl/103/62/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs7
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F294
-[/us/pl/109/435/s1010/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fd%2F2
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3261
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 

@@ -101,7 +101,7 @@
 
         (3) program performance reports under section 2804.
 
-(Added [Pub. L. 109–435, title II, § 204(b)][/us/pl/109/435/s204/b], Dec. 20, 2006, [120 Stat. 3211][/us/stat/120/3211].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 204(b), Dec. 20, 2006, [120 Stat. 3211][/us/stat/120/3211].)
 
 ----------
 
@@ -112,7 +112,7 @@
 
 [/us/usc/t39/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs410%2Fc
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/109/435/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs204%2Fb
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3211
 
 

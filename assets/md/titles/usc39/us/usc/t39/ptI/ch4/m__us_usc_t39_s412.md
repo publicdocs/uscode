@@ -19,7 +19,7 @@
 
     (b) The Postal Service shall provide to the Secretary of Commerce for use by the Bureau of the Census such address information, address-related information, and point of postal delivery information, including postal delivery codes, as may be determined by the Secretary to be appropriate for any census or survey being conducted by the Bureau of the Census. The provision of such information under this subsection shall be in accordance with such mutually agreeable terms and conditions, including reimbursability, as the Postal Service and the Secretary of Commerce shall deem appropriate.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 727][/us/stat/84/727]; [Pub. L. 103–430, § 4][/us/pl/103/430/s4], Oct. 31, 1994, [108 Stat. 4394][/us/stat/108/4394].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 727][/us/stat/84/727]; [Pub. L. 103–430][/us/pl/103/430], § 4, Oct. 31, 1994, [108 Stat. 4394][/us/stat/108/4394].)
 
  __Amendments__ 
 
@@ -38,7 +38,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F727
-[/us/pl/103/430/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430%2Fs4
+[/us/pl/103/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430
 [/us/stat/108/4394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4394
 [/us/pl/103/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa

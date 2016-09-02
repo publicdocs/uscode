@@ -29,7 +29,7 @@
 
     (c) Any party (including an officer of the Commission representing the interests of the general public) who believes that the Postal Service has violated this section may bring a complaint in accordance with section 3662.
 
-(Added [Pub. L. 109–435, title IV, § 403(a)][/us/pl/109/435/s403/a], Dec. 20, 2006, [120 Stat. 3226][/us/stat/120/3226].)
+(Added [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 403(a), Dec. 20, 2006, [120 Stat. 3226][/us/stat/120/3226].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs403%2Fa
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3226
 
 

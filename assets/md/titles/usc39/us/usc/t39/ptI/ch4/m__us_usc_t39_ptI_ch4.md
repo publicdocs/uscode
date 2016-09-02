@@ -163,17 +163,17 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–234, § 2(e)(2)][/us/pl/112/234/s2/e/2], Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625], renumbered [Pub. L. 106–253, § 2(d)][/us/pl/106/253/s2/d]. See 2000 Amendment note below.
+    2012—[Pub. L. 112–234][/us/pl/112/234], § 2(e)(2), Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625], renumbered [Pub. L. 106–253][/us/pl/106/253], § 2(d). See 2000 Amendment note below.
 
-    2006—[Pub. L. 109–435, title IV, § 403(c)][/us/pl/109/435/s403/c], Dec. 20, 2006, [120 Stat. 3227][/us/stat/120/3227], added item 404a.
+    2006—[Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 403(c), Dec. 20, 2006, [120 Stat. 3227][/us/stat/120/3227], added item 404a.
 
-    2000—[Pub. L. 106–253, § 2(c)][/us/pl/106/253/s2/c], formerly § 2(d), July 28, 2000, [114 Stat. 636][/us/stat/114/636], as renumbered § 2(c) by [Pub. L. 112–234, § 2(e)(2)][/us/pl/112/234/s2/e/2], Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625], added item 416.
+    2000—[Pub. L. 106–253][/us/pl/106/253], § 2(c), formerly § 2(d), July 28, 2000, [114 Stat. 636][/us/stat/114/636], as renumbered § 2(c) by [Pub. L. 112–234][/us/pl/112/234], § 2(e)(2), Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625], added item 416.
 
-    1998—[Pub. L. 105–241, § 4(b)][/us/pl/105/241/s4/b], Sept. 28, 1998, [112 Stat. 1573][/us/stat/112/1573], added item 415.
+    1998—[Pub. L. 105–241][/us/pl/105/241], § 4(b), Sept. 28, 1998, [112 Stat. 1573][/us/stat/112/1573], added item 415.
 
-    1997—[Pub. L. 105–41, § 2(c)][/us/pl/105/41/s2/c], Aug. 13, 1997, [111 Stat. 1121][/us/stat/111/1121], added item 414.
+    1997—[Pub. L. 105–41][/us/pl/105/41], § 2(c), Aug. 13, 1997, [111 Stat. 1121][/us/stat/111/1121], added item 414.
 
-    1990—[Pub. L. 101–524, § 5(b)][/us/pl/101/524/s5/b], Nov. 6, 1990, [104 Stat. 2303][/us/stat/104/2303], added item 413.
+    1990—[Pub. L. 101–524][/us/pl/101/524], § 5(b), Nov. 6, 1990, [104 Stat. 2303][/us/stat/104/2303], added item 413.
 
 ----------
 
@@ -182,20 +182,20 @@
 ----------
 ----------
 
-[/us/pl/112/234/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fe%2F2
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1625
-[/us/pl/106/253/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253%2Fs2%2Fd
-[/us/pl/109/435/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs403%2Fc
+[/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3227
-[/us/pl/106/253/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253%2Fs2%2Fc
+[/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
 [/us/stat/114/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F636
-[/us/pl/112/234/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fe%2F2
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1625
-[/us/pl/105/241/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241%2Fs4%2Fb
+[/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/stat/112/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1573
-[/us/pl/105/41/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41%2Fs2%2Fc
+[/us/pl/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41
 [/us/stat/111/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1121
-[/us/pl/101/524/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F524%2Fs5%2Fb
+[/us/pl/101/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F524
 [/us/stat/104/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2303
 
 

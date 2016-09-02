@@ -31,7 +31,7 @@
 
  __Invasion of Privacy by Mailing of Sexually Oriented Advertisements__ 
 
-[Pub. L. 91–375, § 14][/us/pl/91/375/s14], Aug. 12, 1970, [84 Stat. 786][/us/stat/84/786], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 14, Aug. 12, 1970, [84 Stat. 786][/us/stat/84/786], provided that:
 
 >     “(a)
 
@@ -62,7 +62,7 @@
 [/us/stat/84/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F749
 [/us/pl/91/375/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fb
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/91/375/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs14
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F786
 [/us/pl/91/375/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs14
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa

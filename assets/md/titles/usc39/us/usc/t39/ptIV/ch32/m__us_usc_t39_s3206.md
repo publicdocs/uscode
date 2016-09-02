@@ -21,7 +21,7 @@
 
     (c) The Department of State shall transfer to the Postal Service as postal revenues out of any appropriations made to it for that purpose the equivalent amount of postage, as determined by the Postal Service, for penalty mailings under clause (1)(C) and (D) of [section 3202(a) of this title][/us/usc/t39/s3202/a].
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 753][/us/stat/84/753]; [Pub. L. 93–191, § 9][/us/pl/93/191/s9], Dec. 18, 1973, [87 Stat. 745][/us/stat/87/745]; [Pub. L. 94–553, § 105(e)][/us/pl/94/553/s105/e], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 753][/us/stat/84/753]; [Pub. L. 93–191][/us/pl/93/191], § 9, Dec. 18, 1973, [87 Stat. 745][/us/stat/87/745]; [Pub. L. 94–553][/us/pl/94/553], § 105(e), Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t39/s3202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3202%2Fa
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F753
-[/us/pl/93/191/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs9
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F745
-[/us/pl/94/553/s105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs105%2Fe
+[/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/stat/90/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2599
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553

@@ -27,7 +27,7 @@
 
     (f) The Commissioners shall serve for terms of 6 years.
 
-(Added [Pub. L. 109–435, title VI, § 601(a)(1)][/us/pl/109/435/s601/a/1], Dec. 20, 2006, [120 Stat. 3238][/us/stat/120/3238].)
+(Added [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 601(a)(1), Dec. 20, 2006, [120 Stat. 3238][/us/stat/120/3238].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs601%2Fa%2F1
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3238
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/stat/120/3198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3198

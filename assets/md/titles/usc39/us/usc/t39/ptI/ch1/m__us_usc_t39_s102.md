@@ -37,7 +37,7 @@
 
     (10) “year”, as used in chapter 36 (other than subchapters I and VI thereof), means a fiscal year.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 720][/us/stat/84/720]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(a)(2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–379; [Pub. L. 109–435, title I, § 101][/us/pl/109/435/s101], Dec. 20, 2006, [120 Stat. 3199][/us/stat/120/3199].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 720][/us/stat/84/720]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 662(a)(2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–379; [Pub. L. 109–435, title I][/us/pl/109/435/tI], § 101, Dec. 20, 2006, [120 Stat. 3199][/us/stat/120/3199].)
 
  __Amendments__ 
 
@@ -62,9 +62,9 @@
 [/us/usc/t39/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs202%2Fe
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F720
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/109/435/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs101
+[/us/pl/109/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtI
 [/us/stat/120/3199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3199
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

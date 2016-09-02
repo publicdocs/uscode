@@ -175,7 +175,7 @@
 
         (2) A copy of the most recent report submitted under paragraph (1) shall be included in the annual report submitted by the Postal Regulatory Commission under section 3652(g).
 
-(Added [Pub. L. 109–435, title IV, § 401(a)(1)][/us/pl/109/435/s401/a/1], Dec. 20, 2006, [120 Stat. 3221][/us/stat/120/3221].)
+(Added [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 401(a)(1), Dec. 20, 2006, [120 Stat. 3221][/us/stat/120/3221].)
 
  __References in Text__ 
 
@@ -188,7 +188,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs401%2Fa%2F1
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3221
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 

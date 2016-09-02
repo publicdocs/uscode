@@ -153,11 +153,11 @@
 
         The Postal Service shall, in accordance with the same procedures as set forth in section 3012(b), provide for the assessment of civil penalties under this section.
 
-(Added [Pub. L. 106–168, title I, § 108(a)][/us/pl/106/168/s108/a], Dec. 12, 1999, [113 Stat. 1814][/us/stat/113/1814].)
+(Added [Pub. L. 106–168, title I][/us/pl/106/168/tI], § 108(a), Dec. 12, 1999, [113 Stat. 1814][/us/stat/113/1814].)
 
  __Effective Date__ 
 
-[Pub. L. 106–168, title I, § 108(c)][/us/pl/106/168/s108/c], Dec. 12, 1999, [113 Stat. 1816][/us/stat/113/1816], provided that: 
+[Pub. L. 106–168, title I][/us/pl/106/168/tI], § 108(c), Dec. 12, 1999, [113 Stat. 1816][/us/stat/113/1816], provided that: 
 
 > “This section \[enacting this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 12, 1999\].”
 
@@ -168,9 +168,9 @@
 ----------
 ----------
 
-[/us/pl/106/168/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs108%2Fa
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1814
-[/us/pl/106/168/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs108%2Fc
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1816
 
 

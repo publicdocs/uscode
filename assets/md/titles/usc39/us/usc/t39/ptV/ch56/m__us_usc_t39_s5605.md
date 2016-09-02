@@ -17,7 +17,7 @@
 
     The Postal Service may contract for the transportation of mail by vessel without advertising for bids.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773]; [Pub. L. 109–435, title X, § 1002(b)(3)][/us/pl/109/435/s1002/b/3], Dec. 20, 2006, [120 Stat. 3255][/us/stat/120/3255].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773]; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1002(b)(3), Dec. 20, 2006, [120 Stat. 3255][/us/stat/120/3255].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
-[/us/pl/109/435/s1002/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1002%2Fb%2F3
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3255
 [/us/pl/109/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F438
 

@@ -61,7 +61,7 @@
 
         (2) by or under any other provision of law.
 
-(Added [Pub. L. 103–123, title VII, § 704(a)(2)][/us/pl/103/123/s704/a/2], Oct. 28, 1993, [107 Stat. 1268][/us/stat/107/1268]; amended [Pub. L. 109–435, title II, § 203][/us/pl/109/435/s203], Dec. 20, 2006, [120 Stat. 3209][/us/stat/120/3209].)
+(Added [Pub. L. 103–123, title VII][/us/pl/103/123/tVII], § 704(a)(2), Oct. 28, 1993, [107 Stat. 1268][/us/stat/107/1268]; amended [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 203, Dec. 20, 2006, [120 Stat. 3209][/us/stat/120/3209].)
 
  __Amendments__ 
 
@@ -79,9 +79,9 @@
 ----------
 
 [/us/usc/t18/s1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1696
-[/us/pl/103/123/s704/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fa%2F2
+[/us/pl/103/123/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVII
 [/us/stat/107/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1268
-[/us/pl/109/435/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs203
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3209
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/103/123/s704/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fc%2F1

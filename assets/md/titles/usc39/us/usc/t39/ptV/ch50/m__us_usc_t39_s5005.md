@@ -35,19 +35,19 @@
 
     (c) The Postal Service, in determining whether to obtain transportation of mail by contract under subsection (a)(3) of this section or by Government motor vehicle, shall use the mode of transportation which best serves the public interest, due consideration being given to the cost of the transportation service under each mode.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 767][/us/stat/84/767]; [Pub. L. 92–286][/us/pl/92/286], May 1, 1972, [86 Stat. 133][/us/stat/86/133]; [Pub. L. 98–443, § 9(g)(2)][/us/pl/98/443/s9/g/2], Oct. 4, 1984, [98 Stat. 1707][/us/stat/98/1707]; [Pub. L. 103–272, § 5(k)(2)][/us/pl/103/272/s5/k/2], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 104–88, title III, § 307(1)][/us/pl/104/88/s307/1], (2), Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945], 946; [Pub. L. 109–435, title X, § 1002(a)(2)][/us/pl/109/435/s1002/a/2], (b)(1), Dec. 20, 2006, [120 Stat. 3254][/us/stat/120/3254], 3255.)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 767][/us/stat/84/767]; [Pub. L. 92–286][/us/pl/92/286], May 1, 1972, [86 Stat. 133][/us/stat/86/133]; [Pub. L. 98–443][/us/pl/98/443], § 9(g)(2), Oct. 4, 1984, [98 Stat. 1707][/us/stat/98/1707]; [Pub. L. 103–272][/us/pl/103/272], § 5(k)(2), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 307(1), (2), Dec. 29, 1995, [109 Stat. 945][/us/stat/109/945], 946; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1002(a)(2), (b)(1), Dec. 20, 2006, [120 Stat. 3254][/us/stat/120/3254], 3255.)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–435, § 1002(a)(2)(A)][/us/pl/109/435/s1002/a/2/A], struck out par. (1), which related to common carriers by rail and motor vehicle or persons as provided in chapter 52, redesignated pars. (2) to (4) as (1) to (3), respectively, and, in par. (3), struck out “(as defined in [section 5201(6) of this title][/us/usc/t39/s5201/6])” after “any person”.
+    2006—Subsec. (a). [Pub. L. 109–435][/us/pl/109/435], § 1002(a)(2)(A), struck out par. (1), which related to common carriers by rail and motor vehicle or persons as provided in chapter 52, redesignated pars. (2) to (4) as (1) to (3), respectively, and, in par. (3), struck out “(as defined in [section 5201(6) of this title][/us/usc/t39/s5201/6])” after “any person”.
 
-    Subsec. (b)(1), (2). [Pub. L. 109–435, § 1002(a)(2)(B)][/us/pl/109/435/s1002/a/2/B], (b)(1), substituted “(a)(3)” for “(a)(4)” in pars. (1) and (2) and “(or such longer period of time as may be determined by the Postal Service to be advisable or appropriate)” for “(or where the Postal Service determines that special conditions or the use of special equipment warrants, not in excess of 6 years)” in par. (1).
+    Subsec. (b)(1), (2). [Pub. L. 109–435][/us/pl/109/435], § 1002(a)(2)(B), (b)(1), substituted “(a)(3)” for “(a)(4)” in pars. (1) and (2) and “(or such longer period of time as may be determined by the Postal Service to be advisable or appropriate)” for “(or where the Postal Service determines that special conditions or the use of special equipment warrants, not in excess of 6 years)” in par. (1).
 
-    Subsec. (c). [Pub. L. 109–435, § 1002(a)(2)(C)][/us/pl/109/435/s1002/a/2/C], substituted “by contract under subsection (a)(3) of this section or” for “by carrier or person under subsection (a)(1) of this section, by contract under subsection (a)(4) of this section, or”.
+    Subsec. (c). [Pub. L. 109–435][/us/pl/109/435], § 1002(a)(2)(C), substituted “by contract under subsection (a)(3) of this section or” for “by carrier or person under subsection (a)(1) of this section, by contract under subsection (a)(4) of this section, or”.
 
-    1995—Subsec. (a)(4). [Pub. L. 104–88, § 307(1)][/us/pl/104/88/s307/1], substituted “5201(6)” for “5201(7)”.
+    1995—Subsec. (a)(4). [Pub. L. 104–88][/us/pl/104/88], § 307(1), substituted “5201(6)” for “5201(7)”.
 
-    Subsec. (b)(3). [Pub. L. 104–88, § 307(2)][/us/pl/104/88/s307/2], substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+    Subsec. (b)(3). [Pub. L. 104–88][/us/pl/104/88], § 307(2), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
     1994—Subsec. (b)(3). [Pub. L. 103–272][/us/pl/103/272] substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “section 101 of the Federal Aviation Act of 1958”.
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of Title 49][/us/usc/t49/s701], Transportation.
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of Title 49][/us/usc/t49/s1301], Transportation.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -75,27 +75,27 @@
 [/us/stat/84/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F767
 [/us/pl/92/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F286
 [/us/stat/86/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F133
-[/us/pl/98/443/s9/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fg%2F2
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1707
-[/us/pl/103/272/s5/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fk%2F2
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
-[/us/pl/104/88/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs307%2F1
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F945
-[/us/pl/109/435/s1002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1002%2Fa%2F2
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3254
-[/us/pl/109/435/s1002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1002%2Fa%2F2%2FA
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/usc/t39/s5201/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5201%2F6
-[/us/pl/109/435/s1002/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1002%2Fa%2F2%2FB
-[/us/pl/109/435/s1002/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1002%2Fa%2F2%2FC
-[/us/pl/104/88/s307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs307%2F1
-[/us/pl/104/88/s307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs307%2F2
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/92/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F286
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/98/443/s9/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fv
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314

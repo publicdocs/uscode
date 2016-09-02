@@ -33,15 +33,15 @@
 
         (2) “plant” means any class of plants, fruits, vegetables, roots, bulbs, seeds, or other plant products, any class of nursery stock (as defined by section 6 of the Plant Quarantine Act),1 and any other article or matter which is capable of carrying any dangerous plant disease or pest.
 
-(Added [Pub. L. 100–574, § 1(a)(1)][/us/pl/100/574/s1/a/1], Oct. 31, 1988, [102 Stat. 2892][/us/stat/102/2892].)
+(Added [Pub. L. 100–574][/us/pl/100/574], § 1(a)(1), Oct. 31, 1988, [102 Stat. 2892][/us/stat/102/2892].)
 
  __References in Text__ 
 
-    The Act of Aug. 20, 1912, referred to in subsec. (d), is [act Aug. 20, 1912, ch. 308][/us/act/1912-08-20/ch308], [37 Stat. 315][/us/stat/37/315], commonly known as the Plant Quarantine Act, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by [Pub. L. 106–224, title IV, § 438(a)(1)][/us/pl/106/224/s438/a/1], June 20, 2000, [114 Stat. 454][/us/stat/114/454]. Sections 6 and 8 of the Plant Quarantine Act, referred to in subsecs. (a)(1), (c), and (d)(2), were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
+    The Act of Aug. 20, 1912, referred to in subsec. (d), is [act Aug. 20, 1912, ch. 308][/us/act/1912-08-20/ch308], [37 Stat. 315][/us/stat/37/315], commonly known as the Plant Quarantine Act, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by [Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 438(a)(1), June 20, 2000, [114 Stat. 454][/us/stat/114/454]. Sections 6 and 8 of the Plant Quarantine Act, referred to in subsecs. (a)(1), (c), and (d)(2), were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
 
  __Effective Date__ 
 
-[Pub. L. 100–574, § 4][/us/pl/100/574/s4], Oct. 31, 1988, [102 Stat. 2894][/us/stat/102/2894], provided that:
+[Pub. L. 100–574][/us/pl/100/574], § 4, Oct. 31, 1988, [102 Stat. 2894][/us/stat/102/2894], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/stat/37/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F315
-[/us/pl/100/574/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574%2Fs1%2Fa%2F1
+[/us/pl/100/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574
 [/us/stat/102/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2892
 [/us/act/1912-08-20/ch308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch308
 [/us/stat/37/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F315
-[/us/pl/106/224/s438/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438%2Fa%2F1
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
-[/us/pl/100/574/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574%2Fs4
+[/us/pl/100/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574
 [/us/stat/102/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2894
 
 

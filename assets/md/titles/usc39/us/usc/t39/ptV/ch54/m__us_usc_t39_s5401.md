@@ -19,7 +19,7 @@
 
     (b) Except as otherwise provided in [section 5402 of this title][/us/usc/t39/s5402], the Postal Service may make such rules, regulations, and orders consistent with part A of subtitle VII of title 49, or any order, rule, or regulation made by the Secretary of Transportation thereunder, as may be necessary for such transportation.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 772][/us/stat/84/772]; [Pub. L. 98–443, § 9(g)(3)][/us/pl/98/443/s9/g/3], Oct. 4, 1984, [98 Stat. 1707][/us/stat/98/1707]; [Pub. L. 103–272, § 5(k)(3)][/us/pl/103/272/s5/k/3], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 772][/us/stat/84/772]; [Pub. L. 98–443][/us/pl/98/443], § 9(g)(3), Oct. 4, 1984, [98 Stat. 1707][/us/stat/98/1707]; [Pub. L. 103–272][/us/pl/103/272], § 5(k)(3), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 [/us/usc/t39/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs5402
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F772
-[/us/pl/98/443/s9/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fg%2F3
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1707
-[/us/pl/103/272/s5/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fk%2F3
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443

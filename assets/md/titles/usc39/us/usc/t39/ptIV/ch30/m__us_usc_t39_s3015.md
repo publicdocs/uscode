@@ -31,23 +31,23 @@
 
     Any fish, wildlife, or plant, the conveyance of which is prohibited pursuant to section 3 of the Lacey Act Amendments of 1981 ([16 U.S.C. 3372][/us/usc/t16/s3372]), constitutes nonmailable matter.
 
-(Added [Pub. L. 102–393, title VI, § 631(d)(1)][/us/pl/102/393/s631/d/1], Oct. 6, 1992, [106 Stat. 1776][/us/stat/106/1776].)
+(Added [Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 631(d)(1), Oct. 6, 1992, [106 Stat. 1776][/us/stat/106/1776].)
 
  __References in Text__ 
 
-    Sections 103 and 104 of the Federal Plant Pest Act ([7 U.S.C. 150bb][/us/usc/t7/s150bb], 150cc), referred to in subsec. (b), were repealed by [Pub. L. 106–224, title IV, § 438(a)(2)][/us/pl/106/224/s438/a/2], June 20, 2000, [114 Stat. 454][/us/stat/114/454].
+    Sections 103 and 104 of the Federal Plant Pest Act ([7 U.S.C. 150bb][/us/usc/t7/s150bb], 150cc), referred to in subsec. (b), were repealed by [Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 438(a)(2), June 20, 2000, [114 Stat. 454][/us/stat/114/454].
 
-    The Plant Quarantine Act, referred to in subsec. (c), is [act Aug. 20, 1912, ch. 308][/us/act/1912-08-20/ch308], [37 Stat. 315][/us/stat/37/315], as amended, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by [Pub. L. 106–224, title IV, § 438(a)(1)][/us/pl/106/224/s438/a/1], June 20, 2000, [114 Stat. 454][/us/stat/114/454]. For complete classification of this Act to the Code, see Tables.
+    The Plant Quarantine Act, referred to in subsec. (c), is [act Aug. 20, 1912, ch. 308][/us/act/1912-08-20/ch308], [37 Stat. 315][/us/stat/37/315], as amended, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by [Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 438(a)(1), June 20, 2000, [114 Stat. 454][/us/stat/114/454]. For complete classification of this Act to the Code, see Tables.
 
  __Short Title__ 
 
-[Pub. L. 102–393, title VI, § 631(e)][/us/pl/102/393/s631/e], Oct. 6, 1992, [106 Stat. 1776][/us/stat/106/1776], provided that: 
+[Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 631(e), Oct. 6, 1992, [106 Stat. 1776][/us/stat/106/1776], provided that: 
 
 > “This section \[enacting this section and provisions set out below\] may be cited as the ‘Alien Species Prevention and Enforcement Act of 1992’.”
 
  __Alien Species Prevention and Enforcement in Hawaii__ 
 
-[Pub. L. 102–393, title VI, § 631(a)][/us/pl/102/393/s631/a]–(c), Oct. 6, 1992, [106 Stat. 1774][/us/stat/106/1774], 1776, provided that:
+[Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 631(a)–(c), Oct. 6, 1992, [106 Stat. 1774][/us/stat/106/1774], 1776, provided that:
 
 >     “(a) __Pests in the Mails.—__ 
 
@@ -179,18 +179,18 @@
 [/us/stat/37/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F315
 [/us/usc/t7/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs151
 [/us/usc/t16/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372
-[/us/pl/102/393/s631/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs631%2Fd%2F1
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1776
 [/us/usc/t7/s150bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs150bb
-[/us/pl/106/224/s438/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438%2Fa%2F2
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
 [/us/act/1912-08-20/ch308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch308
 [/us/stat/37/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F315
-[/us/pl/106/224/s438/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438%2Fa%2F1
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
-[/us/pl/102/393/s631/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs631%2Fe
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1776
-[/us/pl/102/393/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs631%2Fa
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1774
 [/us/usc/t18/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs42
 [/us/stat/37/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F315

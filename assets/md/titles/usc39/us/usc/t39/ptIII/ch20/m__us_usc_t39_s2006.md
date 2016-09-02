@@ -27,15 +27,15 @@
 
         (2) the Secretary, in his discretion, determines that it would be in the public interest to do so.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 741][/us/stat/84/741]; [Pub. L. 109–435, title IV, § 401(b)(4)][/us/pl/109/435/s401/b/4], Dec. 20, 2006, [120 Stat. 3225][/us/stat/120/3225].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 741][/us/stat/84/741]; [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 401(b)(4), Dec. 20, 2006, [120 Stat. 3225][/us/stat/120/3225].)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–435, § 401(b)(4)(A)][/us/pl/109/435/s401/b/4/A], inserted “or 2011” after “section 2005” in first sentence.
+    2006—Subsec. (a). [Pub. L. 109–435][/us/pl/109/435], § 401(b)(4)(A), inserted “or 2011” after “section 2005” in first sentence.
 
-    Subsec. (b). [Pub. L. 109–435, § 401(b)(4)(B)][/us/pl/109/435/s401/b/4/B], inserted “under section 2005” before “in such amounts” in first sentence and before “in excess of such amount.” in second sentence.
+    Subsec. (b). [Pub. L. 109–435][/us/pl/109/435], § 401(b)(4)(B), inserted “under section 2005” before “in such amounts” in first sentence and before “in excess of such amount.” in second sentence.
 
-    Subsec. (c). [Pub. L. 109–435, § 401(b)(4)(C)][/us/pl/109/435/s401/b/4/C], inserted “or 2011(e)(4)(E)” after “section 2005(d)(5)”.
+    Subsec. (c). [Pub. L. 109–435][/us/pl/109/435], § 401(b)(4)(C), inserted “or 2011(e)(4)(E)” after “section 2005(d)(5)”.
 
 ----------
 
@@ -46,10 +46,10 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F741
-[/us/pl/109/435/s401/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs401%2Fb%2F4
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3225
-[/us/pl/109/435/s401/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs401%2Fb%2F4%2FA
-[/us/pl/109/435/s401/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs401%2Fb%2F4%2FB
-[/us/pl/109/435/s401/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs401%2Fb%2F4%2FC
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 
 

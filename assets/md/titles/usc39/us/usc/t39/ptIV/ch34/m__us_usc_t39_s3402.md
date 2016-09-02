@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t39/ptIV/ch34/m__us_usc_t39_s3401.md) | [Next](./../../../../..//us/usc/t39/ptIV/ch34/m__us_usc_t39_s3403.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3402)
 
-## \[§ 3402. Repealed. [Pub. L. 96–70, title I, § 1331(e)(3)(A)][/us/pl/96/70/s1331/e/3/A], Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482]\]
+## \[§ 3402. Repealed. [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1331(e)(3)(A), Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482]\]
 
     Section, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 757][/us/stat/84/757], related to mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1331/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1331%2Fe%2F3%2FA
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F482
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F757

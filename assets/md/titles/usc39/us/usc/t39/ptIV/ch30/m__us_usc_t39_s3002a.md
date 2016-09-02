@@ -37,7 +37,7 @@
 
         (3) a device or tool designed for making an impression of a key or similar security device to duplicate such key or device.
 
-(Added [Pub. L. 100–690, title VII, § 7090(a)][/us/pl/100/690/s7090/a], Nov. 18, 1988, [102 Stat. 4409][/us/stat/102/4409].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7090(a), Nov. 18, 1988, [102 Stat. 4409][/us/stat/102/4409].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7090/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7090%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4409
 
 

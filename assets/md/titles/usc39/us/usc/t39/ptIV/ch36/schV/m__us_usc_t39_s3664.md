@@ -17,7 +17,7 @@
 
     The several district courts have jurisdiction specifically to enforce, and to enjoin and restrain the Postal Service from violating, any order issued by the Postal Regulatory Commission.
 
-(Added [Pub. L. 109–435, title II, § 205][/us/pl/109/435/s205], Dec. 20, 2006, [120 Stat. 3217][/us/stat/120/3217].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 205, Dec. 20, 2006, [120 Stat. 3217][/us/stat/120/3217].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs205
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3217
 
 

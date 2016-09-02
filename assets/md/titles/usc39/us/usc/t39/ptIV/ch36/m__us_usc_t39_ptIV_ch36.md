@@ -323,13 +323,13 @@ SUBCHAPTER VII—MODERN SERVICE STANDARDS  </td>
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, title II, § 206][/us/pl/109/435/s206], Dec. 20, 2006, [120 Stat. 3217][/us/stat/120/3217], added chapter heading and analysis and struck out former chapter heading “POSTAL RATES, CLASSES, AND SERVICES” and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
+    2006—[Pub. L. 109–435, title II][/us/pl/109/435/tII], § 206, Dec. 20, 2006, [120 Stat. 3217][/us/stat/120/3217], added chapter heading and analysis and struck out former chapter heading “POSTAL RATES, CLASSES, AND SERVICES” and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
 
-    1998—[Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 648(b)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528, added item 3663.
+    1998—[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 648(b)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528, added item 3663.
 
-    1993—[Pub. L. 103–123, title VII, § 704(a)(3)(B)(ii)][/us/pl/103/123/s704/a/3/B/ii], Oct. 28, 1993, [107 Stat. 1270][/us/stat/107/1270], substituted “free rates” for “free and reduced rates” in item 3627 and added item 3642.
+    1993—[Pub. L. 103–123, title VII][/us/pl/103/123/tVII], § 704(a)(3)(B)(ii), Oct. 28, 1993, [107 Stat. 1270][/us/stat/107/1270], substituted “free rates” for “free and reduced rates” in item 3627 and added item 3642.
 
-    [Pub. L. 103–31, § 8(h)(4)][/us/pl/103/31/s8/h/4], May 20, 1993, [107 Stat. 86][/us/stat/107/86], added item 3629.
+    [Pub. L. 103–31][/us/pl/103/31], § 8(h)(4), May 20, 1993, [107 Stat. 86][/us/stat/107/86], added item 3629.
 
 ----------
 
@@ -338,13 +338,13 @@ SUBCHAPTER VII—MODERN SERVICE STANDARDS  </td>
 ----------
 ----------
 
-[/us/pl/109/435/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs206
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3217
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/103/123/s704/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs704%2Fa%2F3%2FB%2Fii
+[/us/pl/103/123/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtVII
 [/us/stat/107/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1270
-[/us/pl/103/31/s8/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31%2Fs8%2Fh%2F4
+[/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/stat/107/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F86
 
 

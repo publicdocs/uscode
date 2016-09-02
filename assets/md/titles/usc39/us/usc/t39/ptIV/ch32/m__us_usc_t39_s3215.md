@@ -17,7 +17,7 @@
 
     A person entitled to use a frank may not lend it or permit its use by any committee, organization, or association, or permit its use by any person for the benefit or use of any committee, organization, or association. This section does not apply to any standing, select, special, or joint committee, or subcommittee thereof, or commission, of the Senate, House of Representatives, or Congress, composed of Members of Congress, or to the Democratic caucus or the Republican conference of the House of Representatives or of the Senate.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 754][/us/stat/84/754]; [Pub. L. 93–191, § 10][/us/pl/93/191/s10], Dec. 18, 1973, [87 Stat. 746][/us/stat/87/746].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 754][/us/stat/84/754]; [Pub. L. 93–191][/us/pl/93/191], § 10, Dec. 18, 1973, [87 Stat. 746][/us/stat/87/746].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F754
-[/us/pl/93/191/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs10
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F746
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191

@@ -35,13 +35,13 @@
 
  __Noninterference With Collective Bargaining Agreements__ 
 
-[Pub. L. 109–435, title V, § 505(b)][/us/pl/109/435/s505/b], Dec. 20, 2006, [120 Stat. 3236][/us/stat/120/3236], provided that: 
+[Pub. L. 109–435, title V][/us/pl/109/435/tV], § 505(b), Dec. 20, 2006, [120 Stat. 3236][/us/stat/120/3236], provided that: 
 
 > “Except as otherwise provided by the amendment made by subsection (a) \[amending [section 1207 of this title][/us/usc/t39/s1207]\], nothing in this Act \[see Tables for classification\] shall restrict, expand, or otherwise affect any of the rights, privileges, or benefits of either employees of or labor organizations representing employees of the United States Postal Service under chapter 12 of title 39, United States Code, the National Labor Relations Act \[[29 U.S.C. 151][/us/usc/t29/s151] et seq.\], any handbook or manual affecting employee labor relations within the United States Postal Service, or any collective bargaining agreement.”
 
  __Labor Agreements__ 
 
-[Pub. L. 91–375, § 10][/us/pl/91/375/s10], Aug. 12, 1970, [84 Stat. 784][/us/stat/84/784], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 10, Aug. 12, 1970, [84 Stat. 784][/us/stat/84/784], provided that:
 
 >     “(a) \[Wages, Hours, and Working Conditions; Parties to Agreement\] As soon as practicable after the enactment of this Act \[Aug. 12, 1970\], the Postmaster General and the labor organizations which as of the effective date of this section \[see note below\] hold national exclusive recognition rights granted by the Post Office Department, shall negotiate an agreement or agreements covering wages, hours, and working conditions of the employees represented by such labor organizations. The parties shall commence bargaining for such agreement or agreements not later than 30 days following delivery of a written request therefor by a labor organization to the Postmaster General or by the Postmaster General to a labor organization. Any agreement made pursuant to this section shall continue in force after the commencement of operations of the United States Postal Service in the same manner and to the same extent as if entered into between the Postal Service and recognized collective-bargaining representatives under chapter 12 of title 39, United States Code.
 
@@ -72,11 +72,11 @@
 [/us/stat/84/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F719
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/109/435/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs505%2Fb
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3236
 [/us/usc/t39/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1207
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
-[/us/pl/91/375/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs10
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F784
 [/us/usc/t39/s1207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs1207%2Fb
 [/us/usc/t31/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665

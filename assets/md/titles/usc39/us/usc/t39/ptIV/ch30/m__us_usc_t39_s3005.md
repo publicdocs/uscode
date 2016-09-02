@@ -49,15 +49,15 @@
 
             (C) inform such person that the failure to complete the transaction may be considered in a proceeding under [section 3007 of this title][/us/usc/t39/s3007] to determine probable cause, in accordance with paragraph (2) of this subsection.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 747][/us/stat/84/747]; [Pub. L. 93–583, § 4][/us/pl/93/583/s4], Jan. 2, 1975, [88 Stat. 1916][/us/stat/88/1916]; [Pub. L. 94–525, § 2][/us/pl/94/525/s2], Oct. 17, 1976, [90 Stat. 2478][/us/stat/90/2478]; [Pub. L. 95–360][/us/pl/95/360], Sept. 9, 1978, [92 Stat. 594][/us/stat/92/594]; [Pub. L. 98–186, § 2][/us/pl/98/186/s2], Nov. 30, 1983, [97 Stat. 1315][/us/stat/97/1315]; [Pub. L. 100–625, § 2(c)][/us/pl/100/625/s2/c], Nov. 7, 1988, [102 Stat. 3205][/us/stat/102/3205]; [Pub. L. 101–524, § 2(b)][/us/pl/101/524/s2/b], Nov. 6, 1990, [104 Stat. 2302][/us/stat/104/2302]; [Pub. L. 102–71, § 2(2)][/us/pl/102/71/s2/2], July 10, 1991, [105 Stat. 330][/us/stat/105/330]; [Pub. L. 106–168, title I][/us/pl/106/168], §§ 104, 105(b)(2)(A), Dec. 12, 1999, [113 Stat. 1810][/us/stat/113/1810], 1811; [Pub. L. 109–435, title X, § 1010(g)(3)][/us/pl/109/435/s1010/g/3], Dec. 20, 2006, [120 Stat. 3262][/us/stat/120/3262].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 747][/us/stat/84/747]; [Pub. L. 93–583][/us/pl/93/583], § 4, Jan. 2, 1975, [88 Stat. 1916][/us/stat/88/1916]; [Pub. L. 94–525][/us/pl/94/525], § 2, Oct. 17, 1976, [90 Stat. 2478][/us/stat/90/2478]; [Pub. L. 95–360][/us/pl/95/360], Sept. 9, 1978, [92 Stat. 594][/us/stat/92/594]; [Pub. L. 98–186][/us/pl/98/186], § 2, Nov. 30, 1983, [97 Stat. 1315][/us/stat/97/1315]; [Pub. L. 100–625][/us/pl/100/625], § 2(c), Nov. 7, 1988, [102 Stat. 3205][/us/stat/102/3205]; [Pub. L. 101–524][/us/pl/101/524], § 2(b), Nov. 6, 1990, [104 Stat. 2302][/us/stat/104/2302]; [Pub. L. 102–71][/us/pl/102/71], § 2(2), July 10, 1991, [105 Stat. 330][/us/stat/105/330]; [Pub. L. 106–168, title I][/us/pl/106/168/tI], §§ 104, 105(b)(2)(A), Dec. 12, 1999, [113 Stat. 1810][/us/stat/113/1810], 1811; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1010(g)(3), Dec. 20, 2006, [120 Stat. 3262][/us/stat/120/3262].)
 
  __Amendments__ 
 
     2006—Subsec. (a). [Pub. L. 109–435][/us/pl/109/435] substituted “under section 3001(d),” for “under 3001(d),” in introductory provisions and “under such section 3001(d),” for “under such 3001(d),” in concluding provisions.
 
-    1999—Subsec. (a). [Pub. L. 106–168, § 104][/us/pl/106/168/s104], in two places, struck out “or” after “(h),” and inserted “, (j), or (k)” after “(i)”.
+    1999—Subsec. (a). [Pub. L. 106–168][/us/pl/106/168], § 104, in two places, struck out “or” after “(h),” and inserted “, (j), or (k)” after “(i)”.
 
-    Subsec. (c). [Pub. L. 106–168, § 105(b)(2)(A)][/us/pl/106/168/s105/b/2/A], substituted “section,” for “section and [section 3006 of this title][/us/usc/t39/s3006],”.
+    Subsec. (c). [Pub. L. 106–168][/us/pl/106/168], § 105(b)(2)(A), substituted “section,” for “section and [section 3006 of this title][/us/usc/t39/s3006],”.
 
     1991—Subsec. (a). [Pub. L. 102–71][/us/pl/102/71] substituted “3001(d), (h), or (i)” for “section 3001(d), (f), or (g)” in two places.
 
@@ -65,11 +65,11 @@
 
     1988—Subsec. (d)(1). [Pub. L. 100–625][/us/pl/100/625] amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “a newspaper of general circulation containing advertisements, lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,”.
 
-    1983—Subsec. (a)(3). [Pub. L. 98–186, § 2(a)][/us/pl/98/186/s2/a], added par. (3).
+    1983—Subsec. (a)(3). [Pub. L. 98–186][/us/pl/98/186], § 2(a), added par. (3).
 
-    Subsec. (d). [Pub. L. 98–186, § 2(b)][/us/pl/98/186/s2/b], struck out “or” before “(2)”, inserted “or” before “(3)”, and inserted cl. (3) and provision relating to applicability of cl. (3).
+    Subsec. (d). [Pub. L. 98–186][/us/pl/98/186], § 2(b), struck out “or” before “(2)”, inserted “or” before “(3)”, and inserted cl. (3) and provision relating to applicability of cl. (3).
 
-    Subsec. (e). [Pub. L. 98–186, § 2(c)][/us/pl/98/186/s2/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 98–186][/us/pl/98/186], § 2(c), added subsec. (e).
 
     1978—Subsec. (a). [Pub. L. 95–360][/us/pl/95/360] inserted provisions relating to nonmailable matter under [section 3001(d) of this title][/us/usc/t39/s3001/d].
 
@@ -91,7 +91,7 @@
 
  __Consumer Education Program on Schemes Involving False Representations__ 
 
-[Section 4 of Pub. L. 98–186][/us/pl/98/186/s4], as amended by [Pub. L. 104–66, title II, § 2211(a)][/us/pl/104/66/s2211/a], Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732], provided that:
+[Section 4 of Pub. L. 98–186][/us/pl/98/186/s4], as amended by [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2211(a), Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732], provided that:
 
 >     “(a) As soon as practicable after the date of enactment of this Act \[Nov. 30, 1983\], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme.
 
@@ -109,34 +109,34 @@
 [/us/usc/t39/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3007
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F747
-[/us/pl/93/583/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F583%2Fs4
+[/us/pl/93/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F583
 [/us/stat/88/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1916
-[/us/pl/94/525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F525%2Fs2
+[/us/pl/94/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F525
 [/us/stat/90/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2478
 [/us/pl/95/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F360
 [/us/stat/92/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F594
-[/us/pl/98/186/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186%2Fs2
+[/us/pl/98/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186
 [/us/stat/97/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1315
-[/us/pl/100/625/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625%2Fs2%2Fc
+[/us/pl/100/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625
 [/us/stat/102/3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3205
-[/us/pl/101/524/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F524%2Fs2%2Fb
+[/us/pl/101/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F524
 [/us/stat/104/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2302
-[/us/pl/102/71/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F71%2Fs2%2F2
+[/us/pl/102/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F71
 [/us/stat/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F330
-[/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1810
-[/us/pl/109/435/s1010/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fg%2F3
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3262
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/106/168/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs104
-[/us/pl/106/168/s105/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2Fs105%2Fb%2F2%2FA
+[/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
+[/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
 [/us/usc/t39/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3006
 [/us/pl/102/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F71
 [/us/pl/101/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F524
 [/us/pl/100/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625
-[/us/pl/98/186/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186%2Fs2%2Fa
-[/us/pl/98/186/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186%2Fs2%2Fb
-[/us/pl/98/186/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186%2Fs2%2Fc
+[/us/pl/98/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186
+[/us/pl/98/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186
+[/us/pl/98/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186
 [/us/pl/95/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F360
 [/us/usc/t39/s3001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3001%2Fd
 [/us/pl/94/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F525
@@ -151,7 +151,7 @@
 [/us/pl/100/625/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625%2Fs5
 [/us/usc/t18/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1304
 [/us/pl/98/186/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186%2Fs4
-[/us/pl/104/66/s2211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2211%2Fa
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F732
 
 

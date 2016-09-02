@@ -73,7 +73,7 @@
 
     (h) This section shall cease to be effective after December 31, 2019.
 
-(Added [Pub. L. 105–41, § 2(a)][/us/pl/105/41/s2/a], Aug. 13, 1997, [111 Stat. 1119][/us/stat/111/1119]; amended [Pub. L. 106–253, § 3(a)][/us/pl/106/253/s3/a], July 28, 2000, [114 Stat. 636][/us/stat/114/636]; [Pub. L. 107–67, title VI, § 650(b)(1)][/us/pl/107/67/s650/b/1], (c), Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556], 557; [Pub. L. 108–199, div. F, title V, § 541][/us/pl/108/199/s541], Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346]; [Pub. L. 109–100, § 1][/us/pl/109/100/s1], Nov. 11, 2005, [119 Stat. 2170][/us/stat/119/2170]; [Pub. L. 110–150, § 1][/us/pl/110/150/s1], Dec. 21, 2007, [121 Stat. 1820][/us/stat/121/1820]; [Pub. L. 112–80, § 1][/us/pl/112/80/s1], Dec. 23, 2011, [125 Stat. 1297][/us/stat/125/1297]; [Pub. L. 114–99][/us/pl/114/99], §§ 2, 3, Dec. 11, 2015, [129 Stat. 2201][/us/stat/129/2201].)
+(Added [Pub. L. 105–41][/us/pl/105/41], § 2(a), Aug. 13, 1997, [111 Stat. 1119][/us/stat/111/1119]; amended [Pub. L. 106–253][/us/pl/106/253], § 3(a), July 28, 2000, [114 Stat. 636][/us/stat/114/636]; [Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 650(b)(1), (c), Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556], 557; [Pub. L. 108–199, div. F, title V][/us/pl/108/199/dF/tV], § 541, Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346]; [Pub. L. 109–100][/us/pl/109/100], § 1, Nov. 11, 2005, [119 Stat. 2170][/us/stat/119/2170]; [Pub. L. 110–150][/us/pl/110/150], § 1, Dec. 21, 2007, [121 Stat. 1820][/us/stat/121/1820]; [Pub. L. 112–80][/us/pl/112/80], § 1, Dec. 23, 2011, [125 Stat. 1297][/us/stat/125/1297]; [Pub. L. 114–99][/us/pl/114/99], §§ 2, 3, Dec. 11, 2015, [129 Stat. 2201][/us/stat/129/2201].)
 
  __References in Text__ 
 
@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c)(1). [Pub. L. 114–99, § 3][/us/pl/114/99/s3], inserted at end of concluding provisions “An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.”
+    2015—Subsec. (c)(1). [Pub. L. 114–99][/us/pl/114/99], § 3, inserted at end of concluding provisions “An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.”
 
-    Subsec. (h). [Pub. L. 114–99, § 2][/us/pl/114/99/s2], substituted “2019” for “2015”.
+    Subsec. (h). [Pub. L. 114–99][/us/pl/114/99], § 2, substituted “2019” for “2015”.
 
     2011—Subsec. (h). [Pub. L. 112–80][/us/pl/112/80] substituted “2015” for “2011”.
 
@@ -93,15 +93,15 @@
 
     2004—Subsec. (h). [Pub. L. 108–199][/us/pl/108/199] substituted “2005” for “2003”.
 
-    2001—Subsec. (b). [Pub. L. 107–67, § 650(c)][/us/pl/107/67/s650/c], substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
+    2001—Subsec. (b). [Pub. L. 107–67][/us/pl/107/67], § 650(c), substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
 
-    Subsec. (g), (h). [Pub. L. 107–67, § 650(b)(1)][/us/pl/107/67/s650/b/1], added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.”
+    Subsec. (g), (h). [Pub. L. 107–67][/us/pl/107/67], § 650(b)(1), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.”
 
     2000—Subsec. (g). [Pub. L. 106–253][/us/pl/106/253] amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public.”
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–67, title VI, § 650(b)(2)][/us/pl/107/67/s650/b/2], Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557], provided that: 
+[Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 650(b)(2), Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect on the earlier of—
 
@@ -111,17 +111,17 @@
 
  __Reporting Requirements__ 
 
-[Pub. L. 110–150, § 2][/us/pl/110/150/s2], Dec. 21, 2007, [121 Stat. 1820][/us/stat/121/1820], provided that: 
+[Pub. L. 110–150][/us/pl/110/150], § 2, Dec. 21, 2007, [121 Stat. 1820][/us/stat/121/1820], provided that: 
 
 > “The National Institutes of Health and the Department of Defense shall each submit to Congress and the Government Accountability Office an annual report concerning the use of any amounts that it received under [section 414(c) of title 39][/us/usc/t39/s414/c], United States Code, including a description of any significant advances or accomplishments, during the year covered by the report, that were funded, in whole or in part, with such amounts.”
 
  __Report by Comptroller General of United States__ 
 
-[Pub. L. 106–253, § 3(b)][/us/pl/106/253/s3/b], July 28, 2000, [114 Stat. 637][/us/stat/114/637], provided that: 
+[Pub. L. 106–253][/us/pl/106/253], § 3(b), July 28, 2000, [114 Stat. 637][/us/stat/114/637], provided that: 
 
 > “No later than 3 months and no earlier than 6 months before the date as of which [section 414 of title 39][/us/usc/t39/s414], United States Code (as amended by this section) is scheduled to expire, the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall be in addition to the report required by [section 2(b) of Public Law 105–41][/us/pl/105/41/s2/b] \[set out below\], and shall address at least the same matters as were required to be included in that earlier report.”
 
-[Pub. L. 105–41, § 2(b)][/us/pl/105/41/s2/b], Aug. 13, 1997, [111 Stat. 1120][/us/stat/111/1120], provided that: 
+[Pub. L. 105–41][/us/pl/105/41], § 2(b), Aug. 13, 1997, [111 Stat. 1120][/us/stat/111/1120], provided that: 
 
 > “No later than 3 months (but no earlier than 6 months) before the end of the 2-year period referred to in [section 414(g) of title 39][/us/usc/t39/s414/g], United States Code (as amended by subsection (a)), the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall include—
 
@@ -136,42 +136,42 @@
 ----------
 ----------
 
-[/us/pl/105/41/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41%2Fs2%2Fa
+[/us/pl/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41
 [/us/stat/111/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1119
-[/us/pl/106/253/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253%2Fs3%2Fa
+[/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
 [/us/stat/114/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F636
-[/us/pl/107/67/s650/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs650%2Fb%2F1
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F556
-[/us/pl/108/199/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs541
+[/us/pl/108/199/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtV
 [/us/stat/118/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F346
-[/us/pl/109/100/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F100%2Fs1
+[/us/pl/109/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F100
 [/us/stat/119/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2170
-[/us/pl/110/150/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F150%2Fs1
+[/us/pl/110/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F150
 [/us/stat/121/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1820
-[/us/pl/112/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F80%2Fs1
+[/us/pl/112/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F80
 [/us/stat/125/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1297
 [/us/pl/114/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99
 [/us/stat/129/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2201
 [/us/pl/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41
-[/us/pl/114/99/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99%2Fs3
-[/us/pl/114/99/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99%2Fs2
+[/us/pl/114/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99
+[/us/pl/114/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F99
 [/us/pl/112/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F80
 [/us/pl/110/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F150
 [/us/pl/109/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F100
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/107/67/s650/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs650%2Fc
-[/us/pl/107/67/s650/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs650%2Fb%2F1
+[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
+[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
 [/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
-[/us/pl/107/67/s650/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs650%2Fb%2F2
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F557
-[/us/pl/110/150/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F150%2Fs2
+[/us/pl/110/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F150
 [/us/stat/121/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1820
 [/us/usc/t39/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs414%2Fc
-[/us/pl/106/253/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253%2Fs3%2Fb
+[/us/pl/106/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F253
 [/us/stat/114/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F637
 [/us/usc/t39/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs414
 [/us/pl/105/41/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41%2Fs2%2Fb
-[/us/pl/105/41/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41%2Fs2%2Fb
+[/us/pl/105/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F41
 [/us/stat/111/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1120
 [/us/usc/t39/s414/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs414%2Fg
 

@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, title X, § 1010(g)(2)][/us/pl/109/435/s1010/g/2], Dec. 20, 2006, [120 Stat. 3262][/us/stat/120/3262], substituted “Strategic Planning and Performance Management” for “Strategic planning and performance management” in item for chapter 28.
+    2006—[Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1010(g)(2), Dec. 20, 2006, [120 Stat. 3262][/us/stat/120/3262], substituted “Strategic Planning and Performance Management” for “Strategic planning and performance management” in item for chapter 28.
 
-    1993—[Pub. L. 103–62, § 11(c)][/us/pl/103/62/s11/c], Aug. 3, 1993, [107 Stat. 296][/us/stat/107/296], added item for chapter 28.
+    1993—[Pub. L. 103–62][/us/pl/103/62], § 11(c), Aug. 3, 1993, [107 Stat. 296][/us/stat/107/296], added item for chapter 28.
 
 ----------
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/109/435/s1010/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fg%2F2
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3262
-[/us/pl/103/62/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs11%2Fc
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F296
 
 

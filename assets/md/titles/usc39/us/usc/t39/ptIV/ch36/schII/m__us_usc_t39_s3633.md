@@ -29,7 +29,7 @@
 
     Five years after the date of enactment of this section, and every 5 years thereafter, the Postal Regulatory Commission shall conduct a review to determine whether the institutional costs contribution requirement under subsection (a)(3) should be retained in its current form, modified, or eliminated. In making its determination, the Commission shall consider all relevant circumstances, including the prevailing competitive conditions in the market, and the degree to which any costs are uniquely or disproportionately associated with any competitive products.
 
-(Added [Pub. L. 109–435, title II, § 202][/us/pl/109/435/s202], Dec. 20, 2006, [120 Stat. 3206][/us/stat/120/3206].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 202, Dec. 20, 2006, [120 Stat. 3206][/us/stat/120/3206].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Study on Equal Application of Laws to Competitive Products__ 
 
-[Pub. L. 109–435, title VII, § 703][/us/pl/109/435/s703], Dec. 20, 2006, [120 Stat. 3244][/us/stat/120/3244], provided that:
+[Pub. L. 109–435, title VII][/us/pl/109/435/tVII], § 703, Dec. 20, 2006, [120 Stat. 3244][/us/stat/120/3244], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -62,10 +62,10 @@
 ----------
 ----------
 
-[/us/pl/109/435/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs202
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3206
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/109/435/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs703
+[/us/pl/109/435/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVII
 [/us/stat/120/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3244
 [/us/usc/t39/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs102
 [/us/usc/t39/s3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3633

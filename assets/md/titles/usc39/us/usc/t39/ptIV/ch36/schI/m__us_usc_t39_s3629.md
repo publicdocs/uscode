@@ -17,7 +17,7 @@
 
     The Postal Service shall make available to a State or local voting registration official the rate for any class of mail that is available to a qualified nonprofit organization under section 3626 for the purpose of making a mailing that the official certifies is required or authorized by the National Voter Registration Act of 1993.
 
-(Added [Pub. L. 103–31, § 8(h)(1)][/us/pl/103/31/s8/h/1], May 20, 1993, [107 Stat. 86][/us/stat/107/86].)
+(Added [Pub. L. 103–31][/us/pl/103/31], § 8(h)(1), May 20, 1993, [107 Stat. 86][/us/stat/107/86].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/31/s8/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31%2Fs8%2Fh%2F1
+[/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/stat/107/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F86
 [/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/stat/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F77

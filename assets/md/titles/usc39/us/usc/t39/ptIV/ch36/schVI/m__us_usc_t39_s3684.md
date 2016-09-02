@@ -17,7 +17,7 @@
 
     Except as provided in [section 3627 of this title][/us/usc/t39/s3627], no provision of this chapter shall be construed to give authority to the Governors to make any change in any provision of this title.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 765][/us/stat/84/765]; [Pub. L. 99–410, title II, § 201(b)(4)][/us/pl/99/410/s201/b/4], Aug. 28, 1986, [100 Stat. 929][/us/stat/100/929]; [Pub. L. 109–435, title X, § 1010(f)][/us/pl/109/435/s1010/f], Dec. 20, 2006, [120 Stat. 3262][/us/stat/120/3262].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 765][/us/stat/84/765]; [Pub. L. 99–410, title II][/us/pl/99/410/tII], § 201(b)(4), Aug. 28, 1986, [100 Stat. 929][/us/stat/100/929]; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1010(f), Dec. 20, 2006, [120 Stat. 3262][/us/stat/120/3262].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 [/us/usc/t39/s3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3627
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F765
-[/us/pl/99/410/s201/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs201%2Fb%2F4
+[/us/pl/99/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2FtII
 [/us/stat/100/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F929
-[/us/pl/109/435/s1010/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Ff
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3262
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410

@@ -17,7 +17,7 @@
 
     Upon the death of a Member of Congress during his term of office, the surviving spouse of such Member (or, if there is no surviving spouse, a member of the immediate family of the Member designated by the Secretary of the Senate or the Clerk of the House of Representatives, as appropriate, in accordance with rules and procedures established by the Secretary or the Clerk) may send, for a period not to exceed 180 days after his death, as franked mail, nonpolitical correspondence relating to the death of the Member.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 755][/us/stat/84/755]; [Pub. L. 93–191, § 11][/us/pl/93/191/s11], Dec. 18, 1973, [87 Stat. 746][/us/stat/87/746]; [Pub. L. 97–69, § 6(b)][/us/pl/97/69/s6/b], (c)(1), Oct. 26, 1981, [95 Stat. 1043][/us/stat/95/1043].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 755][/us/stat/84/755]; [Pub. L. 93–191][/us/pl/93/191], § 11, Dec. 18, 1973, [87 Stat. 746][/us/stat/87/746]; [Pub. L. 97–69][/us/pl/97/69], § 6(b), (c)(1), Oct. 26, 1981, [95 Stat. 1043][/us/stat/95/1043].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F755
-[/us/pl/93/191/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs11
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F746
-[/us/pl/97/69/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69%2Fs6%2Fb
+[/us/pl/97/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69
 [/us/stat/95/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1043
 [/us/pl/97/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, title II, § 204(a)(2)][/us/pl/109/435/s204/a/2], Dec. 20, 2006, [120 Stat. 3210][/us/stat/120/3210], redesignated subchapter V of this chapter as this subchapter.
+    2006—[Pub. L. 109–435, title II][/us/pl/109/435/tII], § 204(a)(2), Dec. 20, 2006, [120 Stat. 3210][/us/stat/120/3210], redesignated subchapter V of this chapter as this subchapter.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs204%2Fa%2F2
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3210
 
 

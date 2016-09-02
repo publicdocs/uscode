@@ -43,7 +43,7 @@
 
     (c) Any regulations necessary to carry out this section shall be promulgated by the Postal Regulatory Commission.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 727][/us/stat/84/727]; [Pub. L. 109–435, title V, § 503(a)][/us/pl/109/435/s503/a], Dec. 20, 2006, [120 Stat. 3234][/us/stat/120/3234].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 727][/us/stat/84/727]; [Pub. L. 109–435, title V][/us/pl/109/435/tV], § 503(a), Dec. 20, 2006, [120 Stat. 3234][/us/stat/120/3234].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–435, title V, § 503(b)][/us/pl/109/435/s503/b], Dec. 20, 2006, [120 Stat. 3235][/us/stat/120/3235], provided that: 
+[Pub. L. 109–435, title V][/us/pl/109/435/tV], § 503(b), Dec. 20, 2006, [120 Stat. 3235][/us/stat/120/3235], provided that: 
 
 > “This section \[amending this section\] shall take effect on the date as of which the regulations promulgated under [section 3633 of title 39][/us/usc/t39/s3633], United States Code (as amended by section 202) take effect \[Dec. 10, 2007, 72 F.R. 63662, 64155\].”
 
@@ -74,10 +74,10 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F727
-[/us/pl/109/435/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs503%2Fa
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3234
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/109/435/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs503%2Fb
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3235
 [/us/usc/t39/s3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3633
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa

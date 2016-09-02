@@ -97,7 +97,7 @@
 
     Market tests under this subchapter may be conducted in any year beginning with the first year in which occurs the deadline for the Postal Service’s first report to the Postal Regulatory Commission under section 3652(a).
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 763][/us/stat/84/763]; [Pub. L. 94–421, § 6(a)][/us/pl/94/421/s6/a], Sept. 24, 1976, [90 Stat. 1306][/us/stat/90/1306]; [Pub. L. 109–435, title II, § 203][/us/pl/109/435/s203], Dec. 20, 2006, [120 Stat. 3207][/us/stat/120/3207].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 763][/us/stat/84/763]; [Pub. L. 94–421][/us/pl/94/421], § 6(a), Sept. 24, 1976, [90 Stat. 1306][/us/stat/90/1306]; [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 203, Dec. 20, 2006, [120 Stat. 3207][/us/stat/120/3207].)
 
  __References in Text__ 
 
@@ -125,13 +125,13 @@
 
  __Rate Change Request Made on__  __September 18, 1975__  __, or Under Docket Number R76–1__ 
 
-[Pub. L. 94–421, § 6(b)(1)][/us/pl/94/421/s6/b/1], Sept. 24, 1976, [90 Stat. 1307][/us/stat/90/1307], provided that: 
+[Pub. L. 94–421][/us/pl/94/421], § 6(b)(1), Sept. 24, 1976, [90 Stat. 1307][/us/stat/90/1307], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission \[now Postal Regulatory Commission\] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1.”
 
  __Applicability of Former Provisions of Section to Rate Change Request Made on__  __September 18, 1975__  __, Under Docket Number R76–1__ 
 
-[Pub. L. 94–421, § 6(b)(2)][/us/pl/94/421/s6/b/2], Sept. 24, 1976, [90 Stat. 1307][/us/stat/90/1307], provided that: 
+[Pub. L. 94–421][/us/pl/94/421], § 6(b)(2), Sept. 24, 1976, [90 Stat. 1307][/us/stat/90/1307], provided that: 
 
 > “The provisions of [section 3641 of title 39][/us/usc/t39/s3641], United States Code, as such provisions were in effect on the day before the date of the enactment of this Act \[Sept. 24, 1976\], shall apply to any temporary rate or fee established by the Postal Service pursuant to its request to the Postal Rate Commission \[now Postal Regulatory Commission\], dated September 18, 1975, for a recommended decision, bearing Docket Number R76–1.”
 
@@ -144,9 +144,9 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F763
-[/us/pl/94/421/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs6%2Fa
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1306
-[/us/pl/109/435/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs203
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3207
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
@@ -158,9 +158,9 @@
 [/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/94/421/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs6%2Fb%2F1
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1307
-[/us/pl/94/421/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421%2Fs6%2Fb%2F2
+[/us/pl/94/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F421
 [/us/stat/90/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1307
 [/us/usc/t39/s3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3641
 

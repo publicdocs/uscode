@@ -67,11 +67,11 @@
 
         (2) With respect to shipments of international mail that are competitive products within the meaning of section 3631 that are exported or imported by the Postal Service, the Customs Service and other appropriate Federal agencies shall apply the customs laws of the United States and all other laws relating to the importation or exportation of such shipments in the same manner to both shipments by the Postal Service and similar shipments by private companies.
 
-        (3) In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary’s control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. The Secretary of State shall consult with the United States Trade Representative and the Commissioner of Customs in carrying out this paragraph.
+        (3) In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary’s control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. The Secretary of State shall consult with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection in carrying out this paragraph.
 
         (4) The provisions of this subsection shall take effect 6 months after the date of enactment of this subsection or such earlier date as the Bureau of Customs and Border Protection of the Department of Homeland Security may determine in writing.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 724][/us/stat/84/724]; [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 633(a)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523; [Pub. L. 109–435, title IV, § 405(a)][/us/pl/109/435/s405/a], Dec. 20, 2006, [120 Stat. 3229][/us/stat/120/3229].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 724][/us/stat/84/724]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 633(a)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–523; [Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 405(a), Dec. 20, 2006, [120 Stat. 3229][/us/stat/120/3229]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
@@ -89,9 +89,13 @@
 
     “(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments to the Secretary of State, who shall furnish a copy of the same to the Public Printer for publication.”
 
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (e)(3) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–435, title IV, § 405(b)][/us/pl/109/435/s405/b], Dec. 20, 2006, [120 Stat. 3232][/us/stat/120/3232], provided that: 
+[Pub. L. 109–435, title IV][/us/pl/109/435/tIV], § 405(b), Dec. 20, 2006, [120 Stat. 3232][/us/stat/120/3232], provided that: 
 
 > “Notwithstanding any provision of the amendment made by subsection (a) \[amending this section\], the authority of the United States Postal Service to establish the rates of postage or other charges on mail matter conveyed between the United States and other countries shall remain available to the Postal Service until—
 
@@ -105,7 +109,7 @@
 
  __Transfer of Funds to State Department__ 
 
-[Pub. L. 105–277, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 633(d)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–524, provided that: 
+[Pub. L. 105–277][/us/pl/105/277], § 101(h) \[title VI, § 633(d)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–524, provided that: 
 
 > “In fiscal year 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of [Section 407 of title 39][/us/usc/t39/s407] of the United States Code.”
 
@@ -118,22 +122,26 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F724
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/109/435/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs405%2Fa
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3229
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/109/435/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs405%2Fb
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
+[/us/pl/109/435/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtIV
 [/us/stat/120/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3232
 [/us/usc/t39/s3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3622
 [/us/usc/t39/s3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3633
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/usc/t39/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs407
 

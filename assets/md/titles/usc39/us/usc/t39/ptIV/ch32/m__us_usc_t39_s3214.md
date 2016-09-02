@@ -17,7 +17,7 @@
 
     A former President and the surviving spouse of a former President may send nonpolitical mail within the United States and its territories and possessions as franked mail. Such mail of a former President and of the surviving spouse of a former President marked “Postage and Fees Paid” in the manner prescribed by the Postal Service shall be accepted by the Postal Service for transmission in the international mails.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 754][/us/stat/84/754]; [Pub. L. 93–191, § 4(a)][/us/pl/93/191/s4/a], Dec. 18, 1973, [87 Stat. 742][/us/stat/87/742]; [Pub. L. 103–123, title IV, § 6(b)][/us/pl/103/123/s6/b], Oct. 28, 1993, [107 Stat. 1246][/us/stat/107/1246]; [Pub. L. 105–61, title IV, § 409(b)][/us/pl/105/61/s409/b], Oct. 10, 1997, [111 Stat. 1299][/us/stat/111/1299].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 754][/us/stat/84/754]; [Pub. L. 93–191][/us/pl/93/191], § 4(a), Dec. 18, 1973, [87 Stat. 742][/us/stat/87/742]; [Pub. L. 103–123, title IV][/us/pl/103/123/tIV], § 6(b), Oct. 28, 1993, [107 Stat. 1246][/us/stat/107/1246]; [Pub. L. 105–61, title IV][/us/pl/105/61/tIV], § 409(b), Oct. 10, 1997, [111 Stat. 1299][/us/stat/111/1299].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–123, title IV, § 6(c)][/us/pl/103/123/s6/c], Oct. 28, 1993, [107 Stat. 1247][/us/stat/107/1247], provided that: 
+[Pub. L. 103–123, title IV][/us/pl/103/123/tIV], § 6(c), Oct. 28, 1993, [107 Stat. 1247][/us/stat/107/1247], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under [section 102 of Title 3][/us/usc/t3/s102], The President\] shall take effect on October 1, 1993.”
 
@@ -54,17 +54,17 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F754
-[/us/pl/93/191/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs4%2Fa
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F742
-[/us/pl/103/123/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs6%2Fb
+[/us/pl/103/123/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtIV
 [/us/stat/107/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1246
-[/us/pl/105/61/s409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs409%2Fb
+[/us/pl/105/61/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtIV
 [/us/stat/111/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1299
 [/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/103/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
-[/us/pl/103/123/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs6%2Fc
+[/us/pl/103/123/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtIV
 [/us/stat/107/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1247
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191

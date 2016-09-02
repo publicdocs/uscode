@@ -39,7 +39,7 @@
 
     The Postal Service shall provide the Postal Regulatory Commission with such information as may, in the judgment of the Commission, be necessary in order for the Commission to prepare its reports under this section.
 
-(Added [Pub. L. 109–435, title II, § 204(b)][/us/pl/109/435/s204/b], Dec. 20, 2006, [120 Stat. 3211][/us/stat/120/3211].)
+(Added [Pub. L. 109–435, title II][/us/pl/109/435/tII], § 204(b), Dec. 20, 2006, [120 Stat. 3211][/us/stat/120/3211].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs204%2Fb
+[/us/pl/109/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtII
 [/us/stat/120/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3211
 
 

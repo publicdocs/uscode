@@ -179,17 +179,17 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, title X, § 1008(c)(2)][/us/pl/109/435/s1008/c/2], Dec. 20, 2006, [120 Stat. 3260][/us/stat/120/3260], added item 3018.
+    2006—[Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1008(c)(2), Dec. 20, 2006, [120 Stat. 3260][/us/stat/120/3260], added item 3018.
 
-    1999—[Pub. L. 106–168, title I][/us/pl/106/168], §§ 105(b)(1), 107(d), 108(b), Dec. 12, 1999, [113 Stat. 1811][/us/stat/113/1811], 1814, 1816, repealed item 3006 “Unlawful matter” and added items 3016 and 3017.
+    1999—[Pub. L. 106–168, title I][/us/pl/106/168/tI], §§ 105(b)(1), 107(d), 108(b), Dec. 12, 1999, [113 Stat. 1811][/us/stat/113/1811], 1814, 1816, repealed item 3006 “Unlawful matter” and added items 3016 and 3017.
 
-    1992—[Pub. L. 102–393, title VI, § 631(d)(2)][/us/pl/102/393/s631/d/2], Oct. 6, 1992, [106 Stat. 1776][/us/stat/106/1776], added item 3015.
+    1992—[Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 631(d)(2), Oct. 6, 1992, [106 Stat. 1776][/us/stat/106/1776], added item 3015.
 
-    1988—[Pub. L. 100–690, title VII, § 7090(b)][/us/pl/100/690/s7090/b], Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410], added item 3002a.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7090(b), Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410], added item 3002a.
 
-    [Pub. L. 100–574, § 1(a)(2)][/us/pl/100/574/s1/a/2], Oct. 31, 1988, [102 Stat. 2893][/us/stat/102/2893], added item 3014.
+    [Pub. L. 100–574][/us/pl/100/574], § 1(a)(2), Oct. 31, 1988, [102 Stat. 2893][/us/stat/102/2893], added item 3014.
 
-    1983—[Pub. L. 98–186, § 3(c)][/us/pl/98/186/s3/c], Nov. 30, 1983, [97 Stat. 1317][/us/stat/97/1317], added items 3012 and 3013.
+    1983—[Pub. L. 98–186][/us/pl/98/186], § 3(c), Nov. 30, 1983, [97 Stat. 1317][/us/stat/97/1317], added items 3012 and 3013.
 
 ----------
 
@@ -198,17 +198,17 @@
 ----------
 ----------
 
-[/us/pl/109/435/s1008/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1008%2Fc%2F2
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3260
-[/us/pl/106/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168
+[/us/pl/106/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F168%2FtI
 [/us/stat/113/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1811
-[/us/pl/102/393/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs631%2Fd%2F2
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1776
-[/us/pl/100/690/s7090/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7090%2Fb
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4410
-[/us/pl/100/574/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574%2Fs1%2Fa%2F2
+[/us/pl/100/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574
 [/us/stat/102/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2893
-[/us/pl/98/186/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186%2Fs3%2Fc
+[/us/pl/98/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F186
 [/us/stat/97/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1317
 
 

@@ -31,7 +31,7 @@
 
         (3) any other provisions which may be necessary, including provisions relating to the closing of a post office under this section if necessary because a post office under section 406 is established in the same location.
 
-(Added [Pub. L. 101–524, § 5(a)][/us/pl/101/524/s5/a], Nov. 6, 1990, [104 Stat. 2303][/us/stat/104/2303].)
+(Added [Pub. L. 101–524][/us/pl/101/524], § 5(a), Nov. 6, 1990, [104 Stat. 2303][/us/stat/104/2303].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/524/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F524%2Fs5%2Fa
+[/us/pl/101/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F524
 [/us/stat/104/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2303
 
 

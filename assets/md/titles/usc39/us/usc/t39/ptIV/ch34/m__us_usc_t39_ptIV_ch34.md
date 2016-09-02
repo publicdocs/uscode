@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–410, title II, § 201(b)(1)][/us/pl/99/410/s201/b/1], Aug. 28, 1986, [100 Stat. 928][/us/stat/100/928], added item 3406.
+    1986—[Pub. L. 99–410, title II][/us/pl/99/410/tII], § 201(b)(1), Aug. 28, 1986, [100 Stat. 928][/us/stat/100/928], added item 3406.
 
-    1979—[Pub. L. 96–70, title I, § 1331(e)(3)(B)][/us/pl/96/70/s1331/e/3/B], Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482], struck out item 3402 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone”.
+    1979—[Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1331(e)(3)(B), Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482], struck out item 3402 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone”.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/99/410/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs201%2Fb%2F1
+[/us/pl/99/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2FtII
 [/us/stat/100/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F928
-[/us/pl/96/70/s1331/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1331%2Fe%2F3%2FB
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F482
 
 

@@ -87,7 +87,7 @@ Amendments  </td>
 
 </table>
 
-    2006—[Pub. L. 109–435, title VI, § 601(c)][/us/pl/109/435/s601/c], Dec. 20, 2006, [120 Stat. 3239][/us/stat/120/3239], added item for chapter 5.
+    2006—[Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 601(c), Dec. 20, 2006, [120 Stat. 3239][/us/stat/120/3239], added item for chapter 5.
 
 ----------
 
@@ -96,7 +96,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/109/435/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs601%2Fc
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3239
 
 

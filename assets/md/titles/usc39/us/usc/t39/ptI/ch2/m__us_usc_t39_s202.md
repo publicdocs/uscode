@@ -47,7 +47,7 @@
 
         (3) The Inspector General may at any time be removed upon the written concurrence of at least 7 Governors, but only for cause. Nothing in this subsection shall be considered to exempt the Governors from the requirements of section 8G(e) of the Inspector General Act of 1978.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 720][/us/stat/84/720]; [Pub. L. 98–81, § 2][/us/pl/98/81/s2], Aug. 23, 1983, [97 Stat. 487][/us/stat/97/487]; [Pub. L. 99–190, § 144][/us/pl/99/190/s144], Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, §§ 644(a), 662(a)(1)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366, 3009–378; [Pub. L. 109–435, title V, § 501(a)(1)][/us/pl/109/435/s501/a/1], (b), (c)(1), (d)(1), Dec. 20, 2006, [120 Stat. 3232][/us/stat/120/3232], 3233.)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 720][/us/stat/84/720]; [Pub. L. 98–81][/us/pl/98/81], § 2, Aug. 23, 1983, [97 Stat. 487][/us/stat/97/487]; [Pub. L. 99–190][/us/pl/99/190], § 144, Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, §§ 644(a), 662(a)(1)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366, 3009–378; [Pub. L. 109–435, title V][/us/pl/109/435/tV], § 501(a)(1), (b), (c)(1), (d)(1), Dec. 20, 2006, [120 Stat. 3232][/us/stat/120/3232], 3233.)
 
  __References in Text__ 
 
@@ -55,17 +55,17 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–435, § 501(a)(1)][/us/pl/109/435/s501/a/1], designated existing provisions as par. (1) and substituted “The Governors shall represent the public interest generally, and shall be chosen solely on the basis of their experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.” for “The Governors shall be chosen to represent the public interest generally, and shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.”
+    2006—Subsec. (a). [Pub. L. 109–435][/us/pl/109/435], § 501(a)(1), designated existing provisions as par. (1) and substituted “The Governors shall represent the public interest generally, and shall be chosen solely on the basis of their experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.” for “The Governors shall be chosen to represent the public interest generally, and shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.”
 
-    Subsec. (a)(2). [Pub. L. 109–435, § 501(b)][/us/pl/109/435/s501/b], added par. (2).
+    Subsec. (a)(2). [Pub. L. 109–435][/us/pl/109/435], § 501(b), added par. (2).
 
-    Subsec. (b). [Pub. L. 109–435, § 501(d)(1)][/us/pl/109/435/s501/d/1], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 109–435][/us/pl/109/435], § 501(d)(1), designated existing provisions as par. (1) and added par. (2).
 
-    [Pub. L. 109–435, § 501(c)(1)][/us/pl/109/435/s501/c/1], which directed amendment of first sentence by substituting “7 years” for “9 years”, was executed by making substitution for “9 years” the first place appearing in first sentence, to reflect the probable intent of Congress.
+    [Pub. L. 109–435][/us/pl/109/435], § 501(c)(1), which directed amendment of first sentence by substituting “7 years” for “9 years”, was executed by making substitution for “9 years” the first place appearing in first sentence, to reflect the probable intent of Congress.
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 644(a)\], substituted “$30,000 a year” for “$10,000 a year”.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 644(a)\], substituted “$30,000 a year” for “$10,000 a year”.
 
-    Subsec. (e). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(a)(1)\], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 662(a)(1)\], added subsec. (e).
 
     1985—Subsec. (a). [Pub. L. 99–190][/us/pl/99/190] substituted “42” for “30” in two places.
 
@@ -73,11 +73,11 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–435, title V, § 501(a)(2)][/us/pl/109/435/s501/a/2], Dec. 20, 2006, [120 Stat. 3232][/us/stat/120/3232], provided that: 
+[Pub. L. 109–435, title V][/us/pl/109/435/tV], § 501(a)(2), Dec. 20, 2006, [120 Stat. 3232][/us/stat/120/3232], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall not affect the appointment or tenure of any person serving as a Governor of the United States Postal Service under an appointment made before the date of enactment of this Act \[Dec. 20, 2006\]\[;\] however, when any such office becomes vacant, the appointment of any person to fill that office shall be made in accordance with such amendment. The requirement set forth in the fourth sentence of [section 202(a)(1) of title 39][/us/usc/t39/s202/a/1], United States Code (as amended by subsection (a)) shall be met beginning not later than 9 years after the date of enactment of this Act \[Dec. 20, 2006\].”
 
-[Pub. L. 109–435, title V, § 501(c)(2)][/us/pl/109/435/s501/c/2], Dec. 20, 2006, [120 Stat. 3233][/us/stat/120/3233], provided that:
+[Pub. L. 109–435, title V][/us/pl/109/435/tV], § 501(c)(2), Dec. 20, 2006, [120 Stat. 3233][/us/stat/120/3233], provided that:
 
 >     “(A)  __Continuation by incumbents__  __.—__ 
 
@@ -91,13 +91,13 @@
 
 >     If a person who is serving as a Governor of the United States Postal Service on the date of enactment of this Act \[Dec. 20, 2006\] resigns, is removed, or dies before the expiration of the 9-year term of that Governor, and that Governor has served 7 years or more of that term, that term shall be deemed to have been a 7-year term beginning on its commencement date for purposes of determining vacancies in office. Any appointment to the vacant office shall be for a 7-year term beginning at the end of the original 9-year term determined without regard to the deeming under the preceding sentence. Nothing in this subparagraph shall be construed to affect any action or authority of any Governor or the Board of Governors during any portion of a 9-year term deemed to be a 7-year term under this subparagraph.”
 
-[Pub. L. 109–435, title V, § 501(d)(2)][/us/pl/109/435/s501/d/2], Dec. 20, 2006, [120 Stat. 3233][/us/stat/120/3233], provided that: 
+[Pub. L. 109–435, title V][/us/pl/109/435/tV], § 501(d)(2), Dec. 20, 2006, [120 Stat. 3233][/us/stat/120/3233], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall not affect the tenure of any person serving as a Governor of the United States Postal Service on the date of enactment of this Act \[Dec. 20, 2006\] with respect to the term which that person is serving on that date. Such person may continue to serve the remainder of the applicable term, after which the amendments made by paragraph (1) shall apply.”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 644(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 644(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366, provided that: 
 
 > “Subsection (a) \[amending this section\] shall take effect at the beginning of the next applicable pay period beginning after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
@@ -118,31 +118,31 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F720
-[/us/pl/98/81/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F81%2Fs2
+[/us/pl/98/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F81
 [/us/stat/97/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F487
-[/us/pl/99/190/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs144
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1324
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/109/435/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs501%2Fa%2F1
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3232
 [/us/pl/95/452/s8G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8G
-[/us/pl/109/435/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs501%2Fa%2F1
-[/us/pl/109/435/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs501%2Fb
-[/us/pl/109/435/s501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs501%2Fd%2F1
-[/us/pl/109/435/s501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs501%2Fc%2F1
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/pl/98/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F81
-[/us/pl/109/435/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs501%2Fa%2F2
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3232
 [/us/usc/t39/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs202%2Fa%2F1
-[/us/pl/109/435/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs501%2Fc%2F2
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3233
-[/us/pl/109/435/s501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs501%2Fd%2F2
+[/us/pl/109/435/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtV
 [/us/stat/120/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3233
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101

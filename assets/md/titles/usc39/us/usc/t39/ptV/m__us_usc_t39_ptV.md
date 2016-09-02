@@ -71,7 +71,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–435, title X, § 1002(c)][/us/pl/109/435/s1002/c], Dec. 20, 2006, [120 Stat. 3255][/us/stat/120/3255], struck out item relating to chapter 52 “Transportation of Mail by Surface Carrier”.
+    2006—[Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1002(c), Dec. 20, 2006, [120 Stat. 3255][/us/stat/120/3255], struck out item relating to chapter 52 “Transportation of Mail by Surface Carrier”.
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/109/435/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1002%2Fc
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3255
 
 

@@ -17,7 +17,7 @@
 
     No mailer may be reimbursed for any amount paid under any rate or fee which, after such payment, is determined to have been unlawful after proceedings in accordance with the provisions of sections 3662 through 3664 of this title, or is superseded by a lower rate or fee established under subchapter II of this chapter.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 764][/us/stat/84/764]; [Pub. L. 109–435, title X, § 1010(a)][/us/pl/109/435/s1010/a], Dec. 20, 2006, [120 Stat. 3261][/us/stat/120/3261].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 764][/us/stat/84/764]; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1010(a), Dec. 20, 2006, [120 Stat. 3261][/us/stat/120/3261].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F764
-[/us/pl/109/435/s1010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fa
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3261
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa

@@ -17,7 +17,7 @@
 
     The Postal Service may establish size and weight limitations for mail matter in the market-dominant category of mail consistent with regulations the Postal Regulatory Commission may prescribe under section 3622. The Postal Service may establish size and weight limitations for mail matter in the competitive category of mail consistent with its authority under section 3632.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 765][/us/stat/84/765]; [Pub. L. 96–70, title I, § 1331(e)(4)][/us/pl/96/70/s1331/e/4], Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482]; [Pub. L. 97–242, § 1(a)][/us/pl/97/242/s1/a], Aug. 24, 1982, [96 Stat. 300][/us/stat/96/300]; [Pub. L. 109–435, title X, § 1010(b)][/us/pl/109/435/s1010/b], Dec. 20, 2006, [120 Stat. 3261][/us/stat/120/3261].)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 765][/us/stat/84/765]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1331(e)(4), Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482]; [Pub. L. 97–242][/us/pl/97/242], § 1(a), Aug. 24, 1982, [96 Stat. 300][/us/stat/96/300]; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1010(b), Dec. 20, 2006, [120 Stat. 3261][/us/stat/120/3261].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–242, § 1(b)][/us/pl/97/242/s1/b], Aug. 24, 1982, [96 Stat. 300][/us/stat/96/300], provided that: 
+[Pub. L. 97–242][/us/pl/97/242], § 1(b), Aug. 24, 1982, [96 Stat. 300][/us/stat/96/300], provided that: 
 
 > “The size and weight limitations for other than letter mail established by subsections (a) and (b) of [section 3682 of title 39][/us/usc/t39/s3682], United States Code, as in effect on the day prior to the effective date of this section \[Aug. 24, 1982\], shall remain in effect until changed pursuant to section 3682 of such title, as amended, by subsection (a) of this section.”
 
@@ -46,17 +46,17 @@
 
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F765
-[/us/pl/96/70/s1331/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1331%2Fe%2F4
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F482
-[/us/pl/97/242/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F242%2Fs1%2Fa
+[/us/pl/97/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F242
 [/us/stat/96/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F300
-[/us/pl/109/435/s1010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1010%2Fb
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3261
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/97/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F242
 [/us/usc/t39/s4554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs4554
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
-[/us/pl/97/242/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F242%2Fs1%2Fb
+[/us/pl/97/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F242
 [/us/stat/96/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F300
 [/us/usc/t39/s3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3682
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70

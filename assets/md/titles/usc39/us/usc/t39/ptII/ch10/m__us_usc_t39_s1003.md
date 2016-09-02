@@ -23,7 +23,7 @@
 
     (d) The Postal Service shall follow an employment policy designed, without compromising the policy of [section 101(a) of this title][/us/usc/t39/s101/a], to extend opportunity to the disadvantaged and the handicapped.
 
-([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 730][/us/stat/84/730]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(c)(2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–380.)
+([Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 730][/us/stat/84/730]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 662(c)(2)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–380.)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(c)(2)(B)\], substituted “chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978,” for “chapters 2 and 12 of this title”.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 662(c)(2)(B)\], substituted “chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978,” for “chapters 2 and 12 of this title”.
 
-    Subsecs. (b) to (d). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 662(c)(2)(A)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+    Subsecs. (b) to (d). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 662(c)(2)(A)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 
  __Compensation of Employees__ 
 
-[Pub. L. 91–375, § 9][/us/pl/91/375/s9], Aug. 12, 1970, [84 Stat. 784][/us/stat/84/784], provided that:
+[Pub. L. 91–375][/us/pl/91/375], § 9, Aug. 12, 1970, [84 Stat. 784][/us/stat/84/784], provided that:
 
 >     “(a) \[Increase in Basic Pay Rate; Effective Date\] The Postmaster General, under regulations made by him, shall increase the rates of basic pay or compensation of employees in the Post Office Department so that such rates will equal, as nearly as practicable, 108 percent of the rates of basic pay or compensation in effect immediately prior to the date of enactment of this Act \[Aug. 12, 1970\]. Such increases shall take effect on the first day of the first pay period which begins on or after April 16, 1970.
 
@@ -75,14 +75,14 @@
 [/us/usc/t39/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101%2Fa
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F730
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/91/375/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs9
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F784
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332

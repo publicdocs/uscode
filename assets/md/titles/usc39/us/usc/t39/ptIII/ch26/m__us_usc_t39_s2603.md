@@ -21,7 +21,7 @@
 
  __Charge Against Postal Revenues for Settlement of Claims for Damages and for Losses Resulting From Unavoidable Casualty__ 
 
-[Pub. L. 89–57, title II, § 201][/us/pl/89/57/s201], June 30, 1965, [79 Stat. 200][/us/stat/79/200], provided in part: 
+[Pub. L. 89–57, title II][/us/pl/89/57/tII], § 201, June 30, 1965, [79 Stat. 200][/us/stat/79/200], provided in part: 
 
 > “That hereafter settlement of claims, pursuant to law, current and prior fiscal years, for damages, and for losses resulting from unavoidable casualty shall be paid from postal revenues.”
 
@@ -35,7 +35,7 @@
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F745
-[/us/pl/89/57/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F57%2Fs201
+[/us/pl/89/57/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F57%2FtII
 [/us/stat/79/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F200
 
 

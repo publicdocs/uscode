@@ -17,7 +17,7 @@
 
     The Postal Service may not restrict, eliminate, or adversely affect any service provided by the Postal Service as a result of the payment of any penalty imposed under the Occupational Safety and Health Act of 1970 ([29 U.S.C. 651][/us/usc/t29/s651] et seq.).
 
-(Added [Pub. L. 105–241, § 4(a)][/us/pl/105/241/s4/a], Sept. 28, 1998, [112 Stat. 1573][/us/stat/112/1573].)
+(Added [Pub. L. 105–241][/us/pl/105/241], § 4(a), Sept. 28, 1998, [112 Stat. 1573][/us/stat/112/1573].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/105/241/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241%2Fs4%2Fa
+[/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/stat/112/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1573
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

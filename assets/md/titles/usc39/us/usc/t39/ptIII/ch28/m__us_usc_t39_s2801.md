@@ -29,7 +29,7 @@
 
     (6) “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Postal Service programs achieve intended objectives.
 
-(Added [Pub. L. 103–62, § 7][/us/pl/103/62/s7], Aug. 3, 1993, [107 Stat. 292][/us/stat/107/292].)
+(Added [Pub. L. 103–62][/us/pl/103/62], § 7, Aug. 3, 1993, [107 Stat. 292][/us/stat/107/292].)
 
  __Construction__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/62/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs7
+[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F292
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62

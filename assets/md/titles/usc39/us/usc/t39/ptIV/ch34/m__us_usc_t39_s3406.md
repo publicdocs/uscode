@@ -25,7 +25,7 @@
 
     (b) As used in this section, the term “balloting materials” has the meaning given that term in section 107 of the Uniformed and Overseas Citizens Absentee Voting Act.
 
-(Added [Pub. L. 99–410, title II, § 201(a)][/us/pl/99/410/s201/a], Aug. 28, 1986, [100 Stat. 928][/us/stat/100/928].)
+(Added [Pub. L. 99–410, title II][/us/pl/99/410/tII], § 201(a), Aug. 28, 1986, [100 Stat. 928][/us/stat/100/928].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t39/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs406
-[/us/pl/99/410/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs201%2Fa
+[/us/pl/99/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2FtII
 [/us/stat/100/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F928
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
