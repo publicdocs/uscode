@@ -27,7 +27,7 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 98–293][/us/pl/98/293] struck out provisions requiring Secretary of the Interior to transmit annual cost accounts to Congress of all moneys expended on each irrigation project.
+    1982—[Pub. L. 97–293][/us/pl/97/293] struck out provisions requiring Secretary of the Interior to transmit annual cost accounts to Congress of all moneys expended on each irrigation project.
 
     1946—Act Aug. 7, 1946, discontinued provisions requiring Secretary of the Interior to transmit annual cost accounts to Congress of all moneys expended on each irrigation project.
 
@@ -46,6 +46,6 @@
 [/us/stat/60/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F867
 [/us/pl/97/293/s224/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F293%2Fs224%2Ff
 [/us/stat/96/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1273
-[/us/pl/98/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F293
+[/us/pl/97/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F293
 
 
