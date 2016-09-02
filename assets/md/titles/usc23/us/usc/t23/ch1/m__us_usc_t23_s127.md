@@ -47,9 +47,9 @@
 
         (11)
 
-            (A) With respect to all portions of the Interstate Highway System in the State of Maine, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection through December 31, 2031.
+            (A) With respect to all portions of the Interstate Highway System in the State of Maine, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection.
 
-            (B) With respect to all portions of the Interstate Highway System in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection through December 31, 2031.
+            (B) With respect to all portions of the Interstate Highway System in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection.
 
         (12) __Heavy duty vehicles.—__ 
 
@@ -297,7 +297,17 @@
 
         (2) the weight of a comparable diesel tank and fueling system.
 
-([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 902][/us/stat/72/902]; [Pub. L. 86–624, § 17(e)][/us/pl/86/624/s17/e], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 93–643, § 106][/us/pl/93/643/s106], Jan. 4, 1975, [88 Stat. 2283][/us/stat/88/2283]; [Pub. L. 94–280, title I, § 120][/us/pl/94/280/s120], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 97–424, title I, § 133][/us/pl/97/424/s133], formerly § 133(a), Jan. 6, 1983, [96 Stat. 2123][/us/stat/96/2123], renumbered § 133, [Pub. L. 100–17, title I, § 133(a)(3)][/us/pl/100/17/s133/a/3], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 119][/us/pl/100/17/s119], Apr. 2, 1987, [101 Stat. 157][/us/stat/101/157]; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(c)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I, § 1023(a)][/us/pl/102/240/s1023/a], (b), (d), Dec. 18, 1991, [105 Stat. 1951][/us/stat/105/1951], 1952, 1954; [Pub. L. 103–331, title III, § 332][/us/pl/103/331/s332], Sept. 30, 1994, [108 Stat. 2493][/us/stat/108/2493]; [Pub. L. 103–429, § 3(3)][/us/pl/103/429/s3/3], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III, § 312(a)(1)][/us/pl/104/59/s312/a/1], (2), (b), Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–88, title IV][/us/pl/104/88], §§ 404, 405(a)(1), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(2)(B), 1212(d)(1), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 194; [Pub. L. 107–107, div. A, title X, § 1064][/us/pl/107/107/s1064], Dec. 28, 2001, [115 Stat. 1233][/us/stat/115/1233]; [Pub. L. 108–447, div. J, title I, § 121][/us/pl/108/447/s121], Dec. 8, 2004, [118 Stat. 3347][/us/stat/118/3347]; [Pub. L. 109–58, title VII, § 756(c)][/us/pl/109/58/s756/c], Aug. 8, 2005, [119 Stat. 832][/us/stat/119/832]; [Pub. L. 109–59, title I, § 1111(b)(3)][/us/pl/109/59/s1111/b/3], Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171]; [Pub. L. 111–117, div. A, title I, § 194(a)][/us/pl/111/117/s194/a], (c), (d), (f), Dec. 16, 2009, [123 Stat. 3072][/us/stat/123/3072], 3073; [Pub. L. 112–55, div. C, title I, § 125][/us/pl/112/55/s125], Nov. 18, 2011, [125 Stat. 655][/us/stat/125/655]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1404(a), 1510, 1511, July 6, 2012, [126 Stat. 557][/us/stat/126/557], 567; [Pub. L. 113–235, div. K, title I, § 125][/us/pl/113/235/s125], Dec. 16, 2014, [128 Stat. 2709][/us/stat/128/2709]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1409, 1410, 1446(a)(3), Dec. 4, 2015, [129 Stat. 1411][/us/stat/129/1411], 1437.)
+    (t)  __Vehicles in Idaho__  __.—__ 
+
+    A vehicle limited or prohibited under this section from operating on a segment of the Interstate System in the State of Idaho may operate on such a segment if such vehicle–
+
+        (1) has a gross vehicle weight of 129,000 pounds or less;
+
+        (2) other than gross vehicle weight, complies with the single axle, tandem axle, and bridge formula limits set forth in subsection (a); and
+
+        (3) is authorized to operate on such segment under Idaho State law.
+
+([Pub. L. 85–767][/us/pl/85/767], Aug. 27, 1958, [72 Stat. 902][/us/stat/72/902]; [Pub. L. 86–624, § 17(e)][/us/pl/86/624/s17/e], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 93–643, § 106][/us/pl/93/643/s106], Jan. 4, 1975, [88 Stat. 2283][/us/stat/88/2283]; [Pub. L. 94–280, title I, § 120][/us/pl/94/280/s120], May 5, 1976, [90 Stat. 438][/us/stat/90/438]; [Pub. L. 97–424, title I, § 133][/us/pl/97/424/s133], formerly § 133(a), Jan. 6, 1983, [96 Stat. 2123][/us/stat/96/2123], renumbered § 133, [Pub. L. 100–17, title I, § 133(a)(3)][/us/pl/100/17/s133/a/3], Apr. 2, 1987, [101 Stat. 170][/us/stat/101/170]; [Pub. L. 100–17, title I, § 119][/us/pl/100/17/s119], Apr. 2, 1987, [101 Stat. 157][/us/stat/101/157]; [Pub. L. 100–202, § 101][/us/pl/100/202/s101](l) \[title III, § 347(c)\], Dec. 22, 1987, [101 Stat. 1329–358][/us/stat/101/1329-358], 1329–388; [Pub. L. 101–427][/us/pl/101/427], Oct. 15, 1990, [104 Stat. 927][/us/stat/104/927]; [Pub. L. 102–240, title I, § 1023(a)][/us/pl/102/240/s1023/a], (b), (d), Dec. 18, 1991, [105 Stat. 1951][/us/stat/105/1951], 1952, 1954; [Pub. L. 103–331, title III, § 332][/us/pl/103/331/s332], Sept. 30, 1994, [108 Stat. 2493][/us/stat/108/2493]; [Pub. L. 103–429, § 3(3)][/us/pl/103/429/s3/3], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 104–59, title III, § 312(a)(1)][/us/pl/104/59/s312/a/1], (2), (b), Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–88, title IV][/us/pl/104/88], §§ 404, 405(a)(1), Dec. 29, 1995, [109 Stat. 956][/us/stat/109/956]; [Pub. L. 105–178, title I][/us/pl/105/178], §§ 1106(c)(2)(B), 1212(d)(1), June 9, 1998, [112 Stat. 136][/us/stat/112/136], 194; [Pub. L. 107–107, div. A, title X, § 1064][/us/pl/107/107/s1064], Dec. 28, 2001, [115 Stat. 1233][/us/stat/115/1233]; [Pub. L. 108–447, div. J, title I, § 121][/us/pl/108/447/s121], Dec. 8, 2004, [118 Stat. 3347][/us/stat/118/3347]; [Pub. L. 109–58, title VII, § 756(c)][/us/pl/109/58/s756/c], Aug. 8, 2005, [119 Stat. 832][/us/stat/119/832]; [Pub. L. 109–59, title I, § 1111(b)(3)][/us/pl/109/59/s1111/b/3], Aug. 10, 2005, [119 Stat. 1171][/us/stat/119/1171]; [Pub. L. 111–117, div. A, title I, § 194(a)][/us/pl/111/117/s194/a], (c), (d), (f), Dec. 16, 2009, [123 Stat. 3072][/us/stat/123/3072], 3073; [Pub. L. 112–55, div. C, title I, § 125][/us/pl/112/55/s125], Nov. 18, 2011, [125 Stat. 655][/us/stat/125/655]; [Pub. L. 112–141, div. A, title I][/us/pl/112/141], §§ 1404(a), 1510, 1511, July 6, 2012, [126 Stat. 557][/us/stat/126/557], 567; [Pub. L. 113–235, div. K, title I, § 125][/us/pl/113/235/s125], Dec. 16, 2014, [128 Stat. 2709][/us/stat/128/2709]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1409, 1410, 1446(a)(3), Dec. 4, 2015, [129 Stat. 1411][/us/stat/129/1411], 1437; [Pub. L. 114–113, div. L, title I, § 124][/us/pl/114/113/s124], Dec. 18, 2015, [129 Stat. 2847][/us/stat/129/2847].)
 
  __References in Text__ 
 
@@ -325,9 +335,13 @@
 
     2015—Subsec. (a)(3). [Pub. L. 114–94, § 1446(a)(3)][/us/pl/114/94/s1446/a/3], substituted “118(b)” for “118(b)(2) of this title”.
 
+    Subsec. (a)(11). [Pub. L. 114–113, § 124(1)][/us/pl/114/113/s124/1], struck out “through December 31, 2031” before period at end in subpars. (A) and (B).
+
     Subsec. (a)(13). [Pub. L. 114–94, § 1409][/us/pl/114/94/s1409], added par. (13).
 
     Subsecs. (m) to (s). [Pub. L. 114–94, § 1410][/us/pl/114/94/s1410], added subsecs. (m) to (s).
+
+    Subsec. (t). [Pub. L. 114–113, § 124(2)][/us/pl/114/113/s124/2], added subsec. (t).
 
     2014—Subsecs. (j) to (l). [Pub. L. 113–235][/us/pl/113/235] added subsecs. (j) to (l).
 
@@ -617,6 +631,8 @@
 [/us/stat/128/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2709
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/stat/129/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1411
+[/us/pl/114/113/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs124
+[/us/stat/129/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2847
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/pl/101/516/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F516%2Fs335
@@ -632,8 +648,10 @@
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/pl/114/94/s1446/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fa%2F3
+[/us/pl/114/113/s124/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs124%2F1
 [/us/pl/114/94/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1409
 [/us/pl/114/94/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1410
+[/us/pl/114/113/s124/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs124%2F2
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/141/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1404%2Fa
 [/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1

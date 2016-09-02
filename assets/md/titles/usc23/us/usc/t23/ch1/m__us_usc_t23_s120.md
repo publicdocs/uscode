@@ -319,7 +319,13 @@
 
  __Effective Date of 2015 Amendment__ 
 
-    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+    Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+[Pub. L. 114–94, div. A, title I, § 1408(c)][/us/pl/114/94/s1408/c], as added by [Pub. L. 114–113, div. L, title IV, § 421][/us/pl/114/113/s421], Dec. 18, 2015, [129 Stat. 2908][/us/stat/129/2908], provided that: 
+
+> “The amendment made by subsection (b) \[amending this section\] shall apply to projects to repair or reconstruct facilities damaged as a result of a natural disaster or catastrophic failure described in [section 125(a) of title 23][/us/usc/t23/s125/a], United States Code, occurring on or after October 1, 2015.”
+
+    \[[Pub. L. 114–113, div. L, title IV, § 421][/us/pl/114/113/s421], Dec. 18, 2015, [129 Stat. 2908][/us/stat/129/2908], provided that the enactment by section 421 of [section 1408(c) of Pub. L. 114–94][/us/pl/114/94/s1408/c], set out above, is effective as of Dec. 4, 2015, and as if included in [Pub. L. 114–94][/us/pl/114/94] as enacted.\]
 
  __Effective Date of 2012 Amendment__ 
 
@@ -621,6 +627,14 @@
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s1408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1408%2Fc
+[/us/pl/114/113/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs421
+[/us/stat/129/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2908
+[/us/usc/t23/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs125%2Fa
+[/us/pl/114/113/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs421
+[/us/stat/129/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2908
+[/us/pl/114/94/s1408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1408%2Fc
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
