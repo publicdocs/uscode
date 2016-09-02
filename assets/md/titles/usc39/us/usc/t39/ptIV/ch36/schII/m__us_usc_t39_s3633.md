@@ -15,7 +15,7 @@
 
 ## § 3633. Provisions applicable to rates for competitive products
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Postal Regulatory Commission shall, within 18 months after the date of enactment of this section, promulgate (and may from time to time thereafter revise) regulations to—
 
@@ -25,7 +25,7 @@
 
         (3) ensure that all competitive products collectively cover what the Commission determines to be an appropriate share of the institutional costs of the Postal Service.
 
-    (b) __Review of Minimum Contribution.—__ 
+    (b)  __Review of Minimum Contribution__  __.—__ 
 
     Five years after the date of enactment of this section, and every 5 years thereafter, the Postal Regulatory Commission shall conduct a review to determine whether the institutional costs contribution requirement under subsection (a)(3) should be retained in its current form, modified, or eliminated. In making its determination, the Commission shall consider all relevant circumstances, including the prevailing competitive conditions in the market, and the degree to which any costs are uniquely or disproportionately associated with any competitive products.
 
@@ -39,19 +39,19 @@
 
 [Pub. L. 109–435, title VII, § 703][/us/pl/109/435/s703], Dec. 20, 2006, [120 Stat. 3244][/us/stat/120/3244], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Federal Trade Commission shall prepare and submit to the President and Congress, and to the Postal Regulatory Commission, within 1 year after the date of enactment of this Act \[Dec. 20, 2006\], a comprehensive report identifying Federal and State laws that apply differently to the United States Postal Service with respect to the competitive category of mail (within the meaning of [section 102 of title 39][/us/usc/t39/s102], United States Code, as amended by section 101) and to private companies providing similar products.
 
->     “(b) __Recommendations.—__ 
+>     “(b)  __Recommendations__  __.—__ 
 
 >     The Federal Trade Commission shall include such recommendations as it considers appropriate for bringing such legal differences to an end, and in the interim, to account under [section 3633 of title 39][/us/usc/t39/s3633], United States Code (as added by this Act), for the net economic effects provided by those laws.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In preparing its report, the Federal Trade Commission shall consult with the United States Postal Service, the Postal Regulatory Commission, other Federal agencies, mailers, private companies that provide delivery services, and the general public, and shall append to such report any written comments received under this subsection.
 
->     “(d) __Competitive Product Regulation.—__ 
+>     “(d)  __Competitive Product Regulation__  __.—__ 
 
 >     The Postal Regulatory Commission shall take into account the recommendations of the Federal Trade Commission, and subsequent events that affect the continuing validity of the estimate of the net economic effect, in promulgating or revising the regulations required under [section 3633 of title 39][/us/usc/t39/s3633], United States Code.”
 

@@ -29,11 +29,11 @@
 
  __References in Text__ 
 
-    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], as amended, which is classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. Section 107 of that Act is classified to [section 1973ff–6 of Title 42][/us/usc/t42/s1973ff–6]. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. Section 107 of the Act is now classified to [section 20310 of Title 52][/us/usc/t52/s20310]. For complete classification of this Act to the Code, see Tables.
 
  __Effective Date__ 
 
-    Section applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as a note under [section 1973ff of Title 42][/us/usc/t42/s1973ff], The Public Health and Welfare.
+    Section applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as a note under [section 20301 of Title 52][/us/usc/t52/s20301], Voting and Elections.
 
 ----------
 
@@ -47,9 +47,8 @@
 [/us/stat/100/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F928
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
-[/us/usc/t42/s1973ff–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%E2%80%936
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
+[/us/usc/t52/s20310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20310
 [/us/pl/99/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs204
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 
 

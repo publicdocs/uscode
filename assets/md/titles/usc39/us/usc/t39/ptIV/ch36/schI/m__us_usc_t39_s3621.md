@@ -15,7 +15,7 @@
 
 ## § 3621. Applicability; definitions
 
-    (a) __Applicability.—__ 
+    (a)  __Applicability__  __.—__ 
 
     This subchapter shall apply with respect to—
 
@@ -41,7 +41,7 @@
 
         subject to any changes the Postal Regulatory Commission may make under section 3642.
 
-    (b) __Rule of Construction.—__ 
+    (b)  __Rule of Construction__  __.—__ 
 
     Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
 
@@ -55,11 +55,11 @@
 
 [Pub. L. 103–123, title VII, § 704(b)(2)][/us/pl/103/123/s704/b/2], Oct. 28, 1993, [107 Stat. 1270][/us/stat/107/1270], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), rates of postage may not be established, under subchapter II \[now I\] of chapter 36 of title 39, United States Code, in a manner designed to allow the United States Postal Service to receive through revenues any portion of the additional revenues (referred to in section 2401(d) of such title, as amended by paragraph (1)(E)) for which amounts are authorized to be appropriated under such section 2401(d).
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     If Congress fails to appropriate an amount authorized under [section 2401(d) of title 39][/us/usc/t39/s2401/d], United States Code (as amended by paragraph (1)(E)), rates for the various classes of mail may be adjusted in accordance with the provisions of subchapter II \[now I\] of chapter 36 of such title (excluding section 3627 thereof) such that the resulting increase in revenues will equal the amount that Congress so failed to appropriate.”
 

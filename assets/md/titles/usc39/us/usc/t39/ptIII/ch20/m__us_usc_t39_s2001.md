@@ -19,7 +19,7 @@
 
     (1) “Fund” means the Postal Service Fund established by section 2003 of this chapter;
 
-    (2) __Competitive products fund.—__ 
+    (2)  __Competitive products fund__  __.—__ 
 
     The term “Competitive Products Fund” means the Postal Service Competitive Products Fund established by section 2011; and
 

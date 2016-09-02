@@ -121,7 +121,7 @@
 
             (E) If, for purposes of subparagraph (D)(ii), concurrence cannot be attained, then the most recently available market rate data described in this subparagraph shall continue to apply for the relevant market or markets.
 
-        (2) __Contract process.—__ 
+        (2)  __Contract process__  __.—__ 
 
         The Postal Service shall contract for foreign air transportation as set forth in paragraph (1) through an open procurement process that will provide—
 
@@ -131,7 +131,7 @@
 
             (C) an opportunity for unsuccessful offerors to receive prompt feedback upon request.
 
-        (3) __Emergency or unanticipated conditions; inadequate lift space.—__ 
+        (3)  __Emergency or unanticipated conditions; inadequate lift space__  __.—__ 
 
         The Postal Service may enter into contracts to transport mail by air in foreign air transportation with a certificated air carrier or a foreign air carrier without complying with the requirements of paragraphs (b)(1) and (2) if—
 
@@ -145,7 +145,7 @@
 
                 (ii) the Postal Service first offers any certificated air carrier holding a contract to carry mail between the relevant points the opportunity to carry such excess volumes under the terms of its existing contract.
 
-    (c) __Good Faith Effort Required.—__ 
+    (c)  __Good Faith Effort Required__  __.—__ 
 
     The Postal Service and potential offerors shall put a good-faith effort into resolving disputes concerning the award of contracts made under subsection (b).
 
@@ -705,11 +705,11 @@
 
 [Pub. L. 109–435, title X, § 1005(h)][/us/pl/109/435/s1005/h] Dec. 20, 2006, [120 Stat. 3258][/us/stat/120/3258], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided under paragraph (2), this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 20, 2006\].
 
->     “(2) __Equitable tender.—__ 
+>     “(2)  __Equitable tender__  __.—__ 
 
 >     Subsection (c) \[amending this section\] shall take effect on December 1, 2006.”
 
@@ -717,11 +717,11 @@
 
 [Pub. L. 107–206, title III, § 3002(g)][/us/pl/107/206/s3002/g], Aug. 2, 2002, [116 Stat. 924][/us/stat/116/924], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided under paragraph (2), this title \[amending this section, [section 2703 of Title 19][/us/usc/t19/s2703], Customs Duties, [section 1626 of Title 43][/us/usc/t43/s1626], Public Lands, and [section 41901 of Title 49][/us/usc/t49/s41901], Transportation, and enacting provisions set out as notes under this section and [section 101 of this title][/us/usc/t39/s101], [section 112 of Title 1][/us/usc/t1/s112], General Provisions, and sections 2703 and 3203 of Title 19\] (including the amendments made by this title) shall take effect on the date of enactment of this Act \[Aug. 2, 2002\].
 
->     “(2) __Selection of carriers.—__ 
+>     “(2)  __Selection of carriers__  __.—__ 
 
 >     The amendment made by subsection (c)(5) \[amending this section\] shall take effect 15 months after the date of enactment of this Act.”
 

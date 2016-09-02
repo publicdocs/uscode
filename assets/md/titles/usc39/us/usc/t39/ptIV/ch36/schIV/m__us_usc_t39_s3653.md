@@ -15,11 +15,11 @@
 
 ## § 3653. Annual determination of compliance
 
-    (a) __Opportunity for Public Comment.—__ 
+    (a)  __Opportunity for Public Comment__  __.—__ 
 
     After receiving the reports required under section 3652 for any year, the Postal Regulatory Commission shall promptly provide an opportunity for comment on such reports by users of the mails, affected parties, and an officer of the Commission who shall be required to represent the interests of the general public.
 
-    (b) __Determination of Compliance or Noncompliance.—__ 
+    (b)  __Determination of Compliance or Noncompliance__  __.—__ 
 
     Not later than 90 days after receiving the submissions required under section 3652 with respect to a year, the Postal Regulatory Commission shall make a written determination as to—
 
@@ -29,15 +29,15 @@
 
         If, with respect to a year, no instance of noncompliance is found under this subsection to have occurred in such year, the written determination shall be to that effect.
 
-    (c) __Noncompliance With Regard to Rates or Services.—__ 
+    (c)  __Noncompliance With Regard to Rates or Services__  __.—__ 
 
     If, for a year, a timely written determination of noncompliance is made under subsection (b), the Postal Regulatory Commission shall take appropriate action in accordance with subsections (c) and (e) of section 3662 (as if a complaint averring such noncompliance had been duly filed and found under such section to be justified).
 
-    (d) __Review of Performance Goals.—__ 
+    (d)  __Review of Performance Goals__  __.—__ 
 
     The Postal Regulatory Commission shall also evaluate annually whether the Postal Service has met the goals established under sections 2803 and 2804, and may provide recommendations to the Postal Service related to the protection or promotion of public policy objectives set out in this title.
 
-    (e) __Rebuttable Presumption.—__ 
+    (e)  __Rebuttable Presumption__  __.—__ 
 
     A timely written determination described in the last sentence of subsection (b) shall, for purposes of any proceeding under section 3662, create a rebuttable presumption of compliance by the Postal Service (with regard to the matters described under paragraphs (1) and (2) of subsection (b)) during the year to which such determination relates.
 

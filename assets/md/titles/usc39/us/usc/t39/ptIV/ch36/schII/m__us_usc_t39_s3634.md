@@ -15,7 +15,7 @@
 
 ## § 3634. Assumed Federal income tax on competitive products income
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -29,7 +29,7 @@
 
             (B) the only assets held by such corporation were the assets of the Postal Service allocable under section 2011(h) to such activities.
 
-    (b) __Computation and Transfer Requirements.—__ 
+    (b)  __Computation and Transfer Requirements__  __.—__ 
 
     The Postal Service shall, for each year beginning with the year in which occurs the deadline for the Postal Service’s first report to the Postal Regulatory Commission under section 3652(a)—
 
@@ -37,7 +37,7 @@
 
         (2) transfer from the Competitive Products Fund to the Postal Service Fund the amount of that assumed tax.
 
-    (c) __Deadline for Transfers.—__ 
+    (c)  __Deadline for Transfers__  __.—__ 
 
     Any transfer required to be made under this section for a year shall be due on or before the January 15th next occurring after the close of such year.
 

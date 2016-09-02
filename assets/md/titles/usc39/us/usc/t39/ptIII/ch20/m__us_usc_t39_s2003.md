@@ -111,17 +111,17 @@
 
 [Pub. L. 105–33, title VII, § 7003(c)][/us/pl/105/33/s7003/c], Aug. 5, 1997, [111 Stat. 663][/us/stat/111/663], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     This section \[amending this section and repealing [section 2004 of this title][/us/usc/t39/s2004]\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\] or October 1, 1997, whichever is later.
 
 >     “(2) __Provisions relating to payments for fiscal year 1998.—__ 
 
->         “(A) __Amounts not yet paid.—__ 
+>         “(A)  __Amounts not yet paid__  __.—__ 
 
 >         No payment may be made to the Postal Service Fund, on or after the date of the enactment of this Act, pursuant to any appropriation for fiscal year 1998 authorized by [section 2004 of title 39][/us/usc/t39/s2004], United States Code (as in effect before the effective date of this section).
 
->         “(B) __Amounts paid.—__ 
+>         “(B)  __Amounts paid__  __.—__ 
 
 >         If any payment to the Postal Service Fund is or has been made pursuant to an appropriation for fiscal year 1998 authorized by such section 2004, then, an amount equal to the amount of such payment shall be paid from such Fund into the Treasury as miscellaneous receipts before October 1, 1998.”
 
@@ -141,7 +141,7 @@
 
 [Pub. L. 100–203, title VI, § 6002][/us/pl/100/203/s6002], Dec. 22, 1987, [101 Stat. 1330–276][/us/stat/101/1330-276], provided that:
 
->     “(a) __Establishment of Postal Service Escrow Fund.—__ 
+>     “(a)  __Establishment of Postal Service Escrow Fund__  __.—__ 
 
 >     There is established as a separate account in the United States Treasury, the ‘Postal Service Escrow Fund’. Such Fund shall—
 
@@ -153,15 +153,15 @@
 
 >     “(b) __Deposit of Certain Savings in Certain Funds.—__ 
 
->         “(1) __Fiscal year 1988.—__ 
+>         “(1)  __Fiscal year 1988__  __.—__ 
 
 >         From all funds available to the United States Postal Service in fiscal year 1988, the Postal Service shall deposit into the Civil Service Retirement and Disability Fund established under [section 8348 of title 5][/us/usc/t5/s8348], United States Code, an amount of $350,000,000 in fiscal year 1988, in addition to any amount deposited pursuant to subsection (h) of such section.
 
->         “(2) __Fiscal year 1989.—__ 
+>         “(2)  __Fiscal year 1989__  __.—__ 
 
 >         From all funds available to the United States Postal Service in fiscal year 1989, the Postal Service shall deposit into the Postal Service Escrow Fund an amount of $465,000,000 no later than October 31, 1988.
 
->     “(c) __Capital Limitations for Fiscal Years 1988 and 1989.—__ 
+>     “(c)  __Capital Limitations for Fiscal Years__  __1988__  __and__  __1989.—__ 
 
 >         “(1)
 
@@ -171,7 +171,7 @@
 
 >             “(B) in excess of $1,995,000,000 in fiscal year 1989.
 
->         “(2) __Capital investment programs.—__ 
+>         “(2)  __Capital investment programs__  __.—__ 
 
 >         For the purposes of paragraph (1) the term ‘capital investment program’ shall include all investments in long-term assets and capital investment expenditures (including direct and indirect costs associated with such investments and expenditures, such as obligations through contracts).”
 

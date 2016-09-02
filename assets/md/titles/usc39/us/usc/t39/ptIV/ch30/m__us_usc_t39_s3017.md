@@ -15,7 +15,7 @@
 
 ## § 3017. Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
@@ -35,7 +35,7 @@
 
     (b) __Nonmailable Matter.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Matter otherwise legally acceptable in the mails described in paragraph (2)—
 
@@ -45,7 +45,7 @@
 
             (C) shall be disposed of as the Postal Service directs.
 
-        (2) __Nonmailable matter described.—__ 
+        (2)  __Nonmailable matter described__  __.—__ 
 
         Matter described in this paragraph is any matter that—
 
@@ -59,7 +59,7 @@
 
     (c) __Requirements of Promoters.—__ 
 
-        (1) __Notice to individuals.—__ 
+        (1)  __Notice to individuals__  __.—__ 
 
         Any promoter who mails a skill contest or sweepstakes shall provide with each mailing a statement that—
 
@@ -69,21 +69,21 @@
 
             (C) states that the notification system may be used to prohibit the mailing of all skill contests or sweepstakes by that promoter to such individual.
 
-        (2) __Notification system.—__ 
+        (2)  __Notification system__  __.—__ 
 
         Any promoter that mails or causes to be mailed a skill contest or sweepstakes shall establish and maintain a notification system that provides for any individual (or other duly authorized person) to notify the system of the individual’s election to have the name and address of the individual excluded from all lists of names and addresses used by that promoter to mail any skill contest or sweepstakes.
 
     (d) __Election To Be Excluded From Lists.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An individual (or other duly authorized person) may elect to exclude the name and address of that individual from all lists of names and addresses used by a promoter of skill contests or sweepstakes by submitting a removal request to the notification system established under subsection (c).
 
-        (2) __Response after submitting removal request to the notification system.—__ 
+        (2)  __Response after submitting removal request to the notification system__  __.—__ 
 
         Not later than 60 calendar days after a promoter receives a removal request pursuant to an election under paragraph (1), the promoter shall exclude the individual’s name and address from all lists of names and addresses used by that promoter to select recipients for any skill contest or sweepstakes.
 
-        (3) __Effectiveness of election.—__ 
+        (3)  __Effectiveness of election__  __.—__ 
 
         An election under paragraph (1) shall remain in effect, unless an individual (or other duly authorized person) notifies the promoter in writing that such individual—
 
@@ -93,7 +93,7 @@
 
     (e) __Private Right of Action.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An individual who receives one or more mailings in violation of subsection (d) may, if otherwise permitted by the laws or rules of court of a State, bring in an appropriate court of that State—
 
@@ -105,11 +105,11 @@
 
             It shall be an affirmative defense in any action brought under this subsection that the defendant has established and implemented, with due care, reasonable practices and procedures to effectively prevent mailings in violation of subsection (d). If the court finds that the defendant willfully or knowingly violated subsection (d), the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B).
 
-        (2) __Action allowable based on other sufficient notice.—__ 
+        (2)  __Action allowable based on other sufficient notice__  __.—__ 
 
         A mailing sent in violation of section 3001(l) shall be actionable under this subsection, but only if such an action would not also be available under paragraph (1) (as a violation of subsection (d)) based on the same mailing.
 
-    (f) __Promoter Nonliability.—__ 
+    (f)  __Promoter Nonliability__  __.—__ 
 
     A promoter shall not be subject to civil liability for the exclusion of an individual’s name or address from any list maintained by that promoter for mailing skill contests or sweepstakes, if—
 
@@ -127,21 +127,21 @@
 
         (1) __In general.—__ 
 
-            (A) __Prohibition.—__ 
+            (A)  __Prohibition__  __.—__ 
 
             No person may provide any information (including the sale or rental of any name or address) derived from a list described in subparagraph (B) to another person for commercial use.
 
-            (B) __Lists.—__ 
+            (B)  __Lists__  __.—__ 
 
             A list referred to under subparagraph (A) is any list of names and addresses (or other related information) compiled from individuals who exercise an election under subsection (d).
 
-        (2) __Civil penalty.—__ 
+        (2)  __Civil penalty__  __.—__ 
 
         Any person who violates paragraph (1) shall be assessed a civil penalty by the Postal Service not to exceed $2,000,000 per violation.
 
     (h) __Civil Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any promoter—
 
@@ -149,7 +149,7 @@
 
             (B) who fails to comply with the requirements of subsection (c)(2) shall be liable to the United States.
 
-        (2) __Enforcement.—__ 
+        (2)  __Enforcement__  __.—__ 
 
         The Postal Service shall, in accordance with the same procedures as set forth in section 3012(b), provide for the assessment of civil penalties under this section.
 

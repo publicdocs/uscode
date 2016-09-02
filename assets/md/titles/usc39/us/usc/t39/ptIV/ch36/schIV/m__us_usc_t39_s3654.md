@@ -17,7 +17,7 @@
 
     (a) __Additional Financial Reporting.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Postal Service shall file with the Postal Regulatory Commission beginning with the first full fiscal year following the effective date of this section—
 
@@ -27,11 +27,11 @@
 
             (C) periodic reports within the time frame and containing the information prescribed in Form 8–K of the Securities and Exchange Commission, as such Form (or any successor form) may be revised from time to time.
 
-        (2) __Registrant defined.—__ 
+        (2)  __Registrant defined__  __.—__ 
 
         For purposes of defining the reports required by paragraph (1), the Postal Service shall be deemed to be the “registrant” described in the Securities and Exchange Commission Forms, and references contained in such Forms to Securities and Exchange Commission regulations are incorporated herein by reference, as amended.
 
-        (3) __Internal control report.—__ 
+        (3)  __Internal control report__  __.—__ 
 
         For purposes of defining the reports required by paragraph (1)(B), the Postal Service shall comply with the rules prescribed by the Securities and Exchange Commission implementing section 404 of the Sarbanes-Oxley Act of 2002 ([15 U.S.C. 7262][/us/usc/t15/s7262]), beginning with the annual report for fiscal year 2010.
 
@@ -67,15 +67,15 @@
 
             (B) The Postal Service shall determine the appropriate segment reporting under subparagraph (A) after consultation with the Postal Regulatory Commission.
 
-    (c) __Treatment.—__ 
+    (c)  __Treatment__  __.—__ 
 
     For purposes of the reports required by subsection (a)(1)(B), the Postal Service shall obtain an opinion from an independent auditor on whether the information listed in subsection (b) is fairly stated in all material respects, either in relation to the basic financial statements as a whole or on a stand-alone basis.
 
-    (d) __Supporting Matter.—__ 
+    (d)  __Supporting Matter__  __.—__ 
 
     The Postal Regulatory Commission shall have access to the audit documentation and any other supporting matter of the Postal Service and its independent auditor in connection with any information submitted under this section.
 
-    (e) __Revised Requirements.—__ 
+    (e)  __Revised Requirements__  __.—__ 
 
     The Postal Regulatory Commission may, on its own motion or on request of an interested party, initiate proceedings (to be conducted in accordance with regulations that the Commission shall prescribe) to improve the quality, accuracy, or completeness of Postal Service data required under this section whenever it shall appear that—
 
@@ -85,11 +85,11 @@
 
     (f) __Confidential Information.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If the Postal Service determines that any document or portion of a document, or other matter, which it provides to the Postal Regulatory Commission in a nonpublic annex under this section or pursuant to subsection (d) contains information which is described in [section 410(c) of this title][/us/usc/t39/s410/c], or exempt from public disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b], the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission of its determination, in writing, and describe with particularity the documents (or portions of documents) or other matter for which confidentiality is sought and the reasons therefor.
 
-        (2) __Treatment.—__ 
+        (2)  __Treatment__  __.—__ 
 
         Any information or other matter described in paragraph (1) to which the Commission gains access under this section shall be subject to paragraphs (2) and (3) of section 504(g) in the same way as if the Commission had received notification with respect to such matter under section 504(g)(1).
 

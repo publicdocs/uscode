@@ -15,13 +15,13 @@
 
 ## § 3691. Establishment of modern service standards
 
-    (a) __Authority Generally.—__ 
+    (a)  __Authority Generally__  __.—__ 
 
     Not later than 12 months after the date of enactment of this section, the Postal Service shall, in consultation with the Postal Regulatory Commission, by regulation establish (and may from time to time thereafter by regulation revise) a set of service standards for market-dominant products.
 
     (b) __Objectives.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Such standards shall be designed to achieve the following objectives:
 
@@ -37,7 +37,7 @@
 
         With respect to paragraph (1)(D), with the approval of the Postal Regulatory Commission an internal measurement system may be implemented instead of an external measurement system.
 
-    (c) __Factors.—__ 
+    (c)  __Factors__  __.—__ 
 
     In establishing or revising such standards, the Postal Service shall take into account—
 
@@ -57,7 +57,7 @@
 
         (8) the policies of this title and such other factors as the Postal Service determines appropriate.
 
-    (d) __Review.—__ 
+    (d)  __Review__  __.—__ 
 
     The regulations promulgated pursuant to this section (and any revisions thereto), and any violations thereof, shall be subject to review upon complaint under sections 3662 and 3663.
 
@@ -71,11 +71,11 @@
 
 [Pub. L. 109–435, title III, § 302][/us/pl/109/435/s302], Dec. 20, 2006, [120 Stat. 3219][/us/stat/120/3219], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Within 6 months after the establishment of the service standards under [section 3691 of title 39][/us/usc/t39/s3691], United States Code, as added by this Act, the Postal Service shall, in consultation with the Postal Regulatory Commission, develop and submit to Congress a plan for meeting those standards.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The plan under this section shall—
 
@@ -89,7 +89,7 @@
 
 >     “(c) __Postal Facilities.—__ 
 
->         “(1) __Findings.—__ 
+>         “(1)  __Findings__  __.—__ 
 
 >         Congress finds that—
 
@@ -107,7 +107,7 @@
 
 >                 “(ii) keep unions, management associations, and local elected officials informed as an essential part of this effort and abide by any procedural requirements contained in the national bargaining agreements.
 
->         “(2) __In general.—__ 
+>         “(2)  __In general__  __.—__ 
 
 >         The Postal Service plan shall include a description of—
 
@@ -115,7 +115,7 @@
 
 >             “(B) how the Postal Service intends to implement that vision.
 
->         “(3) __Content of facilities plan.—__ 
+>         “(3)  __Content of facilities plan__  __.—__ 
 
 >         The plan under this subsection shall include—
 
@@ -139,11 +139,11 @@
 
 >         “(4) __Annual reports.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 90 days after the end of each fiscal year, the Postal Service shall prepare and submit a report to Congress on how postal decisions have impacted or will impact rationalization plans.
 
->             “(B) __Contents.—__ 
+>             “(B)  __Contents__  __.—__ 
 
 >             Each report under this paragraph shall include—
 
@@ -157,11 +157,11 @@
 
 >                 “(v) such additional topics and recommendations as the Postal Service considers appropriate.
 
->         “(5) __Existing efforts.—__ 
+>         “(5)  __Existing efforts__  __.—__ 
 
 >         Effective on the date of enactment of this Act \[Dec. 20, 2006\], the Postal Service may not close or consolidate any processing or logistics facilities without using procedures for public notice and input consistent with those described under paragraph (3)(D).
 
->     “(d) __Alternate Retail Options.—__ 
+>     “(d)  __Alternate Retail Options__  __.—__ 
 
 >     The Postal Service plan shall include plans to expand and market retail access to postal services, in addition to post offices, including—
 
@@ -181,7 +181,7 @@
 
 >         “(8) any other nonpost office access channel providing market retail access to postal services.
 
->     “(e) __Reemployment Assistance and Retirement Benefits.—__ 
+>     “(e)  __Reemployment Assistance and Retirement Benefits__  __.—__ 
 
 >     The Postal Service plan shall include—
 
@@ -189,7 +189,7 @@
 
 >         “(2) a plan, developed in consultation with the Office of Personnel Management, to offer early retirement benefits.
 
->     “(f) __Continued Authority.—__ 
+>     “(f)  __Continued Authority__  __.—__ 
 
 >     Nothing in this section shall be construed to prohibit the Postal Service from implementing any change to its processing, transportation, delivery, and retail networks under any authority granted to the Postal Service for those purposes.”
 

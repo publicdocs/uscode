@@ -55,11 +55,11 @@
 
 [Pub. L. 106–168, title I, § 110(b)(2)][/us/pl/106/168/s110/b/2], (3), Dec. 12, 1999, [113 Stat. 1817][/us/stat/113/1817], provided that:
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     This subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 1999\], and the amendments made by this subsection shall apply with respect to semiannual reporting periods beginning on or after such date of enactment.
 
->     “(3) __Savings provision.—__ 
+>     “(3)  __Savings provision__  __.—__ 
 
 >     For purposes of any semiannual reporting period preceding the first semiannual reporting period referred to in paragraph (2), the provisions of title 39, United States Code, shall continue to apply as if the amendments made by this subsection had not been enacted.”
 

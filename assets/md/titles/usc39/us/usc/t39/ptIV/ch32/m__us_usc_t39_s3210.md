@@ -233,7 +233,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-    Amendment by [section 311(h)(1) of Pub. L. 101–520][/us/pl/101/520/s311/h/1] applicable with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, see [section 59e(i) of Title 2][/us/usc/t2/s59e/i], The Congress.
+    Amendment by [section 311(h)(1) of Pub. L. 101–520][/us/pl/101/520/s311/h/1] applicable with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, see [section 503(i) of Title 2][/us/usc/t2/s503/i], The Congress.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -263,7 +263,7 @@
 
 [Pub. L. 103–283, title I][/us/pl/103/283], §§ 5, 6, July 22, 1994, [108 Stat. 1427][/us/stat/108/1427], provided that:
 
-> “Sec. 5. Effective October 1, 1994, each of the figures contained in section 506(b)(3)(A)(iii) of the Supplemental Appropriations Act, 1973 ([2 U.S.C. 58(b)(3)(A)(iii)][/us/usc/t2/s58/b/3/A/iii]) is increased by $50,000: Provided, That, in any fiscal year beginning with fiscal year 1995, a Senator may use funds provided for official office expenses, but not to exceed $50,000, for mass mailing, as defined in section 6(b)(1) and all such mass mailings shall be under the frank.
+> “Sec. 5. Effective October 1, 1994, each of the figures contained in section 506(b)(3)(A)(iii) of the Supplemental Appropriations Act, 1973 ([2 U.S.C. 58(b)(3)(A)(iii)][/us/usc/t2/s58/b/3/A/iii]) \[now [2 U.S.C. 6314(b)(3)(A)(iii)][/us/usc/t2/s6314/b/3/A/iii]\] is increased by $50,000: Provided, That, in any fiscal year beginning with fiscal year 1995, a Senator may use funds provided for official office expenses, but not to exceed $50,000, for mass mailing, as defined in section 6(b)(1) and all such mass mailings shall be under the frank.
 
 > “Sec. 6.
 
@@ -375,7 +375,7 @@
 [/us/pl/102/392/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs309%2Fb
 [/us/stat/106/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1723
 [/us/pl/101/520/s311/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs311%2Fh%2F1
-[/us/usc/t2/s59e/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs59e%2Fi
+[/us/usc/t2/s503/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs503%2Fi
 [/us/pl/97/69/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69%2Fs3%2Fb
 [/us/stat/95/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1042
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
@@ -394,6 +394,7 @@
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/stat/108/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1427
 [/us/usc/t2/s58/b/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58%2Fb%2F3%2FA%2Fiii
+[/us/usc/t2/s6314/b/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314%2Fb%2F3%2FA%2Fiii
 [/us/pl/101/163/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs316%2Fa
 [/us/pl/101/520/s311/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs311%2Fh%2F3
 [/us/stat/104/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2280

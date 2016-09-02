@@ -15,11 +15,11 @@
 
 ## § 3622. Modern rate regulation
 
-    (a) __Authority Generally.—__ 
+    (a)  __Authority Generally__  __.—__ 
 
     The Postal Regulatory Commission shall, within 18 months after the date of enactment of this section, by regulation establish (and may from time to time thereafter by regulation revise) a modern system for regulating rates and classes for market-dominant products.
 
-    (b) __Objectives.—__ 
+    (b)  __Objectives__  __.—__ 
 
     Such system shall be designed to achieve the following objectives, each of which shall be applied in conjunction with the others:
 
@@ -41,7 +41,7 @@
 
         (9) To allocate the total institutional costs of the Postal Service appropriately between market-dominant and competitive products.
 
-    (c) __Factors.—__ 
+    (c)  __Factors__  __.—__ 
 
     In establishing or revising such system, the Postal Regulatory Commission shall take into account—
 
@@ -87,7 +87,7 @@
 
     (d) __Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The system for regulating rates and classes for market-dominant products shall—
 
@@ -113,17 +113,17 @@
 
         (2) __Limitations.—__ 
 
-            (A) __Classes of mail.—__ 
+            (A)  __Classes of mail__  __.—__ 
 
             Except as provided under subparagraph (C), the annual limitations under paragraph (1)(A) shall apply to a class of mail, as defined in the Domestic Mail Classification Schedule as in effect on the date of enactment of the Postal Accountability and Enhancement Act.
 
-            (B) __Rounding of rates and fees.—__ 
+            (B)  __Rounding of rates and fees__  __.—__ 
 
             Nothing in this subsection shall preclude the Postal Service from rounding rates and fees to the nearest whole integer, if the effect of such rounding does not cause the overall rate increase for any class to exceed the Consumer Price Index for All Urban Consumers.
 
             (C) __Use of unused rate authority.—__ 
 
-                (i) __Definition.—__ 
+                (i)  __Definition__  __.—__ 
 
                 In this subparagraph, the term “unused rate adjustment authority” means the difference between—
 
@@ -131,11 +131,11 @@
 
                     (II) the amount of the rate adjustment the Postal Service actually makes in that year.
 
-                (ii) __Authority.—__ 
+                (ii)  __Authority__  __.—__ 
 
                 Subject to clause (iii), the Postal Service may use any unused rate adjustment authority for any of the 5 years following the year such authority occurred.
 
-                (iii) __Limitations.—__ 
+                (iii)  __Limitations__  __.—__ 
 
                 In exercising the authority under clause (ii) in any year, the Postal Service—
 
@@ -147,17 +147,17 @@
 
                     (IV) for any class or service, may not exceed the annual limitation under paragraph (1) by more than 2 percentage points.
 
-        (3) __Review.—__ 
+        (3)  __Review__  __.—__ 
 
         Ten years after the date of enactment of the Postal Accountability and Enhancement Act and as appropriate thereafter, the Commission shall review the system for regulating rates and classes for market-dominant products established under this section to determine if the system is achieving the objectives in subsection (b), taking into account the factors in subsection (c). If the Commission determines, after notice and opportunity for public comment, that the system is not achieving the objectives in subsection (b), taking into account the factors in subsection (c), the Commission may, by regulation, make such modification or adopt such alternative system for regulating rates and classes for market-dominant products as necessary to achieve the objectives.
 
     (e) __Workshare Discounts.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “workshare discount” refers to rate discounts provided to mailers for the presorting, prebarcoding, handling, or transportation of mail, as further defined by the Postal Regulatory Commission under subsection (a).
 
-        (2) __Scope.—__ 
+        (2)  __Scope__  __.—__ 
 
         The Postal Regulatory Commission shall ensure that such discounts do not exceed the cost that the Postal Service avoids as a result of workshare activity, unless—
 
@@ -181,7 +181,7 @@
 
             (D) reduction or elimination of the discount would impede the efficient operation of the Postal Service.
 
-        (3) __Limitation.—__ 
+        (3)  __Limitation__  __.—__ 
 
         Nothing in this subsection shall require that a work share discount be reduced or eliminated if the reduction or elimination of the discount would—
 
@@ -189,7 +189,7 @@
 
             (B) result in a further increase in the rates paid by mailers not able to take advantage of the discount.
 
-        (4) __Report.—__ 
+        (4)  __Report__  __.—__ 
 
         Whenever the Postal Service establishes a workshare discount rate, the Postal Service shall, at the time it publishes the workshare discount rate, submit to the Postal Regulatory Commission a detailed report that—
 
@@ -199,7 +199,7 @@
 
             (C) certifies that the discount will not adversely affect rates or services provided to users of postal services who do not take advantage of the discount rate.
 
-    (f) __Transition Rule.—__ 
+    (f)  __Transition Rule__  __.—__ 
 
     For the 1-year period beginning on the date of enactment of this section, rates and classes for market-dominant products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were last in effect before the date of enactment of this section. Proceedings initiated to consider a request for a recommended decision filed by the Postal Service during that 1-year period shall be completed in accordance with subchapter II of chapter 36 of this title and implementing regulations, as in effect before the date of enactment of this section.
 

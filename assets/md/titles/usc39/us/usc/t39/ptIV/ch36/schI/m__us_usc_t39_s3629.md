@@ -21,11 +21,11 @@
 
  __References in Text__ 
 
-    The National Voter Registration Act of 1993, referred to in text, is [Pub. L. 103–31][/us/pl/103/31], May 20, 1993, [107 Stat. 77][/us/stat/107/77], as amended, which is classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The National Voter Registration Act of 1993, referred to in text, is [Pub. L. 103–31][/us/pl/103/31], May 20, 1993, [107 Stat. 77][/us/stat/107/77], which was formerly classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§ 20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
  __Effective Date__ 
 
-    Section effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 1973gg et seq. of Title 42, The Public Health and Welfare, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 1973gg et seq. of Title 42 without requiring a special election, and (2) with respect to a State not described above, on Jan. 1, 1995, see [section 13 of Pub. L. 103–31][/us/pl/103/31/s13], set out as a note under [section 1973gg of Title 42][/us/usc/t42/s1973gg].
+    Section effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Voting and Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described above, on Jan. 1, 1995, see [section 13 of Pub. L. 103–31][/us/pl/103/31/s13], set out as a note under [section 20501 of Title 52][/us/usc/t52/s20501].
 
 ----------
 
@@ -38,8 +38,7 @@
 [/us/stat/107/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F86
 [/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/stat/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F77
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 [/us/pl/103/31/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31%2Fs13
-[/us/usc/t42/s1973gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg
+[/us/usc/t52/s20501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20501
 
 

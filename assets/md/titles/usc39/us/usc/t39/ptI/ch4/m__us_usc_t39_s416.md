@@ -15,7 +15,7 @@
 
 ## § 416. Authority to issue semipostals
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -23,11 +23,11 @@
 
         (2) the term “agency” means an Executive agency within the meaning of [section 105 of title 5][/us/usc/t5/s105].
 
-    (b) __Discretionary Authority.—__ 
+    (b)  __Discretionary Authority__  __.—__ 
 
     The Postal Service is hereby authorized to issue and sell semipostals under this section in order to advance such causes as the Postal Service considers to be in the national public interest and appropriate.
 
-    (c) __Rate of Postage.—__ 
+    (c)  __Rate of Postage__  __.—__ 
 
     The rate of postage on a semipostal issued under this section shall be established by the Governors, in accordance with such procedures as they shall by regulation prescribe (in lieu of the procedures under chapter 36), except that—
 
@@ -39,35 +39,35 @@
 
     (d) __Amounts Becoming Available.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The amounts becoming available from the sale of a semipostal under this section shall be transferred to the appropriate agency or agencies under such arrangements as the Postal Service shall by mutual agreement with each such agency establish.
 
-        (2) __Identification of appropriate causes and agencies.—__ 
+        (2)  __Identification of appropriate causes and agencies__  __.—__ 
 
         Decisions concerning the identification of appropriate causes and agencies to receive amounts becoming available from the sale of a semipostal under this section shall be made in accordance with applicable regulations under subsection (e).
 
         (3) __Determination of amounts.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The amounts becoming available from the sale of a semipostal under this section shall be determined in a manner similar to that provided for under section 414(c)(2) (as in effect on July 1, 2000).
 
-            (B) __Administrative costs.—__ 
+            (B)  __Administrative costs__  __.—__ 
 
             Regulations under subsection (e) shall specifically address how the costs incurred by the Postal Service in carrying out this section shall be computed, recovered, and kept to a minimum.
 
-        (4) __Other funding not to be affected.—__ 
+        (4)  __Other funding not to be affected__  __.—__ 
 
         Amounts which have or may become available from the sale of a semipostal under this section shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished to an agency in any year.
 
-        (5) __Recovery of costs.—__ 
+        (5)  __Recovery of costs__  __.—__ 
 
         Before transferring to an agency in accordance with paragraph (1) any amounts becoming available from the sale of a semipostal over any period, the Postal Service shall ensure that it has recovered the full costs incurred by the Postal Service in connection with such semipostal through the end of such period.
 
     (e) __Regulations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in subsection (c), the Postal Service shall prescribe any regulations necessary to carry out this section, including provisions relating to—
 
@@ -77,17 +77,17 @@
 
             (C) what limitations shall apply, if any, relating to the issuance of semipostals (such as whether more than one semipostal may be offered for sale at the same time).
 
-        (2) __Notice and comment.—__ 
+        (2)  __Notice and comment__  __.—__ 
 
         Before any regulation is issued under this section, a copy of the proposed regulation shall be published in the Federal Register, and an opportunity shall be provided for interested parties to present written and, where practicable, oral comment. All regulations necessary to carry out this section shall be issued not later than 30 days before the date on which semipostals are first made available to the public under this section.
 
     (f) __Annual Reports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Postmaster General shall include in each report rendered under section 2402, with respect to any period during any portion of which this section is in effect, information concerning the operation of any program established under this section.
 
-        (2) __Specific requirement.—__ 
+        (2)  __Specific requirement__  __.—__ 
 
         If any semipostal ceases to be offered during the period covered by such a report, the information contained in that report shall also include—
 
@@ -99,7 +99,7 @@
 
             For each year before the year in which a semipostal ceases to be offered, any report under this subsection shall include, with respect to that semipostal (for the year covered by such report), the information described in subparagraphs (B) and (C).
 
-    (g) __Termination.—__ 
+    (g)  __Termination__  __.—__ 
 
     This section shall cease to be effective at the end of the 10-year period beginning on the date on which semipostals are first made available to the public under this section.
 
@@ -127,35 +127,35 @@
 
 > “SEC. 2. __MULTINATIONAL SPECIES CONSERVATION FUNDS SEMIPOSTAL STAMP.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to afford a convenient way for members of the public to contribute to funding for the operations supported by the Multinational Species Conservation Funds, the United States Postal Service shall issue a semipostal stamp (hereinafter in this Act referred to as the ‘Multinational Species Conservation Funds Semipostal Stamp’) in accordance with succeeding provisions of this section.
 
 >     “(b) __Cost and Use.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Multinational Species Conservation Funds Semipostal Stamp shall be offered at a cost equal to the cost of mailing a letter weighing 1 ounce or less at the nonautomation single-piece first-ounce letter rate, in effect at the time of purchase, plus a differential of not less than 15 percent.
 
->         “(2) __Voluntary use.—__ 
+>         “(2)  __Voluntary use__  __.—__ 
 
 >         The use of any semipostal issued under this section shall be voluntary on the part of postal patrons.
 
->         “(3) __Special rate.—__ 
+>         “(3)  __Special rate__  __.—__ 
 
 >         The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.
 
->     “(c) __Other Terms and Conditions.—__ 
+>     “(c)  __Other Terms and Conditions__  __.—__ 
 
 >     The issuance and sale of the Multinational Species Conservation Funds Semipostal Stamp shall be governed by the provisions of [section 416 of title 39][/us/usc/t39/s416], United States Code, and regulations issued under such section, subject to subsection (b) and the following:
 
 >         “(1) __Disposition of proceeds.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             All amounts becoming available from the sale of the Multinational Species Conservation Funds Semipostal Stamp (as determined under section 416(d) of such title 39) shall be transferred to the United States Fish and Wildlife Service, for the purpose described in subsection (a), through payments which shall be made at least twice a year, with the proceeds to be divided equally among the African Elephant Conservation Fund, the Asian Elephant Conservation Fund, the Great Ape Conservation Fund, the Marine Turtle Conservation Fund, the Rhinoceros and Tiger Conservation Fund, and other international wildlife conservation funds authorized by the Congress after the date of the enactment of this Act \[Sept. 30, 2010\] and administered by the Service as part of the Multinational Species Conservation Fund.
 
->             “(B) __Proceeds not to be offset.—__ 
+>             “(B)  __Proceeds not to be offset__  __.—__ 
 
 >             In accordance with section 416(d)(4) of such title 39, amounts becoming available from the sale of the Multinational Species Conservation Funds Semipostal Stamp (as so determined) shall not be taken into account in any decision relating to the level of appropriations or other Federal funding to be furnished in any year to—
 
@@ -163,19 +163,19 @@
 
 >                 “(ii) any of the funds identified in subparagraph (A).
 
->         “(2) __Duration.—__ 
+>         “(2)  __Duration__  __.—__ 
 
 >         The Multinational Species Conservation Funds Semipostal Stamp shall be made available to the public for a period of at least 2 years, beginning no later than 12 months after the date of the enactment of this Act \[Sept. 30, 2010\].
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         The Multinational Species Conservation Funds Semipostal Stamp shall not be subject to, or taken into account for purposes of applying, any limitation under section 416(e)(1)(C) of such title 39.
 
->         “(4) __Restriction on use of funds.—__ 
+>         “(4)  __Restriction on use of funds__  __.—__ 
 
 >         Amounts transferred under paragraph (1) shall not be used to fund or support the Wildlife Without Borders Program or to supplement funds made available for the Neotropical Migratory Bird Conservation Fund.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this Act, the term ‘semipostal stamp’ refers to a stamp described in [section 416(a)(1) of title 39][/us/usc/t39/s416/a/1], United States Code.”
 
@@ -183,27 +183,27 @@
 
 [Pub. L. 107–67, title VI, § 652][/us/pl/107/67/s652], Nov. 12, 2001, [115 Stat. 557][/us/stat/115/557], as amended by [Pub. L. 107–117, div. B, § 1201][/us/pl/107/117/s1201], Jan. 10, 2002, [115 Stat. 2335][/us/stat/115/2335], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘9/11 Heroes Stamp Act of 2001’.
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     In order to afford the public a direct and tangible way to provide assistance to the families of emergency relief personnel killed or permanently disabled in the line of duty in connection with the terrorist attacks against the United States on September 11, 2001, the United States Postal Service shall issue a semipostal in accordance with subsection (c).
 
->     “(c) __Requirements.—__ 
+>     “(c)  __Requirements__  __.—__ 
 
 >     The provisions of section 416(a), (c), (d), and (f) of title 39, United States Code, shall apply as practicable with respect to the semipostal described in subsection (b), subject to the following:
 
->         “(1) __Rate of postage.—__ 
+>         “(1)  __Rate of postage__  __.—__ 
 
 >         \[Amended subsec. (c) of this section.\]
 
->         “(2) __Disposition of amounts becoming available.—__ 
+>         “(2)  __Disposition of amounts becoming available__  __.—__ 
 
 >         All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Federal Emergency Management Agency under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section.
 
->         “(3) __Commencement and termination dates.—__ 
+>         “(3)  __Commencement and termination dates__  __.—__ 
 
 >         Stamps under this section shall be issued—
 
@@ -211,15 +211,15 @@
 
 >             “(B) for such period of time as the Postal Service considers necessary and appropriate, but in no event after December 31, 2004.
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >     For purposes of [section 416 of title 39][/us/usc/t39/s416], United States Code (including any regulation prescribed under subsection (e)(1)(C) of that section), the semipostal postage stamp issued under this section shall not apply to any limitation relating to whether more than one semipostal may be offered for sale at the same time.
 
->     “(e) __Design.—__ 
+>     “(e)  __Design__  __.—__ 
 
 >     It is the sense of the Congress that the semipostal issued under this section should depict, by such design as the Postal Service considers to be most appropriate, the efforts of emergency relief personnel at the site of the World Trade Center in New York City and the Pentagon in Arlington, Virginia.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -235,23 +235,23 @@
 
 [Pub. L. 107–67, title VI, § 653][/us/pl/107/67/s653], Nov. 12, 2001, [115 Stat. 558][/us/stat/115/558], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Stamp Out Domestic Violence Act of 2001’.
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     In order to afford the public a direct and tangible way to contribute to funding for domestic violence programs, the United States Postal Service shall issue a semipostal in accordance with subsection (c).
 
->     “(c) __Requirements.—__ 
+>     “(c)  __Requirements__  __.—__ 
 
 >     The provisions of [section 416 of title 39][/us/usc/t39/s416], United States Code, shall apply as practicable with respect to the semipostal described in subsection (b), subject to the following:
 
->         “(1) __Disposition of amounts becoming available.—__ 
+>         “(1)  __Disposition of amounts becoming available__  __.—__ 
 
 >         All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Department of Health and Human Services under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section.
 
->         “(2) __Commencement and termination dates.—__ 
+>         “(2)  __Commencement and termination dates__  __.—__ 
 
 >         Stamps under this section shall be issued—
 
@@ -259,11 +259,11 @@
 
 >             “(B) for such period of time as the Postal Service considers necessary and appropriate, but in no event after December 31, 2006.
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >     For purposes of [section 416 of title 39][/us/usc/t39/s416], United States Code (including any regulation prescribed under subsection (e)(1)(C) of that section), the semipostal stamp issued under this section shall not apply to any limitation relating to whether more than one semipostal may be offered for sale at the same time.
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     For purposes of this section the term ‘semipostal’ has the meaning given such term by [section 416 of title 39][/us/usc/t39/s416], United States Code.”
 

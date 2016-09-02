@@ -49,11 +49,11 @@
 
 [Pub. L. 99–87, § 2][/us/pl/99/87/s2], Aug. 9, 1985, [99 Stat. 291][/us/stat/99/291], provided that:
 
->     “(a) __Guidelines.—__ 
+>     “(a)  __Guidelines__  __.—__ 
 
 >     The guidelines described in [section 3220(a)(1) of title 39][/us/usc/t39/s3220/a/1], United States Code, as added by this Act, shall be prescribed not later than ninety days after the date of the enactment of this Act (Aug. 9, 1985).
 
->     “(b) __Rules and Regulations.—__ 
+>     “(b)  __Rules and Regulations__  __.—__ 
 
 >     The regulations described in subsection (a)(2) of [section 3220 of title 39][/us/usc/t39/s3220], United States Code, as added by this Act, and the rules and regulations described in subsection (b) of such section, as so added, shall be prescribed not later than one hundred and eighty days after the date of the enactment of this Act (Aug. 9, 1985).”
 

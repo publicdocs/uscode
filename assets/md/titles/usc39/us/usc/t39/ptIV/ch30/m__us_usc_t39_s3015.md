@@ -15,19 +15,19 @@
 
 ## § 3015. Nonmailable plant pests and injurious animals
 
-    (a) __Injurious Animals.—__ 
+    (a)  __Injurious Animals__  __.—__ 
 
     Any injurious animal, the importation or interstate shipment of which is prohibited pursuant to [section 42 of title 18][/us/usc/t18/s42], constitutes nonmailable matter.
 
-    (b) __Plant Pests.—__ 
+    (b)  __Plant Pests__  __.—__ 
 
     Any plant pest, the movement of which is prohibited pursuant to section 103 or 104 of the Federal Plant Pest Act ([7 U.S.C. 150bb][/us/usc/t7/s150bb] or 150cc), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  constitutes nonmailable matter.
 
-    (c) __Plants.—__ 
+    (c)  __Plants__  __.—__ 
 
     Any plant, article, or matter, the importation or interstate shipment of which is prohibited pursuant to the Act of August 20, 1912 ([37 Stat. 315][/us/stat/37/315], chapter 308; [7 U.S.C. 151][/us/usc/t7/s151] et seq.) (commonly known as the “Plant Quarantine Act”),1 constitutes nonmailable matter.
 
-    (d) __Illegally Taken Fish, Wildlife, or Plants.—__ 
+    (d)  __Illegally Taken Fish, Wildlife, or Plants__  __.—__ 
 
     Any fish, wildlife, or plant, the conveyance of which is prohibited pursuant to section 3 of the Lacey Act Amendments of 1981 ([16 U.S.C. 3372][/us/usc/t16/s3372]), constitutes nonmailable matter.
 
@@ -51,15 +51,15 @@
 
 >     “(a) __Pests in the Mails.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the Secretary of Agriculture shall hereafter operate a program, under terms and conditions acceptable to the Postal Service, to protect Hawaii from the introduction of prohibited plants, plant pests, and injurious animals that may be contained in mail received in Hawaii, except that this subsection shall not apply to mail that originates and is intended for delivery outside the United States.
 
->         “(2) __Memorandum of understanding.—__ 
+>         “(2)  __Memorandum of understanding__  __.—__ 
 
 >         For the purpose of carrying out the program operated under paragraph (1), the Secretary of Agriculture shall enter into a memorandum of understanding or other agreement with the Secretary of the Interior relating to prohibited plants, plant pests, or injurious animals under the jurisdiction of the Department of the Interior.
 
->         “(3) __Remedial action.—__ 
+>         “(3)  __Remedial action__  __.—__ 
 
 >         If, pursuant to the program, mail is found to contain a prohibited plant, plant pest, or injurious animal, the Secretary shall—
 
@@ -69,19 +69,19 @@
 
 >             “(C) determine whether the facts and circumstances warrant seeking prosecution under a law prohibiting the conveyance of a plant, plant pest, or injurious animal.
 
->         “(4) __Definitions.—__ 
+>         “(4)  __Definitions__  __.—__ 
 
 >         As used in this subsection:
 
->             “(A) __Injurious animal.—__ 
+>             “(A)  __Injurious animal__  __.—__ 
 
 >             The term ‘injurious animal’ means an animal the importation or interstate shipment of which is prohibited by [section 42 of title 18][/us/usc/t18/s42], United States Code.
 
->             “(B) __Plant.—__ 
+>             “(B)  __Plant__  __.—__ 
 
 >             The term ‘plant’ means a plant from any class of plants, or any other article or matter, the importation or interstate shipment of which is prohibited under the Act of August 20, 1912 ([37 Stat. 315][/us/stat/37/315], chapter 308; [7 U.S.C. 151][/us/usc/t7/s151] et seq.) (commonly known as the ‘Plant Quarantine Act’).
 
->             “(C) __Plant pest.—__ 
+>             “(C)  __Plant pest__  __.—__ 
 
 >             The term ‘plant pest’ means any organism or substance the importation or interstate shipment of which is prohibited under the Federal Plant Pest Act ([7 U.S.C. 150aa][/us/usc/t7/s150aa] et seq.).
 
@@ -89,7 +89,7 @@
 
 >         “(1) __Agreement between secretary of agriculture and hawaii.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 90 days after the date of enactment of this Act \[Oct. 6, 1992\], the Secretary of Agriculture shall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State—
 
@@ -99,11 +99,11 @@
 
 >                 “(iii) the matter under the heading ‘Enforcement of the plant-quarantine Act:’ of the Act of March 4, 1915 ([38 Stat. 1113][/us/stat/38/1113]; [7 U.S.C. 166][/us/usc/t7/s166] \[7760\]) (commonly known as the ‘Terminal Inspection Act’).
 
->             “(B) __Inspection of plants and plant products.—__ 
+>             “(B)  __Inspection of plants and plant products__  __.—__ 
 
 >             The cooperative agreement shall establish a specific procedure for the submission and approval of the names of plants and plant products that the State of Hawaii elects to inspect under the provision of law referred to in subparagraph (A)(iii).
 
->             “(C) __Authority.—__ 
+>             “(C)  __Authority__  __.—__ 
 
 >             The Secretary shall carry out this paragraph under the authority provided by—
 
@@ -115,35 +115,35 @@
 
 >         “(2) __Agreement between secretary of the interior and hawaii.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 90 days after the date of enactment of this Act \[Oct. 6, 1992\], the Secretary of the Interior shall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State the Lacey Act Amendments of 1981 ([16 U.S.C. 3371][/us/usc/t16/s3371] et seq.).
 
->             “(B) __Authority.—__ 
+>             “(B)  __Authority__  __.—__ 
 
 >             The Secretary shall use to carry out this paragraph the authority provided under section 3 of the Fish and Wildlife Improvement Act of 1978 ([16 U.S.C. 742][/us/usc/t16/s742]l).
 
 >         “(3) __Agreement between postal service and hawaii.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 90 days after the date of enactment of this Act, the Postal Service shall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State, under terms and conditions acceptable to the Postal Service and in compliance with postal regulations, [Public Law 100–574][/us/pl/100/574] \[enacting [section 3014 of this title][/us/usc/t39/s3014], sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under [section 3014 of this title][/us/usc/t39/s3014]\] and the amendments made by such Public Law.
 
->             “(B) __Authority.—__ 
+>             “(B)  __Authority__  __.—__ 
 
 >             The Postal Service shall use to carry out this paragraph the authority provided under [section 3014 of title 39][/us/usc/t39/s3014], United States Code.
 
->         “(4) __Cooperative programs.—__ 
+>         “(4)  __Cooperative programs__  __.—__ 
 
 >         Any program conducted jointly by the State of Hawaii and any Federal agency under this subsection that in any way affects the mail or the postal system of the United States shall comply with postal regulations and shall be conducted under terms and conditions acceptable to the Postal Service.
 
->         “(5) __Extension of agreements.—__ 
+>         “(5)  __Extension of agreements__  __.—__ 
 
 >         A cooperative agreement entered into under this subsection may be extended by mutual consent of the parties to the agreement.
 
 >     “(c) __Public Information Program on Prohibitions Against Shipment or Transportation of Plant Pests and Injurious Animals.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Postal Service, the Secretary of the Interior, and the Secretary of Agriculture shall jointly establish a public information program to inform the public on—
 
@@ -151,7 +151,7 @@
 
 >             “(B) the consequences of violating Federal laws designed to prevent the introduction of alien species into the State of Hawaii and other areas of the United States.
 
->         “(2) __Methods.—__ 
+>         “(2)  __Methods__  __.—__ 
 
 >         In carrying out paragraph (1), the Postal Service and Secretaries may—
 
@@ -159,7 +159,7 @@
 
 >             “(B) cooperate with State and private organizations to carry out the program established under this subsection.
 
->         “(3) __Study.—__ 
+>         “(3)  __Study__  __.—__ 
 
 >         Not later than 1 year after the program established under subsection (a) commences, the Secretary of Agriculture, in cooperation with the Secretary of the Interior, the Postal Service, and the State of Hawaii, shall—
 

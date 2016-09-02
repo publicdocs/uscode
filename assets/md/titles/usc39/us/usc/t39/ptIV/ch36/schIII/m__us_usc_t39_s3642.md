@@ -15,21 +15,21 @@
 
 ## § 3642. New products and transfers of products between the market-dominant and competitive categories of mail
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Upon request of the Postal Service or users of the mails, or upon its own initiative, the Postal Regulatory Commission may change the list of market-dominant products under section 3621 and the list of competitive products under section 3631 by adding new products to the lists, removing products from the lists, or transferring products between the lists.
 
-    (b) __Criteria.—__ 
+    (b)  __Criteria__  __.—__ 
 
     All determinations by the Postal Regulatory Commission under subsection (a) shall be made in accordance with the following criteria:
 
         (1) The market-dominant category of products shall consist of each product in the sale of which the Postal Service exercises sufficient market power that it can effectively set the price of such product substantially above costs, raise prices significantly, decrease quality, or decrease output, without risk of losing a significant level of business to other firms offering similar products. The competitive category of products shall consist of all other products.
 
-        (2) __Exclusion of products covered by postal monopoly.—__ 
+        (2)  __Exclusion of products covered by postal monopoly__  __.—__ 
 
         A product covered by the postal monopoly shall not be subject to transfer under this section from the market-dominant category of mail. For purposes of the preceding sentence, the term “product covered by the postal monopoly” means any product the conveyance or transmission of which is reserved to the United States under [section 1696 of title 18][/us/usc/t18/s1696], subject to the same exception as set forth in the last sentence of section 409(e)(1).
 
-        (3) __Additional considerations.—__ 
+        (3)  __Additional considerations__  __.—__ 
 
         In making any decision under this section, due regard shall be given to—
 
@@ -39,21 +39,21 @@
 
             (C) the likely impact of the proposed action on small business concerns (within the meaning of section 3641(h)).
 
-    (c) __Transfers of Subclasses and Other Subordinate Units Allowable.—__ 
+    (c)  __Transfers of Subclasses and Other Subordinate Units Allowable__  __.—__ 
 
     Nothing in this title shall be considered to prevent transfers under this section from being made by reason of the fact that they would involve only some (but not all) of the subclasses or other subordinate units of the class of mail or type of postal service involved (without regard to satisfaction of minimum quantity requirements standing alone).
 
     (d) __Notification and Publication Requirements.—__ 
 
-        (1) __Notification requirement.—__ 
+        (1)  __Notification requirement__  __.—__ 
 
         The Postal Service shall, whenever it requests to add a product or transfer a product to a different category, file with the Postal Regulatory Commission and publish in the Federal Register a notice setting out the basis for its determination that the product satisfies the criteria under subsection (b) and, in the case of a request to add a product or transfer a product to the competitive category of mail, that the product meets the regulations promulgated by the Postal Regulatory Commission under section 3633. The provisions of section 504(g) shall be available with respect to any information required to be filed.
 
-        (2) __Publication requirement.—__ 
+        (2)  __Publication requirement__  __.—__ 
 
         The Postal Regulatory Commission shall, whenever it changes the list of products in the market-dominant or competitive category of mail, prescribe new lists of products. The revised lists shall indicate how and when any previous lists (including the lists under sections 3621 and 3631) are superseded, and shall be published in the Federal Register.
 
-    (e) __Prohibition.—__ 
+    (e)  __Prohibition__  __.—__ 
 
     Except as provided in section 3641, no product that involves the physical delivery of letters, printed matter, or packages may be offered by the Postal Service unless it has been assigned to the market-dominant or competitive category of mail (as appropriate) either—
 

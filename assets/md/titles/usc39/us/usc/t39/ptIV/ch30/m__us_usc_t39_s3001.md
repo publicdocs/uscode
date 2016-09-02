@@ -405,11 +405,11 @@ For information regarding constitutionality of certain provisions of this sectio
 
 [Pub. L. 106–168, title I, § 109][/us/pl/106/168/s109], Dec. 12, 1999, [113 Stat. 1816][/us/stat/113/1816], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in the provisions of this title \[see Short Title of 1999 Amendment note above\] (including the amendments made by this title) or in the regulations promulgated under such provisions shall be construed to preempt any provision of State or local law that imposes more restrictive requirements, regulations, damages, costs, or penalties. No determination by the Postal Service that any particular piece of mail or class of mail is in compliance with such provisions of this title shall be construed to preempt any provision of State or local law.
 
->     “(b) __Effect on State Court Proceedings.—__ 
+>     “(b)  __Effect on State Court Proceedings__  __.—__ 
 
 >     Nothing contained in this section shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State or any specific civil or criminal statute of such State.”
 

@@ -45,11 +45,11 @@
 
 >     “(1) __Office of inspector general of the united states postal service.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Strategic plans shall be prepared under this paragraph addressing staffing requirements, general goals and objectives for major functions and operations of the Office of Inspector General of the United States Postal Service, and how goals and objectives of the Office are to be achieved, including a description of operational processes, skills and technology, and the human, capital, information, and other resources required to meet those goals and objectives.
 
->         “(B) __Specific requirements.—__ 
+>         “(B)  __Specific requirements__  __.—__ 
 
 >         Plans under this paragraph—
 
@@ -59,11 +59,11 @@
 
 >             “(iii) shall be included, as part of the annual budget required under [section 2009 of title 39][/us/usc/t39/s2009], United States Code, at least every 3 years.
 
->         “(C) __First submission.—__ 
+>         “(C)  __First submission__  __.—__ 
 
 >         The first plan under this paragraph shall be prepared in time to be included with the annual budget under [section 2009 of title 39][/us/usc/t39/s2009], United States Code, next due to be submitted after the end of the 6-month period beginning on the date of the appointment of the first Inspector General to be appointed pursuant to the amendments made by this section \[amending sections 102, 202, 204, 410, and 1003 of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and section 8G of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, and renumbering another section 8G of the Inspector General Act of 1978 as 8H\].
 
->     “(2) __Postal inspection service.—__ 
+>     “(2)  __Postal inspection service__  __.—__ 
 
 >     The Chief Postal Inspector shall, with respect to the Postal Inspection Service, prepare a strategic plan similar in content to that required under paragraph (1)(A) with respect to the Office of Inspector General of the United States Postal Service. Such plan shall be prepared in time to be included with the annual budget under section 2009 of such title 39 next due to be submitted after the end of the 30-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\].”
 

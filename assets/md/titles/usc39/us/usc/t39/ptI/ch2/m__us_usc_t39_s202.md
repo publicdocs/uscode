@@ -79,15 +79,15 @@
 
 [Pub. L. 109–435, title V, § 501(c)(2)][/us/pl/109/435/s501/c/2], Dec. 20, 2006, [120 Stat. 3233][/us/stat/120/3233], provided that:
 
->     “(A) __Continuation by incumbents.—__ 
+>     “(A)  __Continuation by incumbents__  __.—__ 
 
 >     The amendment made by paragraph (1) \[amending this section\] shall not affect the tenure of any person serving as a Governor of the United States Postal Service on the date of enactment of this Act \[Dec. 20, 2006\] and such person may continue to serve the remainder of the applicable term.
 
->     “(B) __Vacancy by incumbent before 7 years of service.—__ 
+>     “(B)  __Vacancy by incumbent before 7 years of service__  __.—__ 
 
 >     If a person who is serving as a Governor of the United States Postal Service on the date of enactment of this Act \[Dec. 20, 2006\] resigns, is removed, or dies before the expiration of the 9-year term of that Governor, and that Governor has served less than 7 years of that term, the resulting vacancy in office shall be treated as a vacancy in a 7-year term.
 
->     “(C) __Vacancy by incumbent after 7 years of service.—__ 
+>     “(C)  __Vacancy by incumbent after 7 years of service__  __.—__ 
 
 >     If a person who is serving as a Governor of the United States Postal Service on the date of enactment of this Act \[Dec. 20, 2006\] resigns, is removed, or dies before the expiration of the 9-year term of that Governor, and that Governor has served 7 years or more of that term, that term shall be deemed to have been a 7-year term beginning on its commencement date for purposes of determining vacancies in office. Any appointment to the vacant office shall be for a 7-year term beginning at the end of the original 9-year term determined without regard to the deeming under the preceding sentence. Nothing in this subparagraph shall be construed to affect any action or authority of any Governor or the Board of Governors during any portion of a 9-year term deemed to be a 7-year term under this subparagraph.”
 

@@ -129,7 +129,7 @@
 
 > “The amendments made by subsection (b) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
 
-    Amendment by [Pub. L. 103–31][/us/pl/103/31] effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 1973gg et seq. of Title 42, The Public Health and Welfare, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 1973gg et seq. of Title 42 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see [section 13 of Pub. L. 103–31][/us/pl/103/31/s13], set out as an Effective Date note under [section 1973gg of Title 42][/us/usc/t42/s1973gg].
+    Amendment by [Pub. L. 103–31][/us/pl/103/31] effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Voting and Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see [section 13 of Pub. L. 103–31][/us/pl/103/31/s13], set out as an Effective Date note under [section 20501 of Title 52][/us/usc/t52/s20501].
 
  __Effective Date of 1990 Amendment__ 
 
@@ -141,7 +141,7 @@
 
     Amendment by [Pub. L. 99–509][/us/pl/99/509] effective Jan. 1, 1989, or effective date of next general change in rates and fees under sections 3622 and 3625 of this title \[Apr. 3, 1988\], whichever is sooner, see [section 6003(c) of Pub. L. 99–509][/us/pl/99/509/s6003/c] set out as a note under [section 3626 of this title][/us/usc/t39/s3626].
 
-    Amendment by [Pub. L. 99–410][/us/pl/99/410] applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as an Effective Date note under [section 1973ff of Title 42][/us/usc/t42/s1973ff], The Public Health and Welfare.
+    Amendment by [Pub. L. 99–410][/us/pl/99/410] applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as an Effective Date note under [section 20301 of Title 52][/us/usc/t52/s20301], Voting and Elections.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -242,7 +242,7 @@
 [/us/stat/107/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1271
 [/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/pl/103/31/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31%2Fs13
-[/us/usc/t42/s1973gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg
+[/us/usc/t52/s20501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20501
 [/us/pl/101/509/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs1%2Fc
 [/us/stat/104/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1398
 [/us/usc/t39/s3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626
@@ -251,7 +251,7 @@
 [/us/usc/t39/s3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3626
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/pl/99/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs204
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1727
 [/us/usc/t39/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2003

@@ -29,7 +29,7 @@
 
 [Pub. L. 109–435, title VII, § 701][/us/pl/109/435/s701], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Postal Regulatory Commission shall, at least every 5 years, submit a report to the President and Congress concerning—
 
@@ -37,7 +37,7 @@
 
 >         “(2) recommendations for any legislation or other measures necessary to improve the effectiveness or efficiency of the postal laws of the United States.
 
->     “(b) __Postal Service Views.—__ 
+>     “(b)  __Postal Service Views__  __.—__ 
 
 >     A report under this section shall be submitted only after reasonable opportunity has been afforded to the Postal Service to review the report and to submit written comments on the report. Any comments timely received from the Postal Service under the preceding sentence shall be attached to the report submitted under subsection (a).”
 
@@ -47,11 +47,11 @@
 
 >     “(a) __Report by the Postal Regulatory Commission.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 24 months after the date of enactment of this Act \[Dec. 20, 2006\], the Postal Regulatory Commission shall submit a report to the President and Congress on universal postal service and the postal monopoly in the United States (in this section referred to as ‘universal service and the postal monopoly’), including the monopoly on the delivery of mail and on access to mailboxes.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report under this subsection shall include—
 
@@ -63,7 +63,7 @@
 
 >             “(D) the scope and standards of universal service and the postal monopoly likely to be required in the future in order to meet the needs and expectations of the United States public, including all types of mail users, based on discussion of such assumptions, alternative sets of assumptions, and analyses as the Postal Service considers plausible.
 
->     “(b) __Recommended Changes to Universal Service and the Monopoly.—__ 
+>     “(b)  __Recommended Changes to Universal Service and the Monopoly__  __.—__ 
 
 >     The Postal Regulatory Commission shall include in the report under subsection (a), and in all reports submitted under section 701 of this Act \[set out as a note above\]—
 
@@ -79,7 +79,7 @@
 
 >         “(3) such additional topics and recommendations as the Commission considers appropriate, with estimated effects of the recommendations on the service, financial condition, rates, and the security of mail provided by the Postal Service.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In preparing the report required by this section, the Postal Regulatory Commission—
 
@@ -87,7 +87,7 @@
 
 >         “(2) shall address in the report any written comments received under this section.
 
->     “(d) __Clarifying Provision.—__ 
+>     “(d)  __Clarifying Provision__  __.—__ 
 
 >     Nothing in this section shall be considered to relate to any services that are not postal services within the meaning of [section 102 of title 39][/us/usc/t39/s102], United States Code, as amended by section 101 of this Act.”
 
@@ -97,7 +97,7 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Postal Regulatory Commission shall examine section E670.5.3 of the Domestic Mail Manual to determine whether it contains adequate safeguards to protect against—
 
@@ -105,11 +105,11 @@
 
 >             “(B) deception of consumers.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Commission shall report the results of its examination to the Postal Service, along with any recommendations that the Commission determines appropriate.
 
->     “(b) __Failure to Act.—__ 
+>     “(b)  __Failure to Act__  __.—__ 
 
 >     If the Postal Service fails to act on the recommendations of the Commission, the Commission may take such action as it determines necessary to prevent abuse of rates or deception of consumers.”
 

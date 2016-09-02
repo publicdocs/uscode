@@ -297,11 +297,11 @@
 
 [Pub. L. 101–509, title II, § 2][/us/pl/101/509/s2], Nov. 5, 1990, [104 Stat. 1398][/us/stat/104/1398], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The United States Postal Service may forbear from the collection of any postage deficiency assessed against an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, if the assessment of that deficiency arises from a violation of the cooperative mailing regulations of the Postal Service set forth at section 625.5 of the Domestic Mail Manual, and the Postal Service has made no determination that the organization knowingly or willfully violated such regulations. If any organizations authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, has paid on its own behalf all or part of a postage deficiency which the Postal Service would forbear from collecting under this section, the Postal Service may refund to that organization the amount which it has paid.
 
->     “(b) __Effective Date and Applicability.—__ 
+>     “(b)  __Effective Date and Applicability__  __.—__ 
 
 >     The provisions of this section shall become effective on the date of enactment of this Act \[Nov. 5, 1990\], and shall apply to mailings which were sent on or between July 1, 1986, and the effective date of this section.”
 

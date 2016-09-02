@@ -15,11 +15,11 @@
 
 ## § 3018. Hazardous material
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Postal Service shall prescribe regulations for the safe transportation of hazardous material in the mail.
 
-    (b) __Prohibitions.—__ 
+    (b)  __Prohibitions__  __.—__ 
 
     No person may—
 
@@ -37,7 +37,7 @@
 
     (c) __Civil Penalty; Clean-Up Costs and Damages.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person who knowingly violates this section or a regulation prescribed under this section shall be liable for—
 
@@ -47,7 +47,7 @@
 
             (C) damages.
 
-        (2) __Knowing action.—__ 
+        (2)  __Knowing action__  __.—__ 
 
         A person acts knowingly for purposes of paragraph (1) when—
 
@@ -57,19 +57,19 @@
 
         (3) __Separate violations.—__ 
 
-            (A) __Violations over time.—__ 
+            (A)  __Violations over time__  __.—__ 
 
             A separate violation under this subsection occurs for each day hazardous material, mailed or caused to be mailed in noncompliance with this section, is in the mail.
 
-            (B) __Separate items.—__ 
+            (B)  __Separate items__  __.—__ 
 
             A separate violation under this subsection occurs for each item containing hazardous material that is mailed or caused to be mailed in noncompliance with this section.
 
-    (d) __Hearings.—__ 
+    (d)  __Hearings__  __.—__ 
 
     The Postal Service may determine that a person has violated this section or a regulation prescribed under this section only after notice and an opportunity for a hearing. Proceedings under this section shall be conducted in accordance with section 3001(m).
 
-    (e) __Penalty Considerations.—__ 
+    (e)  __Penalty Considerations__  __.—__ 
 
     In determining the amount of a civil penalty for a violation of this section, the Postal Service shall consider—
 
@@ -83,35 +83,35 @@
 
     (f) __Civil Actions to Collect.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In accordance with section 409(d), a civil action may be commenced in an appropriate district court of the United States to collect a civil penalty, clean-up costs, and damages assessed under subsection (c).
 
-        (2) __Compromise.—__ 
+        (2)  __Compromise__  __.—__ 
 
         The Postal Service may compromise the amount of a civil penalty, clean-up costs, and damages assessed under subsection (c) before commencing a civil action with respect to such civil penalty, clean-up costs, and damages under paragraph (1).
 
     (g) __Civil Judicial Penalties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         At the request of the Postal Service, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this section or a regulation prescribed under this section.
 
-        (2) __Relief.—__ 
+        (2)  __Relief__  __.—__ 
 
         The court in a civil action under paragraph (1) may award appropriate relief, including a temporary or permanent injunction, civil penalties as determined in accordance with this section, or punitive damages.
 
-        (3) __Construction.—__ 
+        (3)  __Construction__  __.—__ 
 
         A civil action under this subsection shall be in lieu of civil penalties for the same violation under subsection (c)(1)(A).
 
     (h) __Deposit of Amounts Collected.—__ 
 
-        (1) __Postal service fund.—__ 
+        (1)  __Postal service fund__  __.—__ 
 
         Except as provided under paragraph (2), amounts collected under subsection (c)(1)(B) and (C) shall be deposited into the Postal Service Fund under section 2003.
 
-        (2) __Treasury.—__ 
+        (2)  __Treasury__  __.—__ 
 
         Amounts collected under subsection (c)(1)(A) and any punitive damages collected under subsection (c)(1)(C) shall be deposited into the Treasury of the United States.
 
