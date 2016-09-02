@@ -23,7 +23,7 @@
 
         (1) Each State shall allocate 15 percent of the funds apportioned to it for each fiscal year under [section 777c of this title][/us/usc/t16/s777c] for the payment of up to 75 per centum of the costs of the acquisition, development, renovation, or improvement of facilities (and auxiliary facilities necessary to insure the safe use of such facilities) that create, or add to, public access to the waters of the United States to improve the suitability of such waters for recreational boating purposes. Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 15 percent in a fiscal year, provided that the total regional allocation averages 15 percent over a 5 year period.
 
-        (2) So much of the funds that are allocated by a State under paragraph (1) in any fiscal year that remained unexpended or unobligated at the close of such year are authorized to be made available for the purposes described in paragraph (1) during the succeeding four fiscal years, but any portion of such funds that remain unexpended or unobligated at the close of such period are authorized to be made available for expenditure by the Secretary of the Interior to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under [section 777c(c) of this title][/us/usc/t16/s777c/c].
+        (2) So much of the funds that are allocated by a State under paragraph (1) in any fiscal year that remained unexpended or unobligated at the close of such year are authorized to be made available for the purposes described in paragraph (1) during the succeeding four fiscal years, but any portion of such funds that remain unexpended or unobligated at the close of such period are authorized to be made available for expenditure by the Secretary of the Interior to supplement the 58.012 percent of the balance of each annual appropriation to be apportioned among the States under [section 777c(c) of this title][/us/usc/t16/s777c/c].
 
     (c) __Aquatic resource education program; funding, etc.__ 
 
@@ -87,7 +87,7 @@
 
             A State that conducts a public boat access needs survey under paragraph (2) may fund the costs of conducting that assessment out of amounts allocated to it as funding dedicated to motorboat access to recreational waters under subsection (b)(1) of this section.
 
-([Aug. 9, 1950, ch. 658, § 8][/us/act/1950-08-09/ch658/s8], [64 Stat. 433][/us/stat/64/433]; [Pub. L. 91–503, title II, § 202][/us/pl/91/503/s202], Oct. 23, 1970, [84 Stat. 1103][/us/stat/84/1103]; [Pub. L. 98–369, div. A, title X, § 1014(a)(6)][/us/pl/98/369/s1014/a/6], July 18, 1984, [98 Stat. 1016][/us/stat/98/1016]; [Pub. L. 102–587, title V, § 5604(b)][/us/pl/102/587/s5604/b], Nov. 4, 1992, [106 Stat. 5088][/us/stat/106/5088]; [Pub. L. 105–178, title VII][/us/pl/105/178], §§ 7402(c), 7404(b), June 9, 1998, [112 Stat. 484][/us/stat/112/484], 486; [Pub. L. 105–206, title IX, § 9012(c)][/us/pl/105/206/s9012/c], July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 109–59, title X, § 10114][/us/pl/109/59/s10114], Aug. 10, 2005, [119 Stat. 1928][/us/stat/119/1928].)
+([Aug. 9, 1950, ch. 658, § 8][/us/act/1950-08-09/ch658/s8], [64 Stat. 433][/us/stat/64/433]; [Pub. L. 91–503, title II, § 202][/us/pl/91/503/s202], Oct. 23, 1970, [84 Stat. 1103][/us/stat/84/1103]; [Pub. L. 98–369, div. A, title X, § 1014(a)(6)][/us/pl/98/369/s1014/a/6], July 18, 1984, [98 Stat. 1016][/us/stat/98/1016]; [Pub. L. 102–587, title V, § 5604(b)][/us/pl/102/587/s5604/b], Nov. 4, 1992, [106 Stat. 5088][/us/stat/106/5088]; [Pub. L. 105–178, title VII][/us/pl/105/178], §§ 7402(c), 7404(b), June 9, 1998, [112 Stat. 484][/us/stat/112/484], 486; [Pub. L. 105–206, title IX, § 9012(c)][/us/pl/105/206/s9012/c], July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 109–59, title X, § 10114][/us/pl/109/59/s10114], Aug. 10, 2005, [119 Stat. 1928][/us/stat/119/1928]; [Pub. L. 114–94, div. A, title X, § 10001(d)][/us/pl/114/94/s10001/d], Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621].)
 
  __References in Text__ 
 
@@ -96,6 +96,8 @@
     The Clean Vessel Act of 1992, referred to in subsec. (f), is subtitle F of title V of [Pub. L. 102–587][/us/pl/102/587], Nov. 4, 1992, [106 Stat. 5086][/us/stat/106/5086], which amended this section and [section 777c of this title][/us/usc/t16/s777c] and enacted provisions set out as a note under [section 1322 of Title 33][/us/usc/t33/s1322], Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1322 of Title 33][/us/usc/t33/s1322] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94] substituted “58.012 percent” for “57 percent”.
 
     2005—Subsec. (b)(2). [Pub. L. 109–59, § 10114(1)][/us/pl/109/59/s10114/1], substituted “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under [section 777c(c) of this title][/us/usc/t16/s777c/c]” for “in carrying out the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”.
 
@@ -122,6 +124,10 @@
     1984—[Pub. L. 98–369][/us/pl/98/369] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
     1970—[Pub. L. 91–503][/us/pl/91/503] struck out restriction that not more than 25 percent of the Federal funds be set aside for maintenance projects.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2005 Amendments__ 
 
@@ -163,11 +169,14 @@
 [/us/stat/112/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F864
 [/us/pl/109/59/s10114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10114
 [/us/stat/119/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1928
+[/us/pl/114/94/s10001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fd
+[/us/stat/129/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1621
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/stat/106/5086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5086
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/59/s10114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10114%2F1
 [/us/usc/t16/s777c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fc
 [/us/pl/109/59/s10114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10114%2F2
@@ -183,6 +192,9 @@
 [/us/pl/102/587/s5604/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5604%2Fb%2F4
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/74/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F74%2Fs101%2Fb
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b

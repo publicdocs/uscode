@@ -17,25 +17,27 @@
 
     (a) __In general__ 
 
-    For each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on December 4, 2015, the balance of each annual appropriation made in accordance with the provisions of [section 777b of this title][/us/usc/t16/s777b] remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under [section 777m of this title][/us/usc/t16/s777m] shall be distributed as follows:
+    For each fiscal year through fiscal year 2021, the balance of each annual appropriation made in accordance with the provisions of [section 777b of this title][/us/usc/t16/s777b] remaining after the distributions for administrative expenses and other purposes under subsection (b) and for activities under [section 777m(e) of this title][/us/usc/t16/s777m/e] shall be distributed as follows:
 
         (1) __Coastal wetlands__ 
 
-            An amount equal to 18.5 percent to the Secretary of the Interior for distribution as provided in the Coastal Wetlands Planning, Protection, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and Restoration Act ([16 U.S.C. 3951][/us/usc/t16/s3951] et seq.).
+            An amount equal to 18.673 percent to the Secretary of the Interior for distribution as provided in the Coastal Wetlands Planning, Protection, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and Restoration Act ([16 U.S.C. 3951][/us/usc/t16/s3951] et seq.).
 
         (2) __Boating safety__ 
 
-            An amount equal to 18.5 percent to the Secretary of the department in which the Coast Guard is operating for State recreational boating safety programs under [section 13107 of title 46][/us/usc/t46/s13107].
+            An amount equal to 17.315 percent to the Secretary of the department in which the Coast Guard is operating for State recreational boating safety programs under [section 13107 of title 46][/us/usc/t46/s13107].
 
-        (3) __Clean Vessel Act__ 
+        (3) __Boating infrastructure improvement__ 
 
-            An amount equal to 2.0 percent to the Secretary of the Interior for qualified projects under section 5604(c) of the Clean Vessel Act of 1992 ([33 U.S.C. 1322][/us/usc/t33/s1322] note).
+            (A) __In general__ 
 
-        (4) __Boating infrastructure__ 
+                An amount equal to 4 percent to the Secretary of the Interior for qualified projects under section 5604(c) of the Clean Vessel Act of 1992 ([33 U.S.C. 1322][/us/usc/t33/s1322] note) and [section 777g–1(d) of this title][/us/usc/t16/s777g–1/d].
 
-            An amount equal to 2.0 percent to the Secretary of the Interior for obligation for qualified projects under [section 777g–1(d) of this title][/us/usc/t16/s777g–1/d].
+            (B) __Limitation__ 
 
-        (5) __National outreach and communications__ 
+                Not more than 75 percent of the amount under subparagraph (A) shall be available for projects under either of the sections referred to in subparagraph (A).
+
+        (4) __National outreach and communications__ 
 
             An amount equal to 2.0 percent to the Secretary of the Interior for the National Outreach and Communications Program under [section 777g(d) of this title][/us/usc/t16/s777g/d]. Such amounts shall remain available for 3 fiscal years, after which any portion thereof that is unobligated by the Secretary for that program may be expended by the Secretary under subsection (c) of this section.
 
@@ -45,7 +47,7 @@
 
             (A) __Set-aside for administration__ 
 
-                From the annual appropriation made in accordance with [section 777b of this title][/us/usc/t16/s777b], for each fiscal year ending before October 1, 2015, and for the period beginning on October 1, 2015, and ending on December 4, 2015, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and [section 777h of this title][/us/usc/t16/s777h]. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
+                From the annual appropriation made in accordance with [section 777b of this title][/us/usc/t16/s777b], for each fiscal year through fiscal year 2021, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and [section 777h of this title][/us/usc/t16/s777h]. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
 
             (B) __Available amounts__ 
 
@@ -69,19 +71,47 @@
 
                         (bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
-        (2) __Period of availability; apportionment of unobligated amounts__ 
+        (2) __Set-aside for Coast Guard administration__ 
+
+            (A) __In general__ 
+
+                From the annual appropriation made in accordance with [section 777b of this title][/us/usc/t16/s777b], for each of fiscal years 2016 through 2021, the Secretary of the department in which the Coast Guard is operating may use no more than the amount specified in subparagraph (B) for the fiscal year for the purposes set forth in [section 13107(c) of title 46][/us/usc/t46/s13107/c]. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
+
+            (B) __Available amounts__ 
+
+            The available amount referred to in subparagraph (A) is—
+
+                (i) for fiscal year 2016, $7,700,000; and
+
+                (ii)
+
+                 for fiscal year 2017 and each fiscal year thereafter, the sum of—
+
+                    (I) the available amount for the preceding fiscal year; and
+
+                    (II)
+
+                     the amount determined by multiplying—
+
+                        (aa) the available amount for the preceding fiscal year; and
+
+                        (bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+
+        (3) __Period of availability; apportionment of unobligated amounts__ 
 
             (A) __Period of availability__ 
 
-                For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the fiscal year.
+                For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the subsequent fiscal year.
 
             (B) __Apportionment of unobligated amounts__ 
 
-                Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States under subsection (e)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  for the fiscal year.
+                Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States under subsection (c) for the fiscal year.
 
     (c) __Apportionment among States__ 
 
-        The Secretary  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a comma. </sup></sup>  after the distribution, transfer, use and deduction under subsection (b), and after deducting amounts used for grants under [section 777m of this title][/us/usc/t16/s777m], shall apportion 57 percent of the balance of each such annual appropriation among the several States in the following manner: 40 percent in the ratio which the area of each State including coastal and Great Lakes waters (as determined by the Secretary of the Interior) bears to the total area of all the States, and 60 percent in the ratio which the number of persons holding paid licenses to fish for sport or recreation in the State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the number of such persons in all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than 1 percent nor more than 5 percent of the total amount apportioned. Where the apportionment to any State under this section is less than $4,500 annually, the Secretary of the Interior may allocate not more than $4,500 of said appropriation to said State to carry out the purposes of this chapter when said State certifies to the Secretary of the Interior that it has set aside not less than $1,500 from its fish-and-game funds or has made, through its legislature, an appropriation in this amount of said purposes.
+        (1) The Secretary, after the distribution, transfer, use and deduction under subsection (b), and after deducting amounts used for activities under [section 777m(e) of this title][/us/usc/t16/s777m/e], shall apportion 58.012 percent of the balance of each such annual appropriation among the several States in the following manner: 40 percent in the ratio which the area of each State including coastal and Great Lakes waters (as determined by the Secretary of the Interior) bears to the total area of all the States, and 60 percent in the ratio which the number of persons holding paid licenses to fish for sport or recreation in the State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the number of such persons in all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than 1 percent nor more than 5 percent of the total amount apportioned. Where the apportionment to any State under this section is less than $4,500 annually, the Secretary of the Interior may allocate not more than $4,500 of said appropriation to said State to carry out the purposes of this chapter when said State certifies to the Secretary of the Interior that it has set aside not less than $1,500 from its fish-and-game funds or has made, through its legislature, an appropriation in this amount of said purposes.
+
+        (2) The Secretary shall deduct from the amount to be apportioned under paragraph (1) the amounts used for grants under [section 777m(a) of this title][/us/usc/t16/s777m/a].
 
     (d) __Unallocated funds__ 
 
@@ -91,7 +121,7 @@
 
         (1) __In general__ 
 
-            For each fiscal year, of the amounts appropriated under [section 777b of this title][/us/usc/t16/s777b], the Secretary of the Interior shall use only funds authorized for use under paragraphs (1), (3), (4), and (5) of subsection (a) to pay the expenses for administration incurred in carrying out the provisions of law referred to in those subsections, <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “paragraphs,”. </sup></sup>  respectively.
+            For each fiscal year, of the amounts appropriated under [section 777b of this title][/us/usc/t16/s777b], the Secretary of the Interior shall use only funds authorized for use under paragraphs (1), (3), (4), and (5) of subsection (a) to pay the expenses for administration incurred in carrying out the provisions of law referred to in those paragraphs, respectively.
 
         (2) __Maximum amount__ 
 
@@ -101,33 +131,53 @@
 
         Amounts available under paragraphs (3) and (4) of subsection (a) that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under [section 13107(a) of title 46][/us/usc/t46/s13107/a].
 
-([Aug. 9, 1950, ch. 658, § 4][/us/act/1950-08-09/ch658/s4], [64 Stat. 432][/us/stat/64/432]; [Pub. L. 91–503, title II, § 201][/us/pl/91/503/s201], Oct. 23, 1970, [84 Stat. 1101][/us/stat/84/1101]; [Pub. L. 94–273, § 4(2)][/us/pl/94/273/s4/2], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 98–369, div. A, title X, § 1014(a)(3)][/us/pl/98/369/s1014/a/3], July 18, 1984, [98 Stat. 1015][/us/stat/98/1015]; [Pub. L. 101–646, title III, § 308][/us/pl/101/646/s308], Nov. 29, 1990, [104 Stat. 4787][/us/stat/104/4787]; [Pub. L. 102–587, title V, § 5604(a)][/us/pl/102/587/s5604/a], Nov. 4, 1992, [106 Stat. 5087][/us/stat/106/5087]; [Pub. L. 105–178, title VII][/us/pl/105/178], §§ 7402(b), 7403, June 9, 1998, [112 Stat. 483][/us/stat/112/483], 485; [Pub. L. 105–206, title IX, § 9012(b)][/us/pl/105/206/s9012/b], July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 106–74, title IV, § 430][/us/pl/106/74/s430], Oct. 20, 1999, [113 Stat. 1096][/us/stat/113/1096]; [Pub. L. 106–377, § 1(a)(2)][/us/pl/106/377/s1/a/2] \[title VI, § 605\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–85; [Pub. L. 106–408, title I][/us/pl/106/408], §§ 121(a), (c), 122(b)–124, Nov. 1, 2000, [114 Stat. 1769][/us/stat/114/1769], 1772, 1774; [Pub. L. 108–88, § 9(a)][/us/pl/108/88/s9/a], (b), Sept. 30, 2003, [117 Stat. 1126][/us/stat/117/1126]; [Pub. L. 108–202, § 7(a)][/us/pl/108/202/s7/a], (b), Feb. 29, 2004, [118 Stat. 483][/us/stat/118/483]; [Pub. L. 108–224, § 6(a)][/us/pl/108/224/s6/a], (b), Apr. 30, 2004, [118 Stat. 632][/us/stat/118/632]; [Pub. L. 108–263, § 6(a)][/us/pl/108/263/s6/a], (b), June 30, 2004, [118 Stat. 703][/us/stat/118/703]; [Pub. L. 108–280, § 6(a)][/us/pl/108/280/s6/a], (b), July 30, 2004, [118 Stat. 881][/us/stat/118/881], 882; [Pub. L. 108–310, § 9(a)][/us/pl/108/310/s9/a], (b), Sept. 30, 2004, [118 Stat. 1159][/us/stat/118/1159]; [Pub. L. 108–447, div. C, title I, § 114(b)][/us/pl/108/447/s114/b], Dec. 8, 2004, [118 Stat. 2944][/us/stat/118/2944]; [Pub. L. 109–14, § 8(a)][/us/pl/109/14/s8/a], (b), May 31, 2005, [119 Stat. 334][/us/stat/119/334]; [Pub. L. 109–20, § 8(a)][/us/pl/109/20/s8/a], (b), July 1, 2005, [119 Stat. 356][/us/stat/119/356]; [Pub. L. 109–35, § 8(a)][/us/pl/109/35/s8/a], (b), July 20, 2005, [119 Stat. 389][/us/stat/119/389]; [Pub. L. 109–37, § 8(a)][/us/pl/109/37/s8/a], (b), July 22, 2005, [119 Stat. 404][/us/stat/119/404], 405; [Pub. L. 109–40, § 8(a)][/us/pl/109/40/s8/a], (b), July 28, 2005, [119 Stat. 421][/us/stat/119/421]; [Pub. L. 109–59, title X, § 10113][/us/pl/109/59/s10113], Aug. 10, 2005, [119 Stat. 1927][/us/stat/119/1927]; [Pub. L. 109–74, title II][/us/pl/109/74], §§ 201, 202, Sept. 29, 2005, [119 Stat. 2031][/us/stat/119/2031]; [Pub. L. 109–241, title IX, § 901(r)(1)][/us/pl/109/241/s901/r/1], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 109–304, § 16(c)(1)][/us/pl/109/304/s16/c/1], Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705]; [Pub. L. 111–68, div. B, § 160][/us/pl/111/68/s160], Oct. 1, 2009, [123 Stat. 2052][/us/stat/123/2052]; [Pub. L. 111–147, title IV, § 423(b)][/us/pl/111/147/s423/b], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2203(b)][/us/pl/111/322/s2203/b], Dec. 22, 2010, [124 Stat. 3526][/us/stat/124/3526]; [Pub. L. 112–5, title II, § 203(b)][/us/pl/112/5/s203/b], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 123(b)][/us/pl/112/30/s123/b], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 203(b)][/us/pl/112/102/s203/b], Mar. 30, 2012, [126 Stat. 275][/us/stat/126/275]; [Pub. L. 112–140, title II, § 203(b)][/us/pl/112/140/s203/b], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title IV, § 34002][/us/pl/112/141/s34002], July 6, 2012, [126 Stat. 842][/us/stat/126/842]; [Pub. L. 113–159, title I, § 1103][/us/pl/113/159/s1103], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1103][/us/pl/114/21/s1103], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1103][/us/pl/114/41/s1103], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1103][/us/pl/114/73/s1103], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1103][/us/pl/114/87/s1103], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681].)
+([Aug. 9, 1950, ch. 658, § 4][/us/act/1950-08-09/ch658/s4], [64 Stat. 432][/us/stat/64/432]; [Pub. L. 91–503, title II, § 201][/us/pl/91/503/s201], Oct. 23, 1970, [84 Stat. 1101][/us/stat/84/1101]; [Pub. L. 94–273, § 4(2)][/us/pl/94/273/s4/2], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 98–369, div. A, title X, § 1014(a)(3)][/us/pl/98/369/s1014/a/3], July 18, 1984, [98 Stat. 1015][/us/stat/98/1015]; [Pub. L. 101–646, title III, § 308][/us/pl/101/646/s308], Nov. 29, 1990, [104 Stat. 4787][/us/stat/104/4787]; [Pub. L. 102–587, title V, § 5604(a)][/us/pl/102/587/s5604/a], Nov. 4, 1992, [106 Stat. 5087][/us/stat/106/5087]; [Pub. L. 105–178, title VII][/us/pl/105/178], §§ 7402(b), 7403, June 9, 1998, [112 Stat. 483][/us/stat/112/483], 485; [Pub. L. 105–206, title IX, § 9012(b)][/us/pl/105/206/s9012/b], July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 106–74, title IV, § 430][/us/pl/106/74/s430], Oct. 20, 1999, [113 Stat. 1096][/us/stat/113/1096]; [Pub. L. 106–377, § 1(a)(2)][/us/pl/106/377/s1/a/2] \[title VI, § 605\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–85; [Pub. L. 106–408, title I][/us/pl/106/408], §§ 121(a), (c), 122(b)–124, Nov. 1, 2000, [114 Stat. 1769][/us/stat/114/1769], 1772, 1774; [Pub. L. 108–88, § 9(a)][/us/pl/108/88/s9/a], (b), Sept. 30, 2003, [117 Stat. 1126][/us/stat/117/1126]; [Pub. L. 108–202, § 7(a)][/us/pl/108/202/s7/a], (b), Feb. 29, 2004, [118 Stat. 483][/us/stat/118/483]; [Pub. L. 108–224, § 6(a)][/us/pl/108/224/s6/a], (b), Apr. 30, 2004, [118 Stat. 632][/us/stat/118/632]; [Pub. L. 108–263, § 6(a)][/us/pl/108/263/s6/a], (b), June 30, 2004, [118 Stat. 703][/us/stat/118/703]; [Pub. L. 108–280, § 6(a)][/us/pl/108/280/s6/a], (b), July 30, 2004, [118 Stat. 881][/us/stat/118/881], 882; [Pub. L. 108–310, § 9(a)][/us/pl/108/310/s9/a], (b), Sept. 30, 2004, [118 Stat. 1159][/us/stat/118/1159]; [Pub. L. 108–447, div. C, title I, § 114(b)][/us/pl/108/447/s114/b], Dec. 8, 2004, [118 Stat. 2944][/us/stat/118/2944]; [Pub. L. 109–14, § 8(a)][/us/pl/109/14/s8/a], (b), May 31, 2005, [119 Stat. 334][/us/stat/119/334]; [Pub. L. 109–20, § 8(a)][/us/pl/109/20/s8/a], (b), July 1, 2005, [119 Stat. 356][/us/stat/119/356]; [Pub. L. 109–35, § 8(a)][/us/pl/109/35/s8/a], (b), July 20, 2005, [119 Stat. 389][/us/stat/119/389]; [Pub. L. 109–37, § 8(a)][/us/pl/109/37/s8/a], (b), July 22, 2005, [119 Stat. 404][/us/stat/119/404], 405; [Pub. L. 109–40, § 8(a)][/us/pl/109/40/s8/a], (b), July 28, 2005, [119 Stat. 421][/us/stat/119/421]; [Pub. L. 109–59, title X, § 10113][/us/pl/109/59/s10113], Aug. 10, 2005, [119 Stat. 1927][/us/stat/119/1927]; [Pub. L. 109–74, title II][/us/pl/109/74], §§ 201, 202, Sept. 29, 2005, [119 Stat. 2031][/us/stat/119/2031]; [Pub. L. 109–241, title IX, § 901(r)(1)][/us/pl/109/241/s901/r/1], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 109–304, § 16(c)(1)][/us/pl/109/304/s16/c/1], Oct. 6, 2006, [120 Stat. 1705][/us/stat/120/1705]; [Pub. L. 111–68, div. B, § 160][/us/pl/111/68/s160], Oct. 1, 2009, [123 Stat. 2052][/us/stat/123/2052]; [Pub. L. 111–147, title IV, § 423(b)][/us/pl/111/147/s423/b], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2203(b)][/us/pl/111/322/s2203/b], Dec. 22, 2010, [124 Stat. 3526][/us/stat/124/3526]; [Pub. L. 112–5, title II, § 203(b)][/us/pl/112/5/s203/b], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 123(b)][/us/pl/112/30/s123/b], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 203(b)][/us/pl/112/102/s203/b], Mar. 30, 2012, [126 Stat. 275][/us/stat/126/275]; [Pub. L. 112–140, title II, § 203(b)][/us/pl/112/140/s203/b], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title IV, § 34002][/us/pl/112/141/s34002], July 6, 2012, [126 Stat. 842][/us/stat/126/842]; [Pub. L. 113–159, title I, § 1103][/us/pl/113/159/s1103], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1103][/us/pl/114/21/s1103], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1103][/us/pl/114/41/s1103], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1103][/us/pl/114/73/s1103], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1103][/us/pl/114/87/s1103], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681]; [Pub. L. 114–94, div. A, title X, § 10001(b)][/us/pl/114/94/s10001/b], Dec. 4, 2015, [129 Stat. 1619][/us/stat/129/1619].)
 
  __References in Text__ 
 
     The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (a)(1), is title III of [Pub. L. 101–646][/us/pl/101/646], Nov. 29, 1990, [104 Stat. 4778][/us/stat/104/4778], which is classified generally to chapter 59A (§ 3951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3951 of this title][/us/usc/t16/s3951] and Tables.
 
-    Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3), is [section 5604(c) of Pub. L. 102–587][/us/pl/102/587/s5604/c], which is set out as a note under [section 1322 of Title 33][/us/usc/t33/s1322], Navigation and Navigable Waters.
-
-    Subsection (e), referred to in subsec. (b)(2)(B), was redesignated subsection (c) by [Pub. L. 109–59, title X, § 10113(1)][/us/pl/109/59/s10113/1], Aug. 10, 2005, [119 Stat. 1927][/us/stat/119/1927].
+    Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A), is [section 5604(c) of Pub. L. 102–587][/us/pl/102/587/s5604/c], which is set out as a note under [section 1322 of Title 33][/us/usc/t33/s1322], Navigation and Navigable Waters.
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–87, § 1103(1)][/us/pl/114/87/s1103/1], substituted “December 4, 2015” for “November 20, 2015” in introductory provisions.
+    2015—Subsec. (a). [Pub. L. 114–94, § 10001(b)(1)(A)][/us/pl/114/94/s10001/b/1/A], substituted “For each fiscal year through fiscal year 2021, the balance” for “For each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015, the balance” and “activities under [section 777m(e) of this title][/us/usc/t16/s777m/e]” for “multistate conservation grants under [section 777m of this title][/us/usc/t16/s777m]” in introductory provisions.
 
-    [Pub. L. 114–73, § 1103(1)][/us/pl/114/73/s1103/1], substituted “November 20, 2015” for “October 29, 2015” in introductory provisions.
+    [Pub. L. 114–87, § 1103(1)][/us/pl/114/87/s1103/1], which directed substitution of “December 4, 2015” for “November 20, 2015” in introductory provisions, could not be executed due to intervening amendment by [Pub. L. 114–94][/us/pl/114/94], effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
+
+    [Pub. L. 114–73, § 1103(1)][/us/pl/114/73/s1103/1], which directed substitution of “November 20, 2015” for “October 29, 2015” in introductory provisions, could not be executed due to intervening amendment by [Pub. L. 114–94][/us/pl/114/94], effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
 
     [Pub. L. 114–41, § 1103(1)][/us/pl/114/41/s1103/1], substituted “each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015” for “each fiscal year through 2014 and for the period beginning on October 1, 2014, and ending on July 31, 2015” in introductory provisions.
 
     [Pub. L. 114–21, § 1103(1)][/us/pl/114/21/s1103/1], substituted “July 31, 2015” for “May 31, 2015” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 114–87, § 1103(2)][/us/pl/114/87/s1103/2], substituted “December 4, 2015,” for “November 20, 2015,”.
+    Subsec. (a)(1). [Pub. L. 114–94, § 10001(b)(1)(B)][/us/pl/114/94/s10001/b/1/B], substituted “18.673 percent” for “18.5 percent”.
 
-    [Pub. L. 114–73, § 1103(2)][/us/pl/114/73/s1103/2], substituted “November 20, 2015,” for “October 29, 2015,”.
+    Subsec. (a)(2). [Pub. L. 114–94, § 10001(b)(1)(C)][/us/pl/114/94/s10001/b/1/C], substituted “17.315 percent” for “18.5 percent”.
+
+    Subsec. (a)(3) to (5). [Pub. L. 114–94, § 10001(b)(1)(D)][/us/pl/114/94/s10001/b/1/D]–(F), added par. (3), redesignated par. (5) as (4), and struck out former pars. (3) and (4) which related to Clean Vessel Act and boating infrastructure, respectively.
+
+    Subsec. (b)(1)(A). [Pub. L. 114–94, § 10001(b)(2)(A)][/us/pl/114/94/s10001/b/2/A], substituted “for each fiscal year through fiscal year 2021, the Secretary” for “for each fiscal year ending before October 1, 2015, and for the period beginning on October 1, 2015, and ending on October 29, 2015, the Secretary”.
+
+    [Pub. L. 114–87, § 1103(2)][/us/pl/114/87/s1103/2], which directed substitution of “December 4, 2015,” for “November 20, 2015,”, could not be executed due to intervening amendment by [Pub. L. 114–94][/us/pl/114/94], effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
+
+    [Pub. L. 114–73, § 1103(2)][/us/pl/114/73/s1103/2], which directed substitution of “November 20, 2015,” for “October 29, 2015,”, could not be executed due to intervening amendment by [Pub. L. 114–94][/us/pl/114/94], effective Oct. 1, 2015. See Amendment note above and Effective Date of 2015 Amendment note below.
 
     [Pub. L. 114–41, § 1103(2)][/us/pl/114/41/s1103/2], substituted “for each fiscal year ending before October 1, 2015, and for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
     [Pub. L. 114–21, § 1103(2)][/us/pl/114/21/s1103/2], substituted “July 31, 2015,” for “May 31, 2015,”.
+
+    Subsec. (b)(2). [Pub. L. 114–94, § 10001(b)(2)(B)][/us/pl/114/94/s10001/b/2/B], (C), added par. (2) and redesignated former par. (2) as (3).
+
+    Subsec. (b)(3). [Pub. L. 114–94, § 10001(b)(2)(B)][/us/pl/114/94/s10001/b/2/B], redesignated par. (2) as (3).
+
+    Subsec. (b)(3)(A). [Pub. L. 114–94, § 10001(b)(2)(D)(i)][/us/pl/114/94/s10001/b/2/D/i], substituted “until the end of the subsequent fiscal year.” for “until the end of the fiscal year.”.
+
+    Subsec. (b)(3)(B). [Pub. L. 114–94, § 10001(b)(2)(D)(ii)][/us/pl/114/94/s10001/b/2/D/ii], substituted “under subsection (c)” for “under subsection (e)”.
+
+    Subsec. (c). [Pub. L. 114–94, § 10001(b)(3)][/us/pl/114/94/s10001/b/3], designated existing provisions as par. (1), inserted comma after “The Secretary”, substituted “activities under [section 777m(e) of this title][/us/usc/t16/s777m/e]” for “grants under [section 777m of this title][/us/usc/t16/s777m]” and “58.012 percent” for “57 percent”, and added par. (2).
+
+    Subsec. (e)(1). [Pub. L. 114–94, § 10001(b)(4)][/us/pl/114/94/s10001/b/4], substituted “those paragraphs,” for “those subsections,”.
 
     2014—Subsec. (a). [Pub. L. 113–159, § 1103(1)][/us/pl/113/159/s1103/1], inserted “and for the period beginning on October 1, 2014, and ending on May 31, 2015” after “2014” in introductory provisions.
 
@@ -281,6 +331,10 @@
 
     1970—[Pub. L. 91–503][/us/pl/91/503] changed method of apportionment of funds by striking out reference to “to all the States” and inserted definition of “fiscal year”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Termination Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–140][/us/pl/112/140] to cease to be effective on July 6, 2012, with text as amended by [Pub. L. 112–140][/us/pl/112/140] to revert back to read as it did on the day before June 29, 2012, and amendments by [Pub. L. 112–141][/us/pl/112/141] to be executed as if [Pub. L. 112–140][/us/pl/112/140] had not been enacted, see [section 1(c) of Pub. L. 112–140][/us/pl/112/140/s1/c], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -311,7 +365,7 @@
 ----------
 
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
-[/us/usc/t16/s777m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m
+[/us/usc/t16/s777m/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m%2Fe
 [/us/usc/t16/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3951
 [/us/usc/t46/s13107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13107
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
@@ -319,7 +373,10 @@
 [/us/usc/t16/s777g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777g%2Fd
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
 [/us/usc/t16/s777h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777h
-[/us/usc/t16/s777m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m
+[/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
+[/us/usc/t46/s13107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13107%2Fc
+[/us/usc/t16/s777m/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m%2Fe
+[/us/usc/t16/s777m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m%2Fa
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
 [/us/usc/t46/s13107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13107%2Fa
 [/us/act/1950-08-09/ch658/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs4
@@ -402,21 +459,40 @@
 [/us/stat/129/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F572
 [/us/pl/114/87/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1103
 [/us/stat/129/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F681
+[/us/pl/114/94/s10001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb
+[/us/stat/129/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1619
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4778
 [/us/usc/t16/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3951
 [/us/pl/102/587/s5604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5604%2Fc
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
-[/us/pl/109/59/s10113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10113%2F1
-[/us/stat/119/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1927
+[/us/pl/114/94/s10001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F1%2FA
+[/us/usc/t16/s777m/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m%2Fe
+[/us/usc/t16/s777m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m
 [/us/pl/114/87/s1103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1103%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/73/s1103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1103%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/41/s1103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1103%2F1
 [/us/pl/114/21/s1103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1103%2F1
+[/us/pl/114/94/s10001/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F1%2FB
+[/us/pl/114/94/s10001/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F1%2FC
+[/us/pl/114/94/s10001/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F1%2FD
+[/us/pl/114/94/s10001/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F2%2FA
 [/us/pl/114/87/s1103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1103%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/73/s1103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1103%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/41/s1103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1103%2F2
 [/us/pl/114/21/s1103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1103%2F2
+[/us/pl/114/94/s10001/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F2%2FB
+[/us/pl/114/94/s10001/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F2%2FB
+[/us/pl/114/94/s10001/b/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F2%2FD%2Fi
+[/us/pl/114/94/s10001/b/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F2%2FD%2Fii
+[/us/pl/114/94/s10001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F3
+[/us/usc/t16/s777m/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m%2Fe
+[/us/usc/t16/s777m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777m
+[/us/pl/114/94/s10001/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F4
 [/us/pl/113/159/s1103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1103%2F1
 [/us/pl/113/159/s1103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1103%2F2
 [/us/pl/112/141/s34002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs34002%2F1
@@ -521,6 +597,9 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

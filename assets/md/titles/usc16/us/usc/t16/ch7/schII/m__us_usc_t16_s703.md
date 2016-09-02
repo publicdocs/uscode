@@ -63,6 +63,52 @@
 
     [Act June 20, 1936, ch. 634, § 3][/us/act/1936-06-20/ch634/s3], [49 Stat. 1556][/us/stat/49/1556], provided in part that the amendment by section 3 is effective as of the day aforesaid, meaning the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded Feb. 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937. See section 1 of [act June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], [49 Stat. 1555][/us/stat/49/1555].
 
+ __Elimination of Barriers to Improve at-Risk Bridges__ 
+
+[Pub. L. 114–94, div. A, title I, § 1439][/us/pl/114/94/s1439], Dec. 4, 2015, [129 Stat. 1433][/us/stat/129/1433], provided that:
+
+>     “(a) __Temporary Authorization.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Until the Secretary of the Interior takes the action described in subsection (b), the take of nesting swallows to facilitate a construction project on a bridge eligible for funding under title 23, United States Code, with any component condition rating of 3 or less (as defined by the National Bridge Inventory General Condition Guidance issued by the Federal Highway Administration) is authorized under the Migratory Bird Treaty Act ([16 U.S.C. 703][/us/usc/t16/s703] et seq.) between April 1 and August 31.
+
+>         “(2) __Measures to minimize impacts.—__ 
+
+>             “(A)  __Notification before taking__  __.—__ 
+
+>             Prior to the taking of nesting swallows authorized under paragraph (1), any person taking that action shall submit to the Secretary of the Interior a document that contains—
+
+>                 “(i) the name of the person acting under the authority of paragraph (1) to take nesting swallows;
+
+>                 “(ii) a list of practicable measures that will be undertaken to minimize or mitigate significant adverse impacts on the population of that species;
+
+>                 “(iii) the time period during which activities will be carried out that will result in the taking of that species; and
+
+>                 “(iv) an estimate of the number of birds, by species, to be taken in the proposed action.
+
+>             “(B)  __Notification after taking__  __.—__ 
+
+>             Not later than 60 days after the taking of nesting swallows authorized under paragraph (1), any person taking that action shall submit to the Secretary of the Interior a document that contains the number of birds, by species, taken in the action.
+
+>     “(b) __Authorization of Take.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of the Interior, in consultation with the Secretary \[of Transportation\], shall promulgate a regulation under the authority of section 3 of the Migratory Bird Treaty Act ([16 U.S.C. 704][/us/usc/t16/s704]) authorizing the take of nesting swallows to facilitate bridge repair, maintenance, or construction—
+
+>             “(A) without individual permit requirements; and
+
+>             “(B) under terms and conditions determined to be consistent with treaties relating to migratory birds that protect swallow species occurring in the United States.
+
+>         “(2)  __Termination__  __.—__ 
+
+>         On the effective date of a final rule under this subsection by the Secretary of the Interior, subsection (a) shall have no force or effect.
+
+>     “(c)  __Suspension or Withdrawal of Take Authorization__  __.—__ 
+
+>     If the Secretary of the Interior, in consultation with the Secretary \[of Transportation\], determines that taking of nesting swallows carried out under the authority provided in subsection (a)(1) is having a significant adverse impact on swallow populations, the Secretary of the Interior may suspend that authority through publication in the Federal Register.”
+
  __Publication of List__ 
 
 [Pub. L. 108–447, div. E, title I, § 143(c)][/us/pl/108/447/s143/c], Dec. 8, 2004, [118 Stat. 3072][/us/stat/118/3072], provided that:
@@ -306,6 +352,10 @@
 [/us/stat/49/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1556
 [/us/act/1936-06-20/ch634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634
 [/us/stat/49/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1555
+[/us/pl/114/94/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1439
+[/us/stat/129/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1433
+[/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
+[/us/usc/t16/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs704
 [/us/pl/108/447/s143/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs143%2Fc
 [/us/stat/118/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3072
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703

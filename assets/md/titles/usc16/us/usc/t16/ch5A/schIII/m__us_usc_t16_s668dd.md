@@ -383,6 +383,12 @@
 
 > “The amendments made by the first section of this Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment \[July 18, 1968\].”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–101, § 1][/us/pl/114/101/s1], Dec. 18, 2015, [129 Stat. 2203][/us/stat/129/2203], provided that: 
+
+> “This Act \[enacting provisions listed in a table of National Memorials set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs, and amending provisions listed in a table of National Wildlife Refuges set out under this section\] may be cited as the ‘Billy Frank Jr. Tell Your Story Act’.”
+
  __Short Title of 1998 Amendment__ 
 
 [Pub. L. 105–312, title II, § 201][/us/pl/105/312/s201], Oct. 30, 1998, [112 Stat. 2957][/us/stat/112/2957], provided that: 
@@ -873,6 +879,14 @@ Becharof National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 3
 
     <td> 
 
+Billy Frank Jr. Nisqually National Wildlife Refuge (former Nisqually National Wildlife Refuge), Washington.—Pub. L. 113–76, div. G, title I, § 126, Jan. 17, 2014, 128 Stat. 315; Pub. L. 114–101, § 2, Dec. 18, 2015, 129 Stat. 2203.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Bitter Lake National Wildlife Refuge, New Mexico.—Pub. L. 108–7, div. F, title I, § 139, Feb. 20, 2003, 117 Stat. 244.  </td>
 
   </tr>
@@ -1225,7 +1239,7 @@ Ninigret National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, �
 
     <td> 
 
-Nisqually National Wildlife Refuge, Washington.—Pub. L. 113–76, div. G, title I, § 126, Jan. 17, 2014, 128 Stat. 315.  </td>
+Nisqually National Wildlife Refuge, Washington (see Billy Frank Jr. Nisqually National Wildlife Refuge).  </td>
 
   </tr>
 
@@ -1728,6 +1742,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/pl/90/404/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F404%2Fs2
 [/us/stat/82/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F359
+[/us/pl/114/101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F101%2Fs1
+[/us/stat/129/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2203
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/pl/105/312/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs201
 [/us/stat/112/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2957
 [/us/usc/t25/s564w–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564w%E2%80%931

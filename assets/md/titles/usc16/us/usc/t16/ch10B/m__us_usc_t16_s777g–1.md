@@ -29,7 +29,7 @@
 
         (1) __Matching grants__ 
 
-            The Secretary of the Interior shall obligate amounts made available under [section 777c(a)(4) of this title][/us/usc/t16/s777c/a/4] to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
+            The Secretary of the Interior shall obligate amounts made available under section 777c(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
 
         (2) __Priorities__ 
 
@@ -58,6 +58,10 @@
         (3) “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 ([Pub. L. 105–178, title VII, § 7404][/us/pl/105/178/s7404], June 9, 1998, [112 Stat. 486][/us/stat/112/486]; [Pub. L. 105–206, title IX, § 9012(c)][/us/pl/105/206/s9012/c], July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 109–59, title X, § 10115][/us/pl/109/59/s10115], Aug. 10, 2005, [119 Stat. 1928][/us/stat/119/1928].)
+
+ __References in Text__ 
+
+    Paragraph (4) of section 777c(a), referred to in subsec. (d)(1), was repealed by [Pub. L. 114–94, div. A, title X, § 10001(b)(1)(D)][/us/pl/114/94/s10001/b/1/D], Dec. 4, 2015, [129 Stat. 1620][/us/stat/129/1620]. See [section 777c(a)(3)(A) of this title][/us/usc/t16/s777c/a/3/A].
 
  __Codification__ 
 
@@ -89,13 +93,15 @@
 ----------
 
 [/us/usc/t16/s777g/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777g%2Fg
-[/us/usc/t16/s777c/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fa%2F4
 [/us/pl/105/178/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7404
 [/us/stat/112/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F486
 [/us/pl/105/206/s9012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9012%2Fc
 [/us/stat/112/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F864
 [/us/pl/109/59/s10115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10115
 [/us/stat/119/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1928
+[/us/pl/114/94/s10001/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F1%2FD
+[/us/stat/129/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1620
+[/us/usc/t16/s777c/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fa%2F3%2FA
 [/us/pl/105/178/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7404
 [/us/pl/105/178/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7404
 [/us/pl/105/206/s9012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9012%2Fc

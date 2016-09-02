@@ -15,9 +15,9 @@
 
 ## § 777b. Authorization of appropriations
 
-    To carry out the provisions of this chapter for fiscal years after September 30, 1984, there are authorized to be appropriated from the Sport Fish Restoration and Boating Trust Fund established by [section 9504(a) of title 26][/us/usc/t26/s9504/a] the amounts paid, transferred, or otherwise credited to that Trust Fund, except as provided in [section 9504(c) of title 26][/us/usc/t26/s9504/c]. For purposes of the provision of the Act of August 31, 1951, which refers to this section, such amounts shall be treated as the amounts that are equal to the revenues described in this section. The appropriation made under the provisions of this section for each fiscal year shall continue available during succeeding fiscal years. So much of such appropriation apportioned to any State for any fiscal year as remains unexpended at the close thereof is authorized to be made available for expenditure in that State until the close of the succeeding fiscal year. Any amount apportioned to any State under the provisions of this chapter which is unexpended or unobligated at the end of the period during which it is available for expenditure on any project is authorized to be made available for expenditure by the Secretary of the Interior to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in [section 777c(c) of this title][/us/usc/t16/s777c/c].
+    To carry out the provisions of this chapter for fiscal years after September 30, 1984, there are authorized to be appropriated from the Sport Fish Restoration and Boating Trust Fund established by [section 9504(a) of title 26][/us/usc/t26/s9504/a] the amounts paid, transferred, or otherwise credited to that Trust Fund, except as provided in [section 9504(c) of title 26][/us/usc/t26/s9504/c]. For purposes of the provision of the Act of August 31, 1951, which refers to this section, such amounts shall be treated as the amounts that are equal to the revenues described in this section. The appropriation made under the provisions of this section for each fiscal year shall continue available during succeeding fiscal years. So much of such appropriation apportioned to any State for any fiscal year as remains unexpended at the close thereof is authorized to be made available for expenditure in that State until the close of the succeeding fiscal year. Any amount apportioned to any State under the provisions of this chapter which is unexpended or unobligated at the end of the period during which it is available for expenditure on any project is authorized to be made available for expenditure by the Secretary of the Interior to supplement the 58.012 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in [section 777c(c) of this title][/us/usc/t16/s777c/c].
 
-([Aug. 9, 1950, ch. 658, § 3][/us/act/1950-08-09/ch658/s3], [64 Stat. 431][/us/stat/64/431]; [Pub. L. 98–369, div. A, title X, § 1014(a)(2)][/us/pl/98/369/s1014/a/2], July 18, 1984, [98 Stat. 1015][/us/stat/98/1015]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 109–59, title X, § 10112(a)][/us/pl/109/59/s10112/a], (b)(1), Aug. 10, 2005, [119 Stat. 1927][/us/stat/119/1927].)
+([Aug. 9, 1950, ch. 658, § 3][/us/act/1950-08-09/ch658/s3], [64 Stat. 431][/us/stat/64/431]; [Pub. L. 98–369, div. A, title X, § 1014(a)(2)][/us/pl/98/369/s1014/a/2], July 18, 1984, [98 Stat. 1015][/us/stat/98/1015]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 109–59, title X, § 10112(a)][/us/pl/109/59/s10112/a], (b)(1), Aug. 10, 2005, [119 Stat. 1927][/us/stat/119/1927]; [Pub. L. 114–94, div. A, title X, § 10001(a)][/us/pl/114/94/s10001/a], Dec. 4, 2015, [129 Stat. 1619][/us/stat/129/1619].)
 
  __References in Text__ 
 
@@ -25,11 +25,17 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–94][/us/pl/114/94] substituted “58.012 percent” for “57 percent”.
+
     2005—[Pub. L. 109–59][/us/pl/109/59] substituted “Sport Fish Restoration and Boating Trust Fund” for “Sport Fish Restoration Account”, “that Trust Fund, except as provided in [section 9504(c) of title 26][/us/usc/t26/s9504/c]” for “that Account”, “during succeeding fiscal years” for “during the succeeding fiscal year”, and “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States, as provided for in [section 777c(c) of this title][/us/usc/t16/s777c/c]” for “in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport and recreation”.
 
     1986—[Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
     1984—[Pub. L. 98–369][/us/pl/98/369] substituted “To carry out the provisions of this chapter for fiscal years after September 30, 1984, there are authorized to be appropriated from the Sport Fish Restoration Account established by [section 9504(a) of title 26][/us/usc/t26/s9504/a] the amounts paid, transferred, or otherwise credited to that Account. For purposes of the provision of the Act of August 31, 1951, which refers to this section, such amounts shall be treated as the amounts that are equal to the revenues described in this section” for “To carry out the provisions of this chapter, there is hereby authorized to be appropriated an amount equal to the revenue accruing from tax imposed by section 3406 of the Internal Revenue Code, as heretofore of hereafter extended and amended, on fishing rods, creels, reels, and artificial lures, baits, and flies during the fiscal year ending June 30, 1951, and each fiscal year thereafter”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2005 Amendments__ 
 
@@ -75,12 +81,18 @@
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/109/59/s10112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10112%2Fa
 [/us/stat/119/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1927
+[/us/pl/114/94/s10001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fa
+[/us/stat/129/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1619
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t26/s9504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9504%2Fc
 [/us/usc/t16/s777c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fc
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s9504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9504%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/109/74/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F74%2Fs101%2Fb
 [/us/stat/119/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2030
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c

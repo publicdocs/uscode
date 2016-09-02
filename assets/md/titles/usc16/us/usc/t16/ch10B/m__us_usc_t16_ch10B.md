@@ -155,7 +155,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs777n" data-uslm-ref="/us/usc/t16/s777n">777n.</a>  </td>
 
-    <td> Expenditure of remaining balance in Boat Safety Account.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

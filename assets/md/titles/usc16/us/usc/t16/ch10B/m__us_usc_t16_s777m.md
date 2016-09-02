@@ -19,7 +19,7 @@
 
         (1) __Amount for grants__ 
 
-            Not more than $3,000,000 of each annual appropriation made in accordance with the provisions of [section 777b of this title][/us/usc/t16/s777b] shall be distributed to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
+            Not more than $3,000,000 shall be distributed to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
 
         (2) __Period of availability; apportionment__ 
 
@@ -101,7 +101,7 @@
 
     (e) __Funding for other activities__ 
 
-    Of amounts made available under [section 777c(b) of this title][/us/usc/t16/s777c/b] for each fiscal year—
+    Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of [section 777b of this title][/us/usc/t16/s777b] shall be distributed to the Secretary of the Interior for use as follows:
 
         (1)
 
@@ -113,7 +113,7 @@
 
             (C) the Pacific States Marine Fisheries Commission; and
 
-            (D) the Great Lakes Fisheries Commission; and
+            (D) the Great Lakes Fisheries Commission.
 
         (2) $400,000 shall be made available for the Sport Fishing and Boating Partnership Council established by the United States Fish and Wildlife Service.
 
@@ -121,13 +121,19 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
 
-([Aug. 9, 1950, ch. 658, § 14][/us/act/1950-08-09/ch658/s14], as added [Pub. L. 106–408, title I, § 122(a)][/us/pl/106/408/s122/a], Nov. 1, 2000, [114 Stat. 1772][/us/stat/114/1772]; amended [Pub. L. 109–59, title X, § 10118][/us/pl/109/59/s10118], Aug. 10, 2005, [119 Stat. 1929][/us/stat/119/1929]; [Pub. L. 109–241, title IX, § 901(r)(2)][/us/pl/109/241/s901/r/2], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 111–281, title IX, § 903(a)(3)][/us/pl/111/281/s903/a/3], Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010].)
+([Aug. 9, 1950, ch. 658, § 14][/us/act/1950-08-09/ch658/s14], as added [Pub. L. 106–408, title I, § 122(a)][/us/pl/106/408/s122/a], Nov. 1, 2000, [114 Stat. 1772][/us/stat/114/1772]; amended [Pub. L. 109–59, title X, § 10118][/us/pl/109/59/s10118], Aug. 10, 2005, [119 Stat. 1929][/us/stat/119/1929]; [Pub. L. 109–241, title IX, § 901(r)(2)][/us/pl/109/241/s901/r/2], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 111–281, title IX, § 903(a)(3)][/us/pl/111/281/s903/a/3], Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010]; [Pub. L. 114–94, div. A, title X, § 10001(f)][/us/pl/114/94/s10001/f], Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621].)
 
  __References in Text__ 
 
     The Federal Advisory Committee Act, referred to in subsec. (f), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 10001(f)(1)][/us/pl/114/94/s10001/f/1], struck out “of each annual appropriation made in accordance with the provisions of [section 777b of this title][/us/usc/t16/s777b]” after “$3,000,000”.
+
+    Subsec. (e). [Pub. L. 114–94, § 10001(f)(2)(A)][/us/pl/114/94/s10001/f/2/A], substituted “Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of [section 777b of this title][/us/usc/t16/s777b] shall be distributed to the Secretary of the Interior for use as follows:” for “Of amounts made available under [section 777c(b) of this title][/us/usc/t16/s777c/b] for each fiscal year—”.
+
+    Subsec. (e)(1)(D). [Pub. L. 114–94, § 10001(f)(2)(B)][/us/pl/114/94/s10001/f/2/B], substituted a period for “; and”.
 
     2010—Subsec. (a)(1). [Pub. L. 111–281][/us/pl/111/281] made technical correction to directory language of [Pub. L. 109–241, § 901(r)(2)][/us/pl/109/241/s901/r/2]. See 2006 Amendment note below.
 
@@ -138,6 +144,10 @@
     Subsec. (a)(2)(B). [Pub. L. 109–59, § 10118(2)][/us/pl/109/59/s10118/2], substituted “section 777c(c)” for “section 777c(e)” in two places.
 
     Subsec. (e). [Pub. L. 109–59, § 10118(3)][/us/pl/109/59/s10118/3], added introductory provisions and struck out former introductory provisions which read as follows: “Of the balance of each annual appropriation made under [section 777b of this title][/us/usc/t16/s777b] remaining after the distribution and use under subsections (a), (b), and (c) of [section 777c of this title][/us/usc/t16/s777c] for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -156,10 +166,9 @@
 ----------
 ----------
 
+[/us/usc/t16/s777c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fc
+[/us/usc/t16/s777c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fc
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
-[/us/usc/t16/s777c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fc
-[/us/usc/t16/s777c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fc
-[/us/usc/t16/s777c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fb
 [/us/act/1950-08-09/ch658/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs14
 [/us/pl/106/408/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs122%2Fa
 [/us/stat/114/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1772
@@ -169,8 +178,16 @@
 [/us/stat/120/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F566
 [/us/pl/111/281/s903/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F3
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
+[/us/pl/114/94/s10001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Ff
+[/us/stat/129/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1621
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
+[/us/pl/114/94/s10001/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Ff%2F1
+[/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
+[/us/pl/114/94/s10001/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Ff%2F2%2FA
+[/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
+[/us/usc/t16/s777c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fb
+[/us/pl/114/94/s10001/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Ff%2F2%2FB
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/241/s901/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fr%2F2
 [/us/pl/109/241/s901/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fr%2F2
@@ -182,6 +199,9 @@
 [/us/pl/109/59/s10118/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10118%2F3
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/111/281/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241

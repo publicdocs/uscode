@@ -33,17 +33,23 @@
 
     (d) __Agreements to finance initial costs of acquisition of lands and construction of structures__ 
 
-        The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities for  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “from”. </sup></sup>  appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
+        The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities from appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
-([Aug. 9, 1950, ch. 658, § 6][/us/act/1950-08-09/ch658/s6], [64 Stat. 432][/us/stat/64/432]; [Pub. L. 91–503, title II, § 202][/us/pl/91/503/s202], Oct. 23, 1970, [84 Stat. 1102][/us/stat/84/1102]; [Pub. L. 98–369, div. A, title X, § 1014(a)(5)][/us/pl/98/369/s1014/a/5], July 18, 1984, [98 Stat. 1016][/us/stat/98/1016].)
+([Aug. 9, 1950, ch. 658, § 6][/us/act/1950-08-09/ch658/s6], [64 Stat. 432][/us/stat/64/432]; [Pub. L. 91–503, title II, § 202][/us/pl/91/503/s202], Oct. 23, 1970, [84 Stat. 1102][/us/stat/84/1102]; [Pub. L. 98–369, div. A, title X, § 1014(a)(5)][/us/pl/98/369/s1014/a/5], July 18, 1984, [98 Stat. 1016][/us/stat/98/1016]; [Pub. L. 114–94, div. A, title X, § 10001(c)][/us/pl/114/94/s10001/c], Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621].)
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–94][/us/pl/114/94] substituted “from appropriations” for “for appropriations”.
 
     1984—Subsec. (d). [Pub. L. 98–369][/us/pl/98/369] added subsec. (d).
 
     1970—Subsec. (a). [Pub. L. 91–503][/us/pl/91/503] added an alternative method of application for funds by submission of a comprehensive fish and wildlife resource management plan for a period of five years based on projections for fifteen years, to be updated every three years, laid down a maximum limit of assistance of 75 percent of the estimated cost of the implementation of plan, and in existing method of application struck out reference to Secretary of the Treasury and requirement that State pay 10 percent of costs.
 
     Subsecs. (b), (c). [Pub. L. 91–503][/us/pl/91/503] added subsecs. (b) and (c).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -66,9 +72,15 @@
 [/us/stat/84/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1102
 [/us/pl/98/369/s1014/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1014%2Fa%2F5
 [/us/stat/98/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1016
+[/us/pl/114/94/s10001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fc
+[/us/stat/129/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1621
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s1014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1014%2Fb
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777

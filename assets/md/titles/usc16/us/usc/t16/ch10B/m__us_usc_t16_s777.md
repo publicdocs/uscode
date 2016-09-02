@@ -97,7 +97,7 @@
 
  __Short Title__ 
 
-[Act Aug. 9, 1950, ch. 658, § 16][/us/act/1950-08-09/ch658/s16], formerly § 15, as added by [Pub. L. 106–408, title I, § 101(c)][/us/pl/106/408/s101/c], Nov. 1, 2000, [114 Stat. 1763][/us/stat/114/1763]; renumbered § 16, [Pub. L. 109–59, title X, § 10119][/us/pl/109/59/s10119], Aug. 10, 2005, [119 Stat. 1929][/us/stat/119/1929], provided that: 
+[Act Aug. 9, 1950, ch. 658, § 15][/us/act/1950-08-09/ch658/s15], formerly § 16, formerly § 15, as added by [Pub. L. 106–408, title I, § 101(c)][/us/pl/106/408/s101/c], Nov. 1, 2000, [114 Stat. 1763][/us/stat/114/1763]; renumbered § 16, [Pub. L. 109–59, title X, § 10119][/us/pl/109/59/s10119], Aug. 10, 2005, [119 Stat. 1929][/us/stat/119/1929]; renumbered § 15, [Pub. L. 114–94, div. A, title X, § 10001(g)(2)][/us/pl/114/94/s10001/g/2], Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
 
@@ -378,11 +378,13 @@
 [/us/usc/t16/s777g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777g%E2%80%931
 [/us/pl/91/503/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2Fs204
 [/us/stat/84/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1104
-[/us/act/1950-08-09/ch658/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs16
+[/us/act/1950-08-09/ch658/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs15
 [/us/pl/106/408/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs101%2Fc
 [/us/stat/114/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1763
 [/us/pl/109/59/s10119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10119
 [/us/stat/119/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1929
+[/us/pl/114/94/s10001/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fg%2F2
+[/us/stat/129/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1621
 [/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/pl/106/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F502

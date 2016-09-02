@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch12/schII/m__us_usc_t16_s824o.md) | [Next](./../../../../..//us/usc/t16/ch12/schII/m__us_usc_t16_s824q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824p)
+[Previous](./../../../../..//us/usc/t16/ch12/schII/m__us_usc_t16_s824o–1.md) | [Next](./../../../../..//us/usc/t16/ch12/schII/m__us_usc_t16_s824q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824p)
 
 ## § 824p. Siting of interstate electric transmission facilities
 
@@ -259,7 +259,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch12/schII/m__us_usc_t16_s824o.md) | [Next](./../../../../..//us/usc/t16/ch12/schII/m__us_usc_t16_s824q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824p)
+[Previous](./../../../../..//us/usc/t16/ch12/schII/m__us_usc_t16_s824o–1.md) | [Next](./../../../../..//us/usc/t16/ch12/schII/m__us_usc_t16_s824q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824p)
 
 ----------
 ----------

@@ -537,6 +537,14 @@ SUBCHAPTER II—REGULATION OF ELECTRIC UTILITY COMPANIES ENGAGED IN INTERSTATE C
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs824" data-uslm-ref="/us/usc/t16/s824">824</a>o–1.  </td>
+
+    <td> Critical electric infrastructure security.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs824p" data-uslm-ref="/us/usc/t16/s824p">824p.</a>  </td>
 
     <td> Siting of interstate electric transmission facilities.  </td>

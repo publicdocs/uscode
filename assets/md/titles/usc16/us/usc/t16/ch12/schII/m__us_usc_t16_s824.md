@@ -23,7 +23,7 @@
 
         (1) The provisions of this subchapter shall apply to the transmission of electric energy in interstate commerce and to the sale of electric energy at wholesale in interstate commerce, but except as provided in paragraph (2) shall not apply to any other sale of electric energy or deprive a State or State commission of its lawful authority now exercised over the exportation of hydroelectric energy which is transmitted across a State line. The Commission shall have jurisdiction over all facilities for such transmission or sale of electric energy, but shall not have jurisdiction, except as specifically provided in this subchapter and subchapter III of this chapter, over facilities used for the generation of electric energy or over facilities used in local distribution or only for the transmission of electric energy in intrastate commerce, or over facilities for the transmission of electric energy consumed wholly by the transmitter.
 
-        (2) Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title shall apply to the entities described in such provisions, and such entities shall be subject to the jurisdiction of the Commission for purposes of carrying out such provisions and for purposes of applying the enforcement authorities of this chapter with respect to such provisions. Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title, shall not make an electric utility or other entity subject to the jurisdiction of the Commission for any purposes other than the purposes specified in the preceding sentence.
+        (2) Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824o–1, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title shall apply to the entities described in such provisions, and such entities shall be subject to the jurisdiction of the Commission for purposes of carrying out such provisions and for purposes of applying the enforcement authorities of this chapter with respect to such provisions. Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824o–1, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title, shall not make an electric utility or other entity subject to the jurisdiction of the Commission for any purposes other than the purposes specified in the preceding sentence.
 
     (c) __Electric energy in interstate commerce__ 
 
@@ -35,7 +35,7 @@
 
     (e) __“Public utility” defined__ 
 
-        The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824e(e), 824e(f), <sup>\[1\]</sup>  <sup><sup> 1 So in original. [Section 824e of this title][/us/usc/t16/s824e] does not contain a subsec. (f). </sup></sup>  824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title).
+        The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824e(e), 824e(f), <sup>\[1\]</sup>  <sup><sup> 1 So in original. [Section 824e of this title][/us/usc/t16/s824e] does not contain a subsec. (f). </sup></sup>  824i, 824j, 824j–1, 824k, 824o, 824o–1, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title).
 
     (f) __United States, State, political subdivision of a State, or agency or instrumentality thereof exempt__ 
 
@@ -69,7 +69,7 @@
 
         (5) As used in this subsection the terms “affiliate”, “associate company”, “electric utility company”, “holding company”, “subsidiary company”, and “exempt wholesale generator” shall have the same meaning as when used in the Public Utility Holding Company Act of 2005 \[[42 U.S.C. 16451][/us/usc/t42/s16451] et seq.\].
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 201, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 847][/us/stat/49/847]; amended [Pub. L. 95–617, title II, § 204(b)][/us/pl/95/617/s204/b], Nov. 9, 1978, [92 Stat. 3140][/us/stat/92/3140]; [Pub. L. 102–486, title VII, § 714][/us/pl/102/486/s714], Oct. 24, 1992, [106 Stat. 2911][/us/stat/106/2911]; [Pub. L. 109–58, title XII][/us/pl/109/58], §§ 1277(b)(1), 1291(c), 1295(a), Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978], 985.)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 201, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 847][/us/stat/49/847]; amended [Pub. L. 95–617, title II, § 204(b)][/us/pl/95/617/s204/b], Nov. 9, 1978, [92 Stat. 3140][/us/stat/92/3140]; [Pub. L. 102–486, title VII, § 714][/us/pl/102/486/s714], Oct. 24, 1992, [106 Stat. 2911][/us/stat/106/2911]; [Pub. L. 109–58, title XII][/us/pl/109/58], §§ 1277(b)(1), 1291(c), 1295(a), Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978], 985; [Pub. L. 114–94, div. F, § 61003(b)][/us/pl/114/94/s61003/b], Dec. 4, 2015, [129 Stat. 1778][/us/stat/129/1778].)
 
  __References in Text__ 
 
@@ -78,6 +78,10 @@
     The Public Utility Holding Company Act of 2005, referred to in subsec. (g)(5), is subtitle F of title XII of [Pub. L. 109–58][/us/pl/109/58], Aug. 8, 2005, [119 Stat. 972][/us/stat/119/972], which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of Title 42][/us/usc/t42/s15801] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–94, § 61003(b)(1)][/us/pl/114/94/s61003/b/1], inserted “824o–1,” after “824o,” in two places.
+
+    Subsec. (e). [Pub. L. 114–94, § 61003(b)(2)][/us/pl/114/94/s61003/b/2], inserted “824o–1,” after “824o,”.
 
     2005—Subsec. (b)(2). [Pub. L. 109–58, § 1295(a)(1)][/us/pl/109/58/s1295/a/1], substituted “Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
 
@@ -132,12 +136,16 @@
 [/us/stat/106/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2911
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F978
+[/us/pl/114/94/s61003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fb
+[/us/stat/129/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1778
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F972
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
+[/us/pl/114/94/s61003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fb%2F1
+[/us/pl/114/94/s61003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fb%2F2
 [/us/pl/109/58/s1295/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fa%2F1
 [/us/pl/109/58/s1295/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fa%2F2
 [/us/pl/109/58/s1291/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1291%2Fc
