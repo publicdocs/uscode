@@ -17,7 +17,7 @@
 
     In determining the meaning of any Act of Congress, or of any ruling, regulation, or interpretation of the various administrative bureaus and agencies of the United States, the word “marriage” means only a legal union between one man and one woman as husband and wife, and the word “spouse” refers only to a person of the opposite sex who is a husband or a wife.
 
-(Added [Pub. L. 104–199, § 3(a)][/us/pl/104/199/s3/a], Sept. 21, 1996, [110 Stat. 2419][/us/stat/110/2419].)
+(Added [Pub. L. 104–199][/us/pl/104/199], § 3(a), Sept. 21, 1996, [110 Stat. 2419][/us/stat/110/2419].)
 
  __Constitutionality__ 
 
@@ -30,7 +30,7 @@ For information regarding constitutionality of this section, as added by [sectio
 ----------
 ----------
 
-[/us/pl/104/199/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199%2Fs3%2Fa
+[/us/pl/104/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199
 [/us/stat/110/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2419
 [/us/pl/104/199/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199%2Fs3%2Fa
 

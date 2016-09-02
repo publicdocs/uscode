@@ -51,7 +51,7 @@
 
     (f) The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
-(Added [Pub. L. 92–403, § 1][/us/pl/92/403/s1], Aug. 22, 1972, [86 Stat. 619][/us/stat/86/619]; amended [Pub. L. 95–45, § 5][/us/pl/95/45/s5], June 15, 1977, [91 Stat. 224][/us/stat/91/224]; [Pub. L. 95–426, title VII, § 708][/us/pl/95/426/s708], Oct. 7, 1978, [92 Stat. 993][/us/stat/92/993]; [Pub. L. 103–437, § 1][/us/pl/103/437/s1], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 108–458, title VII, § 7121(b)][/us/pl/108/458/s7121/b]–(d), Dec. 17, 2004, [118 Stat. 3807][/us/stat/118/3807], 3808.)
+(Added [Pub. L. 92–403][/us/pl/92/403], § 1, Aug. 22, 1972, [86 Stat. 619][/us/stat/86/619]; amended [Pub. L. 95–45][/us/pl/95/45], § 5, June 15, 1977, [91 Stat. 224][/us/stat/91/224]; [Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 708, Oct. 7, 1978, [92 Stat. 993][/us/stat/92/993]; [Pub. L. 103–437][/us/pl/103/437], § 1, Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7121(b)–(d), Dec. 17, 2004, [118 Stat. 3807][/us/stat/118/3807], 3808.)
 
  __References in Text__ 
 
@@ -59,15 +59,15 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–458, § 7121(b)][/us/pl/108/458/s7121/b], substituted “Committee on International Relations” for “Committee on Foreign Affairs”.
+    2004—Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 7121(b), substituted “Committee on International Relations” for “Committee on Foreign Affairs”.
 
-    Subsec. (d). [Pub. L. 108–458, § 7121(c)][/us/pl/108/458/s7121/c], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 108–458][/us/pl/108/458], § 7121(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 108–458, § 7121(d)][/us/pl/108/458/s7121/d], designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Secretary of State” for “The Secretary of State”, and added par. (2).
+    Subsec. (e). [Pub. L. 108–458][/us/pl/108/458], § 7121(d), designated existing provisions as par. (1), substituted “Subject to paragraph (2), the Secretary of State” for “The Secretary of State”, and added par. (2).
 
-    [Pub. L. 108–458, § 7121(c)(1)][/us/pl/108/458/s7121/c/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 108–458][/us/pl/108/458], § 7121(c)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 108–458, § 7121(c)(1)][/us/pl/108/458/s7121/c/1], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 108–458][/us/pl/108/458], § 7121(c)(1), redesignated subsec. (e) as (f).
 
     1994—Subsec. (a). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
@@ -89,7 +89,7 @@
 
  __Enforcement__ 
 
-[Pub. L. 100–204, title I, § 139][/us/pl/100/204/s139], Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347], as amended by [Pub. L. 108–458, title VII, § 7121(e)][/us/pl/108/458/s7121/e], Dec. 17, 2004, [118 Stat. 3808][/us/stat/118/3808], provided that:
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 139, Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347], as amended by [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7121(e), Dec. 17, 2004, [118 Stat. 3808][/us/stat/118/3808], provided that:
 
 >     “(a)  __Restriction on Use of Funds__  __.—__ 
 
@@ -108,30 +108,30 @@
 
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
-[/us/pl/92/403/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F403%2Fs1
+[/us/pl/92/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F403
 [/us/stat/86/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F619
-[/us/pl/95/45/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45%2Fs5
+[/us/pl/95/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45
 [/us/stat/91/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F224
-[/us/pl/95/426/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs708
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F993
-[/us/pl/103/437/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
-[/us/pl/108/458/s7121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fb
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3807
 [/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
-[/us/pl/108/458/s7121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fb
-[/us/pl/108/458/s7121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fc
-[/us/pl/108/458/s7121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fd
-[/us/pl/108/458/s7121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fc%2F1
-[/us/pl/108/458/s7121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fc%2F1
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
 [/us/pl/95/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/100/204/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs139
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1347
-[/us/pl/108/458/s7121/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fe
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3808
 [/us/usc/t1/s112b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112b
 

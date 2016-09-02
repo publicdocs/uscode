@@ -17,7 +17,7 @@
 
     The Director of the Government Publishing Office is directed to print, in addition to the number provided by existing law, and, as soon as printed, to distribute in such manner as the Committee on the Judiciary of the House of Representatives shall determine, twenty copies in slip form of each public Act and joint resolution.
 
-([July 30, 1947, ch. 388][/us/act/1947-07-30/ch388], [61 Stat. 639][/us/stat/61/639]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([July 30, 1947, ch. 388][/us/act/1947-07-30/ch388], [61 Stat. 639][/us/stat/61/639]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Change of Name__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1947-07-30/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch388
 [/us/stat/61/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F639
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301

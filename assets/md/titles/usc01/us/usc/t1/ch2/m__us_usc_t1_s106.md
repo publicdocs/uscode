@@ -21,7 +21,7 @@
 
  __Reference to OBRA; Effective Date; Ratification of Enrollment Corrections and Printed Enrollment__ 
 
-[Pub. L. 100–360, title IV, § 411(a)][/us/pl/100/360/s411/a], July 1, 1988, [102 Stat. 768][/us/stat/102/768], provided that:
+[Pub. L. 100–360, title IV][/us/pl/100/360/tIV], § 411(a), July 1, 1988, [102 Stat. 768][/us/stat/102/768], provided that:
 
 >     “(1)  __Reference__  __.—__ 
 
@@ -35,7 +35,7 @@
 
 >         “(A)  __In general__  __.—__ 
 
->         Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[[Pub. L. 100–203, title IV][/us/pl/100/203], Dec. 22, 1987, [101 Stat. 1330–39][/us/stat/101/1330-39]\], as prepared and printed under section 8004 of OBRA \[[section 8004 of Pub. L. 100–203][/us/pl/100/203/s8004], set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
+>         Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[[Pub. L. 100–203, title IV][/us/pl/100/203/tIV], Dec. 22, 1987, [101 Stat. 1330–39][/us/stat/101/1330-39]\], as prepared and printed under section 8004 of OBRA \[[section 8004 of Pub. L. 100–203][/us/pl/100/203/s8004], set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
 
 >         “(B)  __Footnote corrections__  __.—__ 
 
@@ -89,7 +89,7 @@
 
 > “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 3019 \[[Pub. L. 104–134][/us/pl/104/134], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321]\] and the enrollment of H.R. 3136 \[[Pub. L. 104–121][/us/pl/104/121], Mar. 29, 1996, [110 Stat. 847][/us/stat/110/847]\], each of the One Hundred Fourth Congress. The enrollment of either such bill shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
-[Pub. L. 104–56, title II][/us/pl/104/56], §§ 201, 202, Nov. 20, 1995, [109 Stat. 553][/us/stat/109/553], provided that:
+[Pub. L. 104–56, title II][/us/pl/104/56/tII], §§ 201, 202, Nov. 20, 1995, [109 Stat. 553][/us/stat/109/553], provided that:
 
 > “SEC. 201. __WAIVER OF REQUIREMENT FOR PARCHMENT PRINTING.__ 
 
@@ -123,7 +123,7 @@
 
 >     The term ‘reconciliation bill’ means a bill that is a reconciliation bill within the meaning of section 310 of the Congressional Budget Act of 1974 \[[2 U.S.C. 641][/us/usc/t2/s641]\].”
 
-    Identical provisions were contained in [Pub. L. 104–54, title II][/us/pl/104/54], §§ 201, 202, Nov. 19, 1995, [109 Stat. 545][/us/stat/109/545].
+    Identical provisions were contained in [Pub. L. 104–54, title II][/us/pl/104/54/tII], §§ 201, 202, Nov. 19, 1995, [109 Stat. 545][/us/stat/109/545].
 
 [Pub. L. 102–387][/us/pl/102/387], Oct. 6, 1992, [106 Stat. 1519][/us/stat/106/1519], provided: 
 
@@ -279,7 +279,7 @@
 
 >     As used in this section, the term ‘hand enrollment’ means the enrollment, as authorized by section 1, of a bill for presentment to the President in a form other than the printed form required by sections 106 and 107 of title 1, United States Code.”
 
-[Pub. L. 100–203, title VIII, § 8004][/us/pl/100/203/s8004], Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282], provided that:
+[Pub. L. 100–203, title VIII][/us/pl/100/203/tVIII], § 8004, Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282], provided that:
 
 >     “(a)  __Preparation of Printed Enrollment__  __.—__ 
 
@@ -303,7 +303,7 @@
 
 >     As used in this section, the term ‘hand enrollment’ means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[[Pub. L. 100–199][/us/pl/100/199], Dec. 21, 1987, [101 Stat. 1326][/us/stat/101/1326]\].”
 
-[Pub. L. 100–202, § 101(n)][/us/pl/100/202/s101/n], Dec. 22, 1987, [101 Stat. 1329–432][/us/stat/101/1329-432], provided that:
+[Pub. L. 100–202][/us/pl/100/202], § 101(n), Dec. 22, 1987, [101 Stat. 1329–432][/us/stat/101/1329-432], provided that:
 
 >     “(1) Upon the enactment of this resolution enrolled as a hand enrollment, the Clerk of the House of Representatives shall prepare a printed enrollment of this resolution as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply. Such enrollment shall be a correct enrollment of this resolution as enrolled in the hand enrollment.
 
@@ -364,12 +364,12 @@
 
 [/us/act/1947-07-30/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch388
 [/us/stat/61/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F634
-[/us/pl/100/360/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fa
+[/us/pl/100/360/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtIV
 [/us/stat/102/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F768
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/stat/101/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIV
 [/us/stat/101/1330-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-39
 [/us/pl/100/203/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs8004
 [/us/stat/101/1330-81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-81
@@ -399,11 +399,11 @@
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/stat/110/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F847
-[/us/pl/104/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F56
+[/us/pl/104/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F56%2FtII
 [/us/stat/109/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F553
 [/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
 [/us/usc/t2/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641
-[/us/pl/104/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F54
+[/us/pl/104/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F54%2FtII
 [/us/stat/109/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F545
 [/us/pl/102/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F387
 [/us/stat/106/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1519
@@ -420,12 +420,12 @@
 [/us/pl/100/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F454
 [/us/stat/102/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1914
 [/us/usc/t1/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112
-[/us/pl/100/203/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs8004
+[/us/pl/100/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtVIII
 [/us/stat/101/1330-282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-282
 [/us/usc/t1/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112
 [/us/pl/100/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F199
 [/us/stat/101/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1326
-[/us/pl/100/202/s101/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fn
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-432
 [/us/usc/t1/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112
 [/us/pl/100/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F199

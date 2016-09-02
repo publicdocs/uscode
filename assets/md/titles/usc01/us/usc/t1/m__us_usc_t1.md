@@ -15,9 +15,9 @@
 
 # Title 1—GENERAL PROVISIONS
 
-This title was enacted by [act July 30, 1947, ch. 388, § 1][/us/act/1947-07-30/ch388/s1], [61 Stat. 633][/us/stat/61/633]
+This title was enacted by [act July 30, 1947, ch. 388][/us/act/1947-07-30/ch388], § 1, [61 Stat. 633][/us/stat/61/633]
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 
@@ -800,7 +800,7 @@ Rep.  </td>
 ----------
 ----------
 
-[/us/act/1947-07-30/ch388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch388%2Fs1
+[/us/act/1947-07-30/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch388
 [/us/stat/61/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F633
 [/us/act/1947-07-30/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch388
 [/us/stat/61/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F633

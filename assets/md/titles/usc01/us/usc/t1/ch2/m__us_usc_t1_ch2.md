@@ -171,13 +171,13 @@
 
  __Amendments__ 
 
-    1972—[Pub. L. 92–403, § 2][/us/pl/92/403/s2], Aug. 22, 1972, [86 Stat. 619][/us/stat/86/619], added item 112b.
+    1972—[Pub. L. 92–403][/us/pl/92/403], § 2, Aug. 22, 1972, [86 Stat. 619][/us/stat/86/619], added item 112b.
 
-    1966—[Pub. L. 89–497, § 2][/us/pl/89/497/s2], July 8, 1966, [80 Stat. 271][/us/stat/80/271], inserted “slip laws; Treaties and Other International Acts Series;” in item 113.
+    1966—[Pub. L. 89–497][/us/pl/89/497], § 2, July 8, 1966, [80 Stat. 271][/us/stat/80/271], inserted “slip laws; Treaties and Other International Acts Series;” in item 113.
 
-    1951—[Act Oct. 31, 1951, ch. 655, § 2(a)][/us/act/1951-10-31/ch655/s2/a], [65 Stat. 710][/us/stat/65/710], added items 106a and 106b.
+    1951—[Act Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 2(a), [65 Stat. 710][/us/stat/65/710], added items 106a and 106b.
 
-    1950—[Act Sept. 23, 1950, ch. 1001, § 3][/us/act/1950-09-23/ch1001/s3], [64 Stat. 980][/us/stat/64/980], added item 112a.
+    1950—[Act Sept. 23, 1950, ch. 1001][/us/act/1950-09-23/ch1001], § 3, [64 Stat. 980][/us/stat/64/980], added item 112a.
 
 ----------
 
@@ -186,13 +186,13 @@
 ----------
 ----------
 
-[/us/pl/92/403/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F403%2Fs2
+[/us/pl/92/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F403
 [/us/stat/86/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F619
-[/us/pl/89/497/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F497%2Fs2
+[/us/pl/89/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F497
 [/us/stat/80/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F271
-[/us/act/1951-10-31/ch655/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs2%2Fa
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F710
-[/us/act/1950-09-23/ch1001/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1001%2Fs3
+[/us/act/1950-09-23/ch1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1001
 [/us/stat/64/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F980
 
 

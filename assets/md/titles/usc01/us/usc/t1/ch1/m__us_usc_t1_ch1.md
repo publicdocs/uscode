@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–207, § 2(b)][/us/pl/107/207/s2/b], Aug. 5, 2002, [116 Stat. 926][/us/stat/116/926], added item 8.
+    2002—[Pub. L. 107–207][/us/pl/107/207], § 2(b), Aug. 5, 2002, [116 Stat. 926][/us/stat/116/926], added item 8.
 
-    1996—[Pub. L. 104–199, § 3(b)][/us/pl/104/199/s3/b], Sept. 21, 1996, [110 Stat. 2420][/us/stat/110/2420], added item 7.
+    1996—[Pub. L. 104–199][/us/pl/104/199], § 3(b), Sept. 21, 1996, [110 Stat. 2420][/us/stat/110/2420], added item 7.
 
 ----------
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/107/207/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F207%2Fs2%2Fb
+[/us/pl/107/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F207
 [/us/stat/116/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F926
-[/us/pl/104/199/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199%2Fs3%2Fb
+[/us/pl/104/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199
 [/us/stat/110/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2420
 
 

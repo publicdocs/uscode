@@ -21,7 +21,7 @@
 
     (c) Nothing in this section shall be construed to affirm, deny, expand, or contract any legal status or legal right applicable to any member of the species homo sapiens at any point prior to being “born alive” as defined in this section.
 
-(Added [Pub. L. 107–207, § 2(a)][/us/pl/107/207/s2/a], Aug. 5, 2002, [116 Stat. 926][/us/stat/116/926].)
+(Added [Pub. L. 107–207][/us/pl/107/207], § 2(a), Aug. 5, 2002, [116 Stat. 926][/us/stat/116/926].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/207/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F207%2Fs2%2Fa
+[/us/pl/107/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F207
 [/us/stat/116/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F926
 
 

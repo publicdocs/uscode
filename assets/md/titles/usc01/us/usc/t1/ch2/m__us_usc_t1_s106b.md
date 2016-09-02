@@ -17,7 +17,7 @@
 
     Whenever official notice is received at the National Archives and Records Administration that any amendment proposed to the Constitution of the United States has been adopted, according to the provisions of the Constitution, the Archivist of the United States shall forthwith cause the amendment to be published, with his certificate, specifying the States by which the same may have been adopted, and that the same has become valid, to all intents and purposes, as a part of the Constitution of the United States.
 
-(Added [Oct. 31, 1951, ch. 655, § 2(b)][/us/act/1951-10-31/ch655/s2/b], [65 Stat. 710][/us/stat/65/710]; amended [Pub. L. 98–497, title I, § 107(d)][/us/pl/98/497/s107/d], Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 2(b), [65 Stat. 710][/us/stat/65/710]; amended [Pub. L. 98–497, title I][/us/pl/98/497/tI], § 107(d), Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch655/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs2%2Fb
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F710
-[/us/pl/98/497/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fd
+[/us/pl/98/497/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2FtI
 [/us/stat/98/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2291
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
