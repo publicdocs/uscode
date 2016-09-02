@@ -41,9 +41,9 @@
 
         (1) refunds to the limit of liability of an individual tax account; and
 
-        (2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), 6428, or 6431, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
+        (2) refunds due from credit provisions of the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), or 6431 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 923][/us/stat/96/923]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 105–34, title I, § 101(d)(1)][/us/pl/105/34/s101/d/1], Aug. 5, 1997, [111 Stat. 799][/us/stat/111/799]; [Pub. L. 107–210, div. A, title II, § 201(c)(1)][/us/pl/107/210/s201/c/1], Aug. 6, 2002, [116 Stat. 960][/us/stat/116/960]; [Pub. L. 109–432, div. A, title IV, § 402(b)(2)][/us/pl/109/432/s402/b/2], Dec. 20, 2006, [120 Stat. 2954][/us/stat/120/2954]; [Pub. L. 110–185, title I, § 101(f)(1)][/us/pl/110/185/s101/f/1], Feb. 13, 2008, [122 Stat. 617][/us/stat/122/617]; [Pub. L. 110–234, title XV, § 15316(c)(6)][/us/pl/110/234/s15316/c/6], May 22, 2008, [122 Stat. 1511][/us/stat/122/1511]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(c)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2273; [Pub. L. 110–289, div. C, title I, § 3011(b)(3)][/us/pl/110/289/s3011/b/3], title III, § 3081(c), July 30, 2008, [122 Stat. 2891][/us/stat/122/2891], 2906; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1001(e)(2), 1004(b)(8), 1531(c)(1), Feb. 17, 2009, [123 Stat. 312][/us/stat/123/312], 314, 360; [Pub. L. 111–148, title I, § 1401(d)(1)][/us/pl/111/148/s1401/d/1], title X, § 10909(b)(2)(P), (c), Mar. 23, 2010, [124 Stat. 220][/us/stat/124/220], 1023; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 923][/us/stat/96/923]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 105–34, title I, § 101(d)(1)][/us/pl/105/34/s101/d/1], Aug. 5, 1997, [111 Stat. 799][/us/stat/111/799]; [Pub. L. 107–210, div. A, title II, § 201(c)(1)][/us/pl/107/210/s201/c/1], Aug. 6, 2002, [116 Stat. 960][/us/stat/116/960]; [Pub. L. 109–432, div. A, title IV, § 402(b)(2)][/us/pl/109/432/s402/b/2], Dec. 20, 2006, [120 Stat. 2954][/us/stat/120/2954]; [Pub. L. 110–185, title I, § 101(f)(1)][/us/pl/110/185/s101/f/1], Feb. 13, 2008, [122 Stat. 617][/us/stat/122/617]; [Pub. L. 110–234, title XV, § 15316(c)(6)][/us/pl/110/234/s15316/c/6], May 22, 2008, [122 Stat. 1511][/us/stat/122/1511]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(c)(6), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2273; [Pub. L. 110–289, div. C, title I, § 3011(b)(3)][/us/pl/110/289/s3011/b/3], title III, § 3081(c), July 30, 2008, [122 Stat. 2891][/us/stat/122/2891], 2906; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1001(e)(2), 1004(b)(8), 1531(c)(1), Feb. 17, 2009, [123 Stat. 312][/us/stat/123/312], 314, 360; [Pub. L. 111–148, title I, § 1401(d)(1)][/us/pl/111/148/s1401/d/1], title X, § 10909(b)(2)(P), (c), Mar. 23, 2010, [124 Stat. 220][/us/stat/124/220], 1023; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 113–295, div. A, title II, § 221(a)(112)(D)][/us/pl/113/295/s221/a/112/D], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
 
 <table>
 
@@ -115,7 +115,7 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 
     The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is [Pub. L. 105–34][/us/pl/105/34], Aug. 5, 1997, [111 Stat. 788][/us/stat/111/788]. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code, and Tables.
 
-    Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, 6428, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, 6428, and 6431, respectively, of Title 26, Internal Revenue Code.
+    Sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 25A, 35, 36, 36A, 36B, 168, 53, 54B, and 6431, respectively, of Title 26, Internal Revenue Code. [Section 36A of Title 26][/us/usc/t26/s36A] was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(5)(A)][/us/pl/113/295/s221/a/5/A], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037]. Subsec. (e) of [section 53 of Title 26][/us/usc/t26/s53] was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i)][/us/pl/113/295/s221/a/8/A/i], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].
 
     Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(2), is [section 3081(b)(2) of Pub. L. 110–289][/us/pl/110/289/s3081/b/2], div. C, title III, July 30, 2008, [122 Stat. 2906][/us/stat/122/2906], which is not classified to the Code.
 
@@ -124,6 +124,8 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–295][/us/pl/113/295] substituted “or 6431” for “6428, or 6431,”.
 
     2010—Subsec. (b)(2). [Pub. L. 111–148, § 10909(b)(2)(P)][/us/pl/111/148/s10909/b/2/P], (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily inserted “36C,” after “36B,”. See Effective and Termination Dates of 2010 Amendment note below.
 
@@ -151,6 +153,10 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 
     1986—Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code.
+
  __Effective and Termination Dates of 2010 Amendment__ 
 
     Amendment by [section 1401(d)(1) of Pub. L. 111–148][/us/pl/111/148/s1401/d/1] applicable to taxable years ending after Dec. 31, 2013, see [section 1401(e) of Pub. L. 111–148][/us/pl/111/148/s1401/e], set out as an Effective Date note under [section 36B of Title 26][/us/usc/t26/s36B], Internal Revenue Code.
@@ -161,7 +167,7 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 
  __Effective Date of 2009 Amendment__ 
 
-    Amendment by [section 1001(e)(2) of Pub. L. 111–5][/us/pl/111/5/s1001/e/2] applicable to taxable years beginning after Dec. 31, 2008, see [section 1001(f) of Pub. L. 111–5][/us/pl/111/5/s1001/f], set out as an Effective Date note under [section 36A of Title 26][/us/usc/t26/s36A], Internal Revenue Code.
+    Amendment by [section 1001(e)(2) of Pub. L. 111–5][/us/pl/111/5/s1001/e/2] applicable to taxable years beginning after Dec. 31, 2008, see [section 1001(f) of Pub. L. 111–5][/us/pl/111/5/s1001/f], set out as an Effective Date note under [section 6211 of Title 26][/us/usc/t26/s6211], Internal Revenue Code.
 
     Amendment by [section 1004(b)(8) of Pub. L. 111–5][/us/pl/111/5/s1004/b/8] applicable to taxable years beginning after Dec. 31, 2008, see [section 1004(d) of Pub. L. 111–5][/us/pl/111/5/s1004/d], set out as an Effective and Termination Dates of 2009 Amendment note under [section 24 of Title 26][/us/usc/t26/s24], Internal Revenue Code.
 
@@ -227,17 +233,26 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 [/us/stat/124/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F220
 [/us/pl/111/312/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs101%2Fb%2F1
 [/us/stat/124/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3298
+[/us/pl/113/295/s221/a/112/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F112%2FD
+[/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
 [/us/act/1928-03-30/ch302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-30%2Fch302
 [/us/stat/45/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F398
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/stat/111/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F788
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/usc/t26/s36A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36A
+[/us/pl/113/295/s221/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F5%2FA
+[/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
+[/us/usc/t26/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs53
+[/us/pl/113/295/s221/a/8/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F8%2FA%2Fi
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/110/289/s3081/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3081%2Fb%2F2
 [/us/stat/122/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2906
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/148/s10909/b/2/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fb%2F2%2FP
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/148/s1401/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1401%2Fd%2F1
@@ -252,6 +267,9 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/148/s1401/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1401%2Fd%2F1
 [/us/pl/111/148/s1401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1401%2Fe
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
@@ -263,7 +281,7 @@ June 19, 1948, ch. 558, 62 Stat. 560, § 302(last par); added Sept. 8, 1978, P
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/5/s1001/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Fe%2F2
 [/us/pl/111/5/s1001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1001%2Ff
-[/us/usc/t26/s36A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36A
+[/us/usc/t26/s6211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6211
 [/us/pl/111/5/s1004/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1004%2Fb%2F8
 [/us/pl/111/5/s1004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1004%2Fd
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
