@@ -1773,7 +1773,7 @@ E–1  </td>
 
 >     The Secretary of a military department, with the approval of the Secretary of Defense, may pay a member covered by paragraph (1) and under the jurisdiction of that Secretary a basic allowance for housing at a rate higher than the rate provided under such paragraph to ensure that the member is treated fairly and equitably or to serve the best interests of the United States.”
 
-    \[[Pub. L. 113–291, div. A, title X, § 1071(h)][/us/pl/113/291/s1071/h], Dec. 19, 2014, [128 Stat. 3512][/us/stat/128/3512], provided that the amendment by that section is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.\]
+    \[[Pub. L. 113–291, div. A, title X, § 1071(h)][/us/pl/113/291/s1071/h], Dec. 19, 2014, [128 Stat. 3512][/us/stat/128/3512], provided that the amendment made by that section to [section 604(b) of Pub. L. 112–239][/us/pl/112/239/s604/b], set out above, is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.\]
 
  __Minimum Rates of Basic Allowance; Annual Limitation__ 
 
@@ -2155,6 +2155,7 @@ E–1  </td>
 [/us/usc/t37/s403/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403%2Fg
 [/us/pl/113/291/s1071/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fh
 [/us/stat/128/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3512
+[/us/pl/112/239/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs604%2Fb
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/106/246/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs101%2Fa
 [/us/stat/114/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F528
