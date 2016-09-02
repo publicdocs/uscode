@@ -495,7 +495,7 @@
 
  __Highly Qualified Teacher__ 
 
-[Pub. L. 111–242, § 163][/us/pl/111/242/s163], as added by [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], Dec. 22, 2010, [124 Stat. 3521][/us/stat/124/3521]; amended by [Pub. L. 112–175, § 145][/us/pl/112/175/s145], Sept. 28, 2012, [126 Stat. 1322][/us/stat/126/1322]; [Pub. L. 113–46, div. A, § 144][/us/pl/113/46/s144], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565]; [Pub. L. 114–53, § 140][/us/pl/114/53/s140], Sept. 30, 2015, [129 Stat. 510][/us/stat/129/510], provided that:
+[Pub. L. 111–242, § 163][/us/pl/111/242/s163], as added by [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], Dec. 22, 2010, [124 Stat. 3521][/us/stat/124/3521]; amended by [Pub. L. 112–175, § 145][/us/pl/112/175/s145], Sept. 28, 2012, [126 Stat. 1322][/us/stat/126/1322]; [Pub. L. 113–46, div. A, § 144][/us/pl/113/46/s144], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565]; [Pub. L. 114–53, div. B, § 140][/us/pl/114/53/s140], Sept. 30, 2015, [129 Stat. 510][/us/stat/129/510], renumbered div. B, [Pub. L. 114–113, § 8(3)][/us/pl/114/113/s8/3], Dec. 18, 2015, [129 Stat. 2245][/us/stat/129/2245], provided that:
 
 >     “(a) A ‘highly qualified teacher’ includes a teacher who meets the requirements in 34 CFR 200.56(a)(2)(ii), as published in the Federal Register on December 2, 2002.
 
@@ -553,6 +553,8 @@
 [/us/stat/127/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F565
 [/us/pl/114/53/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53%2Fs140
 [/us/stat/129/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F510
+[/us/pl/114/113/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8%2F3
+[/us/stat/129/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2245
 [/us/pl/107/110/s1111/h/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1111%2Fh%2F6%2FA
 [/us/pl/89/10/s1111/h/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1111%2Fh%2F6%2FA
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

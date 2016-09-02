@@ -147,9 +147,9 @@
 
     (f) __Termination__ 
 
-        The Committee shall terminate on September 30, 2015.
+        The Committee shall terminate on September 30, 2016.
 
-([Pub. L. 89–329, title I, § 114][/us/pl/89/329/s114], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1592][/us/stat/112/1592]; amended [Pub. L. 110–315, title I, § 106(a)][/us/pl/110/315/s106/a], Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090]; [Pub. L. 113–174, § 1][/us/pl/113/174/s1], Sept. 26, 2014, [128 Stat. 1900][/us/stat/128/1900].)
+([Pub. L. 89–329, title I, § 114][/us/pl/89/329/s114], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1592][/us/stat/112/1592]; amended [Pub. L. 110–315, title I, § 106(a)][/us/pl/110/315/s106/a], Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090]; [Pub. L. 113–174, § 1][/us/pl/113/174/s1], Sept. 26, 2014, [128 Stat. 1900][/us/stat/128/1900]; [Pub. L. 114–113, div. H, title III, § 309][/us/pl/114/113/s309], Dec. 18, 2015, [129 Stat. 2638][/us/stat/129/2638].)
 
  __References in Text__ 
 
@@ -162,6 +162,8 @@
     A prior section 1011c, [Pub. L. 89–329, title I, § 124][/us/pl/89/329/s124], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 463][/us/stat/106/463], related to local applications for grants, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–113][/us/pl/114/113] substituted “2016” for “2015”.
 
     2014—Subsec. (f). [Pub. L. 113–174][/us/pl/113/174] substituted “2015” for “2014”.
 
@@ -201,6 +203,8 @@
 [/us/stat/122/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3090
 [/us/pl/113/174/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F174%2Fs1
 [/us/stat/128/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1900
+[/us/pl/114/113/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs309
+[/us/stat/129/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2638
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/usc/t20/s1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1145
@@ -209,6 +213,7 @@
 [/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
 [/us/stat/106/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F463
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F174
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/110/315/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs106%2Fc

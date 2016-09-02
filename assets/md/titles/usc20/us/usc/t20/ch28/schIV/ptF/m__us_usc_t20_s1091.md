@@ -123,27 +123,21 @@
 
         (2) __Eligible career pathway program__ 
 
-        In this subsection, the term “eligible career pathway program” means a program that—
+        In this subsection, the term “eligible career pathway program” means a program that combines rigorous and high-quality education, training, and other services that—
 
-            (A) concurrently enrolls participants in connected adult education and eligible postsecondary programs;
+            (A) aligns with the skill needs of industries in the economy of the State or regional economy involved;
 
-            (B) provides counseling and supportive services to identify and attain academic and career goals;
+            (B) prepares an individual to be successful in any of a full range of secondary or postsecondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; [50 Stat. 664][/us/stat/50/664], chapter 663; [29 U.S.C. 50][/us/usc/t29/s50] et seq.) (referred to individually in this chapter as an “apprenticeship”, except in section 171); 1
 
-            (C)
+            (C) includes counseling to support an individual in achieving the individual’s education and career goals;
 
-             provides structured course sequences that—
+            (D) includes, as appropriate, education offered concurrently with and in the same context as workforce preparation activities and training for a specific occupation or occupational cluster;
 
-                (i) are articulated and contextualized; and
+            (E) organizes education, training, and other services to meet the particular needs of an individual in a manner that accelerates the educational and career advancement of the individual to the extent practicable;
 
-                (ii) allow students to advance to higher levels of education and employment;
+            (F) enables an individual to attain a secondary school diploma or its recognized equivalent, and at least 1 recognized postsecondary credential; and
 
-            (D) provides opportunities for acceleration to attain recognized postsecondary credentials, including degrees, industry relevant certifications, and certificates of completion of apprenticeship programs;
-
-            (E) is organized to meet the needs of adults;
-
-            (F) is aligned with the education and skill needs of the regional economy; and
-
-            (G) has been developed and implemented in collaboration with partners in business, workforce development, and economic development.
+            (G) helps an individual enter or advance within a specific occupation or occupational cluster.
 
     (e) __Certification for GSL eligibility__ 
 
@@ -461,11 +455,15 @@
 
             The Secretary shall prepare and submit to the authorizing committees, in each fiscal year, a report describing the results obtained by the establishment and operation of the data system authorized by this subsection.
 
-([Pub. L. 89–329, title IV, § 484][/us/pl/89/329/s484], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1479][/us/stat/100/1479]; amended [Pub. L. 99–603, title I, § 121(a)(3)][/us/pl/99/603/s121/a/3], Nov. 6, 1986, [100 Stat. 3388][/us/stat/100/3388]; [Pub. L. 100–50, § 15(7)][/us/pl/100/50/s15/7]–(9), June 3, 1987, [101 Stat. 356][/us/stat/101/356], 357; [Pub. L. 100–369][/us/pl/100/369], §§ 1, 2, 6, July 18, 1988, [102 Stat. 835][/us/stat/102/835], 836; [Pub. L. 100–525, § 2(g)][/us/pl/100/525/s2/g], Oct. 24, 1988, [102 Stat. 2611][/us/stat/102/2611]; [Pub. L. 101–508, title III, § 3005(a)][/us/pl/101/508/s3005/a], Nov. 5, 1990, [104 Stat. 1388–27][/us/stat/104/1388-27]; [Pub. L. 102–26, § 2(b)][/us/pl/102/26/s2/b], (c)(2), (d)(2)(A), Apr. 9, 1991, [105 Stat. 123][/us/stat/105/123], 124; [Pub. L. 102–73, title VIII, § 801(a)][/us/pl/102/73/s801/a], July 25, 1991, [105 Stat. 359][/us/stat/105/359]; [Pub. L. 102–325, title IV, § 484(a)][/us/pl/102/325/s484/a], (b)(1), (c)–(h), July 23, 1992, [106 Stat. 615–619][/us/stat/106/615-619]; [Pub. L. 103–208, § 2(h)(13)][/us/pl/103/208/s2/h/13]–(25), Dec. 20, 1993, [107 Stat. 2476][/us/stat/107/2476], 2477; [Pub. L. 103–382, title III, § 360A][/us/pl/103/382/s360A], Oct. 20, 1994, [108 Stat. 3969][/us/stat/108/3969]; [Pub. L. 104–208, div. C, title V, § 507(b)][/us/pl/104/208/s507/b], Sept. 30, 1996, [110 Stat. 3009–673][/us/stat/110/3009-673]; [Pub. L. 105–244, title IV, § 483(a)][/us/pl/105/244/s483/a]–(f)(1), Oct. 7, 1998, [112 Stat. 1735][/us/stat/112/1735], 1736; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8020(c), 8021, Feb. 8, 2006, [120 Stat. 178][/us/stat/120/178]; [Pub. L. 109–270, § 2(c)(2)][/us/pl/109/270/s2/c/2], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 110–315, title IV, § 485(a)][/us/pl/110/315/s485/a], Aug. 14, 2008, [122 Stat. 3287][/us/stat/122/3287]; [Pub. L. 111–39, title IV, § 407(b)(4)][/us/pl/111/39/s407/b/4], July 1, 2009, [123 Stat. 1950][/us/stat/123/1950]; [Pub. L. 112–74, div. F, title III, § 309(c)(1)][/us/pl/112/74/s309/c/1], Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100]; [Pub. L. 113–235, div. G, title III, § 309(a)(1)][/us/pl/113/235/s309/a/1], Dec. 16, 2014, [128 Stat. 2504][/us/stat/128/2504].)
+([Pub. L. 89–329, title IV, § 484][/us/pl/89/329/s484], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1479][/us/stat/100/1479]; amended [Pub. L. 99–603, title I, § 121(a)(3)][/us/pl/99/603/s121/a/3], Nov. 6, 1986, [100 Stat. 3388][/us/stat/100/3388]; [Pub. L. 100–50, § 15(7)][/us/pl/100/50/s15/7]–(9), June 3, 1987, [101 Stat. 356][/us/stat/101/356], 357; [Pub. L. 100–369][/us/pl/100/369], §§ 1, 2, 6, July 18, 1988, [102 Stat. 835][/us/stat/102/835], 836; [Pub. L. 100–525, § 2(g)][/us/pl/100/525/s2/g], Oct. 24, 1988, [102 Stat. 2611][/us/stat/102/2611]; [Pub. L. 101–508, title III, § 3005(a)][/us/pl/101/508/s3005/a], Nov. 5, 1990, [104 Stat. 1388–27][/us/stat/104/1388-27]; [Pub. L. 102–26, § 2(b)][/us/pl/102/26/s2/b], (c)(2), (d)(2)(A), Apr. 9, 1991, [105 Stat. 123][/us/stat/105/123], 124; [Pub. L. 102–73, title VIII, § 801(a)][/us/pl/102/73/s801/a], July 25, 1991, [105 Stat. 359][/us/stat/105/359]; [Pub. L. 102–325, title IV, § 484(a)][/us/pl/102/325/s484/a], (b)(1), (c)–(h), July 23, 1992, [106 Stat. 615–619][/us/stat/106/615-619]; [Pub. L. 103–208, § 2(h)(13)][/us/pl/103/208/s2/h/13]–(25), Dec. 20, 1993, [107 Stat. 2476][/us/stat/107/2476], 2477; [Pub. L. 103–382, title III, § 360A][/us/pl/103/382/s360A], Oct. 20, 1994, [108 Stat. 3969][/us/stat/108/3969]; [Pub. L. 104–208, div. C, title V, § 507(b)][/us/pl/104/208/s507/b], Sept. 30, 1996, [110 Stat. 3009–673][/us/stat/110/3009-673]; [Pub. L. 105–244, title IV, § 483(a)][/us/pl/105/244/s483/a]–(f)(1), Oct. 7, 1998, [112 Stat. 1735][/us/stat/112/1735], 1736; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8020(c), 8021, Feb. 8, 2006, [120 Stat. 178][/us/stat/120/178]; [Pub. L. 109–270, § 2(c)(2)][/us/pl/109/270/s2/c/2], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 110–315, title IV, § 485(a)][/us/pl/110/315/s485/a], Aug. 14, 2008, [122 Stat. 3287][/us/stat/122/3287]; [Pub. L. 111–39, title IV, § 407(b)(4)][/us/pl/111/39/s407/b/4], July 1, 2009, [123 Stat. 1950][/us/stat/123/1950]; [Pub. L. 112–74, div. F, title III, § 309(c)(1)][/us/pl/112/74/s309/c/1], Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100]; [Pub. L. 113–235, div. G, title III, § 309(a)(1)][/us/pl/113/235/s309/a/1], Dec. 16, 2014, [128 Stat. 2504][/us/stat/128/2504]; [Pub. L. 114–113, div. H, title III, § 313(1)][/us/pl/114/113/s313/1], Dec. 18, 2015, [129 Stat. 2638][/us/stat/129/2638].)
 
  __References in Text__ 
 
     [Section 1078–1 of this title][/us/usc/t20/s1078–1], referred to in subsec. (b)(2), was repealed by [Pub. L. 103–66, title IV, § 4047(b)][/us/pl/103/66/s4047/b]–(d), Aug. 10, 1993, [107 Stat. 364][/us/stat/107/364], eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by [Pub. L. 105–244, title IV, § 418][/us/pl/105/244/s418], Oct. 7, 1998, [112 Stat. 1691][/us/stat/112/1691].
+
+    The National Apprenticeship Act, referred to in subsec. (d)(2)(B), is [act Aug. 16, 1937, ch. 663][/us/act/1937-08-16/ch663], [50 Stat. 664][/us/stat/50/664], which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29][/us/usc/t29/s50] and Tables.
+
+    Section 171, referred to in subsec. (d)(2)(B), may mean section 171 of either the National Apprenticeship Act or the Higher Education Act of 1965. However, neither the National Apprenticeship Act or the Higher Education Act of 1965 contains a section 171.
 
     Subsection (h) of this section, referred to in subsec. (i), was redesignated subsec. (g) of this section by [Pub. L. 103–208, § 2(h)(25)][/us/pl/103/208/s2/h/25], Dec. 20, 1993, [107 Stat. 2477][/us/stat/107/2477].
 
@@ -476,6 +474,8 @@
     Another prior section 1091, [Pub. L. 89–329, title V, § 501][/us/pl/89/329/s501], Nov. 8, 1965, [79 Stat. 1254][/us/stat/79/1254]; [Pub. L. 90–35, § 2(c)][/us/pl/90/35/s2/c], June 29, 1967, [81 Stat. 82][/us/stat/81/82]; [Pub. L. 92–318, title I, § 141(b)(1)][/us/pl/92/318/s141/b/1], June 23, 1972, [86 Stat. 285][/us/stat/86/285], set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by [Pub. L. 94–482, title I, § 151(a)(2)][/us/pl/94/482/s151/a/2], (b), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151].
 
  __Amendments__ 
+
+    2015—Subsec. (d)(2). [Pub. L. 114–113][/us/pl/114/113] amended par. (2) generally. Prior to amendment, par. (2) related to eligible career pathway programs for students who are not high school graduates.
 
     2014—Subsec. (d). [Pub. L. 113–235][/us/pl/113/235] amended subsec. (d) generally. Prior to amendment, text read as follows: “In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.”
 
@@ -790,6 +790,8 @@
 [/us/usc/t20/s1078/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fa%2F2%2FB
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
 [/us/usc/t20/s1078–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%938
+[/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
+[/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
 [/us/usc/t8/s1324a/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fb%2F1%2FB
 [/us/pl/110/315/s485/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs485%2Fa%2F4
 [/us/stat/122/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3288
@@ -842,11 +844,16 @@
 [/us/stat/125/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1100
 [/us/pl/113/235/s309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs309%2Fa%2F1
 [/us/stat/128/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2504
+[/us/pl/114/113/s313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs313%2F1
+[/us/stat/129/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2638
 [/us/usc/t20/s1078–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%931
 [/us/pl/103/66/s4047/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4047%2Fb
 [/us/stat/107/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F364
 [/us/pl/105/244/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs418
 [/us/stat/112/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1691
+[/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
+[/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
+[/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
 [/us/pl/103/208/s2/h/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F25
 [/us/stat/107/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2477
 [/us/pl/89/329/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs484
@@ -863,6 +870,7 @@
 [/us/stat/86/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F285
 [/us/pl/94/482/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs151%2Fa%2F2
 [/us/stat/90/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2151
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/111/39/s407/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F4%2FA

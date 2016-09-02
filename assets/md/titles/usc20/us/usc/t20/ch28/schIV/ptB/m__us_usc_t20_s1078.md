@@ -469,7 +469,7 @@
 
         (1) __Authority to enter into agreements__ 
 
-            (A) The Secretary may enter into a guaranty agreement with any guaranty agency, whereby the Secretary shall undertake to reimburse it, under such terms and conditions as the Secretary may establish, with respect to losses (resulting from the default of the student borrower) on the unpaid balance of the principal and accrued interest of any insured loan. The guaranty agency shall be deemed to have a contractual right against the United States, during the life of such loan, to receive reimbursement according to the provisions of this subsection. Upon receipt of an accurate and complete request by a guaranty agency for reimbursement with respect to such losses, the Secretary shall pay promptly and without administrative delay. Except as provided in subparagraph (B) of this paragraph and in paragraph (7), the amount to be paid a guaranty agency as reimbursement under this subsection shall be equal to 95 percent of the amount expended by it in discharge of its insurance obligation incurred under its loan insurance program. A guaranty agency shall file a claim for reimbursement with respect to losses under this subsection within 30 days after the guaranty agency discharges its insurance obligation on the loan.
+            (A) The Secretary may enter into a guaranty agreement with any guaranty agency, whereby the Secretary shall undertake to reimburse it, under such terms and conditions as the Secretary may establish, with respect to losses (resulting from the default of the student borrower) on the unpaid balance of the principal and accrued interest of any insured loan. The guaranty agency shall be deemed to have a contractual right against the United States, during the life of such loan, to receive reimbursement according to the provisions of this subsection. Upon receipt of an accurate and complete request by a guaranty agency for reimbursement with respect to such losses, the Secretary shall pay promptly and without administrative delay. Except as provided in subparagraph (B) of this paragraph and in paragraph (7), the amount to be paid a guaranty agency as reimbursement under this subsection shall be equal to 100 percent of the amount expended by it in discharge of its insurance obligation incurred under its loan insurance program. A guaranty agency shall file a claim for reimbursement with respect to losses under this subsection within 30 days after the guaranty agency discharges its insurance obligation on the loan.
 
             (B)
 
@@ -493,7 +493,7 @@
 
              Notwithstanding any other provisions of this section, in the case of a loan made pursuant to a lender-of-last-resort program, the Secretary shall apply the provisions of—
 
-                (i) the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”;
+                (i) the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”;  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup> 
 
                 (ii) subparagraph (B)(i) by substituting “100 percent” for “85 percent”; and
 
@@ -503,7 +503,7 @@
 
              Notwithstanding any other provisions of this section, in the case of an outstanding loan transferred to a guaranty agency from another guaranty agency pursuant to a plan approved by the Secretary in response to the insolvency of the latter such guarantee agency, the Secretary shall apply the provision of—
 
-                (i) the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”;
+                (i) the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”; 4
 
                 (ii) subparagraph (B)(i) by substituting “90 percent” for “85 percent”; and
 
@@ -515,7 +515,7 @@
 
                  Notwithstanding any other provisions of this section, in the case of exempt claims, the Secretary shall apply the provisions of—
 
-                    (I) the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”;
+                    (I) the fourth sentence of subparagraph (A) by substituting “100 percent” for “95 percent”; 4
 
                     (II) subparagraph (B)(i) by substituting “100 percent” for “85 percent”; and
 
@@ -777,7 +777,7 @@
 
     (f) __Payments of certain costs__ 
 
-        (1)  __ <sup>\[__  __4__  __\]</sup> __  __ <sup><sup> __  __4__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __Payment for certain activities__ 
+        (1)  __ <sup>\[__  __5__  __\]</sup> __  __ <sup><sup> __  __5__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __Payment for certain activities__ 
 
             (A) __In general__ 
 
@@ -855,7 +855,7 @@
 
         (4) __Institution-wide student qualification__ 
 
-            Upon the request of an institution of higher education and pursuant to standards developed by the Secretary, the Secretary shall designate such institution for participation in the lender-of-last-resort program under this paragraph. <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “subsection.” </sup></sup>  If the Secretary designates an institution under this paragraph, the guaranty agency designated for the State in which the institution is located shall make loans, in the same manner as such loans are made under paragraph (1), to students and parent borrowers of the designated institution, regardless of whether the students or parent borrowers are otherwise unable to obtain loans under this part (other than a consolidation loan under [section 1078–3 of this title][/us/usc/t20/s1078–3]).
+            Upon the request of an institution of higher education and pursuant to standards developed by the Secretary, the Secretary shall designate such institution for participation in the lender-of-last-resort program under this paragraph. <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “subsection.” </sup></sup>  If the Secretary designates an institution under this paragraph, the guaranty agency designated for the State in which the institution is located shall make loans, in the same manner as such loans are made under paragraph (1), to students and parent borrowers of the designated institution, regardless of whether the students or parent borrowers are otherwise unable to obtain loans under this part (other than a consolidation loan under [section 1078–3 of this title][/us/usc/t20/s1078–3]).
 
         (5) __Standards developed by the Secretary__ 
 
@@ -1017,15 +1017,17 @@
 
         (3) __Special allowance defined__ 
 
-            For the purposes of this subsection, the term “special allowance”, <sup>\[6\]</sup>  <sup><sup> 6 So in original. The comma probably should not appear. </sup></sup>  means a special allowance that is payable with respect to a loan under [section 1087–1 of this title][/us/usc/t20/s1087–1].
+            For the purposes of this subsection, the term “special allowance”, <sup>\[7\]</sup>  <sup><sup> 7 So in original. The comma probably should not appear. </sup></sup>  means a special allowance that is payable with respect to a loan under [section 1087–1 of this title][/us/usc/t20/s1087–1].
 
-([Pub. L. 89–329, title IV, § 428][/us/pl/89/329/s428], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1367][/us/stat/100/1367]; amended [Pub. L. 100–50, § 10(a)][/us/pl/100/50/s10/a]–(c), (e)–(m), June 3, 1987, [101 Stat. 341–343][/us/stat/101/341-343]; [Pub. L. 100–203, title III][/us/pl/100/203], §§ 3001(b), 3002(b), 3003, Dec. 22, 1987, [101 Stat. 1330–38][/us/stat/101/1330-38], 1330–39; [Pub. L. 100–369][/us/pl/100/369], §§ 5(b)(2), 7(c), 11(a), July 18, 1988, [102 Stat. 836–838][/us/stat/102/836-838]; [Pub. L. 101–239, title II][/us/pl/101/239], §§ 2002(a)(2), (b)(1), 2004(b)(1), (3), 2006(b), Dec. 19, 1989, [103 Stat. 2111][/us/stat/103/2111], 2116, 2118; [Pub. L. 101–508, title III][/us/pl/101/508], §§ 3002, 3004(b), Nov. 5, 1990, [104 Stat. 1388–25][/us/stat/104/1388-25], 1388–27; [Pub. L. 102–26, § 9][/us/pl/102/26/s9], Apr. 9, 1991, [105 Stat. 128][/us/stat/105/128]; [Pub. L. 102–164, title VI][/us/pl/102/164], §§ 601(b), 602(b), 604, 605(b)(2), Nov. 15, 1991, [105 Stat. 1065][/us/stat/105/1065], 1066, 1068; [Pub. L. 102–325, title IV][/us/pl/102/325], §§ 411(b)(2), 416(a)–(e)(1), (f)–(p)(7), (q)–(t), July 23, 1992, [106 Stat. 510][/us/stat/106/510], 516–525, 527–529; [Pub. L. 103–66, title IV][/us/pl/103/66], §§ 4041(a)(1), (2)(B), (b), 4043(a), 4044, 4045, 4102(c), 4107(a), (b), 4108(a), (b), 4110(a), 4112(a), 4201(a), Aug. 10, 1993, [107 Stat. 354][/us/stat/107/354], 355, 358, 359, 367–370; [Pub. L. 103–82, title I, § 102(c)(1)][/us/pl/103/82/s102/c/1], Sept. 21, 1993, [107 Stat. 823][/us/stat/107/823]; [Pub. L. 103–208, § 2(c)(11)][/us/pl/103/208/s2/c/11]–(28), Dec. 20, 1993, [107 Stat. 2462–2465][/us/stat/107/2462-2465]; [Pub. L. 103–382, title III, § 355(a)][/us/pl/103/382/s355/a], Oct. 20, 1994, [108 Stat. 3967][/us/stat/108/3967]; [Pub. L. 105–33, title VI][/us/pl/105/33], §§ 6101(b), 6104(2), Aug. 5, 1997, [111 Stat. 652][/us/stat/111/652]; [Pub. L. 105–244, title IV, § 417(a)][/us/pl/105/244/s417/a]–(c)(1)(A), (2)–(k), Oct. 7, 1998, [112 Stat. 1682–1690][/us/stat/112/1682-1690]; [Pub. L. 107–314, div. A, title VI, § 651(b)][/us/pl/107/314/s651/b], Dec. 2, 2002, [116 Stat. 2579][/us/stat/116/2579]; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8004(b)(2), 8005(b), 8007(a), 8008(a), 8009(b)(1), 8014(a)(1), (b)(1), (c)(1), (d), (e), (j)(1)–(3), Feb. 8, 2006, [120 Stat. 158][/us/stat/120/158], 160, 162, 164, 168–171; [Pub. L. 110–84, title II, § 202(a)][/us/pl/110/84/s202/a], title III, §§ 301, 302(b)(1), 303(a), Sept. 27, 2007, [121 Stat. 791][/us/stat/121/791], 796, 797; [Pub. L. 110–227][/us/pl/110/227], §§ 3(b), 5(a), May 7, 2008, [122 Stat. 742][/us/stat/122/742], 743; [Pub. L. 110–315, title I, § 103(b)(4)][/us/pl/110/315/s103/b/4], title IV, §§ 422(a)(1), (b)–(g)(1), (h)–(j), 424(b), 432(b)(2), 438(a)(2), Aug. 14, 2008, [122 Stat. 3088][/us/stat/122/3088], 3227–3231, 3233, 3246, 3258; [Pub. L. 110–350, § 2][/us/pl/110/350/s2], Oct. 7, 2008, [122 Stat. 3947][/us/stat/122/3947]; [Pub. L. 111–39, title IV, § 402(a)(1)][/us/pl/111/39/s402/a/1], (b)(1), (f)(1), July 1, 2009, [123 Stat. 1940][/us/stat/123/1940], 1943; [Pub. L. 111–152, title II, § 2204][/us/pl/111/152/s2204], Mar. 30, 2010, [124 Stat. 1075][/us/stat/124/1075]; [Pub. L. 112–74, div. F, title III, § 309(d)(1)][/us/pl/112/74/s309/d/1], Dec. 23, 2011, [125 Stat. 1101][/us/stat/125/1101].)
+([Pub. L. 89–329, title IV, § 428][/us/pl/89/329/s428], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1367][/us/stat/100/1367]; amended [Pub. L. 100–50, § 10(a)][/us/pl/100/50/s10/a]–(c), (e)–(m), June 3, 1987, [101 Stat. 341–343][/us/stat/101/341-343]; [Pub. L. 100–203, title III][/us/pl/100/203], §§ 3001(b), 3002(b), 3003, Dec. 22, 1987, [101 Stat. 1330–38][/us/stat/101/1330-38], 1330–39; [Pub. L. 100–369][/us/pl/100/369], §§ 5(b)(2), 7(c), 11(a), July 18, 1988, [102 Stat. 836–838][/us/stat/102/836-838]; [Pub. L. 101–239, title II][/us/pl/101/239], §§ 2002(a)(2), (b)(1), 2004(b)(1), (3), 2006(b), Dec. 19, 1989, [103 Stat. 2111][/us/stat/103/2111], 2116, 2118; [Pub. L. 101–508, title III][/us/pl/101/508], §§ 3002, 3004(b), Nov. 5, 1990, [104 Stat. 1388–25][/us/stat/104/1388-25], 1388–27; [Pub. L. 102–26, § 9][/us/pl/102/26/s9], Apr. 9, 1991, [105 Stat. 128][/us/stat/105/128]; [Pub. L. 102–164, title VI][/us/pl/102/164], §§ 601(b), 602(b), 604, 605(b)(2), Nov. 15, 1991, [105 Stat. 1065][/us/stat/105/1065], 1066, 1068; [Pub. L. 102–325, title IV][/us/pl/102/325], §§ 411(b)(2), 416(a)–(e)(1), (f)–(p)(7), (q)–(t), July 23, 1992, [106 Stat. 510][/us/stat/106/510], 516–525, 527–529; [Pub. L. 103–66, title IV][/us/pl/103/66], §§ 4041(a)(1), (2)(B), (b), 4043(a), 4044, 4045, 4102(c), 4107(a), (b), 4108(a), (b), 4110(a), 4112(a), 4201(a), Aug. 10, 1993, [107 Stat. 354][/us/stat/107/354], 355, 358, 359, 367–370; [Pub. L. 103–82, title I, § 102(c)(1)][/us/pl/103/82/s102/c/1], Sept. 21, 1993, [107 Stat. 823][/us/stat/107/823]; [Pub. L. 103–208, § 2(c)(11)][/us/pl/103/208/s2/c/11]–(28), Dec. 20, 1993, [107 Stat. 2462–2465][/us/stat/107/2462-2465]; [Pub. L. 103–382, title III, § 355(a)][/us/pl/103/382/s355/a], Oct. 20, 1994, [108 Stat. 3967][/us/stat/108/3967]; [Pub. L. 105–33, title VI][/us/pl/105/33], §§ 6101(b), 6104(2), Aug. 5, 1997, [111 Stat. 652][/us/stat/111/652]; [Pub. L. 105–244, title IV, § 417(a)][/us/pl/105/244/s417/a]–(c)(1)(A), (2)–(k), Oct. 7, 1998, [112 Stat. 1682–1690][/us/stat/112/1682-1690]; [Pub. L. 107–314, div. A, title VI, § 651(b)][/us/pl/107/314/s651/b], Dec. 2, 2002, [116 Stat. 2579][/us/stat/116/2579]; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8004(b)(2), 8005(b), 8007(a), 8008(a), 8009(b)(1), 8014(a)(1), (b)(1), (c)(1), (d), (e), (j)(1)–(3), Feb. 8, 2006, [120 Stat. 158][/us/stat/120/158], 160, 162, 164, 168–171; [Pub. L. 110–84, title II, § 202(a)][/us/pl/110/84/s202/a], title III, §§ 301, 302(b)(1), 303(a), Sept. 27, 2007, [121 Stat. 791][/us/stat/121/791], 796, 797; [Pub. L. 110–227][/us/pl/110/227], §§ 3(b), 5(a), May 7, 2008, [122 Stat. 742][/us/stat/122/742], 743; [Pub. L. 110–315, title I, § 103(b)(4)][/us/pl/110/315/s103/b/4], title IV, §§ 422(a)(1), (b)–(g)(1), (h)–(j), 424(b), 432(b)(2), 438(a)(2), Aug. 14, 2008, [122 Stat. 3088][/us/stat/122/3088], 3227–3231, 3233, 3246, 3258; [Pub. L. 110–350, § 2][/us/pl/110/350/s2], Oct. 7, 2008, [122 Stat. 3947][/us/stat/122/3947]; [Pub. L. 111–39, title IV, § 402(a)(1)][/us/pl/111/39/s402/a/1], (b)(1), (f)(1), July 1, 2009, [123 Stat. 1940][/us/stat/123/1940], 1943; [Pub. L. 111–152, title II, § 2204][/us/pl/111/152/s2204], Mar. 30, 2010, [124 Stat. 1075][/us/stat/124/1075]; [Pub. L. 112–74, div. F, title III, § 309(d)(1)][/us/pl/112/74/s309/d/1], Dec. 23, 2011, [125 Stat. 1101][/us/stat/125/1101]; [Pub. L. 114–113, div. H, title III, § 311][/us/pl/114/113/s311], Dec. 18, 2015, [129 Stat. 2638][/us/stat/129/2638].)
 
  __References in Text__ 
 
     The National and Community Service Act of 1990, referred to in subsec. (a)(2)(C)(ii)(II)(aa), is [Pub. L. 101–610][/us/pl/101/610], Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127]. Title I of the Act enacted subchapter I (§ 12511 et seq.) of chapter 129 of Title 42, The Public Health and Welfare, and amended sections 1070a–6 and 1087vv of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42][/us/usc/t42/s12501] and Tables.
 
     [Section 1078–1 of this title][/us/usc/t20/s1078–1], referred to in subsecs. (a)(2)(E) and (b)(1)(B), (Q), was repealed by [Pub. L. 103–66, title IV, § 4047(b)][/us/pl/103/66/s4047/b]–(d), Aug. 10, 1993, [107 Stat. 364][/us/stat/107/364], eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by [Pub. L. 105–244, title IV, § 418][/us/pl/105/244/s418], Oct. 7, 1998, [112 Stat. 1691][/us/stat/112/1691].
+
+    The phrase “ ‘95 percent’ ”, referred to in subsec. (c)(1)(D)(i), (E)(i), and (F)(i)(I) as appearing in “the fourth sentence of subparagraph (A)”, no longer appears in subpar. (A) of subsec. (c)(1) after the amendment by [Pub. L. 114–113][/us/pl/114/113].
 
     The Higher Education Amendments of 1992, referred to in subsec. (c)(3)(A)(i)(I), is [Pub. L. 102–325][/us/pl/102/325], July 23, 1992, [106 Stat. 448][/us/stat/106/448]. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1001 of this title][/us/usc/t20/s1001] and Tables.
 
@@ -1042,6 +1044,8 @@
     A prior section 1078a, [Pub. L. 91–95, § 2][/us/pl/91/95/s2], Oct. 22, 1969, [83 Stat. 141][/us/stat/83/141]; [Pub. L. 92–318, title I, § 134(a)][/us/pl/92/318/s134/a], June 23, 1972, [86 Stat. 270][/us/stat/86/270]; [Pub. L. 93–269, § 5][/us/pl/93/269/s5], Apr. 18, 1974, [88 Stat. 89][/us/stat/88/89]; [Pub. L. 94–328, § 2(c)][/us/pl/94/328/s2/c], June 30, 1976, [90 Stat. 727][/us/stat/90/727]; [Pub. L. 94–482, title I, § 127(c)(1)][/us/pl/94/482/s127/c/1], Oct. 12, 1976, [90 Stat. 2142][/us/stat/90/2142], related to special allowances for insured student loans, prior to repeal by [Pub. L. 94–482, title I, § 127(c)(2)][/us/pl/94/482/s127/c/2], Oct. 12, 1976, [90 Stat. 2142][/us/stat/90/2142].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1)(A). [Pub. L. 114–113][/us/pl/114/113], which directed substitution of “100 percent” for “95 percent” in subsec. (c)(1), was executed by making the substitution the first time “95 percent” appeared to reflect the probable intent of Congress.
 
     2011—Subsec. (a)(3)(A)(i)(I). [Pub. L. 112–74][/us/pl/112/74] amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “which accrues prior to the beginning of the repayment period of the loan, or”.
 
@@ -2048,6 +2052,8 @@
 [/us/stat/124/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1075
 [/us/pl/112/74/s309/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fd%2F1
 [/us/stat/125/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1101
+[/us/pl/114/113/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs311
+[/us/stat/129/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2638
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
@@ -2056,6 +2062,7 @@
 [/us/stat/107/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F364
 [/us/pl/105/244/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs418
 [/us/stat/112/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1691
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/stat/106/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F448
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
@@ -2110,6 +2117,7 @@
 [/us/stat/90/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2142
 [/us/pl/94/482/s127/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fc%2F2
 [/us/stat/90/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2142
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/111/152/s2204/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2204%2Fa%2F1%2FA
 [/us/pl/111/152/s2204/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2204%2Fa%2F1%2FB
