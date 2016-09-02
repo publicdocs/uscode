@@ -63,7 +63,7 @@
 
  __Codification__ 
 
-    [Pub. L. 110–234, § 2710][/us/pl/110/234/s2710], and [Pub. L. 110–246, § 2710][/us/pl/110/246/s2710], which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 ([16 U.S.C. 2005a][/us/usc/t16/s2005a]) of title XII of the Food Security Act of l985 were repealed by [Pub. L. 104–127, title III, § 336(e)][/us/pl/104/127/s336/e], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
+    [Pub. L. 110–234, § 2710][/us/pl/110/234/s2710], and [Pub. L. 110–246, § 2710][/us/pl/110/246/s2710], which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 ([16 U.S.C. 2005a][/us/usc/t16/s2005a]) of title XII of the Food Security Act of 1985 were repealed by [Pub. L. 104–127, title III, § 336(e)][/us/pl/104/127/s336/e], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 

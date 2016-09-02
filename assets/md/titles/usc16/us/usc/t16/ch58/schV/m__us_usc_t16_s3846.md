@@ -37,6 +37,12 @@
 
     This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title XII of [Pub. L. 99–198][/us/pl/99/198], which enacted this chapter and former [section 2005a of this title][/us/usc/t16/s2005a] and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7][/us/usc/t7/s1981].
 
+ __Prior Provisions__ 
+
+    A prior section 3846, [Pub. L. 99–198, title XII, § 1246][/us/pl/99/198/s1246], as added [Pub. L. 101–624, title XIV, § 1444][/us/pl/101/624/s1444], Nov. 28, 1990, [104 Stat. 3602][/us/stat/104/3602], directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by [Pub. L. 104–66, title I, § 1011(a)][/us/pl/104/66/s1011/a], Dec. 21, 1995, [109 Stat. 709][/us/stat/109/709].
+
+    A prior section 3847, [Pub. L. 99–198, title XII, § 1247][/us/pl/99/198/s1247], as added [Pub. L. 101–624, title XIV, § 1445][/us/pl/101/624/s1445], Nov. 28, 1990, [104 Stat. 3603][/us/stat/104/3603]; amended [Pub. L. 102–237, title II, § 204(8)][/us/pl/102/237/s204/8], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855], which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch58/schV/m__us_usc_t16_s3845.md) | [Next](./../../../../..//us/usc/t16/ch58/schV–A/m__us_usc_t16_ch58_schV–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3846)
@@ -52,5 +58,16 @@
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
+[/us/pl/99/198/s1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1246
+[/us/pl/101/624/s1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1444
+[/us/stat/104/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3602
+[/us/pl/104/66/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fa
+[/us/stat/109/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F709
+[/us/pl/99/198/s1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1247
+[/us/pl/101/624/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1445
+[/us/stat/104/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3603
+[/us/pl/102/237/s204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs204%2F8
+[/us/stat/105/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1855
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 
 
