@@ -71,7 +71,7 @@
 
                     (I) __Minimum percentage and allotment__ 
 
-                        Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+                        Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
                     (II) __Small state minimum allotment__ 
 
@@ -163,7 +163,7 @@
 
                     (I) __Minimum percentage and allotment__ 
 
-                        The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+                        The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
                     (II) __Maximum percentage__ 
 
@@ -207,11 +207,19 @@
 
             The Governor shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in the event that a State is required to make funds available for reallotment under this subsection.
 
-([Pub. L. 113–128, title I, § 132][/us/pl/113/128/s132], July 22, 2014, [128 Stat. 1511][/us/stat/128/1511].)
+([Pub. L. 113–128, title I, § 132][/us/pl/113/128/s132], July 22, 2014, [128 Stat. 1511][/us/stat/128/1511]; [Pub. L. 114–18, § 2(d)][/us/pl/114/18/s2/d], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
 
  __References in Text__ 
 
     The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of this title][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(1)(B)(iv)(I), (2)(B)(iii)(I). [Pub. L. 114–18][/us/pl/114/18] inserted “less than” after “fiscal year that is”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see [§ 2(f) of Pub. L. 114–18][/us/pl/114/18/s2/f], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
 
  __Effective Date__ 
 
@@ -235,6 +243,8 @@
 [/us/usc/t29/s3162/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3162%2Fb%2F1%2FB
 [/us/pl/113/128/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs132
 [/us/stat/128/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1511
+[/us/pl/114/18/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fd
+[/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
@@ -243,6 +253,11 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

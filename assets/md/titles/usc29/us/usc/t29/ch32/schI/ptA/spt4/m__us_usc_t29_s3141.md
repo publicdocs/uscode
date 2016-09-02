@@ -69,7 +69,7 @@
 
                 (iv) __Indicator for services to employers__ 
 
-                    Prior to the commencement of the second full program year after July 22, 2014, for purposes of clauses (i)(VI), or clause (ii)(III) with respect to clause (i)(IV), the Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall jointly develop and establish, for purposes of this subparagraph, 1 or more primary indicators of performance that indicate the effectiveness of the core programs in serving employers.
+                    Prior to the commencement of the second full program year after July 22, 2014, for purposes of clauses (i)(VI), or clause (ii)(III) with respect to clause (i)(VI), the Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall jointly develop and establish, for purposes of this subparagraph, 1 or more primary indicators of performance that indicate the effectiveness of the core programs in serving employers.
 
             (B) __Additional indicators__ 
 
@@ -301,7 +301,7 @@
 
         (1) __Technical assistance__ 
 
-            If a local area fails to meet local performance accountability measures established under subsection (c) for the youth, adult, or dislocated worker program authorized under subpart 2 or 3 of part B for a program described in subsection (d)(2)(A) for any program year, the Governor, or upon request by the Governor, the Secretary of Labor, shall provide technical assistance, which may include assistance in the development of a performance improvement plan or the development of a modified local plan (or regional plan).
+            If a local area fails to meet local performance accountability measures established under subsection (c) for the youth, adult, or dislocated worker program authorized under subpart 2 or 3 of part B for any program year, the Governor, or upon request by the Governor, the Secretary of Labor, shall provide technical assistance, which may include assistance in the development of a performance improvement plan or the development of a modified local plan (or regional plan).
 
         (2) __Corrective actions__ 
 
@@ -347,7 +347,7 @@
 
             In carrying out the requirements of this Act, the State shall comply with [section 1232g of title 20][/us/usc/t20/s1232g].
 
-([Pub. L. 113–128, title I, § 116][/us/pl/113/128/s116], July 22, 2014, [128 Stat. 1471][/us/stat/128/1471].)
+([Pub. L. 113–128, title I, § 116][/us/pl/113/128/s116], July 22, 2014, [128 Stat. 1471][/us/stat/128/1471]; [Pub. L. 114–18, § 2(c)][/us/pl/114/18/s2/c], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
 
  __References in Text__ 
 
@@ -358,6 +358,16 @@
     The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(A)(vi), is [Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], which enacted [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31][/us/usc/t31/s1105], and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101] and Tables.
 
     This Act, referred to in subsec. (i)(3), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(2)(A)(iv). [Pub. L. 114–18, § 2(c)(1)][/us/pl/114/18/s2/c/1], substituted “clause (i)(VI)” for “clause (i)(IV)”.
+
+    Subsec. (g)(1). [Pub. L. 114–18, § 2(c)(2)][/us/pl/114/18/s2/c/2], struck out “for a program described in subsection (d)(2)(A)” after “part B”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see [§ 2(f) of Pub. L. 114–18][/us/pl/114/18/s2/f], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
 
  __Effective Date__ 
 
@@ -394,6 +404,8 @@
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/pl/113/128/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs116
 [/us/stat/128/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1471
+[/us/pl/114/18/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fc
+[/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
@@ -408,6 +420,12 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/114/18/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fc%2F1
+[/us/pl/114/18/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fc%2F2
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

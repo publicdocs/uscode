@@ -419,7 +419,7 @@
 
     Subsec. (b)(2)(A)(i), (ii). [Pub. L. 113–128, § 435(2)(B)(i)][/us/pl/113/128/s435/2/B/i], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-    “‘(i) be operated in collaboration with institutions of higher education or providers of rehabilitation services or other appropriate services; and
+    “(i) be operated in collaboration with institutions of higher education or providers of rehabilitation services or other appropriate services; and
 
     “(ii) serve as centers of national excellence and national or regional resources for providers and individuals with disabilities and the individuals’ representatives.”
 
@@ -453,7 +453,7 @@
 
     [Pub. L. 113–128, § 435(2)(B)(iii)(III)][/us/pl/113/128/s435/2/B/iii/III], (IV), redesignated cl. (vi) as (iv) and struck out former cl. (iv) which read as follows: “continuation of research that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities;”.
 
-    Subsec. (b)(2)(C)(v), (vi). [Pub. L. 113–128, § 435(2)(B)(iii)(VII)][/us/pl/113/128/s435/2/B/iii/VII], added cls. (v) and (vi).
+    Subsec. (b)(2)(C)(v), (vi). [Pub. L. 113–128, § 435(2)(B)(iii)(VII)][/us/pl/113/128/s435/2/B/iii/VII], added cls. (v) and (vi). Former cls. (v) and (vi) redesignated (iii) and (iv), respectively.
 
     Subsec. (b)(2)(D). [Pub. L. 113–128, § 435(2)(B)(iv)][/us/pl/113/128/s435/2/B/iv], added subpar. (D) and struck out former subpar. (D) which read as follows: “Training of students preparing to be rehabilitation personnel shall be an important priority for such a Center.”
 

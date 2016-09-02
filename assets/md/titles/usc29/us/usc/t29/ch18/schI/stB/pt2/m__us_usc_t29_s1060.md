@@ -313,7 +313,7 @@
 
     Section 104 of the Pension Protection Act of 2006, referred to in subsec. (f)(1)(A), (3)(B), is [section 104 of Pub. L. 109–280][/us/pl/109/280/s104], which is set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
-    The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (f)(1)(A)(ii), (3)(B), is [Pub. L. 111–192][/us/pl/111/192], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
+    The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (f)(3)(B), is [Pub. L. 111–192][/us/pl/111/192], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
  __Amendments__ 
 

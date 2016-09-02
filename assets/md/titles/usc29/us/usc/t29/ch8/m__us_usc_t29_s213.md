@@ -625,6 +625,10 @@
 
     1939—Subsec. (a)(11). Act Aug. 9, 1939, added par. (11).
 
+ __Effective Date of of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–277][/us/pl/113/277] effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see [section 2(i) of Pub. L. 113–277][/us/pl/113/277/s2/i], set out as a note under [section 5542 of Title 5][/us/usc/t5/s5542], Government Organization and Employees.
+
  __Effective Date of 1998 Amendment__ 
 
 [Pub. L. 105–334, § 2(b)][/us/pl/105/334/s2/b], Oct. 31, 1998, [112 Stat. 3138][/us/stat/112/3138], provided that:
@@ -995,6 +999,9 @@
 [/us/pl/87/30/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs10
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/85/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F231
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
+[/us/pl/113/277/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fi
+[/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
 [/us/pl/105/334/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F334%2Fs2%2Fb
 [/us/stat/112/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3138
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201

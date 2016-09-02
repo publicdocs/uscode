@@ -137,7 +137,7 @@
 
             (B) disseminating a list of eligible providers of youth workforce investment activities, as determined under [section 3153 of this title][/us/usc/t29/s3153];
 
-            (C) providing assistance to local areas as described in subsections (b)(6) and (c)(2) of [section 3121 of this title][/us/usc/t29/s3121], for local coordination of activities carried out under this subchapter;
+            (C) providing assistance to local areas as described in subsections (b)(7) and (c)(2) of [section 3121 of this title][/us/usc/t29/s3121], for local coordination of activities carried out under this subchapter;
 
             (D) operating a fiscal and management accountability information system under [section 3141(i) of this title][/us/usc/t29/s3141/i];
 
@@ -293,11 +293,19 @@
 
             The local board shall make opportunities available for individuals who have successfully participated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
 
-([Pub. L. 113–128, title I, § 129][/us/pl/113/128/s129], July 22, 2014, [128 Stat. 1504][/us/stat/128/1504].)
+([Pub. L. 113–128, title I, § 129][/us/pl/113/128/s129], July 22, 2014, [128 Stat. 1504][/us/stat/128/1504]; [Pub. L. 114–18, § 2(e)(2)][/us/pl/114/18/s2/e/2], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
 
  __References in Text__ 
 
     This Act, referred to in subsec. (c)(6)(A), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(1)(C). [Pub. L. 114–18][/us/pl/114/18] substituted “subsections (b)(7) and (c)(2) of [section 3121 of this title][/us/usc/t29/s3121]” for “subsections (b)(6) and (c)(2) of [section 3121 of this title][/us/usc/t29/s3121]”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see [§ 2(f) of Pub. L. 114–18][/us/pl/114/18/s2/f], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
 
  __Effective Date__ 
 
@@ -342,9 +350,18 @@
 [/us/usc/t29/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3153
 [/us/pl/113/128/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs129
 [/us/stat/128/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1504
+[/us/pl/114/18/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fe%2F2
+[/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/usc/t29/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121
+[/us/usc/t29/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

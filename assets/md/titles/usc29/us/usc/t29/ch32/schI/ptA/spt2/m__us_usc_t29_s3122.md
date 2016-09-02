@@ -431,7 +431,7 @@
 
             (A) is established to serve the local area (or the service delivery area that most closely corresponds to the local area);
 
-            (B) was in existence on the day before July 22, 2014, pursuant to State law; and
+            (B) was in existence on the day before August 7, 1998, pursuant to State law; and
 
             (C)
 
@@ -449,7 +449,7 @@
 
             A reference in this Act or a core program provision to a local board, shall include a reference to such an entity.
 
-([Pub. L. 113–128, title I, § 107][/us/pl/113/128/s107], July 22, 2014, [128 Stat. 1456][/us/stat/128/1456].)
+([Pub. L. 113–128, title I, § 107][/us/pl/113/128/s107], July 22, 2014, [128 Stat. 1456][/us/stat/128/1456]; [Pub. L. 114–18, § 2(b)][/us/pl/114/18/s2/b], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
 
  __References in Text__ 
 
@@ -460,6 +460,14 @@
     The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(D)(iii) and (d)(11)(A), (B)(ii), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355]. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title][/us/usc/t29/s701] and Tables.
 
     The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (i)(1)(B). [Pub. L. 114–18][/us/pl/114/18] substituted “August 7, 1998” for “July 22, 2014”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see [§ 2(f) of Pub. L. 114–18][/us/pl/114/18/s2/f], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
 
  __Effective Date__ 
 
@@ -520,6 +528,8 @@
 [/us/usc/t29/s3174/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fc%2F2
 [/us/pl/113/128/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs107
 [/us/stat/128/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1456
+[/us/pl/114/18/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fb
+[/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
@@ -532,6 +542,11 @@
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

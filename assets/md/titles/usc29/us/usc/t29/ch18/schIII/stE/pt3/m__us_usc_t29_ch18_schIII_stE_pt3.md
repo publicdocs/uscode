@@ -29,7 +29,7 @@
 
     Section 1424, [Pub. L. 93–406, title IV, § 4244][/us/pl/93/406/s4244], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1255][/us/stat/94/1255], related to overburden credit against minimum contribution requirement.
 
-    Section 1425, [Pub. L. 93–406, title IV, § 4244A][/us/pl/93/406/s4244A], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1257][/us/stat/94/1257]; amended [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], realted to adjustments in accrued benefits.
+    Section 1425, [Pub. L. 93–406, title IV, § 4244A][/us/pl/93/406/s4244A], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1257][/us/stat/94/1257]; amended [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], related to adjustments in accrued benefits.
 
  __Effective Date of Repeal__ 
 

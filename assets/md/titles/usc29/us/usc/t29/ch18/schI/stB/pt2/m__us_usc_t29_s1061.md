@@ -73,7 +73,7 @@
 
  __References in Text__ 
 
-    [Section 1086(c) of this title][/us/usc/t29/s1086/c], referred to in subsec. (c)(1), was in the original “section 307(c)”, meaning [section 307(c) of Pub. L. 93–406][/us/pl/93/406/s307/c], the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by [Pub. L. 100–203, title IX, § 9341(b)(1)][/us/pl/100/203/s9341/b/1], Dec. 22, 1987, [101 Stat. 1330–370][/us/stat/101/1330-370].
+    [Section 1086(c) of this title][/us/usc/t29/s1086/c], referred to in subsec. (c)(1), was in the original “section 307(c)”, meaning [section 307(c) of Pub. L. 93–406][/us/pl/93/406/s307/c], the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by [Pub. L. 100–203, title IX, § 9341(b)(1)][/us/pl/100/203/s9341/b/1], Dec. 22, 1987, [101 Stat. 1330–370][/us/stat/101/1330-370] and subsequently was repealed by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784].
 
     This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
@@ -120,6 +120,8 @@
 [/us/pl/93/406/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs307%2Fc
 [/us/pl/100/203/s9341/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9341%2Fb%2F1
 [/us/stat/101/1330-370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-370
+[/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
+[/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/93/406/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1017

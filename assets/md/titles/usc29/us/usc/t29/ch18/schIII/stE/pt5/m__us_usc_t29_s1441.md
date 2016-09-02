@@ -67,7 +67,7 @@
 
  __References in Text__ 
 
-    [Section 1425 of this title][/us/usc/t29/s1425], referred to in subsec. (c)(1)(C), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+    [Section 1425 of this title][/us/usc/t29/s1425], referred to in subsec. (c)(2)(C), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
  __Effective Date__ 
 

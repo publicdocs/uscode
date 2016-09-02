@@ -1595,7 +1595,7 @@ part 2—merger or transfer of plan assets or liabilities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs1413" data-uslm-ref="/us/usc/t29/s1413">1413.</a>  </td>
 
-    <td> Partition.  </td>
+    <td> Partitions of eligible multiemployer plans.  </td>
 
   </tr>
 

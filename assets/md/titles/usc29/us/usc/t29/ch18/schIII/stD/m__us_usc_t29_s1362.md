@@ -335,7 +335,7 @@
 
 >     “(2)  __Transition rule__  __.—__ 
 
->     An employer that had a cessation of operations before the date of enactment of this Act \[Dec. 16, 2014\] (as determined under subsection 4062(e) of the Employee Retirement Income Security Act of 1974 \[subsec. (e) of this section\] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act \[subsec. (e)(4) of this section\] (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final ad ministrative determination that a substantial cessation of operations has occurred.”
+>     An employer that had a cessation of operations before the date of enactment of this Act \[Dec. 16, 2014\] (as determined under subsection 4062(e) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1362(e)][/us/usc/t29/s1362/e]\] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final ad ministrative determination that a substantial cessation of operations has occurred.”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -367,7 +367,7 @@
 
 [Pub. L. 113–235, div. P, § 1(c)][/us/pl/113/235/s1/c], Dec. 16, 2014, [128 Stat. 2827][/us/stat/128/2827], provided that: 
 
-> “The Pension Benefit Guaranty Corporation shall not take any enforcement, administrative, or other action pursuant to section 4062(e) of the Employee Retirement Income Security Act of 1974 \[subsec. (e) of this section\], or in connection with an agreement settling liability arising under such section, that is inconsistent with the amendment made by this section \[amending this section\], without regard to whether the action relates to a cessation or other event that occurs before, on, or after the date of the enactment of this Act \[Dec. 16, 2014\], unless such action is in connection with a settlement agreement that is in place before June 1, 2014. The Pension Benefit Guaranty Corporation shall not initiate a new enforcement action with respect to section 4062(e) of such Act that is inconsistent with its enforcement policy in effect on June 1, 2014.”
+> “The Pension Benefit Guaranty Corporation shall not take any enforcement, administrative, or other action pursuant to section 4062(e) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1362(e)][/us/usc/t29/s1362/e]\], or in connection with an agreement settling liability arising under such section, that is inconsistent with the amendment made by this section \[amending this section\], without regard to whether the action relates to a cessation or other event that occurs before, on, or after the date of the enactment of this Act \[Dec. 16, 2014\], unless such action is in connection with a settlement agreement that is in place before June 1, 2014. The Pension Benefit Guaranty Corporation shall not initiate a new enforcement action with respect to section 4062(e) of such Act that is inconsistent with its enforcement policy in effect on June 1, 2014.”
 
  __Applicability of Amendments by Subtitles A and B of Title I of__  __[__  __Pub. L. 109–280__  __][/us/pl/109/280]__ 
 
@@ -470,6 +470,7 @@
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/113/235/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1%2Fb
 [/us/stat/128/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2826
+[/us/usc/t29/s1362/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fe
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fe
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
@@ -497,6 +498,7 @@
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
 [/us/pl/113/235/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1%2Fc
 [/us/stat/128/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2827
+[/us/usc/t29/s1362/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fe
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280

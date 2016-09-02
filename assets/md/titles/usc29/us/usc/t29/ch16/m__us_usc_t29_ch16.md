@@ -753,7 +753,7 @@ subpart 1—general provisions  </td>
 
   <tr>
 
-    <td> 796–1.Administration of the Independent Living program.  </td>
+    <td> 796–1.Administration of the independent living program.  </td>
 
     <td>   </td>
 

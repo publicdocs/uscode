@@ -65,7 +65,7 @@
 
                     (IV) local areas, one-stop operators, one-stop partners, and eligible providers, including the development and training of staff, which may include the development and training of staff to provide opportunities for individuals with barriers to employment to enter in-demand industry sectors or occupations and nontraditional occupations, the development of exemplary program activities, and the provision of technical assistance to local areas that fail to meet local performance accountability measures described in [section 3141(c) of this title][/us/usc/t29/s3141/c];
 
-                (ii) providing assistance to local areas as described in [section 3121(b)(6) of this title][/us/usc/t29/s3121/b/6];
+                (ii) providing assistance to local areas as described in [section 3121(b)(7) of this title][/us/usc/t29/s3121/b/7];
 
                 (iii) operating a fiscal and management accountability information system in accordance with [section 3141(i) of this title][/us/usc/t29/s3141/i];
 
@@ -621,7 +621,7 @@
 
             (C) are designed to assist the individuals described in subparagraph (A) to establish a work history, demonstrate success in the workplace, and develop the skills that lead to entry into and retention in unsubsidized employment.
 
-([Pub. L. 113–128, title I, § 134][/us/pl/113/128/s134], July 22, 2014, [128 Stat. 1520][/us/stat/128/1520].)
+([Pub. L. 113–128, title I, § 134][/us/pl/113/128/s134], July 22, 2014, [128 Stat. 1520][/us/stat/128/1520]; [Pub. L. 114–18, § 2(e)(3)][/us/pl/114/18/s2/e/3], May 22, 2015, [129 Stat. 214][/us/stat/129/214].)
 
  __References in Text__ 
 
@@ -640,6 +640,14 @@
     The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(A)(ix)(I), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
     The Higher Education Act of 1965, referred to in subsec. (c)(3)(B)(i)(I), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219]. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2)(B)(ii). [Pub. L. 114–18][/us/pl/114/18] substituted “section 3121(b)(7)” for “section 3121(b)(6)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see [§ 2(f) of Pub. L. 114–18][/us/pl/114/18/s2/f], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
 
  __Effective Date__ 
 
@@ -662,7 +670,7 @@
 [/us/usc/t29/s3172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3172%2Fb
 [/us/usc/t29/s3121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121%2Fc
 [/us/usc/t29/s3141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fc
-[/us/usc/t29/s3121/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121%2Fb%2F6
+[/us/usc/t29/s3121/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121%2Fb%2F7
 [/us/usc/t29/s3141/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fi
 [/us/usc/t29/s3152/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3152%2Fa%2F2%2FB
 [/us/usc/t29/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3152
@@ -732,6 +740,8 @@
 [/us/usc/t29/s3173/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3173%2Fb
 [/us/pl/113/128/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs134
 [/us/stat/128/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1520
+[/us/pl/114/18/s2/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fe%2F3
+[/us/stat/129/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F214
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
@@ -758,6 +768,11 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

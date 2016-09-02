@@ -209,8 +209,6 @@
 
 > “This division \[see Tables for classification\] may be cited as the ‘Multiemployer Pension Reform Act of 2014’ ”.
 
- __Short Title of 2014 Amendment__ 
-
 [Pub. L. 113–97, § 1(a)][/us/pl/113/97/s1/a], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Cooperative and Small Employer Charity Pension Flexibility Act’.”

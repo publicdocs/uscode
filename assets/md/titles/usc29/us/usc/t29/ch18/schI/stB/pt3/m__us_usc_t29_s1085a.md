@@ -49,7 +49,7 @@
 
             (D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under paragraph (3)(D), and
 
-            (E) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of [section 1082(c)(7)(A)(i)(I) of this title][/us/usc/t29/s1082/c/7/A/i/I] (as in effect on the day before the enactment of the Pension Protection Act of 2006).
+            (E) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of [section 1082(c)(7)(A)(i)(I) of this title][/us/usc/t29/s1082/c/7/A/i/I] (as in effect on the day before August 17, 2006).
 
         (3) __Credits to account__ 
 
@@ -111,7 +111,7 @@
 
             (B) __Dedicated bond portfolio__ 
 
-                The Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of a plan shall be determined by using the interest rate under [section 1082(b)(5) of this title][/us/usc/t29/s1082/b/5] (as in effect on the day before the enactment of the Pension Protection Act of 2006).
+                The Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of a plan shall be determined by using the interest rate under [section 1082(b)(5) of this title][/us/usc/t29/s1082/b/5] (as in effect on the day before August 17, 2006).
 
         (3) __Actuarial assumptions must be reasonable__ 
 
@@ -135,7 +135,7 @@
 
             (A) __Funding methods available__ 
 
-                All funding methods available to CSEC plans under [section 1082 of this title][/us/usc/t29/s1082] (as in effect on the day before the enactment of the Pension Protection Act of 2006) shall continue to be available under this section.
+                All funding methods available to CSEC plans under [section 1082 of this title][/us/usc/t29/s1082] (as in effect on the day before August 17, 2006) shall continue to be available under this section.
 
             (B) __Changes__ 
 
@@ -415,7 +415,7 @@
 
             (B) __Plans to which paragraph applies__ 
 
-            This paragraph shall apply to a CSEC plan other than a plan described in [section 1082(d)(6)(A) of this title][/us/usc/t29/s1082/d/6/A] (as in effect on the day before the enactment of the Pension Protection Act of 2006) which—
+            This paragraph shall apply to a CSEC plan other than a plan described in [section 1082(d)(6)(A) of this title][/us/usc/t29/s1082/d/6/A] (as in effect on the day before August 17, 2006) which—
 
                 (i) is required to pay installments under this subsection for a plan year, and
 
@@ -757,8 +757,6 @@
 
  __References in Text__ 
 
-    [Section 1082 of this title][/us/usc/t29/s1082] (as in effect on the day before the enactment of the Pension Protection Act of 2006), referred to in subsecs. (b)(2)(E), (c)(2)(B), (5)(A), and (f)(5)(B), means [section 1082 of this title][/us/usc/t29/s1082] as in effect on the day before the enactment of [Pub. L. 109–280][/us/pl/109/280]. [Section 101(a) of Pub. L. 109–280][/us/pl/109/280/s101/a] repealed former [section 1082 of this title][/us/usc/t29/s1082].
-
     Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is [section 104 of Pub. L. 109–280][/us/pl/109/280/s104], which is set out as a note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
     The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
@@ -822,11 +820,6 @@
 [/us/pl/93/406/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs306
 [/us/pl/113/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fa
 [/us/stat/128/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1102
-[/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
-[/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
-[/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
 [/us/pl/109/280/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs104
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531

@@ -265,7 +265,7 @@
 
     Subsec. (b)(3). [Pub. L. 113–128, § 433(3)(B)][/us/pl/113/128/s433/3/B], substituted “on disability, independent living, and rehabilitation” for “in rehabilitation”.
 
-    Subsec. (b)(4). [Pub. L. 113–128, § 433(3)(C)][/us/pl/113/128/s433/3/C], inserted “education, health and wellness,” after “independent living,” in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to current subpars. (A), (B), (D), and (E), respectively.
+    Subsec. (b)(4). [Pub. L. 113–128, § 433(3)(C)][/us/pl/113/128/s433/3/C], inserted “education, health and wellness,” after “independent living,” in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
 
     Subsec. (b)(6). [Pub. L. 113–128, § 433(3)(D)][/us/pl/113/128/s433/3/D], substituted “advances in disability, independent living, and rehabilitation” for “advances in rehabilitation” and inserted “education, health and wellness,” after “employment, independent living,”.
 

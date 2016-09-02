@@ -113,7 +113,9 @@
 
     Subsec. (b)(2)(A). [Pub. L. 113–128, § 434(2)(B)(i)][/us/pl/113/128/s434/2/B/i], inserted “independent living research,” after “assistive technology research,”.
 
-    Subsec. (b)(2)(B), (D), (E). [Pub. L. 113–128, § 434(2)(B)(ii)][/us/pl/113/128/s434/2/B/ii]–(iv), inserted “, independent living research,” after “assistive technology research”.
+    Subsec. (b)(2)(B). [Pub. L. 113–128, § 434(2)(B)(ii)][/us/pl/113/128/s434/2/B/ii], inserted “, independent living research,” after “assistive technology research”.
+
+    Subsec. (b)(2)(D), (E). [Pub. L. 113–128, § 434(2)(B)(iii)][/us/pl/113/128/s434/2/B/iii], (iv), substituted “, independent living research, and research that incorporates the principles of universal design” for “and research that incorporates the principles of universal design”.
 
     Subsec. (c). [Pub. L. 113–128, § 434(5)][/us/pl/113/128/s434/5], added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -136,10 +138,6 @@
     Subsec. (c). [Pub. L. 105–394, § 201(3)][/us/pl/105/394/s201/3], added subsec. (c) and struck out former subsec. (c) which read as follows: “The Committee shall annually submit to the President and to the appropriate committees of the Congress a report making such recommendations as the Committee deems appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research related to rehabilitation of individuals with disabilities.”
 
     Subsecs. (d), (e). [Pub. L. 105–394, § 201(4)][/us/pl/105/394/s201/4], added subsecs. (d) and (e).
-
- __Change of Name__ 
-
-    Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 ----------
 
@@ -172,6 +170,7 @@
 [/us/pl/113/128/s434/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs434%2F2%2FA
 [/us/pl/113/128/s434/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs434%2F2%2FB%2Fi
 [/us/pl/113/128/s434/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs434%2F2%2FB%2Fii
+[/us/pl/113/128/s434/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs434%2F2%2FB%2Fiii
 [/us/pl/113/128/s434/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs434%2F5
 [/us/pl/113/128/s434/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs434%2F6%2FA
 [/us/pl/113/128/s434/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs434%2F3

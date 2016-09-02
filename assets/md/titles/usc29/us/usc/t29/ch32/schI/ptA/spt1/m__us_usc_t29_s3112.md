@@ -105,7 +105,7 @@
 
                     (II) the local areas designated in the State, including the process used for designating local areas, and the process used for identifying any planning regions under [section 3121(a) of this title][/us/usc/t29/s3121/a], including a description of how the State consulted with the local boards and chief elected officials in determining the planning regions;
 
-                    (III) the appeals process referred to in [section 3121(b)(5) of this title][/us/usc/t29/s3121/b/5], relating to designation of local areas;
+                    (III) the appeals process referred to in [section 3121(b)(6) of this title][/us/usc/t29/s3121/b/6], relating to designation of local areas;
 
                     (IV) the appeals process referred to in [section 3151(h)(2)(E) of this title][/us/usc/t29/s3151/h/2/E], relating to determinations for infrastructure funding; and
 
@@ -213,7 +213,7 @@
 
             The Secretary of Labor, in conjunction with the Secretary of Education, shall establish a process for approving and may approve unified State plans that meet the requirements of this section and are submitted to cover periods commencing prior to the second full program year described in paragraph (1)(A).
 
-([Pub. L. 113–128, title I, § 102][/us/pl/113/128/s102], July 22, 2014, [128 Stat. 1444][/us/stat/128/1444].)
+([Pub. L. 113–128, title I, § 102][/us/pl/113/128/s102], July 22, 2014, [128 Stat. 1444][/us/stat/128/1444]; [Pub. L. 114–18, § 2(e)(1)][/us/pl/114/18/s2/e/1], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
 
  __References in Text__ 
 
@@ -224,6 +224,16 @@
     The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], [48 Stat. 113][/us/stat/48/113], which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title][/us/usc/t29/s49] and Tables.
 
     This Act, referred to in subsec. (b)(2)(E)(v), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(2)(D)(i)(III). [Pub. L. 114–18][/us/pl/114/18] substituted “section 3121(b)(6)” for “section 3121(b)(5)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–18, § 2(f)][/us/pl/114/18/s2/f], May 22, 2015, [129 Stat. 214][/us/stat/129/214], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 3121, 3122, 3141, 3164, 3172, and 3174\] shall take effect as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\].”
 
  __Effective Date__ 
 
@@ -244,7 +254,7 @@
 [/us/usc/t29/s3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3248
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s3121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121%2Fa
-[/us/usc/t29/s3121/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121%2Fb%2F5
+[/us/usc/t29/s3121/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121%2Fb%2F6
 [/us/usc/t29/s3151/h/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fh%2F2%2FE
 [/us/usc/t29/s3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3164
 [/us/usc/t29/s3141/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fii
@@ -267,6 +277,8 @@
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
 [/us/pl/113/128/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs102
 [/us/stat/128/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1444
+[/us/pl/114/18/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fe%2F1
+[/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
@@ -279,6 +291,10 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/stat/129/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F214
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

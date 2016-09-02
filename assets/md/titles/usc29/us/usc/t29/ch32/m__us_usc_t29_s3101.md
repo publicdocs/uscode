@@ -39,45 +39,69 @@
 
 [Pub. L. 113–128, title V, § 506][/us/pl/113/128/s506], July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], provided that:
 
-    (a) In general.—Except as otherwise provided in this Act, this Act \[see Tables for classification\], including the amendments made by this Act, shall take effect on the first day of the first full program year after the date of enactment of this Act \[July 22, 2014\].
+>     “(a) __In general.—__ 
 
-    (b) Application date for workforce development performance accountability system
+>     Except as otherwise provided in this Act, this Act \[see Tables for classification\], including the amendments made by this Act, shall take effect on the first day of the first full program year after the date of enactment of this Act \[July 22, 2014\].
 
-    (1) In general.—Section 136 of the Workforce Investment Act of 1998 ([29 U.S.C. 2871][/us/usc/t29/s2871]), as in effect on the day before the date of enactment of this Act, shall apply in lieu of section 116 of this Act \[[29 U.S.C. 3141][/us/usc/t29/s3141]\], for the first full program year after the date of enactment of this Act.
+>     “(b)
 
-    (2) Special provisions.—For purposes of the application described in paragraph (1)—
+>      Application date for workforce development performance accountability system
 
-    (A) except as otherwise specified, a reference in section 136 of the Workforce Investment Act of 1998 to a provision in such Act ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than to a provision in such section or section 112 of such Act \[[29 U.S.C. 2822][/us/usc/t29/s2822]\], shall be deemed to refer to the corresponding provision of this Act;
+>         “(1) __In general.—__ 
 
-    (B) the terms “local area”, “local board”, “one-stop partner”, and “State board” have the meanings given the terms in section 3 of this Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\];
+>         Section 136 of the Workforce Investment Act of 1998 ([29 U.S.C. 2871][/us/usc/t29/s2871]), as in effect on the day before the date of enactment of this Act, shall apply in lieu of section 116 of this Act \[[29 U.S.C. 3141][/us/usc/t29/s3141]\], for the first full program year after the date of enactment of this Act.
 
-    (C) except as provided in subparagraph (B), terms used in such section 136 shall have the meanings given the terms in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]);
+>         “(2) __Special provisions.—__ 
 
-    (D) any agreement negotiated and reached under section 136(c)(2) of the Workforce Investment Act of 1998 ([29 U.S.C. 2871(c)(2)][/us/usc/t29/s2871/c/2]) shall remain in effect, until a new agreement is so negotiated and reached, for that first full program year;
+>         For purposes of the application described in paragraph (1)—
 
-    (E) if a State or local area fails to meet levels of performance under subsection (g) or (h), respectively, of section 136 of the Workforce Investment Act of 1998 \[[29 U.S.C. 2871(g)][/us/usc/t29/s2871/g], (h)\] during that first full program year, the sanctions provided under such subsection shall apply during the second full program year \[probably means beginning July 1, 2016\] after the date of enactment of this Act; and
+>             “(A) except as otherwise specified, a reference in section 136 of the Workforce Investment Act of 1998 to a provision in such Act ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than to a provision in such section or section 112 of such Act \[[29 U.S.C. 2822][/us/usc/t29/s2822]\], shall be deemed to refer to the corresponding provision of this Act;
 
-    (F) the Secretary shall use an amount retained, as a result of a reduction in an allotment to a State made under section 136(g)(1)(B) of such Act ([29 U.S.C. 2871(g)(1)(B)][/us/usc/t29/s2871/g/1/B]), to provide technical assistance as described in subsections (f)(1) and (g)(1) of section 116 of this Act \[[29 U.S.C. 3141(f)(1)][/us/usc/t29/s3141/f/1], (g)(1)\], in lieu of incentive grants under section 503 of the Workforce Investment Act of 1998 ([20 U.S.C. 9273][/us/usc/t20/s9273]) as provided in section 136(g)(2) of such Act ([29 U.S.C. 2871(g)(2)][/us/usc/t29/s2871/g/2]).
+>             “(B) the terms ‘local area’, ‘local board’, ‘one-stop partner’, and ‘State board’ have the meanings given the terms in section 3 of this Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\];
 
-    (c) Application date for State and local plan provisions
+>             “(C) except as provided in subparagraph (B), terms used in such section 136 shall have the meanings given the terms in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]);
 
-    (1) Implementation.—Sections 112 and 118 of the Workforce Investment Act of 1998 ([29 U.S.C. 2822][/us/usc/t29/s2822], 2833), as in effect on the day before the date of enactment of this Act, shall apply to implementation of State and local plans, in lieu of sections 102 and 103, and section 108, respectively, of this Act \[[29 U.S.C. 3112][/us/usc/t29/s3112], 3113, 3123\], for the first full program year after the date of enactment of this Act.
+>             “(D) any agreement negotiated and reached under section 136(c)(2) of the Workforce Investment Act of 1998 ([29 U.S.C. 2871(c)(2)][/us/usc/t29/s2871/c/2]) shall remain in effect, until a new agreement is so negotiated and reached, for that first full program year;
 
-    (2) Special provisions.—For purposes of the application described in paragraph (1)—
+>             “(E) if a State or local area fails to meet levels of performance under subsection (g) or (h), respectively, of section 136 of the Workforce Investment Act of 1998 \[[29 U.S.C. 2871(g)][/us/usc/t29/s2871/g], (h)\] during that first full program year, the sanctions provided under such subsection shall apply during the second full program year \[probably means beginning July 1, 2016\] after the date of enactment of this Act; and
 
-    (A) except as otherwise specified, a reference in section 112 or 118 of the Workforce Investment Act of 1998 to a provision in such Act ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than to a provision in or to either such section or to section 136 of such Act, shall be deemed to refer to the corresponding provision of this Act;
+>             “(F) the Secretary shall use an amount retained, as a result of a reduction in an allotment to a State made under section 136(g)(1)(B) of such Act ([29 U.S.C. 2871(g)(1)(B)][/us/usc/t29/s2871/g/1/B]), to provide technical assistance as described in subsections (f)(1) and (g)(1) of section 116 of this Act \[[29 U.S.C. 3141(f)(1)][/us/usc/t29/s3141/f/1], (g)(1)\], in lieu of incentive grants under section 503 of the Workforce Investment Act of 1998 ([20 U.S.C. 9273][/us/usc/t20/s9273]) as provided in section 136(g)(2) of such Act ([29 U.S.C. 2871(g)(2)][/us/usc/t29/s2871/g/2]).
 
-    (B) the terms “local area”, “local board”, “one-stop partner”, and “State board” have the meanings given the terms in section 3 of this Act;
+>     “(c)
 
-    (C) except as provided in subparagraph (B), terms used in such section 112 or 118 shall have the meanings given the terms in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]); and
+>      Application date for State and local plan provisions
 
-    (D) section 112(b)(18)(D) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)(18)(D)][/us/usc/t29/s2822/b/18/D]) shall not apply.
+>         “(1) __Implementation.—__ 
 
-    (3) Submission.—Sections 102, 103, and 108 of this Act shall apply to plans for the second full program year after the date of enactment, including the development, submission, and approval of such plans during the first full program year after such date.
+>         Sections 112 and 118 of the Workforce Investment Act of 1998 ([29 U.S.C. 2822][/us/usc/t29/s2822], 2833), as in effect on the day before the date of enactment of this Act, shall apply to implementation of State and local plans, in lieu of sections 102 and 103, and section 108, respectively, of this Act \[[29 U.S.C. 3112][/us/usc/t29/s3112], 3113, 3123\], for the first full program year after the date of enactment of this Act.
 
-    (d) Disability provisions.—Except as otherwise provided in title IV of this Act, title IV \[see Tables for classification\], and the amendments made by title IV, shall take effect on the date of enactment of this Act.
+>         “(2) __Special provisions.—__ 
+
+>         For purposes of the application described in paragraph (1)—
+
+>             “(A) except as otherwise specified, a reference in section 112 or 118 of the Workforce Investment Act of 1998 to a provision in such Act ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than to a provision in or to either such section or to section 136 of such Act, shall be deemed to refer to the corresponding provision of this Act;
+
+>             “(B) the terms ‘local area’, ‘local board’, ‘one-stop partner’, and ‘State board’ have the meanings given the terms in section 3 of this Act;
+
+>             “(C) except as provided in subparagraph (B), terms used in such section 112 or 118 shall have the meanings given the terms in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]); and
+
+>             “(D) section 112(b)(18)(D) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)(18)(D)][/us/usc/t29/s2822/b/18/D]) shall not apply.
+
+>         “(3) __Submission.—__ 
+
+>         Sections 102, 103, and 108 of this Act shall apply to plans for the second full program year after the date of enactment, including the development, submission, and approval of such plans during the first full program year after such date.
+
+>     “(d) __Disability provisions.—__ 
+
+>     Except as otherwise provided in title IV of this Act, title IV \[see Tables for classification\], and the amendments made by title IV, shall take effect on the date of enactment of this Act.”
 
     \[The first full program year after the date of enactment of [Pub. L. 113–128][/us/pl/113/128], referred to in [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out above, probably begins on July 1, 2015, based on [section 189(g)(1)(A) of Pub. L. 113–128][/us/pl/113/128/s189/g/1/A], which is classified to [section 3249(g)(1)(A) of this title][/us/usc/t29/s3249/g/1/A].\]
+
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–18, § 1][/us/pl/114/18/s1], May 22, 2015, [129 Stat. 213][/us/stat/129/213], provided that: 
+
+> “This Act \[amending sections 780, 3112, 3121, 3122, 3141, 3164, 3172, and 3174 of this title and enacting provisions set out as notes under sections 780 and 3112 of this title\] may be cited as the ‘WIOA Technical Amendments Act’.”
 
  __Short Title__ 
 
@@ -123,6 +147,8 @@
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/pl/113/128/s189/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs189%2Fg%2F1%2FA
 [/us/usc/t29/s3249/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3249%2Fg%2F1%2FA
+[/us/pl/114/18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs1
+[/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
 [/us/pl/113/128/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs1%2Fa
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/pl/113/128/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs201

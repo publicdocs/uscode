@@ -69,9 +69,9 @@
 
     Par. (6). [Pub. L. 113–128, § 431(7)][/us/pl/113/128/s431/7], added par. (6). Former par. (6) redesignated (7).
 
-    Par. (7). [Pub. L. 113–128, § 431(6)][/us/pl/113/128/s431/6], (8), redesignated par. (6) as (7) and substituted “; and” for period at end.
+    Par. (7). [Pub. L. 113–128, § 431(6)][/us/pl/113/128/s431/6], redesignated par. (6) as (7).
 
-    Par. (8). [Pub. L. 113–128, § 431(9)][/us/pl/113/128/s431/9], added par. (8).
+    Par. (8). [Pub. L. 113–128, § 431(8)][/us/pl/113/128/s431/8], (9), added par. (8).
 
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to directory language of [Pub. L. 105–220, § 405][/us/pl/105/220/s405], which enacted this section.
 
@@ -106,7 +106,7 @@
 [/us/pl/113/128/s431/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F5
 [/us/pl/113/128/s431/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F7
 [/us/pl/113/128/s431/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F6
-[/us/pl/113/128/s431/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F9
+[/us/pl/113/128/s431/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F8
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405
 

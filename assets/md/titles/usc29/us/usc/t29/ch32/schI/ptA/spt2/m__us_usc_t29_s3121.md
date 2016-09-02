@@ -71,11 +71,15 @@
 
             The Governor may approve a request from any unit of general local government (including a combination of such units) for designation of an area as a local area if the State board determines, based on the considerations described in paragraph (1)(B), and recommends to the Governor, that such area should be so designated.
 
-        (5) __Appeals__ 
+        (5) __Areas served by rural concentrated employment programs__ 
+
+            The Governor may approve, under paragraph (2) or (3), a request for designation as a local area from an area described in [section 3122(c)(1)(C) of this title][/us/usc/t29/s3122/c/1/C].
+
+        (6) __Appeals__ 
 
             A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary of Labor, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeals process described in the State plan, as specified in [section 3112(b)(2)(D)(i)(III) of this title][/us/usc/t29/s3112/b/2/D/i/III], or that the area meets the requirements of paragraph (2) or (3), may require that the area be designated as a local area under such paragraph.
 
-        (6) __Redesignation assistance__ 
+        (7) __Redesignation assistance__ 
 
             On the request of all of the local areas in a planning region, the State shall provide funding from funds made available under sections 3163(a) and 3173(a)(1) of this title to assist the local areas in carrying out activities to facilitate the redesignation of the local areas to a single local area.
 
@@ -139,7 +143,7 @@
 
             The term “sustained fiscal integrity”, used with respect to a local area, means that the Secretary has not made a formal determination, during either of the last 2 consecutive years preceding the determination regarding such integrity, that either the grant recipient or the administrative entity of the area misexpended funds provided under part B (or, if applicable, title I of the Workforce Investment Act of 1998 as in effect prior to the effective date of such part B) due to willful disregard of the requirements of the provision involved, gross negligence, or failure to comply with accepted standards of administration.
 
-([Pub. L. 113–128, title I, § 106][/us/pl/113/128/s106], July 22, 2014, [128 Stat. 1452][/us/stat/128/1452].)
+([Pub. L. 113–128, title I, § 106][/us/pl/113/128/s106], July 22, 2014, [128 Stat. 1452][/us/stat/128/1452]; [Pub. L. 114–18, § 2(a)(1)][/us/pl/114/18/s2/a/1], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
 
  __References in Text__ 
 
@@ -148,6 +152,14 @@
     The Workforce Investment Act of 1998, referred to in subsecs. (b)(2), (d)(1), and (e)(2), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
     The effective date of such part B, referred to in subsec. (e)(2), is the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(5) to (7). [Pub. L. 114–18][/us/pl/114/18] added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see [§ 2(f) of Pub. L. 114–18][/us/pl/114/18/s2/f], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
 
  __Effective Date__ 
 
@@ -162,6 +174,7 @@
 
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t29/s3112/b/2/E/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112%2Fb%2F2%2FE%2Fiii%2FII
+[/us/usc/t29/s3122/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122%2Fc%2F1%2FC
 [/us/usc/t29/s3112/b/2/D/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112%2Fb%2F2%2FD%2Fi%2FIII
 [/us/usc/t29/s3141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fc
 [/us/usc/t29/s3111/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111%2Fd%2F9
@@ -172,6 +185,8 @@
 [/us/usc/t29/s2871/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2871%2Fb%2F2%2FA
 [/us/pl/113/128/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs106
 [/us/stat/128/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1452
+[/us/pl/114/18/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fa%2F1
+[/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
@@ -181,6 +196,11 @@
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

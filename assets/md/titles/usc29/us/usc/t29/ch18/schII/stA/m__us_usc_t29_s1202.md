@@ -41,7 +41,7 @@
 
     This chapter, referred to in subsecs. (a), (c), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
-    Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code.
+    Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with former [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code. Section 418 was repealed by [Pub. L. 113–235, div. O, title I, § 108(b)(1)][/us/pl/113/235/s108/b/1], Dec. 16, 2014, [128 Stat. 2787][/us/stat/128/2787].
 
     Sections 1421 through 1425 of this title, referred to in subsec. (e), were repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
@@ -80,6 +80,8 @@
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/pl/113/235/s108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fb%2F1
+[/us/stat/128/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2787
 [/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
 [/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

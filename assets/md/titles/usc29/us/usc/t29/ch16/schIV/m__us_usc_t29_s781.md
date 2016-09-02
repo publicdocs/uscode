@@ -81,10 +81,6 @@
 
     1998—Subsec. (c). [Pub. L. 105–394][/us/pl/105/394] added subsec. (c).
 
- __Change of Name__ 
-
-    Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
  __Termination of Reporting Requirements__ 
 
     For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to Congress required under subsec. (b) of this section is listed on page 182), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
