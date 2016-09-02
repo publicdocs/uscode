@@ -191,6 +191,132 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
     Amendment by [Pub. L. 103–337][/us/pl/103/337] effective Dec. 1, 1994, except as otherwise provided, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of Title 10][/us/usc/t10/s10001], Armed Forces.
 
+ __Authorization of National Guard State Partnership Program__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1205][/us/pl/113/66/s1205], Dec. 26, 2013, [127 Stat. 897][/us/stat/127/897], provided that:
+
+>     “(a) __Authority.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to establish a program of exchanges of members of the National Guard of a State or territory and the military forces, or security forces or other government organizations whose primary functions include disaster response or emergency response, of a foreign country.
+
+>         “(2)  __State partnership program__  __.—__ 
+
+>         Each program established under this subsection shall be known as a ‘State Partnership Program’.
+
+>     “(b)  __Limitation__  __.—__ 
+
+>     An activity under a program established under subsection (a) that involves the security forces or other government organizations whose primary functions include disaster response or emergency response of a foreign country, or an activity that the Secretary of Defense determines is a matter within the core competencies of the National Guard of a State or territory, may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
+
+>     “(c) __Regulations.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall establish accounting procedures to ensure that expenditures of funds to carry out this section are accounted for and appropriate.
+
+>         “(2)  __Notification__  __.—__ 
+
+>         Not later than 15 days after the date on which such regulations have been prescribed, the Secretary of Defense—
+
+>             “(A) shall notify the appropriate congressional committees that the regulations have been prescribed; and
+
+>             “(B) shall provide to the appropriate congressional committees a copy of the regulations.
+
+>     “(d) __Availability of Authorized Funds for Program.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Funds authorized to be appropriated to the Department of Defense, including funds authorized to be appropriated for the Army National Guard and Air National Guard, are authorized to be available—
+
+>             “(A) for payment of costs incurred by the National Guard of a State or territory to conduct activities under a program established under subsection (a); and
+
+>             “(B) for payment of incremental expenses of a foreign country to conduct activities under a program established under subsection (a).
+
+>         “(2) __Limitations.—__ 
+
+>             “(A)  __Active duty requirement__  __.—__ 
+
+>             Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation
+
+>             “(B)  __Incremental expenses__  __.—__ 
+
+>             The total amount of payments for incremental expenses of foreign countries as authorized under paragraph (1)(B) for activities under programs established under subsection (a) in any fiscal year may not exceed $10,000,000.
+
+>     “(e) __Reports and Notifications.—__ 
+
+>         “(1) __Review and report of existing programs.—__ 
+
+>             “(A)  __Review__  __.—__ 
+
+>             The Secretary of Defense, with the concurrence of the Secretary of State, shall conduct a comprehensive review of each program under the State Partnership Program as in effect on the day before the date of the enactment of this Act \[Dec. 26, 2013\].
+
+>             “(B)  __Report__  __.—__ 
+
+>             Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the appropriate congressional committees a report on—
+
+>                 “(i) the findings of the review conducted under subparagraph (A); and
+
+>                 “(ii) any recommendations with respect to the review conducted under subparagraph (A).
+
+>         “(2) __Annual report.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Not later than January 31 of each year following a fiscal year in which activities under a program established under subsection (a) are carried out, the Secretary of Defense shall submit to the appropriate congressional committees a report on such activities under the program.
+
+>             “(B)  __Matters to be included__  __.—__ 
+
+>             Each report shall specify, for the fiscal year covered by such report, the following:
+
+>                 “(i) Each foreign country in which the activities were conducted.
+
+>                 “(ii) The type of activities conducted, the duration of the activities, and the number of members of the National Guard of each State or territory involved in such activities.
+
+>                 “(iii) The extent of participation in the activities by the military forces and security forces of such foreign country.
+
+>                 “(iv) A summary of expenditures to conduct the activities, including the annual cost of the activities, with a breakdown of such expenditures by geographic combatant command.
+
+>                 “(v) With respect to activities described in subsection (b), the objective of the activities, and a description of how the activities support the theater campaign plan of the commander of the geographic combatant command with responsibility for the country or countries in which the training occurred.
+
+>     “(f)  __Rule of Construction__  __.—__ 
+
+>     Nothing in this section shall be construed to supersede any authority under title 10, United States Code, as in effect on the date of the enactment of this Act \[Dec. 26, 2013\].
+
+>     “(g)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Appropriate congressional committees__  __.—__ 
+
+>         The term ‘appropriate congressional committees’ means—
+
+>             “(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+>             “(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+>         “(2)  __Incremental expenses__  __.—__ 
+
+>         The term ‘incremental expenses’, with respect to a foreign country—
+
+>             “(A) means the reasonable and proper costs of rations, fuel, training ammunition, transportation, and other goods and services consumed by the country as a direct result of the country’s participation in activities conducted under subsection (a); and
+
+>             “(B)
+
+>              does not include—
+
+>                 “(i) any form of lethal assistance (excluding training ammunition); or
+
+>                 “(ii) pay, allowances, and other normal costs of the personnel of the country.
+
+>     “(h)  __Repeal of Superseded Authority__  __.—__ 
+
+>     \[Repealed [section 1210 of Pub. L. 111–84][/us/pl/111/84/s1210], formerly set out as a note below.\]
+
+>     “(i)  __Termination__  __.—__ 
+
+>     The authority granted under subsection (a) shall terminate on September 30, 2016.”
+
  __Limitation on Activities Under State Partnership Program Pending Compliance With Certain Program-Related Requirements__ 
 
 [Pub. L. 112–239, div. A, title XII, § 1204][/us/pl/112/239/s1204], Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982], provided that:
@@ -203,43 +329,17 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >     The requirements specified in this subsection are the following:
 
->         “(1) The requirement for the Secretary of Defense to submit to the appropriate congressional committees the final regulations required by subsection (a) of section 1210 of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2517][/us/stat/123/2517]; [32 U.S.C. 107][/us/usc/t32/s107] note).
+>         “(1) The requirement for the Secretary of Defense to submit to the appropriate congressional committees the final regulations required by subsection (a) of \[former\] section 1210 of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2517][/us/stat/123/2517]; [32 U.S.C. 107][/us/usc/t32/s107] note).
 
 >         “(2) A requirement for the Secretary of Defense to certify to the appropriate congressional committees that appropriate modifications have been made, and appropriate controls have been instituted, to ensure the compliance of the Program with [section 1341 of title 31][/us/usc/t31/s1341], United States Code (commonly referred to as the ‘Anti-Deficiency Act’), in the future.
 
 >     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
 
->     In this section, the term ‘appropriate congressional committees’ has the meaning given that term in subsection (d) of section 1210 of the National Defense Authorization Act for Fiscal Year 2010.”
+>     In this section, the term ‘appropriate congressional committees’ has the meaning given that term in subsection (d) of \[former\] section 1210 of the National Defense Authorization Act for Fiscal Year 2010.”
 
  __Availability of Appropriated Funds for the State Partnership Program__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1210][/us/pl/111/84/s1210], Oct. 28, 2009, [123 Stat. 2517][/us/stat/123/2517], provided that:
-
->     “(a)  __Regulations Required__  __.—__ 
-
->     Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense, in consultation with \[the\] Secretary of State, shall prescribe regulations regarding the use of funds appropriated to the Department of Defense to pay the costs incurred by the National Guard in conducting activities under the State Partnership Program. The Secretary of Defense shall transmit to the appropriate congressional committees a copy of the regulations not later than 15 days after the date on which the regulations are prescribed under this subsection.
-
->     “(b) __Limitations.—__ 
-
->         “(1)  __Approval by commander of combatant command and chief of mission__  __.—__ 
-
->         Funds shall not be available under subsection (a) for activities conducted under the State Partnership Program in a foreign country unless such activities are jointly approved by the commander of the combatant command concerned and the chief of mission concerned.
-
->         “(2)  __Participation by members__  __.—__ 
-
->         Funds shall not be available under subsection (a) for the participation of a member of the National Guard in activities conducted under the State Partnership Program in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation.
-
->     “(c)  __Report__  __.—__ 
-
->     Not later than 90 days after the date of the enactment of this Act, and not later than the end of each of the fiscal years 2010 through 2013, the Secretary of Defense shall submit to the appropriate congressional committees a report describing the civilian engagement activities conducted under the State Partnership Program, including a detailed description of the activities undertaken and funds expended in the previous fiscal year under the State Partnership Program.
-
->     “(d)  __Definition__  __.—__ 
-
->     In this section, the term ‘appropriate congressional committees’ means—
-
->         “(1) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and
-
->         “(2) the Committee on Armed Services and the Committee on Foreign Relations of the Senate.”
+    [Pub. L. 111–84, div. A, title XII, § 1210][/us/pl/111/84/s1210], Oct. 28, 2009, [123 Stat. 2517][/us/stat/123/2517], which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulations to defense and foreign relations committees, and report to the committees, was repealed by [Pub. L. 113–66, div. A, title XII, § 1205(h)][/us/pl/113/66/s1205/h], Dec. 26, 2013, [127 Stat. 899][/us/stat/127/899].
 
 ----------
 
@@ -288,6 +388,9 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
+[/us/pl/113/66/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1205
+[/us/stat/127/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F897
+[/us/pl/111/84/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1210
 [/us/pl/112/239/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1204
 [/us/stat/126/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1982
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
@@ -296,5 +399,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
 [/us/pl/111/84/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1210
 [/us/stat/123/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2517
+[/us/pl/113/66/s1205/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1205%2Fh
+[/us/stat/127/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F899
 
 
