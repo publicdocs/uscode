@@ -17,7 +17,7 @@
 
     The share of the United States Geological Survey in any topographic mapping or water resources data collection and investigations carried on in cooperation with any State or municipality shall not exceed 50 per centum of the cost thereof.
 
-([Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 296][/us/stat/128/296].)
+([Pub. L. 113–235, div. F, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2404][/us/stat/128/2404].)
 
  __Codification__ 
 
@@ -26,6 +26,8 @@
  __Prior Provisions__ 
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 296][/us/stat/128/296].
 
     [Pub. L. 112–74, div. E, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 993][/us/stat/125/993].
 
@@ -154,10 +156,12 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F296
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2404
 [/us/act/1953-07-31/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-31%2Fch298
 [/us/stat/67/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F269
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F296
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F993
 [/us/pl/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88

@@ -53,6 +53,32 @@
 
     [Pub. L. 90–537, title V, § 501(a)][/us/pl/90/537/s501/a], Sept. 30, 1968, [82 Stat. 896][/us/stat/82/896], provided that the amendment of this section and [section 620a of this title][/us/usc/t43/s620a] by section 501(a) were made in order to provide for the construction, operation, and maintenance of the Animas-La Plata Federal reclamation project, Colorado-New Mexico; the Dolores, Dallas Creek, West Divide, and San Miguel Federal reclamation projects, Colorado; and the Central Utah project (Uintah Unit), Utah, as participating projects under the Colorado River Storage Project Act, and to provide for the completion of planning reports on other participating projects.
 
+ __Pilot Projects to Increase Colorado River System Water to Address Effects of Historic Drought Conditions__ 
+
+[Pub. L. 113–235, div. D, title II, § 206][/us/pl/113/235/s206], Dec. 16, 2014, [128 Stat. 2312][/us/stat/128/2312], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of the Interior may fund or participate in pilot projects to increase Colorado River System water in Lake Mead and the initial units of Colorado River Storage Project reservoirs, as authorized by the first section of the Act of April 11, 1956 ([43 U.S.C. 620][/us/usc/t43/s620]), to address the effects of historic drought conditions.
+
+>     “(b)  __Administration__  __.—__ 
+
+>     Pilot projects under this section are authorized to be funded through—
+
+>         “(1) grants by the Secretary to public entities that use water from the Colorado River Basin for municipal purposes for projects that are implemented by 1 or more non-Federal entities; or
+
+>         “(2) grants or other appropriate financial agreements to provide additional funds for renewing or implementing water conservation agreements that are in existence on the date of enactment of this Act \[div. D. of [Pub. L. 113–235][/us/pl/113/235], Dec. 16, 2014\].
+
+>     “(c)  __Limitations__  __.—__ 
+
+>         “(1) Funds in the Upper Colorado River Basin Fund established by section 5 of the Colorado River Storage Project Act ([43 U.S.C. 620d][/us/usc/t43/s620d]) and the Lower Colorado River Basin Development Fund established by section 403 of the Colorado River Basin Project Act ([43 U.S.C. 1543][/us/usc/t43/s1543]) shall not be used to carry out this section; and
+
+>         “(2) the authority to fund these pilot projects through grants shall terminate on September 30, 2018.
+
+>     “(d)  __Report and Recommendation__  __.—__ 
+
+>     Not later than September 30, 2018, the Secretary shall submit to the Committees on Appropriations and Natural Resources of the House of Representatives and the Committees on Appropriations and Energy and Natural Resources of the Senate a report evaluating the effectiveness of the pilot projects described in subsection (a) and a recommendation to Congress whether the activities undertaken by the pilot projects should be continued.”
+
  __Effect on Federal Water Law__ 
 
 [Pub. L. 111–11, title X, § 10403][/us/pl/111/11/s10403], Mar. 30, 2009, [123 Stat. 1375][/us/stat/123/1375], provided that: 
@@ -501,6 +527,12 @@
 [/us/pl/90/537/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F537%2Fs501%2Fa
 [/us/stat/82/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F896
 [/us/usc/t43/s620a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs620a
+[/us/pl/113/235/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs206
+[/us/stat/128/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2312
+[/us/usc/t43/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs620
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/usc/t43/s620d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs620d
+[/us/usc/t43/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1543
 [/us/pl/111/11/s10403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs10403
 [/us/stat/123/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1375
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11

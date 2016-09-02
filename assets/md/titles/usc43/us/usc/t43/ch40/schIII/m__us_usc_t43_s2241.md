@@ -15,11 +15,13 @@
 
 ## § 2241. Authorization of appropriations
 
-    Except as otherwise provided in [section 2243 of this title][/us/usc/t43/s2243] (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $90,000,000 in total for the period of fiscal years 2006 through 2012.
+    Except as otherwise provided in [section 2243 of this title][/us/usc/t43/s2243] (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $90,000,000 in total for the period of fiscal years 2006 through 2017.
 
-([Pub. L. 102–250, title III, § 301][/us/pl/102/250/s301], Mar. 5, 1992, [106 Stat. 58][/us/stat/106/58]; [Pub. L. 104–206, title II][/us/pl/104/206], Sept. 30, 1996, [110 Stat. 2992][/us/stat/110/2992]; [Pub. L. 106–60, title II][/us/pl/106/60], Sept. 29, 1999, [113 Stat. 488][/us/stat/113/488]; [Pub. L. 106–377, § 1(a)(2)][/us/pl/106/377/s1/a/2] \[title II\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–67; [Pub. L. 107–66, title II][/us/pl/107/66], Nov. 12, 2001, [115 Stat. 498][/us/stat/115/498]; [Pub. L. 108–7, div. D, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 144][/us/stat/117/144]; [Pub. L. 108–137, title II][/us/pl/108/137], Dec. 1, 2003, [117 Stat. 1847][/us/stat/117/1847]; [Pub. L. 109–234, title II, § 2306(b)][/us/pl/109/234/s2306/b], June 15, 2006, [120 Stat. 457][/us/stat/120/457]; [Pub. L. 111–212, title I, § 404(b)][/us/pl/111/212/s404/b], July 29, 2010, [124 Stat. 2314][/us/stat/124/2314].)
+([Pub. L. 102–250, title III, § 301][/us/pl/102/250/s301], Mar. 5, 1992, [106 Stat. 58][/us/stat/106/58]; [Pub. L. 104–206, title II][/us/pl/104/206], Sept. 30, 1996, [110 Stat. 2992][/us/stat/110/2992]; [Pub. L. 106–60, title II][/us/pl/106/60], Sept. 29, 1999, [113 Stat. 488][/us/stat/113/488]; [Pub. L. 106–377, § 1(a)(2)][/us/pl/106/377/s1/a/2] \[title II\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–67; [Pub. L. 107–66, title II][/us/pl/107/66], Nov. 12, 2001, [115 Stat. 498][/us/stat/115/498]; [Pub. L. 108–7, div. D, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 144][/us/stat/117/144]; [Pub. L. 108–137, title II][/us/pl/108/137], Dec. 1, 2003, [117 Stat. 1847][/us/stat/117/1847]; [Pub. L. 109–234, title II, § 2306(b)][/us/pl/109/234/s2306/b], June 15, 2006, [120 Stat. 457][/us/stat/120/457]; [Pub. L. 111–212, title I, § 404(b)][/us/pl/111/212/s404/b], July 29, 2010, [124 Stat. 2314][/us/stat/124/2314]; [Pub. L. 113–235, div. D, title II, § 204][/us/pl/113/235/s204], Dec. 16, 2014, [128 Stat. 2311][/us/stat/128/2311].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “2017” for “2012”.
 
     2010—[Pub. L. 111–212][/us/pl/111/212] substituted “through 2012” for “through 2010”.
 
@@ -63,6 +65,9 @@
 [/us/stat/120/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F457
 [/us/pl/111/212/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2Fs404%2Fb
 [/us/stat/124/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2314
+[/us/pl/113/235/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs204
+[/us/stat/128/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2311
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/111/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212
 [/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234
 [/us/pl/108/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137
