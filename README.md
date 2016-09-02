@@ -21,6 +21,7 @@ Branches correspond to release points distributed at [http://uscode.house.gov/](
 In reverse chronological order:
 
 - Most recent:
+- [Release Point at PL 113-52](https://github.com/publicdocs/uscode/tree/t-v301-0009-rp-113-52)
 - [Release Point at PL 113-49](https://github.com/publicdocs/uscode/tree/t-v301-0008-rp-113-49)
 - [Release Point at PL 113-47](https://github.com/publicdocs/uscode/tree/t-v301-0007-rp-113-47)
 - [Release Point at PL 113-46](https://github.com/publicdocs/uscode/tree/t-v301-0006-rp-113-46)
