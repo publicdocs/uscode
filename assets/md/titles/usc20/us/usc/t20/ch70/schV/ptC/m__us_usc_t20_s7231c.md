@@ -27,6 +27,10 @@
 
     The Civil Rights Act of 1964, referred to in par. (2), is [Pub. L. 88–352][/us/pl/88/352], July 2, 1964, [78 Stat. 241][/us/stat/78/241], as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42][/us/usc/t42/s2000a] and Tables.
 
+ __Prior Provisions__ 
+
+    A prior section 5404, which probably should have been section 5304, of [Pub. L. 89–10][/us/pl/89/10] was classified to [section 7264 of this title][/us/usc/t20/s7264], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7231b.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7231d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7231c)
@@ -41,5 +45,8 @@
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/usc/t20/s7264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7264
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 
 

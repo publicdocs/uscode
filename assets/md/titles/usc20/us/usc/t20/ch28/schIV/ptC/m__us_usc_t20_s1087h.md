@@ -27,9 +27,7 @@
 
             not to exceed (from such funds not otherwise appropriated) $820,000,000 in fiscal year 2006.
 
-        (2) __Mandatory funds for eligible not-for-profit servicers__ 
-
-            For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in [section 1087f of this title][/us/usc/t20/s1087f].
+        (2) __Repealed.__  __[__  __Pub. L. 113–67, div. A, title V, § 502(2)__  __][/us/pl/113/67/s502/2]__  __,__  __Dec. 26, 2013__  __,__  __[__  __127 Stat. 1187__  __][/us/stat/127/1187]__ 
 
         (3) __Authorization for administrative costs beginning in fiscal years 2007 through 2014__ 
 
@@ -79,13 +77,15 @@
 
         No funds may be expended under this section unless the Secretary includes in the Department of Education’s annual budget justification to Congress a detailed description of the specific activities for which the funds made available by this section have been used in the prior and current years (if applicable), the activities and costs planned for the budget year, and the projection of activities and costs for each remaining year for which administrative expenses under this section are made available.
 
-([Pub. L. 89–329, title IV, § 458][/us/pl/89/329/s458], as added [Pub. L. 102–325, title IV, § 451][/us/pl/102/325/s451], July 23, 1992, [106 Stat. 573][/us/stat/106/573]; amended [Pub. L. 103–66, title IV, § 4021][/us/pl/103/66/s4021], Aug. 10, 1993, [107 Stat. 353][/us/stat/107/353]; [Pub. L. 104–19, title I, § 601][/us/pl/104/19/s601], July 27, 1995, [109 Stat. 219][/us/stat/109/219]; [Pub. L. 105–33, title VI, § 6103][/us/pl/105/33/s6103], Aug. 5, 1997, [111 Stat. 652][/us/stat/111/652]; [Pub. L. 105–78, title VI, § 609][/us/pl/105/78/s609](l), Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524]; [Pub. L. 105–244, title IV, § 454][/us/pl/105/244/s454], Oct. 7, 1998, [112 Stat. 1717][/us/stat/112/1717]; [Pub. L. 109–171, title VIII, § 8015][/us/pl/109/171/s8015], Feb. 8, 2006, [120 Stat. 172][/us/stat/120/172]; [Pub. L. 109–292, § 5][/us/pl/109/292/s5], Sept. 30, 2006, [120 Stat. 1341][/us/stat/120/1341]; [Pub. L. 110–84, title III, § 306][/us/pl/110/84/s306], Sept. 27, 2007, [121 Stat. 800][/us/stat/121/800]; [Pub. L. 110–315, title IV, § 452][/us/pl/110/315/s452], Aug. 14, 2008, [122 Stat. 3263][/us/stat/122/3263]; [Pub. L. 111–152, title II, § 2212(b)][/us/pl/111/152/s2212/b], Mar. 30, 2010, [124 Stat. 1080][/us/stat/124/1080].)
+([Pub. L. 89–329, title IV, § 458][/us/pl/89/329/s458], as added [Pub. L. 102–325, title IV, § 451][/us/pl/102/325/s451], July 23, 1992, [106 Stat. 573][/us/stat/106/573]; amended [Pub. L. 103–66, title IV, § 4021][/us/pl/103/66/s4021], Aug. 10, 1993, [107 Stat. 353][/us/stat/107/353]; [Pub. L. 104–19, title I, § 601][/us/pl/104/19/s601], July 27, 1995, [109 Stat. 219][/us/stat/109/219]; [Pub. L. 105–33, title VI, § 6103][/us/pl/105/33/s6103], Aug. 5, 1997, [111 Stat. 652][/us/stat/111/652]; [Pub. L. 105–78, title VI, § 609][/us/pl/105/78/s609](l), Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524]; [Pub. L. 105–244, title IV, § 454][/us/pl/105/244/s454], Oct. 7, 1998, [112 Stat. 1717][/us/stat/112/1717]; [Pub. L. 109–171, title VIII, § 8015][/us/pl/109/171/s8015], Feb. 8, 2006, [120 Stat. 172][/us/stat/120/172]; [Pub. L. 109–292, § 5][/us/pl/109/292/s5], Sept. 30, 2006, [120 Stat. 1341][/us/stat/120/1341]; [Pub. L. 110–84, title III, § 306][/us/pl/110/84/s306], Sept. 27, 2007, [121 Stat. 800][/us/stat/121/800]; [Pub. L. 110–315, title IV, § 452][/us/pl/110/315/s452], Aug. 14, 2008, [122 Stat. 3263][/us/stat/122/3263]; [Pub. L. 111–152, title II, § 2212(b)][/us/pl/111/152/s2212/b], Mar. 30, 2010, [124 Stat. 1080][/us/stat/124/1080]; [Pub. L. 113–67, div. A, title V, § 502(2)][/us/pl/113/67/s502/2], Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187].)
 
  __References in Text__ 
 
     Paragraph (3), referred to in subsec. (a)(5), was redesignated par. (4) by [Pub. L. 111–152, § 2212(b)(1)(B)][/us/pl/111/152/s2212/b/1/B].
 
  __Amendments__ 
+
+    2013—Subsec. (a)(2). [Pub. L. 113–67][/us/pl/113/67] struck out par. (2). Text read as follows: “For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in [section 1087f of this title][/us/usc/t20/s1087f].”
 
     2010—Subsec. (a)(2) to (8). [Pub. L. 111–152, § 2212(b)(1)][/us/pl/111/152/s2212/b/1], added pars. (2), (6), and (7) and redesignated former pars. (2), (3), (4), and (5) as (3), (4), (5), and (8), respectively.
 
@@ -158,7 +158,8 @@
 ----------
 ----------
 
-[/us/usc/t20/s1087f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087f
+[/us/pl/113/67/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs502%2F2
+[/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/usc/t20/s1072b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072b
 [/us/pl/89/329/s458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs458
 [/us/pl/102/325/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs451
@@ -183,7 +184,11 @@
 [/us/stat/122/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3263
 [/us/pl/111/152/s2212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2212%2Fb
 [/us/stat/124/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1080
+[/us/pl/113/67/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs502%2F2
+[/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/pl/111/152/s2212/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2212%2Fb%2F1%2FB
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/usc/t20/s1087f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087f
 [/us/pl/111/152/s2212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2212%2Fb%2F1
 [/us/pl/111/152/s2212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2212%2Fb%2F2
 [/us/pl/110/315/s452/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs452%2F1

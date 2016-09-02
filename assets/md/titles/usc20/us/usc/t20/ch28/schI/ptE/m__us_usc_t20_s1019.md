@@ -101,6 +101,10 @@
 
 ([Pub. L. 89–329, title I, § 151][/us/pl/89/329/s151], as added [Pub. L. 110–315, title I, § 120][/us/pl/110/315/s120], Aug. 14, 2008, [122 Stat. 3117][/us/stat/122/3117].)
 
+ __Prior Provisions__ 
+
+    A prior section 1019, [Pub. L. 89–329, title I, § 119][/us/pl/89/329/s119], as added [Pub. L. 96–374, title I, § 101(a)][/us/pl/96/374/s101/a], Oct. 3, 1980, [94 Stat. 1383][/us/stat/94/1383], authorized appropriations for education outreach programs, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t20/ch28/schI/ptE/m__us_usc_t20_ch28_schI_ptE.md) | [Next](./../../../../../..//us/usc/t20/ch28/schI/ptE/m__us_usc_t20_s1019a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1019)
@@ -116,5 +120,9 @@
 [/us/pl/89/329/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs151
 [/us/pl/110/315/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs120
 [/us/stat/122/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3117
+[/us/pl/89/329/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs119
+[/us/pl/96/374/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs101%2Fa
+[/us/stat/94/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1383
+[/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 
 

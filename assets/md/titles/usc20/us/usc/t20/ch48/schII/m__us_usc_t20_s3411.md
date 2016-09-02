@@ -157,6 +157,10 @@
 
                               Barack Obama.
 
+ __Extension of Term of President’s Advisory Commission on Educational Excellence for Hispanics__ 
+
+    Term of President’s Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
  __Ex. Ord. No. 13621. White House Initiative on Educational Excellence for African Americans__ 
 
     Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, provided:
@@ -270,6 +274,10 @@
     (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
                               Barack Obama.
+
+ __Extension of Term of President’s Advisory Commission on Educational Excellence for African Americans__ 
+
+    Term of President’s Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 ----------
 

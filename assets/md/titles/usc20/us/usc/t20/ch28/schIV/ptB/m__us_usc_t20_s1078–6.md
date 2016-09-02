@@ -107,13 +107,51 @@
 
         Each program described in subsection (b) shall include making available financial and economic education materials for a borrower who has rehabilitated a loan.
 
-([Pub. L. 89–329, title IV, § 428F][/us/pl/89/329/s428F], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1394][/us/stat/100/1394]; amended [Pub. L. 100–50, § 10(u)][/us/pl/100/50/s10/u], June 3, 1987, [101 Stat. 346][/us/stat/101/346]; [Pub. L. 101–239, title II, § 2005(a)][/us/pl/101/239/s2005/a], Dec. 19, 1989, [103 Stat. 2116][/us/stat/103/2116]; [Pub. L. 102–325, title IV, § 420][/us/pl/102/325/s420], July 23, 1992, [106 Stat. 534][/us/stat/106/534]; [Pub. L. 103–208, § 2(c)(38)][/us/pl/103/208/s2/c/38]–(40), Dec. 20, 1993, [107 Stat. 2466][/us/stat/107/2466]; [Pub. L. 105–244, title IV, § 421][/us/pl/105/244/s421], Oct. 7, 1998, [112 Stat. 1696][/us/stat/112/1696]; [Pub. L. 109–171, title VIII, § 8014(h)][/us/pl/109/171/s8014/h], Feb. 8, 2006, [120 Stat. 171][/us/stat/120/171]; [Pub. L. 110–315, title IV, § 426][/us/pl/110/315/s426], Aug. 14, 2008, [122 Stat. 3235][/us/stat/122/3235]; [Pub. L. 111–39, title IV, § 402(d)(1)][/us/pl/111/39/s402/d/1], July 1, 2009, [123 Stat. 1941][/us/stat/123/1941].)
+([Pub. L. 89–329, title IV, § 428F][/us/pl/89/329/s428F], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1394][/us/stat/100/1394]; amended [Pub. L. 100–50, § 10(u)][/us/pl/100/50/s10/u], June 3, 1987, [101 Stat. 346][/us/stat/101/346]; [Pub. L. 101–239, title II, § 2005(a)][/us/pl/101/239/s2005/a], Dec. 19, 1989, [103 Stat. 2116][/us/stat/103/2116]; [Pub. L. 102–325, title IV, § 420][/us/pl/102/325/s420], July 23, 1992, [106 Stat. 534][/us/stat/106/534]; [Pub. L. 103–208, § 2(c)(38)][/us/pl/103/208/s2/c/38]–(40), Dec. 20, 1993, [107 Stat. 2466][/us/stat/107/2466]; [Pub. L. 105–244, title IV, § 421][/us/pl/105/244/s421], Oct. 7, 1998, [112 Stat. 1696][/us/stat/112/1696]; [Pub. L. 109–171, title VIII, § 8014(h)][/us/pl/109/171/s8014/h], Feb. 8, 2006, [120 Stat. 171][/us/stat/120/171]; [Pub. L. 110–315, title IV, § 426][/us/pl/110/315/s426], Aug. 14, 2008, [122 Stat. 3235][/us/stat/122/3235]; [Pub. L. 111–39, title IV, § 402(d)(1)][/us/pl/111/39/s402/d/1], July 1, 2009, [123 Stat. 1941][/us/stat/123/1941]; [Pub. L. 113–67, div. A, title V, § 501][/us/pl/113/67/s501], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186].)
+
+ __Amendment of Subsection (a)(1)__ 
+
+[Pub. L. 113–67, div. A, title V, § 501][/us/pl/113/67/s501], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186], provided that, effective July 1, 2014, subsection (a)(1) of this section is amended:
+
+    (1) in subparagraph (A), by striking clause (ii) and inserting the following:
+
+    “(ii) beginning July 1, 2014, assign the loan to the Secretary if the guaranty agency has been unable to sell the loan under clause (i).”; and
+
+    (2) in subparagraph (D), by striking clause (i) and inserting the following:
+
+    “(i) the guaranty agency—
+
+    “(I) shall, in the case of a sale made on or after July 1, 2014, repay the Secretary 100 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
+
+    “(II) may, in the case of a sale made on or after July 1, 2014, in order to defray collection costs—
+
+    “(aa) charge to the borrower an amount not to exceed 16 percent of the outstanding principal and interest at the time of the loan sale; and
+
+    “(bb) retain such amount from the proceeds of the loan sale; and”.
+
+    See 2013 Amendment notes below.
 
  __References in Text__ 
 
     Title IV, referred to in subsec. (b), means title IV of the Higher Education Act of 1965, [Pub. L. 89–329][/us/pl/89/329], which is classified generally to this subchapter and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (a)(1)(A)(ii). [Pub. L. 113–67, § 501(1)][/us/pl/113/67/s501/1], added cl. (ii) and struck out former cl. (ii) which read as follows: “on or before September 30, 2011, assign the loan to the Secretary if—
+
+    “(I) the Secretary has determined that market conditions unduly limit a guaranty agency’s ability to sell loans under clause (i); and
+
+    “(II) the guaranty agency has been unable to sell loans under clause (i).”
+
+    Subsec. (a)(1)(D)(i). [Pub. L. 113–67, § 501(2)][/us/pl/113/67/s501/2], added cl. (i) and struck out former cl. (i) which read as follows: “the guaranty agency—
+
+    “(I) shall repay the Secretary 81.5 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
+
+    “(II) may, in order to defray collection costs—
+
+    “(aa) charge to the borrower an amount not to exceed 18.5 percent of the outstanding principal and interest at the time of the loan sale; and
+
+    “(bb) retain such amount from the proceeds of the loan sale; and”.
 
     2009—Subsec. (a)(1). [Pub. L. 111–39, § 402(d)(1)(A)(i)][/us/pl/111/39/s402/d/1/A/i], amended par. (1) generally. Prior to amendment, par. (1) related to the sale of a loan by a guaranty agency or the Secretary.
 
@@ -154,6 +192,10 @@
     1989—[Pub. L. 101–239][/us/pl/101/239] amended section generally, substituting provisions relating to default reduction program for former provisions relating to rehabilitation of defaulted loans.
 
     1987—Subsecs. (b), (c). [Pub. L. 100–50][/us/pl/100/50] redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The loans which shall be eligible for rehabilitation under this section shall be only those loans which are made to borrowers who, at the time of default on the loan, are unemployed or institutionalized.”
+
+ __Effective Date of 2013 Amendment__ 
+
+    [Pub. L. 113–67, div. A, title V, § 501][/us/pl/113/67/s501], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186], provided that the amendments made by [section 501 of Pub. L. 113–67][/us/pl/113/67/s501] are effective July 1, 2014.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -213,7 +255,13 @@
 [/us/stat/122/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3235
 [/us/pl/111/39/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Fd%2F1
 [/us/stat/123/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1941
+[/us/pl/113/67/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs501
+[/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
+[/us/pl/113/67/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs501
+[/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
+[/us/pl/113/67/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs501%2F1
+[/us/pl/113/67/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs501%2F2
 [/us/pl/111/39/s402/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Fd%2F1%2FA%2Fi
 [/us/pl/111/39/s402/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Fd%2F1%2FA%2Fii
 [/us/pl/111/39/s402/d/1/A/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Fd%2F1%2FA%2Fiii%2FII
@@ -234,6 +282,9 @@
 [/us/pl/102/325/s420/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs420%2F4
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/113/67/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs501
+[/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
+[/us/pl/113/67/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs501
 [/us/pl/111/39/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Fd%2F2
 [/us/stat/123/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1942
 [/us/usc/t42/s1078–6/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1078%E2%80%936%2Fa%2F1%2FA

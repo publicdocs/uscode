@@ -79,8 +79,6 @@
 
     Section 1018f, [Pub. L. 89–329, title I, § 147][/us/pl/89/329/s147], as added [Pub. L. 100–418, title VI, § 6201][/us/pl/100/418/s6201], Aug. 23, 1988, [102 Stat. 1516][/us/stat/102/1516], defined “public community agency”, “institution of higher education” and “Secretary”.
 
-    A prior section 1019, [Pub. L. 89–329, title I, § 119][/us/pl/89/329/s119], as added [Pub. L. 96–374, title I, § 101(a)][/us/pl/96/374/s101/a], Oct. 3, 1980, [94 Stat. 1383][/us/stat/94/1383], authorized appropriations for education outreach programs, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t20/ch28/schI/ptD/m__us_usc_t20_s1018a.md) | [Next](./../../../../../..//us/usc/t20/ch28/schI/ptE/m__us_usc_t20_ch28_schI_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1018b)
@@ -114,9 +112,5 @@
 [/us/pl/89/329/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs147
 [/us/pl/100/418/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6201
 [/us/stat/102/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1516
-[/us/pl/89/329/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs119
-[/us/pl/96/374/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs101%2Fa
-[/us/stat/94/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1383
-[/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 
 

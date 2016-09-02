@@ -95,7 +95,7 @@
 
  __National Native American Veterans’ Memorial__ 
 
-[Pub. L. 103–384][/us/pl/103/384], Oct. 22, 1994, [108 Stat. 4067][/us/stat/108/4067], provided that:
+[Pub. L. 103–384][/us/pl/103/384], Oct. 22, 1994, [108 Stat. 4067][/us/stat/108/4067], as amended by [Pub. L. 113–70, § 2][/us/pl/113/70/s2], Dec. 26, 2013, [127 Stat. 1208][/us/stat/127/1208], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -127,19 +127,19 @@
 
 >     “(b)  __Location__  __.—__ 
 
->     The memorial shall be located at a site determined to be suitable by the Museum within the interior structure of the facility provided for by section 7(a) of such Act ([20 U.S.C. 80q–5(a)][/us/usc/t20/s80q–5/a]) (relating to housing the portion of the Museum to be located in the District of Columbia).
+>     The memorial shall be located at a site determined to be suitable by the Museum on property under the jurisdiction of the Museum on the site described in section 7(a) of such Act ([20 U.S.C. 80q–5(a)][/us/usc/t20/s80q–5/a]) (relating to housing the portion of the Museum to be located in the District of Columbia).
 
 >     “(c)  __Design and Plans__  __.—__ 
 
->         (1) The National Congress of American Indians, in consultation with the Museum, is authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act ([20 U.S.C. 80q–1][/us/usc/t20/s80q–1] \[(b)\]), and with any existing design plans for the Museum’s structure and its surroundings.
+>         (1) The National Congress of American Indians and the National Museum of the American Indian are authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act ([20 U.S.C. 80q–1][/us/usc/t20/s80q–1] \[(b)\]), and with any existing design plans for the Museum’s structure and its surroundings.
 
 >         “(2) Any design so selected shall be subject to the approval of the Board of Regents of the Smithsonian Institution.
 
 > “SEC. 4. __PAYMENT OF EXPENSES AND USE OF NAME.__ 
 
->     “(a)  __Responsibility of National Congress of American Indians__  __.—__ 
+>     “(a)  __Responsibility of National Congress of American Indians and National Museum of the American Indian__  __.—__ 
 
->     The National Congress of American Indians shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial. No Federal funds may be used to pay any expense of the establishment of the memorial.
+>     The National Congress of American Indians and the National Museum of the American Indian shall be responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial. No Federal funds may be used to pay any expense of the establishment of the memorial.
 
 >     “(b)  __Use of Name__  __.—__ 
 
@@ -162,6 +162,8 @@
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/103/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F384
 [/us/stat/108/4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4067
+[/us/pl/113/70/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F70%2Fs2
+[/us/stat/127/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1208
 [/us/usc/t20/s80q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q
 [/us/usc/t20/s80q–5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%935%2Fa
 [/us/usc/t20/s80q–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%931
