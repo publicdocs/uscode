@@ -575,6 +575,12 @@
 
     Subchapter effective July 1, 2005, see [section 302(a) of Pub. L. 108–446][/us/pl/108/446/s302/a], set out as a note under [section 1400 of this title][/us/usc/t20/s1400].
 
+ __Effect of Reduction__ 
+
+[Pub. L. 113–76, div. H, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 394][/us/stat/128/394], provided in part: 
+
+> “That the amount by which a State’s allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)][/us/usc/t20/s1411/d]\] is reduced under section 612(a)(18)(B) \[[20 U.S.C. 1412(a)(18)(B)][/us/usc/t20/s1412/a/18/B]\] and the amounts distributed to States under the previous provisos \[[128 Stat. 394][/us/stat/128/394], under heading “Special Education”\] in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t20/ch33/schII/m__us_usc_t20_ch33_schII.md) | [Next](./../../../../..//us/usc/t20/ch33/schII/m__us_usc_t20_s1412.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411)
@@ -656,5 +662,10 @@
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 [/us/pl/108/446/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs302%2Fa
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F394
+[/us/usc/t20/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411%2Fd
+[/us/usc/t20/s1412/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F18%2FB
+[/us/stat/128/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F394
 
 

@@ -623,9 +623,7 @@
 
     Subsec. (b)(7)(A) to (C). [Pub. L. 113–28, § 2(a)(1)(B)][/us/pl/113/28/s2/a/1/B]–(D), inserted “and before July 1, 2013,” after “on or after July 1, 2006,”.
 
-    Subsec. (b)(8). [Pub. L. 113–28, § 2(a)(3)][/us/pl/113/28/s2/a/3], added par. (8). Former par. (8) redesignated (9).
-
-    Subsec. (b)(9), (10). [Pub. L. 113–28, § 2(a)(2)][/us/pl/113/28/s2/a/2], redesignated pars. (8) and (9) as (9) and (10), respectively.
+    Subsec. (b)(8) to (10). [Pub. L. 113–28, § 2(a)(2)][/us/pl/113/28/s2/a/2], (3), added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 
     2012—Subsec. (b)(7)(D). [Pub. L. 112–141, § 100301(1)][/us/pl/112/141/s100301/1], substituted “and before July 1, 2013,” for “and before July 1, 2012,” in introductory provisions.
 
@@ -869,7 +867,6 @@
 [/us/stat/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F513
 [/us/pl/113/28/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa%2F1%2FA
 [/us/pl/113/28/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa%2F1%2FB
-[/us/pl/113/28/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa%2F3
 [/us/pl/113/28/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F28%2Fs2%2Fa%2F2
 [/us/pl/112/141/s100301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100301%2F1
 [/us/pl/112/141/s100301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100301%2F2

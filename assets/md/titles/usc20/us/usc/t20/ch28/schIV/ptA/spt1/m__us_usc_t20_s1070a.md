@@ -571,6 +571,8 @@
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
 
+    [Pub. L. 113–76, div. H, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 396][/us/stat/128/396].
+
     [Pub. L. 112–74, div. F, title III][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1097][/us/stat/125/1097].
 
     [Pub. L. 112–10, div. B, title VIII, § 1839(b)][/us/pl/112/10/s1839/b], Apr. 15, 2011, [125 Stat. 165][/us/stat/125/165].
@@ -842,6 +844,8 @@ Provisions limiting the maximum Pell grant that a student may receive were conta
 [/us/stat/100/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1582
 [/us/pl/105/332/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fa
 [/us/stat/112/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3127
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F396
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1097
 [/us/pl/112/10/s1839/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1839%2Fb
