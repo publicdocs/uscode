@@ -1,4 +1,5 @@
 # https://github.com/publicdocs/uscode
+
 Visualizing the changes to the US Code, as Git revision history.
 
 Contents and formatting may be inaccurate or out-of-date, and this project is not intended for official use.
