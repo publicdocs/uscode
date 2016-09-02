@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t35/ptI/m__us_usc_t35_ptI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35)
 
-# 
-
-Title 35—PATENTS
+# Title 35—PATENTS
 
 This title was enacted by [act July 19, 1952, ch. 950, § 1][/us/act/1952-07-19/ch950/s1], [66 Stat. 792][/us/stat/66/792]
+
+Current through 113–44
 
 <table>
 
@@ -33,51 +33,51 @@ This title was enacted by [act July 19, 1952, ch. 950, § 1][/us/act/1952-07-1
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptI" data-uslm-ref="/us/usc/t35/ptI">I.</a>  </td>
 
     <td> United States Patent and Trademark Office  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs1" data-uslm-ref="/us/usc/t35/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII" data-uslm-ref="/us/usc/t35/ptII">II.</a>  </td>
 
     <td> Patentability of Inventions and Grant of Patents  </td>
 
-    <td> 100  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs100" data-uslm-ref="/us/usc/t35/s100">100</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII" data-uslm-ref="/us/usc/t35/ptIII">III.</a>  </td>
 
     <td> Patents and Protection of Patent Rights  </td>
 
-    <td> 251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs251" data-uslm-ref="/us/usc/t35/s251">251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIV" data-uslm-ref="/us/usc/t35/ptIV">IV.</a>  </td>
 
     <td> Patent Cooperation Treaty  </td>
 
-    <td> 351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs351" data-uslm-ref="/us/usc/t35/s351">351</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptV" data-uslm-ref="/us/usc/t35/ptV">V.</a>  </td>
 
     <td> The Hague Agreement Concerning International Registration of Industrial Designs  </td>
 
-    <td> 401  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “381”. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs401" data-uslm-ref="/us/usc/t35/s401">401</a>  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “381”. </sup></sup>   </td>
 
   </tr>
 

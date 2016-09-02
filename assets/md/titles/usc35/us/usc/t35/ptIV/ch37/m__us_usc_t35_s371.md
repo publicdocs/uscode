@@ -43,7 +43,7 @@
 
  __Amendment of Subsection (d)__ 
 
-[Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(9), 203, Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, subsection (d) of this section is amended, in the third sentence, by striking “, unless it be shown to the satisfaction of the Director that such failure to comply was unavoidable”. See 2012 Amendment note below.
+    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(9), 203, Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, subsection (d) of this section is amended, in the third sentence, by striking “, unless it be shown to the satisfaction of the Director that such failure to comply was unavoidable”. See 2012 Amendment note below.
 
  __Amendments__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs271" data-uslm-ref="/us/usc/t35/s271">271.</a>  </td>
 
     <td> Infringement of patent.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs272" data-uslm-ref="/us/usc/t35/s272">272.</a>  </td>
 
     <td> Temporary presence in the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs273" data-uslm-ref="/us/usc/t35/s273">273.</a>  </td>
 
     <td> Defense to infringement based on prior commercial use.  </td>
 

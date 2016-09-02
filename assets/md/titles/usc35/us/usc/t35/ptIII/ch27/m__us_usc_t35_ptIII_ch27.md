@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [266.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs266" data-uslm-ref="/us/usc/t35/s266">266.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 267.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs267" data-uslm-ref="/us/usc/t35/s267">267.</a>  </td>
 
     <td> Time for taking action in Government applications.  </td>
 

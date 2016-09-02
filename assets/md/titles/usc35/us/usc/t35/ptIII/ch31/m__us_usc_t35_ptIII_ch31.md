@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs311" data-uslm-ref="/us/usc/t35/s311">311.</a>  </td>
 
     <td> Inter partes review.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs312" data-uslm-ref="/us/usc/t35/s312">312.</a>  </td>
 
     <td> Petitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs313" data-uslm-ref="/us/usc/t35/s313">313.</a>  </td>
 
     <td> Preliminary response to petition.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs314" data-uslm-ref="/us/usc/t35/s314">314.</a>  </td>
 
     <td> Institution of inter partes review.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs315" data-uslm-ref="/us/usc/t35/s315">315.</a>  </td>
 
     <td> Relation to other proceedings or actions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs316" data-uslm-ref="/us/usc/t35/s316">316.</a>  </td>
 
     <td> Conduct of inter partes review.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs317" data-uslm-ref="/us/usc/t35/s317">317.</a>  </td>
 
     <td> Settlement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs318" data-uslm-ref="/us/usc/t35/s318">318.</a>  </td>
 
     <td> Decision of the Board.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs319" data-uslm-ref="/us/usc/t35/s319">319.</a>  </td>
 
     <td> Appeal.  </td>
 

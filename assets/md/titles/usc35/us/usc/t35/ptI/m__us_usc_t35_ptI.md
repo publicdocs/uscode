@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptI%2Fch1" data-uslm-ref="/us/usc/t35/ptI/ch1">1.</a>  </td>
 
     <td> Establishment, Officers and Employees, Functions  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs1" data-uslm-ref="/us/usc/t35/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptI%2Fch2" data-uslm-ref="/us/usc/t35/ptI/ch2">2.</a>  </td>
 
     <td> Proceedings in the Patent and Trademark Office  </td>
 
-    <td> 21  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs21" data-uslm-ref="/us/usc/t35/s21">21</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptI%2Fch3" data-uslm-ref="/us/usc/t35/ptI/ch3">3.</a>  </td>
 
     <td> Practice Before Patent and Trademark Office  </td>
 
-    <td> 31  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs31" data-uslm-ref="/us/usc/t35/s31">31</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptI%2Fch4" data-uslm-ref="/us/usc/t35/ptI/ch4">4.</a>  </td>
 
     <td> Patent Fees; Funding; Search Systems  </td>
 
-    <td> 41  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs41" data-uslm-ref="/us/usc/t35/s41">41</a>  </td>
 
   </tr>
 

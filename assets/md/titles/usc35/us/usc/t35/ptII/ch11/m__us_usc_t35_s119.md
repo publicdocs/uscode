@@ -51,17 +51,17 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–211, title II][/us/pl/112/211], §§ 201(c)(1), 202(b)(2), 203, Dec. 18, 2012, [126 Stat. 1534][/us/stat/126/1534], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
+    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 201(c)(1), 202(b)(2), 203, Dec. 18, 2012, [126 Stat. 1534][/us/stat/126/1534], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
 
-(1) in subsection (a), by substituting “12” for “twelve” and by inserting at the end “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional.”;
+    (1) in subsection (a), by substituting “12” for “twelve” and by inserting at the end “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application in this country within the 12-month period was unintentional.”;
 
-(2) in subsection (b)(2), in the second sentence, by substituting “including the requirement for payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge”;
+    (2) in subsection (b)(2), in the second sentence, by substituting “including the requirement for payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge”;
 
-(3) in subsection (e)(1), by inserting after the first sentence “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application under section 111(a) or section 363 within the 12-month period was unintentional.” and, in the last sentence, by substituting “including the payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge” and by striking “during the pendency of the application”; and
+    (3) in subsection (e)(1), by inserting after the first sentence “The Director may prescribe regulations, including the requirement for payment of the fee specified in section 41(a)(7), pursuant to which the 12-month period set forth in this subsection may be extended by an additional 2 months if the delay in filing the application under section 111(a) or section 363 within the 12-month period was unintentional.” and, in the last sentence, by substituting “including the payment of the fee specified in section 41(a)(7)” for “including the payment of a surcharge” and by striking “during the pendency of the application”; and
 
-(4) in subsection (e)(3), by inserting at the end “For an application for patent filed under section 363 in a Receiving Office other than the Patent and Trademark Office, the 12-month and additional 2-month period set forth in this subsection shall be extended as provided under the treaty and Regulations as defined in section 351.”
+    (4) in subsection (e)(3), by inserting at the end “For an application for patent filed under section 363 in a Receiving Office other than the Patent and Trademark Office, the 12-month and additional 2-month period set forth in this subsection shall be extended as provided under the treaty and Regulations as defined in section 351.”
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __Historical and Revision Notes__ 
 

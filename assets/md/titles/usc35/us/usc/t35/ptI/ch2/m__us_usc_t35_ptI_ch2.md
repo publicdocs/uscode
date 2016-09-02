@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs21" data-uslm-ref="/us/usc/t35/s21">21.</a>  </td>
 
     <td> Filing date and day for taking action.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs22" data-uslm-ref="/us/usc/t35/s22">22.</a>  </td>
 
     <td> Printing of papers filed.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs23" data-uslm-ref="/us/usc/t35/s23">23.</a>  </td>
 
     <td> Testimony in Patent and Trademark Office cases.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs24" data-uslm-ref="/us/usc/t35/s24">24.</a>  </td>
 
     <td> Subpoenas, witnesses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs25" data-uslm-ref="/us/usc/t35/s25">25.</a>  </td>
 
     <td> Declaration in lieu of oath.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs26" data-uslm-ref="/us/usc/t35/s26">26.</a>  </td>
 
     <td> Effect of defective execution.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs27" data-uslm-ref="/us/usc/t35/s27">27.</a>  </td>
 
     <td> Revival of applications; reinstatement of reexamination proceedings.  </td>
 

@@ -229,17 +229,17 @@
 
  __Amendment of Subsections (a)(7) and (c)(1)__ 
 
-[Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(1), 203, Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
+    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(1), 203, Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
 
-(1) in subsection (a), by striking paragraph (7) and inserting the following:
+    (1) in subsection (a), by striking paragraph (7) and inserting the following:
 
     “(7) Revival fees.—On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director”; and
 
-(2) in subsection (c), by striking paragraph (1) and inserting the following:
+    (2) in subsection (c), by striking paragraph (1) and inserting the following:
 
     “(1) Acceptance.—The Director may accept the payment of any maintenance fee required by subsection (b) after the 6-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional. The Director may require the payment of the fee specified in subsection (a)(7) as a condition of accepting payment of any maintenance fee after the 6-month grace period. If the Director accepts payment of a maintenance fee after the 6-month grace period, the patent shall be considered as not having expired at the end of the grace period.”
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __Historical and Revision Notes__ 
 
@@ -953,7 +953,7 @@ See 2012 Amendment notes below.
 
 >         “ ‘(C) For each black and white copy of a patent, $3.
 
->     The yearly fee for providing a library specified in [section 12 of this title][/us/usc/t35/s12] with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.’
+>         The yearly fee for providing a library specified in [section 12 of this title][/us/usc/t35/s12] with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.’
 
 >     “(d) __Adjustments.—__ 
 

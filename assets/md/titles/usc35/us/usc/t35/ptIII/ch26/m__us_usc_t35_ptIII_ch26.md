@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs261" data-uslm-ref="/us/usc/t35/s261">261.</a>  </td>
 
     <td> Ownership; assignment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs262" data-uslm-ref="/us/usc/t35/s262">262.</a>  </td>
 
     <td> Joint owners.  </td>
 

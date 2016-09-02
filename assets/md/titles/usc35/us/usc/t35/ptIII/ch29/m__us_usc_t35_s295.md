@@ -15,13 +15,13 @@
 
 ## § 295. Presumption: Product made by patented process
 
-In actions alleging infringement of a process patent based on the importation, sale, offer for sale, or use of a product which is made from a process patented in the United States, if the court finds—
+    In actions alleging infringement of a process patent based on the importation, sale, offer for sale, or use of a product which is made from a process patented in the United States, if the court finds—
 
     (1) that a substantial likelihood exists that the product was made by the patented process, and
 
     (2) that the plaintiff has made a reasonable effort to determine the process actually used in the production of the product and was unable to so determine,
 
-        the product shall be presumed to have been so made, and the burden of establishing that the product was not made by the process shall be on the party asserting that it was not so made.
+    the product shall be presumed to have been so made, and the burden of establishing that the product was not made by the process shall be on the party asserting that it was not so made.
 
 (Added [Pub. L. 100–418, title IX, § 9005(a)][/us/pl/100/418/s9005/a], Aug. 23, 1988, [102 Stat. 1566][/us/stat/102/1566]; amended [Pub. L. 103–465, title V, § 533(b)(7)][/us/pl/103/465/s533/b/7], Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990].)
 

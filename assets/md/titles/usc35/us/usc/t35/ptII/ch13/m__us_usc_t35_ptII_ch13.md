@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs141" data-uslm-ref="/us/usc/t35/s141">141.</a>  </td>
 
     <td> Appeal to Court of Appeals for the Federal Circuit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs142" data-uslm-ref="/us/usc/t35/s142">142.</a>  </td>
 
     <td> Notice of appeal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs143" data-uslm-ref="/us/usc/t35/s143">143.</a>  </td>
 
     <td> Proceedings on appeal.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs144" data-uslm-ref="/us/usc/t35/s144">144.</a>  </td>
 
     <td> Decision on appeal.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs145" data-uslm-ref="/us/usc/t35/s145">145.</a>  </td>
 
     <td> Civil action to obtain patent.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs146" data-uslm-ref="/us/usc/t35/s146">146.</a>  </td>
 
     <td> Civil action in case of derivation proceeding.  </td>
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s155, 155A.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s157.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156)
+[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s154.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s157.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156)
 
 ## § 156. Extension of patent term
 
@@ -437,7 +437,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s155, 155A.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s157.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156)
+[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s154.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s157.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156)
 
 ----------
 ----------

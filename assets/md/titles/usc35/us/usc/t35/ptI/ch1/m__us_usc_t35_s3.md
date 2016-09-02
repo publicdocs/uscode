@@ -235,7 +235,7 @@
 
 >     “(2) any incumbent of any such position, his appointment thereto, his rate of compensation, or his right to receive such compensation,
 
->         until appropriate action is taken under authority of such amendments.”
+>     until appropriate action is taken under authority of such amendments.”
 
 ----------
 

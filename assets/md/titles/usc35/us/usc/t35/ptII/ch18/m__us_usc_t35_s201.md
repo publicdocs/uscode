@@ -15,7 +15,7 @@
 
 ## § 201. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The term “Federal agency” means any executive agency as defined in [section 105 of title 5][/us/usc/t5/s105], and the military departments as defined by [section 102 of title 5][/us/usc/t5/s102].
 

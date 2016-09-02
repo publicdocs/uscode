@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs111" data-uslm-ref="/us/usc/t35/s111">111.</a>  </td>
 
     <td> Application.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs112" data-uslm-ref="/us/usc/t35/s112">112.</a>  </td>
 
     <td> Specification.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs113" data-uslm-ref="/us/usc/t35/s113">113.</a>  </td>
 
     <td> Drawings.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs114" data-uslm-ref="/us/usc/t35/s114">114.</a>  </td>
 
     <td> Models, specimens.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs115" data-uslm-ref="/us/usc/t35/s115">115.</a>  </td>
 
     <td> Inventor’s oath or declaration.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs116" data-uslm-ref="/us/usc/t35/s116">116.</a>  </td>
 
     <td> Inventors.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs117" data-uslm-ref="/us/usc/t35/s117">117.</a>  </td>
 
     <td> Death or incapacity of inventor.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs118" data-uslm-ref="/us/usc/t35/s118">118.</a>  </td>
 
     <td> Filing by other than inventor.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs119" data-uslm-ref="/us/usc/t35/s119">119.</a>  </td>
 
     <td> Benefit of earlier filing date; right of priority.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs120" data-uslm-ref="/us/usc/t35/s120">120.</a>  </td>
 
     <td> Benefit of earlier filing date in the United States.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs121" data-uslm-ref="/us/usc/t35/s121">121.</a>  </td>
 
     <td> Divisional applications.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs122" data-uslm-ref="/us/usc/t35/s122">122.</a>  </td>
 
     <td> Confidential status of applications; publication of patent applications.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs123" data-uslm-ref="/us/usc/t35/s123">123.</a>  </td>
 
     <td> Micro entity defined.  </td>
 

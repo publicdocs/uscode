@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs181" data-uslm-ref="/us/usc/t35/s181">181.</a>  </td>
 
     <td> Secrecy of certain inventions and withholding of patent.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs182" data-uslm-ref="/us/usc/t35/s182">182.</a>  </td>
 
     <td> Abandonment of invention for unauthorized disclosure.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs183" data-uslm-ref="/us/usc/t35/s183">183.</a>  </td>
 
     <td> Right to compensation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 184.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs184" data-uslm-ref="/us/usc/t35/s184">184.</a>  </td>
 
     <td> Filing of application in foreign country.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 185.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs185" data-uslm-ref="/us/usc/t35/s185">185.</a>  </td>
 
     <td> Patent barred for filing without license.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 186.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs186" data-uslm-ref="/us/usc/t35/s186">186.</a>  </td>
 
     <td> Penalty.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 187.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs187" data-uslm-ref="/us/usc/t35/s187">187.</a>  </td>
 
     <td> Nonapplicability to certain persons.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 188.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs188" data-uslm-ref="/us/usc/t35/s188">188.</a>  </td>
 
     <td> Rules and regulations, delegation of power.  </td>
 

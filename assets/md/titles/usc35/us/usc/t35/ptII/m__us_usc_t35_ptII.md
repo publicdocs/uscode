@@ -29,91 +29,91 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch10" data-uslm-ref="/us/usc/t35/ptII/ch10">10.</a>  </td>
 
     <td> Patentability of Inventions  </td>
 
-    <td> 100  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs100" data-uslm-ref="/us/usc/t35/s100">100</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch11" data-uslm-ref="/us/usc/t35/ptII/ch11">11.</a>  </td>
 
     <td> Application for Patent  </td>
 
-    <td> 111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs111" data-uslm-ref="/us/usc/t35/s111">111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch12" data-uslm-ref="/us/usc/t35/ptII/ch12">12.</a>  </td>
 
     <td> Examination of Application  </td>
 
-    <td> 131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs131" data-uslm-ref="/us/usc/t35/s131">131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch13" data-uslm-ref="/us/usc/t35/ptII/ch13">13.</a>  </td>
 
     <td> Review of Patent and Trademark Office Decisions  </td>
 
-    <td> 141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs141" data-uslm-ref="/us/usc/t35/s141">141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch14" data-uslm-ref="/us/usc/t35/ptII/ch14">14.</a>  </td>
 
     <td> Issue of Patent  </td>
 
-    <td> 151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs151" data-uslm-ref="/us/usc/t35/s151">151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch15" data-uslm-ref="/us/usc/t35/ptII/ch15">15.</a>  </td>
 
     <td> Plant Patents  </td>
 
-    <td> 161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs161" data-uslm-ref="/us/usc/t35/s161">161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch16" data-uslm-ref="/us/usc/t35/ptII/ch16">16.</a>  </td>
 
     <td> Designs  </td>
 
-    <td> 171  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs171" data-uslm-ref="/us/usc/t35/s171">171</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch17" data-uslm-ref="/us/usc/t35/ptII/ch17">17.</a>  </td>
 
     <td> Secrecy of Certain Inventions and Filing Applications Abroad  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to chapter heading. </sup></sup>   </td>
 
-    <td> 181  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs181" data-uslm-ref="/us/usc/t35/s181">181</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptII%2Fch18" data-uslm-ref="/us/usc/t35/ptII/ch18">18.</a>  </td>
 
     <td> Patent Rights in Inventions Made with Federal Assistance  </td>
 
-    <td> 200  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs200" data-uslm-ref="/us/usc/t35/s200">200</a>  </td>
 
   </tr>
 

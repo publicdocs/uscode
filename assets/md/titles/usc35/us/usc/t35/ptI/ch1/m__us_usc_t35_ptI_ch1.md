@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs1" data-uslm-ref="/us/usc/t35/s1">1.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs2" data-uslm-ref="/us/usc/t35/s2">2.</a>  </td>
 
     <td> Powers and duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs3" data-uslm-ref="/us/usc/t35/s3">3.</a>  </td>
 
     <td> Officers and employees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs4" data-uslm-ref="/us/usc/t35/s4">4.</a>  </td>
 
     <td> Restrictions on officers and employees as to interest in patents.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs5" data-uslm-ref="/us/usc/t35/s5">5.</a>  </td>
 
     <td> Patent and Trademark Office Public Advisory Committees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs6" data-uslm-ref="/us/usc/t35/s6">6.</a>  </td>
 
     <td> Patent Trial and Appeal Board.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs7" data-uslm-ref="/us/usc/t35/s7">7.</a>  </td>
 
     <td> Library.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs8" data-uslm-ref="/us/usc/t35/s8">8.</a>  </td>
 
     <td> Classification of patents.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs9" data-uslm-ref="/us/usc/t35/s9">9.</a>  </td>
 
     <td> Certified copies of records.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs10" data-uslm-ref="/us/usc/t35/s10">10.</a>  </td>
 
     <td> Publications.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs11" data-uslm-ref="/us/usc/t35/s11">11.</a>  </td>
 
     <td> Exchange of copies of patents and applications with foreign countries.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs12" data-uslm-ref="/us/usc/t35/s12">12.</a>  </td>
 
     <td> Copies of patents and applications for public libraries.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs13" data-uslm-ref="/us/usc/t35/s13">13.</a>  </td>
 
     <td> Annual report to Congress.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [14.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs14" data-uslm-ref="/us/usc/t35/s14">14.</a>  </td>
 
     <td> Renumbered 13.]  </td>
 

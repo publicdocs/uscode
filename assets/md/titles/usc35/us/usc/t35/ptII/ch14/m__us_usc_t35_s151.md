@@ -29,7 +29,7 @@
 
 [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(6), 203, Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is repealed and a new section 151 enacted to read as follows:
 
-> § 151. Issue of patent
+>     § 151. Issue of patent
 
     (a) In General.—If it appears that an applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee and any required publication fee, which shall be paid within 3 months thereafter.
 

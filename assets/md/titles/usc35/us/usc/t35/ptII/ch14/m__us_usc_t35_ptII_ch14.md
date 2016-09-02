@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs151" data-uslm-ref="/us/usc/t35/s151">151.</a>  </td>
 
     <td> Issue of patent.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs152" data-uslm-ref="/us/usc/t35/s152">152.</a>  </td>
 
     <td> Issue of patent to assignee.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs153" data-uslm-ref="/us/usc/t35/s153">153.</a>  </td>
 
     <td> How issued.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs154" data-uslm-ref="/us/usc/t35/s154">154.</a>  </td>
 
     <td> Contents and term of patent; provisional rights.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [155, 155A.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs155" data-uslm-ref="/us/usc/t35/s155">155</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs155A" data-uslm-ref="/us/usc/t35/s155A">155A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs156" data-uslm-ref="/us/usc/t35/s156">156.</a>  </td>
 
     <td> Extension of patent term.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [157.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs157" data-uslm-ref="/us/usc/t35/s157">157.</a>  </td>
 
     <td> Repealed.]  </td>
 

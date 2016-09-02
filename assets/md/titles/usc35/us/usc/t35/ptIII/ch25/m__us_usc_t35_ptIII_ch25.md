@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs251" data-uslm-ref="/us/usc/t35/s251">251.</a>  </td>
 
     <td> Reissue of defective patents.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs252" data-uslm-ref="/us/usc/t35/s252">252.</a>  </td>
 
     <td> Effect of reissue.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs253" data-uslm-ref="/us/usc/t35/s253">253.</a>  </td>
 
     <td> Disclaimer.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs254" data-uslm-ref="/us/usc/t35/s254">254.</a>  </td>
 
     <td> Certificate of correction of Patent and Trademark Office mistake.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs255" data-uslm-ref="/us/usc/t35/s255">255.</a>  </td>
 
     <td> Certificate of correction of applicant’s mistake.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs256" data-uslm-ref="/us/usc/t35/s256">256.</a>  </td>
 
     <td> Correction of named inventor.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs257" data-uslm-ref="/us/usc/t35/s257">257.</a>  </td>
 
     <td> Supplemental examinations to consider, reconsider, or correct information.  </td>
 

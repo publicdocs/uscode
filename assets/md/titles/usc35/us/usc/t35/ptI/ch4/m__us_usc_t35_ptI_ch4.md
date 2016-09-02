@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs41" data-uslm-ref="/us/usc/t35/s41">41.</a>  </td>
 
     <td> Patent fees; patent and trademark search systems.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs42" data-uslm-ref="/us/usc/t35/s42">42.</a>  </td>
 
     <td> Patent and Trademark Office funding.  </td>
 

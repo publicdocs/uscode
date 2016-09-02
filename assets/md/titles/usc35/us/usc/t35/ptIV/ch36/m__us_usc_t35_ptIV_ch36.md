@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs361" data-uslm-ref="/us/usc/t35/s361">361.</a>  </td>
 
     <td> Receiving Office.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs362" data-uslm-ref="/us/usc/t35/s362">362.</a>  </td>
 
     <td> International Searching Authority and International Preliminary Examining Authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs363" data-uslm-ref="/us/usc/t35/s363">363.</a>  </td>
 
     <td> International application designating the United States: Effect.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs364" data-uslm-ref="/us/usc/t35/s364">364.</a>  </td>
 
     <td> International stage: Procedure.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs365" data-uslm-ref="/us/usc/t35/s365">365.</a>  </td>
 
     <td> Right of priority; benefit of the filing date of a prior application.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs366" data-uslm-ref="/us/usc/t35/s366">366.</a>  </td>
 
     <td> Withdrawn international application.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs367" data-uslm-ref="/us/usc/t35/s367">367.</a>  </td>
 
     <td> Actions of other authorities: Review.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs368" data-uslm-ref="/us/usc/t35/s368">368.</a>  </td>
 
     <td> Secrecy of certain inventions; filing international applications in foreign countries.  </td>
 

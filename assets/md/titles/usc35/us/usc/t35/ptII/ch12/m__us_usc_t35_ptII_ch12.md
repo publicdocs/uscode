@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs131" data-uslm-ref="/us/usc/t35/s131">131.</a>  </td>
 
     <td> Examination of application.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs132" data-uslm-ref="/us/usc/t35/s132">132.</a>  </td>
 
     <td> Notice of rejection; reexamination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs133" data-uslm-ref="/us/usc/t35/s133">133.</a>  </td>
 
     <td> Time for prosecuting application.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs134" data-uslm-ref="/us/usc/t35/s134">134.</a>  </td>
 
     <td> Appeal to the Patent Trial and Appeal Board.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs135" data-uslm-ref="/us/usc/t35/s135">135.</a>  </td>
 
     <td> Derivation proceedings.  </td>
 

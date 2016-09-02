@@ -87,7 +87,11 @@
 
 >                 “(i) prior art that is described by section 102(a) of such title (as in effect on the day before such effective date); or
 
->                 “(ii) prior art that—         “(I) discloses the invention more than 1 year before the date of the application for patent in the United States; and
+>                 “(ii)
+
+>                  prior art that—
+
+>                          “(I) discloses the invention more than 1 year before the date of the application for patent in the United States; and
 
 >                          “(II) would be described by section 102(a) of such title (as in effect on the day before the effective date set forth in section 3(n)(1)) if the disclosure had been made by another before the invention thereof by the applicant for patent.
 

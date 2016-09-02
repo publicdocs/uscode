@@ -85,21 +85,21 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–211, title II][/us/pl/112/211], §§ 201(a), 203, Dec. 18, 2012, [126 Stat. 1533][/us/stat/126/1533], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to certain patents and applications for patent, and not effective with respect to patents in litigation commenced before the effective date, this section is amended as follows:
+    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 201(a), 203, Dec. 18, 2012, [126 Stat. 1533][/us/stat/126/1533], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to certain patents and applications for patent, and not effective with respect to patents in litigation commenced before the effective date, this section is amended as follows:
 
-(1) in subsection (a), by striking paragraphs (3) and (4) and inserting the following:
+    (1) in subsection (a), by striking paragraphs (3) and (4) and inserting the following:
 
     “(3) Fee, oath or declaration, and claims.—The application shall be accompanied by the fee required by law. The fee, oath or declaration, and 1 or more claims may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee, oath or declaration, and 1 or more claims within such prescribed period, the application shall be regarded as abandoned.
 
     “(4) Filing date.—The filing date of an application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.”;
 
-(2) in subsection (b), by striking paragraphs (3) and (4) and inserting the following:
+    (2) in subsection (b), by striking paragraphs (3) and (4) and inserting the following:
 
     “(3) Fee.—The application shall be accompanied by the fee required by law. The fee may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee within such prescribed period, the application shall be regarded as abandoned.
 
     “(4) Filing date.—The filing date of a provisional application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.”; and
 
-(3) by adding at the end the following:
+    (3) by adding at the end the following:
 
     (c) Prior Filed Application.—Notwithstanding the provisions of subsection (a), the Director may prescribe the conditions, including the payment of a surcharge, under which a reference made upon the filing of an application under subsection (a) to a previously filed application, specifying the previously filed application by application number and the intellectual property authority or country in which the application was filed, shall constitute the specification and any drawings of the subsequent application for purposes of a filing date. A copy of the specification and any drawings of the previously filed application shall be submitted within such period and under such conditions as may be prescribed by the Director. A failure to submit the copy of the specification and any drawings of the previously filed application within the prescribed period shall result in the application being regarded as abandoned. Such application shall be treated as having never been filed, unless—
 
@@ -107,9 +107,9 @@
 
     (2) a copy of the specification and any drawings of the previously filed application are submitted to the Director.
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
-[Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(3), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (b)(7) of this section is amended by substituting “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
+    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(3), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (b)(7) of this section is amended by substituting “section 119, 365(a), or 386(a)” for “section 119 or 365(a)” and “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 

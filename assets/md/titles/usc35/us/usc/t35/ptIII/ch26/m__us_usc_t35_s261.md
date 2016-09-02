@@ -27,13 +27,13 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–211, title II][/us/pl/112/211], §§ 201(d), 203, Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
+    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 201(d), 203, Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
 
-(1) in the first undesignated paragraph, by adding at the end “The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall record any document related thereto upon request, and may require a fee therefor.”; and
+    (1) in the first undesignated paragraph, by adding at the end “The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall record any document related thereto upon request, and may require a fee therefor.”; and
 
-(2) in the fourth undesignated paragraph, by substituting “An interest that constitutes an assignment” for “An assignment”.
+    (2) in the fourth undesignated paragraph, by substituting “An interest that constitutes an assignment” for “An assignment”.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 

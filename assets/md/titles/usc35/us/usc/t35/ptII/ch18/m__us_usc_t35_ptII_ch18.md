@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 200.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs200" data-uslm-ref="/us/usc/t35/s200">200.</a>  </td>
 
     <td> Policy and objective.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs201" data-uslm-ref="/us/usc/t35/s201">201.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs202" data-uslm-ref="/us/usc/t35/s202">202.</a>  </td>
 
     <td> Disposition of rights.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs203" data-uslm-ref="/us/usc/t35/s203">203.</a>  </td>
 
     <td> March-in rights.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs204" data-uslm-ref="/us/usc/t35/s204">204.</a>  </td>
 
     <td> Preference for United States industry.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs205" data-uslm-ref="/us/usc/t35/s205">205.</a>  </td>
 
     <td> Confidentiality.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs206" data-uslm-ref="/us/usc/t35/s206">206.</a>  </td>
 
     <td> Uniform clauses and regulations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs207" data-uslm-ref="/us/usc/t35/s207">207.</a>  </td>
 
     <td> Domestic and foreign protection of federally owned inventions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs208" data-uslm-ref="/us/usc/t35/s208">208.</a>  </td>
 
     <td> Regulations governing Federal licensing.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs209" data-uslm-ref="/us/usc/t35/s209">209.</a>  </td>
 
     <td> Licensing federally owned inventions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs210" data-uslm-ref="/us/usc/t35/s210">210.</a>  </td>
 
     <td> Precedence of chapter.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs211" data-uslm-ref="/us/usc/t35/s211">211.</a>  </td>
 
     <td> Relationship to antitrust laws.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs212" data-uslm-ref="/us/usc/t35/s212">212.</a>  </td>
 
     <td> Disposition of rights in educational awards.  </td>
 

@@ -23,11 +23,11 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(8), 203, Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended by striking subsection (b) and inserting the following:
+    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(8), 203, Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended by striking subsection (b) and inserting the following:
 
     (b) An applicant’s failure to act within prescribed time limits in connection with requirements pertaining to an international application may be excused as provided in the treaty and the Regulations.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
  __Amendments__ 
 

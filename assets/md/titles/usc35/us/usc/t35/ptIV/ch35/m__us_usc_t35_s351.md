@@ -15,7 +15,7 @@
 
 ## § 351. Definitions
 
-When used in this part unless the context otherwise indicates—
+    When used in this part unless the context otherwise indicates—
 
     (a) The term “treaty” means the Patent Cooperation Treaty done at Washington, on June 19, 1970.
 

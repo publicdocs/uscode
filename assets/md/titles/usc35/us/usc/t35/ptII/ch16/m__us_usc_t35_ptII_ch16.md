@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs171" data-uslm-ref="/us/usc/t35/s171">171.</a>  </td>
 
     <td> Patents for designs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs172" data-uslm-ref="/us/usc/t35/s172">172.</a>  </td>
 
     <td> Right of priority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs173" data-uslm-ref="/us/usc/t35/s173">173.</a>  </td>
 
     <td> Term of design patent.  </td>
 

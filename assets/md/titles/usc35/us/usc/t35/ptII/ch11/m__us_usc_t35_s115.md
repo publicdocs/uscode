@@ -109,7 +109,7 @@
 
  __Amendment of Subsection (g)(1)__ 
 
-[Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(4), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (g)(1) of this section is amended by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
+    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(4), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, subsection (g)(1) of this section is amended by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 

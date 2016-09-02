@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs161" data-uslm-ref="/us/usc/t35/s161">161.</a>  </td>
 
     <td> Patents for plants.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs162" data-uslm-ref="/us/usc/t35/s162">162.</a>  </td>
 
     <td> Description, claim.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs163" data-uslm-ref="/us/usc/t35/s163">163.</a>  </td>
 
     <td> Grant.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs164" data-uslm-ref="/us/usc/t35/s164">164.</a>  </td>
 
     <td> Assistance of Department of Agriculture.  </td>
 

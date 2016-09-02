@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIV%2Fch35" data-uslm-ref="/us/usc/t35/ptIV/ch35">35.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs351" data-uslm-ref="/us/usc/t35/s351">351</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIV%2Fch36" data-uslm-ref="/us/usc/t35/ptIV/ch36">36.</a>  </td>
 
     <td> International Stage  </td>
 
-    <td> 361  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs361" data-uslm-ref="/us/usc/t35/s361">361</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIV%2Fch37" data-uslm-ref="/us/usc/t35/ptIV/ch37">37.</a>  </td>
 
     <td> National Stage  </td>
 
-    <td> 371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs371" data-uslm-ref="/us/usc/t35/s371">371</a>  </td>
 
   </tr>
 

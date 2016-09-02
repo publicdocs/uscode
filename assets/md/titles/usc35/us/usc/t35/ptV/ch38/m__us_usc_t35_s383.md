@@ -15,7 +15,7 @@
 
 ## § 383. International design application
 
-In addition to any requirements pursuant to chapter 16, the international design application shall contain—
+    In addition to any requirements pursuant to chapter 16, the international design application shall contain—
 
     (1) a request for international registration under the treaty;
 

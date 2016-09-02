@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [31.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs31" data-uslm-ref="/us/usc/t35/s31">31.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs32" data-uslm-ref="/us/usc/t35/s32">32.</a>  </td>
 
     <td> Suspension or exclusion from practice.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs33" data-uslm-ref="/us/usc/t35/s33">33.</a>  </td>
 
     <td> Unauthorized representation as practitioner.  </td>
 

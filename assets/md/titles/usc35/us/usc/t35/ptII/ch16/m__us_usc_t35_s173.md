@@ -21,7 +21,7 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(7), 103, Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532], provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended by substituting “15 years” for “fourteen years”. See 2012 Amendment note below.
+    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(7), 103, Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532], provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended by substituting “15 years” for “fourteen years”. See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 

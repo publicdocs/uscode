@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs301" data-uslm-ref="/us/usc/t35/s301">301.</a>  </td>
 
     <td> Citation of prior art and written statements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs302" data-uslm-ref="/us/usc/t35/s302">302.</a>  </td>
 
     <td> Request for reexamination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs303" data-uslm-ref="/us/usc/t35/s303">303.</a>  </td>
 
     <td> Determination of issue by Director.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs304" data-uslm-ref="/us/usc/t35/s304">304.</a>  </td>
 
     <td> Reexamination order by Director.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs305" data-uslm-ref="/us/usc/t35/s305">305.</a>  </td>
 
     <td> Conduct of reexamination proceedings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs306" data-uslm-ref="/us/usc/t35/s306">306.</a>  </td>
 
     <td> Appeal.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs307" data-uslm-ref="/us/usc/t35/s307">307.</a>  </td>
 
     <td> Certificate of patentability, unpatentability, and claim cancellation.  </td>
 

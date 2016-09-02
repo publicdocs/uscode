@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs100" data-uslm-ref="/us/usc/t35/s100">100.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs101" data-uslm-ref="/us/usc/t35/s101">101.</a>  </td>
 
     <td> Inventions patentable.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs102" data-uslm-ref="/us/usc/t35/s102">102.</a>  </td>
 
     <td> Conditions for patentability; novelty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs103" data-uslm-ref="/us/usc/t35/s103">103.</a>  </td>
 
     <td> Conditions for patentability; non-obvious subject matter.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [104.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs104" data-uslm-ref="/us/usc/t35/s104">104.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs105" data-uslm-ref="/us/usc/t35/s105">105.</a>  </td>
 
     <td> Inventions in outer space.  </td>
 

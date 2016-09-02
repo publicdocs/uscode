@@ -29,11 +29,11 @@
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptV%2Fch38" data-uslm-ref="/us/usc/t35/ptV/ch38">38.</a>  </td>
 
     <td> International Design Applications  </td>
 
-    <td> 381  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs381" data-uslm-ref="/us/usc/t35/s381">381</a>  </td>
 
   </tr>
 

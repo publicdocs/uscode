@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs371" data-uslm-ref="/us/usc/t35/s371">371.</a>  </td>
 
     <td> National stage: Commencement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs372" data-uslm-ref="/us/usc/t35/s372">372.</a>  </td>
 
     <td> National stage: Requirements and procedure.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [373.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs373" data-uslm-ref="/us/usc/t35/s373">373.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs374" data-uslm-ref="/us/usc/t35/s374">374.</a>  </td>
 
     <td> Publication of international application.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs375" data-uslm-ref="/us/usc/t35/s375">375.</a>  </td>
 
     <td> Patent issued on international application: Effect.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs376" data-uslm-ref="/us/usc/t35/s376">376.</a>  </td>
 
     <td> Fees.  </td>
 

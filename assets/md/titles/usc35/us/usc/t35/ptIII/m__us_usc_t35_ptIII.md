@@ -29,81 +29,81 @@
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII%2Fch25" data-uslm-ref="/us/usc/t35/ptIII/ch25">25.</a>  </td>
 
     <td> Amendment and Correction of Patents  </td>
 
-    <td> 251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs251" data-uslm-ref="/us/usc/t35/s251">251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII%2Fch26" data-uslm-ref="/us/usc/t35/ptIII/ch26">26.</a>  </td>
 
     <td> Ownership and Assignment  </td>
 
-    <td> 261  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs261" data-uslm-ref="/us/usc/t35/s261">261</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII%2Fch27" data-uslm-ref="/us/usc/t35/ptIII/ch27">27.</a>  </td>
 
     <td> Government Interests in Patents  </td>
 
-    <td> 266  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs266" data-uslm-ref="/us/usc/t35/s266">266</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII%2Fch28" data-uslm-ref="/us/usc/t35/ptIII/ch28">28.</a>  </td>
 
     <td> Infringement of Patents  </td>
 
-    <td> 271  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs271" data-uslm-ref="/us/usc/t35/s271">271</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII%2Fch29" data-uslm-ref="/us/usc/t35/ptIII/ch29">29.</a>  </td>
 
     <td> Remedies for Infringement of Patent, and Other Actions  </td>
 
-    <td> 281  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs281" data-uslm-ref="/us/usc/t35/s281">281</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII%2Fch30" data-uslm-ref="/us/usc/t35/ptIII/ch30">30.</a>  </td>
 
     <td> Prior Art Citations to Office and Ex Parte Reexamination of Patents  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs301" data-uslm-ref="/us/usc/t35/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII%2Fch31" data-uslm-ref="/us/usc/t35/ptIII/ch31">31.</a>  </td>
 
     <td> Inter Partes Review  </td>
 
-    <td> 311  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs311" data-uslm-ref="/us/usc/t35/s311">311</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2FptIII%2Fch32" data-uslm-ref="/us/usc/t35/ptIII/ch32">32.</a>  </td>
 
     <td> Post-Grant Review  </td>
 
-    <td> 321  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs321" data-uslm-ref="/us/usc/t35/s321">321</a>  </td>
 
   </tr>
 

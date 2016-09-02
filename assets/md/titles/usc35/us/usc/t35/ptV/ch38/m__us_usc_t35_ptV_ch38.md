@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs381" data-uslm-ref="/us/usc/t35/s381">381.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs382" data-uslm-ref="/us/usc/t35/s382">382.</a>  </td>
 
     <td> Filing international design applications.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs383" data-uslm-ref="/us/usc/t35/s383">383.</a>  </td>
 
     <td> International design application.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs384" data-uslm-ref="/us/usc/t35/s384">384.</a>  </td>
 
     <td> Filing date.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs385" data-uslm-ref="/us/usc/t35/s385">385.</a>  </td>
 
     <td> Effect of international design application.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs386" data-uslm-ref="/us/usc/t35/s386">386.</a>  </td>
 
     <td> Right of priority.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs387" data-uslm-ref="/us/usc/t35/s387">387.</a>  </td>
 
     <td> Relief from prescribed time limits.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 388.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs388" data-uslm-ref="/us/usc/t35/s388">388.</a>  </td>
 
     <td> Withdrawn or abandoned international design application.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 389.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs389" data-uslm-ref="/us/usc/t35/s389">389.</a>  </td>
 
     <td> Examination of international design application.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 390.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft35%2Fs390" data-uslm-ref="/us/usc/t35/s390">390.</a>  </td>
 
     <td> Publication of international design application.  </td>
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s153.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s155, 155A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154)
+[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s153.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s156.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154)
 
 ## § 154. Contents and term of patent; provisional rights
 
@@ -175,15 +175,15 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(6), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended as follows:
+    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(6), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended as follows:
 
-(1) in subsection (a)(2), by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”;
+    (1) in subsection (a)(2), by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”;
 
-(2) in subsection (a)(3), by substituting “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”; and
+    (2) in subsection (a)(3), by substituting “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”; and
 
-(3) in subsection (d)(1), by inserting “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty”.
+    (3) in subsection (d)(1), by inserting “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty”.
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __Historical and Revision Notes__ 
 
@@ -295,11 +295,9 @@ See 2012 Amendment notes below.
 
 >         Subject to paragraph (2), the amendments made by section 532 \[amending this section and sections 41, 111, 119, 156, 172, 173, 365, and 373 of this title\] take effect on the date that is 6 months after the date of the enactment of this Act \[Dec. 8, 1994\] and shall apply to all patent applications filed in the United States on or after the effective date.
 
->         “(2) __Section 154__ 
+>         “(2) __Section 154(a)(1).—__ 
 
->             (a) __(1).—__ 
-
->             [Section 154(a)(1) of title 35][/us/usc/t35/s154/a/1], United States Code, as amended by section 532(a)(1) of this Act, shall take effect on the effective date described in subsection (a).
+>         [Section 154(a)(1) of title 35][/us/usc/t35/s154/a/1], United States Code, as amended by section 532(a)(1) of this Act, shall take effect on the effective date described in subsection (a).
 
 >         “(3) __Earliest filing.—__ 
 
@@ -321,9 +319,19 @@ See 2012 Amendment notes below.
 
     [Pub. L. 103–465, title V, § 532(a)(2)][/us/pl/103/465/s532/a/2], Dec. 8, 1994, [108 Stat. 4985][/us/stat/108/4985], authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of [section 154(a)(2) of this title][/us/usc/t35/s154/a/2], and to establish appropriate related fees.
 
+\[§§ 155, 155A. __Repealed.__  __[__  __Pub. L. 112–29, § 20(k)__  __][/us/pl/112/29/s20/k]__  __,__  __Sept. 16, 2011__  __,__  __[__  __125 Stat. 335__  __][/us/stat/125/335]__  __\]__ 
+
+    Section 155, added [Pub. L. 97–414, § 11(a)][/us/pl/97/414/s11/a], Jan. 4, 1983, [96 Stat. 2065][/us/stat/96/2065]; amended [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(6), (10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906], related to patent term extension.
+
+    Section 155A, added [Pub. L. 98–127, § 4(a)][/us/pl/98/127/s4/a], Oct. 13, 1983, [97 Stat. 832][/us/stat/97/832]; amended [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(7), (10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906], related to patent term restoration.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of [Pub. L. 112–29][/us/pl/112/29], set out as an Effective Date of 2011 Amendment note under [section 2 of this title][/us/usc/t35/s2].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s153.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s155, 155A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154)
+[Previous](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s153.md) | [Next](./../../../../..//us/usc/t35/ptII/ch14/m__us_usc_t35_s156.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154)
 
 ----------
 ----------
@@ -422,5 +430,21 @@ See 2012 Amendment notes below.
 [/us/pl/103/465/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs532%2Fa%2F2
 [/us/stat/108/4985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4985
 [/us/usc/t35/s154/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs154%2Fa%2F2
+[/us/pl/112/29/s20/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs20%2Fk
+[/us/stat/125/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F335
+[/us/pl/97/414/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs11%2Fa
+[/us/stat/96/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2065
+[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
+[/us/pl/98/127/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F127%2Fs4%2Fa
+[/us/stat/97/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F832
+[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
+[/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
+[/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
+[/us/usc/t35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs2
 
 

@@ -15,7 +15,7 @@
 
 ## § 100. Definitions
 
-When used in this title unless the context otherwise indicates—
+    When used in this title unless the context otherwise indicates—
 
     (a) The term “invention” means invention or discovery.
 
@@ -51,7 +51,7 @@ When used in this title unless the context otherwise indicates—
 
  __Amendment of Subsection (i)(1)(B)__ 
 
-[Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(1), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, subsection (i)(1)(B) of this section is amended by substituting “right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)”. See 2012 Amendment note below.
+    [Pub. L. 112–211, title I][/us/pl/112/211], §§ 102(1), 103, Dec. 18, 2012, [126 Stat. 1531][/us/stat/126/1531], 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, subsection (i)(1)(B) of this section is amended by substituting “right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)”. See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 

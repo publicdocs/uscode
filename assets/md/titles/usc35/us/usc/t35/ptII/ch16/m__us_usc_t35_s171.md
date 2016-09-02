@@ -23,17 +23,17 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(a), 203, Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
+    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(a), 203, Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
 
-(1) by striking “Whoever” and inserting “(a) In General.—Whoever”;
+    (1) by striking “Whoever” and inserting “(a) In General.—Whoever”;
 
-(2) by striking “The provisions” and inserting “(b) Applicability of This Title.—The provisions”; and
+    (2) by striking “The provisions” and inserting “(b) Applicability of This Title.—The provisions”; and
 
-(3) by adding at the end the following:
+    (3) by adding at the end the following:
 
     (c) Filing Date.—The filing date of an application for patent for design shall be the date on which the specification as prescribed by section 112 and any required drawings are filed.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 
