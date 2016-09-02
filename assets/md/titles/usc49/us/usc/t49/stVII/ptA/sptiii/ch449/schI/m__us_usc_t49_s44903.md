@@ -689,6 +689,118 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 
     For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __Airport Security__ 
+
+[Pub. L. 114–50][/us/pl/114/50], Sept. 24, 2015, [129 Stat. 490][/us/stat/129/490], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Gerardo Hernandez Airport Security Act of 2015’.
+
+> “SEC. 2. __DEFINITIONS.__ 
+
+> “In this Act:
+
+>     “(1)  __Assistant secretary__  __.—__ 
+
+>     The term ‘Assistant Secretary’ means the Assistant Secretary of Homeland Security (Transportation Security) of the Department of Homeland Security.
+
+>     “(2)  __Administration__  __.—__ 
+
+>     The term ‘Administration’ means the Transportation Security Administration.
+
+> “SEC. 3. __SECURITY INCIDENT RESPONSE AT AIRPORTS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Assistant Secretary shall, in consultation with other Federal agencies as appropriate, conduct outreach to all airports in the United States at which the Administration performs, or oversees the implementation and performance of, security measures, and provide technical assistance as necessary, to verify such airports have in place individualized working plans for responding to security incidents inside the perimeter of the airport, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.
+
+>     “(b)  __Types of Plans__  __.—__ 
+
+>     Such plans may include, but may not be limited to, the following:
+
+>         “(1) A strategy for evacuating and providing care to persons inside the perimeter of the airport, with consideration given to the needs of persons with disabilities.
+
+>         “(2) A plan for establishing a unified command, including identification of staging areas for non-airport-specific law enforcement and fire response.
+
+>         “(3) A schedule for regular testing of communications equipment used to receive emergency calls.
+
+>         “(4) An evaluation of how emergency calls placed by persons inside the perimeter of the airport will reach airport police in an expeditious manner.
+
+>         “(5) A practiced method and plan to communicate with travelers and all other persons inside the perimeter of the airport.
+
+>         “(6) To the extent practicable, a projected maximum timeframe for law enforcement response to active shooters, acts of terrorism, and incidents that target passenger security-screening checkpoints.
+
+>         “(7) A schedule of joint exercises and training to be conducted by the airport, the Administration, other stakeholders such as airport and airline tenants, and any relevant law enforcement, airport police, fire, and medical personnel.
+
+>         “(8) A schedule for producing after-action joint exercise reports to identify and determine how to improve security incident response capabilities.
+
+>         “(9) A strategy, where feasible, for providing airport law enforcement with access to airport security video surveillance systems at category X airports where those systems were purchased and installed using Administration funds.
+
+>     “(c)  __Report to Congress__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the findings from its outreach to airports under subsection (a), including an analysis of the level of preparedness such airports have to respond to security incidents, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.
+
+> “SEC. 4. __DISSEMINATING INFORMATION ON BEST PRACTICES.__ 
+
+> “The Assistant Secretary shall—
+
+>     “(1) identify best practices that exist across airports for security incident planning, management, and training; and
+
+>     “(2) establish a mechanism through which to share such best practices with other airport operators nationwide.
+
+> “SEC. 5. __CERTIFICATION.__ 
+
+>     “Not later than 90 days after the date of enactment of this Act \[Sept. 24, 2015\], and annually thereafter, the Assistant Secretary shall certify in writing to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that all screening personnel have participated in practical training exercises for active shooter scenarios.
+
+> “SEC. 6. __REIMBURSABLE AGREEMENTS.__ 
+
+>     “Not later than 90 days after the enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an analysis of how the Administration can use cost savings achieved through efficiencies to increase over the next 5 fiscal years the funding available for checkpoint screening law enforcement support reimbursable agreements.
+
+> “SEC. 7. __SECURITY INCIDENT RESPONSE FOR SURFACE TRANSPORTATION SYSTEMS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Assistant Secretary shall, in consultation with the Secretary of Transportation, and other relevant agencies, conduct outreach to all passenger transportation agencies and providers with high-risk facilities, as identified by the Assistant Secretary, to verify such agencies and providers have in place plans to respond to active shooters, acts of terrorism, or other security-related incidents that target passengers.
+
+>     “(b)  __Types of Plans__  __.—__ 
+
+>     As applicable, such plans may include, but may not be limited to, the following:
+
+>         “(1) A strategy for evacuating and providing care to individuals, with consideration given to the needs of persons with disabilities.
+
+>         “(2) A plan for establishing a unified command.
+
+>         “(3) A plan for frontline employees to receive active shooter training.
+
+>         “(4) A schedule for regular testing of communications equipment used to receive emergency calls.
+
+>         “(5) An evaluation of how emergency calls placed by individuals using the transportation system will reach police in an expeditious manner.
+
+>         “(6) A practiced method and plan to communicate with individuals using the transportation system.
+
+>     “(c)  __Report to Congress__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the findings from its outreach to the agencies and providers under subsection (a), including an analysis of the level of preparedness such transportation systems have to respond to security incidents.
+
+>     “(d)  __Dissemination of Best Practices__  __.—__ 
+
+>     The Assistant Secretary shall identify best practices for security incident planning, management, and training and establish a mechanism through which to share such practices with passenger transportation agencies nationwide.
+
+> “SEC. 8. __NO ADDITIONAL AUTHORIZATION OF APPROPRIATIONS.__ 
+
+>     “No additional funds are authorized to be appropriated to carry out this Act, and this Act shall be carried out using amounts otherwise available for such purpose.
+
+> “SEC. 9. __INTEROPERABILITY REVIEW.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 90 days after the date of enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall, in consultation with the Assistant Secretary of the Office of Cybersecurity and Communications, conduct a review of the interoperable communications capabilities of the law enforcement, fire, and medical personnel responsible for responding to a security incident, including active shooter events, acts of terrorism, and incidents that target passenger-screening checkpoints, at all airports in the United States at which the Administration performs, or oversees the implementation and performance of, security measures.
+
+>     “(b)  __Report__  __.—__ 
+
+>     Not later than 30 days after the completion of the review, the Assistant Secretary shall report the findings of the review to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+
  __Cabin Flight Crew Participation in Known Crewmember Pilot Program__ 
 
 [Pub. L. 113–6, div. D, title II][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 349][/us/stat/127/349], provided in part: 
@@ -1151,6 +1263,8 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F50
+[/us/stat/129/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F490
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/stat/127/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F349
 [/us/pl/110/53/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1605

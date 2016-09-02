@@ -139,9 +139,11 @@
 
             (B) $9,539,000,000 for fiscal year 2013;
 
-            (C) $9,596,000,000 for fiscal year 2014; and
+            (C) $9,596,000,000 for fiscal year 2014;
 
-            (D) $9,653,000,000 for fiscal year 2015.
+            (D) $9,653,000,000 for fiscal year 2015; and
+
+            (E) $4,870,350,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.
 
             Such sums shall remain available until expended.
 
@@ -157,7 +159,7 @@
 
         (3)  __Administering program within available funding__  __.—__ 
 
-        Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+        Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015 and for the period beginning on October 1, 2015, and ending on March 31, 2016, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 
     (l) __Personnel and Services.—__ 
 
@@ -751,7 +753,7 @@
 
             (D) summaries of the responses of the Administrator to such recommendations.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2416][/us/stat/96/2416]; [Pub. L. 98–216, § 2(2)][/us/pl/98/216/s2/2], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 100–591, § 5(a)][/us/pl/100/591/s5/a], Nov. 3, 1988, [102 Stat. 3013][/us/stat/102/3013]; [Pub. L. 101–508, title IX, § 9106][/us/pl/101/508/s9106], Nov. 5, 1990, [104 Stat. 1388–355][/us/stat/104/1388-355]; [Pub. L. 101–604, title I, § 101(c)][/us/pl/101/604/s101/c], Nov. 16, 1990, [104 Stat. 3068][/us/stat/104/3068]; [Pub. L. 102–581, title I, § 104][/us/pl/102/581/s104], Oct. 31, 1992, [106 Stat. 4877][/us/stat/106/4877]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(j)(3), 5(m)(4), July 5, 1994, [108 Stat. 1365][/us/stat/108/1365], 1375; [Pub. L. 103–305, title I, § 103][/us/pl/103/305/s103], title II, § 201, Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571], 1581; [Pub. L. 104–264, title I, § 103(a)][/us/pl/104/264/s103/a], title II, §§ 223(a), 224–230, 276(c), title XII, § 1210, Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216], 3229–3234, 3282; [Pub. L. 104–287, § 5(1)][/us/pl/104/287/s5/1], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–102, § 3(c)(3)][/us/pl/105/102/s3/c/3], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–6, § 4][/us/pl/106/6/s4], Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–181, title I, § 103(a)][/us/pl/106/181/s103/a], title III, §§ 302(a)–(c), 303, 305, 306, 307(c)(1), title VII, § 701, Apr. 5, 2000, [114 Stat. 66][/us/stat/114/66], 115–118, 121, 123, 124, 126, 154; [Pub. L. 106–528, § 8(a)][/us/pl/106/528/s8/a], Nov. 22, 2000, [114 Stat. 2522][/us/stat/114/2522]; [Pub. L. 107–71, title I, § 101(c)(3)][/us/pl/107/71/s101/c/3], (d), Nov. 19, 2001, [115 Stat. 602][/us/stat/115/602], 603; [Pub. L. 108–176, title I, § 103(a)][/us/pl/108/176/s103/a],(b), title II, §§ 201–204, 224(c), Dec. 12, 2003, [117 Stat. 2495][/us/stat/117/2495], 2496, 2522–2526, 2528; [Pub. L. 110–330, § 6][/us/pl/110/330/s6], Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–12, § 6][/us/pl/111/12/s6], Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69, § 6][/us/pl/111/69/s6], Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–116, § 6][/us/pl/111/116/s6], Dec. 16, 2009, [123 Stat. 3032][/us/stat/123/3032]; [Pub. L. 111–153, § 6][/us/pl/111/153/s6], Mar. 31, 2010, [124 Stat. 1085][/us/stat/124/1085]; [Pub. L. 111–161, § 6][/us/pl/111/161/s6], Apr. 30, 2010, [124 Stat. 1127][/us/stat/124/1127]; [Pub. L. 111–197, § 6][/us/pl/111/197/s6], July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I, § 105][/us/pl/111/216/s105], Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350]; [Pub. L. 112–30, title II, § 206][/us/pl/112/30/s206], Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91, § 6][/us/pl/112/91/s6], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title I, § 103][/us/pl/112/95/s103], title II, §§ 203, 204, title III, §§ 306(b), 341, Feb. 14, 2012, [126 Stat. 16][/us/stat/126/16], 37, 61, 78; [Pub. L. 112–166, § 2(k)(2)][/us/pl/112/166/s2/k/2], Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286]; [Pub. L. 113–188, title XV, § 1501(a)][/us/pl/113/188/s1501/a], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].)
+([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2416][/us/stat/96/2416]; [Pub. L. 98–216, § 2(2)][/us/pl/98/216/s2/2], Feb. 14, 1984, [98 Stat. 5][/us/stat/98/5]; [Pub. L. 100–591, § 5(a)][/us/pl/100/591/s5/a], Nov. 3, 1988, [102 Stat. 3013][/us/stat/102/3013]; [Pub. L. 101–508, title IX, § 9106][/us/pl/101/508/s9106], Nov. 5, 1990, [104 Stat. 1388–355][/us/stat/104/1388-355]; [Pub. L. 101–604, title I, § 101(c)][/us/pl/101/604/s101/c], Nov. 16, 1990, [104 Stat. 3068][/us/stat/104/3068]; [Pub. L. 102–581, title I, § 104][/us/pl/102/581/s104], Oct. 31, 1992, [106 Stat. 4877][/us/stat/106/4877]; [Pub. L. 103–272][/us/pl/103/272], §§ 4(j)(3), 5(m)(4), July 5, 1994, [108 Stat. 1365][/us/stat/108/1365], 1375; [Pub. L. 103–305, title I, § 103][/us/pl/103/305/s103], title II, § 201, Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571], 1581; [Pub. L. 104–264, title I, § 103(a)][/us/pl/104/264/s103/a], title II, §§ 223(a), 224–230, 276(c), title XII, § 1210, Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216], 3229–3234, 3282; [Pub. L. 104–287, § 5(1)][/us/pl/104/287/s5/1], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–102, § 3(c)(3)][/us/pl/105/102/s3/c/3], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–6, § 4][/us/pl/106/6/s4], Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–181, title I, § 103(a)][/us/pl/106/181/s103/a], title III, §§ 302(a)–(c), 303, 305, 306, 307(c)(1), title VII, § 701, Apr. 5, 2000, [114 Stat. 66][/us/stat/114/66], 115–118, 121, 123, 124, 126, 154; [Pub. L. 106–528, § 8(a)][/us/pl/106/528/s8/a], Nov. 22, 2000, [114 Stat. 2522][/us/stat/114/2522]; [Pub. L. 107–71, title I, § 101(c)(3)][/us/pl/107/71/s101/c/3], (d), Nov. 19, 2001, [115 Stat. 602][/us/stat/115/602], 603; [Pub. L. 108–176, title I, § 103(a)][/us/pl/108/176/s103/a],(b), title II, §§ 201–204, 224(c), Dec. 12, 2003, [117 Stat. 2495][/us/stat/117/2495], 2496, 2522–2526, 2528; [Pub. L. 110–330, § 6][/us/pl/110/330/s6], Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–12, § 6][/us/pl/111/12/s6], Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69, § 6][/us/pl/111/69/s6], Oct. 1, 2009, [123 Stat. 2055][/us/stat/123/2055]; [Pub. L. 111–116, § 6][/us/pl/111/116/s6], Dec. 16, 2009, [123 Stat. 3032][/us/stat/123/3032]; [Pub. L. 111–153, § 6][/us/pl/111/153/s6], Mar. 31, 2010, [124 Stat. 1085][/us/stat/124/1085]; [Pub. L. 111–161, § 6][/us/pl/111/161/s6], Apr. 30, 2010, [124 Stat. 1127][/us/stat/124/1127]; [Pub. L. 111–197, § 6][/us/pl/111/197/s6], July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I, § 105][/us/pl/111/216/s105], Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350]; [Pub. L. 112–30, title II, § 206][/us/pl/112/30/s206], Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91, § 6][/us/pl/112/91/s6], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title I, § 103][/us/pl/112/95/s103], title II, §§ 203, 204, title III, §§ 306(b), 341, Feb. 14, 2012, [126 Stat. 16][/us/stat/126/16], 37, 61, 78; [Pub. L. 112–166, § 2(k)(2)][/us/pl/112/166/s2/k/2], Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286]; [Pub. L. 113–188, title XV, § 1501(a)][/us/pl/113/188/s1501/a], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023]; [Pub. L. 114–55, title I, § 103][/us/pl/114/55/s103], Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523].)
 
 <table>
 
@@ -1096,6 +1098,10 @@ Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1) (1st sentence proviso, 2d, last se
     The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824]. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5 and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (k)(1)(E). [Pub. L. 114–55, § 103(1)][/us/pl/114/55/s103/1], added subpar. (E).
+
+    Subsec. (k)(3). [Pub. L. 114–55, § 103(2)][/us/pl/114/55/s103/2], inserted “and for the period beginning on October 1, 2015, and ending on March 31, 2016” after “fiscal years 2012 through 2015”.
 
     2014—Subsec. (p)(7)(H), (I). [Pub. L. 113–188][/us/pl/113/188] redesignated subpar. (I) as (H) and struck out former subsec. (H) which related to reports and other actions by the Air Traffic Services Committee, Administrator, and Comptroller General.
 
@@ -1940,6 +1946,8 @@ Sec. 2. Purpose. The FAA’s primary mission is to ensure the safety, security, 
 [/us/stat/126/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1286
 [/us/pl/113/188/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fa
 [/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
+[/us/pl/114/55/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs103
+[/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/act/1983-01-12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1983-01-12%2Fs1
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
@@ -1958,6 +1966,8 @@ Sec. 2. Purpose. The FAA’s primary mission is to ensure the safety, security, 
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
+[/us/pl/114/55/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs103%2F1
+[/us/pl/114/55/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs103%2F2
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/112/166/s2/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fk%2F2%2FA
 [/us/pl/112/166/s2/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fk%2F2%2FB

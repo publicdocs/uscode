@@ -23,7 +23,7 @@
 
         (2)  __Additional funds__  __.—__ 
 
-        In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, and $93,000,000 for fiscal year 2015 to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+        In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, and $93,000,000 for fiscal year 2015, and $77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
         (3)  __Authorization for additional employees__  __.—__ 
 
@@ -37,7 +37,7 @@
 
     The funds made available under this section shall remain available until expended.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1152][/us/stat/108/1152]; [Pub. L. 104–264, title II, § 278(c)][/us/pl/104/264/s278/c], Oct. 9, 1996, [110 Stat. 3249][/us/stat/110/3249]; [Pub. L. 106–181, title II, § 209(a)][/us/pl/106/181/s209/a], Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95]; [Pub. L. 108–176, title IV, § 404][/us/pl/108/176/s404], Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543]; [Pub. L. 112–30, title II, § 209][/us/pl/112/30/s209], Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91, § 9][/us/pl/112/91/s9], Jan. 31, 2012, [126 Stat. 5][/us/stat/126/5]; [Pub. L. 112–95, title IV, § 428][/us/pl/112/95/s428], Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1152][/us/stat/108/1152]; [Pub. L. 104–264, title II, § 278(c)][/us/pl/104/264/s278/c], Oct. 9, 1996, [110 Stat. 3249][/us/stat/110/3249]; [Pub. L. 106–181, title II, § 209(a)][/us/pl/106/181/s209/a], Apr. 5, 2000, [114 Stat. 95][/us/stat/114/95]; [Pub. L. 108–176, title IV, § 404][/us/pl/108/176/s404], Dec. 12, 2003, [117 Stat. 2543][/us/stat/117/2543]; [Pub. L. 112–30, title II, § 209][/us/pl/112/30/s209], Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91, § 9][/us/pl/112/91/s9], Jan. 31, 2012, [126 Stat. 5][/us/stat/126/5]; [Pub. L. 112–95, title IV, § 428][/us/pl/112/95/s428], Feb. 14, 2012, [126 Stat. 99][/us/stat/126/99]; [Pub. L. 114–55, title I, § 107][/us/pl/114/55/s107], Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
 
 <table>
 
@@ -90,6 +90,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(m); added Oct. 24, 1978,
     Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2), is classified to [section 9502 of Title 26][/us/usc/t26/s9502], Internal Revenue Code.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–55][/us/pl/114/55] substituted “$93,000,000 for fiscal year 2015, and $77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” for “and $93,000,000 for fiscal year 2015”.
 
     2012—Subsec. (a)(1). [Pub. L. 112–95, § 428(a)(1)][/us/pl/112/95/s428/a/1], inserted “for each fiscal year” before “is authorized” and substituted “under this subchapter” for “under this subchapter for each fiscal year”.
 
@@ -183,7 +185,10 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(m); added Oct. 24, 1978,
 [/us/stat/126/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F5
 [/us/pl/112/95/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs428
 [/us/stat/126/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F99
+[/us/pl/114/55/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs107
+[/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
 [/us/usc/t26/s9502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9502
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/112/95/s428/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs428%2Fa%2F1
 [/us/pl/112/95/s428/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs428%2Fa%2F2
 [/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91

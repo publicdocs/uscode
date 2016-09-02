@@ -137,9 +137,11 @@
 
         (6) $190,500,000 for fiscal year 2010;
 
-        (7) $170,000,000 for fiscal year 2011; and
+        (7) $170,000,000 for fiscal year 2011;
 
-        (8) $168,000,000 for each of fiscal years 2012 through 2015.
+        (8) $168,000,000 for each of fiscal years 2012 through 2015; and
+
+        (9) $78,375,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.
 
     (b)  __Research Priorities__  __.—__ 
 
@@ -255,7 +257,7 @@
 
         Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1294][/us/stat/108/1294]; [Pub. L. 103–305, title III, § 302][/us/pl/103/305/s302], Aug. 23, 1994, [108 Stat. 1589][/us/stat/108/1589]; [Pub. L. 104–264, title XI][/us/pl/104/264], §§ 1102, 1103, Oct. 9, 1996, [110 Stat. 3278][/us/stat/110/3278]; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], (74), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3396; [Pub. L. 105–155][/us/pl/105/155], §§ 2, 3, Feb. 11, 1998, [112 Stat. 5][/us/stat/112/5]; [Pub. L. 106–181, title IX, § 901][/us/pl/106/181/s901], Apr. 5, 2000, [114 Stat. 194][/us/stat/114/194]; [Pub. L. 108–176, title VII][/us/pl/108/176], §§ 701, 707, Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], 2582; [Pub. L. 110–330, § 8][/us/pl/110/330/s8], Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–12, § 8][/us/pl/111/12/s8], Mar. 30, 2009, [123 Stat. 1459][/us/stat/123/1459]; [Pub. L. 111–69, § 8][/us/pl/111/69/s8], Oct. 1, 2009, [123 Stat. 2056][/us/stat/123/2056]; [Pub. L. 111–116, § 8][/us/pl/111/116/s8], Dec. 16, 2009, [123 Stat. 3033][/us/stat/123/3033]; [Pub. L. 111–153, § 8][/us/pl/111/153/s8], Mar. 31, 2010, [124 Stat. 1086][/us/stat/124/1086]; [Pub. L. 111–161, § 8][/us/pl/111/161/s8], Apr. 30, 2010, [124 Stat. 1128][/us/stat/124/1128]; [Pub. L. 111–197, § 8][/us/pl/111/197/s8], July 2, 2010, [124 Stat. 1355][/us/stat/124/1355]; [Pub. L. 111–216, title I, § 107][/us/pl/111/216/s107], Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350]; [Pub. L. 112–30, title II, § 208][/us/pl/112/30/s208], Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91, § 8][/us/pl/112/91/s8], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IX, § 901(a)][/us/pl/112/95/s901/a], (b), Feb. 14, 2012, [126 Stat. 137][/us/stat/126/137].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1294][/us/stat/108/1294]; [Pub. L. 103–305, title III, § 302][/us/pl/103/305/s302], Aug. 23, 1994, [108 Stat. 1589][/us/stat/108/1589]; [Pub. L. 104–264, title XI][/us/pl/104/264], §§ 1102, 1103, Oct. 9, 1996, [110 Stat. 3278][/us/stat/110/3278]; [Pub. L. 104–287, § 5(9)][/us/pl/104/287/s5/9], (74), Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389], 3396; [Pub. L. 105–155][/us/pl/105/155], §§ 2, 3, Feb. 11, 1998, [112 Stat. 5][/us/stat/112/5]; [Pub. L. 106–181, title IX, § 901][/us/pl/106/181/s901], Apr. 5, 2000, [114 Stat. 194][/us/stat/114/194]; [Pub. L. 108–176, title VII][/us/pl/108/176], §§ 701, 707, Dec. 12, 2003, [117 Stat. 2574][/us/stat/117/2574], 2582; [Pub. L. 110–330, § 8][/us/pl/110/330/s8], Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–12, § 8][/us/pl/111/12/s8], Mar. 30, 2009, [123 Stat. 1459][/us/stat/123/1459]; [Pub. L. 111–69, § 8][/us/pl/111/69/s8], Oct. 1, 2009, [123 Stat. 2056][/us/stat/123/2056]; [Pub. L. 111–116, § 8][/us/pl/111/116/s8], Dec. 16, 2009, [123 Stat. 3033][/us/stat/123/3033]; [Pub. L. 111–153, § 8][/us/pl/111/153/s8], Mar. 31, 2010, [124 Stat. 1086][/us/stat/124/1086]; [Pub. L. 111–161, § 8][/us/pl/111/161/s8], Apr. 30, 2010, [124 Stat. 1128][/us/stat/124/1128]; [Pub. L. 111–197, § 8][/us/pl/111/197/s8], July 2, 2010, [124 Stat. 1355][/us/stat/124/1355]; [Pub. L. 111–216, title I, § 107][/us/pl/111/216/s107], Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350]; [Pub. L. 112–30, title II, § 208][/us/pl/112/30/s208], Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91, § 8][/us/pl/112/91/s8], Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title IX, § 901(a)][/us/pl/112/95/s901/a], (b), Feb. 14, 2012, [126 Stat. 137][/us/stat/126/137]; [Pub. L. 114–55, title I, § 105][/us/pl/114/55/s105], Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
 
 <table>
 
@@ -408,6 +410,8 @@ Nov. 3, 1988, Pub. L. 100–591, § 8(d), 102 Stat. 3016; Nov. 17, 1988, Pub. 
     The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of [Pub. L. 105–155][/us/pl/105/155], which was approved Feb. 11, 1998.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(9). [Pub. L. 114–55][/us/pl/114/55] added par. (9).
 
     2012—Subsec. (a). [Pub. L. 112–95, § 901(a)(1)][/us/pl/112/95/s901/a/1], substituted “of this title and, for each of fiscal years 2012 through 2015, under subsection (g)” for “of this title” in introductory provisions.
 
@@ -563,9 +567,12 @@ Nov. 3, 1988, Pub. L. 100–591, § 8(d), 102 Stat. 3016; Nov. 17, 1988, Pub. 
 [/us/stat/126/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F4
 [/us/pl/112/95/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs901%2Fa
 [/us/stat/126/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F137
+[/us/pl/114/55/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs105
+[/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
 [/us/pl/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581
 [/us/stat/106/4896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4896
 [/us/pl/105/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F155
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/112/95/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs901%2Fa%2F1
 [/us/pl/112/95/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs901%2Fa%2F2
 [/us/pl/112/95/s901/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs901%2Fa%2F5

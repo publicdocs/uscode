@@ -37,7 +37,7 @@
 
 [Pub. L. 113–235, div. K, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2724][/us/stat/128/2724], provided in part: 
 
-> “That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account \[Office of Inspector General, Salaries and Expenses\] for law enforcement activities authorized under the Inspector General Act of 1978, as amended \[5 U.S.C. App\], to remain available until expended.”
+> “That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account \[Office of Inspector General, Salaries and Expenses\] for law enforcement activities authorized under the Inspector General Act of 1978, as amended \[5 U.S.C. App.\], to remain available until expended.”
 
     Similar provisions were contained in the following prior appropriation act:
 

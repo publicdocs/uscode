@@ -51,7 +51,7 @@
 
  __Establishment of Advisory Committee for Aviation Consumer Protection__ 
 
-[Pub. L. 112–95, title IV, § 411][/us/pl/112/95/s411], Feb. 14, 2012, [126 Stat. 88][/us/stat/126/88], provided that:
+[Pub. L. 112–95, title IV, § 411][/us/pl/112/95/s411], Feb. 14, 2012, [126 Stat. 88][/us/stat/126/88], as amended by [Pub. L. 114–55, title I, § 102(i)][/us/pl/114/55/s102/i], Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -99,7 +99,7 @@
 
 >     “(h)  __Termination__  __.—__ 
 
->     The advisory committee established under this section shall terminate on September 30, 2015.”
+>     The advisory committee established under this section shall terminate on March 31, 2016.”
 
  __Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft__ 
 
@@ -116,6 +116,8 @@
 
 [/us/pl/112/95/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs411
 [/us/stat/126/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F88
+[/us/pl/114/55/s102/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs102%2Fi
+[/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
 [/us/pl/112/95/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs412
 [/us/stat/126/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F89
 
