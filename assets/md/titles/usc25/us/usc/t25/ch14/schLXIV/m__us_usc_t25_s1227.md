@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1226.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXV/m__us_usc_t25_ch14_schLXV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1227)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1226.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXV/m__us_usc_t25_ch14_schLXV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1227)
 
 ## § 1227. Rules and regulations
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1226.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXV/m__us_usc_t25_ch14_schLXV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1227)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1226.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXV/m__us_usc_t25_ch14_schLXV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1227)
 
 ----------
 ----------

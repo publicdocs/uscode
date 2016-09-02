@@ -29,7 +29,7 @@
 
     (c) __Self-determination contracts__ 
 
-        Notwithstanding subsections (a) and (b) of this section, with respect to any self-determination contract, or portion of a self-determination contract, that is intended to benefit one tribe, the tribal employment or contract preference laws adopted by such tribe shall govern with respect to the administration of the contract or portion of the contract.
+        Notwithstanding subsections (a) and (b), with respect to any self-determination contract, or portion of a self-determination contract, that is intended to benefit one tribe, the tribal employment or contract preference laws adopted by such tribe shall govern with respect to the administration of the contract or portion of the contract.
 
 ([Pub. L. 93–638, § 7][/us/pl/93/638/s7], Jan. 4, 1975, [88 Stat. 2205][/us/stat/88/2205]; [Pub. L. 103–413, title I, § 102(3)][/us/pl/103/413/s102/3], (4), Oct. 25, 1994, [108 Stat. 4251][/us/stat/108/4251].)
 

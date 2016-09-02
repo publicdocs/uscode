@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1225.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1227.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1226)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1225.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1227.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1226)
 
 ## § 1226. Shares not distributed within two years; unexpended funds; reversion; bar of claims
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1225.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1227.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1226)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1225.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1227.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1226)
 
 ----------
 ----------

@@ -33,7 +33,7 @@
 
     (c) __Fees and charges__ 
 
-        The rules and regulations promulgated by the Secretary to carry out this section shall include the setting of reasonable fees to be paid by the Indian individual or economic enterprise and reasonable premium charges to be paid by sureties. In setting fees and charges, the Secretary may take into consideration the cost to the surety of providing the services required by paragraph (4) of subsection (b) of this section. The receipts from the fees and charges shall be deposited in the Fund established by [section 1497(a) of this title][/us/usc/t25/s1497/a].
+        The rules and regulations promulgated by the Secretary to carry out this section shall include the setting of reasonable fees to be paid by the Indian individual or economic enterprise and reasonable premium charges to be paid by sureties. In setting fees and charges, the Secretary may take into consideration the cost to the surety of providing the services required by paragraph (4) of subsection (b). The receipts from the fees and charges shall be deposited in the Fund established by [section 1497(a) of this title][/us/usc/t25/s1497/a].
 
 ([Pub. L. 93–262, title II, § 218][/us/pl/93/262/s218], as added [Pub. L. 100–442, § 5(a)][/us/pl/100/442/s5/a], Sept. 22, 1988, [102 Stat. 1764][/us/stat/102/1764].)
 

@@ -17,7 +17,7 @@
 
     (a) __Liens and forfeitures, etc.__ 
 
-        Subject to subsection (b) of this section, the provisions of [section 1407 of this title][/us/usc/t25/s1407] shall apply to any payment of funds authorized to be appropriated under this subchapter and made to individual members of the Seneca Nation. None of the payments, funds, or distributions authorized, established, or directed by this subchapter, and none of the income derived therefrom, which may be received under this subchapter by the Seneca Nation or individual members of the Seneca Nation, shall be subject to levy, execution, forfeiture, garnishment, lien, encumbrance, seizure, or State or local taxation.
+        Subject to subsection (b), the provisions of [section 1407 of this title][/us/usc/t25/s1407] shall apply to any payment of funds authorized to be appropriated under this subchapter and made to individual members of the Seneca Nation. None of the payments, funds, or distributions authorized, established, or directed by this subchapter, and none of the income derived therefrom, which may be received under this subchapter by the Seneca Nation or individual members of the Seneca Nation, shall be subject to levy, execution, forfeiture, garnishment, lien, encumbrance, seizure, or State or local taxation.
 
     (b) __Eligibility for Government programs__ 
 

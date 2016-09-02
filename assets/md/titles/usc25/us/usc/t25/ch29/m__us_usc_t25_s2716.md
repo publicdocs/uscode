@@ -17,7 +17,7 @@
 
     (a) __Confidential information__ 
 
-        Except as provided in subsection (b) of this section, the Commission shall preserve any and all information received pursuant to this chapter as confidential pursuant to the provisions of paragraphs (4) and (7) of [section 552(b) of title 5][/us/usc/t5/s552/b].
+        Except as provided in subsection (b), the Commission shall preserve any and all information received pursuant to this chapter as confidential pursuant to the provisions of paragraphs (4) and (7) of [section 552(b) of title 5][/us/usc/t5/s552/b].
 
     (b) __Provision to law enforcement officials__ 
 

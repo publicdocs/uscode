@@ -59,7 +59,7 @@
 
             (B) proposes a level of funding that is in excess of the applicable level determined under [section 450j–1(a) of this title][/us/usc/t25/s450j–1/a],
 
-            subject to any alteration in the scope of the proposal that the Secretary and the tribal organization agree to, the Secretary shall, as appropriate, approve such portion of the program, function, service, or activity as is authorized under paragraph (1) or approve a level of funding authorized under [section 450j–1(a) of this title][/us/usc/t25/s450j–1/a]. If a tribal organization elects to carry out a severable portion of a contract proposal pursuant to this paragraph, subsection (b) of this section shall only apply to the portion of the contract that is declined by the Secretary pursuant to this subsection.
+            subject to any alteration in the scope of the proposal that the Secretary and the tribal organization agree to, the Secretary shall, as appropriate, approve such portion of the program, function, service, or activity as is authorized under paragraph (1) or approve a level of funding authorized under [section 450j–1(a) of this title][/us/usc/t25/s450j–1/a]. If a tribal organization elects to carry out a severable portion of a contract proposal pursuant to this paragraph, subsection (b) shall only apply to the portion of the contract that is declined by the Secretary pursuant to this subsection.
 
     (b) __Procedure upon refusal of request to contract__ 
 
@@ -89,11 +89,11 @@
 
     (e) __Burden of proof at hearing or appeal declining contract; final agency action__ 
 
-        (1) With respect to any hearing or appeal conducted pursuant to subsection (b)(3) of this section or any civil action conducted pursuant to [section 450m–1(a) of this title][/us/usc/t25/s450m–1/a], the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for declining the contract proposal (or portion thereof).
+        (1) With respect to any hearing or appeal conducted pursuant to subsection (b)(3) or any civil action conducted pursuant to [section 450m–1(a) of this title][/us/usc/t25/s450m–1/a], the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for declining the contract proposal (or portion thereof).
 
         (2)
 
-         Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under subsection (b)(3) of this section shall be made either—
+         Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (referred to in this paragraph as the “Department”) that constitutes final agency action and that relates to an appeal within the Department that is conducted under subsection (b)(3) shall be made either—
 
             (A) by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
 
@@ -113,7 +113,7 @@
 
  __Amendments__ 
 
-    2000—Subsec. (e)(1). [Pub. L. 106–260][/us/pl/106/260] inserted “or any civil action conducted pursuant to [section 450m–1(a) of this title][/us/usc/t25/s450m–1/a]” after “subsection (b)(3) of this section”.
+    2000—Subsec. (e)(1). [Pub. L. 106–260][/us/pl/106/260] inserted “or any civil action conducted pursuant to [section 450m–1(a) of this title][/us/usc/t25/s450m–1/a]” after “subsection (b)(3)”.
 
     1994—Subsec. (a)(1). [Pub. L. 103–413, § 102(5)][/us/pl/103/413/s102/5], inserted concluding provisions.
 

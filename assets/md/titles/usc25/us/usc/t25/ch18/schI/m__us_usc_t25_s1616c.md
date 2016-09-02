@@ -23,7 +23,7 @@
 
         (1) Any Indian tribe or tribal or Indian organization may submit an application for funding of a project pursuant to this section.
 
-        (2) Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] shall be given an equal opportunity with programs that are administered directly by the Service to compete for, and receive, grants under subsection (a) of this section for such projects.
+        (2) Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\] shall be given an equal opportunity with programs that are administered directly by the Service to compete for, and receive, grants under subsection (a) for such projects.
 
 ([Pub. L. 94–437, title I, § 110][/us/pl/94/437/s110], as added [Pub. L. 100–713, title I, § 108][/us/pl/100/713/s108], Nov. 23, 1988, [102 Stat. 4794][/us/stat/102/4794]; amended [Pub. L. 102–573, title I, § 117(b)(4)][/us/pl/102/573/s117/b/4], Oct. 29, 1992, [106 Stat. 4544][/us/stat/106/4544].)
 

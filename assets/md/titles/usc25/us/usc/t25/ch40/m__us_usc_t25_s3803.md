@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        The Secretary shall establish a dam safety maintenance and repair program within the Bureau to ensure maintenance and monitoring of the condition of each dam identified pursuant to subsection (e) of this section necessary to maintain the dam in a satisfactory condition on a long-term basis.
+        The Secretary shall establish a dam safety maintenance and repair program within the Bureau to ensure maintenance and monitoring of the condition of each dam identified pursuant to subsection (e) necessary to maintain the dam in a satisfactory condition on a long-term basis.
 
     (b) __Transfer of existing functions and personnel__ 
 
@@ -25,11 +25,11 @@
 
     (c) __Rehabilitation__ 
 
-        Under the Dam Safety Maintenance and Repair Program, the Secretary shall perform such rehabilitation work as is necessary to bring the dams identified pursuant to subsection (e) of this section to a satisfactory condition. In addition, each dam located on Indian lands shall be regularly maintained pursuant to the Dam Safety Maintenance and Repair Program established pursuant to subsection (a) of this section.
+        Under the Dam Safety Maintenance and Repair Program, the Secretary shall perform such rehabilitation work as is necessary to bring the dams identified pursuant to subsection (e) to a satisfactory condition. In addition, each dam located on Indian lands shall be regularly maintained pursuant to the Dam Safety Maintenance and Repair Program established pursuant to subsection (a).
 
     (d) __Maintenance action plan__ 
 
-        The Secretary shall develop a maintenance action plan, which shall include a prioritization of actions to be taken, for those dams with a risk hazard rating of high or significant as identified pursuant to subsection (e) of this section.
+        The Secretary shall develop a maintenance action plan, which shall include a prioritization of actions to be taken, for those dams with a risk hazard rating of high or significant as identified pursuant to subsection (e).
 
     (e) __Identification of dams__ 
 
@@ -83,7 +83,7 @@
 
     (g) __Technical assistance__ 
 
-        To carry out the purposes of this chapter, the Secretary may obtain technical assistance on a nonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenance and Repair Program established under subsection (a) of this section shall be under the direction and control of the Bureau.
+        To carry out the purposes of this chapter, the Secretary may obtain technical assistance on a nonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenance and Repair Program established under subsection (a) shall be under the direction and control of the Bureau.
 
     (h) __Contract authority__ 
 

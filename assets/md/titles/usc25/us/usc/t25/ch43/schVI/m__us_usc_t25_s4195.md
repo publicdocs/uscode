@@ -29,7 +29,7 @@
 
     (d) __Fiscal year limitations on tribes__ 
 
-    The Secretary shall monitor the use of guarantees under this subchapter by Indian tribes. If the Secretary finds that 50 percent of the aggregate guarantee authority under subsection (c) of this section has been committed, the Secretary may—
+    The Secretary shall monitor the use of guarantees under this subchapter by Indian tribes. If the Secretary finds that 50 percent of the aggregate guarantee authority under subsection (c) has been committed, the Secretary may—
 
         (1) impose limitations on the amount of guarantees any one Indian tribe may receive in any fiscal year of $50,000,000; or
 

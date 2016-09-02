@@ -49,7 +49,7 @@
 
     (c) __Transfer of private settlement land as involuntary conversion__ 
 
-        For the purpose of subtitle A of title 26, any transfer of private settlement lands to which subsection (b) of this section applies shall be deemed to be an involuntary conversion within the meaning of [section 1033 of title 26][/us/usc/t26/s1033].
+        For the purpose of subtitle A of title 26, any transfer of private settlement lands to which subsection (b) applies shall be deemed to be an involuntary conversion within the meaning of [section 1033 of title 26][/us/usc/t26/s1033].
 
     (d) __Documentation of relinquishment of tribal claims__ 
 

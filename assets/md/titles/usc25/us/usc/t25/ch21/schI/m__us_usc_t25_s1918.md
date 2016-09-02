@@ -23,7 +23,7 @@
 
         (1)
 
-         In considering the petition and feasibility of the plan of a tribe under subsection (a) of this section, the Secretary may consider, among other things:
+         In considering the petition and feasibility of the plan of a tribe under subsection (a), the Secretary may consider, among other things:
 
             (i) whether or not the tribe maintains a membership roll or alternative provision for clearly identifying the persons who will be affected by the reassumption of jurisdiction by the tribe;
 
@@ -37,7 +37,7 @@
 
     (c) __Approval of petition; publication in Federal Register; notice; reassumption period; correction of causes for disapproval__ 
 
-        If the Secretary approves any petition under subsection (a) of this section, the Secretary shall publish notice of such approval in the Federal Register and shall notify the affected State or States of such approval. The Indian tribe concerned shall reassume jurisdiction sixty days after publication in the Federal Register of notice of approval. If the Secretary disapproves any petition under subsection (a) of this section, the Secretary shall provide such technical assistance as may be necessary to enable the tribe to correct any deficiency which the Secretary identified as a cause for disapproval.
+        If the Secretary approves any petition under subsection (a), the Secretary shall publish notice of such approval in the Federal Register and shall notify the affected State or States of such approval. The Indian tribe concerned shall reassume jurisdiction sixty days after publication in the Federal Register of notice of approval. If the Secretary disapproves any petition under subsection (a), the Secretary shall provide such technical assistance as may be necessary to enable the tribe to correct any deficiency which the Secretary identified as a cause for disapproval.
 
     (d) __Pending actions or proceedings unaffected__ 
 

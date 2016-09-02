@@ -25,7 +25,7 @@
 
     (c) __Jurisdiction over enforcement against members__ 
 
-        Notwithstanding [section 1300g–4(f) of this title][/us/usc/t25/s1300g–4/f], the courts of the United States shall have exclusive jurisdiction over any offense in violation of subsection (a) of this section that is committed by the tribe, or by any member of the tribe, on the reservation or on lands of the tribe. However, nothing in this section shall be construed as precluding the State of Texas from bringing an action in the courts of the United States to enjoin violations of the provisions of this section.
+        Notwithstanding [section 1300g–4(f) of this title][/us/usc/t25/s1300g–4/f], the courts of the United States shall have exclusive jurisdiction over any offense in violation of subsection (a) that is committed by the tribe, or by any member of the tribe, on the reservation or on lands of the tribe. However, nothing in this section shall be construed as precluding the State of Texas from bringing an action in the courts of the United States to enjoin violations of the provisions of this section.
 
 ([Pub. L. 100–89, title I, § 107][/us/pl/100/89/s107], Aug. 18, 1987, [101 Stat. 668][/us/stat/101/668].)
 

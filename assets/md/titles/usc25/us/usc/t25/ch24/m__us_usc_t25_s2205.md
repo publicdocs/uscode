@@ -47,19 +47,19 @@
 
             (ii) the opportunity for a devisee who is the spouse or lineal descendant of a testator to reserve a life estate without regard to waste; and
 
-            (iii) payment of fair market value in the manner prescribed under subsection (c)(2) of this section.
+            (iii) payment of fair market value in the manner prescribed under subsection (c)(2).
 
     (b) __Secretarial approval__ 
 
         (1) __In general__ 
 
-            Any tribal probate code enacted under subsection (a) of this section, and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
+            Any tribal probate code enacted under subsection (a), and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
 
         (2) __Review and approval__ 
 
             (A) __In general__ 
 
-                Each Indian tribe that adopts a tribal probate code under subsection (a) of this section shall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
+                Each Indian tribe that adopts a tribal probate code under subsection (a) shall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
 
             (B) __Consequence of failures to approve or disapprove a tribal probate code__ 
 
@@ -95,7 +95,7 @@
 
             (A) __Tribal probate codes__ 
 
-                Each tribal probate code enacted under subsection (a) of this section shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
+                Each tribal probate code enacted under subsection (a) shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
 
             (B) __Amendments to tribal probate codes__ 
 

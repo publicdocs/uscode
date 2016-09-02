@@ -35,19 +35,19 @@
 
     As soon as practicable after the Settlement Agreement is executed and approved pursuant to this subchapter, the Secretary of the Treasury shall establish in the Treasury of the United States two interest bearing accounts to be known respectively as the “Crow Tribal Suspension Account” and the “Northern Cheyenne Tribal Suspension Account” (collectively referred to in this section as the “Suspension Accounts”), consisting of—
 
-        (1) such amounts as are transferred to the Suspension Accounts under subsection (c) of this section; and
+        (1) such amounts as are transferred to the Suspension Accounts under subsection (c); and
 
-        (2) any interest earned on investments of amounts in the Suspension Accounts under subsection (e) of this section.
+        (2) any interest earned on investments of amounts in the Suspension Accounts under subsection (e).
 
     (c) __Contributions to Suspension Accounts__ 
 
         (1) __In general__ 
 
-            Beginning with fiscal year 1995, and ending on the date on which the total amount deposited pursuant to this subsection into the Suspension Accounts is equal to $200,000 for each such account (as specified in subsection (d) of this section), the Secretary and the Secretary of the Treasury shall make necessary and proper arrangements for the monthly payment, transfer, or deposit (or any combination thereof) into each of the Suspension Accounts of an amount equal to one-half of the royalties received and retained by the United States for the immediately preceding month, as determined in accordance with [section 1776d(b)(1) of this title][/us/usc/t25/s1776d/b/1], by the date specified under [section 1776d(b)(3) of this title][/us/usc/t25/s1776d/b/3].
+            Beginning with fiscal year 1995, and ending on the date on which the total amount deposited pursuant to this subsection into the Suspension Accounts is equal to $200,000 for each such account (as specified in subsection (d)), the Secretary and the Secretary of the Treasury shall make necessary and proper arrangements for the monthly payment, transfer, or deposit (or any combination thereof) into each of the Suspension Accounts of an amount equal to one-half of the royalties received and retained by the United States for the immediately preceding month, as determined in accordance with [section 1776d(b)(1) of this title][/us/usc/t25/s1776d/b/1], by the date specified under [section 1776d(b)(3) of this title][/us/usc/t25/s1776d/b/3].
 
         (2) __Subsequent deposits__ 
 
-            At such time as the amount deposited pursuant to this subsection into the Suspension Accounts is equal to $200,000 for each such account (as specified in subsection (d) of this section), in accordance with [section 1776d(b)(1) of this title][/us/usc/t25/s1776d/b/1], the Secretary and the Secretary of the Treasury shall thereafter deposit any remaining amounts determined under [section 1776d(b)(1) of this title][/us/usc/t25/s1776d/b/1] in the Crow Tribal Trust Fund established under [section 1776d(a) of this title][/us/usc/t25/s1776d/a].
+            At such time as the amount deposited pursuant to this subsection into the Suspension Accounts is equal to $200,000 for each such account (as specified in subsection (d)), in accordance with [section 1776d(b)(1) of this title][/us/usc/t25/s1776d/b/1], the Secretary and the Secretary of the Treasury shall thereafter deposit any remaining amounts determined under [section 1776d(b)(1) of this title][/us/usc/t25/s1776d/b/1] in the Crow Tribal Trust Fund established under [section 1776d(a) of this title][/us/usc/t25/s1776d/a].
 
     (d) __Limitation__ 
 
@@ -61,7 +61,7 @@
 
         (1) __In general__ 
 
-            (A) Beginning on the date that is 5 years after November 2, 1994, the Crow Tribe and the Northern Cheyenne Tribe may each submit a duly authorized request to the Secretary for the withdrawal of all of the funds from the Suspension Account of the tribe established under subsection (b) of this section.
+            (A) Beginning on the date that is 5 years after November 2, 1994, the Crow Tribe and the Northern Cheyenne Tribe may each submit a duly authorized request to the Secretary for the withdrawal of all of the funds from the Suspension Account of the tribe established under subsection (b).
 
             (B)
 
@@ -73,7 +73,7 @@
 
         (2) __Other means of termination__ 
 
-            With respect to a Suspension Account established under subsection (b) of this section that is not terminated pursuant to paragraph (1), at such time as the corpus and the accrued interest of the Suspension Account of the Crow Tribe or the Northern Cheyenne Tribe is approximately equal to the amount specified in paragraph (1) or (2) of subsection (a) of this section, the Secretary of the Treasury shall terminate the Suspension Account and the Secretary of the Interior shall distribute the funds from the Suspension Account to the tribe.
+            With respect to a Suspension Account established under subsection (b) that is not terminated pursuant to paragraph (1), at such time as the corpus and the accrued interest of the Suspension Account of the Crow Tribe or the Northern Cheyenne Tribe is approximately equal to the amount specified in paragraph (1) or (2) of subsection (a), the Secretary of the Treasury shall terminate the Suspension Account and the Secretary of the Interior shall distribute the funds from the Suspension Account to the tribe.
 
 ([Pub. L. 103–444, § 10][/us/pl/103/444/s10], Nov. 2, 1994, [108 Stat. 4641][/us/stat/108/4641]; [Pub. L. 104–109, § 9(c)][/us/pl/104/109/s9/c], Feb. 12, 1996, [110 Stat. 765][/us/stat/110/765].)
 

@@ -21,7 +21,7 @@
 
     (b) __Limitations__ 
 
-        Notwithstanding subsection (a) of this section, the total fees payable to attorneys under such contracts with an Indian Nation shall not exceed 10 percent of that Indian Nation’s allocation of funds appropriated under [section 1779c(c) of this title][/us/usc/t25/s1779c/c].
+        Notwithstanding subsection (a), the total fees payable to attorneys under such contracts with an Indian Nation shall not exceed 10 percent of that Indian Nation’s allocation of funds appropriated under [section 1779c(c) of this title][/us/usc/t25/s1779c/c].
 
 ([Pub. L. 107–331, title VI, § 607][/us/pl/107/331/s607], Dec. 13, 2002, [116 Stat. 2852][/us/stat/116/2852].)
 

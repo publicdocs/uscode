@@ -17,7 +17,7 @@
 
     (a) __Feasibility study and report__ 
 
-        The Secretary shall examine the feasibility of entering into an arrangement for the sharing of medical facilities and services between the Indian Health Service and the Department of Veterans Affairs and shall, in accordance with subsection (b) of this section, prepare a report on the feasibility of such an arrangement and submit such report to the Congress by no later than September 30, 1990.
+        The Secretary shall examine the feasibility of entering into an arrangement for the sharing of medical facilities and services between the Indian Health Service and the Department of Veterans Affairs and shall, in accordance with subsection (b), prepare a report on the feasibility of such an arrangement and submit such report to the Congress by no later than September 30, 1990.
 
     (b) __Nonimpairment of service quality, eligibility, or priority of access__ 
 
@@ -49,7 +49,7 @@
 
     (d) __Right to health services__ 
 
-        Nothing in this section may be construed as creating any right of a veteran to obtain health services from the Indian Health Service except as provided in an agreement under subsection (c) of this section.
+        Nothing in this section may be construed as creating any right of a veteran to obtain health services from the Indian Health Service except as provided in an agreement under subsection (c).
 
 ([Pub. L. 94–437, title VIII, § 816][/us/pl/94/437/s816], formerly title VII, § 716, as added [Pub. L. 100–713, title VII, § 710][/us/pl/100/713/s710], Nov. 23, 1988, [102 Stat. 4832][/us/stat/102/4832]; amended [Pub. L. 102–54, § 13(j)(2)][/us/pl/102/54/s13/j/2], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; renumbered title VIII, § 816, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title IX, § 902(9), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4592; [Pub. L. 108–170, title II, § 244][/us/pl/108/170/s244], Dec. 6, 2003, [117 Stat. 2054][/us/stat/117/2054].)
 

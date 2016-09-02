@@ -17,13 +17,13 @@
 
     (a) __In general__ 
 
-        Subject to [section 1300d–27(e) of this title][/us/usc/t25/s1300d–27/e], the Secretary shall, in the manner prescribed in [section 1300d–4(c) of this title][/us/usc/t25/s1300d–4/c], distribute to the lineal descendants of the Sisseton and Wahpeton Tribes of Sioux Indians an amount equal to 71.6005 percent of the funds described in [section 1300d–22 of this title][/us/usc/t25/s1300d–22], subject to any reduction determined under subsection (b) of this section.
+        Subject to [section 1300d–27(e) of this title][/us/usc/t25/s1300d–27/e], the Secretary shall, in the manner prescribed in [section 1300d–4(c) of this title][/us/usc/t25/s1300d–4/c], distribute to the lineal descendants of the Sisseton and Wahpeton Tribes of Sioux Indians an amount equal to 71.6005 percent of the funds described in [section 1300d–22 of this title][/us/usc/t25/s1300d–22], subject to any reduction determined under subsection (b).
 
     (b) __Adjustments__ 
 
         (1) __In general__ 
 
-        Subject to [section 1300d–27(e) of this title][/us/usc/t25/s1300d–27/e], if the number of individuals on the final roll of lineal descendants certified by the Secretary under [section 1300d–3(b) of this title][/us/usc/t25/s1300d–3/b] is less than 2,588, the Secretary shall distribute a reduced aggregate amount to the lineal descendants referred to in subsection (a) of this section, determined by decreasing—
+        Subject to [section 1300d–27(e) of this title][/us/usc/t25/s1300d–27/e], if the number of individuals on the final roll of lineal descendants certified by the Secretary under [section 1300d–3(b) of this title][/us/usc/t25/s1300d–3/b] is less than 2,588, the Secretary shall distribute a reduced aggregate amount to the lineal descendants referred to in subsection (a), determined by decreasing—
 
             (A)
 
@@ -33,11 +33,11 @@
 
                 (ii) the difference between 2,588 and the number of lineal descendants on the final roll of lineal descendants, but not to exceed 600; and
 
-            (B) the percentage specified in subsection (a) of this section by the percentage amount determined under subparagraph (A).
+            (B) the percentage specified in subsection (a) by the percentage amount determined under subparagraph (A).
 
         (2) __Distribution__ 
 
-            If a reduction in the amount that otherwise would be distributed under subsection (a) of this section is made under paragraph (1), an amount equal to that reduction shall be added to the amount available for distribution under [section 1300d–23(a)(1) of this title][/us/usc/t25/s1300d–23/a/1], for distribution in accordance with [section 1300d–23(a)(2) of this title][/us/usc/t25/s1300d–23/a/2].
+            If a reduction in the amount that otherwise would be distributed under subsection (a) is made under paragraph (1), an amount equal to that reduction shall be added to the amount available for distribution under [section 1300d–23(a)(1) of this title][/us/usc/t25/s1300d–23/a/1], for distribution in accordance with [section 1300d–23(a)(2) of this title][/us/usc/t25/s1300d–23/a/2].
 
     (c) __Verification of ancestry__ 
 

@@ -39,11 +39,11 @@
 
             (B) 57.3145 percent of that amount, after payment of any applicable attorneys’ fees and expenses by the Secretary under the contract numbered A00C14202991, approved by the Secretary on August 16, 1988, shall be allocated to the account established for the benefit of the tribal governing body of the Sisseton and Wahpeton Sioux Tribe of South Dakota.
 
-            (C) 13.7579 percent of that amount shall be allocated to the account established for the benefit of the tribal governing body of the Assiniboine and Sioux Tribes of the Fort Peck Reservation in Montana, as designated under subsection (c) of this section.
+            (C) 13.7579 percent of that amount shall be allocated to the account established for the benefit of the tribal governing body of the Assiniboine and Sioux Tribes of the Fort Peck Reservation in Montana, as designated under subsection (c).
 
     (b) __Use__ 
 
-        Amounts distributed under this section to accounts referred to in subsection (d) of this section for the benefit of a tribal governing body shall be distributed and used in a manner consistent with [section 1300d–24 of this title][/us/usc/t25/s1300d–24].
+        Amounts distributed under this section to accounts referred to in subsection (d) for the benefit of a tribal governing body shall be distributed and used in a manner consistent with [section 1300d–24 of this title][/us/usc/t25/s1300d–24].
 
     (c) __Tribal governing body of Assiniboine and Sioux Tribes of Fort Peck Reservation__ 
 
@@ -51,7 +51,7 @@
 
     (d) __Tribal Trust Fund Accounts__ 
 
-        The Secretary of the Treasury, in cooperation with the Secretary of the Interior, acting through the Office of Trust Fund Management of the Department of the Interior, shall ensure that such accounts as are necessary are established in the Fund Account to provide for the distribution of funds under subsection (a)(2) of this section.
+        The Secretary of the Treasury, in cooperation with the Secretary of the Interior, acting through the Office of Trust Fund Management of the Department of the Interior, shall ensure that such accounts as are necessary are established in the Fund Account to provide for the distribution of funds under subsection (a)(2).
 
 ([Pub. L. 105–387, § 4][/us/pl/105/387/s4], Nov. 13, 1998, [112 Stat. 3471][/us/stat/112/3471].)
 

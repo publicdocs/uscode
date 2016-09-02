@@ -21,7 +21,7 @@
 
     (b) __Moneys remaining in fund__ 
 
-        Any moneys remaining in the fund established by [section 1703 of this title][/us/usc/t25/s1703] after the purchase described in subsection (a) of this section shall be returned to the general Treasury of the United States.
+        Any moneys remaining in the fund established by [section 1703 of this title][/us/usc/t25/s1703] after the purchase described in subsection (a) shall be returned to the general Treasury of the United States.
 
     (c) __Duties and liabilities of United States upon discharge of Secretary’s duties; restriction on conveyance of settlement lands; affect on easements for public or private purposes__ 
 

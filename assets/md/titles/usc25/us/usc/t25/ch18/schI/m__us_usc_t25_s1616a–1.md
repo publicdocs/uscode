@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        There is established in the Treasury of the United States a fund to be known as the Indian Health Scholarship and Loan Repayment Recovery Fund (hereafter in this section referred to as the “Fund”). The Fund shall consist of such amounts as may be appropriated to the Fund under subsection (b) of this section. Amounts appropriated for the Fund shall remain available until expended.
+        There is established in the Treasury of the United States a fund to be known as the Indian Health Scholarship and Loan Repayment Recovery Fund (hereafter in this section referred to as the “Fund”). The Fund shall consist of such amounts as may be appropriated to the Fund under subsection (b). Amounts appropriated for the Fund shall remain available until expended.
 
     (b) __Authorization of appropriations__ 
 
@@ -31,7 +31,7 @@
 
             (B) the liability of individuals under section 1616a(l) of this title for the breach of contracts entered into under [section 1616a of this title][/us/usc/t25/s1616a]; and
 
-        (2) the aggregate amount of interest accruing during the preceding fiscal year on obligations held in the Fund pursuant to subsection (d) of this section and the amount of proceeds from the sale or redemption of such obligations during such fiscal year.
+        (2) the aggregate amount of interest accruing during the preceding fiscal year on obligations held in the Fund pursuant to subsection (d) and the amount of proceeds from the sale or redemption of such obligations during such fiscal year.
 
     (c) __Use of funds__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Modoc Tribe; right or interest in tribal land__ 
 
-        It is hereby declared that the organization of the Modoc Tribe of Oklahoma as provided in subsection (a) of this section shall fulfill the requirements of the second proviso in [section 2 of the Act of January 2, 1975][/us/act/1975-01-02/s2] ([88 Stat. 1920][/us/stat/88/1920], 1921).
+        It is hereby declared that the organization of the Modoc Tribe of Oklahoma as provided in subsection (a) shall fulfill the requirements of the second proviso in [section 2 of the Act of January 2, 1975][/us/act/1975-01-02/s2] ([88 Stat. 1920][/us/stat/88/1920], 1921).
 
     (c) __Modoc Tribe; publication of notice in Federal Register of organization for purposes of compliance__ 
 

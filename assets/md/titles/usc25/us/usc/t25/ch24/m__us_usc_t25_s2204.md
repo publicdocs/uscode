@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-        Subject to subsection (b) of this section, any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
+        Subject to subsection (b), any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
 
             (A) any tract of trust or restricted land within the boundaries of the reservation of the tribe; or
 
@@ -37,7 +37,7 @@
 
     (b) __Conditions applicable to purchase__ 
 
-    Subsection (a) of this section applies on the condition that—
+    Subsection (a) applies on the condition that—
 
         (1) any Indian owning any undivided interest, and in actual use and possession of such tract for at least three years preceding the tribal initiative, may purchase such tract by matching the tribal offer;
 
@@ -339,9 +339,9 @@
 
     Subsec. (d). [Pub. L. 108–374, § 4][/us/pl/108/374/s4], as amended by [Pub. L. 109–157, § 8(a)(1)][/us/pl/109/157/s8/a/1], added subsec. (d).
 
-    2001—[Pub. L. 106–462, § 103(2)(A)(iii)][/us/pl/106/462/s103/2/A/iii], which directed substitution of subsec. (b) designation and heading and “Subsection (a) of this section applies on the condition that—” for “: Provided, That—”, was executed by making the substitution for “Provided, That—” to reflect the probable intent of Congress and the amendment by [Pub. L. 106–462, § 103(2)(A)(ii)][/us/pl/106/462/s103/2/A/ii]. See below.
+    2001—[Pub. L. 106–462, § 103(2)(A)(iii)][/us/pl/106/462/s103/2/A/iii], which directed substitution of subsec. (b) designation and heading and “Subsection (a) applies on the condition that—” for “: Provided, That—”, was executed by making the substitution for “Provided, That—” to reflect the probable intent of Congress and the amendment by [Pub. L. 106–462, § 103(2)(A)(ii)][/us/pl/106/462/s103/2/A/ii]. See below.
 
-    [Pub. L. 106–462, § 103(2)(A)(i)][/us/pl/106/462/s103/2/A/i], (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b) of this section, any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “Provided, That—”.
+    [Pub. L. 106–462, § 103(2)(A)(i)][/us/pl/106/462/s103/2/A/i], (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b), any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “Provided, That—”.
 
     Subsec. (b)(2). [Pub. L. 106–462, § 103(2)(B)(ii)][/us/pl/106/462/s103/2/B/ii], inserted “and” at end.
 

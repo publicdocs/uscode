@@ -21,15 +21,15 @@
 
     (b) __Extinguishment of title__ 
 
-        By virtue of the approval and ratification of a transfer of land or natural resources effected by subsection (a) of this section, any aboriginal title held by the Tribe or any member of the Tribe, or any other Indian, Indian nation, or tribe or band of Indians, to any land or natural resources the transfer of which was approved and ratified by subsection (a) of this section shall be regarded as extinguished as of the date of such transfer.
+        By virtue of the approval and ratification of a transfer of land or natural resources effected by subsection (a), any aboriginal title held by the Tribe or any member of the Tribe, or any other Indian, Indian nation, or tribe or band of Indians, to any land or natural resources the transfer of which was approved and ratified by subsection (a) shall be regarded as extinguished as of the date of such transfer.
 
     (c) __Extinguishment of claims__ 
 
     By virtue of the approval and ratification of a transfer of land or natural resources effected by this section, or the extinguishment of aboriginal title effected thereby, any claim (including any claim for damages for trespass or for use and occupancy) by, or on behalf of, the Tribe or any member of the Tribe or by any other Indian, Indian nation, or tribe or band of Indians, against the United States, any State or subdivision thereof or any other person which is based on—
 
-        (1) any interest in or right involving any land or natural resources the transfer of which was approved and ratified by subsection (a) of this section, or
+        (1) any interest in or right involving any land or natural resources the transfer of which was approved and ratified by subsection (a), or
 
-        (2) any aboriginal title to land or natural resources the extinguishment of which was effected by subsection (b) of this section,
+        (2) any aboriginal title to land or natural resources the extinguishment of which was effected by subsection (b),
 
         shall be regarded as extinguished as of the date of any such transfer.
 

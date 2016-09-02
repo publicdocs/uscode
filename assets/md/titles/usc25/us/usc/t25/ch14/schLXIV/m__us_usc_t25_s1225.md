@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1224.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1226.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1225)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1224.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1226.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1225)
 
 ## § 1225. Tax exemption
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1224.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1226.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1225)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1224.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1226.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1225)
 
 ----------
 ----------

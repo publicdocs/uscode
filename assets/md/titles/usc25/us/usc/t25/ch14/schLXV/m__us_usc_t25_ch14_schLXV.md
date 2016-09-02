@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1227.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXV/m__us_usc_t25_s1231.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschLXV)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1227.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXV/m__us_usc_t25_s1231.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschLXV)
 
 ### SUBCHAPTER LXV—CHEMEHUEVI TRIBE: DISTRIBUTION OF JUDGMENT FUND
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1227.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXV/m__us_usc_t25_s1231.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschLXV)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1227.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXV/m__us_usc_t25_s1231.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschLXV)
 
 ----------
 ----------

@@ -39,7 +39,7 @@
 
             (A) __Applicability of certain laws__ 
 
-            Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) of this section shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
+            Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
 
                 (i) title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6301][/us/usc/t20/s6301] et seq.\];
 
@@ -115,7 +115,7 @@
 
             (A) __In general__ 
 
-            If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “tribe’s”. </sup></sup>  or organization’s grant under this chapter the funds described in subsection (a)(2) of this section within 180 days after the filing of the request, the Secretary shall—
+            If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “tribe’s”. </sup></sup>  or organization’s grant under this chapter the funds described in subsection (a)(2) within 180 days after the filing of the request, the Secretary shall—
 
                 (i) be deemed to have approved such request; and
 
@@ -123,7 +123,7 @@
 
             (B) __Rights__ 
 
-                A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) of this section and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) 5 of this title.
+                A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) 5 of this title.
 
 ([Pub. L. 100–297, title V, § 5204][/us/pl/100/297/s5204], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2066][/us/stat/115/2066].)
 

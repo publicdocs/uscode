@@ -21,7 +21,7 @@
 
     (b) __Contents__ 
 
-        Each compact required under subsection (a) of this section shall set forth the general terms of the government-to-government relationship between the Indian tribe and the Secretary, including such terms as the parties intend shall control year after year. Such compacts may only be amended by mutual agreement of the parties.
+        Each compact required under subsection (a) shall set forth the general terms of the government-to-government relationship between the Indian tribe and the Secretary, including such terms as the parties intend shall control year after year. Such compacts may only be amended by mutual agreement of the parties.
 
     (c) __Existing compacts__ 
 

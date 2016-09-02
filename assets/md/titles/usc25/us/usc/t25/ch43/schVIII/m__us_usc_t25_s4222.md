@@ -35,7 +35,7 @@
 
     (c) __Use of funds for affordable housing activities under plan__ 
 
-        Except as provided in subsection (e) of this section, amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under [section 4224 of this title][/us/usc/t25/s4224].
+        Except as provided in subsection (e), amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under [section 4224 of this title][/us/usc/t25/s4224].
 
     (d) __Administrative expenses__ 
 

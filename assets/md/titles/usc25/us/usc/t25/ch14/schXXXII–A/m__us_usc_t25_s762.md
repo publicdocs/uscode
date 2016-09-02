@@ -21,7 +21,7 @@
 
     (b) __Restoration of rights and privileges__ 
 
-        Except as provided in subsection (c) of this section, all rights and privileges of the tribe and of members of the tribe under any Federal treaty, Executive order, agreement, or statute, or under any other authority, which were diminished or lost under the Act of September 1, 1954 ([68 Stat. 1099][/us/stat/68/1099]) \[[25 U.S.C. 741][/us/usc/t25/s741] et seq.\], are hereby restored, and such Act shall be inapplicable to the tribe and to members of the tribe after April 3, 1980.
+        Except as provided in subsection (c), all rights and privileges of the tribe and of members of the tribe under any Federal treaty, Executive order, agreement, or statute, or under any other authority, which were diminished or lost under the Act of September 1, 1954 ([68 Stat. 1099][/us/stat/68/1099]) \[[25 U.S.C. 741][/us/usc/t25/s741] et seq.\], are hereby restored, and such Act shall be inapplicable to the tribe and to members of the tribe after April 3, 1980.
 
     (c) __Hunting, fishing, or trapping rights not restored__ 
 

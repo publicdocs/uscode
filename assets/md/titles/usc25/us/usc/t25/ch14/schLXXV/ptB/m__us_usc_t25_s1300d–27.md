@@ -31,19 +31,19 @@
 
         (2) __Consolidation of actions__ 
 
-            After the filing of a first action under subsection (a) of this section, all other actions subsequently filed under that subsection shall be consolidated with that first action.
+            After the filing of a first action under subsection (a), all other actions subsequently filed under that subsection shall be consolidated with that first action.
 
         (3) __Jurisdiction by the United States Court of Federal Claims__ 
 
-            If appropriate, the United States Court of Federal Claims shall have jurisdiction over an action referred to in subsection (a) of this section.
+            If appropriate, the United States Court of Federal Claims shall have jurisdiction over an action referred to in subsection (a).
 
     (c) __Notice to covered tribes__ 
 
-        In an action brought under this section, not later than 30 days after the service of a summons and complaint on the Secretary that raises a claim identified in subsection (a) of this section, the Secretary shall send a copy of that summons and complaint, together with any responsive pleading, to each covered Indian tribe by certified mail with return receipt requested.
+        In an action brought under this section, not later than 30 days after the service of a summons and complaint on the Secretary that raises a claim identified in subsection (a) the Secretary shall send a copy of that summons and complaint, together with any responsive pleading, to each covered Indian tribe by certified mail with return receipt requested.
 
     (d) __Statute of limitations__ 
 
-        No action raising a claim referred to in subsection (a) of this section may be filed after the date that is 365 days after November 13, 1998.
+        No action raising a claim referred to in subsection (a) may be filed after the date that is 365 days after November 13, 1998.
 
     (e) __Special rule__ 
 
@@ -51,7 +51,7 @@
 
             (A) __In general__ 
 
-                If an action that raises a claim referred to in subsection (a) of this section is brought, and a final judgment is entered in favor of 1 or more lineal descendants referred to in that subsection, [section 1300d–23(a) of this title][/us/usc/t25/s1300d–23/a] and subsections (a) and (b) of [section 1300d–26 of this title][/us/usc/t25/s1300d–26] shall not apply to the distribution of the funds described in subparagraph (B).
+                If an action that raises a claim referred to in subsection (a) is brought, and a final judgment is entered in favor of 1 or more lineal descendants referred to in that subsection, [section 1300d–23(a) of this title][/us/usc/t25/s1300d–23/a] and subsections (a) and (b) of [section 1300d–26 of this title][/us/usc/t25/s1300d–26] shall not apply to the distribution of the funds described in subparagraph (B).
 
             (B) __Distribution of funds__ 
 
@@ -65,7 +65,7 @@
 
             (A) __In general__ 
 
-                If an action that raises a claim referred to in subsection (a) of this section is brought, and a final judgment is entered in favor of 1 or more covered Indian tribes that invalidates the distributions made under this part to lineal descendants, [section 1300d–23(a) of this title][/us/usc/t25/s1300d–23/a], other than the percentages under [section 1300d–23(a)(2) of this title][/us/usc/t25/s1300d–23/a/2], and subsections (a) and (b) of [section 1300d–26 of this title][/us/usc/t25/s1300d–26] shall not apply.
+                If an action that raises a claim referred to in subsection (a) is brought, and a final judgment is entered in favor of 1 or more covered Indian tribes that invalidates the distributions made under this part to lineal descendants, [section 1300d–23(a) of this title][/us/usc/t25/s1300d–23/a], other than the percentages under [section 1300d–23(a)(2) of this title][/us/usc/t25/s1300d–23/a/2], and subsections (a) and (b) of [section 1300d–26 of this title][/us/usc/t25/s1300d–26] shall not apply.
 
             (B) __Distribution of funds__ 
 
@@ -81,9 +81,9 @@
 
         Nothing in this subsection shall be construed to limit the right of a covered Indian tribe to—
 
-            (A) intervene in an action that raises a claim referred to in subsection (a) of this section; or
+            (A) intervene in an action that raises a claim referred to in subsection (a); or
 
-            (B) limit the jurisdiction of any court referred to in subsection (b) of this section, to hear and determine any such claims.
+            (B) limit the jurisdiction of any court referred to in subsection (b), to hear and determine any such claims.
 
 ([Pub. L. 105–387, § 8][/us/pl/105/387/s8], Nov. 13, 1998, [112 Stat. 3475][/us/stat/112/3475].)
 

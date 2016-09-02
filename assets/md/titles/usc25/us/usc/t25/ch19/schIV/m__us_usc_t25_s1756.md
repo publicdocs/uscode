@@ -29,7 +29,7 @@
 
     (c) __Removal of actions__ 
 
-        Any action to which subsection (a) of this section applies and which is brought in the court of any State may be removed by the defendant to the United States District Court for the District of Connecticut.
+        Any action to which subsection (a) applies and which is brought in the court of any State may be removed by the defendant to the United States District Court for the District of Connecticut.
 
     (d) __Jurisdictional acts; implied consent to sue the United States__ 
 

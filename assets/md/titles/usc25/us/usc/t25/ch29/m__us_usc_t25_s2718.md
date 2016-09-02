@@ -17,7 +17,7 @@
 
     (a) Subject to [section 2717 of this title][/us/usc/t25/s2717], there are authorized to be appropriated, for fiscal year 1998, and for each fiscal year thereafter, an amount equal to the amount of funds derived from the assessments authorized by [section 2717(a) of this title][/us/usc/t25/s2717/a].
 
-    (b) Notwithstanding [section 2717 of this title][/us/usc/t25/s2717], there are authorized to be appropriated to fund the operation of the Commission, $2,000,000 for fiscal year 1998, and $2,000,000 for each fiscal year thereafter. The amounts authorized to be appropriated in the preceding sentence shall be in addition to the amounts authorized to be appropriated under subsection (a) of this section.
+    (b) Notwithstanding [section 2717 of this title][/us/usc/t25/s2717], there are authorized to be appropriated to fund the operation of the Commission, $2,000,000 for fiscal year 1998, and $2,000,000 for each fiscal year thereafter. The amounts authorized to be appropriated in the preceding sentence shall be in addition to the amounts authorized to be appropriated under subsection (a).
 
 ([Pub. L. 100–497, § 19][/us/pl/100/497/s19], Oct. 17, 1988, [102 Stat. 2485][/us/stat/102/2485]; [Pub. L. 102–238, § 2(b)][/us/pl/102/238/s2/b], Dec. 17, 1991, [105 Stat. 1908][/us/stat/105/1908]; [Pub. L. 105–83, title I, § 123(b)][/us/pl/105/83/s123/b], Nov. 14, 1997, [111 Stat. 1566][/us/stat/111/1566]; [Pub. L. 105–119, title VI, § 627][/us/pl/105/119/s627], Nov. 26, 1997, [111 Stat. 2522][/us/stat/111/2522].)
 

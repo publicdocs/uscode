@@ -21,7 +21,7 @@
 
     (b) __Factors for determination of need__ 
 
-    The formula under subsection (a) of this section shall be based on factors that reflect the needs for assistance for affordable housing activities, including—
+    The formula under subsection (a) shall be based on factors that reflect the needs for assistance for affordable housing activities, including—
 
         (1) the number of low-income dwelling units owned or operated at the time pursuant to a contract between the Director and the Secretary;
 
@@ -31,7 +31,7 @@
 
     (c) __Other factors for consideration__ 
 
-    In establishing the formula under subsection (a) of this section, the Secretary shall consider the relative administrative capacities of the Department of Hawaiian Home Lands and other challenges faced by the Department, including—
+    In establishing the formula under subsection (a), the Secretary shall consider the relative administrative capacities of the Department of Hawaiian Home Lands and other challenges faced by the Department, including—
 
         (1) geographic distribution within Hawaiian Home Lands; and
 

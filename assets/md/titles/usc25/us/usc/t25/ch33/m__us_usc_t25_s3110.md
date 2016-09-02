@@ -29,7 +29,7 @@
 
             (B) for the provision of levels of assistance for the forestry programs of such tribes, and
 
-            (C) the allocation of base support funds to such tribes under the program established pursuant to subsection (a) of this section.
+            (C) the allocation of base support funds to such tribes under the program established pursuant to subsection (a).
 
         (2)
 

@@ -29,7 +29,7 @@
 
     (c) __Financial and compliance audits__ 
 
-        The Inspector General of the Department of the Interior shall establish a system to ensure that financial and compliance audits, based upon the extent to which a school described in subsection (a) of this section has complied with the local financial plan under [section 2010 of this title][/us/usc/t25/s2010], are conducted of each Bureau-operated school at least once every 3 years.
+        The Inspector General of the Department of the Interior shall establish a system to ensure that financial and compliance audits, based upon the extent to which a school described in subsection (a) has complied with the local financial plan under [section 2010 of this title][/us/usc/t25/s2010], are conducted of each Bureau-operated school at least once every 3 years.
 
     (d) __Administrative evaluation of schools__ 
 

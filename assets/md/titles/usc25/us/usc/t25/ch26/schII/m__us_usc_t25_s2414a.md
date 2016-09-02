@@ -31,7 +31,7 @@
 
     (b) __Dissemination__ 
 
-        The results of the review conducted under subsection (a) of this section shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.
+        The results of the review conducted under subsection (a) shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.
 
 ([Pub. L. 99–570, title IV, § 4208A][/us/pl/99/570/s4208A], formerly § 4224, Oct. 27, 1986, [100 Stat. 3207–148][/us/stat/100/3207-148]; renumbered § 4208A, [Pub. L. 102–573, title VII, § 702(b)(1)][/us/pl/102/573/s702/b/1], Oct. 29, 1992, [106 Stat. 4582][/us/stat/106/4582]; amended [Pub. L. 111–211, title II, § 241(a)(4)][/us/pl/111/211/s241/a/4], July 29, 2010, [124 Stat. 2289][/us/stat/124/2289].)
 

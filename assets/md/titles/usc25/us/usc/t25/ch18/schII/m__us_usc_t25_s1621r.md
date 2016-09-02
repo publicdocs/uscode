@@ -27,7 +27,7 @@
 
     (b) __Functions of study__ 
 
-    The study required by subsection (a) of this section shall—
+    The study required by subsection (a) shall—
 
         (1) assess the impact of the existing contract health services regulations and policies upon the ability of the Service and the Indian Health Service Fiscal Intermediary to process, on a timely and efficient basis, the payment of bills submitted by private contract health services providers;
 

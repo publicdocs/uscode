@@ -17,7 +17,7 @@
 
     (a) __Approval of base roll__ 
 
-        Not later than 180 days after December 27, 2000, the Tribe shall submit to the Secretary for approval its base membership roll, which shall include only individuals who are not members of any other federally recognized Indian tribe or who have relinquished membership in such tribe and are eligible for membership under subsection (b) of this section.
+        Not later than 180 days after December 27, 2000, the Tribe shall submit to the Secretary for approval its base membership roll, which shall include only individuals who are not members of any other federally recognized Indian tribe or who have relinquished membership in such tribe and are eligible for membership under subsection (b).
 
     (b) __Base roll eligibility__ 
 
@@ -35,7 +35,7 @@
 
     (c) __Future membership__ 
 
-        Future membership in the Tribe shall be as determined under the eligibility requirements set out in subsection (b)(2) of this section or under such future membership ordinance as the Tribe may adopt.
+        Future membership in the Tribe shall be as determined under the eligibility requirements set out in subsection (b)(2) or under such future membership ordinance as the Tribe may adopt.
 
 ([Pub. L. 106–568, title VII, § 705][/us/pl/106/568/s705], Dec. 27, 2000, [114 Stat. 2915][/us/stat/114/2915].)
 

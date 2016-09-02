@@ -21,7 +21,7 @@
 
     (b) __Indian Self-Determination Act__ 
 
-        The technical assistance to be provided by the Secretary pursuant to subsection (a) of this section shall be made available through contracts, grants or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\].
+        The technical assistance to be provided by the Secretary pursuant to subsection (a) shall be made available through contracts, grants or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\].
 
 ([Pub. L. 101–630, title III, § 313][/us/pl/101/630/s313], Nov. 28, 1990, [104 Stat. 4540][/us/stat/104/4540].)
 

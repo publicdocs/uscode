@@ -25,13 +25,13 @@
 
     (b) __Compliance with requirements__ 
 
-        (1) An Indian tribe or tribal organization receiving a grant under subsection (a) of this section shall agree to provide scholarships to Indians pursuing education in the health professions in accordance with the requirements of this section.
+        (1) An Indian tribe or tribal organization receiving a grant under subsection (a) shall agree to provide scholarships to Indians pursuing education in the health professions in accordance with the requirements of this section.
 
         (2)
 
          With respect to the costs of providing any scholarship pursuant to paragraph (1)—
 
-            (A) 80 percent of the costs of the scholarship shall be paid from the grant made under subsection (a) of this section to the Indian tribe or tribal organization; and
+            (A) 80 percent of the costs of the scholarship shall be paid from the grant made under subsection (a) to the Indian tribe or tribal organization; and
 
             (B) 20 percent of such costs shall be paid from non-Federal contributions by the Indian tribe or tribal organization through which the scholarship is provided.
 
@@ -41,11 +41,11 @@
 
     (c) __Course of study in health professions__ 
 
-        An Indian tribe or tribal organization shall provide scholarships under subsection (b) of this section only to Indians enrolled or accepted for enrollment in a course of study (approved by the Secretary) in one of the health professions described in [section 1613a(a) of this title][/us/usc/t25/s1613a/a].
+        An Indian tribe or tribal organization shall provide scholarships under subsection (b) only to Indians enrolled or accepted for enrollment in a course of study (approved by the Secretary) in one of the health professions described in [section 1613a(a) of this title][/us/usc/t25/s1613a/a].
 
     (d) __Contract requirements__ 
 
-    In providing scholarships under subsection (b) of this section, the Secretary and the Indian tribe or tribal organization shall enter into a written contract with each recipient of such scholarship. Such contract shall—
+    In providing scholarships under subsection (b), the Secretary and the Indian tribe or tribal organization shall enter into a written contract with each recipient of such scholarship. Such contract shall—
 
         (1)
 
@@ -77,7 +77,7 @@
 
         (1)
 
-         An individual who has entered into a written contract with the Secretary and an Indian tribe or tribal organization under subsection (d) of this section and who—
+         An individual who has entered into a written contract with the Secretary and an Indian tribe or tribal organization under subsection (d) and who—
 
             (A) fails to maintain an acceptable level of academic standing in the educational institution in which he is enrolled (such level determined by the educational institution under regulations of the Secretary),
 
@@ -95,7 +95,7 @@
 
     (f) __Nondiscriminatory practice__ 
 
-    The recipient of a scholarship under subsection (b) of this section shall agree, in providing health care pursuant to the requirements of subsection (d)(1) of this section—
+    The recipient of a scholarship under subsection (b) shall agree, in providing health care pursuant to the requirements of subsection (d)(1)—
 
         (1) not to discriminate against an individual seeking such care on the basis of the ability of the individual to pay for such care or on the basis that payment for such care will be made pursuant to the program established in title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] or pursuant to the program established in title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]; and
 
@@ -103,7 +103,7 @@
 
     (g) __Payments for subsequent fiscal years__ 
 
-        The Secretary may not make any payments under subsection (a) of this section to an Indian tribe or tribal organization for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the Indian tribe or tribal organization has complied with requirements of this section.
+        The Secretary may not make any payments under subsection (a) to an Indian tribe or tribal organization for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the Indian tribe or tribal organization has complied with requirements of this section.
 
 ([Pub. L. 94–437, title I, § 120][/us/pl/94/437/s120], as added [Pub. L. 102–573, title I, § 112][/us/pl/102/573/s112], Oct. 29, 1992, [106 Stat. 4540][/us/stat/106/4540].)
 

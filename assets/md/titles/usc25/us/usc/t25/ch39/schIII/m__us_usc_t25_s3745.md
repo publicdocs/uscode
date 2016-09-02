@@ -21,7 +21,7 @@
 
     (b) __Funding source__ 
 
-        The activities required under subchapter II of this chapter may only be funded from appropriations made pursuant to this chapter. To the greatest extent possible, such activities shall be coordinated with activities funded from other sources.
+        The activities required under subchapter II may only be funded from appropriations made pursuant to this chapter. To the greatest extent possible, such activities shall be coordinated with activities funded from other sources.
 
 ([Pub. L. 103–177, title III, § 305][/us/pl/103/177/s305], Dec. 3, 1993, [107 Stat. 2023][/us/stat/107/2023].)
 

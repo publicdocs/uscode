@@ -17,17 +17,17 @@
 
     (a) __In general__ 
 
-        Subject to subsection (b) of this section, the consent of the United States is hereby given to the assumption of jurisdiction by the State of Connecticut over criminal offenses committed by or against Indians on the reservation of the Mohegan Tribe. The State shall have such jurisdiction to the same extent as the State has jurisdiction over such offenses committed elsewhere within the State. The criminal laws of the State shall have the same force within such reservation and Indian country as such laws have elsewhere within the State.
+        Subject to subsection (b), the consent of the United States is hereby given to the assumption of jurisdiction by the State of Connecticut over criminal offenses committed by or against Indians on the reservation of the Mohegan Tribe. The State shall have such jurisdiction to the same extent as the State has jurisdiction over such offenses committed elsewhere within the State. The criminal laws of the State shall have the same force within such reservation and Indian country as such laws have elsewhere within the State.
 
     (b) __Statutory construction__ 
 
         (1) __Effect on concurrent jurisdiction of the Mohegan Tribe__ 
 
-            The assumption of criminal jurisdiction by the State pursuant to subsection (a) of this section shall not affect the concurrent jurisdiction of the Mohegan Tribe over matters concerning such criminal offenses.
+            The assumption of criminal jurisdiction by the State pursuant to subsection (a) shall not affect the concurrent jurisdiction of the Mohegan Tribe over matters concerning such criminal offenses.
 
         (2) __Statutory construction__ 
 
-            The assumption of criminal jurisdiction by the State pursuant to subsection (a) of this section shall not be construed as a waiver of the jurisdiction of the United States under [section 1153 of title 18][/us/usc/t18/s1153].
+            The assumption of criminal jurisdiction by the State pursuant to subsection (a) shall not be construed as a waiver of the jurisdiction of the United States under [section 1153 of title 18][/us/usc/t18/s1153].
 
 ([Pub. L. 103–377, § 6][/us/pl/103/377/s6], Oct. 19, 1994, [108 Stat. 3505][/us/stat/108/3505].)
 

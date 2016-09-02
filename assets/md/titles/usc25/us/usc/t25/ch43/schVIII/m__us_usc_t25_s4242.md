@@ -27,7 +27,7 @@
 
     (b) __Related reports__ 
 
-        The Secretary may require the Director to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to prepare the report required under subsection (a) of this section.
+        The Secretary may require the Director to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to prepare the report required under subsection (a).
 
 ([Pub. L. 104–330, title VIII, § 823][/us/pl/104/330/s823], as added [Pub. L. 106–568, title II, § 203][/us/pl/106/568/s203], Dec. 27, 2000, [114 Stat. 2895][/us/stat/114/2895], and [Pub. L. 106–569, title V, § 513][/us/pl/106/569/s513], Dec. 27, 2000, [114 Stat. 2989][/us/stat/114/2989].)
 

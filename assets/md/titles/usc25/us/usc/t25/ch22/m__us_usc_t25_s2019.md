@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-        The total amount of the grants provided under subsection (a) of this section with respect to each tribe, tribal organization, or consortium of tribes or tribal organizations for each fiscal year shall be equal to the amount which bears the same relationship to the total amount appropriated under the authority of subsection (g) of this section for such fiscal year (less amounts provided under subsection (f) of this section) as—
+        The total amount of the grants provided under subsection (a) with respect to each tribe, tribal organization, or consortium of tribes or tribal organizations for each fiscal year shall be equal to the amount which bears the same relationship to the total amount appropriated under the authority of subsection (g) for such fiscal year (less amounts provided under subsection (f)) as—
 
             (A)
 
@@ -45,7 +45,7 @@
 
              the total number of all children under 6 years of age who are members of any tribe that—
 
-                (i) is eligible to receive funds under subsection (a) of this section;
+                (i) is eligible to receive funds under subsection (a);
 
                 (ii) is a member of a consortium that is eligible to receive such funds; or
 
@@ -53,7 +53,7 @@
 
         (2) __Limitation__ 
 
-        No grant may be provided under subsection (a) of this section—
+        No grant may be provided under subsection (a)—
 
             (A) to any tribe that has less than 500 members;
 
@@ -71,7 +71,7 @@
 
         (1) __In general__ 
 
-            A grant may be provided under subsection (a) of this section to a tribe, tribal organization, or consortium of tribes and tribal organizations only if the tribe, organization, or consortium submits to the Secretary an application for the grant at such time and in such form as the Secretary shall prescribe.
+            A grant may be provided under subsection (a) to a tribe, tribal organization, or consortium of tribes and tribal organizations only if the tribe, organization, or consortium submits to the Secretary an application for the grant at such time and in such form as the Secretary shall prescribe.
 
         (2) __Contents__ 
 
@@ -79,7 +79,7 @@
 
     (d) __Requirement of programs funded__ 
 
-    The early childhood development programs that are funded by grants provided under subsection (a) of this section—
+    The early childhood development programs that are funded by grants provided under subsection (a)—
 
         (1)
 
@@ -107,7 +107,7 @@
 
     (f) __Administrative costs__ 
 
-        The Secretary shall, out of funds appropriated under subsection (g) of this section, include in the grants provided under subsection (a) of this section amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
+        The Secretary shall, out of funds appropriated under subsection (g), include in the grants provided under subsection (a) amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
 
     (g) __Authorization of appropriations__ 
 

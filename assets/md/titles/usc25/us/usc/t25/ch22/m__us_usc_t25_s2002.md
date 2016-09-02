@@ -59,7 +59,7 @@
 
         (1) __In general__ 
 
-            A tribal governing body or local school board may, in accordance with this subsection, waive the standards established under this section for a school described in subsection (a) of this section.
+            A tribal governing body or local school board may, in accordance with this subsection, waive the standards established under this section for a school described in subsection (a).
 
         (2) __Inappropriate standards__ 
 

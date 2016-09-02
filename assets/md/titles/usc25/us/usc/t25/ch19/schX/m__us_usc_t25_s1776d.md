@@ -23,7 +23,7 @@
 
         (2) __Availability of amounts in the Crow Tribal Trust Fund__ 
 
-            Amounts in the Crow Tribal Trust Fund shall be available, without fiscal year limitation, to the Secretary for distribution to the Crow Tribe in accordance with subsection (d) of this section.
+            Amounts in the Crow Tribal Trust Fund shall be available, without fiscal year limitation, to the Secretary for distribution to the Crow Tribe in accordance with subsection (d).
 
     (b) __Contributions__ 
 

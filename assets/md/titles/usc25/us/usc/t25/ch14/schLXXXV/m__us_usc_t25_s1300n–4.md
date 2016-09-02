@@ -37,7 +37,7 @@
 
     (c) __Conclusive proof of Graton Indian ancestry__ 
 
-        For the purpose of subsection (b) of this section, the Secretary shall accept any available evidence establishing Graton Indian ancestry. The Secretary shall accept as conclusive evidence of Graton Indian ancestry information contained in the census of the Indians from the Graton, Marshall, Bodega, Tomales, or Sebastopol, California, vicinities, prepared by or at the direction of Special Indian Agent John J. Terrell in any other roll or census of Graton Indians prepared by or at the direction of the Bureau of Indian Affairs and in the Graton Indian Rancheria distribution list compiled by the Bureau of Indian Affairs and approved by the Secretary on September 17, 1959.
+        For the purpose of subsection (b), the Secretary shall accept any available evidence establishing Graton Indian ancestry. The Secretary shall accept as conclusive evidence of Graton Indian ancestry information contained in the census of the Indians from the Graton, Marshall, Bodega, Tomales, or Sebastopol, California, vicinities, prepared by or at the direction of Special Indian Agent John J. Terrell in any other roll or census of Graton Indians prepared by or at the direction of the Bureau of Indian Affairs and in the Graton Indian Rancheria distribution list compiled by the Bureau of Indian Affairs and approved by the Secretary on September 17, 1959.
 
 ([Pub. L. 106–568, title XIV, § 1406][/us/pl/106/568/s1406], Dec. 27, 2000, [114 Stat. 2940][/us/stat/114/2940].)
 

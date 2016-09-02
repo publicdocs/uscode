@@ -27,7 +27,7 @@
 
     (b) __Criminal records__ 
 
-        The minimum standards of character that are to be prescribed under this section shall ensure that none of the individuals appointed to positions described in subsection (a) of this section have been found guilty of, or entered a plea of nolo contendere or guilty to, any felonious offense, or any of two or more misdemeanor offenses, under Federal, State, or tribal law involving crimes of violence; sexual assault, molestation, exploitation, contact or prostitution; crimes against persons; or offenses committed against children.
+        The minimum standards of character that are to be prescribed under this section shall ensure that none of the individuals appointed to positions described in subsection (a) have been found guilty of, or entered a plea of nolo contendere or guilty to, any felonious offense, or any of two or more misdemeanor offenses, under Federal, State, or tribal law involving crimes of violence; sexual assault, molestation, exploitation, contact or prostitution; crimes against persons; or offenses committed against children.
 
     (c) __Investigations by Indian tribes and tribal organizations__ 
 
@@ -35,7 +35,7 @@
 
         (1) conduct an investigation of the character of each individual who is employed, or is being considered for employment, by such tribe or tribal organization in a position that involves regular contact with, or control over, Indian children, and
 
-        (2) employ individuals in those positions only if the individuals meet standards of character, no less stringent than those prescribed under subsection (a) of this section, as the Indian tribe or tribal organization shall establish.
+        (2) employ individuals in those positions only if the individuals meet standards of character, no less stringent than those prescribed under subsection (a), as the Indian tribe or tribal organization shall establish.
 
 ([Pub. L. 101–630, title IV, § 408][/us/pl/101/630/s408], Nov. 28, 1990, [104 Stat. 4551][/us/stat/104/4551]; [Pub. L. 106–568, title VIII, § 814][/us/pl/106/568/s814], Dec. 27, 2000, [114 Stat. 2918][/us/stat/114/2918].)
 

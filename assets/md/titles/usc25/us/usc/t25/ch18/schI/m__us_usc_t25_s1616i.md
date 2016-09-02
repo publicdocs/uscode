@@ -17,7 +17,7 @@
 
     (a) __Incentive special pay__ 
 
-        The Secretary may provide the incentive special pay authorized under [section 302(b) of title 37][/us/usc/t37/s302/b] to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) of this section for which recruitment or retention of personnel is difficult.
+        The Secretary may provide the incentive special pay authorized under [section 302(b) of title 37][/us/usc/t37/s302/b] to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) for which recruitment or retention of personnel is difficult.
 
     (b) __List of positions; bonus pay__ 
 

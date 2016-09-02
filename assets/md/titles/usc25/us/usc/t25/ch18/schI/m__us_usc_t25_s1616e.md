@@ -29,7 +29,7 @@
 
     (b) __Purposes__ 
 
-    Grants provided under subsection (a) of this section may be used to—
+    Grants provided under subsection (a) may be used to—
 
         (1) recruit individuals for programs which train individuals to be nurses, nurse midwives, or nurse practitioners,
 
@@ -39,15 +39,15 @@
 
         (4) provide a program that increases the skills of, and provides continuing education to, nurses, nurse midwives, and nurse practitioners, or
 
-        (5) provide any program that is designed to achieve the purpose described in subsection (a) of this section.
+        (5) provide any program that is designed to achieve the purpose described in subsection (a).
 
     (c) __Application__ 
 
-        Each application for a grant under subsection (a) of this section shall include such information as the Secretary may require to establish the connection between the program of the applicant and a health care facility that primarily serves Indians.
+        Each application for a grant under subsection (a) shall include such information as the Secretary may require to establish the connection between the program of the applicant and a health care facility that primarily serves Indians.
 
     (d) __Preference__ 
 
-    In providing grants under subsection (a) of this section, the Secretary shall extend a preference to—
+    In providing grants under subsection (a), the Secretary shall extend a preference to—
 
         (1) programs that provide a preference to Indians,
 
@@ -59,11 +59,11 @@
 
     (e) __Quentin N. Burdick American Indians Into Nursing Program__ 
 
-        The Secretary shall provide one of the grants authorized under subsection (a) of this section to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under [section 1616g(b) of this title][/us/usc/t25/s1616g/b] and the Quentin N. Burdick American Indians Into Psychology Program established under [section 1621p(b) of this title][/us/usc/t25/s1621p/b].
+        The Secretary shall provide one of the grants authorized under subsection (a) to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under [section 1616g(b) of this title][/us/usc/t25/s1616g/b] and the Quentin N. Burdick American Indians Into Psychology Program established under [section 1621p(b) of this title][/us/usc/t25/s1621p/b].
 
     (f) __Service obligation__ 
 
-    The active duty service obligation prescribed under [section 254m of title 42][/us/usc/t42/s254m] shall be met by each individual who receives training or assistance described in paragraph (1) or (2) of subsection (b) of this section that is funded by a grant provided under subsection (a) of this section. Such obligation shall be met by service—
+    The active duty service obligation prescribed under [section 254m of title 42][/us/usc/t42/s254m] shall be met by each individual who receives training or assistance described in paragraph (1) or (2) of subsection (b) that is funded by a grant provided under subsection (a). Such obligation shall be met by service—
 
         (A) in the Indian Health Service;
 
@@ -75,7 +75,7 @@
 
     (g) __Authorization of appropriations__ 
 
-        Beginning with fiscal year 1993, of the amounts appropriated under the authority of this subchapter for each fiscal year to be used to carry out this section, not less than $1,000,000 shall be used to provide grants under subsection (a) of this section for the training of nurse midwives, nurse anesthetists, and nurse practitioners.
+        Beginning with fiscal year 1993, of the amounts appropriated under the authority of this subchapter for each fiscal year to be used to carry out this section, not less than $1,000,000 shall be used to provide grants under subsection (a) for the training of nurse midwives, nurse anesthetists, and nurse practitioners.
 
 ([Pub. L. 94–437, title I, § 112][/us/pl/94/437/s112], as added [Pub. L. 100–713, title I, § 108][/us/pl/100/713/s108], Nov. 23, 1988, [102 Stat. 4795][/us/stat/102/4795]; amended [Pub. L. 102–573, title I][/us/pl/102/573], §§ 104(b), (c), 114(a), Oct. 29, 1992, [106 Stat. 4533][/us/stat/106/4533], 4543.)
 
@@ -97,7 +97,7 @@
 
     “(1) There are authorized to be appropriated for each of the fiscal years 1990, 1991, and 1992, $5,000,000 for the purpose of carrying out the provisions of this section.
 
-    “(2) Of the amounts appropriated under the authority of paragraph (1) for each fiscal year, the Secretary shall use at least $1,000,000 to provide grants under subsection (a) of this section for the training of nurse midwives.”
+    “(2) Of the amounts appropriated under the authority of paragraph (1) for each fiscal year, the Secretary shall use at least $1,000,000 to provide grants under subsection (a) for the training of nurse midwives.”
 
     [Pub. L. 102–573, § 104(b)(1)][/us/pl/102/573/s104/b/1], redesignated subsec. (f) as (g).
 

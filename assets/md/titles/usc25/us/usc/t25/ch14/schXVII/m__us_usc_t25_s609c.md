@@ -41,7 +41,7 @@
 
     (d) __Monthly reports__ 
 
-        The Secretary shall provide a monthly report to each tribal governing body which has approved one or more plans pursuant to subsection (c) of this section. Each such report shall include the amount and purpose of every disbursement made during each month under such plans.
+        The Secretary shall provide a monthly report to each tribal governing body which has approved one or more plans pursuant to subsection (c). Each such report shall include the amount and purpose of every disbursement made during each month under such plans.
 
 ([Pub. L. 95–433, § 1][/us/pl/95/433/s1], Oct. 10, 1978, [92 Stat. 1047][/us/stat/92/1047]; [Pub. L. 103–435, § 17(b)][/us/pl/103/435/s17/b], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
 

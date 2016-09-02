@@ -41,7 +41,7 @@
 
     (b) __Exception__ 
 
-        Notwithstanding subsection (a) of this section, housing assisted pursuant to [section 4131(b)(2) of this title][/us/usc/t25/s4131/b/2] shall be considered affordable housing for purposes of this chapter.
+        Notwithstanding subsection (a), housing assisted pursuant to [section 4131(b)(2) of this title][/us/usc/t25/s4131/b/2] shall be considered affordable housing for purposes of this chapter.
 
     (c) __Applicability__ 
 

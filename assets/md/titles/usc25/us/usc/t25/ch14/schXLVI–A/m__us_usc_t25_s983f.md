@@ -25,7 +25,7 @@
 
     (c) __Governing body treated as Indian tribal government for purposes of taxation__ 
 
-        Notwithstanding any other provision of law, the governing body of the Tribe established under the constitution of the Tribe that is adopted under subsection (a) of this section shall be treated as an Indian tribal government for purposes of title 26.
+        Notwithstanding any other provision of law, the governing body of the Tribe established under the constitution of the Tribe that is adopted under subsection (a) shall be treated as an Indian tribal government for purposes of title 26.
 
 ([Pub. L. 101–484, § 8][/us/pl/101/484/s8], Oct. 31, 1990, [104 Stat. 1169][/us/stat/104/1169].)
 

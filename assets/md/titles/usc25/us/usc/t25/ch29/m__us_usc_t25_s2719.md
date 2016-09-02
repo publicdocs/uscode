@@ -17,7 +17,7 @@
 
     (a) __Prohibition on lands acquired in trust by Secretary__ 
 
-    Except as provided in subsection (b) of this section, gaming regulated by this chapter shall not be conducted on lands acquired by the Secretary in trust for the benefit of an Indian tribe after October 17, 1988, unless—
+    Except as provided in subsection (b), gaming regulated by this chapter shall not be conducted on lands acquired by the Secretary in trust for the benefit of an Indian tribe after October 17, 1988, unless—
 
         (1) such lands are located within or contiguous to the boundaries of the reservation of the Indian tribe on October 17, 1988; or
 
@@ -39,7 +39,7 @@
 
         (1)
 
-         Subsection (a) of this section will not apply when—
+         Subsection (a) will not apply when—
 
             (A) the Secretary, after consultation with the Indian tribe and appropriate State and local officials, including officials of other nearby Indian tribes, determines that a gaming establishment on newly acquired lands would be in the best interest of the Indian tribe and its members, and would not be detrimental to the surrounding community, but only if the Governor of the State in which the gaming activity is to be conducted concurs in the Secretary’s determination; or
 
@@ -55,7 +55,7 @@
 
         (2)
 
-         Subsection (a) of this section shall not apply to—
+         Subsection (a) shall not apply to—
 
             (A) any lands involved in the trust petition of the St. Croix Chippewa Indians of Wisconsin that is the subject of the action filed in the United States District Court for the District of Columbia entitled St. Croix Chippewa Indians of Wisconsin v. United States, Civ. No. 86–2278, or
 

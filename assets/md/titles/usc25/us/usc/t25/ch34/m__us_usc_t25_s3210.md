@@ -145,7 +145,7 @@
 
     (h) __Contract evaluation and annual report__ 
 
-    Each recipient of funds awarded pursuant to subsection (a) of this section shall—
+    Each recipient of funds awarded pursuant to subsection (a) shall—
 
         (1)
 

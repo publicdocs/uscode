@@ -21,7 +21,7 @@
 
     (b) __Annual reports__ 
 
-    Upon completion of the study and inventory under subsection (a) of this section, the Director shall report to the Congress, and update such report annually—
+    Upon completion of the study and inventory under subsection (a), the Director shall report to the Congress, and update such report annually—
 
         (1) the current priority of Indian and Alaska Native solid waste deficiencies,
 

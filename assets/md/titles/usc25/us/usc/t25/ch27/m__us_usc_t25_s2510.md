@@ -33,7 +33,7 @@
 
     (b) __Interest__ 
 
-        Interest from the fund established under subsection (a) of this section may periodically be withdrawn and used, at the discretion of the school, to defray any expenses associated with the operation of the school consistent with the purposes of this Act. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        Interest from the fund established under subsection (a) may periodically be withdrawn and used, at the discretion of the school, to defray any expenses associated with the operation of the school consistent with the purposes of this Act. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
 ([Pub. L. 100–297, title V, § 5211][/us/pl/100/297/s5211], as added [Pub. L. 107–110, title X, § 1043][/us/pl/107/110/s1043], Jan. 8, 2002, [115 Stat. 2078][/us/stat/115/2078].)
 

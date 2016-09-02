@@ -25,11 +25,11 @@
 
     (c) __Center staffing__ 
 
-        Each Center established under subsection (a) of this section shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
+        Each Center established under subsection (a) shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
 
     (d) __Center responsibilities and functions__ 
 
-    Each Center established under subsection (a) of this section shall—
+    Each Center established under subsection (a) shall—
 
         (1) provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, and inter-tribal consortia upon request;
 
@@ -59,7 +59,7 @@
 
     (g) __Application of Indian Self-Determination Act to Centers__ 
 
-        Indian Child Resource and Family Services Centers established under subsection (a) of this section shall be subject to the provisions of the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\]. If a Center is located in an area office of the Bureau which serves more than one Indian tribe, any application to enter into a contract to operate the Center pursuant to such Act must have the consent of each of the other tribes to be served under the contract, except that, in the Juneau Area, only the consent of such tribes or tribal consortia that are engaged in contracting of Indian Child Protection and Family Violence Prevention programs pursuant to such Act shall be required. This section shall not preclude the designation of an existing child resource and family services center operated by a tribe or tribal organization as a Center if all of the tribes to be served by the Center agree to such designation.
+        Indian Child Resource and Family Services Centers established under subsection (a) shall be subject to the provisions of the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\]. If a Center is located in an area office of the Bureau which serves more than one Indian tribe, any application to enter into a contract to operate the Center pursuant to such Act must have the consent of each of the other tribes to be served under the contract, except that, in the Juneau Area, only the consent of such tribes or tribal consortia that are engaged in contracting of Indian Child Protection and Family Violence Prevention programs pursuant to such Act shall be required. This section shall not preclude the designation of an existing child resource and family services center operated by a tribe or tribal organization as a Center if all of the tribes to be served by the Center agree to such designation.
 
     (h) __Authorization of appropriations__ 
 

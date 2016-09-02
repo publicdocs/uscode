@@ -65,7 +65,7 @@
 
     (2) __Affordable housing__ 
 
-        The term “affordable housing” means housing that complies with the requirements for affordable housing under subchapter II of this chapter. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
+        The term “affordable housing” means housing that complies with the requirements for affordable housing under subchapter II. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
 
     (3) __Drug-related criminal activity__ 
 

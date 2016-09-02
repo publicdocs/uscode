@@ -21,15 +21,15 @@
 
     (b) __Extinguishment of aboriginal title__ 
 
-        Any aboriginal title held by the Wampanoag Tribal Council of Gay Head, Inc. or any other entity presently or at any time in the past known as the Gay Head Indians, to any land or natural resources the transfer of which is consented to and approved in subsection (a) of this section is considered extinguished as of the date of such transfer.
+        Any aboriginal title held by the Wampanoag Tribal Council of Gay Head, Inc. or any other entity presently or at any time in the past known as the Gay Head Indians, to any land or natural resources the transfer of which is consented to and approved in subsection (a) is considered extinguished as of the date of such transfer.
 
     (c) __Extinguishment of claims arising from prior transfers or extinguishment of aboriginal title__ 
 
     Any claim (including any claim for damages for use and occupancy) by the Wampanoag Tribal Council of Gay Head, Inc., the Gay Head Indians, or any other Indian, Indian nation, or tribe or band of Indians against the United States, any State or political subdivision of a State, or any other person which is based on—
 
-        (1) any transfer of land or natural resources which is consented to and approved in subsection (a) of this section, or
+        (1) any transfer of land or natural resources which is consented to and approved in subsection (a), or
 
-        (2) any aboriginal title to land or natural resources the transfer of which is consented to and approved in subsection (b) of this section,
+        (2) any aboriginal title to land or natural resources the transfer of which is consented to and approved in subsection (b),
 
         is extinguished as of the date of any such transfer.
 

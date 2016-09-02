@@ -29,7 +29,7 @@
 
     (b) __Proximity of lands to be transferred or acquired to Navajo Reservation; lands to be used for exchanges__ 
 
-        A border of any parcel of land so transferred or acquired shall be within eighteen miles of the present boundary of the Navajo Reservation: Provided, That, except as limited by subsection (g) of this section, Bureau of Land Management lands anywhere within the States of Arizona and New Mexico may be used for the purpose of exchanging for lands within eighteen miles of the present boundary of the reservation.
+        A border of any parcel of land so transferred or acquired shall be within eighteen miles of the present boundary of the Navajo Reservation: Provided, That, except as limited by subsection (g) hereof, Bureau of Land Management lands anywhere within the States of Arizona and New Mexico may be used for the purpose of exchanging for lands within eighteen miles of the present boundary of the reservation.
 
     (c) __Selection of lands to be transferred or acquired; time period; consultation; restriction of New Mexico lands__ 
 

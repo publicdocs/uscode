@@ -25,7 +25,7 @@
 
     (c) __Service obligation of program participant__ 
 
-        An individual who participates in a program under subsection (a) of this section, where the educational costs are paid by the Service, shall incur an obligation to serve in an Indian health program for a period of obligated service equal to at least three times the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula specified in subsection (l) of [section 1616a of this title][/us/usc/t25/s1616a] in the manner provided for in such subsection.
+        An individual who participates in a program under subsection (a), where the educational costs are paid by the Service, shall incur an obligation to serve in an Indian health program for a period of obligated service equal to at least three times the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula specified in subsection (l) of [section 1616a of this title][/us/usc/t25/s1616a] in the manner provided for in such subsection.
 
 ([Pub. L. 94–437, title I, § 118][/us/pl/94/437/s118], as added [Pub. L. 102–573, title I, § 104(e)][/us/pl/102/573/s104/e], Oct. 29, 1992, [106 Stat. 4534][/us/stat/106/4534]; amended [Pub. L. 103–435, § 16(b)][/us/pl/103/435/s16/b], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
 

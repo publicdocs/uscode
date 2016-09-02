@@ -25,7 +25,7 @@
 
     (c) __Authority and capacity of Tribal Council__ 
 
-    No provision contained in this subchapter shall affect the power of the Tribal Council to take any action under the constitution and bylaws described in subsection (b) of this section. The Tribal Council shall represent the tribe and its members in the implementation of this subchapter and shall have full authority and capacity—
+    No provision contained in this subchapter shall affect the power of the Tribal Council to take any action under the constitution and bylaws described in subsection (b). The Tribal Council shall represent the tribe and its members in the implementation of this subchapter and shall have full authority and capacity—
 
         (1) to enter into contracts, grant agreements, and other arrangements with any Federal department or agency;
 

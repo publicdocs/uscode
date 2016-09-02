@@ -37,7 +37,7 @@
 
     (b) __Unclaimed Native American human remains and objects__ 
 
-        Native American cultural items not claimed under subsection (a) of this section shall be disposed of in accordance with regulations promulgated by the Secretary in consultation with the review committee established under [section 3006 of this title][/us/usc/t25/s3006], Native American groups, representatives of museums and the scientific community.
+        Native American cultural items not claimed under subsection (a) shall be disposed of in accordance with regulations promulgated by the Secretary in consultation with the review committee established under [section 3006 of this title][/us/usc/t25/s3006], Native American groups, representatives of museums and the scientific community.
 
     (c) __Intentional excavation and removal of Native American human remains and objects__ 
 
@@ -47,7 +47,7 @@
 
         (2) such items are excavated or removed after consultation with or, in the case of tribal lands, consent of the appropriate (if any) Indian tribe or Native Hawaiian organization;
 
-        (3) the ownership and right of control of the disposition of such items shall be as provided in subsections (a) and (b) of this section; and
+        (3) the ownership and right of control of the disposition of such items shall be as provided in subsections (a) and (b); and
 
         (4) proof of consultation or consent under paragraph (2) is shown.
 

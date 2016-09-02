@@ -29,7 +29,7 @@
 
     The qualified applicant pool for Self-Governance shall consist of each tribe that—
 
-        (1) successfully completes the planning phase described in subsection (d) of this section;
+        (1) successfully completes the planning phase described in subsection (d);
 
         (2) has requested participation in Self-Governance by resolution or other official action by the tribal governing body; and
 

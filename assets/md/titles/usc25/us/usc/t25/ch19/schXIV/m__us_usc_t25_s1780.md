@@ -89,7 +89,7 @@
 
  __References in Text__ 
 
-    The Sisk Act, referred to in subsec. (a)(11), is [Pub. L. 90–171][/us/pl/90/171], Dec. 4, 1967, [81 Stat. 531][/us/stat/81/531], which is classified to [section 484a of Title 16][/us/usc/t16/s484a], Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 484a of Title 16][/us/usc/t16/s484a] and Tables.
+    [Public Law 90–171][/us/pl/90/171], referred to in subsec. (a)(11), is [Pub. L. 90–171][/us/pl/90/171], Dec. 4, 1967, [81 Stat. 531][/us/stat/81/531], which is classified to [section 484a of Title 16][/us/usc/t16/s484a], Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 484a of Title 16][/us/usc/t16/s484a] and Tables.
 
  __Short Title__ 
 
@@ -110,6 +110,7 @@
 [/us/usc/t25/s1780c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1780c
 [/us/pl/109/286/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F286%2Fs2
 [/us/stat/120/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1218
+[/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/stat/81/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F531
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a

@@ -31,7 +31,7 @@
 
     (b) __Authorization__ 
 
-        For the purposes of providing the training required by subsection (a) of this section, there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as are necessary for each of fiscal years 2011 through 2015.
+        For the purposes of providing the training required by subsection (a), there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as are necessary for each of fiscal years 2011 through 2015.
 
 ([Pub. L. 99–570, title IV, § 4218][/us/pl/99/570/s4218], Oct. 27, 1986, [100 Stat. 3207–146][/us/stat/100/3207-146]; [Pub. L. 100–690, title II, § 2209][/us/pl/100/690/s2209], Nov. 18, 1988, [102 Stat. 4219][/us/stat/102/4219]; [Pub. L. 102–573, title VII, § 703(9)][/us/pl/102/573/s703/9], Oct. 29, 1992, [106 Stat. 4584][/us/stat/106/4584]; [Pub. L. 111–211, title II, § 241(f)][/us/pl/111/211/s241/f], July 29, 2010, [124 Stat. 2291][/us/stat/124/2291].)
 

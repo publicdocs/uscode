@@ -21,7 +21,7 @@
 
     (b) __Grant applications__ 
 
-        (1) Any Indian tribe or intertribal consortium may submit to the Secretary of Health and Human Services an application for a grant under subsection (a) of this section.
+        (1) Any Indian tribe or intertribal consortium may submit to the Secretary of Health and Human Services an application for a grant under subsection (a).
 
         (2)
 
@@ -45,11 +45,11 @@
 
     (c) __Maximum grant amount__ 
 
-        The maximum amount of any grant awarded under subsection (a) of this section shall not exceed $500,000.
+        The maximum amount of any grant awarded under subsection (a) shall not exceed $500,000.
 
     (d) __Grant administration and final report__ 
 
-    Each recipient of a grant awarded under subsection (a) of this section shall—
+    Each recipient of a grant awarded under subsection (a) shall—
 
         (1)
 

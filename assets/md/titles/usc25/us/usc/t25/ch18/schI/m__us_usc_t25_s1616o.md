@@ -21,7 +21,7 @@
 
     (b) __Purposes__ 
 
-    The purposes of the program established pursuant to a grant provided under subsection (a) of this section are—
+    The purposes of the program established pursuant to a grant provided under subsection (a) are—
 
         (1) to provide direct clinical and practical experience at a service unit to medical students and residents from USDSM and other medical schools;
 
@@ -31,7 +31,7 @@
 
     (c) __Composition; designation__ 
 
-    The pilot program established pursuant to a grant provided under subsection (a) of this section shall—
+    The pilot program established pursuant to a grant provided under subsection (a) shall—
 
         (1) incorporate a program advisory board composed of representatives from the tribes and communities in the area which will be served by the program; and
 
@@ -39,7 +39,7 @@
 
     (d) __Coordination with other schools__ 
 
-        The USDSM shall coordinate the program established pursuant to a grant provided under subsection (a) of this section with other medical schools in the region, nursing schools, tribal community colleges, and other health professional schools.
+        The USDSM shall coordinate the program established pursuant to a grant provided under subsection (a) with other medical schools in the region, nursing schools, tribal community colleges, and other health professional schools.
 
     (e) __Development of additional professional opportunities__ 
 

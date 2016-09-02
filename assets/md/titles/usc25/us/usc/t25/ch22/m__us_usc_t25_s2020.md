@@ -71,7 +71,7 @@
 
     (g) __Terms, conditions, or requirements__ 
 
-        A tribe that receives a grant under this section shall comply with regulations relating to grants made under [section 450h(a) of this title][/us/usc/t25/s450h/a] that are in effect on the date that the tribal governing body submits the application for the grant under subsection (b) of this section. The Secretary shall not impose any terms, conditions, or requirements on the provision of grants under this section that are not specified in this section.
+        A tribe that receives a grant under this section shall comply with regulations relating to grants made under [section 450h(a) of this title][/us/usc/t25/s450h/a] that are in effect on the date that the tribal governing body submits the application for the grant under subsection (b). The Secretary shall not impose any terms, conditions, or requirements on the provision of grants under this section that are not specified in this section.
 
     (h) __Authorization of appropriations__ 
 

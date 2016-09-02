@@ -63,7 +63,7 @@
 
             (B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services;
 
-        (7) direct appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and service unit levels, to cooperate fully with tribal requests made pursuant to subsection (d) of this section; and
+        (7) direct appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and service unit levels, to cooperate fully with tribal requests made pursuant to subsection (d); and
 
         (8) provide for an annual review of such agreement by the two Secretaries.
 
@@ -71,7 +71,7 @@
 
         (1) The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a community mental health plan providing for the identification and coordination of available resources and programs to identify, prevent, or treat mental illness or dysfunctional and self-destructive behavior, including child abuse and family violence, among its members.
 
-        (2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c) of this section, shall cooperate with the tribe in the implementation of such plan.
+        (2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c), shall cooperate with the tribe in the implementation of such plan.
 
         (3) Two or more Indian tribes may form a coalition for the adoption of resolutions and the establishment and development of a joint community mental health plan under this subsection.
 
@@ -129,7 +129,7 @@
 
     (f) __Staff recruitment and retention__ 
 
-        (1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) of this section and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mental health services to children and adolescents with mental health problems.
+        (1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mental health services to children and adolescents with mental health problems.
 
         (2)
 
@@ -141,7 +141,7 @@
 
             (C) a system of postgraduate rotations as a retention incentive.
 
-        (3) This subsection shall be carried out in coordination with the recruitment and retention programs under subchapter I of this chapter.
+        (3) This subsection shall be carried out in coordination with the recruitment and retention programs under subchapter I.
 
     (g) __Mental Health Technician program__ 
 

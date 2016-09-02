@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    The Secretary is authorized to carry out the duties specified in subsection (b) of this section at such time as the Secretary makes a determination that—
+    The Secretary is authorized to carry out the duties specified in subsection (b) at such time as the Secretary makes a determination that—
 
         (1) in accordance with the Indian Gaming Regulatory Act ([25 U.S.C. 2701][/us/usc/t25/s2701] et seq.), the State of Connecticut has entered into a binding compact with the Mohegan Tribe providing for class III tribal gaming operations (as defined in section 4(8) of such Act ([25 U.S.C. 2703(8)][/us/usc/t25/s2703/8]));
 
@@ -27,13 +27,13 @@
 
     (b) __Publication by Secretary__ 
 
-        If the Secretary makes a determination under subsection (a) of this section that the conditions specified in paragraphs (1) through (3) of that subsection have been met, the Secretary shall publish the determination, together with the State Agreement, in the Federal Register.
+        If the Secretary makes a determination under subsection (a) that the conditions specified in paragraphs (1) through (3) of that subsection have been met, the Secretary shall publish the determination, together with the State Agreement, in the Federal Register.
 
     (c) __Effect of publication__ 
 
         (1) __In general__ 
 
-            Upon the publication of the determination and the State Agreement in the Federal Register pursuant to subsection (b) of this section, a transfer, waiver, release, relinquishment, or other commitment made by the Mohegan Tribe in accordance with the terms and conditions of the State Agreement shall be in full force and effect.
+            Upon the publication of the determination and the State Agreement in the Federal Register pursuant to subsection (b), a transfer, waiver, release, relinquishment, or other commitment made by the Mohegan Tribe in accordance with the terms and conditions of the State Agreement shall be in full force and effect.
 
         (2) __Approval by the United States__ 
 
@@ -45,7 +45,7 @@
 
         (1) __In general__ 
 
-        Subject to subsections (f)(2) and (g) of this section, the following claims are hereby extinguished:
+        Subject to subsections (f)(2) and (g), the following claims are hereby extinguished:
 
             (A) Any claim to land within the State of Connecticut based upon aboriginal title by the Mohegan Tribe.
 
@@ -65,13 +65,13 @@
 
     (e) __Transfers__ 
 
-        Subject to subsection (g) of this section, any transfer of lands or natural resources located within the State of Connecticut, including any such transfer made pursuant to any applicable Federal or State law (including any applicable treaty), made by, from, or on behalf of the Mohegan Tribe or any predecessor or successor in interest of the Mohegan Tribe shall be deemed to be in full force and effect, as provided in subsection (c)(1) of this section.
+        Subject to subsection (g), any transfer of lands or natural resources located within the State of Connecticut, including any such transfer made pursuant to any applicable Federal or State law (including any applicable treaty), made by, from, or on behalf of the Mohegan Tribe or any predecessor or successor in interest of the Mohegan Tribe shall be deemed to be in full force and effect, as provided in subsection (c)(1).
 
     (f) __Limitation__ 
 
         (1) __In general__ 
 
-        Except as provided in paragraph (2) and subject to subsection (g) of this section, by virtue of the approval by the United States under this section of a transfer of land or the extinguishment of aboriginal title, any claim by the Mohegan Tribe against the United States, any State or political subdivision of a State, or any other person or entity, by the Mohegan Tribe, that—
+        Except as provided in paragraph (2) and subject to subsection (g), by virtue of the approval by the United States under this section of a transfer of land or the extinguishment of aboriginal title, any claim by the Mohegan Tribe against the United States, any State or political subdivision of a State, or any other person or entity, by the Mohegan Tribe, that—
 
             (A) arises after the transfer or extinguishment is carried out; and
 

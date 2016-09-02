@@ -33,7 +33,7 @@
 
     (b) __Publication__ 
 
-        The results of the review conducted under subsection (a) of this section shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under [section 2412 of this title][/us/usc/t25/s2412].
+        The results of the review conducted under subsection (a) shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under [section 2412 of this title][/us/usc/t25/s2412].
 
 ([Pub. L. 99–570, title IV, § 4211][/us/pl/99/570/s4211], Oct. 27, 1986, [100 Stat. 3207–143][/us/stat/100/3207-143]; [Pub. L. 111–211, title II, § 241(a)(6)][/us/pl/111/211/s241/a/6], July 29, 2010, [124 Stat. 2289][/us/stat/124/2289].)
 

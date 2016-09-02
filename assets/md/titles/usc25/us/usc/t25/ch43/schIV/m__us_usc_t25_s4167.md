@@ -23,11 +23,11 @@
 
         (2) a summary of the use of funds available under this chapter during the preceding fiscal year; and
 
-        (3) a description of the aggregate outstanding loan guarantees under subchapter VI of this chapter.
+        (3) a description of the aggregate outstanding loan guarantees under subchapter VI.
 
     (b) __Related reports__ 
 
-        The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a) of this section.
+        The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
 
 ([Pub. L. 104–330, title IV, § 407][/us/pl/104/330/s407], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041].)
 

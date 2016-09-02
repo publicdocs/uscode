@@ -23,13 +23,13 @@
 
         (2) __Availability__ 
 
-            Amounts held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II shall be available to the Secretary for distribution to the Tribe and affected allottees in accordance with subsection (c) of this section.
+            Amounts held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II shall be available to the Secretary for distribution to the Tribe and affected allottees in accordance with subsection (c).
 
     (b) __Contributions to the settlement trust funds__ 
 
         (1) __In general__ 
 
-            Amounts paid to the Secretary for deposit into the trust fund accounts established by subsection (a) of this section shall be allocated among and deposited in the trust accounts in the amounts determined by the tribal-allottee allocation provisions of the Settlement Agreement.
+            Amounts paid to the Secretary for deposit into the trust fund accounts established by subsection (a) shall be allocated among and deposited in the trust accounts in the amounts determined by the tribal-allottee allocation provisions of the Settlement Agreement.
 
         (2) __Cash payments by Coachella Valley Water District__ 
 

@@ -35,7 +35,7 @@
 
     (c) __Limitation__ 
 
-        The funds used for an expenditure described in subsection (a) of this section may only include funds made available to the Indian tribe by a Federal agency under a statutory or administrative formula.
+        The funds used for an expenditure described in subsection (a) may only include funds made available to the Indian tribe by a Federal agency under a statutory or administrative formula.
 
 ([Pub. L. 102–477, § 9][/us/pl/102/477/s9], Oct. 23, 1992, [106 Stat. 2303][/us/stat/106/2303]; [Pub. L. 106–568, title XI, § 1103(e)][/us/pl/106/568/s1103/e], Dec. 27, 2000, [114 Stat. 2932][/us/stat/114/2932].)
 

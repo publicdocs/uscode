@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_ch14_schLXIV .md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1222.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1221)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_ch14_schLXIV.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1222.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1221)
 
 ## § 1221. Membership roll
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_ch14_schLXIV .md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1222.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1221)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_ch14_schLXIV.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1222.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1221)
 
 ----------
 ----------

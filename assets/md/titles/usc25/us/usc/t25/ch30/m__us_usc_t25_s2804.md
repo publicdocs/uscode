@@ -57,11 +57,11 @@
 
     (c) __Limitations on use of personnel of non-Federal agency__ 
 
-        The Secretary may not use the personnel of a non-Federal agency under this section in an area of Indian country if the Indian tribe having jurisdiction over such area of Indian country has adopted a resolution objecting to the use of the personnel of such agency. The Secretary shall consult with Indian tribes before entering into any agreement under subsection (a) of this section with a non-Federal agency that will provide personnel for use in any area under the jurisdiction of such Indian tribes.
+        The Secretary may not use the personnel of a non-Federal agency under this section in an area of Indian country if the Indian tribe having jurisdiction over such area of Indian country has adopted a resolution objecting to the use of the personnel of such agency. The Secretary shall consult with Indian tribes before entering into any agreement under subsection (a) with a non-Federal agency that will provide personnel for use in any area under the jurisdiction of such Indian tribes.
 
     (d) __Authority of Federal agency head to enter into agreement with Secretary__ 
 
-        Notwithstanding the provisions of [section 1535 of title 31][/us/usc/t31/s1535], the head of a Federal agency with law enforcement personnel or facilities may enter into an agreement (with or without reimbursement) with the Secretary under subsection (a) of this section.
+        Notwithstanding the provisions of [section 1535 of title 31][/us/usc/t31/s1535], the head of a Federal agency with law enforcement personnel or facilities may enter into an agreement (with or without reimbursement) with the Secretary under subsection (a).
 
     (e) __Authority of Federal agency head to enter into agreement with Indian tribe__ 
 
@@ -73,7 +73,7 @@
 
     (f) __Status of person as Federal employee__ 
 
-    While acting under authority granted by the Secretary under subsection (a) of this section, a person who is not otherwise a Federal employee shall be considered to be—
+    While acting under authority granted by the Secretary under subsection (a), a person who is not otherwise a Federal employee shall be considered to be—
 
         (1)
 

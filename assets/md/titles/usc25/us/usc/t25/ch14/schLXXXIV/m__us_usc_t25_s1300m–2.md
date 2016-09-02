@@ -27,7 +27,7 @@
 
     (b) __Restrictions__ 
 
-        Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) of this section shall be consistent with the requirements of [section 1300m–3 of this title][/us/usc/t25/s1300m–3].
+        Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) shall be consistent with the requirements of [section 1300m–3 of this title][/us/usc/t25/s1300m–3].
 
 ([Pub. L. 103–454, title III, § 304][/us/pl/103/454/s304], Nov. 2, 1994, [108 Stat. 4794][/us/stat/108/4794].)
 

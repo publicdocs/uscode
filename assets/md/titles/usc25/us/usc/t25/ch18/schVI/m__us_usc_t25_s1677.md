@@ -31,7 +31,7 @@
 
     (b) __Health care plan; development__ 
 
-    Upon completion of such study the Secretary and the Service shall take into account the results of such study and develop a health care plan to address the health problems studied under subsection (a) of this section. The plan shall include—
+    Upon completion of such study the Secretary and the Service shall take into account the results of such study and develop a health care plan to address the health problems studied under subsection (a). The plan shall include—
 
         (1) methods for diagnosing and treating Indians currently exhibiting such health problems;
 
@@ -41,7 +41,7 @@
 
     (c) __Reports to Congress__ 
 
-        The Secretary and the Service shall submit to Congress the study prepared under subsection (a) of this section no later than the date eighteen months after December 17, 1980. The health care plan prepared under subsection (b) of this section shall be submitted in a report no later than the date one year after the date that the study prepared under subsection (a) of this section is submitted to Congress. Such report shall include recommended activities for the implementation of the plan, as well as an evaluation of any activities previously undertaken by the Service to address such health problems.
+        The Secretary and the Service shall submit to Congress the study prepared under subsection (a) no later than the date eighteen months after December 17, 1980. The health care plan prepared under subsection (b) shall be submitted in a report no later than the date one year after the date that the study prepared under subsection (a) is submitted to Congress. Such report shall include recommended activities for the implementation of the plan, as well as an evaluation of any activities previously undertaken by the Service to address such health problems.
 
     (d) __Intergovernmental Task Force; establishment and functions__ 
 

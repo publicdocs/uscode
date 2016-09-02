@@ -25,7 +25,7 @@
 
     (b) __Removal from tribal roll__ 
 
-    Notwithstanding subsection (a) of this section—
+    Notwithstanding subsection (a)—
 
         (1) the tribe may remove an individual from tribal membership if it determines that the individual’s enrollment was improper; and
 

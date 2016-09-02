@@ -25,7 +25,7 @@
 
             (A) the abuse of a child in Indian country, or
 
-            (B) actions which would reasonably be expected to result in abuse of a child in Indian country, the receiving agency shall immediately notify appropriate officials of the other agency of such report and shall also submit, when prepared, a copy of the written report required under subsection (c) of this section to such agency.
+            (B) actions which would reasonably be expected to result in abuse of a child in Indian country, the receiving agency shall immediately notify appropriate officials of the other agency of such report and shall also submit, when prepared, a copy of the written report required under subsection (c) to such agency.
 
         (2) Where a report of abuse involves an Indian child or where the alleged abuser is an Indian and where a preliminary inquiry indicates a criminal violation has occurred, the local law enforcement agency, if other than the Federal Bureau of Investigation, shall immediately report such occurrence to the Federal Bureau of Investigation.
 
@@ -33,7 +33,7 @@
 
         (1)
 
-         Within 36 hours after receiving an initial report described in subsection (b) of this section, the receiving agency shall prepare a written report which shall include, if available—
+         Within 36 hours after receiving an initial report described in subsection (b), the receiving agency shall prepare a written report which shall include, if available—
 
             (A) the name, address, age, and sex of the child that is the subject of the report;
 
@@ -57,7 +57,7 @@
 
     (d) __Confidentiality of informant__ 
 
-        The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee’s duties.
+        The identity of any person making a report described in subsection (b)(1) shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee’s duties.
 
 ([Pub. L. 101–630, title IV, § 404][/us/pl/101/630/s404], Nov. 28, 1990, [104 Stat. 4547][/us/stat/104/4547].)
 

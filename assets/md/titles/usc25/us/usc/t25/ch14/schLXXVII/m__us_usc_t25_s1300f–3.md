@@ -49,11 +49,11 @@
 
     (b) __Tribal participation__ 
 
-        The Secretary shall provide for the participation of members of the Pascua Yaqui Tribe to carry out subsection (a) of this section.
+        The Secretary shall provide for the participation of members of the Pascua Yaqui Tribe to carry out subsection (a).
 
     (c) __Report__ 
 
-        Not later than 2 years after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit a report to Congress that contains the results of each study conducted pursuant to subsection (a) of this section.
+        Not later than 2 years after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit a report to Congress that contains the results of each study conducted pursuant to subsection (a).
 
     (d) __Authorization of appropriations__ 
 

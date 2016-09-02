@@ -237,7 +237,7 @@
 
         (1) __In general__ 
 
-            Except as provided in subsection (b) of this section, the Secretary shall implement the standards in effect under this section 1 on the day before January 8, 2002.
+            Except as provided in subsection (b), the Secretary shall implement the standards in effect under this section 1 on the day before January 8, 2002.
 
         (2) __Plan__ 
 

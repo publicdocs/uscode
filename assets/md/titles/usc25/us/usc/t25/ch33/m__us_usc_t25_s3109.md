@@ -23,7 +23,7 @@
 
         (1)
 
-         The Secretary may deposit into the Indian forest land assistance account established pursuant to subsection (a) of this section any funds received by the Secretary or in the Secretary’s possession from—
+         The Secretary may deposit into the Indian forest land assistance account established pursuant to subsection (a) any funds received by the Secretary or in the Secretary’s possession from—
 
             (A) non-Federal sources, if such funds are related to activities on or for the Indian forest lands of such tribe’s reservation,
 

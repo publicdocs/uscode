@@ -25,7 +25,7 @@
 
     (c) __Functions__ 
 
-    In addition to the functions transferred to the Office pursuant to subsection (b) of this section, the Office shall perform the following functions:
+    In addition to the functions transferred to the Office pursuant to subsection (b), the Office shall perform the following functions:
 
         (1) Provide funds to Indian tribes and tribal organizations for the development, enhancement, and continuing operation of tribal justice systems.
 

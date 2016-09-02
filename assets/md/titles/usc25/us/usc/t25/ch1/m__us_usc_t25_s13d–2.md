@@ -31,7 +31,7 @@
 
     In determining the amount of general assistance provided by the Bureau of Indian Affairs, the Secretary of the Interior shall not include consideration of—
 
-        (1) additional expenses in connection with the study or training described in subsection (a) of this section, and
+        (1) additional expenses in connection with the study or training described in subsection (a), and
 
         (2) the amount of any financial assistance received by the individual as a student or trainee.
 

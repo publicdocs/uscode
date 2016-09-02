@@ -203,7 +203,7 @@
 
         Not later than 120 days after January 8, 2002, the Director of the Office of Indian Education Programs shall—
 
-            (A) conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting required administrative costs of tribal elementary and secondary education programs, using the formula set forth in subsection (c) of this section; and
+            (A) conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting required administrative costs of tribal elementary and secondary education programs, using the formula set forth in subsection (c); and
 
             (B)
 
@@ -215,7 +215,7 @@
 
                 (iii)
 
-                 a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) of this section will—
+                 a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) will—
 
                     (I) be equal to the median between the maximum base rate and the minimum base rate; and
 
@@ -229,7 +229,7 @@
 
              be conducted in full consultation (in accordance with [section 2011 of this title][/us/usc/t25/s2011]) with—
 
-                (i) the tribes and tribal organizations that are affected by the application of the formula set forth in subsection (c) of this section; and
+                (i) the tribes and tribal organizations that are affected by the application of the formula set forth in subsection (c); and
 
                 (ii) all national and regional Indian organizations of which such tribes and tribal organizations are typically members;
 
@@ -251,11 +251,11 @@
 
         (5) __Report__ 
 
-            Upon completion of the studies conducted under paragraph (1), the Director shall submit to Congress a report on the findings of the studies, together with determinations based upon such studies that would affect the definitions set forth under subsection (e) of this section that are used in the formula set forth in subsection (c) of this section.
+            Upon completion of the studies conducted under paragraph (1), the Director shall submit to Congress a report on the findings of the studies, together with determinations based upon such studies that would affect the definitions set forth under subsection (e) that are used in the formula set forth in subsection (c).
 
         (6) __Projection of costs__ 
 
-            The Secretary shall include in the Bureau’s justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
+            The Secretary shall include in the Bureau’s justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
 
         (7) __Determination of program size__ 
 
@@ -269,7 +269,7 @@
 
         (2) __Reductions__ 
 
-            If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) of this section for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) of this section for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) of this section bears to the total of all grants determined under subsection (c) section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  for all tribes and tribal organizations for such fiscal year.
+            If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) bears to the total of all grants determined under subsection (c) section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  for all tribes and tribal organizations for such fiscal year.
 
     (k) __Applicability to schools operating under Tribally Controlled Schools Act of 1988__ 
 

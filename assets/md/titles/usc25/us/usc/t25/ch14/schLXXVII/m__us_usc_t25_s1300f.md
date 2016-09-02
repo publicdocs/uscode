@@ -21,7 +21,7 @@
 
     (b) __Administration of lands; application of other laws__ 
 
-        The provisions of the Act of June 18, 1934 ([48 Stat. 484][/us/stat/48/484]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “984”. </sup></sup> ), as amended \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], are extended to such members described in subsection (a) of this section.
+        The provisions of the Act of June 18, 1934 ([48 Stat. 484][/us/stat/48/484]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “984”. </sup></sup> ), as amended \[[25 U.S.C. 461][/us/usc/t25/s461] et seq.\], are extended to such members described in subsection (a).
 
     (c) __Receipt in trust by United States of land for Pascua Yaqui Tribe; criminal and civil jurisdiction__ 
 

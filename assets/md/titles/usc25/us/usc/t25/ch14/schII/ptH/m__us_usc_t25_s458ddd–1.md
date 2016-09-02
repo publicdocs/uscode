@@ -17,7 +17,7 @@
 
     (a) __Provision of support by Secretary__ 
 
-    Subject to subsection (b) of this section, during the 5-year period beginning on the date that the Foundation is established, the Secretary—
+    Subject to subsection (b), during the 5-year period beginning on the date that the Foundation is established, the Secretary—
 
         (1) may provide personnel, facilities, and other administrative support services to the Foundation;
 
@@ -33,11 +33,11 @@
 
     (b) __Reimbursements__ 
 
-        Reimbursements accepted under subsection (a)(3) of this section shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing services described in subsection (a)(1) of this section and the travel expenses described in subsection (a)(2) of this section.
+        Reimbursements accepted under subsection (a)(3) shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing services described in subsection (a)(1) and the travel expenses described in subsection (a)(2).
 
     (c) __Continuation of certain services__ 
 
-        Notwithstanding any other provision of this section, the Secretary may continue to provide facilities and necessary support services to the Foundation after the termination of the 5-year period specified in subsection (a) of this section, on a space available, reimbursable cost basis.
+        Notwithstanding any other provision of this section, the Secretary may continue to provide facilities and necessary support services to the Foundation after the termination of the 5-year period specified in subsection (a), on a space available, reimbursable cost basis.
 
 ([Pub. L. 93–638, title VIII, § 802][/us/pl/93/638/s802], formerly title V, § 502, as added [Pub. L. 106–568, title XIII, § 1302][/us/pl/106/568/s1302], Dec. 27, 2000, [114 Stat. 2938][/us/stat/114/2938]; renumbered title VIII, § 802, and amended [Pub. L. 111–211, title II, § 231(d)][/us/pl/111/211/s231/d], July 29, 2010, [124 Stat. 2278][/us/stat/124/2278].)
 

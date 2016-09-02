@@ -113,7 +113,7 @@
 
     (c) __Compliance plan__ 
 
-    At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) of this section into compliance with the standards referred to in that subsection that includes—
+    At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) into compliance with the standards referred to in that subsection that includes—
 
         (1) detailed information on the status of each facility’s compliance with such standards;
 
@@ -129,7 +129,7 @@
 
         (2) __Long-term construction and replacement list__ 
 
-        In addition to the plan submitted under subsection (c) of this section, the Secretary shall—
+        In addition to the plan submitted under subsection (c), the Secretary shall—
 
             (A) not later than 18 months after January 8, 2002, establish a long-term construction and replacement list for all Bureau-funded schools;
 

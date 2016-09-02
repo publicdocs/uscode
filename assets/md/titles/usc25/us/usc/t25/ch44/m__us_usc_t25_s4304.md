@@ -29,7 +29,7 @@
 
     (c) __Activities__ 
 
-    In carrying out the duties described in subsection (b) of this section, the Secretary, acting through the Director, shall ensure the coordination of, or, as appropriate, carry out—
+    In carrying out the duties described in subsection (b), the Secretary, acting through the Director, shall ensure the coordination of, or, as appropriate, carry out—
 
         (1) Federal programs designed to provide technical or financial assistance to eligible entities;
 
@@ -45,7 +45,7 @@
 
     (d) __Technical assistance__ 
 
-    In conjunction with the activities described in subsection (c) of this section, the Secretary, acting through the Director, shall provide technical assistance and administrative services to eligible entities to assist those entities with—
+    In conjunction with the activities described in subsection (c), the Secretary, acting through the Director, shall provide technical assistance and administrative services to eligible entities to assist those entities with—
 
         (1) the identification of appropriate markets for Indian goods and services;
 
@@ -57,7 +57,7 @@
 
     (e) __Priorities__ 
 
-    In carrying out the duties and activities described in subsections (b) and (c) of this section, the Secretary, acting through the Director, shall give priority to activities that—
+    In carrying out the duties and activities described in subsections (b) and (c), the Secretary, acting through the Director, shall give priority to activities that—
 
         (1) provide the greatest degree of economic benefits to Indians; and
 

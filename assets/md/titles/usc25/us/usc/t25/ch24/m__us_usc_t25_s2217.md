@@ -25,7 +25,7 @@
 
     (b) __Report__ 
 
-        The reports described in subsection (a) of this section and [section 2212(a) of this title][/us/usc/t25/s2212/a] shall contain findings as to whether the program under this chapter to acquire fractional interests in trust or restricted lands should be extended and whether such program should be altered to make resources available to Indian tribes and individual Indian landowners.
+        The reports described in subsection (a) and [section 2212(a) of this title][/us/usc/t25/s2212/a] shall contain findings as to whether the program under this chapter to acquire fractional interests in trust or restricted lands should be extended and whether such program should be altered to make resources available to Indian tribes and individual Indian landowners.
 
 ([Pub. L. 97–459, title II, § 218][/us/pl/97/459/s218], as added [Pub. L. 106–462, title I, § 103(6)][/us/pl/106/462/s103/6], Nov. 7, 2000, [114 Stat. 2004][/us/stat/114/2004].)
 

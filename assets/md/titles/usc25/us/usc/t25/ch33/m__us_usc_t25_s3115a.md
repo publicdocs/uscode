@@ -59,7 +59,7 @@
 
         (1) __In general__ 
 
-            Not later than 120 days after the date on which an Indian tribe submits to the Secretary a request to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including a project to restore Federal land that borders on or is adjacent to Indian forest land or rangeland) that meets the criteria described in subsection (c) of this section, the Secretary may issue public notice of initiation of any necessary environmental review or of the potential of entering into an agreement or contract with the Indian tribe pursuant to section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ([16 U.S.C. 2104][/us/usc/t16/s2104] note; [Public Law 105–277][/us/pl/105/277]) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ([117 Stat. 275][/us/stat/117/275])), or such other authority as appropriate, under which the Indian tribe would carry out activities described in paragraph (3).
+            Not later than 120 days after the date on which an Indian tribe submits to the Secretary a request to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including a project to restore Federal land that borders on or is adjacent to Indian forest land or rangeland) that meets the criteria described in subsection (c), the Secretary may issue public notice of initiation of any necessary environmental review or of the potential of entering into an agreement or contract with the Indian tribe pursuant to section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ([16 U.S.C. 2104][/us/usc/t16/s2104] note; [Public Law 105–277][/us/pl/105/277]) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ([117 Stat. 275][/us/stat/117/275])), or such other authority as appropriate, under which the Indian tribe would carry out activities described in paragraph (3).
 
         (2) __Environmental analysis__ 
 
@@ -75,7 +75,7 @@
 
     (c) __Selection criteria__ 
 
-    The criteria referred to in subsection (b) of this section, with respect to an Indian tribe, are whether—
+    The criteria referred to in subsection (b), with respect to an Indian tribe, are whether—
 
         (1) the Indian forest land or rangeland under the jurisdiction of the Indian tribe borders on or is adjacent to land under the jurisdiction of the Forest Service or the Bureau of Land Management;
 
@@ -99,7 +99,7 @@
 
     (d) __Notice of denial__ 
 
-    If the Secretary denies a tribal request under subsection (b)(1) of this section, the Secretary may issue a notice of denial to the Indian tribe, which—
+    If the Secretary denies a tribal request under subsection (b)(1), the Secretary may issue a notice of denial to the Indian tribe, which—
 
         (1) identifies the specific factors that caused, and explains the reasons that support, the denial;
 
@@ -109,7 +109,7 @@
 
     (e) __Proposal evaluation and determination factors__ 
 
-    In entering into an agreement or contract in response to a request of an Indian tribe under subsection (b)(1) of this section, the Secretary may—
+    In entering into an agreement or contract in response to a request of an Indian tribe under subsection (b)(1), the Secretary may—
 
         (1) use a best-value basis; and
 

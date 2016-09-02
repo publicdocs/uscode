@@ -27,7 +27,7 @@
 
     (b) __Restrictions__ 
 
-        Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) of this section shall be consistent with the requirements of section 1300l–2 of this title.
+        Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) shall be consistent with the requirements of section 1300l–2 of this title.
 
 ([Pub. L. 103–434, title II, § 203][/us/pl/103/434/s203], Oct. 31, 1994, [108 Stat. 4533][/us/stat/108/4533]; [Pub. L. 104–109, § 8(a)][/us/pl/104/109/s8/a], Feb. 12, 1996, [110 Stat. 764][/us/stat/110/764].)
 

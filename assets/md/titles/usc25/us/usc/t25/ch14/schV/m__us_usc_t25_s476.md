@@ -25,13 +25,13 @@
 
     (b) __Revocation__ 
 
-        Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conducted in the same manner as provided in subsection (a) of this section for the adoption of a constitution or bylaws.
+        Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conducted in the same manner as provided in subsection (a) for the adoption of a constitution or bylaws.
 
     (c) __Election procedure; technical assistance; review of proposals; notification of contrary-to-applicable law findings__ 
 
         (1)
 
-         The Secretary shall call and hold an election as required by subsection (a) of this section—
+         The Secretary shall call and hold an election as required by subsection (a)n—
 
             (A) within one hundred and eighty days after the receipt of a tribal request for an election to ratify a proposed constitution and bylaws, or to revoke such constitution and bylaws; or
 
@@ -49,7 +49,7 @@
 
     (d) __Approval or disapproval by Secretary; enforcement__ 
 
-        (1) If an election called under subsection (a) of this section results in the adoption by the tribe of the proposed constitution and bylaws or amendments thereto, the Secretary shall approve the constitution and bylaws or amendments thereto within forty-five days after the election unless the Secretary finds that the proposed constitution and bylaws or any amendments are contrary to applicable laws.
+        (1) If an election called under subsection (a) results in the adoption by the tribe of the proposed constitution and bylaws or amendments thereto, the Secretary shall approve the constitution and bylaws or amendments thereto within forty-five days after the election unless the Secretary finds that the proposed constitution and bylaws or any amendments are contrary to applicable laws.
 
         (2) If the Secretary does not approve or disapprove the constitution and bylaws or amendments within the forty-five days, the Secretary’s approval shall be considered as given. Actions to enforce the provisions of this section may be brought in the appropriate Federal district court.
 

@@ -21,11 +21,11 @@
 
     (b) __Lands remain part of joint Reservation subject to exclusive tribal control__ 
 
-        Any lands acquired under subsection (a) of this section within the exterior boundaries of the Wind River Reservation shall remain a part of the Reservation and subject to the joint tribal laws of the Reservation, except that the lands so acquired shall be subject to the exclusive use and control of the tribe for which such lands were acquired.
+        Any lands acquired under subsection (a) within the exterior boundaries of the Wind River Reservation shall remain a part of the Reservation and subject to the joint tribal laws of the Reservation, except that the lands so acquired shall be subject to the exclusive use and control of the tribe for which such lands were acquired.
 
     (c) __Income__ 
 
-        The income from lands acquired under subsection (a) of this section shall be credited to the tribe for which such lands were acquired.
+        The income from lands acquired under subsection (a) shall be credited to the tribe for which such lands were acquired.
 
     (d) __Savings provision__ 
 

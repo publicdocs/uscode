@@ -21,7 +21,7 @@
 
     (b) __Amount of penalty__ 
 
-    The amount of a penalty assessed under subsection (a) of this section shall be determined under regulations promulgated pursuant to this chapter, taking into account, in addition to other factors—
+    The amount of a penalty assessed under subsection (a) shall be determined under regulations promulgated pursuant to this chapter, taking into account, in addition to other factors—
 
         (1) the archaeological, historical, or commercial value of the item involved;
 
@@ -31,11 +31,11 @@
 
     (c) __Actions to recover penalties__ 
 
-        If any museum fails to pay an assessment of a civil penalty pursuant to a final order of the Secretary that has been issued under subsection (a) of this section and not appealed or after a final judgment has been rendered on appeal of such order, the Attorney General may institute a civil action in an appropriate district court of the United States to collect the penalty. In such action, the validity and amount of such penalty shall not be subject to review.
+        If any museum fails to pay an assessment of a civil penalty pursuant to a final order of the Secretary that has been issued under subsection (a) and not appealed or after a final judgment has been rendered on appeal of such order, the Attorney General may institute a civil action in an appropriate district court of the United States to collect the penalty. In such action, the validity and amount of such penalty shall not be subject to review.
 
     (d) __Subpoenas__ 
 
-        In hearings held pursuant to subsection (a) of this section, subpoenas may be issued for the attendance and testimony of witnesses and the production of relevant papers, books, and documents. Witnesses so summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States.
+        In hearings held pursuant to subsection (a), subpoenas may be issued for the attendance and testimony of witnesses and the production of relevant papers, books, and documents. Witnesses so summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States.
 
 ([Pub. L. 101–601, § 9][/us/pl/101/601/s9], Nov. 16, 1990, [104 Stat. 3057][/us/stat/104/3057].)
 

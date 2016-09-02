@@ -23,13 +23,13 @@
 
         (1) __In general__ 
 
-            In addition to those Indian tribes participating in self-governance under subsection (a) of this section, each year an additional 50 Indian tribes that meet the eligibility criteria specified in subsection (c) of this section shall be entitled to participate in self-governance.
+            In addition to those Indian tribes participating in self-governance under subsection (a), each year an additional 50 Indian tribes that meet the eligibility criteria specified in subsection (c) shall be entitled to participate in self-governance.
 
         (2) __Treatment of certain Indian tribes__ 
 
             (A) __In general__ 
 
-                An Indian tribe that has withdrawn from participation in an inter-tribal consortium or tribal organization, in whole or in part, shall be entitled to participate in self-governance provided the Indian tribe meets the eligibility criteria specified in subsection (c) of this section.
+                An Indian tribe that has withdrawn from participation in an inter-tribal consortium or tribal organization, in whole or in part, shall be entitled to participate in self-governance provided the Indian tribe meets the eligibility criteria specified in subsection (c).
 
             (B) __Effect of withdrawal__ 
 
@@ -45,7 +45,7 @@
 
         The qualified applicant pool for self-governance shall consist of each Indian tribe that—
 
-            (A) successfully completes the planning phase described in subsection (d) of this section;
+            (A) successfully completes the planning phase described in subsection (d);
 
             (B) has requested participation in self-governance by resolution or other official action by the governing body of each Indian tribe to be served; and
 
@@ -65,7 +65,7 @@
 
     (e) __Grants__ 
 
-    Subject to the availability of appropriations, any Indian tribe meeting the requirements of paragraph (1)(B) and (C) of subsection (c) of this section shall be eligible for grants—
+    Subject to the availability of appropriations, any Indian tribe meeting the requirements of paragraph (1)(B) and (C) of subsection (c) shall be eligible for grants—
 
         (1) to plan for participation in self-governance; and
 
@@ -73,7 +73,7 @@
 
     (f) __Receipt of grant not required__ 
 
-        Receipt of a grant under subsection (e) of this section shall not be a requirement of participation in self-governance.
+        Receipt of a grant under subsection (e) shall not be a requirement of participation in self-governance.
 
 ([Pub. L. 93–638, title V, § 503][/us/pl/93/638/s503], as added [Pub. L. 106–260, § 4][/us/pl/106/260/s4], Aug. 18, 2000, [114 Stat. 714][/us/stat/114/714].)
 

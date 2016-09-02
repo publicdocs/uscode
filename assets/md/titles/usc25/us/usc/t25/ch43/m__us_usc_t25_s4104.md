@@ -21,7 +21,7 @@
 
     (b) __Extent of waiver__ 
 
-        The authority under subsection (a) of this section to provide assistance notwithstanding requirements regarding matching or supplemental amounts shall be effective only to the extent provided by the Secretary, which shall not extend beyond the fiscal year in which the waiver is made or beyond the receipt of any amounts by an Indian housing authority under title I of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5301][/us/usc/t42/s5301] et seq.\].
+        The authority under subsection (a) to provide assistance notwithstanding requirements regarding matching or supplemental amounts shall be effective only to the extent provided by the Secretary, which shall not extend beyond the fiscal year in which the waiver is made or beyond the receipt of any amounts by an Indian housing authority under title I of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5301][/us/usc/t42/s5301] et seq.\].
 
     (c) __Definition of housing program__ 
 

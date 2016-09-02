@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification, pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p) of this section).
+        Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification, pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p)).
 
     (b) __Regulations__ 
 
@@ -43,7 +43,7 @@
 
         (10) the annual leave and sick leave for educators;
 
-        (11) the length of the school year applicable to education positions described in subsection (a) of this section; and
+        (11) the length of the school year applicable to education positions described in subsection (a); and
 
         (12) such additional matters as may be appropriate.
 
@@ -55,7 +55,7 @@
 
             (A) lists of qualified and interviewed applicants for education positions be maintained in each agency and area office of the Bureau from among individuals who have applied at the agency or area level for an education position or who have applied at the national level and have indicated in such application an interest in working in certain areas or agencies;
 
-            (B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2) of this section, in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2) of this section, a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
+            (B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2), in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2), a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
 
             (C)
 
@@ -81,7 +81,7 @@
 
                     (I) that educators employed in a Bureau school (other than the supervisor of the school) shall be hired by the supervisor of the school; and
 
-                    (II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A) of this section;
+                    (II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A);
 
                 (ii) each supervisor of a Bureau school shall be hired by the education line officer of the agency office of the Bureau for the jurisdiction in which the school is located;
 
@@ -115,11 +115,11 @@
 
             (C) __False statements__ 
 
-                Notwithstanding subsection (e) of this section, if the individual’s statement is found to have been false, such individual, at the Secretary’s discretion, may be disciplined or discharged.
+                Notwithstanding subsection (e), if the individual’s statement is found to have been false, such individual, at the Secretary’s discretion, may be disciplined or discharged.
 
             (D) __Conditional appointment for national provision__ 
 
-                If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Subsec. (c)(1)(A) of this section does not contain clauses. </sup></sup>  of this section to the position to which such individual was appointed.
+                If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Subsec. (c)(1)(A) does not contain clauses. </sup></sup>  to the position to which such individual was appointed.
 
         (3) __Statutory construction__ 
 
@@ -363,11 +363,11 @@
 
     (h) __Liquidation of remaining leave upon termination__ 
 
-        Upon termination of employment with the Bureau, any annual leave remaining to the credit of an individual covered by this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under regulations promulgated pursuant to subsection (b)(10) of this section shall not be so liquidated.
+        Upon termination of employment with the Bureau, any annual leave remaining to the credit of an individual covered by this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under regulations promulgated pursuant to subsection (b)(10) shall not be so liquidated.
 
     (i) __Transfer of remaining sick leave upon transfer, promotion, or reemployment__ 
 
-        In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person’s credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
+        In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) shall be transferred to such person’s credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
     (j) __Ineligibility for employment of voluntarily terminated educators__ 
 
@@ -375,7 +375,7 @@
 
     (k) __Dual compensation__ 
 
-    In the case of any educator employed in an education position described in subsection (l)(1)(A)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Subsec. (l)(1) of this section does not contain subpars. </sup></sup>  of this section who—
+    In the case of any educator employed in an education position described in subsection (l)(1)(A)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Subsec. (l)(1) does not contain subpars. </sup></sup>  who—
 
         (1) is employed at the close of a school year;
 
@@ -429,7 +429,7 @@
 
         (5) __Definitions__ 
 
-            For purposes of this subsection, the terms “educator” and “education position” have the meanings contained in paragraphs (1) and (2) of subsection (o) of this section.
+            For purposes of this subsection, the terms “educator” and “education position” have the meanings contained in paragraphs (1) and (2) of subsection (o).
 
     (n) __Extracurricular activities__ 
 

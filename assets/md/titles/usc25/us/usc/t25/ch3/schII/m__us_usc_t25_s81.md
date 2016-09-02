@@ -31,11 +31,11 @@
 
     (c) __Exception__ 
 
-        Subsection (b) of this section shall not apply to any agreement or contract that the Secretary (or a designee of the Secretary) determines is not covered under that subsection.
+        Subsection (b) shall not apply to any agreement or contract that the Secretary (or a designee of the Secretary) determines is not covered under that subsection.
 
     (d) __Unapproved agreements__ 
 
-    The Secretary (or a designee of the Secretary) shall refuse to approve an agreement or contract that is covered under subsection (b) of this section if the Secretary (or a designee of the Secretary) determines that the agreement or contract—
+    The Secretary (or a designee of the Secretary) shall refuse to approve an agreement or contract that is covered under subsection (b) if the Secretary (or a designee of the Secretary) determines that the agreement or contract—
 
         (1) violates Federal law; or
 
@@ -51,7 +51,7 @@
 
     (e) __Regulations__ 
 
-        Not later than 180 days after March 14, 2000, the Secretary shall issue regulations for identifying types of agreements or contracts that are not covered under subsection (b) of this section.
+        Not later than 180 days after March 14, 2000, the Secretary shall issue regulations for identifying types of agreements or contracts that are not covered under subsection (b).
 
     (f) __Construction__ 
 

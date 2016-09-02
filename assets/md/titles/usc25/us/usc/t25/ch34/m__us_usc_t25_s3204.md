@@ -21,7 +21,7 @@
 
     (b) __Content of study__ 
 
-    The study conducted pursuant to subsection (a) of this section shall include, but shall not be limited to—
+    The study conducted pursuant to subsection (a) shall include, but shall not be limited to—
 
         (1) the need for, and purpose of, a Central Register;
 

@@ -19,7 +19,7 @@
 
     (b)
 
-     The report required under subsection (a) of this section shall contain, among other matters, the following:
+     The report required under subsection (a) shall contain, among other matters, the following:
 
         (1) the names of all members of the Navajo Tribe who reside within the areas partitioned to the Hopi Tribe and the names of all members of the Hopi Tribe who reside within the areas partitioned to the Navajo Tribe;
 

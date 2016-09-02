@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-        Except as provided in subsection (b) of this section, if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—
+        Except as provided in subsection (b), if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—
 
             (A) terminate payments under this chapter to the recipient;
 
@@ -59,7 +59,7 @@
 
         (1) __In general__ 
 
-        If the Secretary makes a finding under subsection (a) of this section, but determines that the failure to comply substantially with the provisions of this chapter—
+        If the Secretary makes a finding under subsection (a), but determines that the failure to comply substantially with the provisions of this chapter—
 
             (A) is not a pattern or practice of activities constituting willful noncompliance, and
 
@@ -81,13 +81,13 @@
 
             (A) has made a good faith effort to meet the compliance objectives specified in the agreement, the Secretary may enter into an additional performance agreement for the period specified in paragraph (2); and
 
-            (B) has failed to make a good faith effort to meet applicable compliance objectives, the Secretary shall determine the recipient to have failed to comply substantially with this chapter, and the recipient shall be subject to an action under subsection (a) of this section.
+            (B) has failed to make a good faith effort to meet applicable compliance objectives, the Secretary shall determine the recipient to have failed to comply substantially with this chapter, and the recipient shall be subject to an action under subsection (a).
 
     (c) __Referral for civil action__ 
 
         (1) __Authority__ 
 
-            In lieu of, or in addition to, any action authorized by subsection (a) of this section, if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
+            In lieu of, or in addition to, any action authorized by subsection (a), if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
 
         (2) __Civil action__ 
 
@@ -97,7 +97,7 @@
 
         (1) __In general__ 
 
-        Any recipient who receives notice under subsection (a) of this section of the termination, reduction, or limitation of payments under this chapter—
+        Any recipient who receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter—
 
             (A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the circuit in which such State is located, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 

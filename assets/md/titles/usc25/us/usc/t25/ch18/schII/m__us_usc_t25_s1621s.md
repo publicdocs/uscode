@@ -21,7 +21,7 @@
 
     (b) __Failure to timely respond__ 
 
-        If the Service fails to respond to a notification of a claim in accordance with subsection (a) of this section, the Service shall accept as valid the claim submitted by the provider of a contract care service.
+        If the Service fails to respond to a notification of a claim in accordance with subsection (a), the Service shall accept as valid the claim submitted by the provider of a contract care service.
 
     (c) __Time of payment__ 
 

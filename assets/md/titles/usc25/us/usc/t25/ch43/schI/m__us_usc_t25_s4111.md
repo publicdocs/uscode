@@ -45,7 +45,7 @@
 
     (c) __Local cooperation agreement__ 
 
-        Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for rental or lease-purchase homeownership units that are owned by the recipient for the tribe unless the governing body of the locality within which the property subject to the development activities to be assisted with the grant amounts is or will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter. The Secretary may waive the requirements of this subsection and subsection (d) of this section if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) of this section and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) of this section until such time as the matter of making such payments has been resolved in accordance with subsection (d) of this section.
+        Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for rental or lease-purchase homeownership units that are owned by the recipient for the tribe unless the governing body of the locality within which the property subject to the development activities to be assisted with the grant amounts is or will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter. The Secretary may waive the requirements of this subsection and subsection (d) if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) until such time as the matter of making such payments has been resolved in accordance with subsection (d).
 
     (d) __Exemption from taxation__ 
 
@@ -59,13 +59,13 @@
 
             (A) is prescribed by State, tribal, or local law;
 
-            (B) is agreed to by the local governing body in the agreement under subsection (c) of this section; or
+            (B) is agreed to by the local governing body in the agreement under subsection (c); or
 
             (C) the recipient and the local governing body agree that such user fees or payments in lieu of taxes shall not be made.
 
     (e) __Effect of failure to exempt from taxation__ 
 
-        Notwithstanding subsection (d) of this section, a grant recipient that does not comply with the requirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2) of this section.
+        Notwithstanding subsection (d), a grant recipient that does not comply with the requirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2).
 
     (f) __Amount__ 
 
@@ -77,7 +77,7 @@
 
     (g) __Use for affordable housing activities under plan__ 
 
-        Except as provided in subsection (h) of this section and part B of subchapter II, amounts provided under a grant under this section may be used only for affordable housing activities under subchapter II of this chapter that are consistent with an Indian housing plan approved under [section 4113 of this title][/us/usc/t25/s4113].
+        Except as provided in subsection (h) of this section and part B of subchapter II, amounts provided under a grant under this section may be used only for affordable housing activities under subchapter II that are consistent with an Indian housing plan approved under [section 4113 of this title][/us/usc/t25/s4113].
 
     (h) __Administrative and planning expenses__ 
 
@@ -119,7 +119,7 @@
 
     2000—Subsec. (b)(2). [Pub. L. 106–568, § 1003(a)(1)][/us/pl/106/568/s1003/a/1], and [Pub. L. 106–569, § 503(a)(1)][/us/pl/106/569/s503/a/1], amended par. (2) identically, substituting “for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.” for “if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.”
 
-    Subsec. (c). [Pub. L. 106–568, § 1003(a)(2)][/us/pl/106/568/s1003/a/2], and [Pub. L. 106–569, § 503(a)(2)][/us/pl/106/569/s503/a/2], amended subsec. (c) identically, inserting at end “The Secretary may waive the requirements of this subsection and subsection (d) of this section if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) of this section and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) of this section until such time as the matter of making such payments has been resolved in accordance with subsection (d) of this section.”
+    Subsec. (c). [Pub. L. 106–568, § 1003(a)(2)][/us/pl/106/568/s1003/a/2], and [Pub. L. 106–569, § 503(a)(2)][/us/pl/106/569/s503/a/2], amended subsec. (c) identically, inserting at end “The Secretary may waive the requirements of this subsection and subsection (d) if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) until such time as the matter of making such payments has been resolved in accordance with subsection (d).”
 
     1998—Subsec. (c). [Pub. L. 105–276, § 595(e)(3)][/us/pl/105/276/s595/e/3], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
 

@@ -21,11 +21,11 @@
 
     (b) __Referral of data__ 
 
-        The data compiled pursuant to subsection (a) of this section shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
+        The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     (c) __Confidentiality__ 
 
-        In carrying out the requirements of subsections (a) and (b) of this section, the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals.
+        In carrying out the requirements of subsections (a) and (b), the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals.
 
 ([Pub. L. 99–570, title IV, § 4214][/us/pl/99/570/s4214], Oct. 27, 1986, [100 Stat. 3207–145][/us/stat/100/3207-145].)
 

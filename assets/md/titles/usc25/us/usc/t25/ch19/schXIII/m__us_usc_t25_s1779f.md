@@ -51,7 +51,7 @@
 
             (A) __In general__ 
 
-                Not later than 180 days after December 13, 2002, any claimant tribe that claims that any title, interest, or entitlement held by the claimant tribe has been extinguished by operation of [section 1779c(a) of this title][/us/usc/t25/s1779c/a] or subsection (a) of this section may file a claim against the United States relating to the extinguishment in the United States Court of Federal Claims.
+                Not later than 180 days after December 13, 2002, any claimant tribe that claims that any title, interest, or entitlement held by the claimant tribe has been extinguished by operation of [section 1779c(a) of this title][/us/usc/t25/s1779c/a] or subsection (a) may file a claim against the United States relating to the extinguishment in the United States Court of Federal Claims.
 
             (B) __Failure to file__ 
 
@@ -109,7 +109,7 @@
 
     Congress declares that—
 
-        (1) subsection (b) of this section is intended only to establish a process by which alleged claims may be resolved; and
+        (1) subsection (b) is intended only to establish a process by which alleged claims may be resolved; and
 
         (2) nothing in this section acknowledges, enhances, or establishes any prior right, title, or interest of any claimant tribe in or to the Arkansas Riverbed.
 

@@ -21,7 +21,7 @@
 
     (b) __University of North Dakota__ 
 
-        The Secretary shall provide one of the grants authorized under subsection (a) of this section to maintain the INMED program at the University of North Dakota, to be known as the “Quentin N. Burdick Indian Health Programs”, unless the Secretary makes a determination, based upon program reviews, that the program is not meeting the purposes of this section. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under [section 1621p(b) of this title][/us/usc/t25/s1621p/b] and the Quentin N. Burdick American Indians Into Nursing Program established under [section 1616e(e) of this title][/us/usc/t25/s1616e/e].
+        The Secretary shall provide one of the grants authorized under subsection (a) to maintain the INMED program at the University of North Dakota, to be known as the “Quentin N. Burdick Indian Health Programs”, unless the Secretary makes a determination, based upon program reviews, that the program is not meeting the purposes of this section. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under [section 1621p(b) of this title][/us/usc/t25/s1621p/b] and the Quentin N. Burdick American Indians Into Nursing Program established under [section 1616e(e) of this title][/us/usc/t25/s1616e/e].
 
     (c) __Regulations; contents of recruitment program__ 
 

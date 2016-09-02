@@ -43,7 +43,7 @@
 
     (b) __Procedure__ 
 
-        The Secretary shall approve the release of funds subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the tribe has submitted to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c) of this section. The approval of the Secretary of any such certification shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for projects to be carried out pursuant thereto that are covered by such certification.
+        The Secretary shall approve the release of funds subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the tribe has submitted to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c). The approval of the Secretary of any such certification shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for projects to be carried out pursuant thereto that are covered by such certification.
 
     (c) __Certification__ 
 
@@ -53,13 +53,13 @@
 
         (2) be executed by the chief executive officer or other officer of the tribe under this chapter qualified under regulations of the Secretary;
 
-        (3) specify that the tribe has fully carried out its responsibilities as described under subsection (a) of this section; and
+        (3) specify that the tribe has fully carried out its responsibilities as described under subsection (a); and
 
         (4)
 
          specify that the certifying officer—
 
-            (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a) of this section; and
+            (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a); and
 
             (B) is authorized and consents on behalf of the tribe and such officer to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the certifying officer as such an official.
 
@@ -71,7 +71,7 @@
 
         (2) does not threaten the health or safety of the community involved by posing an immediate or long-term hazard to residents of that community;
 
-        (3) is a result of inadvertent error, including an incorrect or incomplete certification provided under subsection (c)(1) of this section; and
+        (3) is a result of inadvertent error, including an incorrect or incomplete certification provided under subsection (c)(1); and
 
         (4) may be corrected through the sole action of the recipient.
 

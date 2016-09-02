@@ -29,7 +29,7 @@
 
     (b) __Ownership by non-Indians__ 
 
-        Any land or minerals received by a person who is not an Indian in an exchange referred to in subsection (a) of this section shall be owned in fee.
+        Any land or minerals received by a person who is not an Indian in an exchange referred to in subsection (a) shall be owned in fee.
 
 ([Pub. L. 103–444, § 8][/us/pl/103/444/s8], Nov. 2, 1994, [108 Stat. 4640][/us/stat/108/4640].)
 

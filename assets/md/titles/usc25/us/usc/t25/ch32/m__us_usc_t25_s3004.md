@@ -23,7 +23,7 @@
 
         (1)
 
-         The summary required under subsection (a) of this section shall be—
+         The summary required under subsection (a) shall be—
 
             (A) in lieu of an object-by-object inventory;
 

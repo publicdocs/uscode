@@ -37,7 +37,7 @@
 
     (c) __Conclusive proof of Paskenta Indian ancestry__ 
 
-        For the purpose of subsection (b) of this section, the Secretary shall accept any available evidence establishing Paskenta Indian ancestry. The Secretary shall accept as conclusive evidence of Paskenta Indian ancestry, information contained in the census of the Indians in and near Paskenta, prepared by Special Indian Agent John J. Terrell, in any other roll or census of Paskenta Indians prepared by the Bureau of Indian Affairs, and in the Paskenta Indian Rancheria distribution list, compiled by the Bureau of Indian Affairs on February 26, 1959.
+        For the purpose of subsection (b), the Secretary shall accept any available evidence establishing Paskenta Indian ancestry. The Secretary shall accept as conclusive evidence of Paskenta Indian ancestry, information contained in the census of the Indians in and near Paskenta, prepared by Special Indian Agent John J. Terrell, in any other roll or census of Paskenta Indians prepared by the Bureau of Indian Affairs, and in the Paskenta Indian Rancheria distribution list, compiled by the Bureau of Indian Affairs on February 26, 1959.
 
 ([Pub. L. 103–454, title III, § 306][/us/pl/103/454/s306], Nov. 2, 1994, [108 Stat. 4794][/us/stat/108/4794].)
 

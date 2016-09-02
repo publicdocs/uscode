@@ -25,7 +25,7 @@
 
     (c) __Notification__ 
 
-    The Secretary shall use the best available means of notifying each individual who is identified in the search conducted under subsection (a) of this section of the right of such individual to receive payment under this chapter. The means of notification available to the Secretary shall include—
+    The Secretary shall use the best available means of notifying each individual who is identified in the search conducted under subsection (a) of the right of such individual to receive payment under this chapter. The means of notification available to the Secretary shall include—
 
         (1) notice provided directly to such individual;
 

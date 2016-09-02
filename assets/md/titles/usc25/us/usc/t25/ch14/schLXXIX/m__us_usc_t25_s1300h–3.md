@@ -17,7 +17,7 @@
 
     (a) __Submission of membership roll__ 
 
-        Within six months after September 8, 1988, the Band shall submit to the Secretary, for approval, its base membership roll which shall include only individuals who are not members of any other federally recognized Indian tribe or who have relinquished membership in such tribe and who are eligible for membership under subsection (b) of this section.
+        Within six months after September 8, 1988, the Band shall submit to the Secretary, for approval, its base membership roll which shall include only individuals who are not members of any other federally recognized Indian tribe or who have relinquished membership in such tribe and who are eligible for membership under subsection (b).
 
     (b) __Eligibility__ 
 

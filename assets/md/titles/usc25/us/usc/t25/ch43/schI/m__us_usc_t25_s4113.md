@@ -23,11 +23,11 @@
 
         (2) __Notice__ 
 
-            The Secretary shall notify each Indian tribe for which a plan is submitted and any tribally designated housing entity for the tribe whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the Indian tribe, as required under this subsection and subsection (b) of this section, the plan shall be considered, for purposes of this chapter, to have been determined to comply with the requirements under [section 4112 of this title][/us/usc/t25/s4112] and the tribe shall be considered to have been notified of compliance upon the expiration of such 60-day period.
+            The Secretary shall notify each Indian tribe for which a plan is submitted and any tribally designated housing entity for the tribe whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the Indian tribe, as required under this subsection and subsection (b), the plan shall be considered, for purposes of this chapter, to have been determined to comply with the requirements under [section 4112 of this title][/us/usc/t25/s4112] and the tribe shall be considered to have been notified of compliance upon the expiration of such 60-day period.
 
     (b) __Notice of reasons for determination of noncompliance__ 
 
-        If the Secretary determines that a plan, as submitted, does not comply with the requirements under [section 4112 of this title][/us/usc/t25/s4112], the Secretary shall specify in the notice under subsection (a) of this section the reasons for the noncompliance and any modifications necessary for the plan to meet the requirements under [section 4112 of this title][/us/usc/t25/s4112].
+        If the Secretary determines that a plan, as submitted, does not comply with the requirements under [section 4112 of this title][/us/usc/t25/s4112], the Secretary shall specify in the notice under subsection (a) the reasons for the noncompliance and any modifications necessary for the plan to meet the requirements under [section 4112 of this title][/us/usc/t25/s4112].
 
     (c) __Review__ 
 
@@ -49,7 +49,7 @@
 
     Notwithstanding any other provision of this section, the Secretary—
 
-        (1) shall review the information included in an Indian housing plan pursuant to subsections (b)(4)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Subsec. (b) of this section does not contain a par. (4). </sup></sup>  and (c)(7)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Subsec. (c) of this section does not contain a par. (7). </sup></sup>  only to determine whether the information is included for purposes of compliance with the requirement under section 4145a(b)(2)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. [Section 4145a(b) of this title][/us/usc/t25/s4145a/b] does not contain a par. (2). </sup></sup>  of this title; and
+        (1) shall review the information included in an Indian housing plan pursuant to subsections (b)(4)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Subsec. (b) does not contain a par. (4). </sup></sup>  and (c)(7)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Subsec. (c) does not contain a par. (7). </sup></sup>  only to determine whether the information is included for purposes of compliance with the requirement under section 4145a(b)(2)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. [Section 4145a(b) of this title][/us/usc/t25/s4145a/b] does not contain a par. (2). </sup></sup>  of this title; and
 
         (2) may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) 2 and (c)(7).3
 

@@ -17,11 +17,11 @@
 
     (a) __Provision of information__ 
 
-        Notwithstanding any other provision of law, except as provided in subsection (b) of this section, the National Crime Information Center, police departments, and other law enforcement agencies shall, upon request, provide information to Indian tribes or tribally designated housing entities regarding the criminal conviction records of applicants for employment, and of adult applicants for, or tenants of, housing assisted with grant amounts provided to such tribe or entity under this chapter for purposes of applicant screening, lease enforcement, and eviction.
+        Notwithstanding any other provision of law, except as provided in subsection (b), the National Crime Information Center, police departments, and other law enforcement agencies shall, upon request, provide information to Indian tribes or tribally designated housing entities regarding the criminal conviction records of applicants for employment, and of adult applicants for, or tenants of, housing assisted with grant amounts provided to such tribe or entity under this chapter for purposes of applicant screening, lease enforcement, and eviction.
 
     (b) __Exception__ 
 
-        A law enforcement agency described in subsection (a) of this section shall provide information under this paragraph relating to any criminal conviction of a juvenile only to the extent that the release of such information is authorized under the law of the applicable State, tribe, or locality.
+        A law enforcement agency described in subsection (a) shall provide information under this paragraph relating to any criminal conviction of a juvenile only to the extent that the release of such information is authorized under the law of the applicable State, tribe, or locality.
 
     (c) __Confidentiality__ 
 
@@ -37,9 +37,9 @@
 
     2008—Subsec. (a). [Pub. L. 110–411][/us/pl/110/411] inserted “applicants for employment, and of” after “records of”.
 
-    1998—Subsec. (a). [Pub. L. 105–276, § 595(e)(10)(A)][/us/pl/105/276/s595/e/10/A], substituted “subsection (b) of this section” for “paragraph (2)”.
+    1998—Subsec. (a). [Pub. L. 105–276, § 595(e)(10)(A)][/us/pl/105/276/s595/e/10/A], substituted “subsection (b)” for “paragraph (2)”.
 
-    Subsec. (b). [Pub. L. 105–276, § 595(e)(10)(B)][/us/pl/105/276/s595/e/10/B], substituted “subsection (a) of this section” for “paragraph (1)”.
+    Subsec. (b). [Pub. L. 105–276, § 595(e)(10)(B)][/us/pl/105/276/s595/e/10/B], substituted “subsection (a)” for “paragraph (1)”.
 
  __Effective Date__ 
 

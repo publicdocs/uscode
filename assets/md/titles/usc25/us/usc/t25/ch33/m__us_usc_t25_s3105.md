@@ -21,7 +21,7 @@
 
     (b) __Amount of deduction__ 
 
-    Deductions made pursuant to subsection (a) of this section shall not exceed the lesser amount of—
+    Deductions made pursuant to subsection (a) shall not exceed the lesser amount of—
 
         (1) 10 percent of gross proceeds, or
 

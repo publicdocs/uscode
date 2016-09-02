@@ -21,7 +21,7 @@
 
     (b) __Deadline for filing__ 
 
-        Effective with the termination of the period specified in subsection (a) of this section, no court shall have jurisdiction over any action to contest the constitutionality of this subchapter or the validity of any agreement entered into under the authority of this subchapter or approved by this subchapter, unless such action was filed prior to the date of termination of the period specified in subsection (a) of this section.
+        Effective with the termination of the period specified in subsection (a), no court shall have jurisdiction over any action to contest the constitutionality of this subchapter or the validity of any agreement entered into under the authority of this subchapter or approved by this subchapter, unless such action was filed prior to the date of termination of the period specified in subsection (a).
 
 ([Pub. L. 103–377, § 10][/us/pl/103/377/s10], Oct. 19, 1994, [108 Stat. 3507][/us/stat/108/3507].)
 

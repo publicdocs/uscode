@@ -21,7 +21,7 @@
 
     (b) __Purposes__ 
 
-    Grants provided under subsection (a) of this section may be used to—
+    Grants provided under subsection (a) may be used to—
 
         (1) establish clinics, to be run and staffed by the faculty and students of a grantee school, to provide primary care services in areas in or within 50 miles of Indian country (as defined in [section 1151 of title 18][/us/usc/t18/s1151]);
 

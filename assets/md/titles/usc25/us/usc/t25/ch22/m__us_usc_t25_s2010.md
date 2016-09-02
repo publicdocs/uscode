@@ -145,7 +145,7 @@
 
             (A) __In general__ 
 
-                A financial plan under subsection (b) of this section for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
+                A financial plan under subsection (b) for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
 
             (B) __Prevention activities__ 
 

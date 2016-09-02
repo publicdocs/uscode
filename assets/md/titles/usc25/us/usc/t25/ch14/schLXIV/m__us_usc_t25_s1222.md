@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1221.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1223.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1222)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1221.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1223.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1222)
 
 ## § 1222. Disposition of funds: improvement and maintenance of Peoria Indian Cemetery; distribution of balance in equal shares
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1221.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV /m__us_usc_t25_s1223.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1222)
+[Previous](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1221.md) | [Next](./../../../../..//us/usc/t25/ch14/schLXIV/m__us_usc_t25_s1223.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1222)
 
 ----------
 ----------

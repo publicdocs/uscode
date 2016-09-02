@@ -67,13 +67,13 @@
 
     (b) __Pro rata allotment__ 
 
-        Notwithstanding any other provision of law, Federal funds appropriated for the general local operation of Bureau-funded schools shall be allotted pro rata in accordance with the formula established under subsection (a) of this section.
+        Notwithstanding any other provision of law, Federal funds appropriated for the general local operation of Bureau-funded schools shall be allotted pro rata in accordance with the formula established under subsection (a).
 
     (c) __Annual adjustment; reservation of amount for school board activities__ 
 
         (1) __Annual adjustment__ 
 
-        For fiscal year 2003, and for each subsequent fiscal year, the Secretary shall adjust the formula established under subsection (a) of this section to ensure that the formula does the following:
+        For fiscal year 2003, and for each subsequent fiscal year, the Secretary shall adjust the formula established under subsection (a) to ensure that the formula does the following:
 
             (A) Uses a weighted unit of 1.2 for each eligible Indian student enrolled in the seventh and eighth grades of the school in considering the number of eligible Indian students served by the school.
 
@@ -103,7 +103,7 @@
 
             (A) __In general__ 
 
-            From the funds allotted in accordance with the formula established under subsection (a) of this section for each Bureau school, the local school board of such school may reserve an amount which does not exceed the greater of—
+            From the funds allotted in accordance with the formula established under subsection (a) for each Bureau school, the local school board of such school may reserve an amount which does not exceed the greater of—
 
                 (i) $8,000; or
 
@@ -193,7 +193,7 @@
 
         (1) __In general__ 
 
-            Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 2 of this title, at a rate not to exceed the weighted amount provided for under subsection (b) of this section for a student for that year.
+            Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 2 of this title, at a rate not to exceed the weighted amount provided for under subsection (b) for a student for that year.
 
         (2) __No administrative cost funds__ 
 

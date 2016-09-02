@@ -25,7 +25,7 @@
 
     (c) __Interest of surviving spouse__ 
 
-        When a person who is prohibited by subsection (a) of this section from acquiring any interest by devise or inheritance is a surviving spouse of the decedent, a life estate in one-half of the interest acquired by the Yakima Tribes shall, on the request of such spouse, be reserved for that spouse and the value of such life estate so reserved shall be reflected in the Secretary’s appraisal under subsection (a) of this section.
+        When a person who is prohibited by subsection (a) from acquiring any interest by devise or inheritance is a surviving spouse of the decedent, a life estate in one-half of the interest acquired by the Yakima Tribes shall, on the request of such spouse, be reserved for that spouse and the value of such life estate so reserved shall be reflected in the Secretary’s appraisal under subsection (a).
 
 ([Aug. 9, 1946, ch. 933, § 7][/us/act/1946-08-09/ch933/s7], [60 Stat. 969][/us/stat/60/969]; [Pub. L. 91–627, § 1][/us/pl/91/627/s1], Dec. 31, 1970, [84 Stat. 1874][/us/stat/84/1874].)
 

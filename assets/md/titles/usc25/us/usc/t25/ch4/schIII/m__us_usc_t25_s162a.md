@@ -35,7 +35,7 @@
 
         (1)
 
-         Notwithstanding subsection (a) of this section, the Secretary of the Interior, at the request of any Indian tribe, in the case of trust funds of such tribe, or any individual Indian, in the case of trust funds of such individual, is authorized to invest such funds, or any part thereof, in guaranteed or public debt obligations of the United States or in a mutual fund, otherwise known as an open-ended diversified investment management company if—
+         Notwithstanding subsection (a), the Secretary of the Interior, at the request of any Indian tribe, in the case of trust funds of such tribe, or any individual Indian, in the case of trust funds of such individual, is authorized to invest such funds, or any part thereof, in guaranteed or public debt obligations of the United States or in a mutual fund, otherwise known as an open-ended diversified investment management company if—
 
             (A) the portfolio of such mutual fund consists entirely of public-debt obligations of the United States, or bonds, notes, or other obligations which are unconditionally guaranteed as to both interest and principal by the United States, or a combination thereof;
 

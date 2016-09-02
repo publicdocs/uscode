@@ -27,7 +27,7 @@
 
     (b) __Contents__ 
 
-    The report under subsection (a) of this section shall—
+    The report under subsection (a) shall—
 
         (1) be compiled from information contained in funding agreements, annual audit reports, and data of the Secretary regarding the disposition of Federal funds; and
 
@@ -41,7 +41,7 @@
 
             (C) the funds transferred to each self-governance Indian tribe and the corresponding reduction in the Federal bureaucracy;
 
-            (D) the funding formula for individual tribal shares of all headquarters funds, together with the comments of affected Indian tribes or tribal organizations, developed under subsection (c) of this section; and
+            (D) the funding formula for individual tribal shares of all headquarters funds, together with the comments of affected Indian tribes or tribal organizations, developed under subsection (c); and
 
             (E) amounts expended in the preceding fiscal year to carry out inherent Federal functions, including an identification of those functions by type and location;
 

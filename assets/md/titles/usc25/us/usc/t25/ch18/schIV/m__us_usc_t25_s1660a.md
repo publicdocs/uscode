@@ -21,11 +21,11 @@
 
     (b) __Goals of grant__ 
 
-        Each grant made pursuant to subsection (a) of this section shall set forth the goals to be accomplished pursuant to the grant. The goals shall be specific to each grant as agreed to between the Secretary and the grantee.
+        Each grant made pursuant to subsection (a) shall set forth the goals to be accomplished pursuant to the grant. The goals shall be specific to each grant as agreed to between the Secretary and the grantee.
 
     (c) __Criteria__ 
 
-    The Secretary shall establish criteria for the grants made under subsection (a) of this section, including criteria relating to the—
+    The Secretary shall establish criteria for the grants made under subsection (a), including criteria relating to the—
 
         (1) size of the urban Indian population;
 
@@ -43,7 +43,7 @@
 
     (d) __Treatment of funds received by urban Indian organizations__ 
 
-        Any funds received by an urban Indian organization under this chapter for substance abuse prevention, treatment, and rehabilitation shall be subject to the criteria set forth in subsection (c) of this section.
+        Any funds received by an urban Indian organization under this chapter for substance abuse prevention, treatment, and rehabilitation shall be subject to the criteria set forth in subsection (c).
 
 ([Pub. L. 94–437, title V, § 511][/us/pl/94/437/s511], as added [Pub. L. 102–573, title V, § 502][/us/pl/102/573/s502], Oct. 29, 1992, [106 Stat. 4569][/us/stat/106/4569].)
 

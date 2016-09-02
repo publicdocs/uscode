@@ -17,7 +17,7 @@
 
     (a) __Yurok Tribe__ 
 
-        (1) Those persons on the Settlement Roll who made a valid election pursuant to subsection (c) of [section 1300i–5 of this title][/us/usc/t25/s1300i–5] shall constitute the base membership roll for the Yurok Tribe whose status as an Indian tribe, subject to the adoption of the Interim Council resolution as required by subsection (d)(2) of this section, is hereby ratified and confirmed.
+        (1) Those persons on the Settlement Roll who made a valid election pursuant to subsection (c) of [section 1300i–5 of this title][/us/usc/t25/s1300i–5] shall constitute the base membership roll for the Yurok Tribe whose status as an Indian tribe, subject to the adoption of the Interim Council resolution as required by subsection (d)(2), is hereby ratified and confirmed.
 
         (2) The Indian Reorganization Act of June 18, 1934 ([48 Stat. 984][/us/stat/48/984]; [25 U.S.C. 461][/us/usc/t25/s461] et seq.), as amended, is hereby made applicable to the Yurok Tribe and the tribe may organize under such Act as provided in this section.
 
@@ -25,7 +25,7 @@
 
     (b) __Interim Council; establishment__ 
 
-        There shall be established an Interim Council of the Yurok Tribe to be composed of five members. The Interim Council shall represent the Yurok Tribe in the implementation of provisions of this subchapter, including the organizational provisions of this section, and subject to subsection (d) of this section shall be the governing body of the tribe until such time as a tribal council is elected under a constitution adopted pursuant to subsection (e) of this section.
+        There shall be established an Interim Council of the Yurok Tribe to be composed of five members. The Interim Council shall represent the Yurok Tribe in the implementation of provisions of this subchapter, including the organizational provisions of this section, and subject to subsection (d) shall be the governing body of the tribe until such time as a tribal council is elected under a constitution adopted pursuant to subsection (e).
 
     (c) __General council; election of Interim Council__ 
 
@@ -55,13 +55,13 @@
 
         (3) The Interim Council shall have such other powers, authorities, functions, and responsibilities as the Secretary may recognize, except that any contract or legal obligation that would bind the Yurok Tribe for a period in excess of two years from the date of the certification of the election by the Secretary shall be subject to disapproval and cancellation by the Secretary if the Secretary determines that such a contract or legal obligation is unnecessary to improve housing conditions of members of the Yurok Tribe, or to obtain other rights, privileges or benefits that are in the long-term interest of the Yurok Tribe.
 
-        (4) The Interim Council shall appoint, as soon as practical, a drafting committee which shall be responsible, in consultation with the Interim Council, the Secretary and members of the tribe, for the preparation of a draft constitution for submission to the Secretary pursuant to subsection (e) of this section.
+        (4) The Interim Council shall appoint, as soon as practical, a drafting committee which shall be responsible, in consultation with the Interim Council, the Secretary and members of the tribe, for the preparation of a draft constitution for submission to the Secretary pursuant to subsection (e).
 
-        (5) The Interim Council shall be dissolved effective with the election and installation of the initial tribe  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “tribal”. </sup></sup>  governing body elected pursuant to the constitution adopted under subsection (e) of this section or at the end of two years after such installation, whichever occurs first.
+        (5) The Interim Council shall be dissolved effective with the election and installation of the initial tribe  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “tribal”. </sup></sup>  governing body elected pursuant to the constitution adopted under subsection (e) or at the end of two years after such installation, whichever occurs first.
 
     (e) __Organization of Yurok Tribe__ 
 
-        Upon written request of the Interim Council or the drafting committee and the submission of a draft constitution as provided in paragraph (4) of subsection (d) of this section, the Secretary shall conduct an election, pursuant to the provisions of the Indian Reorganization Act of June 18, 1934 ([25 U.S.C. 461][/us/usc/t25/s461] et seq.) and rules and regulations promulgated thereunder, for the adoption of such constitution and, working with the Interim Council, the election of the initial tribal governing body upon the adoption of such constitution.
+        Upon written request of the Interim Council or the drafting committee and the submission of a draft constitution as provided in paragraph (4) of subsection (d), the Secretary shall conduct an election, pursuant to the provisions of the Indian Reorganization Act of June 18, 1934 ([25 U.S.C. 461][/us/usc/t25/s461] et seq.) and rules and regulations promulgated thereunder, for the adoption of such constitution and, working with the Interim Council, the election of the initial tribal governing body upon the adoption of such constitution.
 
 ([Pub. L. 100–580, § 9][/us/pl/100/580/s9], Oct. 31, 1988, [102 Stat. 2932][/us/stat/102/2932]; [Pub. L. 101–121, title III, § 315][/us/pl/101/121/s315], Oct. 23, 1989, [103 Stat. 744][/us/stat/103/744]; [Pub. L. 101–301, § 9(3)][/us/pl/101/301/s9/3], May 24, 1990, [104 Stat. 211][/us/stat/104/211].)
 

@@ -21,7 +21,7 @@
 
     (b) __Referral of data__ 
 
-        The data compiled pursuant to subsection (a) of this section shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “service”. </sup></sup>  unit director who will have the responsibility for compiling a tribal comprehensive report as provided in section 2477  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title.
+        The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “service”. </sup></sup>  unit director who will have the responsibility for compiling a tribal comprehensive report as provided in section 2477  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title.
 
     (c) __Confidentiality__ 
 

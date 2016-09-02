@@ -21,7 +21,7 @@
 
     (b) __Appropriated amounts__ 
 
-        Subsection (a) of this section shall not apply if the total amount appropriated to the Service for a fiscal year is less than the amount appropriated to the Service for previous fiscal year.
+        Subsection (a) shall not apply if the total amount appropriated to the Service for a fiscal year is less than the amount appropriated to the Service for previous fiscal year.
 
 ([Pub. L. 94–437, title VIII, § 817][/us/pl/94/437/s817], formerly title VII, § 717, as added [Pub. L. 100–713, title VII, § 711][/us/pl/100/713/s711], Nov. 23, 1988, [102 Stat. 4833][/us/stat/102/4833]; renumbered title VIII, § 817, and amended [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), title VIII, § 805, Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572], 4585.)
 

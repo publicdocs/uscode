@@ -27,7 +27,7 @@
 
             (A) invite public comments regarding such transition requirements and final regulations to carry out this chapter; and
 
-            (B) include a general notice of proposed rulemaking (for purposes of [section 564(a) of title 5][/us/usc/t5/s564/a]) of the final regulations under subsection (b) of this section.
+            (B) include a general notice of proposed rulemaking (for purposes of [section 564(a) of title 5][/us/usc/t5/s564/a]) of the final regulations under subsection (b).
 
     (b) __Final regulations__ 
 

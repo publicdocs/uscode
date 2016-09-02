@@ -19,7 +19,7 @@
 
     Each self-determination contract entered into under this subchapter shall—
 
-        (1) contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) of this section (with modifications where indicated and the blanks appropriately filled in), and
+        (1) contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) (with modifications where indicated and the blanks appropriately filled in), and
 
         (2) contain such other provisions as are agreed to by the parties.
 
@@ -29,7 +29,7 @@
 
     (c) __Model agreement__ 
 
-        The model agreement referred to in subsection (a)(1) of this section reads as follows:
+        The model agreement referred to in subsection (a)(1) reads as follows:
 
 ----------
 

@@ -21,7 +21,7 @@
 
     (b) __Authorized uses__ 
 
-        Funds appropriated under the authority of subsection (a) of this section may be used by the Commissioner for grants, contracts, or expenditures which significantly assist the Commissioner or assist the Navajo Tribe or Hopi Tribe in meeting the burdens imposed by this subchapter.
+        Funds appropriated under the authority of subsection (a) may be used by the Commissioner for grants, contracts, or expenditures which significantly assist the Commissioner or assist the Navajo Tribe or Hopi Tribe in meeting the burdens imposed by this subchapter.
 
     (c) __Funding and construction of Hopi high school and medical center__ 
 

@@ -17,7 +17,7 @@
 
     (a) __Partition of the joint reservation__ 
 
-        (1) Effective with the publication in the Federal Register of the Hoopa tribal resolution as provided in paragraph (2), the joint reservation shall be partitioned as provided in subsections (b) and (c) of this section.
+        (1) Effective with the publication in the Federal Register of the Hoopa tribal resolution as provided in paragraph (2), the joint reservation shall be partitioned as provided in subsections (b) and (c).
 
         (2)
 
@@ -33,11 +33,11 @@
 
     (b) __Hoopa Valley Reservation__ 
 
-        Effective with the partition of the joint reservation as provided in subsection (a) of this section, the area of land known as the “square” (defined as the Hoopa Valley Reservation established under [section 2 of the Act of April 8, 1864][/us/act/1864-04-08/s2] ([13 Stat. 40][/us/stat/13/40]), the Executive Order of June 23, 1876, and Executive Order 1480 of February 17, 1912) shall thereafter be recognized and established as the Hoopa Valley Reservation. The unallotted trust land and assets of the Hoopa Valley Reservation shall thereafter be held in trust by the United States for the benefit of the Hoopa Valley Tribe.
+        Effective with the partition of the joint reservation as provided in subsection (a), the area of land known as the “square” (defined as the Hoopa Valley Reservation established under [section 2 of the Act of April 8, 1864][/us/act/1864-04-08/s2] ([13 Stat. 40][/us/stat/13/40]), the Executive Order of June 23, 1876, and Executive Order 1480 of February 17, 1912) shall thereafter be recognized and established as the Hoopa Valley Reservation. The unallotted trust land and assets of the Hoopa Valley Reservation shall thereafter be held in trust by the United States for the benefit of the Hoopa Valley Tribe.
 
     (c) __Yurok Reservation__ 
 
-        (1) Effective with the partition of the joint reservation as provided in subsection (a) of this section, the area of land known as the “extension” (defined as the reservation extension under the Executive Order of October 16, 1891, but excluding the Resighini Rancheria) shall thereafter be recognized and established as the Yurok Reservation. The unallotted trust land and assets of the Yurok Reservation shall thereafter be held in trust by the United States for the benefit of the Yurok Tribe.
+        (1) Effective with the partition of the joint reservation as provided in subsection (a), the area of land known as the “extension” (defined as the reservation extension under the Executive Order of October 16, 1891, but excluding the Resighini Rancheria) shall thereafter be recognized and established as the Yurok Reservation. The unallotted trust land and assets of the Yurok Reservation shall thereafter be held in trust by the United States for the benefit of the Yurok Tribe.
 
         (2)
 

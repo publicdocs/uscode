@@ -23,7 +23,7 @@
 
     (b) __Eligibility__ 
 
-        (1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) of this section for the purpose of maintaining the program and recruiting students for the program.
+        (1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) for the purpose of maintaining the program and recruiting students for the program.
 
         (2)
 
@@ -43,11 +43,11 @@
 
             (D) has a qualified staff which has the appropriate certifications, and
 
-            (E) is capable of obtaining State or regional accreditation of the program described in subsection (a)(1) of this section.
+            (E) is capable of obtaining State or regional accreditation of the program described in subsection (a)(1).
 
     (c) __Agreements and technical assistance__ 
 
-    The Secretary shall encourage community colleges described in subsection (b)(2) of this section to establish and maintain programs described in subsection (a)(1) of this section by—
+    The Secretary shall encourage community colleges described in subsection (b)(2) to establish and maintain programs described in subsection (a)(1) by—
 
         (1) entering into agreements with such colleges for the provision of qualified personnel of the Service to teach courses of study in such programs, and
 
@@ -61,7 +61,7 @@
 
         (2) provides clinical services on an Indian reservation, at a Service facility, or at a tribal clinic.
 
-        Such courses of study may be offered in conjunction with the college or university with which the community college has entered into the agreement required under subsection (b)(2)(C) of this section.
+        Such courses of study may be offered in conjunction with the college or university with which the community college has entered into the agreement required under subsection (b)(2)(C).
 
     (e) __Definitions__ 
 

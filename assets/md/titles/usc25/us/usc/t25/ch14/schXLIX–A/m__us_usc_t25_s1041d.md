@@ -21,7 +21,7 @@
 
     (b) __Constitution__ 
 
-        Notwithstanding subsection (a) of this section, the Tribe shall have a right to reorganize its tribal government pursuant to [section 503 of this title][/us/usc/t25/s503].
+        Notwithstanding subsection (a), the Tribe shall have a right to reorganize its tribal government pursuant to [section 503 of this title][/us/usc/t25/s503].
 
 ([Pub. L. 106–568, title VII, § 706][/us/pl/106/568/s706], Dec. 27, 2000, [114 Stat. 2915][/us/stat/114/2915].)
 

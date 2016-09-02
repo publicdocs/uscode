@@ -21,7 +21,7 @@
 
     (b) __Term__ 
 
-        Each lease pursuant to subsection (a) of this section shall be for a term not exceeding 50 years.
+        Each lease pursuant to subsection (a) shall be for a term not exceeding 50 years.
 
     (c) __Rule of construction__ 
 

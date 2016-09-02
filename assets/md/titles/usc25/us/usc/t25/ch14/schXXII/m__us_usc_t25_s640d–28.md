@@ -35,7 +35,7 @@
 
     (d) __Number of leases; priorities__ 
 
-        The Commissioner shall have authority to award life estate leases to not more than one hundred and twenty applicants with first priority being given to applicants listed pursuant to subsection (c)(A) of this section and the next priority being given to the applicants listed pursuant to subsection (c)(B) of this section, in order of such listing.
+        The Commissioner shall have authority to award life estate leases to not more than one hundred and twenty applicants with first priority being given to applicants listed pursuant to subsection (c)(A) and the next priority being given to the applicants listed pursuant to subsection (c)(B), in order of such listing.
 
     (e) __Area; allowable livestock; assistance by Secretary in feeding livestock__ 
 

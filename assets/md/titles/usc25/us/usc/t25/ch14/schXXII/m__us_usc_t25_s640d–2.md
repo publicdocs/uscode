@@ -21,7 +21,7 @@
 
     (b) __Partial agreement__ 
 
-        If, within the one hundred and eighty day period referred to in subsection (a) of this section, a partial agreement has been reached between the tribes and they wish such partial agreement to go into effect, they shall follow the procedure set forth in subsection (a) of this section. The partial agreement shall then be considered by the Mediator in preparing his report, and the District Court in making a final adjudication, pursuant to [section 640d–3 of this title][/us/usc/t25/s640d–3].
+        If, within the one hundred and eighty day period referred to in subsection (a) of this section, a partial agreement has been reached between the tribes and they wish such partial agreement to go into effect, they shall follow the procedure set forth in said subsection (a). The partial agreement shall then be considered by the Mediator in preparing his report, and the District Court in making a final adjudication, pursuant to [section 640d–3 of this title][/us/usc/t25/s640d–3].
 
     (c) __Consistency with existing law__ 
 

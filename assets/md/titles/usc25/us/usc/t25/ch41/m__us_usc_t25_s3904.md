@@ -31,7 +31,7 @@
 
     (b) __Assistance__ 
 
-    Upon completion of the activities required to be performed pursuant to subsection (a) of this section, the Director shall, subject to subsection (c) of this section, provide financial and technical assistance to the Indian tribal government or Alaska Native entity to carry out the activities necessary to—
+    Upon completion of the activities required to be performed pursuant to subsection (a), the Director shall, subject to subsection (c), provide financial and technical assistance to the Indian tribal government or Alaska Native entity to carry out the activities necessary to—
 
         (1) close such dumps; and
 
@@ -39,7 +39,7 @@
 
     (c) __Conditions__ 
 
-        All assistance provided pursuant to subsection (b) of this section shall be made available on a site-specific basis in accordance with priorities developed by the Director. Priorities on specific Indian lands or Alaska Native lands shall be developed in consultation with the Indian tribal government or Alaska Native entity. The priorities shall take into account the relative severity of the threat to public health and the environment posed by each open dump and the availability of funds necessary for closure and postclosure maintenance.
+        All assistance provided pursuant to subsection (b) shall be made available on a site-specific basis in accordance with priorities developed by the Director. Priorities on specific Indian lands or Alaska Native lands shall be developed in consultation with the Indian tribal government or Alaska Native entity. The priorities shall take into account the relative severity of the threat to public health and the environment posed by each open dump and the availability of funds necessary for closure and postclosure maintenance.
 
 ([Pub. L. 103–399, § 5][/us/pl/103/399/s5], Oct. 22, 1994, [108 Stat. 4166][/us/stat/108/4166].)
 

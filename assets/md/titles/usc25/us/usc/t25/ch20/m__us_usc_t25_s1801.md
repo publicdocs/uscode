@@ -45,7 +45,7 @@
 
     (b)
 
-     The following conditions shall apply for the purpose of determining the Indian student count pursuant to subsection (a)(8) of this section:
+     The following conditions shall apply for the purpose of determining the Indian student count pursuant to subsection (a)(8):
 
         (1) Such number shall be calculated on the basis of the registrations of Indian students as in effect at the conclusion of the third week of each academic term.
 

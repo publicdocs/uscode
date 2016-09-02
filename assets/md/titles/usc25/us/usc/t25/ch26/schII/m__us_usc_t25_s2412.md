@@ -21,13 +21,13 @@
 
     (b) __Cooperation__ 
 
-        At the request of any Indian tribe pursuant to a resolution adopted under subsection (a) of this section, the Bureau of Indian Affairs agency and education superintendents, where appropriate,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under [section 2411 of this title][/us/usc/t25/s2411], shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a) of this section.
+        At the request of any Indian tribe pursuant to a resolution adopted under subsection (a), the Bureau of Indian Affairs agency and education superintendents, where appropriate,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under [section 2411 of this title][/us/usc/t25/s2411], shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a).
 
     (c) __Provisions__ 
 
         (1)
 
-         Any Tribal Action Plan entered into under subsection (b) of this section shall provide for—
+         Any Tribal Action Plan entered into under subsection (b) shall provide for—
 
             (A)
 
@@ -69,17 +69,17 @@
 
     (d) __Grants__ 
 
-        (1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) of this section to provide technical assistance in the development of a Tribal Action Plan. The Secretary shall allocate funds based on need.
+        (1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) to provide technical assistance in the development of a Tribal Action Plan. The Secretary shall allocate funds based on need.
 
         (2) There are authorized to be appropriated for grants under this subsection not more than $2,000,000 for the period of fiscal years 2011 through 2015.
 
     (e) __Federal action__ 
 
-        If any Indian tribe does not adopt a resolution as provided in subsection (a) of this section within 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in [section 2411 of this title][/us/usc/t25/s2411], the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a) of this section.
+        If any Indian tribe does not adopt a resolution as provided in subsection (a) within 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in [section 2411 of this title][/us/usc/t25/s2411], the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a).
 
     (f) __Grants for training, education, and prevention programs__ 
 
-        (1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) of this section to implement and develop community and in-school training, education, and prevention programs on alcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
+        (1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) to implement and develop community and in-school training, education, and prevention programs on alcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
 
         (2)
 

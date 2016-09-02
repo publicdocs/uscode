@@ -21,7 +21,7 @@
 
     (b) __Election of tribal officials; procedures__ 
 
-        Not later than 120 days after the Tribe adopts a constitution and bylaws under subsection (a) of this section, the Secretary shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in such tribal constitution. Such election shall be conducted according to the procedures specified in subsection (a) of this section except to the extent that such procedures conflict with the tribal constitution.
+        Not later than 120 days after the Tribe adopts a constitution and bylaws under subsection (a), the Secretary shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in such tribal constitution. Such election shall be conducted according to the procedures specified in subsection (a) except to the extent that such procedures conflict with the tribal constitution.
 
 ([Pub. L. 103–454, title III, § 308][/us/pl/103/454/s308], Nov. 2, 1994, [108 Stat. 4795][/us/stat/108/4795].)
 

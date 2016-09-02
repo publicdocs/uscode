@@ -63,7 +63,7 @@
 
     (c) __Vacancies__ 
 
-        Vacancies occurring on the Commission shall be filled in the same manner as the original appointment. A member may serve after the expiration of his term of office until his successor has been appointed, unless the member has been removed for cause under subsection (b)(6) of this section.
+        Vacancies occurring on the Commission shall be filled in the same manner as the original appointment. A member may serve after the expiration of his term of office until his successor has been appointed, unless the member has been removed for cause under subsection (b)(6).
 
     (d) __Quorum__ 
 

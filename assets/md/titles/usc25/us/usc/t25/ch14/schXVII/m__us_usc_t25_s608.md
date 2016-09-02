@@ -31,7 +31,7 @@
 
     (c) __Acquisitions to be held in trust__ 
 
-        Lands and interests in lands acquired by the Secretary pursuant to subsection (a)(1) of this section and for the benefit of the Yakima Indian Nation pursuant to [section 465 of this title][/us/usc/t25/s465] shall be held in trust by the United States for the benefit of the Yakima Indian Nation.
+        Lands and interests in lands acquired by the Secretary pursuant to subsection (a)(1) and for the benefit of the Yakima Indian Nation pursuant to [section 465 of this title][/us/usc/t25/s465] shall be held in trust by the United States for the benefit of the Yakima Indian Nation.
 
     (d) __Terms and conditions__ 
 

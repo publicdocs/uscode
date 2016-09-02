@@ -17,11 +17,11 @@
 
     (a) __General exemption__ 
 
-        Except as otherwise provided in subsections (b) and (c) of this section, the settlement lands received by the State Corporation shall not be subject to any form of Federal, State, or local taxation while held by the State Corporation.
+        Except as otherwise provided in subsections (b) and (c), the settlement lands received by the State Corporation shall not be subject to any form of Federal, State, or local taxation while held by the State Corporation.
 
     (b) __Income-producing activities__ 
 
-        The exemption provided in subsection (a) of this section shall not apply to any income-producing activities occurring on the settlement lands.
+        The exemption provided in subsection (a) shall not apply to any income-producing activities occurring on the settlement lands.
 
     (c) __Payments in lieu of taxes__ 
 

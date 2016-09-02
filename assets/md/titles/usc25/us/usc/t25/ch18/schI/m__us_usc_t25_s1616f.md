@@ -21,7 +21,7 @@
 
     (b) __Tribally controlled institutions__ 
 
-    To the extent feasible, the program established under subsection (a) of this section shall—
+    To the extent feasible, the program established under subsection (a) shall—
 
         (1) be carried out through tribally controlled colleges or universities (within the meaning of [section 1801(a)(4) of this title][/us/usc/t25/s1801/a/4]) and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 20),
 

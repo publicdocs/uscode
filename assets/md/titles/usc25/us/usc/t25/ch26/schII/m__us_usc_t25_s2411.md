@@ -53,7 +53,7 @@
 
     (c) __Consultation__ 
 
-    The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a) of this section, consult with and solicit the comments of—
+    The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a), consult with and solicit the comments of—
 
         (1) interested Indian tribes,
 
@@ -65,7 +65,7 @@
 
     (d) __Publication__ 
 
-        The Memorandum of Agreement under subsection (a) of this section shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) of this section to each Indian tribe.
+        The Memorandum of Agreement under subsection (a) shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) to each Indian tribe.
 
 ([Pub. L. 99–570, title IV, § 4205][/us/pl/99/570/s4205], Oct. 27, 1986, [100 Stat. 3207–139][/us/stat/100/3207-139]; [Pub. L. 111–211, title II, § 241(a)(1)][/us/pl/111/211/s241/a/1], July 29, 2010, [124 Stat. 2287][/us/stat/124/2287].)
 

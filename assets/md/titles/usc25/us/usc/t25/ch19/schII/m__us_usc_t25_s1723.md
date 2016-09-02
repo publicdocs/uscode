@@ -25,7 +25,7 @@
 
     (b) __Aboriginal title extinguished as of date of transfer__ 
 
-        To the extent that any transfer of land or natural resources described in subsection (a)(1) of this section may involve land or natural resources to which the Passamaquoddy Tribe, the Penobscot Nation, the Houlton Band of Maliseet Indians, or any of their members, or any other Indian, Indian nation, or tribe or band of Indians had aboriginal title, such subsection (a)(1) of this section shall be regarded as an extinguishment of said aboriginal title as of the date of such transfer.
+        To the extent that any transfer of land or natural resources described in subsection (a)(1) of this section may involve land or natural resources to which the Passamaquoddy Tribe, the Penobscot Nation, the Houlton Band of Maliseet Indians, or any of their members, or any other Indian, Indian nation, or tribe or band of Indians had aboriginal title, such subsection (a)(1) shall be regarded as an extinguishment of said aboriginal title as of the date of such transfer.
 
     (c) __Claims extinguished as of date of transfer__ 
 

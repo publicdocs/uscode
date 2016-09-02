@@ -41,15 +41,15 @@
 
     (b) __Minimum award percentage to nurses__ 
 
-        Beginning with fiscal year 1993, not less than 25 percent of the retention bonuses awarded each year under subsection (a) of this section shall be awarded to nurses.
+        Beginning with fiscal year 1993, not less than 25 percent of the retention bonuses awarded each year under subsection (a) shall be awarded to nurses.
 
     (c) __Rates; maximum rate__ 
 
-        The Secretary may establish rates for the retention bonus which shall provide for a higher annual rate for multiyear agreements than for single year agreements referred to in subsection (a)(4) of this section, but in no event shall the annual rate be more than $25,000 per annum.
+        The Secretary may establish rates for the retention bonus which shall provide for a higher annual rate for multiyear agreements than for single year agreements referred to in subsection (a)(4), but in no event shall the annual rate be more than $25,000 per annum.
 
     (d) __Time of payment__ 
 
-        The retention bonus for the entire period covered by the agreement described in subsection (a)(4) of this section shall be paid at the beginning of the agreed upon term of service.
+        The retention bonus for the entire period covered by the agreement described in subsection (a)(4) shall be paid at the beginning of the agreed upon term of service.
 
     (e) __Refund; interest__ 
 

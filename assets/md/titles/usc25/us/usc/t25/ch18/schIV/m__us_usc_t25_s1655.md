@@ -29,7 +29,7 @@
 
     (d) __Contract and grant renewals__ 
 
-        In determining whether to renew a contract or grant with an urban Indian organization under [section 1653 of this title][/us/usc/t25/s1653] which has completed performance of a contract or grant under [section 1654 of this title][/us/usc/t25/s1654], the Secretary shall review the records of the urban Indian organization, the reports submitted under [section 1657 of this title][/us/usc/t25/s1657], and, in the case of a renewal of a contract or grant under [section 1653 of this title][/us/usc/t25/s1653], shall consider the results of the onsite evaluations conducted under subsection (b) of this section.
+        In determining whether to renew a contract or grant with an urban Indian organization under [section 1653 of this title][/us/usc/t25/s1653] which has completed performance of a contract or grant under [section 1654 of this title][/us/usc/t25/s1654], the Secretary shall review the records of the urban Indian organization, the reports submitted under [section 1657 of this title][/us/usc/t25/s1657], and, in the case of a renewal of a contract or grant under [section 1653 of this title][/us/usc/t25/s1653], shall consider the results of the onsite evaluations conducted under subsection (b).
 
 ([Pub. L. 94–437, title V, § 505][/us/pl/94/437/s505], as added [Pub. L. 100–713, title V, § 501][/us/pl/100/713/s501], Nov. 23, 1988, [102 Stat. 4822][/us/stat/102/4822]; amended [Pub. L. 102–573, title V, § 501(b)(3)][/us/pl/102/573/s501/b/3], Oct. 29, 1992, [106 Stat. 4568][/us/stat/106/4568].)
 

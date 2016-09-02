@@ -113,7 +113,7 @@
 
         (1) The Commission may consult with appropriate law enforcement officials concerning gaming licenses issued by an Indian tribe and shall have thirty days to notify the Indian tribe of any objections to issuance of such license.
 
-        (2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II) of this section, the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
+        (2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II), the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
 
         (3)
 
@@ -157,7 +157,7 @@
 
             (A) the tribe shall not be subject to the provisions of paragraphs (1), (2), (3), and (4) of [section 2706(b) of this title][/us/usc/t25/s2706/b];
 
-            (B) the tribe shall continue to submit an annual independent audit as required by subsection (b)(2)(C) of this section and shall submit to the Commission a complete resume on all employees hired and licensed by the tribe subsequent to the issuance of a certificate of self-regulation; and
+            (B) the tribe shall continue to submit an annual independent audit as required by subsection (b)(2)(C) and shall submit to the Commission a complete resume on all employees hired and licensed by the tribe subsequent to the issuance of a certificate of self-regulation; and
 
             (C) the Commission may not assess a fee on such activity pursuant to [section 2717 of this title][/us/usc/t25/s2717] in excess of one quarter of 1 per centum of the gross revenue.
 
@@ -175,7 +175,7 @@
 
                 (i) is adopted by the governing body of the Indian tribe having jurisdiction over such lands,
 
-                (ii) meets the requirements of subsection (b) of this section, and
+                (ii) meets the requirements of subsection (b), and
 
                 (iii) is approved by the Chairman,
 
@@ -185,7 +185,7 @@
 
         (2)
 
-            (A) If any Indian tribe proposes to engage in, or to authorize any person or entity to engage in, a class III gaming activity on Indian lands of the Indian tribe, the governing body of the Indian tribe shall adopt and submit to the Chairman an ordinance or resolution that meets the requirements of subsection (b) of this section.
+            (A) If any Indian tribe proposes to engage in, or to authorize any person or entity to engage in, a class III gaming activity on Indian lands of the Indian tribe, the governing body of the Indian tribe shall adopt and submit to the Chairman an ordinance or resolution that meets the requirements of subsection (b).
 
             (B)
 

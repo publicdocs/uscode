@@ -33,7 +33,7 @@
 
             (D) an annual submission to the Secretary of the number of students served and a brief description of programs offered under the grant; and
 
-            (E) a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)(1)(B)(ii)”. </sup></sup>  of this section.
+            (E) a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)(1)(B)(ii)”. </sup></sup> 
 
         (2) __Evaluation review teams__ 
 
@@ -59,7 +59,7 @@
 
         The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter if—
 
-            (A) the Indian tribe or tribal organization submits the reports required under subsection (b) of this section with respect to the school; and
+            (A) the Indian tribe or tribal organization submits the reports required under subsection (b) with respect to the school; and
 
             (B)
 

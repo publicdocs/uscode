@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-        In addition to any audit or review under subsection (a) of this section, to the extent the Secretary determines such action to be appropriate, the Secretary may conduct an audit or review of a recipient in order to—
+        In addition to any audit or review under subsection (a), to the extent the Secretary determines such action to be appropriate, the Secretary may conduct an audit or review of a recipient in order to—
 
             (A)
 

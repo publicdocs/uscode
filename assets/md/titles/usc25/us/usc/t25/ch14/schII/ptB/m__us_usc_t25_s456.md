@@ -21,7 +21,7 @@
 
     (b) __Revocation of contracts__ 
 
-        The Secretary of the Interior may, in his discretion, revoke any contract if the contractor fails to permit a local committee to perform its duties pursuant to subsection (a) of this section.
+        The Secretary of the Interior may, in his discretion, revoke any contract if the contractor fails to permit a local committee to perform its duties pursuant to subsection (a).
 
 ([Apr. 16, 1934, ch. 147, § 5][/us/act/1934-04-16/ch147/s5], as added [Pub. L. 93–638, title II, § 202][/us/pl/93/638/s202], Jan. 4, 1975, [88 Stat. 2213][/us/stat/88/2213]; amended [Pub. L. 103–382, title III, § 393(d)][/us/pl/103/382/s393/d], Oct. 20, 1994, [108 Stat. 4027][/us/stat/108/4027]; [Pub. L. 107–110, title VII, § 702(e)][/us/pl/107/110/s702/e], Jan. 8, 2002, [115 Stat. 1947][/us/stat/115/1947].)
 

@@ -17,13 +17,13 @@
 
     (a) __In general__ 
 
-        Subject to the conditions described in subsection (b)(1) of this section, an Indian tribe receiving a fractional interest under [section 2212 of this title][/us/usc/t25/s2212] may, as a tenant in common with the other owners of the trust or restricted lands, lease the interest, sell the resources, consent to the granting of rights-of-way, or engage in any other transaction affecting the trust or restricted land authorized by law.
+        Subject to the conditions described in subsection (b)(1), an Indian tribe receiving a fractional interest under [section 2212 of this title][/us/usc/t25/s2212] may, as a tenant in common with the other owners of the trust or restricted lands, lease the interest, sell the resources, consent to the granting of rights-of-way, or engage in any other transaction affecting the trust or restricted land authorized by law.
 
     (b) __Application of revenue from acquired interests to land consolidation program__ 
 
         (1) __In general__ 
 
-            The Secretary shall have a lien on any revenue accruing to an interest described in subsection (a) of this section until the Secretary provides for the removal of the lien under paragraph (3), (4), or (5).
+            The Secretary shall have a lien on any revenue accruing to an interest described in subsection (a) until the Secretary provides for the removal of the lien under paragraph (3), (4), or (5).
 
         (2) __Requirements__ 
 
@@ -61,7 +61,7 @@
 
         (1) __In general__ 
 
-            Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) of this section is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
+            Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
 
         (2) __Application of lease__ 
 

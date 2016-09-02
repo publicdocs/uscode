@@ -45,7 +45,7 @@
 
     (b) __Periodic assessments__ 
 
-        On each 10-year anniversary of November 28, 1990, the Secretary shall provide for an independent assessment of Indian forest lands and Indian forest land management practices under the criteria established in subsection (a) of this section which shall include analyses measured against findings in previous assessments.
+        On each 10-year anniversary of November 28, 1990, the Secretary shall provide for an independent assessment of Indian forest lands and Indian forest land management practices under the criteria established in subsection (a) which shall include analyses measured against findings in previous assessments.
 
     (c) __Status report to Congress__ 
 

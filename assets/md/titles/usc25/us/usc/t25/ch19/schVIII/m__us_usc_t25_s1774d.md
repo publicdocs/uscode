@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        In recognition of the findings and purposes specified in [section 1774 of this title][/us/usc/t25/s1774], the settlement funds provided pursuant to this subchapter shall be provided by the United States and the State. The Secretary may not obligate or expend funds provided under subsection (b) of this section until the Secretary determines that there is an agreed upon and signed memorandum of understanding.
+        In recognition of the findings and purposes specified in [section 1774 of this title][/us/usc/t25/s1774], the settlement funds provided pursuant to this subchapter shall be provided by the United States and the State. The Secretary may not obligate or expend funds provided under subsection (b) until the Secretary determines that there is an agreed upon and signed memorandum of understanding.
 
     (b) __Funds provided by United States__ 
 

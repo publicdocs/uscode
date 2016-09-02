@@ -21,7 +21,7 @@
 
         (1) develop or to support affordable housing for rental or homeownership; or
 
-        (2) provide housing services with respect to affordable housing, through the activities described in subsection (b) of this section.
+        (2) provide housing services with respect to affordable housing, through the activities described in subsection (b).
 
     (b) __Activities__ 
 

@@ -17,7 +17,7 @@
 
     (a) There are authorized to be appropriated to carry out the provisions of this subchapter, $10,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
-    (b) Any funds appropriated pursuant to subsection (a) of this section are authorized to remain available until expended.
+    (b) Any funds appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
 ([Pub. L. 95–471, title III, § 306][/us/pl/95/471/s306], as added [Pub. L. 98–192, § 13][/us/pl/98/192/s13], Dec. 1, 1983, [97 Stat. 1343][/us/stat/97/1343]; amended [Pub. L. 99–428, § 2(b)][/us/pl/99/428/s2/b], Sept. 30, 1986, [100 Stat. 982][/us/stat/100/982]; [Pub. L. 101–477, § 1(d)(1)(F)][/us/pl/101/477/s1/d/1/F], Oct. 30, 1990, [104 Stat. 1153][/us/stat/104/1153]; [Pub. L. 102–325, title XIII, § 1301(b)][/us/pl/102/325/s1301/b], July 23, 1992, [106 Stat. 797][/us/stat/106/797]; [Pub. L. 105–244, title IX, § 901(a)(2)(B)][/us/pl/105/244/s901/a/2/B], Oct. 7, 1998, [112 Stat. 1827][/us/stat/112/1827]; [Pub. L. 110–315, title IX, § 941(h)][/us/pl/110/315/s941/h], Aug. 14, 2008, [122 Stat. 3462][/us/stat/122/3462].)
 

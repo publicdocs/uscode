@@ -33,7 +33,7 @@
 
             (B) approved by a majority of those actually voting.
 
-        (2) If in any such election such majority does not approve the adoption of the proposed constitution and bylaws, the Executive Committee shall prepare another proposed constitution and bylaws and present it to the Tribe in the same manner provided in this section for the first constitution and bylaws. Such new proposed constitution and bylaws shall be distributed to the eligible voters of the Tribe no later than 180 days after the date of the election in which the first proposed constitution and bylaws failed of adoption. An election on the question of the adoption of the new proposal of the Executive Committee shall be conducted in the same manner provided in subsection (b) of this section for the election on the first proposed constitution and bylaws.
+        (2) If in any such election such majority does not approve the adoption of the proposed constitution and bylaws, the Executive Committee shall prepare another proposed constitution and bylaws and present it to the Tribe in the same manner provided in this section for the first constitution and bylaws. Such new proposed constitution and bylaws shall be distributed to the eligible voters of the Tribe no later than 180 days after the date of the election in which the first proposed constitution and bylaws failed of adoption. An election on the question of the adoption of the new proposal of the Executive Committee shall be conducted in the same manner provided in subsection (b) for the election on the first proposed constitution and bylaws.
 
     (d) __Election of tribal officers__ 
 
@@ -41,7 +41,7 @@
 
     (e) __Extension of time__ 
 
-        Any time periods prescribed in subsections (b) and (c) of this section may be altered by written agreement between the Executive Committee and the Secretary.
+        Any time periods prescribed in subsections (b) and (c) may be altered by written agreement between the Executive Committee and the Secretary.
 
 ([Pub. L. 103–116, § 9][/us/pl/103/116/s9], Oct. 27, 1993, [107 Stat. 1125][/us/stat/107/1125].)
 

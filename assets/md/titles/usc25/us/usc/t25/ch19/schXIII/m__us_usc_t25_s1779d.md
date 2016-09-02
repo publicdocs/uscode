@@ -31,7 +31,7 @@
 
             (A) __Trust land status pursuant to regulations__ 
 
-                The funds appropriated and allocated to the Indian Nations pursuant to section 1779c(c) and (d)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and deposited into trust fund accounts pursuant to subsection (a) of this section, together with any interest earned thereon, may be used for the acquisition of land by the Indian Nations. The Secretary may accept such lands into trust for the beneficiary Indian Nation pursuant to the authority provided in [section 465 of this title][/us/usc/t25/s465] and in accordance with the Secretary’s trust land acquisition regulations at part 151 of title 25, Code of Federal Regulations, in effect at the time of the acquisition, except for those acquisitions covered by paragraph (1)(B).
+                The funds appropriated and allocated to the Indian Nations pursuant to section 1779c(c) and (d)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and deposited into trust fund accounts pursuant to subsection (a), together with any interest earned thereon, may be used for the acquisition of land by the Indian Nations. The Secretary may accept such lands into trust for the beneficiary Indian Nation pursuant to the authority provided in [section 465 of this title][/us/usc/t25/s465] and in accordance with the Secretary’s trust land acquisition regulations at part 151 of title 25, Code of Federal Regulations, in effect at the time of the acquisition, except for those acquisitions covered by paragraph (1)(B).
 
             (B) __Required trust land status__ 
 

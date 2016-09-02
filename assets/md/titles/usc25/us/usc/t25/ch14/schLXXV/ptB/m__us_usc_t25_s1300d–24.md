@@ -43,7 +43,7 @@
 
     (c) __Management__ 
 
-        Subject to subsections (a), (b), and (d) of this section, any funds distributed to a covered Indian tribe pursuant to sections 1300d–23 and 1300d–26 of this title may be managed and invested by that Indian tribe pursuant to the American Indian Trust Fund Management Reform Act of 1994 ([25 U.S.C. 4001][/us/usc/t25/s4001] et seq.).
+        Subject to subsections (a), (b), and (d), any funds distributed to a covered Indian tribe pursuant to sections 1300d–23 and 1300d–26 of this title may be managed and invested by that Indian tribe pursuant to the American Indian Trust Fund Management Reform Act of 1994 ([25 U.S.C. 4001][/us/usc/t25/s4001] et seq.).
 
     (d) __Withdrawal of funds by covered tribes__ 
 

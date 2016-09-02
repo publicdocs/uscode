@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        There is hereby established in the Treasury of the United States a trust fund to be known as the “Navajo Rehabilitation Trust Fund”, which shall consist of the funds transferred under subsection (b) of this section and of the funds appropriated pursuant to subsection (f) of this section and any interest or investment income accrued on such funds.
+        There is hereby established in the Treasury of the United States a trust fund to be known as the “Navajo Rehabilitation Trust Fund”, which shall consist of the funds transferred under subsection (b) and of the funds appropriated pursuant to subsection (f) and any interest or investment income accrued on such funds.
 
     (b) __Deposit of income into Fund__ 
 
@@ -43,7 +43,7 @@
 
     (f) __Termination of Trust Fund__ 
 
-        The Navajo Rehabilitation Trust Fund shall terminate when, upon petition by the Navajo Tribe, the Secretary determines that the goals of the Trust Fund have been met and the United States has been reimbursed for funds appropriated under subsection (f) of this section. All funds in the Trust Fund on such date shall be transferred to the general trust funds of the Navajo Tribe.
+        The Navajo Rehabilitation Trust Fund shall terminate when, upon petition by the Navajo Tribe, the Secretary determines that the goals of the Trust Fund have been met and the United States has been reimbursed for funds appropriated under subsection (f). All funds in the Trust Fund on such date shall be transferred to the general trust funds of the Navajo Tribe.
 
     (g) __Authorization of appropriations; reimbursement of General Fund__ 
 

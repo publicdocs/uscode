@@ -23,17 +23,17 @@
 
     Within three hundred and sixty-five days after October 26, 1987, the Secretary shall prepare in accordance with the regulations contained in part 61 of title 25 of the Code of Federal Regulations a tribal membership roll of the Cow Creek Band of Umpqua Tribe of Indians. Such roll shall include all Cow Creek descendants or other Indian individuals who were not members of any other federally recognized Indian tribe on July 30, 1987 and who—
 
-        (1) are listed on the tribal roll referred to in subsection (a) of this section;
+        (1) are listed on the tribal roll referred to in subsection (a);
 
         (2) are the descendants of any individuals listed pursuant to paragraph (1) born on or prior to December 29, 1982; or
 
         (3)
 
-            (A) are the descendants of any individual considered to be a member of the Cow Creek Band of Umpqua Tribe of Indians for the purposes of the treaty entered between such Band and the United States on September 18, 1853; (B) have applied to the Secretary for inclusion in the roll pursuant to subsection (c) of this section; and (C) meet the requirements for membership provided in the tribe’s governing documents.
+            (A) are the descendants of any individual considered to be a member of the Cow Creek Band of Umpqua Tribe of Indians for the purposes of the treaty entered between such Band and the United States on September 18, 1853; (B) have applied to the Secretary for inclusion in the roll pursuant to subsection (c); and (C) meet the requirements for membership provided in the tribe’s governing documents.
 
     (c) __Regulations governing application process__ 
 
-        The Secretary shall devise regulations governing the application process under which individuals may apply to have their names placed on the tribal roll pursuant to paragraph 3  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be paragraph “(3)”. </sup></sup>  of subsection (b) of this section.
+        The Secretary shall devise regulations governing the application process under which individuals may apply to have their names placed on the tribal roll pursuant to paragraph 3  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be paragraph “(3)”. </sup></sup>  of subsection (b).
 
     (d) __Limitation; tribal discretion; additional requirements__ 
 

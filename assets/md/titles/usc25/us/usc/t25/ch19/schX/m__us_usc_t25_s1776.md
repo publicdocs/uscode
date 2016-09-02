@@ -35,7 +35,7 @@
 
     (b) __Purpose__ 
 
-        The purpose of this subchapter is to settle the 107th meridian boundary dispute created by the erroneous survey of the eastern boundary of the Crow Indian Reservation made by the Federal Government described in subsection (a)(3) of this section.
+        The purpose of this subchapter is to settle the 107th meridian boundary dispute created by the erroneous survey of the eastern boundary of the Crow Indian Reservation made by the Federal Government described in subsection (a)(3).
 
 ([Pub. L. 103–444, § 2][/us/pl/103/444/s2], Nov. 2, 1994, [108 Stat. 4632][/us/stat/108/4632].)
 

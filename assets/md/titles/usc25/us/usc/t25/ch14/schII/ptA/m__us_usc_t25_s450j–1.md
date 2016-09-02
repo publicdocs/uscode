@@ -37,7 +37,7 @@
 
                 (ii) any additional administrative or other expense related to the overhead incurred by the tribal contractor in connection with the operation of the Federal program, function, service, or activity pursuant to the contract,
 
-                except that such funding shall not duplicate any funding provided under subsection (a)(1) of this section.
+                except that such funding shall not duplicate any funding provided under subsection (a)(1).
 
             (B) On an annual basis, during such period as a tribe or tribal organization operates a Federal program, function, service, or activity pursuant to a contract entered into under this subchapter, the tribe or tribal organization shall have the option to negotiate with the Secretary the amount of funds that the tribe or tribal organization is entitled to receive under such contract pursuant to this paragraph.
 
@@ -61,7 +61,7 @@
 
     (b) __Reductions and increases in amount of funds provided__ 
 
-    The amount of funds required by subsection (a) of this section—
+    The amount of funds required by subsection (a)—
 
         (1) shall not be reduced to make funding available for contract monitoring or administration by the Secretary;
 
@@ -119,7 +119,7 @@
 
     (g) __Addition to contract of full amount contractor entitled; adjustment__ 
 
-        Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a) of this section, subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
+        Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a), subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
 
     (h) __Indirect costs for contracts for construction programs__ 
 
@@ -177,7 +177,7 @@
 
     (n) __Reduction of administrative or other responsibilities of Secretary; use of savings__ 
 
-        To the extent that programs, functions, services, or activities carried out by tribal organizations pursuant to contracts entered into under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of contract funds determined under subsection (a) of this section, the Secretary shall make such savings available for the provision of additional services to program beneficiaries, either directly or through contractors, in a manner equitable to both direct and contracted programs.
+        To the extent that programs, functions, services, or activities carried out by tribal organizations pursuant to contracts entered into under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of contract funds determined under subsection (a), the Secretary shall make such savings available for the provision of additional services to program beneficiaries, either directly or through contractors, in a manner equitable to both direct and contracted programs.
 
     (o) __Rebudgeting by tribal organization__ 
 

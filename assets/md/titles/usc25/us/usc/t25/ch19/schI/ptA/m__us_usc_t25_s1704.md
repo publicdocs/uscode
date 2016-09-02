@@ -21,11 +21,11 @@
 
     (b) __Amount of payment__ 
 
-        Payment for any option entered into pursuant to subsection (a) of this section shall be in the amount of 5 per centum of the fair market value of the land or natural resources as of the date of the agreement and shall be paid from the fund established by [section 1703 of this title][/us/usc/t25/s1703].
+        Payment for any option entered into pursuant to subsection (a) shall be in the amount of 5 per centum of the fair market value of the land or natural resources as of the date of the agreement and shall be paid from the fund established by [section 1703 of this title][/us/usc/t25/s1703].
 
     (c) __Limitation on option fees__ 
 
-        The total amount of the option fees paid pursuant to subsection (b) of this section shall not exceed $175,000.
+        The total amount of the option fees paid pursuant to subsection (b) shall not exceed $175,000.
 
     (d) __Application of option fee__ 
 

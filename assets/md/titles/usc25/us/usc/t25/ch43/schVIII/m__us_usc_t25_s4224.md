@@ -35,7 +35,7 @@
 
             (B) __Effect of failure of Secretary to take action__ 
 
-            For purposes of this subchapter, if the Secretary does not notify the Director, as required under this subsection and subsection (b) of this section, upon the expiration of the 60-day period described in subparagraph (A)—
+            For purposes of this subchapter, if the Secretary does not notify the Director, as required under this subsection and subsection (b), upon the expiration of the 60-day period described in subparagraph (A)—
 
                 (i) the plan shall be considered to have been determined to comply with the requirements under [section 4223 of this title][/us/usc/t25/s4223]; and
 
@@ -43,7 +43,7 @@
 
     (b) __Notice of reasons for determination of noncompliance__ 
 
-    If the Secretary determines that a plan submitted under [section 4223 of this title][/us/usc/t25/s4223] does not comply with the requirements of that section, the Secretary shall specify in the notice under subsection (a) of this section—
+    If the Secretary determines that a plan submitted under [section 4223 of this title][/us/usc/t25/s4223] does not comply with the requirements of that section, the Secretary shall specify in the notice under subsection (a)—
 
         (1) the reasons for noncompliance; and
 
