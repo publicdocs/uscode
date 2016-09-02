@@ -99,9 +99,9 @@
 
         Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
 
-            (A) $5,000,000 for each fiscal year ending before October 1, 2015, and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015, shall be distributed on a competitive basis by the Secretary.
+            (A) $5,000,000 for each fiscal year ending before October 1, 2015, and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015, shall be distributed on a competitive basis by the Secretary.
 
-            (B) $25,000,000 for each fiscal year ending before October 1, 2015, and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015, shall be apportioned as formula grants, as provided in subsection (j).
+            (B) $25,000,000 for each fiscal year ending before October 1, 2015, and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015, shall be apportioned as formula grants, as provided in subsection (j).
 
         (2) __Appalachian development public transportation assistance program.—__ 
 
@@ -295,7 +295,7 @@
 
         A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 809][/us/stat/108/809]; [Pub. L. 105–178, title III, § 3014(a)][/us/pl/105/178/s3014/a], June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3013(a)–(h), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1593–1596; [Pub. L. 110–244, title II, § 201(e)][/us/pl/110/244/s201/e], June 6, 2008, [122 Stat. 1610][/us/stat/122/1610]; [Pub. L. 111–147, title IV, § 434][/us/pl/111/147/s434], Mar. 18, 2010, [124 Stat. 89][/us/stat/124/89]; [Pub. L. 111–322, title II, § 2304][/us/pl/111/322/s2304], Dec. 22, 2010, [124 Stat. 3527][/us/stat/124/3527]; [Pub. L. 112–5, title III, § 304][/us/pl/112/5/s304], Mar. 4, 2011, [125 Stat. 19][/us/stat/125/19]; [Pub. L. 112–30, title I, § 134][/us/pl/112/30/s134], Sept. 16, 2011, [125 Stat. 351][/us/stat/125/351]; [Pub. L. 112–102, title III, § 304][/us/pl/112/102/s304], Mar. 30, 2012, [126 Stat. 277][/us/stat/126/277]; [Pub. L. 112–140, title III, § 304][/us/pl/112/140/s304], June 29, 2012, [126 Stat. 398][/us/stat/126/398]; [Pub. L. 112–141, div. B, § 20010][/us/pl/112/141/s20010], div. G, title III, § 113004, July 6, 2012, [126 Stat. 680][/us/stat/126/680], 985; [Pub. L. 113–159, title I, § 1201][/us/pl/113/159/s1201], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1201][/us/pl/114/21/s1201], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1201][/us/pl/114/41/s1201], July 31, 2015, [129 Stat. 450][/us/stat/129/450].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 809][/us/stat/108/809]; [Pub. L. 105–178, title III, § 3014(a)][/us/pl/105/178/s3014/a], June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3013(a)–(h), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1593–1596; [Pub. L. 110–244, title II, § 201(e)][/us/pl/110/244/s201/e], June 6, 2008, [122 Stat. 1610][/us/stat/122/1610]; [Pub. L. 111–147, title IV, § 434][/us/pl/111/147/s434], Mar. 18, 2010, [124 Stat. 89][/us/stat/124/89]; [Pub. L. 111–322, title II, § 2304][/us/pl/111/322/s2304], Dec. 22, 2010, [124 Stat. 3527][/us/stat/124/3527]; [Pub. L. 112–5, title III, § 304][/us/pl/112/5/s304], Mar. 4, 2011, [125 Stat. 19][/us/stat/125/19]; [Pub. L. 112–30, title I, § 134][/us/pl/112/30/s134], Sept. 16, 2011, [125 Stat. 351][/us/stat/125/351]; [Pub. L. 112–102, title III, § 304][/us/pl/112/102/s304], Mar. 30, 2012, [126 Stat. 277][/us/stat/126/277]; [Pub. L. 112–140, title III, § 304][/us/pl/112/140/s304], June 29, 2012, [126 Stat. 398][/us/stat/126/398]; [Pub. L. 112–141, div. B, § 20010][/us/pl/112/141/s20010], div. G, title III, § 113004, July 6, 2012, [126 Stat. 680][/us/stat/126/680], 985; [Pub. L. 113–159, title I, § 1201][/us/pl/113/159/s1201], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1201][/us/pl/114/21/s1201], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1201][/us/pl/114/41/s1201], July 31, 2015, [129 Stat. 450][/us/stat/129/450]; [Pub. L. 114–73, title I, § 1201][/us/pl/114/73/s1201], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572].)
 
 <table>
 
@@ -587,11 +587,15 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to this sectio
 
  __Amendments__ 
 
-    2015—Subsec. (c)(1)(A). [Pub. L. 114–41, § 1201(1)][/us/pl/114/41/s1201/1], substituted “for each fiscal year ending before October 1, 2015, and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+    2015—Subsec. (c)(1)(A). [Pub. L. 114–73, § 1201(1)][/us/pl/114/73/s1201/1], substituted “and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+
+    [Pub. L. 114–41, § 1201(1)][/us/pl/114/41/s1201/1], substituted “for each fiscal year ending before October 1, 2015, and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
     [Pub. L. 114–21, § 1201(1)][/us/pl/114/21/s1201/1], substituted “and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
-    Subsec. (c)(1)(B). [Pub. L. 114–41, § 1201(2)][/us/pl/114/41/s1201/2], substituted “for each fiscal year ending before October 1, 2015, and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+    Subsec. (c)(1)(B). [Pub. L. 114–73, § 1201(2)][/us/pl/114/73/s1201/2], substituted “and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+
+    [Pub. L. 114–41, § 1201(2)][/us/pl/114/41/s1201/2], substituted “for each fiscal year ending before October 1, 2015, and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
     [Pub. L. 114–21, § 1201(2)][/us/pl/114/21/s1201/2], substituted “and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
@@ -709,12 +713,16 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to this sectio
 [/us/stat/129/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F222
 [/us/pl/114/41/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1201
 [/us/stat/129/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F450
+[/us/pl/114/73/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1201
+[/us/stat/129/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F572
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/73/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1201%2F1
 [/us/pl/114/41/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1201%2F1
 [/us/pl/114/21/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1201%2F1
+[/us/pl/114/73/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1201%2F2
 [/us/pl/114/41/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1201%2F2
 [/us/pl/114/21/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1201%2F2
 [/us/pl/113/159/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1201%2F1

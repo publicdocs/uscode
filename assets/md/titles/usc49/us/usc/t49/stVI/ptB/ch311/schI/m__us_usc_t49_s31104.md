@@ -39,7 +39,7 @@
 
         (10) $218,000,000 for fiscal year 2015; and
 
-        (11) $17,273,224 for the period beginning on October 1, 2015, and ending on October 29, 2015.
+        (11) $30,377,049 for the period beginning on October 1, 2015, and ending on November 20, 2015.
 
     (b)  __Availability and Reallocation of Amounts__  __.—__ 
 
@@ -95,7 +95,7 @@
 
             (J) $259,000,000 for fiscal year 2015; and
 
-            (K) $20,521,858 for the period beginning on October 1, 2015, and ending on October 29, 2015.
+            (K) $36,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015.
 
         (2)  __Use of funds__  __.—__ 
 
@@ -123,7 +123,7 @@
 
         (2)  __Set aside__  __.—__ 
 
-        The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2015 and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015, for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
+        The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2015 and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015, for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
 
         (3)  __Description of recipients__  __.—__ 
 
@@ -133,7 +133,7 @@
 
         At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 987][/us/stat/108/987]; [Pub. L. 105–130, § 7][/us/pl/105/130/s7], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title IV, § 4003(e)][/us/pl/105/178/s4003/e]–(g), June 9, 1998, [112 Stat. 397][/us/stat/112/397]; [Pub. L. 108–88, § 7(b)][/us/pl/108/88/s7/b], Sept. 30, 2003, [117 Stat. 1120][/us/stat/117/1120]; [Pub. L. 108–202, § 11(b)][/us/pl/108/202/s11/b], Feb. 29, 2004, [118 Stat. 490][/us/stat/118/490]; [Pub. L. 108–224, § 9(b)][/us/pl/108/224/s9/b], Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263, § 9(b)][/us/pl/108/263/s9/b], June 30, 2004, [118 Stat. 709][/us/stat/118/709]; [Pub. L. 108–280, § 9(b)][/us/pl/108/280/s9/b], July 30, 2004, [118 Stat. 886][/us/stat/118/886]; [Pub. L. 108–310, § 7(b)][/us/pl/108/310/s7/b], Sept. 30, 2004, [118 Stat. 1153][/us/stat/118/1153]; [Pub. L. 109–14, § 6(b)][/us/pl/109/14/s6/b], May 31, 2005, [119 Stat. 330][/us/stat/119/330]; [Pub. L. 109–20, § 6(b)][/us/pl/109/20/s6/b], July 1, 2005, [119 Stat. 352][/us/stat/119/352]; [Pub. L. 109–35, § 6(b)][/us/pl/109/35/s6/b], July 20, 2005, [119 Stat. 385][/us/stat/119/385]; [Pub. L. 109–37, § 6(b)][/us/pl/109/37/s6/b], July 22, 2005, [119 Stat. 400][/us/stat/119/400]; [Pub. L. 109–40, § 6(b)][/us/pl/109/40/s6/b], July 28, 2005, [119 Stat. 417][/us/stat/119/417]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4101(a), (b), 4107(a), Aug. 10, 2005, [119 Stat. 1714][/us/stat/119/1714], 1719; [Pub. L. 110–244, title III, § 301(a)][/us/pl/110/244/s301/a], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(a)][/us/pl/111/147/s422/a], (b), (d), Mar. 18, 2010, [124 Stat. 86][/us/stat/124/86], 87; [Pub. L. 111–322, title II, § 2202(a)][/us/pl/111/322/s2202/a], (b), (d), Dec. 22, 2010, [124 Stat. 3524][/us/stat/124/3524], 3525; [Pub. L. 112–5, title II, § 202(a)][/us/pl/112/5/s202/a], (b), (d), Mar. 4, 2011, [125 Stat. 16][/us/stat/125/16], 17; [Pub. L. 112–30, title I, § 122(a)][/us/pl/112/30/s122/a], (b), (d), Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], 349; [Pub. L. 112–102, title II, § 202(a)][/us/pl/112/102/s202/a], (b), (d), Mar. 30, 2012, [126 Stat. 273][/us/stat/126/273], 274; [Pub. L. 112–140, title II, § 202(a)][/us/pl/112/140/s202/a], (b), (d), June 29, 2012, [126 Stat. 394][/us/stat/126/394], 395; [Pub. L. 112–141, div. C, title II, § 32603(a)][/us/pl/112/141/s32603/a], (b), (d), div. G, title II, § 112002(a), (b), July 6, 2012, [126 Stat. 807][/us/stat/126/807], 808, 982; [Pub. L. 113–159, title I, § 1102(a)][/us/pl/113/159/s1102/a], (b), (d), Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843], 1844; [Pub. L. 114–21, title I, § 1102(a)][/us/pl/114/21/s1102/a], (b), (d), May 29, 2015, [129 Stat. 221][/us/stat/129/221], 222; [Pub. L. 114–41, title I, § 1102(a)][/us/pl/114/41/s1102/a], (b), (d), July 31, 2015, [129 Stat. 448][/us/stat/129/448], 449.)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 987][/us/stat/108/987]; [Pub. L. 105–130, § 7][/us/pl/105/130/s7], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title IV, § 4003(e)][/us/pl/105/178/s4003/e]–(g), June 9, 1998, [112 Stat. 397][/us/stat/112/397]; [Pub. L. 108–88, § 7(b)][/us/pl/108/88/s7/b], Sept. 30, 2003, [117 Stat. 1120][/us/stat/117/1120]; [Pub. L. 108–202, § 11(b)][/us/pl/108/202/s11/b], Feb. 29, 2004, [118 Stat. 490][/us/stat/118/490]; [Pub. L. 108–224, § 9(b)][/us/pl/108/224/s9/b], Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263, § 9(b)][/us/pl/108/263/s9/b], June 30, 2004, [118 Stat. 709][/us/stat/118/709]; [Pub. L. 108–280, § 9(b)][/us/pl/108/280/s9/b], July 30, 2004, [118 Stat. 886][/us/stat/118/886]; [Pub. L. 108–310, § 7(b)][/us/pl/108/310/s7/b], Sept. 30, 2004, [118 Stat. 1153][/us/stat/118/1153]; [Pub. L. 109–14, § 6(b)][/us/pl/109/14/s6/b], May 31, 2005, [119 Stat. 330][/us/stat/119/330]; [Pub. L. 109–20, § 6(b)][/us/pl/109/20/s6/b], July 1, 2005, [119 Stat. 352][/us/stat/119/352]; [Pub. L. 109–35, § 6(b)][/us/pl/109/35/s6/b], July 20, 2005, [119 Stat. 385][/us/stat/119/385]; [Pub. L. 109–37, § 6(b)][/us/pl/109/37/s6/b], July 22, 2005, [119 Stat. 400][/us/stat/119/400]; [Pub. L. 109–40, § 6(b)][/us/pl/109/40/s6/b], July 28, 2005, [119 Stat. 417][/us/stat/119/417]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4101(a), (b), 4107(a), Aug. 10, 2005, [119 Stat. 1714][/us/stat/119/1714], 1719; [Pub. L. 110–244, title III, § 301(a)][/us/pl/110/244/s301/a], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(a)][/us/pl/111/147/s422/a], (b), (d), Mar. 18, 2010, [124 Stat. 86][/us/stat/124/86], 87; [Pub. L. 111–322, title II, § 2202(a)][/us/pl/111/322/s2202/a], (b), (d), Dec. 22, 2010, [124 Stat. 3524][/us/stat/124/3524], 3525; [Pub. L. 112–5, title II, § 202(a)][/us/pl/112/5/s202/a], (b), (d), Mar. 4, 2011, [125 Stat. 16][/us/stat/125/16], 17; [Pub. L. 112–30, title I, § 122(a)][/us/pl/112/30/s122/a], (b), (d), Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], 349; [Pub. L. 112–102, title II, § 202(a)][/us/pl/112/102/s202/a], (b), (d), Mar. 30, 2012, [126 Stat. 273][/us/stat/126/273], 274; [Pub. L. 112–140, title II, § 202(a)][/us/pl/112/140/s202/a], (b), (d), June 29, 2012, [126 Stat. 394][/us/stat/126/394], 395; [Pub. L. 112–141, div. C, title II, § 32603(a)][/us/pl/112/141/s32603/a], (b), (d), div. G, title II, § 112002(a), (b), July 6, 2012, [126 Stat. 807][/us/stat/126/807], 808, 982; [Pub. L. 113–159, title I, § 1102(a)][/us/pl/113/159/s1102/a], (b), (d), Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843], 1844; [Pub. L. 114–21, title I, § 1102(a)][/us/pl/114/21/s1102/a], (b), (d), May 29, 2015, [129 Stat. 221][/us/stat/129/221], 222; [Pub. L. 114–41, title I, § 1102(a)][/us/pl/114/41/s1102/a], (b), (d), July 31, 2015, [129 Stat. 448][/us/stat/129/448], 449; [Pub. L. 114–73, title I, § 1102(a)][/us/pl/114/73/s1102/a], (b), (d), Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571], 572.)
 
 <table>
 
@@ -381,15 +381,21 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
     [Pub. L. 114–21, § 1102(a)][/us/pl/114/21/s1102/a], amended par. (10) generally. Prior to amendment, par. (10) read as follows: “$145,134,247 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
 
-    Subsec. (a)(11). [Pub. L. 114–41, § 1102(a)][/us/pl/114/41/s1102/a], added par. (11).
+    Subsec. (a)(11). [Pub. L. 114–73, § 1102(a)][/us/pl/114/73/s1102/a], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$17,273,224 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
+
+    [Pub. L. 114–41, § 1102(a)][/us/pl/114/41/s1102/a], added par. (11).
 
     Subsec. (i)(1)(J). [Pub. L. 114–41, § 1102(b)(2)][/us/pl/114/41/s1102/b/2], added subpar. (J) and struck out former subpar. (J) which read as follows: “$215,715,068 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
 
     [Pub. L. 114–21, § 1102(b)][/us/pl/114/21/s1102/b], amended subpar. (J) generally. Prior to amendment, subpar. (J) read as follows: “$172,430,137 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
 
-    Subsec. (i)(1)(K). [Pub. L. 114–41, § 1102(b)][/us/pl/114/41/s1102/b], added subpar. (K).
+    Subsec. (i)(1)(K). [Pub. L. 114–73, § 1102(b)][/us/pl/114/73/s1102/b], amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “$20,521,858 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
 
-    Subsec. (k)(2). [Pub. L. 114–41, § 1102(d)][/us/pl/114/41/s1102/d], substituted “each of fiscal years 2006 through 2015 and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each of fiscal years 2006 through 2014 and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+    [Pub. L. 114–41, § 1102(b)][/us/pl/114/41/s1102/b], added subpar. (K).
+
+    Subsec. (k)(2). [Pub. L. 114–73, § 1102(d)][/us/pl/114/73/s1102/d], substituted “and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+
+    [Pub. L. 114–41, § 1102(d)][/us/pl/114/41/s1102/d], substituted “each of fiscal years 2006 through 2015 and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each of fiscal years 2006 through 2014 and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
     [Pub. L. 114–21, § 1102(d)][/us/pl/114/21/s1102/d], substituted “and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
@@ -599,6 +605,8 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 [/us/stat/129/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F221
 [/us/pl/114/41/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fa
 [/us/stat/129/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F448
+[/us/pl/114/73/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fa
+[/us/stat/129/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F571
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2142
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
@@ -606,10 +614,13 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 [/us/usc/t49/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fa
 [/us/pl/114/41/s1102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fa%2F2
 [/us/pl/114/21/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fa
+[/us/pl/114/73/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fa
 [/us/pl/114/41/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fa
 [/us/pl/114/41/s1102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fb%2F2
 [/us/pl/114/21/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fb
+[/us/pl/114/73/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fb
 [/us/pl/114/41/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fb
+[/us/pl/114/73/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fd
 [/us/pl/114/41/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fd
 [/us/pl/114/21/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fd
 [/us/pl/113/159/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1102%2Fa

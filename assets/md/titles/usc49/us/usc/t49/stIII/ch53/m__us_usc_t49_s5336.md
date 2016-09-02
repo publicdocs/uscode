@@ -131,7 +131,7 @@
 
     Of the amounts made available for each fiscal year under section 5338(a)(2)(C)—
 
-        (1) $30,000,000 for each fiscal year ending before October 1, 2015, and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015, shall be set aside to carry out section 5307(h);
+        (1) $30,000,000 for each fiscal year ending before October 1, 2015, and $4,180,328 for the period beginning on October 1, 2015, and ending on November 20, 2015, shall be set aside to carry out section 5307(h);
 
         (2) 3.07 percent shall be apportioned to urbanized areas in accordance with subsection (j);
 
@@ -201,7 +201,7 @@
 
             (B) the number of eligible low-income individuals in all such urbanized areas.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 840][/us/stat/108/840]; [Pub. L. 104–287, § 5(19)][/us/pl/104/287/s5/19], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III][/us/pl/105/178], §§ 3027(a), (b), 3029(b)(10), (11), June 9, 1998, [112 Stat. 366][/us/stat/112/366], 373; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3034, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1627; [Pub. L. 110–244, title II, § 201][/us/pl/110/244/s201](l), June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B, § 20026][/us/pl/112/141/s20026], July 6, 2012, [126 Stat. 719][/us/stat/126/719]; [Pub. L. 113–159, title I, § 1202][/us/pl/113/159/s1202], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1202][/us/pl/114/21/s1202], May 29, 2015, [129 Stat. 223][/us/stat/129/223]; [Pub. L. 114–41, title I, § 1202][/us/pl/114/41/s1202], July 31, 2015, [129 Stat. 450][/us/stat/129/450].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 840][/us/stat/108/840]; [Pub. L. 104–287, § 5(19)][/us/pl/104/287/s5/19], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III][/us/pl/105/178], §§ 3027(a), (b), 3029(b)(10), (11), June 9, 1998, [112 Stat. 366][/us/stat/112/366], 373; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3034, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1627; [Pub. L. 110–244, title II, § 201][/us/pl/110/244/s201](l), June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B, § 20026][/us/pl/112/141/s20026], July 6, 2012, [126 Stat. 719][/us/stat/126/719]; [Pub. L. 113–159, title I, § 1202][/us/pl/113/159/s1202], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1202][/us/pl/114/21/s1202], May 29, 2015, [129 Stat. 223][/us/stat/129/223]; [Pub. L. 114–41, title I, § 1202][/us/pl/114/41/s1202], July 31, 2015, [129 Stat. 450][/us/stat/129/450]; [Pub. L. 114–73, title I, § 1202][/us/pl/114/73/s1202], Oct. 29, 2015, [129 Stat. 573][/us/stat/129/573].)
 
 <table>
 
@@ -591,7 +591,9 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 
  __Amendments__ 
 
-    2015—Subsec. (h)(1). [Pub. L. 114–41][/us/pl/114/41] substituted “for each fiscal year ending before October 1, 2015, and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+    2015—Subsec. (h)(1). [Pub. L. 114–73][/us/pl/114/73] substituted “and $4,180,328 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+
+    [Pub. L. 114–41][/us/pl/114/41] substituted “for each fiscal year ending before October 1, 2015, and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
     [Pub. L. 114–21][/us/pl/114/21] substituted “and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
@@ -694,6 +696,8 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 [/us/stat/129/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F223
 [/us/pl/114/41/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1202
 [/us/stat/129/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F450
+[/us/pl/114/73/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1202
+[/us/stat/129/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F573
 [/us/usc/t49/s5338/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5338%2Ff
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/stat/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F233
@@ -701,6 +705,7 @@ In subsection (j), the references to sections 5302(a)(8) and 5318 are added for 
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F840
+[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
