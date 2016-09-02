@@ -69,7 +69,7 @@
 
                 (i) __In general__ 
 
-                    Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) 1 of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a) of this section.
+                    Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(n)(5) 1 of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a).
 
                 (ii) __Limitation__ 
 
@@ -125,7 +125,7 @@
 
             (A) __In general__ 
 
-                Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a) of this section.
+                Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a).
 
             (B) __Project plan__ 
 

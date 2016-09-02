@@ -25,7 +25,7 @@
 
     (c) __Limitation__ 
 
-        The Secretary may not make a guarantee or commitment to guarantee with respect to a note or other obligation if the total amount of outstanding notes or obligations guaranteed under this section (excluding any amount repaid under the contract entered into under subsection (e)(1)(A) of this section) for issuers in the State would exceed an amount equal to 5 times the sum of the total amount of grants made to the State under [section 2009f of this title][/us/usc/t7/s2009f].
+        The Secretary may not make a guarantee or commitment to guarantee with respect to a note or other obligation if the total amount of outstanding notes or obligations guaranteed under this section (excluding any amount repaid under the contract entered into under subsection (e)(1)(A)) for issuers in the State would exceed an amount equal to 5 times the sum of the total amount of grants made to the State under [section 2009f of this title][/us/usc/t7/s2009f].
 
     (d) __Payment of principal, interest, and costs__ 
 
@@ -49,11 +49,11 @@
 
     (f) __Pledged grants for repayments__ 
 
-        Notwithstanding any other provision of this subchapter, the Secretary may apply grants pledged pursuant to paragraphs (1)(B) and (2) of subsection (e) of this section to any repayments due the United States as a result of the guarantees.
+        Notwithstanding any other provision of this subchapter, the Secretary may apply grants pledged pursuant to paragraphs (1)(B) and (2) of subsection (e) to any repayments due the United States as a result of the guarantees.
 
     (g) __Outstanding obligations__ 
 
-        The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to subsection (b) of this section shall not at any time exceed such amount as may be authorized to be appropriated for such purpose for any fiscal year.
+        The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to subsection (b) shall not at any time exceed such amount as may be authorized to be appropriated for such purpose for any fiscal year.
 
     (h) __Purchase of guaranteed obligations by Federal Financing Bank__ 
 

@@ -27,7 +27,7 @@
 
     (b) __Market development activities__ 
 
-        Subsection (a)(1) of this section shall not be construed to prohibit representatives of the United States wine, beer, distilled spirits, or other alcoholic beverage industry from participating in agricultural market development activities carried out by the Secretary with foreign currencies made available under subchapter II of this chapter.
+        Subsection (a)(1) shall not be construed to prohibit representatives of the United States wine, beer, distilled spirits, or other alcoholic beverage industry from participating in agricultural market development activities carried out by the Secretary with foreign currencies made available under subchapter II of this chapter.
 
 ([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 401, as added [Pub. L. 86–341, title I, § 14][/us/pl/86/341/s14], Sept. 21, 1959, [73 Stat. 610][/us/stat/73/610]; amended [Pub. L. 87–703, title II, § 201(1)][/us/pl/87/703/s201/1], Sept. 27, 1962, [76 Stat. 610][/us/stat/76/610]; [Pub. L. 89–808, § 2(E)][/us/pl/89/808/s2/E], Nov. 11, 1966, [80 Stat. 1535][/us/stat/80/1535]; [Pub. L. 95–88, title II, § 212][/us/pl/95/88/s212], Aug. 3, 1977, [91 Stat. 551][/us/stat/91/551]; [Pub. L. 95–113, title XII, § 1204][/us/pl/95/113/s1204], Sept. 29, 1977, [91 Stat. 956][/us/stat/91/956]; [Pub. L. 96–53, title II, § 208][/us/pl/96/53/s208], Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3645][/us/stat/104/3645]; [Pub. L. 104–127, title II, § 212][/us/pl/104/127/s212], Apr. 4, 1996, [110 Stat. 955][/us/stat/110/955]; [Pub. L. 110–246, title III, § 3014(a)][/us/pl/110/246/s3014/a], June 18, 2008, [122 Stat. 1826][/us/stat/122/1826].)
 

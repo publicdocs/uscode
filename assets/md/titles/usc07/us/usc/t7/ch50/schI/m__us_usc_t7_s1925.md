@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall make or insure no loan under sections 1922, 1923, 1924, 1934, and 1935 of this title that would cause the unpaid indebtedness under such sections of any one borrower to exceed the smaller of (1) the value of the farm or other security, or (2) in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II of this chapter that are guaranteed by the Secretary).
+        The Secretary shall make or insure no loan under sections 1922, 1923, 1924, 1934, and 1935 of this title that would cause the unpaid indebtedness under such sections of any one borrower to exceed the smaller of (1) the value of the farm or other security, or (2) in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II that are guaranteed by the Secretary).
 
     (b) __Determination of value__ 
 
@@ -41,7 +41,7 @@
 
     2008—Subsec. (a)(2). [Pub. L. 110–246, § 5003][/us/pl/110/246/s5003], substituted “$300,000” for “$200,000”.
 
-    1998—[Pub. L. 105–277][/us/pl/105/277] inserted section catchline, designated first sentence as subsec. (a), inserted heading, and substituted “$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II of this chapter that are guaranteed by the Secretary)” for “$300,000”, designated second sentence as subsec. (b) and inserted heading, and added subsec. (c).
+    1998—[Pub. L. 105–277][/us/pl/105/277] inserted section catchline, designated first sentence as subsec. (a), inserted heading, and substituted “$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II that are guaranteed by the Secretary)” for “$300,000”, designated second sentence as subsec. (b) and inserted heading, and added subsec. (c).
 
     1992—[Pub. L. 102–554][/us/pl/102/554] inserted reference to [section 1935 of this title][/us/usc/t7/s1935].
 

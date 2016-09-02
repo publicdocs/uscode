@@ -21,7 +21,7 @@
 
     (b) __Trust certificate__ 
 
-        Notwithstanding subsection (a) of this section, the Secretary shall not collect a fee for any guarantee of a trust certificate under [section 2009cc–5 of this title][/us/usc/t7/s2009cc–5], except that any agent of the Secretary may collect a fee that does not exceed $500 for the functions described in [section 2009cc–5(e)(2) of this title][/us/usc/t7/s2009cc–5/e/2].
+        Notwithstanding subsection (a), the Secretary shall not collect a fee for any guarantee of a trust certificate under [section 2009cc–5 of this title][/us/usc/t7/s2009cc–5], except that any agent of the Secretary may collect a fee that does not exceed $500 for the functions described in [section 2009cc–5(e)(2) of this title][/us/usc/t7/s2009cc–5/e/2].
 
     (c) __License__ 
 

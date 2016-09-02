@@ -95,7 +95,7 @@
 
         (4) __Delegation of power__ 
 
-        No power or responsibility of the Authority specified in paragraphs (2) and (3) of subsection (c) of this section, and no voting right of any member of the Authority, shall be delegated to any person who is not—
+        No power or responsibility of the Authority specified in paragraphs (2) and (3) of subsection (c), and no voting right of any member of the Authority, shall be delegated to any person who is not—
 
             (A) a member of the Authority; or
 
@@ -105,7 +105,7 @@
 
         (1) __In general__ 
 
-            A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(D) of this section) to be effective.
+            A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(D)) to be effective.
 
         (2) __Quorum__ 
 
@@ -165,7 +165,7 @@
 
     (e) __Administration__ 
 
-    In carrying out subsection (d) of this section, the Authority may—
+    In carrying out subsection (d), the Authority may—
 
         (1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute a description of the proceedings and reports on actions by the Authority as the Authority considers appropriate;
 
@@ -273,7 +273,7 @@
 
             (A) __In general__ 
 
-            No person detailed to serve the Authority under subsection (e)(6) of this section shall receive any salary or any contribution to or supplementation of salary for services provided to the Authority from—
+            No person detailed to serve the Authority under subsection (e)(6) shall receive any salary or any contribution to or supplementation of salary for services provided to the Authority from—
 
                 (i) any source other than the State, tribal, local, or intergovernmental agency from which the person was detailed; or
 
@@ -285,7 +285,7 @@
 
             (C) __Applicable law__ 
 
-                The Federal cochairperson, the alternate Federal cochairperson, and any Federal officer or employee detailed to duty on the Authority under subsection (e)(5) of this section shall not be subject to subparagraph (A), but shall remain subject to sections 202 through 209 of title 18.
+                The Federal cochairperson, the alternate Federal cochairperson, and any Federal officer or employee detailed to duty on the Authority under subsection (e)(5) shall not be subject to subparagraph (A), but shall remain subject to sections 202 through 209 of title 18.
 
         (5) __Additional personnel__ 
 
@@ -311,7 +311,7 @@
 
             (C) __No Federal employee status__ 
 
-                No member, alternate, officer, or employee of the Authority (except the Federal cochairperson of the Authority, the alternate and staff for the Federal cochairperson, and any Federal employee detailed to the Authority under subsection (e)(5) of this section) shall be considered to be a Federal employee for any purpose.
+                No member, alternate, officer, or employee of the Authority (except the Federal cochairperson of the Authority, the alternate and staff for the Federal cochairperson, and any Federal employee detailed to the Authority under subsection (e)(5)) shall be considered to be a Federal employee for any purpose.
 
     (i) __Conflicts of interest__ 
 

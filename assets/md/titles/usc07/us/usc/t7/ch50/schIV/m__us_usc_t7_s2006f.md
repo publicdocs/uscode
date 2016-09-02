@@ -51,7 +51,7 @@
 
         The Secretary may establish a preferred certified lenders program for lenders who establish their—
 
-            (A) knowledge of, and experience under, the program established under subsection (a) of this section;
+            (A) knowledge of, and experience under, the program established under subsection (a);
 
             (B) knowledge of the regulations concerning the particular guaranteed loan program; and
 

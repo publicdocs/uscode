@@ -39,7 +39,7 @@
 
         (2) __Subchapter III–A funds__ 
 
-            The President may direct that up to 50 percent of the funds available for any fiscal year for carrying out subchapter III–A of this chapter be used to carry out subchapter III of this chapter.
+            The President may direct that up to 50 percent of the funds available for any fiscal year for carrying out subchapter III–A be used to carry out subchapter III.
 
     (c) __Budget__ 
 

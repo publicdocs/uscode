@@ -25,7 +25,7 @@
 
     (b) __Limitation__ 
 
-        No bank, association, or institution described in subsection (a) of this section may make investments described in subsection (a) of this section that are greater than 5 percent of the capital and surplus of the bank, association, or institution.
+        No bank, association, or institution described in subsection (a) may make investments described in subsection (a) that are greater than 5 percent of the capital and surplus of the bank, association, or institution.
 
     (c) __Limitation on rural business investment companies controlled by Farm Credit System institutions__ 
 

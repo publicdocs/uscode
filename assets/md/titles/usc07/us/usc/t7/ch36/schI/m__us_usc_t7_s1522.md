@@ -567,17 +567,17 @@
 
         (1) __Reimbursements__ 
 
-            Of the amounts made available from the insurance fund established under [section 1516(c) of this title][/us/usc/t7/s1516/c], the Corporation may use to provide reimbursements under subsection (b) of this section not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year.
+            Of the amounts made available from the insurance fund established under [section 1516(c) of this title][/us/usc/t7/s1516/c], the Corporation may use to provide reimbursements under subsection (b) not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year.
 
         (2) __Contracting__ 
 
             (A) __Conducting and contracting for research and development__ 
 
-                Of the amounts made available from the insurance fund established under [section 1516(c) of this title][/us/usc/t7/s1516/c], the Corporation may use to conduct research and development and carry out contracting and partnerships under subsections (c) and (d) of this section not more than $12,500,000 for fiscal year 2008 and each subsequent fiscal year.
+                Of the amounts made available from the insurance fund established under [section 1516(c) of this title][/us/usc/t7/s1516/c], the Corporation may use to conduct research and development and carry out contracting and partnerships under subsections (c) and (d) not more than $12,500,000 for fiscal year 2008 and each subsequent fiscal year.
 
             (B) __Underserved States__ 
 
-                Of the amount made available under subparagraph (A) for a fiscal year, the Corporation shall use not more than $5,000,000 for the fiscal year to conduct research and development and carry out contracting for research and development to carry out the purpose described in subsection (c)(1)(A) of this section.
+                Of the amount made available under subparagraph (A) for a fiscal year, the Corporation shall use not more than $5,000,000 for the fiscal year to conduct research and development and carry out contracting for research and development to carry out the purpose described in subsection (c)(1)(A).
 
         (3) __Unused funding__ 
 

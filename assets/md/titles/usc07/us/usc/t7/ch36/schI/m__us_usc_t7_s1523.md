@@ -19,7 +19,7 @@
 
         (1) __Authority__ 
 
-            Except as otherwise provided in this section, the Corporation may, at the sole discretion of the Corporation, conduct a pilot program submitted to and approved by the Board under [section 1508(h) of this title][/us/usc/t7/s1508/h], or that is developed under subsection (b) of this section or [section 1522 of this title][/us/usc/t7/s1522], to evaluate whether a proposal or new risk management tool tested by the pilot program is suitable for the marketplace and addresses the needs of producers of agricultural commodities.
+            Except as otherwise provided in this section, the Corporation may, at the sole discretion of the Corporation, conduct a pilot program submitted to and approved by the Board under [section 1508(h) of this title][/us/usc/t7/s1508/h], or that is developed under subsection (b) or [section 1522 of this title][/us/usc/t7/s1522], to evaluate whether a proposal or new risk management tool tested by the pilot program is suitable for the marketplace and addresses the needs of producers of agricultural commodities.
 
         (2) __Private coverage__ 
 

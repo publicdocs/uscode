@@ -25,7 +25,7 @@
 
     (c) __Activities__ 
 
-    The proceeds from the payments referred to in subsection (a) of this section may be used in the appropriate developing country, through agreements with recipient governments, private voluntary organizations, and cooperatives, for the following:
+    The proceeds from the payments referred to in subsection (a) may be used in the appropriate developing country, through agreements with recipient governments, private voluntary organizations, and cooperatives, for the following:
 
         (1) __Agricultural development__ 
 
@@ -73,7 +73,7 @@
 
         (1) __Exemption__ 
 
-            [Section 1306 of title 31][/us/usc/t31/s1306] shall not apply to local currencies used by the President under paragraphs (1) through (7) of subsection (c) of this section.
+            [Section 1306 of title 31][/us/usc/t31/s1306] shall not apply to local currencies used by the President under paragraphs (1) through (7) of subsection (c).
 
         (2) __Use of currencies by other agencies__ 
 

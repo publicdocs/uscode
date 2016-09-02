@@ -21,7 +21,7 @@
 
     (b) __Contents__ 
 
-    The notice required under subsection (a) of this section shall—
+    The notice required under subsection (a) shall—
 
         (1) include a summary of all primary loan service programs, preservation loan service programs, debt settlement programs, and appeal procedures, including the eligibility criteria, and terms and conditions of such programs and procedures;
 
@@ -41,7 +41,7 @@
 
     (d) __Timing__ 
 
-    The notice described in subsection (b) of this section shall be provided—
+    The notice described in subsection (b) shall be provided—
 
         (1) at the time an application is made for participation in a loan service program;
 

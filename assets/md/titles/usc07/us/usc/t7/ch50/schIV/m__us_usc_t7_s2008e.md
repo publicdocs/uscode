@@ -21,11 +21,11 @@
 
     (b) __Ensuring compliance__ 
 
-        The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under such rural development programs is not subject to such a condition. Such safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate, the prohibition in subsection (a) of this section.
+        The Secretary shall establish, by regulation, adequate safeguards to ensure that assistance under such rural development programs is not subject to such a condition. Such safeguards shall include periodic certifications and audits, and appropriate measures and sanctions against any person violating, or attempting to violate, the prohibition in subsection (a).
 
     (c) __Regulations__ 
 
-        Not later than 6 months after November 1, 1993, the Secretary shall issue interim final regulations to ensure compliance with subsection (a) of this section.
+        Not later than 6 months after November 1, 1993, the Secretary shall issue interim final regulations to ensure compliance with subsection (a).
 
 ([Pub. L. 87–128, title III, § 370][/us/pl/87/128/s370], as added [Pub. L. 103–129, § 5][/us/pl/103/129/s5], Nov. 1, 1993, [107 Stat. 1366][/us/stat/107/1366].)
 

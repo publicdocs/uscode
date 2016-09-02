@@ -41,11 +41,11 @@
 
         (1) __In general__ 
 
-            In imposing a sentence on a person convicted of an offense in violation of subsection (b) or (c) of this section, a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
+            In imposing a sentence on a person convicted of an offense in violation of subsection (b) or (c), a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
 
         (2) __Property subject to forfeiture__ 
 
-            All property, real and personal, used in a transaction or attempted transaction, to commit, or to facilitate the commission of, a violation (other than a misdemeanor) of subsection (b) or (c) of this section, or proceeds traceable to a violation of subsection (b) or (c) of this section, shall be subject to forfeiture to the United States under paragraph (1).
+            All property, real and personal, used in a transaction or attempted transaction, to commit, or to facilitate the commission of, a violation (other than a misdemeanor) of subsection (b) or (c), or proceeds traceable to a violation of subsection (b) or (c), shall be subject to forfeiture to the United States under paragraph (1).
 
         (3) __Interest of owner__ 
 

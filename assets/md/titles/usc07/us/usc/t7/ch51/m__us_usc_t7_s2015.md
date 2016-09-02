@@ -391,7 +391,7 @@
 
         (3) __Application after disqualification period__ 
 
-            A member of a household disqualified under paragraph (1) may, after the disqualification period has expired, apply for benefits under this chapter and shall be treated as a new applicant, except that a prior disqualification under subsection (d) of this section shall be considered in determining eligibility.
+            A member of a household disqualified under paragraph (1) may, after the disqualification period has expired, apply for benefits under this chapter and shall be treated as a new applicant, except that a prior disqualification under subsection (d) shall be considered in determining eligibility.
 
     (j) __Disqualification for receipt of multiple benefits__ 
 
@@ -491,7 +491,7 @@
 
             (B) a program under [section 2296 of title 19][/us/usc/t19/s2296]; and
 
-            (C) a program of employment and training operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under subsection (d)(4) of this section, other than a job search program or a job search training program.
+            (C) a program of employment and training operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under subsection (d)(4), other than a job search program or a job search training program.
 
         (2) __Work requirement__ 
 
@@ -515,7 +515,7 @@
 
             (C) a parent or other member of a household with responsibility for a dependent child;
 
-            (D) otherwise exempt under subsection (d)(2) of this section; or
+            (D) otherwise exempt under subsection (d)(2); or
 
             (E) a pregnant woman.
 

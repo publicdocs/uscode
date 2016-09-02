@@ -17,7 +17,7 @@
 
     (a) __Delinquent borrowers prohibited from obtaining direct operating loans__ 
 
-        The Secretary may not make a direct operating loan under subchapter II of this chapter to a borrower who is delinquent on any loan made or guaranteed under this chapter.
+        The Secretary may not make a direct operating loan under subchapter II to a borrower who is delinquent on any loan made or guaranteed under this chapter.
 
     (b) __Prohibition of loans for borrowers that have received debt forgiveness__ 
 

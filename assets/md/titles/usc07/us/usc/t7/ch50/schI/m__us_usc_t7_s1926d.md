@@ -21,11 +21,11 @@
 
     (b) __Matching funds__ 
 
-        To be eligible to receive a grant under subsection (a) of this section, the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
+        To be eligible to receive a grant under subsection (a), the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
 
     (c) __Consultation with State of Alaska__ 
 
-        The Secretary shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each village.
+        The Secretary shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) according to the needs of, and relative health and sanitation conditions in, each village.
 
     (d) __Authorization of appropriations__ 
 

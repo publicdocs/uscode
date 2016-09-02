@@ -33,7 +33,7 @@
 
         (1) __Minimum levels__ 
 
-            Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form of processed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
+            Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) be in the form of processed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
 
         (2) __Waiver of minimum__ 
 

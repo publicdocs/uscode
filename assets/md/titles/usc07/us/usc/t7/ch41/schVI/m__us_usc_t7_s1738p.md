@@ -19,9 +19,9 @@
 
     For the purpose of facilitating eligible debt swaps, the President, in accordance with this section—
 
-        (1) may sell to an eligible purchaser (as determined pursuant to subsection (c)(1) of this section) any qualified debt of an eligible country; or
+        (1) may sell to an eligible purchaser (as determined pursuant to subsection (c)(1)) any qualified debt of an eligible country; or
 
-        (2) may reduce or cancel eligible debt of an eligible country upon receipt of payment from an eligible payor (as determined under subsection (c)(2) of this section).
+        (2) may reduce or cancel eligible debt of an eligible country upon receipt of payment from an eligible payor (as determined under subsection (c)(2)).
 
     (b) __Terms and conditions__ 
 
@@ -31,11 +31,11 @@
 
         (1) __Sales of debt__ 
 
-            Qualified debt may be sold pursuant to subsection (a)(1) of this section only to a purchaser who presents plans satisfactory to the President for using the debt for the purpose of engaging in eligible debt swaps.
+            Qualified debt may be sold pursuant to subsection (a)(1) only to a purchaser who presents plans satisfactory to the President for using the debt for the purpose of engaging in eligible debt swaps.
 
         (2) __Reduction or cancellation of debt__ 
 
-            Qualified debt may be reduced or cancelled pursuant to subsection (a)(2) of this section only if the payor presents plans satisfactory to the President for using such reduction or cancellation for the purpose of facilitating eligible debt swaps.
+            Qualified debt may be reduced or cancelled pursuant to subsection (a)(2) only if the payor presents plans satisfactory to the President for using such reduction or cancellation for the purpose of facilitating eligible debt swaps.
 
     (d) __Debtor consultation and right of first refusal__ 
 
@@ -53,7 +53,7 @@
 
     (f) __Administration__ 
 
-        The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible under subsection (c) of this section, and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
+        The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible under subsection (c), and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
 
     (g) __Appropriations requirement__ 
 

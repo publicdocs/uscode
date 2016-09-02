@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            The Administrator may provide agricultural commodities for nonemergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use the commodities in accordance with this subchapter.
+            The Administrator may provide agricultural commodities for nonemergency assistance under this subchapter through eligible organizations (as described in subsection (d)) that have entered into an agreement with the Administrator to use the commodities in accordance with this subchapter.
 
         (2) __Limitation__ 
 
@@ -47,7 +47,7 @@
 
     (d) __Eligible organizations__ 
 
-    To be eligible to receive assistance under subsection (b) of this section an organization shall be—
+    To be eligible to receive assistance under subsection (b) an organization shall be—
 
         (1) a private voluntary organization or cooperative that is, to the extent practicable, registered with the Administrator; or
 
@@ -57,7 +57,7 @@
 
         (1) __In general__ 
 
-        Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 20 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
+        Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 7.5 percent nor more than 20 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d), to assist the organizations in—
 
             (A) establishing and enhancing programs under this subchapter;
 
@@ -69,7 +69,7 @@
 
         (2) __Request for funds__ 
 
-            To receive funds made available under paragraph (1), an eligible organization described in subsection (d) of this section shall submit a request for the funds that is subject to approval by the Administrator.
+            To receive funds made available under paragraph (1), an eligible organization described in subsection (d) shall submit a request for the funds that is subject to approval by the Administrator.
 
         (3) __Assistance with respect to sale__ 
 
@@ -173,7 +173,7 @@
 
     Subsec. (e). [Pub. L. 104–127, § 207(a)(2)(A)][/us/pl/104/127/s207/a/2/A], substituted “eligible organizations” for “private voluntary organizations and cooperatives” in heading.
 
-    Subsec. (e)(1). [Pub. L. 104–127, § 207(a)(2)(B)][/us/pl/104/127/s207/a/2/B], in introductory provisions, substituted “$28,000,000” for “$13,500,000” and “eligible organizations described in subsection (d) of this section, to assist the organizations” for “private voluntary organizations and cooperatives to assist such organizations and cooperatives”.
+    Subsec. (e)(1). [Pub. L. 104–127, § 207(a)(2)(B)][/us/pl/104/127/s207/a/2/B], in introductory provisions, substituted “$28,000,000” for “$13,500,000” and “eligible organizations described in subsection (d), to assist the organizations” for “private voluntary organizations and cooperatives to assist such organizations and cooperatives”.
 
     Subsec. (e)(2). [Pub. L. 104–127, § 207(a)(2)(C)][/us/pl/104/127/s207/a/2/C], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In order to receive funds made available under paragraph (1), a private voluntary organization or cooperative must submit a request for such funds (which must be approved by the Administrator) when submitting a proposal to the Administrator for an agreement under this subchapter. Such request for funds shall include a specific explanation of—
 

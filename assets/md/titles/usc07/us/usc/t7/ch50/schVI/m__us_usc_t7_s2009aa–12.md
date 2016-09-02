@@ -21,7 +21,7 @@
 
     (b) __Administrative expenses__ 
 
-        Not more than 5 percent of the amount appropriated under subsection (a) of this section for a fiscal year shall be used for administrative expenses of the Authority.
+        Not more than 5 percent of the amount appropriated under subsection (a) for a fiscal year shall be used for administrative expenses of the Authority.
 
 ([Pub. L. 87–128, title III, § 382M][/us/pl/87/128/s382M], as added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–280; amended [Pub. L. 107–171, title VI, § 6027(g)][/us/pl/107/171/s6027/g], May 13, 2002, [116 Stat. 374][/us/stat/116/374]; [Pub. L. 110–234, title VI, § 6025(a)][/us/pl/110/234/s6025/a], May 22, 2008, [122 Stat. 1177][/us/stat/122/1177]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6025(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1938; [Pub. L. 113–79, title VI, § 6026(a)][/us/pl/113/79/s6026/a], Feb. 7, 2014, [128 Stat. 850][/us/stat/128/850].)
 

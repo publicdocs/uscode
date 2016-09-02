@@ -31,9 +31,9 @@
 
     (b) __Priority__ 
 
-    In carrying out subsection (a) of this section, the Secretary shall—
+    In carrying out subsection (a), the Secretary shall—
 
-        (1) give priority to projects described in subsection (a)(1) of this section; and
+        (1) give priority to projects described in subsection (a)(1); and
 
         (2) provide at least 70 percent of all such grants to such projects.
 
@@ -43,7 +43,7 @@
 
         (1) be a public or private nonprofit entity; and
 
-        (2) in the case of a grant made under subsection (a)(1) of this section, demonstrate to the Secretary that the decline referred to in such subsection occurred, or will occur, within 2 years of the date the application was filed for such grant.
+        (2) in the case of a grant made under subsection (a)(1), demonstrate to the Secretary that the decline referred to in such subsection occurred, or will occur, within 2 years of the date the application was filed for such grant.
 
     (d) __Uses__ 
 
@@ -61,7 +61,7 @@
 
         (2) __Joint proposals__ 
 
-            Nothing in this section shall preclude rural communities from submitting joint proposals for emergency water assistance, subject to the restrictions contained in subsection (e) of this section. Such restrictions should be considered in the aggregate, depending on the number of communities involved.
+            Nothing in this section shall preclude rural communities from submitting joint proposals for emergency water assistance, subject to the restrictions contained in subsection (e). Such restrictions should be considered in the aggregate, depending on the number of communities involved.
 
     (e) __Restrictions__ 
 
@@ -81,13 +81,13 @@
 
     Grants made under this section may not exceed—
 
-        (1) in the case of each grant made under subsection (a)(1) of this section, $500,000; and
+        (1) in the case of each grant made under subsection (a)(1), $500,000; and
 
-        (2) in the case of each grant made under subsection (a)(2) of this section, $150,000.
+        (2) in the case of each grant made under subsection (a)(2), $150,000.
 
     (g) __Full funding__ 
 
-        Subject to subsection (e) of this section, grants under this section shall be made in an amount equal to 100 percent of the costs of the projects conducted under this section.
+        Subject to subsection (e), grants under this section shall be made in an amount equal to 100 percent of the costs of the projects conducted under this section.
 
     (h) __Application__ 
 

@@ -25,15 +25,15 @@
 
         (2) __Coordinating Committee__ 
 
-            The term “Coordinating Committee” means the National Rural Development Coordinating Committee established by subsection (c) of this section.
+            The term “Coordinating Committee” means the National Rural Development Coordinating Committee established by subsection (c).
 
         (3) __Partnership__ 
 
-            The term “Partnership” means the National Rural Development Partnership continued by subsection (b) of this section.
+            The term “Partnership” means the National Rural Development Partnership continued by subsection (b).
 
         (4) __State rural development council__ 
 
-            The term “State rural development council” means a State rural development council that meets the requirements of subsection (d) of this section.
+            The term “State rural development council” means a State rural development council that meets the requirements of subsection (d).
 
     (b) __Partnership__ 
 
@@ -197,7 +197,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), a State rural development council shall provide matching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2) of this section.
+            Except as provided in paragraph (2), a State rural development council shall provide matching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2).
 
         (2) __Exceptions to matching requirement for certain Federal funds__ 
 

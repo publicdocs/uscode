@@ -21,7 +21,7 @@
 
     (b) __Content of plan__ 
 
-        A State development plan submitted under subsection (a) of this section shall reflect the goals, objectives, and priorities identified in the regional development plan developed under [section 2009bb–1(d)(2) of this title][/us/usc/t7/s2009bb–1/d/2].
+        A State development plan submitted under subsection (a) shall reflect the goals, objectives, and priorities identified in the regional development plan developed under [section 2009bb–1(d)(2) of this title][/us/usc/t7/s2009bb–1/d/2].
 
     (c) __Consultation with interested local parties__ 
 

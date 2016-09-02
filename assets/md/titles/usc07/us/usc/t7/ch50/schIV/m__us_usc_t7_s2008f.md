@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        As a condition of obtaining any benefit (including a direct loan, loan guarantee, or payment) described in subsection (b) of this section, a borrower must obtain at least catastrophic risk protection insurance coverage under [section 1508 of this title][/us/usc/t7/s1508] for the crop and crop year for which the benefit is sought, if the coverage is offered by the Corporation.
+        As a condition of obtaining any benefit (including a direct loan, loan guarantee, or payment) described in subsection (b), a borrower must obtain at least catastrophic risk protection insurance coverage under [section 1508 of this title][/us/usc/t7/s1508] for the crop and crop year for which the benefit is sought, if the coverage is offered by the Corporation.
 
     (b) __Applicable benefits__ 
 
-    Subsection (a) of this section shall apply to—
+    Subsection (a) shall apply to—
 
         (1) a farm ownership loan (FO) under [section 1923 of this title][/us/usc/t7/s1923];
 

@@ -43,7 +43,7 @@
 
     (c) __Delinquent claims and obligations__ 
 
-        The Secretary may use for the prosecution or defense of any claim or obligation described in subsection (b)(5) of this section the Attorney General, the General Counsel of the Department of Agriculture, or a private attorney who has entered into a contract with the Secretary.
+        The Secretary may use for the prosecution or defense of any claim or obligation described in subsection (b)(5) the Attorney General, the General Counsel of the Department of Agriculture, or a private attorney who has entered into a contract with the Secretary.
 
     (d) __Rural college coordinated strategy__ 
 

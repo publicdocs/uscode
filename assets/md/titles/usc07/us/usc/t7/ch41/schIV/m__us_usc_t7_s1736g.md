@@ -15,7 +15,7 @@
 
 ## § 1736g. Coordination of foreign assistance programs
 
-    To the maximum extent practicable, assistance for a foreign country under subchapter III–A of this chapter shall be coordinated and integrated with United States development assistance objectives and programs for that country and with the overall development strategy of that country. Special emphasis should be placed on, and funds devoted to, activities that will increase the nutritional impact of programs of assistance under subchapter III–A of this chapter, and child survival programs and projects, in least developed countries by improving the design and implementation of such programs and projects.
+    To the maximum extent practicable, assistance for a foreign country under subchapter III–A shall be coordinated and integrated with United States development assistance objectives and programs for that country and with the overall development strategy of that country. Special emphasis should be placed on, and funds devoted to, activities that will increase the nutritional impact of programs of assistance under subchapter III–A, and child survival programs and projects, in least developed countries by improving the design and implementation of such programs and projects.
 
 ([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 413, as added [Pub. L. 96–53, title II, § 210][/us/pl/96/53/s210], Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; amended [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3656][/us/stat/104/3656]; [Pub. L. 104–127, title II, § 221][/us/pl/104/127/s221], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958]; [Pub. L. 110–246, title III, § 3022][/us/pl/110/246/s3022], June 18, 2008, [122 Stat. 1829][/us/stat/122/1829]; [Pub. L. 113–79, title III, § 3015][/us/pl/113/79/s3015], Feb. 7, 2014, [128 Stat. 778][/us/stat/128/778].)
 
@@ -25,7 +25,7 @@
 
     2008—[Pub. L. 110–246][/us/pl/110/246] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    1996—[Pub. L. 104–127][/us/pl/104/127] substituted “subchapter III–A of this chapter” for “this chapter” in two places.
+    1996—[Pub. L. 104–127][/us/pl/104/127] substituted “subchapter III–A” for “this chapter” in two places.
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions requiring, to maximum extent practicable, availability of commodities on multiyear basis.
 

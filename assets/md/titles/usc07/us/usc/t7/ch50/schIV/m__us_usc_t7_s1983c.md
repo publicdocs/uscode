@@ -27,7 +27,7 @@
 
     (b) __Construction of section__ 
 
-        Subsection (a) of this section shall not be construed to supersede any duty imposed on the Secretary by any law or rule of law in effect immediately before January 6, 1988, unless such duty is in direct conflict with any duty imposed by subsection (a) of this section.
+        Subsection (a) shall not be construed to supersede any duty imposed on the Secretary by any law or rule of law in effect immediately before January 6, 1988, unless such duty is in direct conflict with any duty imposed by subsection (a).
 
 ([Pub. L. 87–128, title III, § 333C][/us/pl/87/128/s333C], as added [Pub. L. 100–233, title VI, § 609][/us/pl/100/233/s609], Jan. 6, 1988, [101 Stat. 1668][/us/stat/101/1668].)
 

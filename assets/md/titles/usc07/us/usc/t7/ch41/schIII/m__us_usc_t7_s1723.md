@@ -21,7 +21,7 @@
 
     (b) __Minimum level of local sales__ 
 
-        In carrying out agreements of the type referred to in subsection (a) of this section, the Administrator shall permit private voluntary organizations and cooperatives to sell, in 1 or more recipient countries, or in 1 or more countries in the same region, an amount of commodities equal to not less than 15 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate proceeds to be used as provided in this section.
+        In carrying out agreements of the type referred to in subsection (a), the Administrator shall permit private voluntary organizations and cooperatives to sell, in 1 or more recipient countries, or in 1 or more countries in the same region, an amount of commodities equal to not less than 15 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate proceeds to be used as provided in this section.
 
     (c) __Description of intended uses__ 
 

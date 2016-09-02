@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        To provide for a trust solely to meet emergency humanitarian food needs in developing countries, the Secretary of Agriculture (referred to in this section as the “Secretary”) shall establish and maintain a trust of wheat, rice, corn, or sorghum, any combination of the commodities, or funds for use as described in subsection (c) of this section.
+        To provide for a trust solely to meet emergency humanitarian food needs in developing countries, the Secretary of Agriculture (referred to in this section as the “Secretary”) shall establish and maintain a trust of wheat, rice, corn, or sorghum, any combination of the commodities, or funds for use as described in subsection (c).
 
     (b) __Commodities or funds in trust__ 
 
@@ -45,7 +45,7 @@
 
             (A) __In general__ 
 
-            Subject to subsection (h) of this section, commodities of equivalent value to eligible commodities in the trust established under this section may be acquired—
+            Subject to subsection (h), commodities of equivalent value to eligible commodities in the trust established under this section may be acquired—
 
                 (i)
 
@@ -61,7 +61,7 @@
 
             Any funds used to acquire eligible commodities through purchases from producers or in the market to replenish the trust shall be derived—
 
-                (i) with respect to fiscal years 2000 through 2018 from funds made available to carry out the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2) of this section, except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2018;
+                (i) with respect to fiscal years 2000 through 2018 from funds made available to carry out the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2), except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2018;
 
                 (ii) from funds authorized for that use by an appropriations Act; or
 
@@ -157,7 +157,7 @@
 
             (B) for the periodic rotation or replacement of stocks of eligible commodities in the trust to avoid spoilage and deterioration of the commodities;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “and”. </sup></sup> 
 
-            (C) subject to the need for release of commodities from the trust under subsection (c)(1) of this section, for the management of the trust to preserve the value of the trust through acquisitions under subsection (b)(2) of this section; and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The “; and” probably should be a period. </sup></sup> 
+            (C) subject to the need for release of commodities from the trust under subsection (c)(1), for the management of the trust to preserve the value of the trust through acquisitions under subsection (b)(2); and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The “; and” probably should be a period. </sup></sup> 
 
         (3) __Funds__ 
 
@@ -173,7 +173,7 @@
 
     Eligible commodities in the trust established under this section shall not be—
 
-        (1) considered a part of the total domestic supply (including carryover) for the purpose of subsection (c) of this section or for the purpose of administering the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.); and
+        (1) considered a part of the total domestic supply (including carryover) for the purpose of subsection (c) or for the purpose of administering the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.); and
 
         (2) subject to any quantitative limitation on exports that may be imposed under [section 2406 of title 50][/us/usc/t50/s2406], Appendix.
 
@@ -187,7 +187,7 @@
 
             (A) __In general__ 
 
-                The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available to carry out the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.) and the funds shall be available to replenish the trust under subsection (b) of this section.
+                The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available to carry out the Food for Peace Act ([7 U.S.C. 1691][/us/usc/t7/s1691] et seq.) and the funds shall be available to replenish the trust under subsection (b).
 
             (B) __Basis for reimbursement__ 
 
@@ -293,7 +293,7 @@
 
     Subsec. (f)(2). [Pub. L. 105–385, § 212(a)(4)(A)][/us/pl/105/385/s212/a/4/A], inserted “of trust” after “Reimbursement” in heading.
 
-    Subsec. (f)(2)(A). [Pub. L. 105–385, § 212(a)(4)(B)][/us/pl/105/385/s212/a/4/B], inserted before period at end “and the funds shall be available to replenish the trust under subsection (b) of this section”.
+    Subsec. (f)(2)(A). [Pub. L. 105–385, § 212(a)(4)(B)][/us/pl/105/385/s212/a/4/B], inserted before period at end “and the funds shall be available to replenish the trust under subsection (b)”.
 
     Subsecs. (f)(2)(B)(ii), (h)(1), (2). [Pub. L. 105–385, § 212(b)(3)(B)][/us/pl/105/385/s212/b/3/B], substituted “trust” for “reserve”.
 

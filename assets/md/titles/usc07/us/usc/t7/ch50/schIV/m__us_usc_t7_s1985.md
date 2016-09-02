@@ -21,13 +21,13 @@
 
     (b) __Operation or lease of realty__ 
 
-        Except as provided in subsections (c) and (e) of this section, real property administered under the provisions of this chapter may be operated or leased by the Secretary for such period or periods as the Secretary may deem necessary to protect the Government’s investment therein.
+        Except as provided in subsections (c) and (e), real property administered under the provisions of this chapter may be operated or leased by the Secretary for such period or periods as the Secretary may deem necessary to protect the Government’s investment therein.
 
     (c) __Sale of property__ 
 
         (1) __In general__ 
 
-        Subject to this subsection and subsection (e)(1)(A) of this section, the Secretary shall offer to sell real property that is acquired by the Secretary under this chapter using the following order and method of sale:
+        Subject to this subsection and subsection (e)(1)(A), the Secretary shall offer to sell real property that is acquired by the Secretary under this chapter using the following order and method of sale:
 
             (A) __Advertisement__ 
 
@@ -83,7 +83,7 @@
 
                 (i) __Beginning farmer or rancher; socially disadvantaged farmer or rancher__ 
 
-                    The Secretary may lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I of this chapter but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
+                    The Secretary may lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
 
                 (ii) __Term__ 
 
@@ -227,7 +227,7 @@
 
                  The Secretary shall provide the borrower-owner of the real property with written notice of the rights and protections provided under this chapter to the borrower-owner, and the Indian tribe that has jurisdiction over the reservation in which the real property is located, from foreclosure or liquidation of the real property, including written notice of—
 
-                    (I) the provisions of subparagraph (A), this subparagraph, and subsection (g)(6)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section;
+                    (I) the provisions of subparagraph (A), this subparagraph, and subsection (g)(6);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
                     (II)
 
@@ -551,7 +551,7 @@
 
     “(2) Until such time as the Secretary accelerates a loan made or insured under this chapter, the Secretary shall release from the normal income security provided for such loan an amount sufficient to pay the essential household and farm operating expenses of the borrower, as determined by the Secretary.”
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1314(a)(1)][/us/pl/99/198/s1314/a/1], substituted “Except as provided in subsection (e) of this section, real property” for “Real property”.
+    1985—Subsec. (b). [Pub. L. 99–198, § 1314(a)(1)][/us/pl/99/198/s1314/a/1], substituted “Except as provided in subsection (e), real property” for “Real property”.
 
     Subsec. (c). [Pub. L. 99–198, § 1314(a)(2)][/us/pl/99/198/s1314/a/2], substituted “Except as provided in subsection (e) of this section, the Secretary” for “The Secretary” and inserted sentence at end providing that notwithstanding the preceding sentence, the Secretary may for conservation purposes grant or sell an easement, restriction, development rights, or the equivalent thereof, to a unit of local or State government or a private nonprofit organization separately from the underlying fee or sum of all other rights possessed by the United States.
 

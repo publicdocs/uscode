@@ -15,7 +15,7 @@
 
 ## § 1736g–3. Use of certain local currency
 
-    Local currency payments received by the United States pursuant to agreements entered into under subchapter II of this chapter (as in effect on November 27, 1990) may be utilized by the Secretary in accordance with [section 1708 of this title][/us/usc/t7/s1708] (as in effect on November 27, 1990).
+    Local currency payments received by the United States pursuant to agreements entered into under subchapter II (as in effect on November 27, 1990) may be utilized by the Secretary in accordance with [section 1708 of this title][/us/usc/t7/s1708] (as in effect on November 27, 1990).
 
 ([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title IV, § 416, as added [Pub. L. 104–127, title II, § 223][/us/pl/104/127/s223], Apr. 4, 1996, [110 Stat. 958][/us/stat/110/958].)
 

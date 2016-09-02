@@ -33,7 +33,7 @@
 
         (1) __In general__ 
 
-        Funds for grants under subsection (a) of this section may be provided—
+        Funds for grants under subsection (a) may be provided—
 
             (A) entirely from appropriations to carry out this section;
 

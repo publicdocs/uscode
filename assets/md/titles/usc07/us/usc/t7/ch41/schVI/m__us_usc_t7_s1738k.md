@@ -27,7 +27,7 @@
 
     (b) __Regulation__ 
 
-        All activities of the type referred to in subsection (a) of this section shall, where appropriate, include initiatives that link conservation of natural resources with local community development.
+        All activities of the type referred to in subsection (a) shall, where appropriate, include initiatives that link conservation of natural resources with local community development.
 
     (c) __Setting of priorities__ 
 

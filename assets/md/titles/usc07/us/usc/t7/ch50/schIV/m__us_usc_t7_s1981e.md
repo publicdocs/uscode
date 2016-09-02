@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            For purposes of averaging past yields of the farm of a borrower or applicant over a period of crop years to calculate future yields for the farm under this chapter (except for loans under subchapter III of this chapter), the Secretary shall permit the borrower or applicant to exclude the crop year with the lowest actual or county average yield for the farm from the calculation, if the borrower or applicant was affected by a disaster during at least 2 of the crop years during the period.
+            For purposes of averaging past yields of the farm of a borrower or applicant over a period of crop years to calculate future yields for the farm under this chapter (except for loans under subchapter III), the Secretary shall permit the borrower or applicant to exclude the crop year with the lowest actual or county average yield for the farm from the calculation, if the borrower or applicant was affected by a disaster during at least 2 of the crop years during the period.
 
         (2) __Affected by a disaster__ 
 
@@ -31,7 +31,7 @@
 
         (3) __Application of subsection__ 
 
-            Paragraph (1) shall apply to all actions taken by the Secretary to carry out this chapter (except for loans under subchapter III of this chapter) that involve the yields of a farm of a borrower or applicant, including making loans and loan guarantees, servicing loans, and making credit sales.
+            Paragraph (1) shall apply to all actions taken by the Secretary to carry out this chapter (except for loans under subchapter III) that involve the yields of a farm of a borrower or applicant, including making loans and loan guarantees, servicing loans, and making credit sales.
 
 ([Pub. L. 87–128, title III, § 331E][/us/pl/87/128/s331E], as added [Pub. L. 100–233, title VI, § 606][/us/pl/100/233/s606], Jan. 6, 1988, [101 Stat. 1667][/us/stat/101/1667]; amended [Pub. L. 102–237, title V, § 501(d)(1)][/us/pl/102/237/s501/d/1], Dec. 13, 1991, [105 Stat. 1866][/us/stat/105/1866]; [Pub. L. 102–552, title V, § 516(g)(1)][/us/pl/102/552/s516/g/1], Oct. 28, 1992, [106 Stat. 4138][/us/stat/106/4138].)
 

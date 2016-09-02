@@ -25,11 +25,11 @@
 
          The term “borrower-owner” means—
 
-            (A) a borrower of a loan made or insured by the Secretary or the Administrator who meets the eligibility requirements of subsection (c)(1) of this section; or
+            (A) a borrower of a loan made or insured by the Secretary or the Administrator who meets the eligibility requirements of subsection (c)(1); or
 
             (B) in any case in which an owner of homestead property pledged the property to secure the loan and the owner is different than the borrower, the owner.
 
-        (3) The term “farm program loan” means any loan made by the Administrator under the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.) for any of the purposes authorized for loans under subchapters  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subchapter”. </sup></sup>  I or II of this chapter.
+        (3) The term “farm program loan” means any loan made by the Administrator under the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.) for any of the purposes authorized for loans under subchapters  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subchapter”. </sup></sup>  I or II.
 
         (4) The term “homestead property” means the principal residence and adjoining property possessed and occupied by a borrower-owner specified in paragraph (2) of this subsection, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual.
 
@@ -39,7 +39,7 @@
 
         (1)
 
-         The Secretary or the Administrator shall, on application by a borrower-owner who meets the eligibility requirements of subsection (c)(1) of this section, permit the borrower-owner to retain possession and occupancy of homestead property under the terms set forth, and until the action described in this section has been completed, if—
+         The Secretary or the Administrator shall, on application by a borrower-owner who meets the eligibility requirements of subsection (c)(1), permit the borrower-owner to retain possession and occupancy of homestead property under the terms set forth, and until the action described in this section has been completed, if—
 
             (A) the Secretary forecloses, holds in inventory on January 6, 1988, or takes into inventory, property securing a loan made or insured under this chapter;
 
@@ -49,7 +49,7 @@
 
         (2) The value of the homestead property shall be determined insofar as possible by an independent appraisal made within six months from the date of the borrower-owner’s application to retain possession and occupancy of the homestead property.
 
-        (3) The period of occupancy of homestead property under this subsection may not exceed five years, but in no case shall the Secretary or the Administrator grant a period of occupancy less than three years, subject to compliance with the requirements of subsection (c) of this section.
+        (3) The period of occupancy of homestead property under this subsection may not exceed five years, but in no case shall the Secretary or the Administrator grant a period of occupancy less than three years, subject to compliance with the requirements of subsection (c).
 
     (c) __Terms and conditions__ 
 
@@ -93,11 +93,11 @@
 
     (d) __First right of refusal of reacquisition__ 
 
-        At the end of the period of occupancy described in subsection (c) of this section, the Secretary or the Administrator shall grant to the borrower-owner a first right of refusal to reacquire the homestead property on such terms and conditions (which may include payment of principal in installments) as the Secretary or the Administrator shall determine. Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer.
+        At the end of the period of occupancy described in subsection (c), the Secretary or the Administrator shall grant to the borrower-owner a first right of refusal to reacquire the homestead property on such terms and conditions (which may include payment of principal in installments) as the Secretary or the Administrator shall determine. Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer.
 
     (e) __Value as measure of reacquisition payment of principal__ 
 
-        At the time any reacquisition agreement is entered into, the Secretary or the Administrator may not demand a total payment of principal that is in excess of the value of the homestead property as established under subsection (b)(2) of this section.
+        At the time any reacquisition agreement is entered into, the Secretary or the Administrator may not demand a total payment of principal that is in excess of the value of the homestead property as established under subsection (b)(2).
 
     (f) __Contract authority__ 
 

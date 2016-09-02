@@ -117,7 +117,7 @@
 
     (d) __Joint loans or grants for private business enterprises; restrictions; system of certification for expeditious processing of requests for assistance; prior approval of grant or loan; equity investment as condition for loan commitment; issuance of certificates of beneficial ownership of notes__ 
 
-        (1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) of this section for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) of this section for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
+        (1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
 
         (2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
 
@@ -285,7 +285,7 @@
 
         (1) __Definition of business and industry loan__ 
 
-            In this subsection, the term “business and industry loan” means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(2)(A) of this section, including guarantees described in paragraph (3)(A)(ii).
+            In this subsection, the term “business and industry loan” means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(2)(A), including guarantees described in paragraph (3)(A)(ii).
 
         (2) __Loan guarantees for the purchase of cooperative stock__ 
 
@@ -307,7 +307,7 @@
 
                 (i) __In general__ 
 
-                    The Secretary may make or guarantee a business and industry loan to a cooperative organization that is headquartered in a metropolitan area if the loan is used for a project or venture described in subsection (a) of this section that is located in a rural area or a loan guarantee that meets the requirements of paragraph (6).
+                    The Secretary may make or guarantee a business and industry loan to a cooperative organization that is headquartered in a metropolitan area if the loan is used for a project or venture described in subsection (a) that is located in a rural area or a loan guarantee that meets the requirements of paragraph (6).
 
                 (ii) __Equity__ 
 
@@ -345,7 +345,7 @@
 
                 (ii) the applicant demonstrates to the Secretary that the primary benefit of the loan guarantee will be to provide employment for residents of a rural area; and
 
-                (iii) the total amount of business and industry loans guaranteed for a fiscal year under this paragraph does not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A) of this section.
+                (iii) the total amount of business and industry loans guaranteed for a fiscal year under this paragraph does not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A).
 
             (B) __Principal amounts__ 
 
@@ -391,7 +391,7 @@
 
             (C) __Maximum amount__ 
 
-                The total amount of business and industry loans made to cooperative organizations and guaranteed for a fiscal year under this subsection with principal amounts that are in excess of $25,000,000 may not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A) of this section.
+                The total amount of business and industry loans made to cooperative organizations and guaranteed for a fiscal year under this subsection with principal amounts that are in excess of $25,000,000 may not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(2)(A).
 
         (9) __Locally or regionally produced agricultural food products__ 
 
@@ -449,7 +449,7 @@
 
     (h) __Loan guarantees for certain loans__ 
 
-        The Secretary may guarantee loans made under subsection (a) of this section to finance the issuance of bonds for the projects described in [section 1926(a)(24) of this title][/us/usc/t7/s1926/a/24].
+        The Secretary may guarantee loans made under subsection (a) to finance the issuance of bonds for the projects described in [section 1926(a)(24) of this title][/us/usc/t7/s1926/a/24].
 
     (i) __Appropriate technology transfer for rural areas program__ 
 

@@ -25,7 +25,7 @@
 
         (2) __Institute__ 
 
-            The term “institute” means a rural telework institute established using a grant under subsection (b) of this section.
+            The term “institute” means a rural telework institute established using a grant under subsection (b).
 
         (3) __Telework__ 
 
@@ -125,7 +125,7 @@
 
     (f) __Authorization of appropriation__ 
 
-        There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2002 through 2007, of which $5,000,000 shall be provided to establish and support an institute under subsection (b) of this section.
+        There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2002 through 2007, of which $5,000,000 shall be provided to establish and support an institute under subsection (b).
 
 ([Pub. L. 87–128, title III, § 379][/us/pl/87/128/s379], as added [Pub. L. 107–171, title VI, § 6022][/us/pl/107/171/s6022], May 13, 2002, [116 Stat. 368][/us/stat/116/368].)
 

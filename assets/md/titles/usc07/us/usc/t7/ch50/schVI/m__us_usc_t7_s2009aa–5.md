@@ -39,7 +39,7 @@
 
         (1) __In general__ 
 
-            Except as provided in this subsection, no funds shall be provided under this subchapter for a project located in a county designated as a nondistressed county under subsection (a)(2) of this section.
+            Except as provided in this subsection, no funds shall be provided under this subchapter for a project located in a county designated as a nondistressed county under subsection (a)(2).
 
         (2) __Exceptions__ 
 

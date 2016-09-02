@@ -35,7 +35,7 @@
 
     (b) __Eligibility determination__ 
 
-        The President shall determine whether a country is an eligible country for purposes of subsection (a) of this section.
+        The President shall determine whether a country is an eligible country for purposes of subsection (a).
 
 ([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 603, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3658][/us/stat/104/3658]; amended [Pub. L. 102–237, title III, § 302][/us/pl/102/237/s302], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855].)
 

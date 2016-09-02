@@ -27,7 +27,7 @@
 
         (2) require the eligible country to make interest payments under [section 1738g(a) of this title][/us/usc/t7/s1738g/a] into the Environmental Fund;
 
-        (3) require the eligible country to make prompt disbursements from the Environmental Fund to the body described in subsection (c) of this section;
+        (3) require the eligible country to make prompt disbursements from the Environmental Fund to the body described in subsection (c);
 
         (4) where appropriate, seek to maintain the value of the local currency resources deposited into the appropriate Environmental Fund in terms of United States dollars;
 

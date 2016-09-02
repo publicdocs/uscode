@@ -21,7 +21,7 @@
 
     (b) __Administrative expenses__ 
 
-        Not more than 5 percent of the amount appropriated under subsection (a) of this section for a fiscal year shall be used for administrative expenses of the Authority.
+        Not more than 5 percent of the amount appropriated under subsection (a) for a fiscal year shall be used for administrative expenses of the Authority.
 
     (c) __Minimum State share of grants__ 
 

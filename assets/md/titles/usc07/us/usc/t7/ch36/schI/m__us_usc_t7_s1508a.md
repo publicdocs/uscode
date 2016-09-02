@@ -35,7 +35,7 @@
 
         (1) __Options on loss to first crop__ 
 
-        Except as provided in subsections (d) and (e) of this section, if a first crop insured under this subchapter in a crop year has a total or partial insurable loss, the producer of the first crop may elect one of the following options:
+        Except as provided in subsections (d) and (e), if a first crop insured under this subchapter in a crop year has a total or partial insurable loss, the producer of the first crop may elect one of the following options:
 
             (A) __No second crop planted__ 
 
@@ -79,7 +79,7 @@
 
         (1) __Options on loss to first crop__ 
 
-        Except as provided in subsections (d) and (e) of this section, if a first crop insured under this subchapter in a crop year is prevented from being planted, the producer of the first crop may elect one of the following options:
+        Except as provided in subsections (d) and (e), if a first crop insured under this subchapter in a crop year is prevented from being planted, the producer of the first crop may elect one of the following options:
 
             (A) __No second crop planted__ 
 
@@ -103,7 +103,7 @@
 
         (3) __Effect on actual production history__ 
 
-            Except in the case of double cropping described in subsection (d) of this section, if a producer make an election under paragraph (1)(B) for a crop year, the Corporation shall assign the producer a recorded yield for that crop year for the first crop equal to 60 percent of the producer’s actual production history for the agricultural commodity involved, for purposes of determining the producer’s actual production history for subsequent crop years.
+            Except in the case of double cropping described in subsection (d), if a producer make an election under paragraph (1)(B) for a crop year, the Corporation shall assign the producer a recorded yield for that crop year for the first crop equal to 60 percent of the producer’s actual production history for the agricultural commodity involved, for purposes of determining the producer’s actual production history for subsequent crop years.
 
         (4) __Area conditions required for payment__ 
 
@@ -127,7 +127,7 @@
 
     (e) __Subsequent crops__ 
 
-        Except in the case of double cropping described in subsection (d) of this section, if a producer elects to plant a crop (other than a replanted crop) subsequent to a second crop on the same acreage as the first crop and second crop for harvest in the same crop year, the producer shall not be eligible for insurance under this subchapter, or noninsured crop assistance under [section 7333 of this title][/us/usc/t7/s7333], for the subsequent crop.
+        Except in the case of double cropping described in subsection (d), if a producer elects to plant a crop (other than a replanted crop) subsequent to a second crop on the same acreage as the first crop and second crop for harvest in the same crop year, the producer shall not be eligible for insurance under this subchapter, or noninsured crop assistance under [section 7333 of this title][/us/usc/t7/s7333], for the subsequent crop.
 
 ([Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title V, § 508A, as added [Pub. L. 106–224, title I, § 108][/us/pl/106/224/s108], June 20, 2000, [114 Stat. 368][/us/stat/114/368]; amended [Pub. L. 110–234, title XII, § 12033(c)(2)(B)][/us/pl/110/234/s12033/c/2/B], May 22, 2008, [122 Stat. 1405][/us/stat/122/1405]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12033(c)(2)(B), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2167.)
 

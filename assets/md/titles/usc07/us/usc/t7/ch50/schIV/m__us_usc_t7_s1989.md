@@ -21,7 +21,7 @@
 
     (b) __Debt service margin requirements__ 
 
-    Notwithstanding subsection (a) of this section, in providing farmer program loan guarantees under this chapter, the Secretary shall consider the income of the borrower adequate if the income is equal to or greater than the income necessary—
+    Notwithstanding subsection (a), in providing farmer program loan guarantees under this chapter, the Secretary shall consider the income of the borrower adequate if the income is equal to or greater than the income necessary—
 
         (1) to make principal and interest payments on all debt obligations of the borrower, in a timely manner;
 
@@ -33,7 +33,7 @@
 
         (1) __In general__ 
 
-            The Secretary shall establish a program under which the Secretary shall guarantee loans for any purpose specified in subchapter II of this chapter that are made by lending institutions certified by the Secretary.
+            The Secretary shall establish a program under which the Secretary shall guarantee loans for any purpose specified in subchapter II that are made by lending institutions certified by the Secretary.
 
         (2) __Certification requirements__ 
 
@@ -61,7 +61,7 @@
 
         (5) __Relationship to other requirements__ 
 
-            Neither this subsection nor subsection (d) of this section shall affect the responsibility of the Secretary to certify eligibility, review financial information, and otherwise assess an application.
+            Neither this subsection nor subsection (d) shall affect the responsibility of the Secretary to certify eligibility, review financial information, and otherwise assess an application.
 
     (d) __Preferred Certified Lenders Program__ 
 
@@ -69,7 +69,7 @@
 
         Commencing not later than two years after October 28, 1992, the Secretary shall establish a Preferred Certified Lenders Program for lenders who establish their—
 
-            (A) knowledge of, and experience under, the program established under subsection (c) of this section;
+            (A) knowledge of, and experience under, the program established under subsection (c);
 
             (B) knowledge of the regulations concerning the guaranteed loan program; and
 
@@ -97,7 +97,7 @@
 
     (e) __Administration of Certified Lenders and Preferred Certified Lenders programs__ 
 
-        The Secretary may administer the loan guarantee programs under subsections (c) and (d) of this section through central offices established in States or in multi-State areas.
+        The Secretary may administer the loan guarantee programs under subsections (c) and (d) through central offices established in States or in multi-State areas.
 
 ([Pub. L. 87–128, title III, § 339][/us/pl/87/128/s339], Aug. 8, 1961, [75 Stat. 318][/us/stat/75/318]; [Pub. L. 102–554, § 18][/us/pl/102/554/s18], Oct. 28, 1992, [106 Stat. 4155][/us/stat/106/4155]; [Pub. L. 106–31, title III, § 3019(a)][/us/pl/106/31/s3019/a], May 21, 1999, [113 Stat. 99][/us/stat/113/99]; [Pub. L. 107–171, title V, § 5309][/us/pl/107/171/s5309], May 13, 2002, [116 Stat. 346][/us/stat/116/346].)
 

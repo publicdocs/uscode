@@ -21,11 +21,11 @@
 
         (1) such country meets the poverty criteria established by the International Bank for Reconstruction and Development for Civil Works Preference for providing financial assistance; or
 
-        (2) such country is a food deficit country and is characterized by high levels of malnutrition among significant numbers of its population, as determined by the Administrator under subsection (b) of this section.
+        (2) such country is a food deficit country and is characterized by high levels of malnutrition among significant numbers of its population, as determined by the Administrator under subsection (b).
 
     (b) __Indicators of food deficit countries__ 
 
-    To make a finding under subsection (a)(2) of this section that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the country meets all of the following indicators of national food deficit and malnutrition:
+    To make a finding under subsection (a)(2) that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the country meets all of the following indicators of national food deficit and malnutrition:
 
         (1) __Calorie consumption__ 
 

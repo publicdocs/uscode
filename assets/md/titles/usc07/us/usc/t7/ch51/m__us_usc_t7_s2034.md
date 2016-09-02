@@ -77,7 +77,7 @@
 
     (c) __Eligible entities__ 
 
-    To be eligible for a grant under subsection (b) of this section, a public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners, must—
+    To be eligible for a grant under subsection (b), a public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners, must—
 
         (1)
 
@@ -97,7 +97,7 @@
 
     (d) __Preference for certain projects__ 
 
-    In selecting community food projects to receive assistance under subsection (b) of this section, the Secretary shall give a preference to projects designed to—
+    In selecting community food projects to receive assistance under subsection (b), the Secretary shall give a preference to projects designed to—
 
         (1) develop linkages between 2 or more sectors of the food system;
 
@@ -121,7 +121,7 @@
 
         (1) __Requirements__ 
 
-            The Federal share of the cost of establishing or carrying out a community food project that receives assistance under subsection (b) of this section may not exceed 50 percent of the cost of the project during the term of the grant.
+            The Federal share of the cost of establishing or carrying out a community food project that receives assistance under subsection (b) may not exceed 50 percent of the cost of the project during the term of the grant.
 
         (2) __Calculation__ 
 
@@ -135,11 +135,11 @@
 
         (1) __Single grant__ 
 
-            A community food project may be supported by only a single grant under subsection (b) of this section.
+            A community food project may be supported by only a single grant under subsection (b).
 
         (2) __Term__ 
 
-            The term of a grant under subsection (b) of this section may not exceed 5 years.
+            The term of a grant under subsection (b) may not exceed 5 years.
 
     (g) __Technical assistance and related information__ 
 

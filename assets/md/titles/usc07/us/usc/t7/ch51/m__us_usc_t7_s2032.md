@@ -51,7 +51,7 @@
 
         (1) __In general__ 
 
-            After conducting the review required under subsection (a) of this section, the Secretary shall establish standards for approval of systems.
+            After conducting the review required under subsection (a), the Secretary shall establish standards for approval of systems.
 
         (2) __Implementation__ 
 

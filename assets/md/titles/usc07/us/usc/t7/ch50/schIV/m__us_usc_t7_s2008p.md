@@ -29,7 +29,7 @@
 
     (c) __Federal share__ 
 
-        A grant provided under this section shall be not more than 75 percent of the total cost of acquiring a radio transmitter, as described in subsection (a) of this section.
+        A grant provided under this section shall be not more than 75 percent of the total cost of acquiring a radio transmitter, as described in subsection (a).
 
     (d) __Authorization of appropriations__ 
 

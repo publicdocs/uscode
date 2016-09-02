@@ -65,7 +65,7 @@
 
             (C) __Limitation on revenue coverage for potatoes__ 
 
-                No policy or plan of insurance provided under this subchapter (including a policy or plan of insurance approved by the Board under subsection (h) of this section) shall cover losses due to a reduction in revenue for potatoes except as covered under a whole farm policy or plan of insurance, as determined by the Corporation.
+                No policy or plan of insurance provided under this subchapter (including a policy or plan of insurance approved by the Board under subsection (h)) shall cover losses due to a reduction in revenue for potatoes except as covered under a whole farm policy or plan of insurance, as determined by the Corporation.
 
         (4) __Expansion to other areas or single producers__ 
 
@@ -243,7 +243,7 @@
 
                 (ii) provides, on a uniform national basis, a higher combination of yield and price protection than the coverage available under paragraph (2)(A); and
 
-                (iii) the Corporation determines is comparable to the coverage available under paragraph (2)(A) for purposes of subsection (e)(2)(A) of this section.
+                (iii) the Corporation determines is comparable to the coverage available under paragraph (2)(A) for purposes of subsection (e)(2)(A).
 
         (4) __Sale of catastrophic risk coverage__ 
 
@@ -329,7 +329,7 @@
 
         (8) __Transitional coverage for 1995 crops__ 
 
-            Effective only for a 1995 crop planted or for which insurance attached prior to January 1, 1995, the Corporation shall allow producers of the crops until not later than the end of the 180-day period beginning on the date of enactment of the Federal Crop Insurance Reform Act of 1994 \[Oct. 13, 1994\] to obtain catastrophic risk protection for the crop. On enactment of such Act, a producer who made timely purchases of a crop insurance policy before the date of enactment of such Act, under the provisions of this subchapter then in effect, shall be eligible for the same benefits to which a producer would be entitled under comparable additional coverage under subsection (c) of this section.
+            Effective only for a 1995 crop planted or for which insurance attached prior to January 1, 1995, the Corporation shall allow producers of the crops until not later than the end of the 180-day period beginning on the date of enactment of the Federal Crop Insurance Reform Act of 1994 \[Oct. 13, 1994\] to obtain catastrophic risk protection for the crop. On enactment of such Act, a producer who made timely purchases of a crop insurance policy before the date of enactment of such Act, under the provisions of this subchapter then in effect, shall be eligible for the same benefits to which a producer would be entitled under comparable additional coverage under subsection (c).
 
         (9) __Simplification__ 
 
@@ -551,7 +551,7 @@
 
             (B) __Use of fees; waiver__ 
 
-                Subparagraphs (D) and (E) of subsection (b)(5) of this section shall apply with respect to the collection and use of administrative fees under this paragraph.
+                Subparagraphs (D) and (E) of subsection (b)(5) shall apply with respect to the collection and use of administrative fees under this paragraph.
 
             (C) __Time for payment__ 
 
@@ -571,7 +571,7 @@
 
         (2) __Premium amounts__ 
 
-        The premium amounts for catastrophic risk protection under subsection (b) of this section and additional coverage under subsection (c) of this section shall be fixed as follows:
+        The premium amounts for catastrophic risk protection under subsection (b) and additional coverage under subsection (c) shall be fixed as follows:
 
             (A) In the case of catastrophic risk protection, the amount of the premium established by the Corporation for each crop for which catastrophic risk protection is available shall be reduced by the percentage equal to the difference between the average loss ratio for the crop and 100 percent, plus a reasonable reserve, as determined by the Corporation.
 
@@ -595,61 +595,61 @@
 
         (1) __In general__ 
 
-            For the purpose of encouraging the broadest possible participation of producers in the catastrophic risk protection provided under subsection (b) of this section and the additional coverage provided under subsection (c) of this section, the Corporation shall pay a part of the premium in the amounts provided in accordance with this subsection.
+            For the purpose of encouraging the broadest possible participation of producers in the catastrophic risk protection provided under subsection (b) and the additional coverage provided under subsection (c), the Corporation shall pay a part of the premium in the amounts provided in accordance with this subsection.
 
         (2) __Amount of payment__ 
 
         Subject to paragraphs (3), (6), and (7), the amount of the premium to be paid by the Corporation shall be as follows:
 
-            (A) In the case of catastrophic risk protection, the amount shall be equivalent to the premium established for catastrophic risk protection under subsection (d)(2)(A) of this section.
+            (A) In the case of catastrophic risk protection, the amount shall be equivalent to the premium established for catastrophic risk protection under subsection (d)(2)(A).
 
             (B)
 
              In the case of additional coverage equal to or greater than 50 percent, but less than 55 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-                (i) 67 percent of the amount of the premium established under subsection (d)(2)(B)(i) of this section for the coverage level selected; and
+                (i) 67 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
-                (ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
+                (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
             (C)
 
              In the case of additional coverage equal to or greater than 55 percent, but less than 65 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-                (i) 64 percent of the amount of the premium established under subsection (d)(2)(B)(i) of this section for the coverage level selected; and
+                (i) 64 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
-                (ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
+                (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
             (D)
 
              In the case of additional coverage equal to or greater than 65 percent, but less than 75 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-                (i) 59 percent of the amount of the premium established under subsection (d)(2)(B)(i) of this section for the coverage level selected; and
+                (i) 59 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
-                (ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
+                (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
             (E)
 
              In the case of additional coverage equal to or greater than 75 percent, but less than 80 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-                (i) 55 percent of the amount of the premium established under subsection (d)(2)(B)(i) of this section for the coverage level selected; and
+                (i) 55 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
-                (ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
+                (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
             (F)
 
              In the case of additional coverage equal to or greater than 80 percent, but less than 85 percent, of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-                (i) 48 percent of the amount of the premium established under subsection (d)(2)(B)(i) of this section for the coverage level selected; and
+                (i) 48 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
-                (ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
+                (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
             (G)
 
-             Subject to subsection (c)(4) of this section, in the case of additional coverage equal to or greater than 85 percent of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
+             Subject to subsection (c)(4), in the case of additional coverage equal to or greater than 85 percent of the recorded or appraised average yield indemnified at not greater than 100 percent of the expected market price, or a comparable coverage for a policy or plan of insurance that is not based on individual yield, the amount shall be equal to the sum of—
 
-                (i) 38 percent of the amount of the premium established under subsection (d)(2)(B)(i) of this section for the coverage level selected; and
+                (i) 38 percent of the amount of the premium established under subsection (d)(2)(B)(i) for the coverage level selected; and
 
-                (ii) the amount determined under subsection (d)(2)(B)(ii) of this section for the coverage level selected to cover operating and administrative expenses.
+                (ii) the amount determined under subsection (d)(2)(B)(ii) for the coverage level selected to cover operating and administrative expenses.
 
             (H)
 
@@ -661,7 +661,7 @@
 
         (3) __Prohibition on continuous coverage__ 
 
-            Notwithstanding paragraph (2), during each of the 2001 and subsequent reinsurance years, additional coverage under subsection (c) of this section shall be available only in 5 percent increments beginning at 50 percent of the recorded or appraised average yield.
+            Notwithstanding paragraph (2), during each of the 2001 and subsequent reinsurance years, additional coverage under subsection (c) shall be available only in 5 percent increments beginning at 50 percent of the recorded or appraised average yield.
 
         (4) __Premium payment disclosure__ 
 
@@ -775,7 +775,7 @@
 
         (3) __Records and reporting__ 
 
-        To obtain catastrophic risk protection under subsection (b) of this section or additional coverage under subsection (c) of this section, a producer shall—
+        To obtain catastrophic risk protection under subsection (b) or additional coverage under subsection (c), a producer shall—
 
             (A) provide annually records acceptable to the Secretary regarding crop acreage, acreage yields, and production for each agricultural commodity insured under this subchapter or accept a yield determined by the Corporation; and
 
@@ -785,7 +785,7 @@
 
         (1) __In general__ 
 
-            Subject to paragraph (2), the Corporation shall establish crop insurance underwriting rules that ensure that yield coverage, as specified in this subsection, is provided to eligible producers obtaining catastrophic risk protection under subsection (b) of this section or additional coverage under subsection (c) of this section.
+            Subject to paragraph (2), the Corporation shall establish crop insurance underwriting rules that ensure that yield coverage, as specified in this subsection, is provided to eligible producers obtaining catastrophic risk protection under subsection (b) or additional coverage under subsection (c).
 
         (2) __Yield coverage plans__ 
 
@@ -913,7 +913,7 @@
 
             (A) __In general__ 
 
-            In addition to any standard forms or policies that the Board may require be made available to producers under subsection (c) of this section, a person (including an approved insurance provider, a college or university, a cooperative or trade association, or any other person) may prepare for submission or propose to the Board—
+            In addition to any standard forms or policies that the Board may require be made available to producers under subsection (c), a person (including an approved insurance provider, a college or university, a cooperative or trade association, or any other person) may prepare for submission or propose to the Board—
 
                 (i) other crop insurance policies and provisions of policies; and
 
@@ -1049,13 +1049,13 @@
 
             In the case of a policy or plan of insurance developed and approved under this subsection or [section 1522 of this title][/us/usc/t7/s1522], or conducted under [section 1523 of this title][/us/usc/t7/s1523] (other than a policy or plan of insurance applicable to livestock), the Corporation shall pay a portion of the premium of the policy or plan of insurance that is equal to—
 
-                (i) the percentage, specified in subsection (e) of this section for a similar level of coverage, of the total amount of the premium used to define loss ratio; and
+                (i) the percentage, specified in subsection (e) for a similar level of coverage, of the total amount of the premium used to define loss ratio; and
 
-                (ii) an amount for administrative and operating expenses determined in accordance with subsection (k)(4) of this section.
+                (ii) an amount for administrative and operating expenses determined in accordance with subsection (k)(4).
 
             (B) __Transitional schedule__ 
 
-                Effective only during the 2001 reinsurance year, in the case of a policy or plan of insurance developed and approved under this subsection or [section 1522 of this title][/us/usc/t7/s1522], or conducted under [section 1523 of this title][/us/usc/t7/s1523] (other than a policy or plan of insurance applicable to livestock), and first approved by the Board after June 20, 2000, the payment by the Corporation of a portion of the premium of the policy may not exceed the dollar amount that would otherwise be authorized under subsection (e) of this section (consistent with subsection (c)(5) of this section, as in effect on the day before June 20, 2000).
+                Effective only during the 2001 reinsurance year, in the case of a policy or plan of insurance developed and approved under this subsection or [section 1522 of this title][/us/usc/t7/s1522], or conducted under [section 1523 of this title][/us/usc/t7/s1523] (other than a policy or plan of insurance applicable to livestock), and first approved by the Board after June 20, 2000, the payment by the Corporation of a portion of the premium of the policy may not exceed the dollar amount that would otherwise be authorized under subsection (e) (consistent with subsection (c)(5), as in effect on the day before June 20, 2000).
 
         (6) __Additional prevented planting policy coverage__ 
 
@@ -1103,7 +1103,7 @@
 
         (4) __Premium adjustment__ 
 
-            If the Corporation makes a determination that premium rates are excessive for an agricultural commodity in an area relative to the requirements of subsection (d)(2) of this section for that area, then, for the 2002 crop year (and as necessary thereafter), the Corporation shall make appropriate adjustments in the premium rates for that area for that agricultural commodity.
+            If the Corporation makes a determination that premium rates are excessive for an agricultural commodity in an area relative to the requirements of subsection (d)(2) for that area, then, for the 2002 crop year (and as necessary thereafter), the Corporation shall make appropriate adjustments in the premium rates for that area for that agricultural commodity.
 
     (j) __Claims for losses__ 
 
@@ -1141,7 +1141,7 @@
 
         (2) __Terms and conditions__ 
 
-            The reinsurance shall be provided on such terms and conditions as the Board may determine to be consistent with subsections (b) and (c) of this section and sound reinsurance principles.
+            The reinsurance shall be provided on such terms and conditions as the Board may determine to be consistent with subsections (b) and (c) and sound reinsurance principles.
 
         (3) __Share of risk__ 
 
@@ -1345,7 +1345,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), if a producer who is eligible to receive benefits under catastrophic risk protection under subsection (b) of this section is also eligible to receive assistance for the same loss under any other program administered by the Secretary, the producer shall be required to elect whether to receive benefits under this subchapter or under the other program, but not both. A producer who purchases additional coverage under subsection (c) of this section may also receive assistance for the same loss under other programs administered by the Secretary, except that the amount received for the loss under the additional coverage together with the amount received under the other programs may not exceed the amount of the actual loss of the producer.
+            Except as provided in paragraph (2), if a producer who is eligible to receive benefits under catastrophic risk protection under subsection (b) is also eligible to receive assistance for the same loss under any other program administered by the Secretary, the producer shall be required to elect whether to receive benefits under this subchapter or under the other program, but not both. A producer who purchases additional coverage under subsection (c) may also receive assistance for the same loss under other programs administered by the Secretary, except that the amount received for the loss under the additional coverage together with the amount received under the other programs may not exceed the amount of the actual loss of the producer.
 
         (2) __Exception__ 
 

@@ -33,7 +33,7 @@
 
     (c) __Administration and enforcement__ 
 
-        For the purpose of administering and enforcing any regulations promulgated under subsection (b) of this section, the authorities provided under sections 10414 \[[7 U.S.C. 8313][/us/usc/t7/s8313]\] and 10415 \[[7 U.S.C. 8314][/us/usc/t7/s8314]\] shall apply to the regulations in a similar manner as those sections apply to the Animal Health Protection Act \[[7 U.S.C. 8301][/us/usc/t7/s8301] et seq.\]. Any person that violates regulations promulgated under subsection (b) of this section shall be subject to penalties provided in section 10414.
+        For the purpose of administering and enforcing any regulations promulgated under subsection (b), the authorities provided under sections 10414 \[[7 U.S.C. 8313][/us/usc/t7/s8313]\] and 10415 \[[7 U.S.C. 8314][/us/usc/t7/s8314]\] shall apply to the regulations in a similar manner as those sections apply to the Animal Health Protection Act \[[7 U.S.C. 8301][/us/usc/t7/s8301] et seq.\]. Any person that violates regulations promulgated under subsection (b) shall be subject to penalties provided in section 10414.
 
 ([Pub. L. 107–171, title X, § 10815][/us/pl/107/171/s10815], May 13, 2002, [116 Stat. 532][/us/stat/116/532].)
 

@@ -117,9 +117,9 @@
 
         (1) __In general__ 
 
-        Subsections (b) and (h) of this section shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
+        Subsections (b) and (h) shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
 
-            (A) subchapters II and III of this chapter;
+            (A) subchapters II and III;
 
             (B) [section 1431(b) of this title][/us/usc/t7/s1431/b]; and
 

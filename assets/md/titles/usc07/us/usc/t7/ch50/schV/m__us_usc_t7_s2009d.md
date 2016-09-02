@@ -35,11 +35,11 @@
 
     Notwithstanding any other provision of law, each fiscal year—
 
-        (1) all amounts made available to carry out the authorities described in subsection (d)(1) of this section for the fiscal year shall be deposited into the rural community facilities account of the Trust Fund;
+        (1) all amounts made available to carry out the authorities described in subsection (d)(1) for the fiscal year shall be deposited into the rural community facilities account of the Trust Fund;
 
-        (2) all amounts made available to carry out the authorities described in subsection (d)(2) of this section for the fiscal year shall be deposited into the rural utilities account of the Trust Fund; and
+        (2) all amounts made available to carry out the authorities described in subsection (d)(2) for the fiscal year shall be deposited into the rural utilities account of the Trust Fund; and
 
-        (3) all amounts made available to carry out the authorities described in subsection (d)(3) of this section for the fiscal year shall be deposited into the rural business and cooperative development account of the Trust Fund.
+        (3) all amounts made available to carry out the authorities described in subsection (d)(3) for the fiscal year shall be deposited into the rural business and cooperative development account of the Trust Fund.
 
     (d) __Function categories__ 
 
@@ -79,19 +79,19 @@
 
         (1) __Transfers into account__ 
 
-            Each fiscal year, the Secretary shall transfer to the federally recognized Indian tribe account of the Trust Fund 3 percent of the amount deposited into the Trust Fund for the fiscal year under subsection (d) of this section.
+            Each fiscal year, the Secretary shall transfer to the federally recognized Indian tribe account of the Trust Fund 3 percent of the amount deposited into the Trust Fund for the fiscal year under subsection (d).
 
         (2) __Use of funds__ 
 
-            The Secretary shall make available to federally recognized Indian tribes the amounts in the federally recognized Indian tribe account for use pursuant to any authority described in subsection (d) of this section.
+            The Secretary shall make available to federally recognized Indian tribes the amounts in the federally recognized Indian tribe account for use pursuant to any authority described in subsection (d).
 
     (f) __Allocation among States__ 
 
-        The Secretary shall allocate the amounts in each account specified in subsection (c) of this section among the States in a fair, reasonable, and appropriate manner that takes into consideration rural population, levels of income, unemployment, and other relevant factors, as determined by the Secretary.
+        The Secretary shall allocate the amounts in each account specified in subsection (c) among the States in a fair, reasonable, and appropriate manner that takes into consideration rural population, levels of income, unemployment, and other relevant factors, as determined by the Secretary.
 
     (g) __Availability of funds allocated for States__ 
 
-        The Secretary shall make available to each State the total amount allocated for the State under subsection (f) of this section that remains after applying [section 2009f of this title][/us/usc/t7/s2009f].
+        The Secretary shall make available to each State the total amount allocated for the State under subsection (f) that remains after applying [section 2009f of this title][/us/usc/t7/s2009f].
 
 ([Pub. L. 87–128, title III, § 381E][/us/pl/87/128/s381E], as added [Pub. L. 104–127, title VII, § 761][/us/pl/104/127/s761], Apr. 4, 1996, [110 Stat. 1140][/us/stat/110/1140]; amended [Pub. L. 105–86, title III][/us/pl/105/86], Nov. 18, 1997, [111 Stat. 2094][/us/stat/111/2094]; [Pub. L. 106–472, title III][/us/pl/106/472], §§ 304(b), 305(b), Nov. 9, 2000, [114 Stat. 2071][/us/stat/114/2071]; [Pub. L. 107–171, title VI, § 6026(a)][/us/pl/107/171/s6026/a], May 13, 2002, [116 Stat. 372][/us/stat/116/372]; [Pub. L. 110–234, title VI, § 6012(b)(4)][/us/pl/110/234/s6012/b/4], May 22, 2008, [122 Stat. 1165][/us/stat/122/1165]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6012(b)(4), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1927.)
 
@@ -113,7 +113,7 @@
 
     Subsec. (f). [Pub. L. 107–171, § 6026(a)(3)][/us/pl/107/171/s6026/a/3], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsecs. (g), (h). [Pub. L. 107–171, § 6026(a)(3)][/us/pl/107/171/s6026/a/3], (4), redesignated subsec. (h) as (g) and substituted “subsection (f) of this section” for “subsection (g) of this section”. Former subsec. (g) redesignated (f).
+    Subsecs. (g), (h). [Pub. L. 107–171, § 6026(a)(3)][/us/pl/107/171/s6026/a/3], (4), redesignated subsec. (h) as (g) and substituted “subsection (f)” for “subsection (g) of this section”. Former subsec. (g) redesignated (f).
 
     2000—Subsec. (d)(1)(B). [Pub. L. 106–472, § 305(b)][/us/pl/106/472/s305/b], substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
 

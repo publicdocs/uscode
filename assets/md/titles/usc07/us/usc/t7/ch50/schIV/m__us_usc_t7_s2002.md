@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Subject to subsection (b) of this section, the Secretary may transfer to any Federal or State agency, for conservation purposes any real property, or interest therein, administered by the Secretary under this Act—
+    Subject to subsection (b), the Secretary may transfer to any Federal or State agency, for conservation purposes any real property, or interest therein, administered by the Secretary under this Act—
 
         (1) with respect to which the rights of all prior owners and operators have expired;
 
@@ -35,7 +35,7 @@
 
     (b) __Conditions__ 
 
-    The Secretary may not transfer any property or interest in property under subsection (a) of this section unless—
+    The Secretary may not transfer any property or interest in property under subsection (a) unless—
 
         (1) at least 2 public notices are given of the transfer;
 
@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–127][/us/pl/104/127] designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b) of this section, the Secretary” for “The Secretary, without reimbursement,” in introductory provisions, added par. (2) and struck out former par. (2) which read as follows: “that is determined by the Secretary to be suitable or surplus; and”, and added subsec. (b).
+    1996—[Pub. L. 104–127][/us/pl/104/127] designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), the Secretary” for “The Secretary, without reimbursement,” in introductory provisions, added par. (2) and struck out former par. (2) which read as follows: “that is determined by the Secretary to be suitable or surplus; and”, and added subsec. (b).
 
 ----------
 

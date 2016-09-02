@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            Notwithstanding any other provision of law, the President may reduce the amount owed to the United States or any agency of the United States, and outstanding as of January 1, 1990, as a result of any credits extended under subchapter II of this chapter to a country eligible for benefits from the Facility.
+            Notwithstanding any other provision of law, the President may reduce the amount owed to the United States or any agency of the United States, and outstanding as of January 1, 1990, as a result of any credits extended under subchapter II to a country eligible for benefits from the Facility.
 
         (2) __Availability of appropriations__ 
 
@@ -27,11 +27,11 @@
 
     (b) __Limitation__ 
 
-        A debt reduction authorized under subsection (a) of this section shall be accomplished, at the direction of the Facility, through the exchange of a new obligation under this subchapter for obligations of the type referred to in subsection (a) of this section outstanding as of January 1, 1990.
+        A debt reduction authorized under subsection (a) shall be accomplished, at the direction of the Facility, through the exchange of a new obligation under this subchapter for obligations of the type referred to in subsection (a) outstanding as of January 1, 1990.
 
     (c) __Exchange of obligations__ 
 
-        The Facility shall notify the Commodity Credit Corporation of an agreement entered into under subsection (b) of this section with an eligible country to exchange a new obligation for outstanding obligations. At the direction of the Facility, the old obligations that are the subject of the agreement may be canceled and a new debt obligation may be established for the country relating to the agreement. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect a debt reduction under this section.
+        The Facility shall notify the Commodity Credit Corporation of an agreement entered into under subsection (b) with an eligible country to exchange a new obligation for outstanding obligations. At the direction of the Facility, the old obligations that are the subject of the agreement may be canceled and a new debt obligation may be established for the country relating to the agreement. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect a debt reduction under this section.
 
 ([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title VI, § 604, as added [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3658][/us/stat/104/3658]; amended [Pub. L. 102–237, title III, § 303][/us/pl/102/237/s303], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855].)
 

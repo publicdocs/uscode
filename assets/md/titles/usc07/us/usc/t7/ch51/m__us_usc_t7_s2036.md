@@ -55,7 +55,7 @@
 
     (b) __Basis for commodity purchases__ 
 
-    In purchasing commodities under subsection (a) of this section, the Secretary shall, to the extent practicable and appropriate, make purchases based on—
+    In purchasing commodities under subsection (a), the Secretary shall, to the extent practicable and appropriate, make purchases based on—
 
         (1) agricultural market conditions;
 

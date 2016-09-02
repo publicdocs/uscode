@@ -21,7 +21,7 @@
 
     (b) __Election__ 
 
-        Subject to subsection (d) of this section, a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a “Program”), statewide or in a political subdivision of the State, in accordance with this section.
+        Subject to subsection (d), a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a “Program”), statewide or in a political subdivision of the State, in accordance with this section.
 
     (c) __Operation of Program__ 
 
@@ -35,7 +35,7 @@
 
         (4)
 
-         subject to subsection (f) of this section, benefits under the Program shall be determined under rules and procedures established by the State under—
+         subject to subsection (f), benefits under the Program shall be determined under rules and procedures established by the State under—
 
             (A) a State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.);
 

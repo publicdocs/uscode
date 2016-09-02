@@ -23,23 +23,23 @@
 
         (1) __In general__ 
 
-        The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in [section 1929 of this title][/us/usc/t7/s1929] for not more than $4,226,000,000 for each of fiscal years 2008 through 2018, of which, for each fiscal year—
+        The Secretary may make or guarantee loans under subchapters I and II from the Agricultural Credit Insurance Fund provided for in [section 1929 of this title][/us/usc/t7/s1929] for not more than $4,226,000,000 for each of fiscal years 2008 through 2018, of which, for each fiscal year—
 
             (A)
 
              $1,200,000,000 shall be for direct loans, of which—
 
-                (i) $350,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
+                (i) $350,000,000 shall be for farm ownership loans under subchapter I; and
 
-                (ii) $850,000,000 shall be for operating loans under subchapter II of this chapter; and
+                (ii) $850,000,000 shall be for operating loans under subchapter II; and
 
             (B)
 
              $3,026,000,000 shall be for guaranteed loans, of which—
 
-                (i) $1,000,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
+                (i) $1,000,000,000 shall be for guarantees of farm ownership loans under subchapter I; and
 
-                (ii) $2,026,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
+                (ii) $2,026,000,000 shall be for guarantees of operating loans under subchapter II.
 
         (2) __Beginning farmers and ranchers__ 
 
@@ -91,7 +91,7 @@
 
             (A) __In general__ 
 
-            Notwithstanding subsection (a) of this section, subject to subparagraph (B)—
+            Notwithstanding subsection (a), subject to subparagraph (B)—
 
                 (i) beginning on August 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers under the down payment loan program established under [section 1935 of this title][/us/usc/t7/s1935], if sufficient direct farm ownership loan funds are not otherwise available; and
 
@@ -105,7 +105,7 @@
 
             (A) __In general__ 
 
-                Notwithstanding subsection (a) of this section, subject to subparagraphs (B) and (C), beginning on September 1 of each fiscal year, the Secretary may use available funds made available under subchapter III of this chapter for the fiscal year to fund the credit sale of farm real estate in the inventory of the Secretary.
+                Notwithstanding subsection (a), subject to subparagraphs (B) and (C), beginning on September 1 of each fiscal year, the Secretary may use available funds made available under subchapter III for the fiscal year to fund the credit sale of farm real estate in the inventory of the Secretary.
 
             (B) __Supplemental appropriations__ 
 

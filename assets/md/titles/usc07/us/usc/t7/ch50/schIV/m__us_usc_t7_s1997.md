@@ -29,11 +29,11 @@
 
     (b) __Contracts on loan security properties__ 
 
-        Subject to subsection (c) of this section, the Secretary may enter into a contract related to real property for conservation, recreation, or wildlife purposes.
+        Subject to subsection (c), the Secretary may enter into a contract related to real property for conservation, recreation, or wildlife purposes.
 
     (c) __Limitations__ 
 
-    The Secretary may enter into a contract under subsection (b) of this section if—
+    The Secretary may enter into a contract under subsection (b) if—
 
         (1) such property is wetland, upland, or highly erodible land;
 
@@ -93,7 +93,7 @@
 
     1996—Subsec. (b). [Pub. L. 104–127, § 642(1)][/us/pl/104/127/s642/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes.”
 
-    Subsec. (c). [Pub. L. 104–127, § 642(2)(A)][/us/pl/104/127/s642/2/A], inserted heading and substituted “The Secretary may enter into a contract under subsection (b) of this section if” for “Such easement may be acquired or retained for real property if”.
+    Subsec. (c). [Pub. L. 104–127, § 642(2)(A)][/us/pl/104/127/s642/2/A], inserted heading and substituted “The Secretary may enter into a contract under subsection (b) if” for “Such easement may be acquired or retained for real property if”.
 
     Subsec. (c)(2). [Pub. L. 104–127, § 642(2)(B)][/us/pl/104/127/s642/2/B], inserted “and” at end.
 

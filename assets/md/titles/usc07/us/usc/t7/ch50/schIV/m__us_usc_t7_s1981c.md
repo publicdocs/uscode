@@ -23,7 +23,7 @@
 
         (2) the sale of oil, gas, or other minerals removed from real property used to secure such loan, if the value of the rights to such oil, gas, or other minerals has not been used to secure such loan.
 
-    (b) Subsection (a) of this section shall not apply to a borrower of a loan made or insured under this chapter with respect to which a liquidation or foreclosure proceeding is pending on December 23, 1985.
+    (b) Subsection (a) shall not apply to a borrower of a loan made or insured under this chapter with respect to which a liquidation or foreclosure proceeding is pending on December 23, 1985.
 
 ([Pub. L. 87–128, title III, § 331C][/us/pl/87/128/s331C], as added [Pub. L. 99–198, title XIII, § 1310(a)][/us/pl/99/198/s1310/a], Dec. 23, 1985, [99 Stat. 1523][/us/stat/99/1523].)
 

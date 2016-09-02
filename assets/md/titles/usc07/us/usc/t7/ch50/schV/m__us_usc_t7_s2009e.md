@@ -25,7 +25,7 @@
 
     (c) __Exceptions__ 
 
-    Subsections (a) and (b) of this section shall not apply to a transfer of funds by a State director if the State director certifies to the Secretary that—
+    Subsections (a) and (b) shall not apply to a transfer of funds by a State director if the State director certifies to the Secretary that—
 
         (1) there is an approved application for a project in the function category to which the funds are to be transferred but funds are not available for the project in the function category; and
 

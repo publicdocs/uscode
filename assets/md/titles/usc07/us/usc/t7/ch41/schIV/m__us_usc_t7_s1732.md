@@ -23,7 +23,7 @@
 
     (2) __Agricultural commodity__ 
 
-        The term “agricultural commodity”, unless otherwise provided for in this chapter, includes any agricultural commodity or the products thereof produced in the United States, including wood and processed wood products, fish, and livestock as well as value-added, fortified, or high-value agricultural products. Effective beginning on October 1, 1991, for purposes of subchapter III of this chapter, a product of an agricultural commodity shall not be considered to be produced in the United States if it contains any ingredient that is not produced in the United States, if that ingredient is produced and is commercially available in the United States at fair and reasonable prices.
+        The term “agricultural commodity”, unless otherwise provided for in this chapter, includes any agricultural commodity or the products thereof produced in the United States, including wood and processed wood products, fish, and livestock as well as value-added, fortified, or high-value agricultural products. Effective beginning on October 1, 1991, for purposes of subchapter III, a product of an agricultural commodity shall not be considered to be produced in the United States if it contains any ingredient that is not produced in the United States, if that ingredient is produced and is commercially available in the United States at fair and reasonable prices.
 
     (3) __Appropriate committee of Congress__ 
 

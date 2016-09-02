@@ -45,7 +45,7 @@
 
     (e) __Payment__ 
 
-        A borrower shall pay for training received under this section, and may use funds from operating loans made under subchapter II of this chapter to pay for the training.
+        A borrower shall pay for training received under this section, and may use funds from operating loans made under subchapter II to pay for the training.
 
     (f) __Waivers__ 
 

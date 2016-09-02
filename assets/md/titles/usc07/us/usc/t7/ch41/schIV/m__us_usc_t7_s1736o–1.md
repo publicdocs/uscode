@@ -21,7 +21,7 @@
 
     (b) __Program__ 
 
-    Subject to subsection (l) of this section, the Secretary may establish a program, to be known as “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
+    Subject to subsection (l), the Secretary may establish a program, to be known as “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
 
         (1) preschool and school food for education programs in foreign countries to improve food security, reduce the incidence of hunger, and improve literacy and primary education, particularly with respect to girls; and
 
@@ -97,7 +97,7 @@
 
         (1) __In general__ 
 
-        In carrying out subsection (b) of this section, the Secretary shall ensure that procedures are established that—
+        In carrying out subsection (b), the Secretary shall ensure that procedures are established that—
 
             (A) provide for the submission of proposals by eligible entities, each of which may include 1 or more recipient countries, for commodities and other assistance under this section;
 
@@ -129,7 +129,7 @@
 
     (g) __Use of Food and Nutrition Service__ 
 
-        The Food and Nutrition Service of the Department of Agriculture may provide technical advice on the establishment of programs under subsection (b)(1) of this section and on implementation of the programs in the field in recipient countries.
+        The Food and Nutrition Service of the Department of Agriculture may provide technical advice on the establishment of programs under subsection (b)(1) and on implementation of the programs in the field in recipient countries.
 
     (h) __Multilateral involvement__ 
 

@@ -69,7 +69,7 @@
 
         (4) __Delegation of power__ 
 
-        No power or responsibility of the Authority specified in paragraphs (2) and (3) of subsection (c) of this section, and no voting right of any Authority member, shall be delegated to any person—
+        No power or responsibility of the Authority specified in paragraphs (2) and (3) of subsection (c), and no voting right of any Authority member, shall be delegated to any person—
 
             (A) who is not an Authority member; or
 
@@ -129,7 +129,7 @@
 
     (e) __Administration__ 
 
-    In carrying out subsection (d) of this section, the Authority may—
+    In carrying out subsection (d), the Authority may—
 
         (1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute a description of the proceedings and reports on actions by the Authority as the Authority considers appropriate;
 
@@ -229,7 +229,7 @@
 
             (A) __In general__ 
 
-            No person detailed to serve the Authority under subsection (e)(6) of this section shall receive any salary or any contribution to or supplementation of salary for services provided to the Authority from—
+            No person detailed to serve the Authority under subsection (e)(6) shall receive any salary or any contribution to or supplementation of salary for services provided to the Authority from—
 
                 (i) any source other than the State, local, or intergovernmental department or agency from which the person was detailed; or
 
@@ -241,7 +241,7 @@
 
             (C) __Applicable law__ 
 
-                The Federal cochairperson, the alternate Federal cochairperson, and any Federal officer or employee detailed to duty on the Authority under subsection (e)(5) of this section shall not be subject to subparagraph (A), but shall remain subject to sections 202 through 209 of title 18.
+                The Federal cochairperson, the alternate Federal cochairperson, and any Federal officer or employee detailed to duty on the Authority under subsection (e)(5) shall not be subject to subparagraph (A), but shall remain subject to sections 202 through 209 of title 18.
 
         (5) __Additional personnel__ 
 
@@ -267,7 +267,7 @@
 
             (C) __No Federal employee status__ 
 
-                No member, alternate, officer, or employee of the Authority (except the Federal cochairperson of the Authority, the alternate and staff for the Federal cochairperson, and any Federal employee detailed to the Authority under subsection (e)(5) of this section) shall be considered to be a Federal employee for any purpose.
+                No member, alternate, officer, or employee of the Authority (except the Federal cochairperson of the Authority, the alternate and staff for the Federal cochairperson, and any Federal employee detailed to the Authority under subsection (e)(5)) shall be considered to be a Federal employee for any purpose.
 
     (i) __Conflicts of interest__ 
 
@@ -299,7 +299,7 @@
 
     (j) __Validity of contracts, loans, and grants__ 
 
-        The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) of this section, subsection (i) of this section, or sections 202 through 209 of title 18.
+        The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4), subsection (i), or sections 202 through 209 of title 18.
 
 ([Pub. L. 87–128, title III, § 382B][/us/pl/87/128/s382B], as added [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–269; amended [Pub. L. 107–171, title VI, § 6027(a)][/us/pl/107/171/s6027/a], (b), May 13, 2002, [116 Stat. 373][/us/stat/116/373]; [Pub. L. 108–447, div. C, title V, § 506][/us/pl/108/447/s506], Dec. 8, 2004, [118 Stat. 2963][/us/stat/118/2963]; [Pub. L. 111–85, title IV, § 402][/us/pl/111/85/s402], Oct. 28, 2009, [123 Stat. 2878][/us/stat/123/2878].)
 

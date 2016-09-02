@@ -409,7 +409,7 @@
 
             (A) __Electronic benefit transfer card__ 
 
-                The term “electronic benefit transfer card” means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A) of this section).
+                The term “electronic benefit transfer card” means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A)).
 
             (B) __Electronic benefit transfer contract__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Included expenses__ 
 
-    With respect to commodities made available under subchapters III and III–A of this chapter, the Commodity Credit Corporation may pay—
+    With respect to commodities made available under subchapters III and III–A, the Commodity Credit Corporation may pay—
 
         (1) the cost of acquiring such commodities;
 
@@ -65,7 +65,7 @@
 
     1996—Subsec. (a). [Pub. L. 104–127, § 215(1)][/us/pl/104/127/s215/1], substituted “may” for “shall” after “Corporation”.
 
-    Subsec. (b). [Pub. L. 104–127, § 215(2)(A)][/us/pl/104/127/s215/2/A], in introductory provisions, substituted “subchapters III and III–A of this chapter” for “this chapter”.
+    Subsec. (b). [Pub. L. 104–127, § 215(2)(A)][/us/pl/104/127/s215/2/A], in introductory provisions, substituted “subchapters III and III–A” for “this chapter”.
 
     Subsec. (b)(4). [Pub. L. 104–127, § 215(2)(B)][/us/pl/104/127/s215/2/B], added par. (4) and struck out former par. (4) which read as follows: “the ocean freight charges from United States ports to designated ports of entry abroad;”.
 
