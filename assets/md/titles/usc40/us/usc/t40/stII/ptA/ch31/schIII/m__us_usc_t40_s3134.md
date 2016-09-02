@@ -21,7 +21,7 @@
 
     (b)  __Transportation__  __.—__ 
 
-    The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31, subtitle V of title 46, or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), regardless of the terms of the contracts as to payment or title.
+    The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31, subtitle V of title 46, or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  regardless of the terms of the contracts as to payment or title.
 
 ([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1149][/us/stat/116/1149]; [Pub. L. 109–304, § 17(g)(2)][/us/pl/109/304/s17/g/2], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709].)
 
@@ -93,7 +93,7 @@ Apr. 29, 1941, ch. 81, § 2, as added Pub. L. 91–469, § 39, Oct. 21, 1970
 
  __References in Text__ 
 
-    The Merchant Ship Sales Act of 1946, referred to in subsec. (b), is [act Mar. 8, 1946, ch. 82][/us/act/1946-03-08/ch82], [60 Stat. 41][/us/stat/60/41], as amended, which is classified to sections 1735 to 1746 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1735 of Title 50][/us/usc/t50/s1735], Appendix, and Tables.
+    The Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), referred to in subsec. (b), is [act Mar. 8, 1946, ch. 82][/us/act/1946-03-08/ch82], [60 Stat. 41][/us/stat/60/41], which was classified to sections 1735 to 1746 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified principally to chapter 54 (§ 4401 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -121,7 +121,6 @@ Apr. 29, 1941, ch. 81, § 2, as added Pub. L. 91–469, § 39, Oct. 21, 1970
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/act/1946-03-08/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch82
 [/us/stat/60/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F41
-[/us/usc/t50/s1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1735
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
