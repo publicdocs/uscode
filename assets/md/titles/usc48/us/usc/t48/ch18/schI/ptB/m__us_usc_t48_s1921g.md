@@ -25,13 +25,25 @@
 
         (2) The governments of the Federated States of Micronesia and the Republic of the Marshall Islands may each submit no more than one report or request for further compensation under section 111 of the joint resolution of January 14, 1986 ([Public Law 99–239][/us/pl/99/239]) and any such report or request must be submitted by September 30, 2009. Only adverse economic effects occurring during the initial 15-year term of the Compact may be considered for compensation under section 111 of the joint resolution of January 14, 1986 ([Public Law 99–239][/us/pl/99/239]).
 
-([Pub. L. 108–188, title I, § 108][/us/pl/108/188/s108], Dec. 17, 2003, [117 Stat. 2755][/us/stat/117/2755].)
+([Pub. L. 108–188, title I, § 108][/us/pl/108/188/s108], Dec. 17, 2003, [117 Stat. 2755][/us/stat/117/2755]; [Pub. L. 113–128, title V, § 512(g)(2)][/us/pl/113/128/s512/g/2], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(g)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended by striking “subtitle C of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.; relating to Job Corps)” and inserting “subtitle C of title I of the Workforce Innovation and Opportunity Act (relating to Job Corps)”. See 2014 Amendment note below.
 
  __References in Text__ 
 
     The Workforce Investment Act of 1998, referred to in subsec. (a), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Subtitle C of title I of the Act is classified generally to subchapter III (§ 2881 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
 
     The joint resolution of January 14, 1986 ([Public Law 99–239][/us/pl/99/239]), referred to in subsec. (b)(1), is [Pub. L. 99–239][/us/pl/99/239], Jan. 14, 1986, [99 Stat. 1770][/us/stat/99/1770], as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§ 2001 et seq.) of this title. Title IV of the joint resolution is set out as a note under [section 1901 of this title][/us/usc/t48/s1901]. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title][/us/usc/t48/s1901] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–128, § 512(g)(2)][/us/pl/113/128/s512/g/2], substituted “subtitle C of title I of the Workforce Innovation and Opportunity Act (relating to Job Corps)” for “subtitle C of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.; relating to Job Corps)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -49,6 +61,11 @@
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/pl/108/188/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs108
 [/us/stat/117/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2755
+[/us/pl/113/128/s512/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fg%2F2
+[/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2881
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -57,5 +74,10 @@
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
+[/us/pl/113/128/s512/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fg%2F2
+[/us/usc/t29/s2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2881
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

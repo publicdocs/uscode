@@ -29,7 +29,7 @@
 
  __References to “Date of Enactment”__ 
 
-    For the purposes of the amendment made by subsection (a), amending sections 1705 and 1706 of this title, the references to “date of enactment” in text shall be considered to be references to Sept. 18, 2013, see [section 1(b) of Pub. L. 113–34][/us/pl/113/34/s1/b], set out as a note under [section 1705 of this title][/us/usc/t48/s1705].
+    For the purposes of the amendment made by subsection (a) of [section 1 of Pub. L. 113–34][/us/pl/113/34/s1], amending sections 1705 and 1706 of this title, the references to “date of enactment” in text shall be considered to be references to Sept. 18, 2013, see [section 1(b) of Pub. L. 113–34][/us/pl/113/34/s1/b], set out as a note under [section 1705 of this title][/us/usc/t48/s1705].
 
 ----------
 
@@ -46,6 +46,7 @@
 [/us/usc/t48/s1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1545
 [/us/pl/93/435/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs3
 [/us/usc/t48/s1545/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1545%2Fb
+[/us/pl/113/34/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs1
 [/us/pl/113/34/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs1%2Fb
 [/us/usc/t48/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1705
 

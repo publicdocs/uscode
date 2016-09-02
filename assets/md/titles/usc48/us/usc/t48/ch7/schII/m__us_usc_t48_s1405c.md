@@ -49,15 +49,15 @@
 
 [Pub. L. 101–640, title IV, § 406][/us/pl/101/640/s406], Nov. 28, 1990, [104 Stat. 4647][/us/stat/104/4647], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Upon request of the Governor of the Virgin Islands with respect to a construction project in the Virgin Islands for which Federal financial assistance is available under any law of the United States, the Federal official administering such assistance may make such assistance available to the Secretary instead of the Virgin Islands. The Secretary shall use such assistance to carry out such project in accordance with the provisions of such law.
 
->     “(b) __Limitation on Statutory Construction.—__ 
+>     “(b)  __Limitation on Statutory Construction__  __.—__ 
 
 >     Nothing in this section shall be construed as relieving the Virgin Islands from complying with any requirements for non-Federal cooperation with respect to a construction project carried out with Federal financial assistance provided to the Secretary pursuant to this section; except that the Secretary shall be responsible for complying with administrative and fiscal requirements associated with utilization of such assistance.
 
->     “(c) __Termination Date.—__ 
+>     “(c)  __Termination Date__  __.—__ 
 
 >     Subsection (a) shall not be effective after the last day of the 3-year period beginning on the date of the enactment of this Act \[Nov. 28, 1990\]; except that the Secretary shall complete construction of any project commenced under subsection (a) before such day.”
 

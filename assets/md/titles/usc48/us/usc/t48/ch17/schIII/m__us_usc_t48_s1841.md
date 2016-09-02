@@ -75,6 +75,70 @@
 
     Amendment by section 4002(b)(1)(A), (B), (2)(HH) of [Pub. L. 110–246][/us/pl/110/246] effective Oct. 1, 2008, see [section 4407 of Pub. L. 110–246][/us/pl/110/246/s4407], set out as a note under [section 1161 of Title 2][/us/usc/t2/s1161], The Congress.
 
+ __Commonwealth of the Northern Mariana Islands Pilot Program__ 
+
+[Pub. L. 113–79, title IV, § 4031][/us/pl/113/79/s4031], Feb. 7, 2014, [128 Stat. 816][/us/stat/128/816], provided that:
+
+>     “(a) __Study.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Prior to establishing the pilot program under subsection (b), the Secretary \[of Agriculture\] shall conduct a study to be completed not later than 2 years after the date of enactment of this Act \[Feb. 7, 2014\] to assess—
+
+>             “(A) the capabilities of the Commonwealth of the Northern Mariana Islands to operate the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.) in a similar manner as the program is operated in the States (as defined in section 3 of that Act ([7 U.S.C. 2012][/us/usc/t7/s2012])); and
+
+>             “(B) alternative models of the supplemental nutrition assistance program operation and benefit delivery that best meet the nutrition assistance needs of the Commonwealth of the Northern Mariana Islands.
+
+>         “(2)  __Scope__  __.—__ 
+
+>         The study conducted under paragraph (1)(A) shall assess the capability of the Commonwealth of the Northern Mariana Islands to fulfill the responsibilities of a State agency (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012][/us/usc/t7/s2012])), including—
+
+>             “(A) extending and limiting participation to eligible households, as required by sections 5 and 6 of that Act ([7 U.S.C. 2014][/us/usc/t7/s2014], 2015);
+
+>             “(B) issuing benefits through EBT cards, as required by section 7 of that Act ([7 U.S.C. 2016][/us/usc/t7/s2016]);
+
+>             “(C) maintaining the integrity of the program, including operation of a quality control system, as required by section 16(c) of that Act ([7 U.S.C. 2025(c)][/us/usc/t7/s2025/c]);
+
+>             “(D) implementing work requirements, including operating an employment and training program, as required by section 6(d) of that Act ([7 U.S.C. 2015(d)][/us/usc/t7/s2015/d]); and
+
+>             “(E) paying a share of administrative costs with non-Federal funds, as required by section 16(a) of that Act ([7 U.S.C. 2016(a)][/us/usc/t7/s2016/a] \[2025(a)\]).
+
+>     “(b)  __Establishment__  __.—__ 
+
+>     If the Secretary determines that a pilot program is feasible, the Secretary shall establish a pilot program for the Commonwealth of the Northern Mariana Islands to operate the supplemental nutrition assistance program in the same manner in which the program is operated in the States.
+
+>     “(c)  __Scope__  __.—__ 
+
+>     The Secretary shall use the information obtained from the study conducted under subsection (a) to establish the scope of the pilot program established under subsection (b).
+
+>     “(d)  __Report__  __.—__ 
+
+>     Not later than June 30, 2019, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the pilot program carried out under this section, including an analysis of the feasibility of operating the supplemental nutrition assistance program in the Commonwealth of the Northern Mariana Islands in the same manner in which the program is operated in the States.
+
+>     “(e) __Funding.—__ 
+
+>         “(1)  __Study__  __.—__ 
+
+>         Of the funds made available under section 18(a)(1) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2027(a)(1)][/us/usc/t7/s2027/a/1]), the Secretary may use to conduct the study described in subsection (a) not more than $1,000,000 for each of fiscal years 2014 and 2015.
+
+>         “(2) __Pilot program.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Except as provided in subparagraph (B), of the funds made available under section 18(a)(1) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2027(a)(1)][/us/usc/t7/s2027/a/1]), the Secretary may use to establish and carry out the pilot program under subsection (b), including the Federal costs for providing technical assistance to the Commonwealth of the Northern Mariana Islands, authorizing and monitoring retail food stores, and assessing pilot operations, not more than—
+
+>                 “(i) $13,500,000 for fiscal year 2016; and
+
+>                 “(ii) $8,500,000 for each of fiscal years 2017 and 2018.
+
+>             “(B)  __Exception__  __.—__ 
+
+>             If the Secretary determines that a pilot program described in subsection (b) is not feasible, the Secretary shall provide to the Commonwealth of the Northern Mariana Islands any unspent funds described in subparagraph (A), which shall—
+
+>                 “(i) be made available for obligation under the Commonwealth of the Northern Mariana Islands nutrition assistance program block grant in addition to any other funds made available for that grant; and
+
+>                 “(ii) remain available until expended.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t48/ch17/schIII/m__us_usc_t48_ch17_schIII.md) | [Next](./../../../../..//us/usc/t48/ch17/schIII/m__us_usc_t48_s1842.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1841)
@@ -131,5 +195,17 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
+[/us/pl/113/79/s4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4031
+[/us/stat/128/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F816
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
+[/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
+[/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014
+[/us/usc/t7/s2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016
+[/us/usc/t7/s2025/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2025%2Fc
+[/us/usc/t7/s2015/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015%2Fd
+[/us/usc/t7/s2016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2016%2Fa
+[/us/usc/t7/s2027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027%2Fa%2F1
+[/us/usc/t7/s2027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2027%2Fa%2F1
 
 

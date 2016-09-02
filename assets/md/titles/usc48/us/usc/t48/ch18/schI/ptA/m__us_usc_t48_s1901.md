@@ -965,7 +965,7 @@ Title IV of [Pub. L. 99–239][/us/pl/99/239] provided that:
 
 > “SEC. 401. __FREELY ASSOCIATED STATES TARIFF TREATMENT.__ 
 
->     “(a) __Section 242.—__ 
+>     “(a)  __Section__  __242.—__ 
 
 >     Section 242 of the Compact \[set out above\] shall be construed and applied as if it read as follows:    “ ‘Section 242
 
@@ -987,7 +987,7 @@ Title IV of [Pub. L. 99–239][/us/pl/99/239] provided that:
 
 >         “ ‘(4) If the cost or value of materials produced in the customs territory of the United States is included with respect to an eligible article which is a product of the Federated States of Micronesia or the Marshall Islands, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied for duty assessment purposes toward determining the percentage referred to in section 503(b)(2) of title V of the Trade Act of 1974.’.
 
->     “(b) __Section 243.—__ 
+>     “(b)  __Section__  __243.—__ 
 
 >     Section 243 of the Compact shall be construed and applied as if it read as follows:    “ ‘Section 243
 

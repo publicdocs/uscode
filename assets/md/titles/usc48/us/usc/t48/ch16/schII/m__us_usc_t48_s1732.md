@@ -59,7 +59,7 @@
 
 >     “(4) Prior to and since September 11, 2001, and due to limited air service, mail delays, and other considerations, it has been and remains impossible for absentee ballots to be prepared and returned within a 2-week period.
 
->     “(5) American Samoa law requiring members of the Armed Forces on active duty and other overseas voters to register in person also prevents participation in the Federal election process and is contrary to the Uniformed and Overseas Citizens Absentee Voting Act \[[42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.\].
+>     “(5) American Samoa law requiring members of the Armed Forces on active duty and other overseas voters to register in person also prevents participation in the Federal election process and is contrary to the Uniformed and Overseas Citizens Absentee Voting Act \[[52 U.S.C. 20301][/us/usc/t52/s20301] et seq.\].
 
 >     “(6) Given that 49 states elect their Representatives to the United States House of Representatives by plurality, it is in the national interest for American Samoa to do the same until such time as the American Samoa Legislature establishes primary elections and declares null and void the local practice of requiring members of the Armed Forces on active duty and other overseas voters to register in person which is contrary to the federal Uniformed and Overseas Citizens Absentee Voting Act.”
 
@@ -80,6 +80,6 @@
 [/us/stat/118/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2201
 [/us/pl/108/376/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F376%2Fs1
 [/us/stat/118/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2200
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 
 

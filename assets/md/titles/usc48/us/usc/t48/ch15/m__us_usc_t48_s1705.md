@@ -121,6 +121,26 @@
 
                               Gerald R. Ford.
 
+ __Proc. No. 9077. Reserving Certain Submerged Lands in the Commonwealth of the Northern Mariana Islands__ 
+
+    Proc. No. 9077, Jan. 15, 2014, 79 F.R. 3479, provided:
+
+    The submerged lands surrounding the islands of Farallon de Pajaros (Uracas), Maug, and Asuncion in the Commonwealth of the Northern Mariana Islands are among the most biologically diverse in the Western Pacific, with relatively pristine coral reef ecosystems that have been proclaimed objects of scientific interest and reserved for their protection as the Islands Unit of the Marianas Trench Marine National Monument (marine national monument) by Proclamation 8335 of January 6, 2009. Certain submerged lands adjacent to the land leased by the United States of America on the islands of Tinian and Farallon de Medinilla under the Lease Agreement Made Pursuant to the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, dated January 6, 1983, as amended (Lease) are essential for ensuring that United States forces forward deployed to the Western Pacific are adequately trained and ready to respond immediately and effectively to orders from the National Command Authority, and for ensuring the safety of citizens of the Commonwealth of the Northern Mariana Islands.
+
+    Certain of these submerged lands will be conveyed by the United States to the Government of the Commonwealth of the Northern Mariana Islands on January 16, 2014, pursuant to [section 1(a) of Public Law 93–435][/us/pl/93/435/s1/a], as amended by [section 1 of Public Law 113–34][/us/pl/113/34/s1] (the “Act”), unless the President designates otherwise pursuant to section 1(b)(vii) of the Act.
+
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by virtue of authority vested in me by section 1(b)(vii) of the Act, do hereby proclaim that the lands hereinafter described are excepted from transfer to the Government of the Commonwealth of the Northern Mariana Islands under section 1(a) of the Act:
+
+    the submerged lands adjacent to the islands of Farallon de Pajaros (Uracas), Maug, and Asuncion permanently covered by tidal waters up to the mean low water line and extending three geographical miles seaward from the mean high tide line; and
+
+    the submerged lands adjacent to the islands of Tinian and Farallon de Medinilla permanently or periodically covered by tidal waters up to the line of mean high tide and extending seaward to a line three geographical miles distant from those areas of the coastline that are adjacent to the leased lands described in the Lease.
+
+    Nothing in this proclamation is intended to affect the authority of the Secretary of the Interior (Secretary) under section 1(b) of the Act to subsequently convey the submerged lands adjacent to the islands of Farallon de Pajaros (Uracas), Maug, and Asuncion when the Secretary, the Secretary of Commerce, and the Government of the Commonwealth of the Northern Mariana Islands have entered into an agreement for coordination of management that ensures the protection of the marine national monument within the excepted area described above. Furthermore, nothing in this proclamation is intended to affect the authority of the Secretary under section 1(b) of the Act to subsequently convey the submerged lands adjacent to the land leased by the United States on the islands of Tinian or Farallon de Medinilla when the Secretary of the Navy and the Government of the Commonwealth of the Northern Mariana Islands have entered into an agreement that ensures protection of military training within the excepted area.
+
+    IN WITNESS WHEREOF, I have hereunto set my hand this fifteenth day of January, in the year of our Lord two thousand fourteen, and of the Independence of the United States of America the two hundred and thirty-eighth.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1704.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1706.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1705)
@@ -174,5 +194,7 @@
 [/us/pl/93/435/s1/b/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1%2Fb%2Fvii
 [/us/stat/88/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1210
 [/us/pl/93/425/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F425%2Fs1%2Fa
+[/us/pl/93/435/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1%2Fa
+[/us/pl/113/34/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs1
 
 

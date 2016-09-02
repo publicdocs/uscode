@@ -465,11 +465,11 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
 >     “(c) __Revision of Proposed Constitution.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If a convention reconvenes and revises the proposed constitution, the convention shall resubmit the revised proposed constitution simultaneously to the Governor of the Virgin Islands and the President.
 
->         “(2) __Comments of president.—__ 
+>         “(2)  __Comments of president__  __.—__ 
 
 >         Not later than 60 calendar days after the date of receipt of the revised proposed constitution, the President shall—
 

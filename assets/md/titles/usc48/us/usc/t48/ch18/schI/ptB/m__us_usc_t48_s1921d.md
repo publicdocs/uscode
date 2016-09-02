@@ -33,11 +33,11 @@
 
         (6) __Interagency group on freely associated states’ affairs.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The President is hereby authorized to appoint an Interagency Group on Freely Associated States’ Affairs to provide policy guidance and recommendations on implementation of the U.S.-FSM Compact and the U.S.-RMI Compact to Federal departments and agencies.
 
-            (B) __Secretaries.—__ 
+            (B)  __Secretaries__  __.—__ 
 
             It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall be represented on the Interagency Group.
 
@@ -45,33 +45,33 @@
 
             (A) __Joint economic management committee.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The three United States appointees (United States chair plus two members) to the Joint Economic Management Committee provided for in section 213 of the U.S.-FSM Compact and Article III of the U.S.-FSM Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-FSM Compact shall be United States Government officers or employees.
 
-                (ii) __Departments.—__ 
+                (ii)  __Departments__  __.—__ 
 
                 It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
 
-                (iii) __Additional scope.—__ 
+                (iii)  __Additional scope__  __.—__ 
 
                 Section 213 of the U.S.-FSM Compact shall be construed to read as though the phrase, “the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates,” were inserted after “with particular focus on those parts of the plan dealing with the sectors identified in subsection (a) of section 211”.
 
             (B) __Joint economic management and financial accountability committee.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The three United States appointees (United States chair plus two members) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMI Compact shall be United States Government officers or employees.
 
-                (ii) __Departments.—__ 
+                (ii)  __Departments__  __.—__ 
 
                 It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
 
-                (iii) __Additional scope.—__ 
+                (iii)  __Additional scope__  __.—__ 
 
                 Section 214 of the U.S.-RMI Compact shall be construed to read as though the phrase, “the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates,” were inserted after “with particular focus on those parts of the framework dealing with the sectors and areas identified in subsection (a) of section 211”.
 
-        (8) __Oversight and coordination.—__ 
+        (8)  __Oversight and coordination__  __.—__ 
 
         It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensure effective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
 
@@ -157,7 +157,7 @@
 
                 (ix) __Applicability__ 
 
-                    The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009, to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
+                    The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009, <sup>\[1\]</sup>  <sup><sup> 1 See Continued Applicability of Subsection (f)(1)(B)(ix) notes below. </sup></sup>  to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
 
             (C) The Legal Services Corporation, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions).
 
@@ -237,7 +237,11 @@
 
             Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
 
-([Pub. L. 108–188, title I, § 105][/us/pl/108/188/s105], Dec. 17, 2003, [117 Stat. 2744][/us/stat/117/2744]; [Pub. L. 109–270, § 2][/us/pl/109/270/s2](l), Aug. 12, 2006, [120 Stat. 749][/us/stat/120/749]; [Pub. L. 110–161, div. F, title I, § 124][/us/pl/110/161/s124], Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121]; [Pub. L. 110–229, title VIII][/us/pl/110/229], §§ 803(a), 804, 805, 806(a)(3), May 8, 2008, [122 Stat. 870][/us/stat/122/870], 871.)
+([Pub. L. 108–188, title I, § 105][/us/pl/108/188/s105], Dec. 17, 2003, [117 Stat. 2744][/us/stat/117/2744]; [Pub. L. 109–270, § 2][/us/pl/109/270/s2](l), Aug. 12, 2006, [120 Stat. 749][/us/stat/120/749]; [Pub. L. 110–161, div. F, title I, § 124][/us/pl/110/161/s124], Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121]; [Pub. L. 110–229, title VIII][/us/pl/110/229], §§ 803(a), 804, 805, 806(a)(3), May 8, 2008, [122 Stat. 870][/us/stat/122/870], 871; [Pub. L. 113–128, title V, § 512(g)(1)][/us/pl/113/128/s512/g/1], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+
+ __Amendment of Subsection (f)(1)(B)(iii)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(g)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(1)(B)(iii) of this section is amended by striking “title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than subtitle C of that Act ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 ([20 U.S.C. 9201][/us/usc/t20/s9201] et seq.; commonly known as the Adult Education and Family Literacy Act),” and inserting “titles I (other than subtitle C) and II of the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -265,6 +269,8 @@
 
  __Amendments__ 
 
+    2014—Subsec. (f)(1)(B)(iii). [Pub. L. 113–128][/us/pl/113/128] substituted “titles I (other than subtitle C) and II of the Workforce Innovation and Opportunity Act,” for “title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than subtitle C of that Act ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 ([20 U.S.C. 9201][/us/usc/t20/s9201] et seq.; commonly known as the Adult Education and Family Literacy Act),”.
+
     2008—Subsec. (b)(1). [Pub. L. 110–229, § 806(a)(3)][/us/pl/110/229/s806/a/3], substituted “Trust Funds)” for “Trust Fund)”.
 
     Subsec. (f)(1)(A). [Pub. L. 110–229, § 803(a)][/us/pl/110/229/s803/a], amended subpar. (A) generally. Prior to amendment, subpar. (A) related to the continuing availability of programs and services of the Department of Homeland Security, Federal Emergency Management Agency.
@@ -281,6 +287,10 @@
 
     2006—Subsec. (f)(1)(B)(iii). [Pub. L. 109–270][/us/pl/109/270] substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective Date of 2008 Amendment__ 
 
 [Pub. L. 110–229, title VIII, § 803(b)][/us/pl/110/229/s803/b], May 8, 2008, [122 Stat. 870][/us/stat/122/870], provided that: 
@@ -288,6 +298,10 @@
 > “The amendments made by subsection (a) \[amending this section\] shall be effective as of the date that is 180 days after the date of enactment of this Act \[May 8, 2008\].”
 
  __Continued Applicability of Subsection (f)(1)(B)(ix)__ 
+
+[Pub. L. 113–76, div. H, title III, § 306][/us/pl/113/76/s306], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399], provided that: 
+
+> “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 ([48 U.S.C. 1921d(f)(1)(B)(ix)][/us/usc/t48/s1921d/f/1/B/ix]) shall be applied by substituting ‘2014’ for ‘2009’.”
 
 [Pub. L. 112–74, div. F, title III, § 306][/us/pl/112/74/s306], Dec. 23, 2011, [125 Stat. 1099][/us/stat/125/1099], provided that: 
 
@@ -329,6 +343,13 @@
 [/us/stat/121/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2121
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/stat/122/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F870
+[/us/pl/113/128/s512/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fg%2F1
+[/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2881
+[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
 [/us/stat/117/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2720
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
@@ -364,6 +385,10 @@
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
 [/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2881
+[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
 [/us/pl/110/229/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F3
 [/us/pl/110/229/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs803%2Fa
 [/us/pl/110/229/s804/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs804%2F1
@@ -373,8 +398,14 @@
 [/us/pl/110/229/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs805
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/110/229/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs803%2Fb
 [/us/stat/122/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F870
+[/us/pl/113/76/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs306
+[/us/stat/128/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F399
+[/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
 [/us/pl/112/74/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs306
 [/us/stat/125/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1099
 [/us/usc/t48/s1921d/f/1/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1921d%2Ff%2F1%2FB%2Fix
