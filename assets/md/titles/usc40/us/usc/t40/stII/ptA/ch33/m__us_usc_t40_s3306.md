@@ -225,7 +225,7 @@ Pub. L. 94–541, title I, §§ 102, 105(3)–(8), Oct. 18, 1976, 90 Stat. 250
 
     Ex. Ord. No. 13006, May 21, 1996, 61 F.R. 26071, provided:
 
-    By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.) and the Public Buildings Cooperative Use Act of 1976 ([90 Stat. 2505][/us/stat/90/2505]) \[title I of [Pub. L. 94–541][/us/pl/94/541], see Tables for classification\], and in furtherance of and consistent with Executive Order No. 12072 of August 16, 1978 \[[40 U.S.C. 121][/us/usc/t40/s121] note\], and Executive Order No. 11593 of May 13, 1971 \[[16 U.S.C. 470][/us/usc/t16/s470] note\], it is hereby ordered as follows:
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.) \[see [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.\] and the Public Buildings Cooperative Use Act of 1976 ([90 Stat. 2505][/us/stat/90/2505]) \[title I of [Pub. L. 94–541][/us/pl/94/541], see Tables for classification\], and in furtherance of and consistent with Executive Order No. 12072 of August 16, 1978 \[[40 U.S.C. 121][/us/usc/t40/s121] note\], and Executive Order No. 11593 of May 13, 1971 \[[54 U.S.C. 300101][/us/usc/t54/s300101] note\], it is hereby ordered as follows:
 
     Section 1. Statement of Policy. Through the Administration’s community empowerment initiatives, the Federal Government has undertaken various efforts to revitalize our central cities, which have historically served as the centers for growth and commerce in our metropolitan areas. Accordingly, the Administration hereby reaffirms the commitment set forth in Executive Order No. 12072 to strengthen our Nation’s cities by encouraging the location of Federal facilities in our central cities. The Administration also reaffirms the commitments set forth in the National Historic Preservation Act to provide leadership in the preservation of historic resources, and in the Public Buildings Cooperative Use Act of 1976 to acquire and utilize space in suitable buildings of historic, architectural, or cultural significance.
 
@@ -266,10 +266,11 @@ Pub. L. 94–541, title I, §§ 102, 105(3)–(8), Oct. 18, 1976, 90 Stat. 250
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
 [/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/stat/90/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2505
 [/us/pl/94/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F541
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/usc/t42/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3122
 [/us/usc/t7/s2204b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2204b%E2%80%931
 
