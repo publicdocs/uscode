@@ -153,9 +153,9 @@
 
         (11) providing for activities to support entrepreneurship education and training;
 
-        (12) providing career and technical education programs for adults and school dropouts to complete their secondary school education, in coordination, to the extent practicable, with activities authorized under the Adult Education and Family Literacy Act \[[20 U.S.C. 9201][/us/usc/t20/s9201] et seq.\];
+        (12) providing career and technical education programs for adults and school dropouts to complete their secondary school education, in coordination, to the extent practicable, with activities authorized under the Adult Education and Family Literacy Act \[[29 U.S.C. 3271][/us/usc/t29/s3271] et seq.\];
 
-        (13) providing assistance to individuals, who have participated in services and activities under this subchapter, in continuing the individuals’ education or training or finding appropriate jobs, such as through referral to the system established under [section 2841 of title 29][/us/usc/t29/s2841];
+        (13) providing assistance to individuals, who have participated in services and activities under this subchapter, in continuing the individuals’ education or training or finding appropriate jobs, such as through referral to the system established under [section 3151 of title 29][/us/usc/t29/s3151];
 
         (14) developing valid and reliable assessments of technical skills;
 
@@ -177,17 +177,13 @@
 
 ([Pub. L. 88–210, title I, § 124][/us/pl/88/210/s124], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 723][/us/stat/120/723]; amended [Pub. L. 113–128, title V, § 512(e)(4)][/us/pl/113/128/s512/e/4], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
 
- __Amendment of Subsection (c)(13)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(4), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(13) of this section is amended by striking “such as through referral to the system established under [section 2841 of title 29][/us/usc/t29/s2841]” and inserting “such as through referral to the system established under [section 3151 of title 29][/us/usc/t29/s3151]”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3)(E), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Title II of the Act is classified generally to subchapter II (§ 6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
 
     The Higher Education Act of 1965, referred to in subsec. (b)(3)(E), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t20/s1001] and Tables.
 
-    The Adult Education and Family Literacy Act, referred to in subsec. (c)(12), is title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Adult Education and Family Literacy Act, referred to in subsec. (c)(12), is title II of [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this Title][/us/usc/t20/s3101] 29 and Tables.
 
  __Prior Provisions__ 
 
@@ -199,7 +195,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -217,8 +213,8 @@
 [/us/usc/t20/s2342/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2342%2Fc%2F1%2FA
 [/us/usc/t20/s2323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2323%2Fb
 [/us/usc/t20/s2355/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2355%2Fc%2F19
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
-[/us/usc/t29/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841
+[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
+[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/usc/t20/s2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2328
 [/us/usc/t20/s2322/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2322%2Fa%2F2
 [/us/pl/88/210/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs124
@@ -226,19 +222,15 @@
 [/us/stat/120/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F723
 [/us/pl/113/128/s512/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F4
 [/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841
-[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
+[/us/usc/t20/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3101
 [/us/pl/88/210/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs124
 [/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
 [/us/stat/112/3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3107

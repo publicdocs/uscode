@@ -45,7 +45,7 @@
 
     (c) __Approval of local applications__ 
 
-        The Secretary shall select applicants for funding under this subpart based on the quality of the applications and the recommendations of a peer review panel convened under [section 6363(c)(2) of this title][/us/usc/t20/s6363/c/2], that includes, at a minimum, three individuals, selected from the entities described in clauses (ii), (iii), and (iv) of [section 6363(c)(2)(A) of this title][/us/usc/t20/s6363/c/2/A], who are experts in early reading development and early childhood development.
+        The Secretary shall select applicants for funding under this subpart based on the quality of the applications and the recommendations of a peer review panel convened under [section 6363(c)(2) of this title][/us/usc/t20/s6363/c/2], that includes, at a minimum, three individuals, selected from the entities described in clauses (ii), (iii), and (iv) of section 6363(c)(2)(A)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, who are experts in early reading development and early childhood development.
 
     (d) __Authorized activities__ 
 
@@ -77,6 +77,10 @@
 
 ([Pub. L. 89–10, title I, § 1222][/us/pl/89/10/s1222], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1553][/us/stat/115/1553].)
 
+ __References in Text__ 
+
+    [Section 6363(c)(2)(A) of this title][/us/usc/t20/s6363/c/2/A], referred to in subsec. (c), was amended by [Pub. L. 113–128, title V, § 512(i)(1)][/us/pl/113/128/s512/i/1], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708], by repealing cl. (ii) and redesignating cls. (iii) and (iv) as (ii) and (iii), respectively.
+
  __Prior Provisions__ 
 
     A prior [section 1222 of Pub. L. 89–10][/us/pl/89/10/s1222] was classified to [section 2792 of this title][/us/usc/t20/s2792], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
@@ -90,10 +94,12 @@
 
 [/us/usc/t20/s6302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6302%2Fb%2F2
 [/us/usc/t20/s6363/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6363%2Fc%2F2
-[/us/usc/t20/s6363/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6363%2Fc%2F2%2FA
 [/us/pl/89/10/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1222
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
 [/us/stat/115/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1553
+[/us/usc/t20/s6363/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6363%2Fc%2F2%2FA
+[/us/pl/113/128/s512/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F1
+[/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
 [/us/pl/89/10/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1222
 [/us/usc/t20/s2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2792
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10

@@ -93,8 +93,6 @@
 
     The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), is [Pub. L. 103–279][/us/pl/103/279], July 21, 1994, [108 Stat. 1409][/us/stat/108/1409], which enacted sections 76r and 76s of this title, amended this section, sections 76h, 76j, 76l, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, and enacted and amended provisions set out as notes under [section 76h of this title][/us/usc/t20/s76h]. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 76h of this title][/us/usc/t20/s76h] and Tables.
 
-    The provisions relating to the Federal competitive service, referred to in subsec. (d)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
     The National Labor Relations Act, referred to in subsec. (f)(2), is [act July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], [49 Stat. 449][/us/stat/49/449], as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29][/us/usc/t29/s167] and Tables.
 
     The Labor Management Relations Act, 1947, referred to in subsec. (f)(2), is [act June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], [61 Stat. 136][/us/stat/61/136], as amended, which is classified principally to chapter 7 (§ 141 et seq.) of Title 29. For complete classification of this Act to the Code, see [section 141 of Title 29][/us/usc/t29/s141] and Tables.

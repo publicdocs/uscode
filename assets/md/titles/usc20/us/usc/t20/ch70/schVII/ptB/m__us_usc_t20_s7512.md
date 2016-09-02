@@ -77,7 +77,7 @@
 
         (G) the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act ([20 U.S.C. 4401][/us/usc/t20/s4401] et seq.);
 
-        (H) the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.); and
+        (H) the Workforce Innovation and Opportunity Act; and
 
         (I) the Older Americans Act of 1965 ([42 U.S.C. 3001][/us/usc/t42/s3001] et seq.).
 
@@ -141,10 +141,6 @@
 
 ([Pub. L. 89–10, title VII, § 7202][/us/pl/89/10/s7202], as added [Pub. L. 107–110, title VII, § 701][/us/pl/107/110/s701], Jan. 8, 2002, [115 Stat. 1932][/us/stat/115/1932]; amended [Pub. L. 111–256, § 2(c)][/us/pl/111/256/s2/c], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title V, § 512(i)(5)][/us/pl/113/128/s512/i/5], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709]; [Pub. L. 113–287, § 5(e)(3)][/us/pl/113/287/s5/e/3], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
 
- __Amendment of Paragraph (13)(H)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(i)(5), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (13)(H) of this section is amended by striking “the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     [Public Law 103–150][/us/pl/103/150], referred to in par. (5), is [Pub. L. 103–150][/us/pl/103/150], Nov. 23, 1993, [107 Stat. 1510][/us/stat/107/1510], which is not classified to the Code.
@@ -169,7 +165,7 @@
 
     The American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act, referred to in par. (13)(G), is title XV of [Pub. L. 99–498][/us/pl/99/498], Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600], which is classified generally to chapter 56 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4401 of this title][/us/usc/t20/s4401] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in par. (13)(H), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in par. (13)(H), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Older Americans Act of 1965, referred to in par. (13)(I), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42][/us/usc/t42/s3001] and Tables.
 
@@ -189,7 +185,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Definitions__ 
 
@@ -215,7 +211,6 @@
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
 [/us/usc/t25/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2901
 [/us/usc/t20/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4401
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/stat/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F130
 [/us/pl/89/10/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs7202
@@ -227,9 +222,6 @@
 [/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
 [/us/pl/113/287/s5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fe%2F3
 [/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/103/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F150
 [/us/pl/103/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F150
 [/us/stat/107/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1510
@@ -261,9 +253,9 @@
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/stat/100/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1600
 [/us/usc/t20/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4401
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001

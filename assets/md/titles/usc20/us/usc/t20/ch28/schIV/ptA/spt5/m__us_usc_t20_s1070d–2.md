@@ -37,7 +37,7 @@
 
                 (i) who themselves, or whose immediate family, have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork; or
 
-                (ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6391][/us/usc/t20/s6391] et seq.\] or [section 2912 of title 29][/us/usc/t29/s2912]; and
+                (ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6391][/us/usc/t20/s6391] et seq.\] or [section 3222 of title 29][/us/usc/t29/s3222]; and
 
             (C) who lack a high school diploma or its equivalent;
 
@@ -71,7 +71,7 @@
 
          Services authorized by this subpart for the college assistance migrant program include—
 
-            (A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6391][/us/usc/t20/s6391] et seq.\] or [section 2912 of title 29][/us/usc/t29/s2912], and who meet the minimum qualifications for attendance at a college or university;
+            (A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6391][/us/usc/t20/s6391] et seq.\] or [section 3222 of title 29][/us/usc/t29/s3222], and who meet the minimum qualifications for attendance at a college or university;
 
             (B)
 
@@ -187,10 +187,6 @@
 
 ([Pub. L. 89–329, title IV, § 418A][/us/pl/89/329/s418A], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1341][/us/stat/100/1341]; amended [Pub. L. 100–50, § 7][/us/pl/100/50/s7], June 3, 1987, [101 Stat. 340][/us/stat/101/340]; [Pub. L. 102–325, title IV, § 405][/us/pl/102/325/s405], July 23, 1992, [106 Stat. 507][/us/stat/106/507]; [Pub. L. 103–382, title III, § 391(e)(1)][/us/pl/103/382/s391/e/1], (2), Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 105–244, title IV, § 408][/us/pl/105/244/s408], Oct. 7, 1998, [112 Stat. 1667][/us/stat/112/1667]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 110–315, title IV, § 408][/us/pl/110/315/s408], Aug. 14, 2008, [122 Stat. 3223][/us/stat/122/3223]; [Pub. L. 113–128, title V, § 512(n)(1)][/us/pl/113/128/s512/n/1], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
 
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsections (b)(1)(B)(ii) and (c)(1)(A) of this section are amended by striking “[section 2912 of title 29][/us/usc/t29/s2912]” and inserting “[section 3222 of title 29][/us/usc/t29/s3222]”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Part C of title I of the Act is classified generally to part C (§ 6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
@@ -273,7 +269,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendments__ 
 
@@ -293,9 +289,9 @@
 ----------
 
 [/us/usc/t20/s6391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6391
-[/us/usc/t29/s2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2912
+[/us/usc/t29/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3222
 [/us/usc/t20/s6391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6391
-[/us/usc/t29/s2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2912
+[/us/usc/t29/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3222
 [/us/usc/t20/s1070a–11/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9311%2Fc%2F2
 [/us/pl/89/329/s418A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs418A
 [/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
@@ -314,10 +310,6 @@
 [/us/stat/122/3223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3223
 [/us/pl/113/128/s512/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F1
 [/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2912
-[/us/usc/t29/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3222
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

@@ -19,6 +19,8 @@
 
 ([Pub. L. 111–5, div. A, title XIV, § 14011][/us/pl/111/5/s14011], Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285]; [Pub. L. 111–8, div. F, title V, § 523(g)][/us/pl/111/8/s523/g], Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806].)
 
+ __References in Text__ 
+
     The Individuals with Disabilities Education Act, referred to in text, is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title][/us/usc/t20/s1400] and Tables.
 
  __Amendments__ 

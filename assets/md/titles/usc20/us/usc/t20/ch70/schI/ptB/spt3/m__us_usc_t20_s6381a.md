@@ -63,7 +63,7 @@
 
             (B) __Coordination and integration__ 
 
-                The coordination and integration described in subparagraph (A) shall include coordination and integration of funds available under the Adult Education and Family Literacy Act \[[20 U.S.C. 9201][/us/usc/t20/s9201] et seq.\], the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], this subpart, part A of this subchapter, and part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\].
+                The coordination and integration described in subparagraph (A) shall include coordination and integration of funds available under the Adult Education and Family Literacy Act \[[29 U.S.C. 3271][/us/usc/t29/s3271] et seq.\], the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], this subpart, part A of this subchapter, and part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\].
 
             (C) __Restriction__ 
 
@@ -79,7 +79,7 @@
 
                 (ii) The Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\].
 
-                (iii) The Adult Education and Family Literacy Act \[[20 U.S.C. 9201][/us/usc/t20/s9201] et seq.\].
+                (iii) The Adult Education and Family Literacy Act \[[29 U.S.C. 3271][/us/usc/t29/s3271] et seq.\].
 
                 (iv) All other State-funded preschool programs and programs providing literacy services to adults.
 
@@ -141,7 +141,7 @@
 
  __References in Text__ 
 
-    The Adult Education and Family Literacy Act, referred to in subsec. (c)(1)(B), (2)(A)(iii), is title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Adult Education and Family Literacy Act, referred to in subsec. (c)(1)(B), (2)(A)(iii), is title II of [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Head Start Act, referred to in subsec. (c)(1)(B), (2)(A)(ii), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
 
@@ -161,11 +161,11 @@
 [/us/usc/t20/s6381j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6381j%2Fb
 [/us/usc/t20/s6381j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6381j%2Fb
 [/us/usc/t20/s6302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6302%2Fb%2F3
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
 [/us/usc/t20/s6363/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6363%2Fd
 [/us/usc/t20/s6362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6362
 [/us/usc/t20/s6302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6302%2Fb%2F3
@@ -175,9 +175,9 @@
 [/us/pl/89/10/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1232
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
 [/us/stat/115/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1556
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch73/schII/m__us_usc_t20_s9276.md) | [Next](./../../../..//us/usc/t20/ch75/m__us_usc_t20_ch75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch74)
+[Previous](./../../../..//us/usc/t20/ch73/schII/m__us_usc_t20_ch73_schII.md) | [Next](./../../../..//us/usc/t20/ch75/m__us_usc_t20_ch75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch74)
 
 ## CHAPTER 74—TROOPS-TO-TEACHERS PROGRAM
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch73/schII/m__us_usc_t20_s9276.md) | [Next](./../../../..//us/usc/t20/ch75/m__us_usc_t20_ch75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch74)
+[Previous](./../../../..//us/usc/t20/ch73/schII/m__us_usc_t20_ch73_schII.md) | [Next](./../../../..//us/usc/t20/ch75/m__us_usc_t20_ch75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch74)
 
 ----------
 ----------

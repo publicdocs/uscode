@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\], the Carl D. Perkins Career and Technical Education Act of 2006 \[[20 U.S.C. 2301][/us/usc/t20/s2301] et seq.\], the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], the Adult Education and Family Literacy Act \[[20 U.S.C. 9201][/us/usc/t20/s9201] et seq.\], and the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11301][/us/usc/t42/s11301] et seq.\].
+            For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan, developed by the State educational agency, in consultation with local educational agencies, teachers, principals, pupil services personnel, administrators (including administrators of programs described in other parts of this subchapter), other staff, and parents, that satisfies the requirements of this section and that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\], the Carl D. Perkins Career and Technical Education Act of 2006 \[[20 U.S.C. 2301][/us/usc/t20/s2301] et seq.\], the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], the Adult Education and Family Literacy Act \[[29 U.S.C. 3271][/us/usc/t29/s3271] et seq.\], and the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11301][/us/usc/t42/s11301] et seq.\].
 
         (2) __Consolidated plan__ 
 
@@ -617,7 +617,7 @@
 
     The Head Start Act, referred to in subsec. (a)(1), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
 
-    The Adult Education and Family Literacy Act, referred to in subsec. (a)(1), is title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Adult Education and Family Literacy Act, referred to in subsec. (a)(1), is title II of [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is [Pub. L. 100–77][/us/pl/100/77], July 22, 1987, [101 Stat. 482][/us/stat/101/482], as amended, which is classified principally to chapter 119 (§ 11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42][/us/usc/t42/s11301] and Tables.
 
@@ -649,7 +649,7 @@
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/usc/t20/s7842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7842
 [/us/usc/t20/s6316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316
@@ -691,9 +691,9 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301

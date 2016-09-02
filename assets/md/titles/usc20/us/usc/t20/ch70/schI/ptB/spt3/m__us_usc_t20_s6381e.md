@@ -23,7 +23,7 @@
 
          a parent or parents—
 
-            (A) who are eligible for participation in adult education and literacy activities under the Adult Education and Family Literacy Act \[[20 U.S.C. 9201][/us/usc/t20/s9201] et seq.\]; or
+            (A) who are eligible for participation in adult education and literacy activities under the Adult Education and Family Literacy Act \[[29 U.S.C. 3271][/us/usc/t29/s3271] et seq.\]; or
 
             (B) who are within the State’s compulsory school attendance age range, so long as a local educational agency provides (or ensures the availability of) the basic education component required under this subpart, or who are attending secondary school; and
 
@@ -51,7 +51,7 @@
 
  __References in Text__ 
 
-    The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(A), is title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(A), is title II of [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
 ----------
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
 [/us/pl/89/10/s1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1236
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
 [/us/stat/115/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1562
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

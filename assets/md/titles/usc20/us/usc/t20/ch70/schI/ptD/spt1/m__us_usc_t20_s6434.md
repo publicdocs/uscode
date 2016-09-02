@@ -83,7 +83,7 @@
 
         (7) includes data showing that the State agency has maintained the fiscal effort required of a local educational agency, in accordance with [section 7901 of this title][/us/usc/t20/s7901];
 
-        (8) describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under title I of [Public Law 105–220][/us/pl/105/220] \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], vocational and technical education programs, State and local dropout prevention programs, and special education programs;
+        (8) describes how the programs will be coordinated with other appropriate State and Federal programs, such as programs under title I of [Public Law 105–220][/us/pl/105/220], <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  vocational and technical education programs, State and local dropout prevention programs, and special education programs;
 
         (9) describes how the State agency will encourage correctional facilities receiving funds under this subpart to coordinate with local educational agencies or alternative education programs attended by incarcerated children and youth prior to their incarceration to ensure that student assessments and appropriate academic records are shared jointly between the correctional facility and the local educational agency or alternative education program;
 
@@ -117,7 +117,7 @@
 
  __References in Text__ 
 
-    [Pub. L. 105–220][/us/pl/105/220], referred to in subsec. (c)(8), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    [Pub. L. 105–220][/us/pl/105/220], referred to in subsec. (c)(8), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], known as the Workforce Investment Act of 1998, which was repealed by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705], effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of Title 29, Labor. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t20/s3101] and Tables.
 
     The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c)(19), is [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42][/us/usc/t42/s5601] and Tables.
 
@@ -138,7 +138,6 @@
 [/us/usc/t20/s7941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7941
 [/us/usc/t20/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7901
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
 [/us/pl/89/10/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1414
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
@@ -146,7 +145,12 @@
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
+[/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t20/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3101
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

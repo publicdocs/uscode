@@ -165,10 +165,6 @@
 
     Section effective Oct. 1, 1998, except as otherwise provided in [Pub. L. 105–244][/us/pl/105/244], see [section 3 of Pub. L. 105–244][/us/pl/105/244/s3], set out as an Effective Date of 1998 Amendment note under [section 1001 of this title][/us/usc/t20/s1001].
 
-2014—Subsec. (d). [Pub. L. 113–235][/us/pl/113/235] amended subsec. (d) generally. Prior to amendment, text of subsec. (d) read as follows: 
-
-> “In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law.”
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t20/ch28/schIV/ptC/m__us_usc_t20_s1087i–2.md) | [Next](./../../../../../..//us/usc/t20/ch28/schIV/ptD/m__us_usc_t20_ch28_schIV_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087j)
@@ -237,6 +233,5 @@
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

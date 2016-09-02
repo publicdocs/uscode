@@ -67,7 +67,7 @@
 
             (D) A description of the manner in which the eligible entity intends to continue providing the training and assistance to be funded by the grant after the end of the grant period, including any partnerships or arrangements established for that purpose.
 
-            (E) A description of how the eligible entity will work with local boards (as defined in [section 2801 of title 29][/us/usc/t29/s2801]) to ensure that training and assistance to be funded with the grant will further local workforce goals, including the creation of educational opportunities for individuals who are from economically disadvantaged backgrounds or are displaced workers.
+            (E) A description of how the eligible entity will work with local boards (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) to ensure that training and assistance to be funded with the grant will further local workforce goals, including the creation of educational opportunities for individuals who are from economically disadvantaged backgrounds or are displaced workers.
 
             (F) Additional information, if any, on the eligibility of the eligible entity for priority in the making of grants under subsection (a)(3).
 
@@ -139,17 +139,13 @@
 
 ([Pub. L. 89–329, title VIII, § 872][/us/pl/89/329/s872], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3426][/us/stat/122/3426]; amended [Pub. L. 113–128, title V, § 512(n)(7)][/us/pl/113/128/s512/n/7], July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
 
- __Amendment of Subsection (b)(2)(E)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(7), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(2)(E) of this section is amended by striking “local boards (as defined in [section 2801 of title 29][/us/usc/t29/s2801])” and inserting “local boards (as defined in [section 3102 of title 29][/us/usc/t29/s3102])”. See 2014 Amendment note below.
-
  __Amendments__ 
 
     2014—Subsec. (b)(2)(E). [Pub. L. 113–128][/us/pl/113/128] substituted “local boards (as defined in [section 3102 of title 29][/us/usc/t29/s3102])” for “local boards (as defined in [section 2801 of title 29][/us/usc/t29/s2801])”.
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -159,16 +155,12 @@
 ----------
 
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/89/329/s872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs872
 [/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
 [/us/stat/122/3426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3426
 [/us/pl/113/128/s512/n/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F7
 [/us/stat/128/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1711
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801

@@ -39,7 +39,7 @@
 
     (8) as appropriate, a description of how the program will involve parents in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
 
-    (9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of [Public Law 105–220][/us/pl/105/220] \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] and vocational and technical education programs serving at-risk children and youth;
+    (9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] and vocational and technical education programs serving at-risk children and youth;
 
     (10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 \[[42 U.S.C. 5601][/us/usc/t42/s5601] et seq.\] and other comparable programs, if applicable;
 
@@ -51,13 +51,9 @@
 
 ([Pub. L. 89–10, title I, § 1423][/us/pl/89/10/s1423], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1588][/us/stat/115/1588]; amended [Pub. L. 113–128, title V, § 512(i)(3)][/us/pl/113/128/s512/i/3], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
 
- __Amendment of Paragraph (9)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(i)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of [Public Law 105–220][/us/pl/105/220]” and inserting “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
-    [Pub. L. 105–220][/us/pl/105/220], referred to in par. (9), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in par. (9), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42][/us/usc/t42/s5601] and Tables.
 
@@ -71,7 +67,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -80,8 +76,7 @@
 ----------
 ----------
 
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
 [/us/pl/89/10/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1423
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
@@ -89,12 +84,8 @@
 [/us/pl/113/128/s512/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F3
 [/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601

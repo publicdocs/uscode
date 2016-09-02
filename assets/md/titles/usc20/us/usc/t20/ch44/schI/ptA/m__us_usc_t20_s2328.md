@@ -73,9 +73,9 @@
 
             The jointly designated State entity described under subsection (c) may use funds provided under subsection (a)(2) to supplement activities under section 15 of the Wagner-Peyser Act \[[29 U.S.C. 49][/us/usc/t29/s49]l–2\] to the extent such activities do not duplicate activities assisted under such section.
 
-        (2)  __[__  __Public Law 105–220__  __][/us/pl/105/220]__ 
+        (2) __Workforce Innovation and Opportunity Act__ 
 
-            None of the functions and activities assisted under this section shall duplicate the functions and activities carried out under [Public Law 105–220][/us/pl/105/220].
+            None of the functions and activities assisted under this section shall duplicate the functions and activities carried out under the Workforce Innovation and Opportunity Act.
 
     (e) __Funding rule__ 
 
@@ -101,19 +101,9 @@
 
 ([Pub. L. 88–210, title I, § 118][/us/pl/88/210/s118], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 713][/us/stat/120/713]; amended [Pub. L. 113–128, title V, § 512(e)(1)][/us/pl/113/128/s512/e/1], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
 
- __Amendment of Subsection (d)(2)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d)(2) of this section is amended:
-
-    (1) in the paragraph heading, by striking “Public law 105–220” and inserting “Workforce Innovation and Opportunity Act”; and
-
-    (2) in the text, by striking “functions and activities carried out under [Public Law 105–220][/us/pl/105/220]” and inserting “functions and activities carried out under the Workforce Innovation and Opportunity Act”.
-
-    See 2014 Amendment note below.
-
  __References in Text__ 
 
-    [Public Law 105–220][/us/pl/105/220], referred to in subsec. (d)(2), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(2), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Prior Provisions__ 
 
@@ -149,7 +139,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -163,8 +153,6 @@
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
 [/us/pl/88/210/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs118
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
@@ -172,12 +160,8 @@
 [/us/pl/113/128/s512/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F1
 [/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/88/210/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs118
 [/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
 [/us/stat/112/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3100

@@ -3683,7 +3683,7 @@ SUBCHAPTER VIII—MISCELLANEOUS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1151" data-uslm-ref="/us/usc/t20/s1151">1151.</a>  </td>
 
-    <td> Grants to States for workplace and community transition training for incarcerated individuals.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

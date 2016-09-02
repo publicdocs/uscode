@@ -15,7 +15,7 @@
 
 # Title 20—EDUCATION
 
-Current through 114-25
+Current through 114-30
 
 <table>
 
@@ -813,7 +813,7 @@ Current through 114-25
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fch73" data-uslm-ref="/us/usc/t20/ch73">73.</a>  </td>
 
-    <td> Adult Education and Literacy  </td>
+    <td> Adult Education and Literacy [Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs9201" data-uslm-ref="/us/usc/t20/s9201">9201</a>  </td>
 

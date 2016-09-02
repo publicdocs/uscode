@@ -27,7 +27,7 @@
 
     (b) __Basis for grants__ 
 
-        The Secretary shall determine which States receive grants under this section, and the amount of those grants, on the basis of information provided in State applications under [section 10005 of this title][/us/usc/t20/s10005] and such other criteria as the Secretary determines appropriate, which may include a State’s need for assistance to help meet the objective of paragraphs (2), (3), (4), (5), or (6) of [section 10005(d) of this title][/us/usc/t20/s10005/d].
+        The Secretary shall determine which States receive grants under this section, and the amount of those grants, on the basis of information provided in State applications under [section 10005 of this title][/us/usc/t20/s10005] and such other criteria as the Secretary determines appropriate, which may include a State’s need for assistance to help meet the objective of paragraphs  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraph”. </sup></sup>  (2), (3), (4), (5), or (6) of [section 10005(d) of this title][/us/usc/t20/s10005/d].
 
     (c) __Subgrants to local educational agencies__ 
 

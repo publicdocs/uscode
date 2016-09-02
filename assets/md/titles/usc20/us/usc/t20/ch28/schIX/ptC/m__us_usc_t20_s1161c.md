@@ -101,7 +101,7 @@
 
     Not later than 36 months after the first grant is awarded under this section, the Comptroller General shall report to the authorizing committees recommendations—
 
-        (1) for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 \[[20 U.S.C. 2301][/us/usc/t20/s2301] et seq.\] and the Workforce Investment Act of 1998 (including titles I and II \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.; [20 U.S.C. 9201][/us/usc/t20/s9201] et seq.\]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
+        (1) for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 \[[20 U.S.C. 2301][/us/usc/t20/s2301] et seq.\] and the Workforce Innovation and Opportunity Act (including titles I and II \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq., 3271 et seq.\]), to help create and sustain business and industry workforce partnerships at institutions of higher education; and
 
         (2) for other changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts to otherwise strengthen the links between business and industry workforce needs, workforce development programs, and other degree credit offerings at institutions of higher education.
 
@@ -117,13 +117,13 @@
 
                 (i) one or more institutions of higher education, one of which serves as the fiscal agent and grant recipient for the eligible partnership;
 
-                (ii) except as provided in subparagraph (B), an employer, group of employers, local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])), or workforce intermediary, or any combination thereof; and
+                (ii) except as provided in subparagraph (B), an employer, group of employers, local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\]), or workforce intermediary, or any combination thereof; and
 
                 (iii) where applicable, one or more labor organizations that represent workers locally in the businesses or industries that are the focus of the partnership, including as a result of such an organization’s representation of employees at a worksite at which the partnership proposes to conduct activities under this section.
 
             (B) __State and local boards__ 
 
-                Notwithstanding subparagraph (A), if an institution of higher education that is participating in an eligible partnership under this section is located in a State that does not operate local boards, an eligible partnership may include a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])).
+                Notwithstanding subparagraph (A), if an institution of higher education that is participating in an eligible partnership under this section is located in a State that does not operate local boards, an eligible partnership may include a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\]).
 
             (C) __Rule of construction__ 
 
@@ -159,25 +159,11 @@
 
 ([Pub. L. 89–329, title VIII, § 803][/us/pl/89/329/s803], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3382][/us/stat/122/3382]; amended [Pub. L. 113–128, title V, § 512(n)(5)][/us/pl/113/128/s512/n/5], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
 
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(5), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended:
-
-    (1) in subsection (i)(1), by striking “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education” and inserting “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education”; and
-
-    (2) in subsection (j)(1)—
-
-    (A) in subparagraph (A)(ii), by striking “local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))” and inserting “local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)”; and
-
-    (B) in subparagraph (B), by striking “a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))” and inserting “a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
     The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (i)(1), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title][/us/usc/t20/s2301] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (i)(1), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], which enacted chapter 73 (§ 9201 et seq.) of this title, and chapter 30 (§ 2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29. Title II of the Act is classified generally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (i)(1), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Titles I and II of the Act are classified generally to subchapters I (§ 3111 et seq.) and II (§ 3271 et seq.), respectively, of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Amendments__ 
 
@@ -189,7 +175,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -199,28 +185,23 @@
 ----------
 
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t20/s1087vv/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087vv%2Fd
 [/us/pl/89/329/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs803
 [/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
 [/us/stat/122/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3382
 [/us/pl/113/128/s512/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F5
 [/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F683
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/113/128/s512/n/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F5%2FA
 [/us/pl/113/128/s512/n/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F5%2FB%2Fi
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801

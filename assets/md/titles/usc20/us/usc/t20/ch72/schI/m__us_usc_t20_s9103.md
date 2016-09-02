@@ -71,7 +71,7 @@
 
         (2) programs and activities under the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) ([42 U.S.C. 9836(d)(2)][/us/usc/t42/s9836/d/2]);
 
-        (3) activities under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.) (including activities under section 134(c) of such Act) ([29 U.S.C. 2864(c)][/us/usc/t29/s2864/c]); and
+        (3) activities under the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3101][/us/usc/t29/s3101] et seq.\] (including activities under section 121(e) of such Act \[[29 U.S.C. 3151(e)][/us/usc/t29/s3151/e]\]));  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The second closing parenthesis probably should not appear. </sup></sup>  and
 
         (4) Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.
 
@@ -115,17 +115,13 @@
 
 ([Pub. L. 94–462, title II, § 204][/us/pl/94/462/s204], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–294; amended [Pub. L. 108–81, title I, § 103][/us/pl/108/81/s103], Sept. 25, 2003, [117 Stat. 992][/us/stat/117/992]; [Pub. L. 111–340, title I, § 102][/us/pl/111/340/s102], Dec. 22, 2010, [124 Stat. 3595][/us/stat/124/3595]; [Pub. L. 113–128, title V, § 512(t)(1)][/us/pl/113/128/s512/t/1], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
 
- __Amendment of Subsection (f)(3)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(t)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(3) of this section is amended by striking “activities under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.) (including activities under section 134(c) of such Act) ([29 U.S.C. 2864(c)][/us/usc/t29/s2864/c])” and inserting “activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     This chapter, referred to in subsec. (e)(2) and the second place it appears in subsec. (i)(2), was in the original “this Act” and was translated as reading “this title”, meaning title II of [Pub. L. 94–462][/us/pl/94/462], known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
     The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (f)(3), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Prior Provisions__ 
 
@@ -147,7 +143,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Service of Individuals Serving on__  __September 30, 1996__ 
 
@@ -164,8 +160,8 @@
 [/us/usc/t20/s6383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6383
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/usc/t42/s9836/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9836%2Fd%2F2
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/pl/94/462/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs204
 [/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
@@ -175,17 +171,13 @@
 [/us/stat/124/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3595
 [/us/pl/113/128/s512/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ft%2F1
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/94/462/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs204
 [/us/usc/t20/s963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs963
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462

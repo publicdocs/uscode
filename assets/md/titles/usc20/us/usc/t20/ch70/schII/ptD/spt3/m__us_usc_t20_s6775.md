@@ -59,7 +59,7 @@
 
             (A) to maximize the utilization of quality educational programming by preschool and elementary school children, and make such programming widely available to federally funded programs serving such populations; and
 
-            (B) to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 \[[42 U.S.C. 9857][/us/usc/t42/s9857] et seq.\], regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
+            (B) to coordinate activities with Federal programs that have major training components for early childhood development, including programs under the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.) and Even Start, and State training activities funded under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858]  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  et seq.), regarding the availability and utilization of materials developed under paragraph (1)(E) to enhance parent and child care provider skills in early childhood development and education.
 
     (b) __Applications__ 
 
@@ -117,7 +117,7 @@
 ----------
 
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
-[/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857
+[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
 [/us/pl/89/10/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2431
 [/us/pl/107/110/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs201
 [/us/stat/115/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1683

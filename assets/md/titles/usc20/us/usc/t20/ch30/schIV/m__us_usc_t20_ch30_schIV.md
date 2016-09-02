@@ -23,7 +23,7 @@
 
     Section 1213b, [Pub. L. 89–750, title III, § 383][/us/pl/89/750/s383], as added [Pub. L. 100–297, title II, § 2102][/us/pl/100/297/s2102], Apr. 28, 1988, [102 Stat. 318][/us/stat/102/318], related to State program analysis assistance and policy studies.
 
-    Section 1213c, [Pub. L. 89–750, title III, § 384][/us/pl/89/750/s384], as added [Pub. L. 100–297, title II, § 2102][/us/pl/100/297/s2102], Apr. 28, 1988, [102 Stat. 319][/us/stat/102/319]; amended [Pub. L. 102–73, title I, § 102(c)][/us/pl/102/73/s102/c], July 25, 1991, [105 Stat. 334][/us/stat/105/334]; [Pub. L. 103–382, title III, § 335(b)][/us/pl/103/382/s335/b], Oct. 20, 1994, [108 Stat. 3966][/us/stat/108/3966], related to national research activities and establishment of National Institute for Literacy. See [section 9252 of this title][/us/usc/t20/s9252].
+    Section 1213c, [Pub. L. 89–750, title III, § 384][/us/pl/89/750/s384], as added [Pub. L. 100–297, title II, § 2102][/us/pl/100/297/s2102], Apr. 28, 1988, [102 Stat. 319][/us/stat/102/319]; amended [Pub. L. 102–73, title I, § 102(c)][/us/pl/102/73/s102/c], July 25, 1991, [105 Stat. 334][/us/stat/105/334]; [Pub. L. 103–382, title III, § 335(b)][/us/pl/103/382/s335/b], Oct. 20, 1994, [108 Stat. 3966][/us/stat/108/3966], related to national research activities and establishment of National Institute for Literacy.
 
     Section 1213d, [Pub. L. 89–750, title III, § 385][/us/pl/89/750/s385], as added [Pub. L. 100–297, title II, § 2102][/us/pl/100/297/s2102], Apr. 28, 1988, [102 Stat. 319][/us/stat/102/319], related to limitation on grants for sectarian instruction or religious worship or to a school or department of divinity.
 
@@ -60,7 +60,6 @@
 [/us/stat/105/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F334
 [/us/pl/103/382/s335/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs335%2Fb
 [/us/stat/108/3966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3966
-[/us/usc/t20/s9252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9252
 [/us/pl/89/750/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F750%2Fs385
 [/us/pl/100/297/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2102
 [/us/stat/102/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F319

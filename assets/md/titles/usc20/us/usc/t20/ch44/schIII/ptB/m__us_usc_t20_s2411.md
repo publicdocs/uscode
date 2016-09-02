@@ -31,7 +31,7 @@
 
     For the purposes of this section, the term “applicable program” means any program under any of the following provisions of law:
 
-        (1) Chapters 4 and 5 of subtitle B of title I of [Public Law 105–220][/us/pl/105/220] \[[29 U.S.C. 2851][/us/usc/t29/s2851] et seq., 2861 et seq.\].
+        (1) Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3161][/us/usc/t29/s3161] et seq., 3171 et seq.\].
 
         (2) The Wagner-Peyser Act \[[29 U.S.C. 49][/us/usc/t29/s49] et seq.\].
 
@@ -41,13 +41,9 @@
 
 ([Pub. L. 88–210, title III, § 321][/us/pl/88/210/s321], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 745][/us/stat/120/745]; amended [Pub. L. 113–128, title V, § 512(e)(7)][/us/pl/113/128/s512/e/7], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
 
- __Amendment of Subsection (b)(1)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(7), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(1) of this section is amended by striking “Chapters 4 and 5 of subtitle B of title I of [Public Law 105–220][/us/pl/105/220]” and inserting “Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
-    [Public Law 105–220][/us/pl/105/220], referred to in subsec. (b)(1), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], known as the Workforce Investment Act of 1998. Chapters 4 and 5 of subtitle B of title I of the Act are classified generally to parts D (§ 2851 et seq.) and E (§ 2861 et seq.), respectively, of subchapter II of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.), respectively, of part B of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Wagner-Peyser Act, referred to in subsec. (b)(2), is [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], [48 Stat. 113][/us/stat/48/113], as amended, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of Title 29][/us/usc/t29/s49] and Tables.
 
@@ -69,7 +65,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -78,8 +74,7 @@
 ----------
 ----------
 
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/usc/t29/s2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2851
+[/us/usc/t29/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3161
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
 [/us/pl/88/210/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs321
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
@@ -87,12 +82,8 @@
 [/us/pl/113/128/s512/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F7
 [/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49

@@ -33,7 +33,7 @@
 
     (e) __Subsequent level of effort__ 
 
-        Notwithstanding (d),  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (d),”. </sup></sup>  the level of effort required by a State or local educational agency for the following fiscal year shall not be reduced.
+        Notwithstanding (d), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (d),”. </sup></sup>  the level of effort required by a State or local educational agency for the following fiscal year shall not be reduced.
 
 ([Pub. L. 111–5, div. A, title XIV, § 14012][/us/pl/111/5/s14012], Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285]; [Pub. L. 111–8, div. F, title V, § 523(h)][/us/pl/111/8/s523/h], Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806].)
 

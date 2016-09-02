@@ -29,7 +29,7 @@
 
     At a minimum, the National Institute for Literacy shall disseminate the information described in subsection (a) of this section to—
 
-        (1) recipients of Federal financial assistance under this subchapter, subchapter III of this chapter, the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\], and the Adult Education and Family Literacy Act \[[20 U.S.C. 9201][/us/usc/t20/s9201] et seq.\]; and
+        (1) recipients of Federal financial assistance under this subchapter, subchapter III of this chapter, the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\], the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\], and the Adult Education and Family Literacy Act \[[29 U.S.C. 3271][/us/usc/t29/s3271] et seq.\]; and
 
         (2) each Bureau funded school (as defined in [section 2021 of title 25][/us/usc/t25/s2021]).
 
@@ -39,7 +39,7 @@
 
     (d) __National Institute for Literacy__ 
 
-        For purposes of funds reserved under [section 6362(b)(1)(D) of this title][/us/usc/t20/s6362/b/1/D] to carry out this section, the National Institute for Literacy shall administer such funds in accordance with [section 9252(b) of this title][/us/usc/t20/s9252/b] (relating to the establishment and administration of the National Institute for Literacy).
+        For purposes of funds reserved under [section 6362(b)(1)(D) of this title][/us/usc/t20/s6362/b/1/D] to carry out this section, the National Institute for Literacy shall administer such funds in accordance with section 9252(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title (relating to the establishment and administration of the National Institute for Literacy).
 
 ([Pub. L. 89–10, title I, § 1207][/us/pl/89/10/s1207], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1549][/us/stat/115/1549]; amended [Pub. L. 110–154, § 1(c)(3)][/us/pl/110/154/s1/c/3], Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828].)
 
@@ -49,7 +49,9 @@
 
     The Individuals with Disabilities Education Act, referred to in subsec. (b)(1), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title][/us/usc/t20/s1400] and Tables.
 
-    The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Adult Education and Family Literacy Act, referred to in subsec. (b)(1), is title II of [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
+
+    [Section 9252 of this title][/us/usc/t20/s9252], referred to in subsec. (d), was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015.
 
  __Prior Provisions__ 
 
@@ -69,10 +71,9 @@
 [/us/usc/t20/s6362/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6362%2Fb%2F1%2FD
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
 [/us/usc/t25/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2021
 [/us/usc/t20/s6362/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6362%2Fb%2F1%2FD
-[/us/usc/t20/s9252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9252%2Fb
 [/us/pl/89/10/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1207
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
 [/us/stat/115/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1549
@@ -84,9 +85,12 @@
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/usc/t20/s9252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9252
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/89/10/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1207
 [/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
 [/us/stat/108/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3582

@@ -139,7 +139,7 @@
 
         (15) to provide career and technical education programs for adults and school dropouts to complete the secondary school education, or upgrade the technical skills, of the adults and school dropouts;
 
-        (16) to provide assistance to individuals who have participated in services and activities under this chapter in continuing their education or training or finding an appropriate job, such as through referral to the system established under [section 2841 of title 29][/us/usc/t29/s2841];
+        (16) to provide assistance to individuals who have participated in services and activities under this chapter in continuing their education or training or finding an appropriate job, such as through referral to the system established under [section 3151 of title 29][/us/usc/t29/s3151];
 
         (17) to support training and activities (such as mentoring and outreach) in non-traditional fields;
 
@@ -171,10 +171,6 @@
 
 ([Pub. L. 88–210, title I, § 135][/us/pl/88/210/s135], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 734][/us/stat/120/734]; amended [Pub. L. 113–128, title V, § 512(e)(6)][/us/pl/113/128/s512/e/6], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
 
- __Amendment of Subsection (c)(16)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(6), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(16) of this section is amended by striking “such as through referral to the system established under [section 2841 of title 29][/us/usc/t29/s2841]” and inserting “such as through referral to the system established under [section 3151 of title 29][/us/usc/t29/s3151]”. See 2014 Amendment note below.
-
  __Prior Provisions__ 
 
     A prior section 2355, [Pub. L. 88–210, title I, § 135][/us/pl/88/210/s135], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3115][/us/stat/112/3115], related to local uses of funds, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
@@ -193,7 +189,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -207,17 +203,13 @@
 [/us/usc/t20/s2342/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2342%2Fc%2F1%2FA
 [/us/usc/t20/s2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2342
 [/us/usc/t20/s2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2328
-[/us/usc/t29/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841
+[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/usc/t20/s2342/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2342%2Fc%2F1%2FA
 [/us/pl/88/210/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs135
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F734
 [/us/pl/113/128/s512/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F6
 [/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841
-[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/pl/88/210/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs135
 [/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
 [/us/stat/112/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3115

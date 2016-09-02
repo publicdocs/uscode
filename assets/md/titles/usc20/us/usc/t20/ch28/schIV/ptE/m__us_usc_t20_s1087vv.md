@@ -49,7 +49,7 @@
 
             (H) payments to individual retirement accounts and Keogh accounts excluded from income for Federal income tax purposes; and
 
-            (I) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.).
+            (I) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\].
 
         (2)
 
@@ -263,15 +263,11 @@
 
 ([Pub. L. 89–329, title IV, § 480][/us/pl/89/329/s480], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472]; amended [Pub. L. 100–50, § 14(28)][/us/pl/100/50/s14/28], June 3, 1987, [101 Stat. 353][/us/stat/101/353]; [Pub. L. 100–369, § 7(b)][/us/pl/100/369/s7/b], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 101–610, title I, § 185(3)][/us/pl/101/610/s185/3], (4), Nov. 16, 1990, [104 Stat. 3168][/us/stat/104/3168]; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 606][/us/stat/106/606]; [Pub. L. 103–82, title I, § 102(c)(4)][/us/pl/103/82/s102/c/4], (5), Sept. 21, 1993, [107 Stat. 824][/us/stat/107/824]; [Pub. L. 103–208, § 2(g)(17)][/us/pl/103/208/s2/g/17]–(20), Dec. 20, 1993, [107 Stat. 2474][/us/stat/107/2474]; [Pub. L. 104–193, title I, § 110(h)(2)][/us/pl/104/193/s110/h/2], Aug. 22, 1996, [110 Stat. 2172][/us/stat/110/2172]; [Pub. L. 105–78, title VI, § 609(j)][/us/pl/105/78/s609/j], (k), Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524]; [Pub. L. 105–244, title IV, § 479][/us/pl/105/244/s479], Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 109–171, title VIII, § 8019][/us/pl/109/171/s8019], Feb. 8, 2006, [120 Stat. 176][/us/stat/120/176]; [Pub. L. 110–84, title VI, § 604(a)][/us/pl/110/84/s604/a], Sept. 27, 2007, [121 Stat. 806][/us/stat/121/806]; [Pub. L. 110–153, § 1(a)][/us/pl/110/153/s1/a], Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824]; [Pub. L. 110–315, title IV, § 473(a)][/us/pl/110/315/s473/a]–(e), Aug. 14, 2008, [122 Stat. 3270][/us/stat/122/3270], 3271; [Pub. L. 111–39, title IV, § 406(a)(6)][/us/pl/111/39/s406/a/6]–(8), July 1, 2009, [123 Stat. 1949][/us/stat/123/1949], 1950; [Pub. L. 113–128, title V, § 512(n)(4)][/us/pl/113/128/s512/n/4], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
 
- __Amendment of Subsection (b)(1)(I)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(4), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(1)(I) of this section is amended by striking “benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(3), and (j)(1), is [Pub. L. 101–610][/us/pl/101/610], Nov. 16, 1990, [104 Stat. 3127][/us/stat/104/3127], which is classified principally to chapter 129 (§ 12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§ 12511 et seq.) of chapter 129 of Title 42 and amended this section and [section 1070a–6 of this title][/us/usc/t20/s1070a–6]. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42][/us/usc/t42/s12501] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(I), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(I), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Parts A and E of title IV of the Act are classified generally to parts A (§ 601 et seq.) and E (§ 670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -401,7 +397,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -474,7 +470,7 @@
 [/us/usc/t42/s12511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12511
 [/us/usc/t26/s25A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25A
 [/us/usc/t37/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403%2Fb
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t10/s2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2141
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
@@ -526,16 +522,13 @@
 [/us/stat/123/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1949
 [/us/pl/113/128/s512/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F4
 [/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t20/s1070a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%936
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305

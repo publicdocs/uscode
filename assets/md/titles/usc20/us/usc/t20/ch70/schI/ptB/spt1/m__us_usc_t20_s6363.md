@@ -63,7 +63,7 @@
 
             (F) How the State educational agency will, to the extent practicable, make grants to eligible local educational agencies in both rural and urban areas.
 
-            (G) How the State educational agency will build on, and promote coordination among literacy programs in the State (including federally funded programs such as programs under the Adult Education and Family Literacy Act \[[20 U.S.C. 9201][/us/usc/t20/s9201] et seq.\], the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\], and subpart 2 of this part), to increase the effectiveness of the programs in improving reading for adults and children and to avoid duplication of the efforts of the program.
+            (G) How the State educational agency will build on, and promote coordination among literacy programs in the State (including federally funded programs such as programs under the Adult Education and Family Literacy Act \[[29 U.S.C. 3271][/us/usc/t29/s3271] et seq.\], the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\], and subpart 2 of this part), to increase the effectiveness of the programs in improving reading for adults and children and to avoid duplication of the efforts of the program.
 
             (H) How the State educational agency will assess and evaluate, on a regular basis, eligible local educational agency activities assisted under [section 6362 of this title][/us/usc/t20/s6362], with respect to whether the activities have been effective in achieving the purposes of [section 6362 of this title][/us/usc/t20/s6362].
 
@@ -79,15 +79,13 @@
 
             (A) __In general__ 
 
-            The Secretary, in consultation with the National Institute for Literacy, shall convene a panel to evaluate applications under this section. At a minimum, the panel shall include—
+            The Secretary shall convene a panel to evaluate applications under this section. At a minimum, the panel shall include—
 
                 (i) three individuals selected by the Secretary;
 
-                (ii) three individuals selected by the National Institute for Literacy;
+                (ii) three individuals selected by the National Research Council of the National Academy of Sciences; and
 
-                (iii) three individuals selected by the National Research Council of the National Academy of Sciences; and
-
-                (iv) three individuals selected by the Eunice Kennedy Shriver National Institute of Child Health and Human Development.
+                (iii) three individuals selected by the Eunice Kennedy Shriver National Institute of Child Health and Human Development.
 
             (B) __Experts__ 
 
@@ -155,23 +153,11 @@
 
 ([Pub. L. 89–10, title I, § 1203][/us/pl/89/10/s1203], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1543][/us/stat/115/1543]; amended [Pub. L. 110–154, § 1(c)(3)][/us/pl/110/154/s1/c/3], Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828]; [Pub. L. 113–128, title V, § 512(i)(1)][/us/pl/113/128/s512/i/1], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
 
- __Amendment of Subsection (c)(2)(A)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(i)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(2)(A) of this section is amended:
-
-    (1) by striking “, in consultation with the National Institute for Literacy,”; and
-
-    (2) by striking clause (ii); and
-
-    (3) by redesignating clauses (iii) and (iv) as clauses (ii) and (iii), respectively.
-
-    See 2014 Amendment note below.
-
  __References in Text__ 
 
     Part C of title II (as such part was in effect on the day before January 8, 2002), referred to in subsecs. (a)(2), (b)(2), and (d)(4), means part C of title II of [Pub. L. 89–10][/us/pl/89/10], as added by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 101(a)(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–391, as amended, which was classified generally to part C (§ 6661 et seq.) of subchapter II of this chapter prior to the general amendment of subchapter II by [Pub. L. 107–110, title II, § 201][/us/pl/107/110/s201], Jan. 8, 2002, [115 Stat. 1620][/us/stat/115/1620].
 
-    The Adult Education and Family Literacy Act, referred to in subsec. (b)(4)(G), is title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], as amended, which is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+    The Adult Education and Family Literacy Act, referred to in subsec. (b)(4)(G), is title II of [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(G), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title][/us/usc/t20/s1400] and Tables.
 
@@ -183,13 +169,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2)(A). [Pub. L. 113–128][/us/pl/113/128] struck out “, in consultation with the National Institute for Literacy,” after “The Secretary” in introductory provisions, redesignated subcls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “three individuals selected by the National Institute for Literacy;”.
+    2014—Subsec. (c)(2)(A). [Pub. L. 113–128][/us/pl/113/128] struck out “, in consultation with the National Institute for Literacy,” after “The Secretary” in introductory provisions, redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “three individuals selected by the National Institute for Literacy;”.
 
     2007—Subsec. (c)(2)(A)(iv). [Pub. L. 110–154][/us/pl/110/154] substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -206,7 +192,7 @@
 [/us/usc/t20/s6362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6362
 [/us/usc/t20/s6362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6362
 [/us/usc/t20/s6362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6362
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s6362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6362
 [/us/usc/t20/s6362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6362
@@ -218,16 +204,14 @@
 [/us/stat/121/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1828
 [/us/pl/113/128/s512/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F1
 [/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/107/110/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs201
 [/us/stat/115/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1620
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400

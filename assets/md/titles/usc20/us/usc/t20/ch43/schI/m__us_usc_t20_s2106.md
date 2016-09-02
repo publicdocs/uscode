@@ -41,10 +41,6 @@
 
 ([Pub. L. 94–201, § 7][/us/pl/94/201/s7], Jan. 2, 1976, [89 Stat. 1133][/us/stat/89/1133]; [Pub. L. 105–275, § 312(b)(2)][/us/pl/105/275/s312/b/2], Oct. 21, 1998, [112 Stat. 2459][/us/stat/112/2459].)
 
- __References in Text__ 
-
-    For Federal property disposal statutes, referred to in subsec. (a)(2), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
-
  __Codification__ 
 
     In subsec. (a)(7), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.

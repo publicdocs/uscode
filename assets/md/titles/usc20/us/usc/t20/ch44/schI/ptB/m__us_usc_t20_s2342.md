@@ -57,7 +57,7 @@
 
                 (vii) the State tech prep coordinator and representatives of tech prep consortia (if applicable);
 
-                (viii) entities participating in activities described in [section 2821 of title 29][/us/usc/t29/s2821];
+                (viii) entities participating in activities described in [section 3111 of title 29][/us/usc/t29/s3111];
 
                 (ix) interested community members (including parent and community organizations);
 
@@ -223,7 +223,7 @@
 
         (19) describes how funds will be used to serve individuals in State correctional institutions; and
 
-        (20) contains the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts.
+        (20) contains the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts.
 
     (d) __Plan options__ 
 
@@ -231,9 +231,9 @@
 
             An eligible agency not choosing to consolidate funds under [section 2372 of this title][/us/usc/t20/s2372] shall fulfill the plan or application submission requirements of this section, and [section 2371(c) of this title][/us/usc/t20/s2371/c], by submitting a single State plan. In such plan, the eligible agency may allow recipients to fulfill the plan or application submission requirements of [section 2354 of this title][/us/usc/t20/s2354] and subsections (a) and (b) of [section 2374 of this title][/us/usc/t20/s2374] by submitting a single local plan.
 
-        (2) __Plan submitted as part of 501 plan__ 
+        (2) __Plan submitted as part of combined plan__ 
 
-            The eligible agency may submit the plan required under this section as part of the plan submitted under [section 501 of Public Law 105–220][/us/pl/105/220/s501] \[[20 U.S.C. 9271][/us/usc/t20/s9271]\], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
+            The eligible agency may submit the plan required under this section as part of the plan submitted under [section 3113 of title 29][/us/usc/t29/s3113], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
 
     (e) __Plan approval__ 
 
@@ -259,22 +259,6 @@
 
 ([Pub. L. 88–210, title I, § 122][/us/pl/88/210/s122], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 715][/us/stat/120/715]; amended [Pub. L. 113–128, title V, § 512(e)(3)][/us/pl/113/128/s512/e/3], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
 
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended:
-
-    (1) in subsection (b)(1)(A)(viii), by striking “entities participating in activities described in [section 2821 of title 29][/us/usc/t29/s2821]” and inserting “entities participating in activities described in [section 3111 of title 29][/us/usc/t29/s3111]”;
-
-    (2) in subsection (c)(20), by striking “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts” and inserting “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts”; and
-
-    (3) in subsection (d)(2):
-
-    (A) in the paragraph heading, by striking “501 plan” and inserting “combined plan”; and
-
-    (B) in the text, by striking “as part of the plan submitted under [section 501 of Public Law 105–220][/us/pl/105/220/s501]” and inserting “as part of the plan submitted under [section 3113 of title 29][/us/usc/t29/s3113]”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(G), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Title II of the Act is classified generally to subchapter II (§ 6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
@@ -299,7 +283,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -309,7 +293,7 @@
 ----------
 
 [/us/usc/t20/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2303
-[/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
 [/us/usc/t20/s2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2328
 [/us/usc/t20/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6601
@@ -323,20 +307,13 @@
 [/us/usc/t20/s2371/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2371%2Fc
 [/us/usc/t20/s2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2354
 [/us/usc/t20/s2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2374
-[/us/pl/105/220/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs501
-[/us/usc/t20/s9271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9271
+[/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
 [/us/usc/t20/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2323
 [/us/pl/88/210/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs122
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F715
 [/us/pl/113/128/s512/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3
 [/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
-[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
-[/us/pl/105/220/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs501
-[/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

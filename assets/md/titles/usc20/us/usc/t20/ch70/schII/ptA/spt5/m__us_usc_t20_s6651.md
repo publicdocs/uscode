@@ -93,7 +93,7 @@
 
                     (II) another public or private entity that provides such professional development;
 
-                (ii) one or more public agencies (  <sup>\[1\]</sup>  <sup><sup> 1 So in original. There is no closing parenthesis. </sup></sup>  including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 \[[42 U.S.C. 9857][/us/usc/t42/s9857] et seq.\], Head Start agencies, or private organizations; and
+                (ii) one or more public agencies (  <sup>\[1\]</sup>  <sup><sup> 1 So in original. There is no closing parenthesis. </sup></sup>  including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858]  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  et seq.), Head Start agencies, or private organizations; and
 
                 (iii) to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
 
@@ -345,7 +345,7 @@
 ----------
 
 [/us/usc/t20/s6603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6603%2Fb
-[/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857
+[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/pl/89/10/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2151
 [/us/pl/107/110/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs201

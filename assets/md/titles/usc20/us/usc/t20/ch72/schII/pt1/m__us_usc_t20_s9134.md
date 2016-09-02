@@ -61,9 +61,9 @@
 
              workforce development, including coordination with—
 
-                (i) the activities carried out by the State workforce investment board under [section 2821(d) of title 29][/us/usc/t29/s2821/d]; and
+                (i) the activities carried out by the State workforce development board under [section 3111 of title 29][/us/usc/t29/s3111]; and
 
-                (ii) the State’s one-stop delivery system established under [section 2864(c) of title 29][/us/usc/t29/s2864/c]; and
+                (ii) the State’s one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]; and
 
             (D) other Federal programs and activities that relate to library services, including economic and community development and health information;
 
@@ -227,16 +227,6 @@
 
 ([Pub. L. 94–462, title II, § 224][/us/pl/94/462/s224], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–300; amended [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1712(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–340; [Pub. L. 108–81, title II, § 205][/us/pl/108/81/s205], title V, § 504(f), Sept. 25, 2003, [117 Stat. 999][/us/stat/117/999], 1004; [Pub. L. 111–340, title II, § 204][/us/pl/111/340/s204], Dec. 22, 2010, [124 Stat. 3600][/us/stat/124/3600]; [Pub. L. 113–128, title V, § 512(t)(2)][/us/pl/113/128/s512/t/2], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
 
- __Amendment of Subsection (b)(6)(C)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(t)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(6)(C) of this section is amended as follows:
-
-    (1) in clause (i), by striking “the activities carried out by the State workforce investment board under [section 2821(d) of title 29][/us/usc/t29/s2821/d]” and inserting “the activities carried out by the State workforce development board under [section 3111 of title 29][/us/usc/t29/s3111]”; and
-
-    (2) in clause (ii), by striking “the State’s one-stop delivery system established under [section 2864(c) of title 29][/us/usc/t29/s2864/c]” and inserting “the State’s one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
     For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see § 1(a)(4) \[div. B, title XVII, § 1712(b)\] of [Pub. L. 106–554][/us/pl/106/554], set out as an Effective Date of 2000 Amendment note below.
@@ -271,7 +261,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -302,8 +292,8 @@
 [/us/usc/t20/s6383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6383
 [/us/usc/t42/s9837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9837
 [/us/usc/t42/s9837b/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9837b%2Fa%2F4%2FB%2Fi
-[/us/usc/t29/s2821/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821%2Fd
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t47/s254/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254%2Fh%2F6
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256
 [/us/usc/t18/s1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1460
@@ -319,12 +309,6 @@
 [/us/stat/124/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3600
 [/us/pl/113/128/s512/t/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ft%2F2
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2821/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821%2Fd
-[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/90/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247
 [/us/stat/81/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F814

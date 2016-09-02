@@ -69,7 +69,7 @@
 
             (A) one or more local educational agencies serving a rural area; and
 
-            (B) one or more regional employers or local boards (as such term is defined in [section 2801 of title 29][/us/usc/t29/s2801]) serving a rural area.
+            (B) one or more regional employers or local boards (as such term is defined in [section 3102 of title 29][/us/usc/t29/s3102]) serving a rural area.
 
         (2) __Optional partners__ 
 
@@ -145,17 +145,13 @@
 
 ([Pub. L. 89–329, title VIII, § 861][/us/pl/89/329/s861], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3423][/us/stat/122/3423]; amended [Pub. L. 113–128, title V, § 512(n)(6)][/us/pl/113/128/s512/n/6], July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
 
- __Amendment of Subection (c)(1)(B)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(6), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(1)(B) of this section is amended by striking “local boards (as such term is defined in [section 2801 of title 29][/us/usc/t29/s2801])” and inserting “local boards (as such term is defined in [section 3102 of title 29][/us/usc/t29/s3102])”. See 2014 Amendment note below.
-
  __Amendments__ 
 
-    2014—Subsec. (c)(1)(B). [Pub. L. 113–128][/us/pl/113/128] substituted “local boards (as such term is defined in [section 3102 of title 29][/us/usc/t29/s3102])” for “local boards (as such term is defined in [section 2801 of title 29][/us/usc/t29/s2801]”.
+    2014—Subsec. (c)(1)(B). [Pub. L. 113–128][/us/pl/113/128] substituted “local boards (as such term is defined in [section 3102 of title 29][/us/usc/t29/s3102])” for “local boards (as such term is defined in [section 2801 of title 29][/us/usc/t29/s2801])”.
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -165,17 +161,13 @@
 ----------
 
 [/us/usc/t20/s1087vv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087vv
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/89/329/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs861
 [/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
 [/us/stat/122/3423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3423
 [/us/pl/113/128/s512/n/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F6
 [/us/stat/128/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1711
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
